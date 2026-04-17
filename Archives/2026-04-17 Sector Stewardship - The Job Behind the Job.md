@@ -1,10 +1,13 @@
 ---
-type: "Web"
-authors: "[[Bryan Neider]]"
-url: "https://www.linkedin.com/pulse/sector-stewardship-job-behind-bryan-neider-kkvwc/"
-published: 2026-04-17
-created: 2026-04-17
+type: Web
+authors: '[[Bryan Neider]]'
+url: >-
+  https://www.linkedin.com/pulse/sector-stewardship-job-behind-bryan-neider-kkvwc/
+published: 2026-04-17T00:00:00.000Z
+created: 2026-04-17T00:00:00.000Z
 tags:
+  - strategia-organizacji
+  - organizacje-społeczne
 ---
 
 

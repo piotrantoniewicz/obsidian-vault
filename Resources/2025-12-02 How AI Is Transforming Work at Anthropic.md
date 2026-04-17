@@ -2,7 +2,7 @@
 categories: Clippings
 authors: "[[Anthropic]]"
 url: https://www.anthropic.com/research/how-ai-is-transforming-work-at-anthropic
-source: "[[2026-03-04 How AI Is Transforming Work at Anthropic]]"
+source: "[[Archives/2025-12-02 How AI Is Transforming Work at Anthropic|2025-12-02 How AI Is Transforming Work at Anthropic]]"
 published: 2025-12-02
 created: 2026-03-04
 relevance: wysoka

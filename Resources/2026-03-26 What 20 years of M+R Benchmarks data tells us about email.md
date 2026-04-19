@@ -1,38 +1,37 @@
 ---
-categories: Clippings
-authors: ["[[Sara Cederberg]]"]
-url: https://www.civicshoutnewsletter.com/p/what-20-years-of-m-r-benchmarks-data-tells-us-about-email?utm_source=www.civicshoutnewsletter.com&utm_medium=newsletter&utm_campaign=are-your-emails-helping-or-hurting
-source: "[[Archives/2026-03-26 What 20 years of M+R Benchmarks data tells us about email|2026-03-26 What 20 years of M+R Benchmarks data tells us about email]]"
-published: 2026-03-26
-created: 2026-04-11
+categories:
+  - Emails
+published: '2026-03-26'
+created: '2026-04-18'
+labels:
+  - Civic Shout
 relevance: wysoka
 tags:
-  - "fundraising"
-  - "digital-campaigning"
-  - "content-marketing"
+  - fundraising
+  - digital-campaigning
+  - organizacje-społeczne
 ---
-
 # What 20 years of M+R Benchmarks data tells us about email
 
-Przez 20 lat raport [[M+R Benchmarks]] dokumentował ewolucję emaila w cyfrowym fundraisingu organizacji non-profit — i obraz, który wyłania się z perspektywy dwóch dekad, jest zaskakujący. Email przestał być głównym kanałem przychodów (spadek z 35% do 11% udziału w przychodach online), ale stał się „spoiwem" całego ekosystemu digitalowego: reklamy budują listę, emaile budują relację, strona donacyjna zamyka darowiznę. Jednocześnie giving miesięczny wzrósł z jednej dziesiątej do niemal jednej trzeciej przychodów online — a programy recurringu zależą właśnie od emaila jako narzędzia konwersji jednorazowych darczyńców. Open rates przestały być wiarygodną metryką od 2021 roku, gdy [[Apple]] wprowadził Mail Privacy Protection, zawyżając je przez maszynowe otwarcia.
+[[M+R]] opublikowało 20. edycję swojego badania Benchmarks, które śledzi trendy cyfrowe w sektorze nonprofitów — i obraz, który się wyłania, zmienia sposób myślenia o emailu jako kanale. Udział przychodów z emaila spadł z 35% wszystkich online donations w 2021 roku do zaledwie 11% w 2025 roku, mimo że organizacje wysłały o 9% więcej maili. Email przestał być głównym kanałem przychodowym, stając się „tkanką łączną" ekosystemu fundraisingowego — buduje relację, którą inne kanały monetyzują. Jednocześnie miesięczne darowizny urosły z około 10% do prawie 1/3 przychodów online, co jest bezpośrednim efektem skutecznych programów emailowych.
 
 ## Kluczowe dane
 
-- Udział emaila w przychodach online: 35% (2021) → 11% (2025)
-- Dochód z emaila spadł o 11% mimo wysłania o 9% więcej wiadomości w 2024
-- Giving miesięczny: wzrost z ~10% do niemal 33% przychodów online na przestrzeni dekady
-- Online giving w 2025 wzrósł dwucyfrowo; część sektorów o ponad 30%
+- Udział emaila w przychodach online: **35% (2021) → 11% (2025)**
+- Wysyłki emailowe w 2024 wzrosły o **9%**, ale przychody z emaila spadły o **11%**
+- Miesięczne darowizny urosły z **~10% do ~1/3** wszystkich przychodów online w ciągu dekady
+- Wzrost online giving od 2024 do 2025: **dwucyfrowy**, niektóre sektory powyżej **30%**
 
 ## Wnioski
 
-- Email to dziś „tkanka łączna" między kanałami, nie samodzielne źródło przychodów — zmienia to sposób, w jaki organizacje NGO powinny mierzyć jego skuteczność i go budżetować
-- Open rates są zawyżone przez maszynowe otwarcia od czasu Apple Mail Privacy Protection — raportowanie ich zarządom jako głównej metryki zdrowia emaila wymaga pilnej korekty
-- Wzrost givingu miesięcznego to w istocie historia o emailu: programy recurring opierają się na emailu jako narzędziu konwersji jednorazowych darczyńców w stałych
+- Email nie jest „kanałem przychodowym" — jest kanałem relacyjnym, który umożliwia konwersję w innych punktach styku; NGO powinny raportować jego wartość inaczej niż przez direct revenue, bo dotychczasowe metryki zaniżają jego strategiczną rolę w [[fundraising]]u
+- Open rates po wprowadzeniu Apple Mail Privacy Protection w 2021 roku są zawyżone przez maszynowe otwarcia — organizacje wciąż raportujące je jako główny wskaźnik zdrowia programu emailowego (np. zarządom) powinny jak najszybciej przejść na kliknięcia, konwersje i retencję jako KPI
+- Wzrost recurring giving do 1/3 przychodów to historia o emailu — programy [[digital-campaigning]] i fundraisingowe, które pielęgnują relację one-time donorów przez sekwencje emailowe, są kluczem do budowania stabilnych podstaw finansowych NGO
 
 ## Cytat
 
-> „Email to miejsce, w którym żyją relacje z darczyńcami. Liczby potrzebowały 20 lat, żeby to pokazać."
+> Email przestał być głównym kanałem przychodów — stał się tkanką łączną, na której opiera się cały ekosystem fundraisingowy.
 
 ## Zastosowanie
 
-Dla Piotra prowadzącego kurs „Fundraising z AI" dla NGO te dane są bezpośrednim argumentem do przeprojektowania podejścia do email marketingu — od myślenia o emailu jako kanale przychodowym do myślenia o nim jako narzędziu relacji i konwersji recurringu. Warto wykorzystać informacje o declining open rates przy projektowaniu alternatywnych metryk kampanii emailowych dla klientów NGO.
+Dane z [[M+R]] Benchmarks są bezpośrednio użyteczne w kursie mailowym Piotra „Fundraising z AI" — szczególnie jako argument za zmianą mindset organizacji z „email = przychód" na „email = relacja". Warto użyć tych danych do przekonania NGO-ów sceptycznych wobec inwestowania w programy emailowe — argument o roli connective tissue jest prostym framingiem dla zarządów. Zmiana metryk raportowania (rezygnacja z open rates na rzecz retencji i konwersji) to gotowy moduł szkoleniowy lub rekomendacja konsultingowa.

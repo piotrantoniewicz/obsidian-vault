@@ -2,25 +2,15 @@
 type: Web
 authors: '[[Sara Cederberg]]'
 url: >-
-  https://www.civicshoutnewsletter.com/p/the-case-for-paying-more-attention-to-your-sustainers?utm_source=www.civicshoutnewsletter.com&utm_medium=newsletter&utm_campaign=national-park-foundation-s-1m-sweepstakes-retention-lesson&_bhlid=86a628318b1448dceaff050d770cfe413e589802
+  https://www.civicshoutnewsletter.com/p/the-case-for-paying-more-attention-to-your-sustainers?utm_source=www.civicshoutnewsletter.com&utm_medium=newsletter&utm_campaign=national-park-foundation-s-1m-sweepstakes-retention-lesson&_bhlid=86a628318b1448dceaff050d770cfe413e589802&jwt_token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWJzY3JpYmVyX2lkIjoiMjEzOTgyMjgtYzdjNC00OGRkLTk3OTctZDZkYzMxMmFlMDEwIiwicHVibGljYXRpb25faWQiOiIyOThlOTZjNy1mZGRhLTQyNjQtYjEzYy01ODRjZDY2OWIyYWIiLCJhY2Nlc3NfdHlwZSI6InJlYWQtb25seSIsImV4cCI6MTc3NDExMjQzOSwiaXNzIjoiaHR0cHM6Ly9hcHAuYmVlaGlpdi5jb20iLCJpYXQiOjE3NzM5Mzk2Mzl9.3A-g4YvSD74aNSXQoooYgrOKK_VQNRRz6KAQ1PlIrpI
 published: 2025-08-12T00:00:00.000Z
-created: 2026-03-24T00:00:00.000Z
+created: 2026-04-18T00:00:00.000Z
 tags:
   - fundraising
   - digital-campaigning
   - organizacje-społeczne
 ---
 
-
-![Sara Cederberg](https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,quality=80,format=auto,onerror=redirect/uploads/user/profile_picture/91c0d2d4-b13a-44e0-a79d-e3ed214a6876/1516922432252.jpg)
-
-[Sara Cederberg](https://www.civicshoutnewsletter.com/authors/sara-cederberg)
-
-Aug 12, 2025
-
-•
-
-5 min read
 
 Monthly donors are hailed as the backbone of nonprofit fundraising.
 

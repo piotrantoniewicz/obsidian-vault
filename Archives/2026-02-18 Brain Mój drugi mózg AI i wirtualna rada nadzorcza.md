@@ -1,10 +1,14 @@
 ---
-type: "Web"
-authors: "[[Tomasz Woliński]]"
-url: "https://stormit.pl/brain?utm_source=newsletter&utm_medium=email&utm_campaign=weekly-16&utm_content=co-u-mnie-brain&ct=YTo1OntzOjY6InNvdXJjZSI7YToyOntpOjA7czo1OiJlbWFpbCI7aToxO2k6MTE4O31zOjU6ImVtYWlsIjtpOjExODtzOjQ6InN0YXQiO3M6MjI6IjY5ZTM0ZjYxYTBiMjc3OTU5ODQ1NTkiO3M6NDoibGVhZCI7czozOiI5MDUiO3M6NzoiY2hhbm5lbCI7YToxOntzOjU6ImVtYWlsIjtpOjExODt9fQ%3D%3D"
-published: 2026-02-18
-created: 2026-04-19
+type: Web
+authors: '[[Tomasz Woliński]]'
+url: >-
+  https://stormit.pl/brain?utm_source=newsletter&utm_medium=email&utm_campaign=weekly-16&utm_content=co-u-mnie-brain&ct=YTo1OntzOjY6InNvdXJjZSI7YToyOntpOjA7czo1OiJlbWFpbCI7aToxO2k6MTE4O31zOjU6ImVtYWlsIjtpOjExODtzOjQ6InN0YXQiO3M6MjI6IjY5ZTM0ZjYxYTBiMjc3OTU5ODQ1NTkiO3M6NDoibGVhZCI7czozOiI5MDUiO3M6NzoiY2hhbm5lbCI7YToxOntzOjU6ImVtYWlsIjtpOjExODt9fQ%3D%3D
+published: 2026-02-18T00:00:00.000Z
+created: 2026-04-19T00:00:00.000Z
 tags:
+  - narzędzia-AI
+  - strategia-AI
+  - automatyzacja
 ---
 
 

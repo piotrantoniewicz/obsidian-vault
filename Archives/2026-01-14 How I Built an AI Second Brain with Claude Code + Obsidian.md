@@ -1,10 +1,13 @@
 ---
-type: "Web"
-authors: "[[WenHao Yu]]"
-url: "https://yu-wenhao.com/en/blog/ai-second-brain/"
-published: 2026-01-14
-created: 2026-04-19
+type: Web
+authors: '[[WenHao Yu]]'
+url: 'https://yu-wenhao.com/en/blog/ai-second-brain/'
+published: 2026-01-14T00:00:00.000Z
+created: 2026-04-19T00:00:00.000Z
 tags:
+  - automatyzacja
+  - strategia-AI
+  - narzędzia-AI
 ---
 
 

@@ -1,10 +1,14 @@
 ---
-type: "Web"
-authors: "[[Heather Mansfield]]"
-url: "https://www.nptechforgood.com/101-best-practices/10-digital-content-marketing-best-practices-for-nonprofits/"
-published: 2023-05-31
-created: 2026-04-18
+type: Web
+authors: '[[Heather Mansfield]]'
+url: >-
+  https://www.nptechforgood.com/101-best-practices/10-digital-content-marketing-best-practices-for-nonprofits/
+published: 2023-05-31T00:00:00.000Z
+created: 2026-04-18T00:00:00.000Z
 tags:
+  - content-marketing
+  - organizacje-społeczne
+  - fundraising
 ---
 
 

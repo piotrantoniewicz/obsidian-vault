@@ -1,10 +1,14 @@
 ---
-type: "Web"
-authors: "[[Lauren Meyer]]"
-url: "https://send-it-right.com/blog/inbox-placement-rates-explained?utm_source=www.civicshoutnewsletter.com&utm_medium=newsletter&utm_campaign=what-20-years-of-m-r-benchmarks-data-tells-us-about-email&_bhlid=73687cb7090b3966fdf92fd40a3de44fb495f873"
-published: 2026-03-14
-created: 2026-04-18
+type: Web
+authors: '[[Lauren Meyer]]'
+url: >-
+  https://send-it-right.com/blog/inbox-placement-rates-explained?utm_source=www.civicshoutnewsletter.com&utm_medium=newsletter&utm_campaign=what-20-years-of-m-r-benchmarks-data-tells-us-about-email&_bhlid=73687cb7090b3966fdf92fd40a3de44fb495f873
+published: 2026-03-14T00:00:00.000Z
+created: 2026-04-18T00:00:00.000Z
 tags:
+  - digital-campaigning
+  - fundraising
+  - content-marketing
 ---
 
 

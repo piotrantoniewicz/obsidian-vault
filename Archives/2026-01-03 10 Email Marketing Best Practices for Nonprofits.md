@@ -1,10 +1,14 @@
 ---
-type: "Web"
-authors: "[[Heather Mansfield]]"
-url: "https://www.nptechforgood.com/101-best-practices/10-email-marketing-best-practices-for-nonprofits/?utm_source=www.civicshoutnewsletter.com&utm_medium=newsletter&utm_campaign=the-deliverability-signal-you-might-be-ignoring&_bhlid=d61a3aec9ff87d49d0c5f67c414197ddc820c5c6"
-published: 2026-01-03
-created: 2026-04-18
+type: Web
+authors: '[[Heather Mansfield]]'
+url: >-
+  https://www.nptechforgood.com/101-best-practices/10-email-marketing-best-practices-for-nonprofits/?utm_source=www.civicshoutnewsletter.com&utm_medium=newsletter&utm_campaign=the-deliverability-signal-you-might-be-ignoring&_bhlid=d61a3aec9ff87d49d0c5f67c414197ddc820c5c6
+published: 2026-01-03T00:00:00.000Z
+created: 2026-04-18T00:00:00.000Z
 tags:
+  - fundraising
+  - digital-campaigning
+  - content-marketing
 ---
 
 

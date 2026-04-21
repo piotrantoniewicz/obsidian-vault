@@ -1,10 +1,14 @@
 ---
-type: "Web"
-authors: "[[Jagoda]]"
-url: "https://fanimani.pl/blog/raporty-vs-rzeczywistosc-podsumowanie-webinaru-z-pomagam-pl/?utm_campaign=zapisani_webinar_pomagampl_2026_04_20&utm_content=&utm_medium=email&utm_source=getresponse&utm_term=&gr_m=tG&gr_co=liWx&gr_s=l2Oa&gr_x=a62e"
-published: 2026-04-20
-created: 2026-04-20
+type: Web
+authors: '[[Jagoda]]'
+url: >-
+  https://fanimani.pl/blog/raporty-vs-rzeczywistosc-podsumowanie-webinaru-z-pomagam-pl/?utm_campaign=zapisani_webinar_pomagampl_2026_04_20&utm_content=&utm_medium=email&utm_source=getresponse&utm_term=&gr_m=tG&gr_co=liWx&gr_s=l2Oa&gr_x=a62e
+published: 2026-04-20T00:00:00.000Z
+created: 2026-04-20T00:00:00.000Z
 tags:
+  - fundraising
+  - organizacje-społeczne
+  - framing
 ---
 
 

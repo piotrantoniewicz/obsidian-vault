@@ -1,10 +1,11 @@
 ---
-type: "Web"
-authors: "[[Kirsti Lang]]"
-url: "https://buffer.com/resources/best-time-to-post-on-youtube/"
-published: 2026-04-16
-created: 2026-04-20
+type: Web
+authors: '[[Kirsti Lang]]'
+url: 'https://buffer.com/resources/best-time-to-post-on-youtube/'
+published: 2026-04-16T00:00:00.000Z
+created: 2026-04-20T00:00:00.000Z
 tags:
+  - content-marketing
 ---
 
 

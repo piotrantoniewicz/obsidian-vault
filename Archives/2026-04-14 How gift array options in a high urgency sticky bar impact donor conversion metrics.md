@@ -1,10 +1,13 @@
 ---
-type: "Web"
-authors: "[[NextAfter]]"
-url: "https://www.nextafter.com/experiments/how-gift-array-options-in-a-high-urgency-sticky-bar-impact-donor-conversion-metrics-2/?utm_medium=email&_hsenc=p2ANqtz--SNg9F5aYoQG8szkIrgkwuaU_aHw9erN8cVlw5kbmmiDXbcl2ENKn184rMal6d_bqMKG1OP8ob3SL77GIqNtjXzlNAvA&_hsmi=414546716&utm_content=414248406&utm_source=hs_email"
-published: 2026-04-14
-created: 2026-04-20
+type: Web
+authors: '[[NextAfter]]'
+url: >-
+  https://www.nextafter.com/experiments/how-gift-array-options-in-a-high-urgency-sticky-bar-impact-donor-conversion-metrics-2/?utm_medium=email&_hsenc=p2ANqtz--SNg9F5aYoQG8szkIrgkwuaU_aHw9erN8cVlw5kbmmiDXbcl2ENKn184rMal6d_bqMKG1OP8ob3SL77GIqNtjXzlNAvA&_hsmi=414546716&utm_content=414248406&utm_source=hs_email
+published: 2026-04-14T00:00:00.000Z
+created: 2026-04-20T00:00:00.000Z
 tags:
+  - fundraising
+  - organizacje-społeczne
 ---
 
 

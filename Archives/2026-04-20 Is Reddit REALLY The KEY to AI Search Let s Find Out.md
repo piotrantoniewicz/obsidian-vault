@@ -1,10 +1,13 @@
 ---
-type: "Web"
-authors: "[[Matt Diggity]]"
-url: "https://www.youtube.com/watch?v=f03ZfdtkMzk"
-published: 2026-04-20
-created: 2026-04-20
+type: Web
+authors: '[[Matt Diggity]]'
+url: 'https://www.youtube.com/watch?v=f03ZfdtkMzk'
+published: 2026-04-20T00:00:00.000Z
+created: 2026-04-20T00:00:00.000Z
 tags:
+  - digital-campaigning
+  - narzędzia-AI
+  - content-marketing
 ---
 
 

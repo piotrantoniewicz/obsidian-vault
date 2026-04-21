@@ -1,10 +1,13 @@
 ---
-type: "Web"
-authors: "[[Andrew Hutchinson]]"
-url: "https://www.socialmediatoday.com/news/instagram-chief-debunks-popular-engagement-hack/816781/"
-published: 2026-04-06
-created: 2026-04-20
+type: Web
+authors: '[[Andrew Hutchinson]]'
+url: >-
+  https://www.socialmediatoday.com/news/instagram-chief-debunks-popular-engagement-hack/816781/
+published: 2026-04-06T00:00:00.000Z
+created: 2026-04-20T00:00:00.000Z
 tags:
+  - content-marketing
+  - digital-campaigning
 ---
 
 

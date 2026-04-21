@@ -1,10 +1,14 @@
 ---
-type: "Web"
-authors: "[[Dave Martin]]"
-url: "https://blog.charityengine.net/monthly-giving?utm_campaign=30400573-Nonprofit%20Tech%20for%20Good&utm_source=email&utm_medium=Nonprofit%20Tech%20For%20Good%20Monthly%20Giving%20Blog%20Article&utm_term=Nonprofit%20Tech%20For%20Good%20Monthly%20Giving%20Blog%20Article&utm_content=Nonprofit%20Tech%20For%20Good%20Monthly%20Giving%20Blog%20Article"
-published: 2026-04-16
-created: 2026-04-20
+type: Web
+authors: '[[Dave Martin]]'
+url: >-
+  https://blog.charityengine.net/monthly-giving?utm_campaign=30400573-Nonprofit%20Tech%20for%20Good&utm_source=email&utm_medium=Nonprofit%20Tech%20For%20Good%20Monthly%20Giving%20Blog%20Article&utm_term=Nonprofit%20Tech%20For%20Good%20Monthly%20Giving%20Blog%20Article&utm_content=Nonprofit%20Tech%20For%20Good%20Monthly%20Giving%20Blog%20Article
+published: 2026-04-16T00:00:00.000Z
+created: 2026-04-20T00:00:00.000Z
 tags:
+  - fundraising
+  - organizacje-społeczne
+  - strategia-organizacji
 ---
 
 

@@ -1,6 +1,6 @@
 ---
 type: Web
-authors: '[[Ann Goggins Gregory & Don Howard]]'
+authors: '[[Ann Goggins Gregory]] [[Don Howard]]'
 url: 'https://ssir.org/articles/entry/the_nonprofit_starvation_cycle'
 published: 2009-08-19T00:00:00.000Z
 created: 2026-04-17T00:00:00.000Z

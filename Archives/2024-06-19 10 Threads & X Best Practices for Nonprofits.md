@@ -129,7 +129,7 @@ People use X at all hours, so schedule posts for early morning, the evenings, an
 
 Since posts have a very short life span, it’s a good practice to repost your own posts. For example, if you send a post on Monday morning at 8 am, repost that same post the next day at 1 pm. You may discover that reposting your own posts results in higher engagement than posting the same post twice.
 
-#### 4\. Don’t be a #hashtag #spammer. #DontDoIt
+#### 4\. Don’t be a hashtag spammer. DontDoIt
 
 Using more than [two hashtags](https://help.twitter.com/en/using-twitter/how-to-use-hashtags) is not a good growth or engagement strategy on X. Posts overloaded with hashtags look messy, are hard to read, and make your nonprofit look desperate to gain followers. Use hashtags strategically to mention important causes, campaigns, and events, but hashtag spamming to try to increase your reach doesn’t work and has a negative effect on engagement.
 

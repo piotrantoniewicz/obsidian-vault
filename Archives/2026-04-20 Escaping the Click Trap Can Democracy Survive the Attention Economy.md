@@ -1,10 +1,14 @@
 ---
-type: "Web"
-authors: "[[Partisan]]"
-url: "https://hub.partisan.community/m/news/escaping-the-click-trap-can-democracy-survive-the-attention-economy/61a2eb9c-1c78-42b5-9923-81df46b368be"
-published: 2026-04-20
-created: 2026-04-21
+type: Web
+authors: '[[Partisan]]'
+url: >-
+  https://hub.partisan.community/m/news/escaping-the-click-trap-can-democracy-survive-the-attention-economy/61a2eb9c-1c78-42b5-9923-81df46b368be
+published: 2026-04-20T00:00:00.000Z
+created: 2026-04-21T00:00:00.000Z
 tags:
+  - digital-campaigning
+  - framing
+  - organizacje-społeczne
 ---
 
 

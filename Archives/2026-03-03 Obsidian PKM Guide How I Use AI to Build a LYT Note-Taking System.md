@@ -238,5 +238,3 @@ But back to this article’s point: **LYT is a great knowledge foundation.** It 
 ---
 
 *Enjoyed this? [Connect with me on LinkedIn](https://www.linkedin.com/in/hence/) — I’m open to collaboration, consulting, and new opportunities.*
-
-#Obsidian #LYT #PKM #personal knowledge management #note taking methods #knowledge management

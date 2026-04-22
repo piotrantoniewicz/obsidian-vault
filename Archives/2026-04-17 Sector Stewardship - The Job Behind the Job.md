@@ -58,5 +58,3 @@ Sector stewardship costs something. It costs time, attention, and sometimes even
 That crowded room, full of "competitors" fighting for the same cause, wasn't a distraction from my role as a CEO. It *was* my role. We are the keepers of a collective promise to our communities. This quarter, I challenge you to pick one dimension of sector stewardship you’ve treated as optional and move it to the "essential" column. Our missions don't live in a vacuum; they live in the strength of our connections.
 
 Subscribe on LinkedIn [https://www.linkedin.com/build-relation/newsletter-follow?entityUrn=7396000666046881792](https://www.linkedin.com/build-relation/newsletter-follow?entityUrn=7396000666046881792)
-
-#NonprofitLeadership #SocialImpact #Stewardship #SectorHealth #Governance #Philanthropy #AIGovernance #AbilityPath

@@ -56,8 +56,6 @@ Rozdziały:
 12:35 - Komenda /memory  
 12:30 - Szybkie dodawanie reguł (#)  
 14:00 - Podsumowanie  
-  
-#ClaudeCode #AgentAI #Anthropic #ClaudeMD #Automatyzacja #PoradnikAI #SztucznaInteligencja #AIPoPolsku #PracaZAI
 
 ## Transcript
 

@@ -66,4 +66,3 @@ Let’s stop playing Tetris with our calendars and start building the future of 
 
 **Subscribe to TEAMS! on LinkedIn**: [https://www.linkedin.com/build-relation/newsletter-follow?entityUrn=7396000666046881792](https://www.linkedin.com/build-relation/newsletter-follow?entityUrn=7396000666046881792)
 
-**#TEAMS #NonprofitLeadership #FutureOfWork #Engagement #SocialImpact #AI #Governance #AbilityPath**

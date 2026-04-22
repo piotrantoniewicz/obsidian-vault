@@ -173,7 +173,6 @@ I used his method to study his method. It didn’t make me switch systems. But i
 
 *Enjoyed this? [Connect with me on LinkedIn](https://www.linkedin.com/in/hence/) — I’m open to collaboration, consulting, and new opportunities.*
 
-#karpathy #llm #obsidian #knowledge management #zettelkasten #lyt #ai workflow #personal knowledge base
 
 ## FAQ
 

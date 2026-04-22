@@ -326,7 +326,7 @@ And finally, see ourselves.
 
 *Enjoyed this? [Connect with me on LinkedIn](https://www.linkedin.com/in/hence/) — I’m always happy to chat about AI, systems, and building things solo.*
 
-#AI second brain #Claude Code #Obsidian #goal management #AI automation #AI notes #second brain #productivity system #building-in-public
+
 
 Last updated: March 9, 2026
 

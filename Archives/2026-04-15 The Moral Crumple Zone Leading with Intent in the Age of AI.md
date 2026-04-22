@@ -68,4 +68,3 @@ The goal of leadership in this new era is to architect a system in which technol
 
 Subscribe on LinkedIn [https://www.linkedin.com/build-relation/newsletter-follow?entityUrn=7396000666046881792](https://www.linkedin.com/build-relation/newsletter-follow?entityUrn=7396000666046881792)
 
-#NonprofitLeadership #AIforGood #FutureOfWork #Governance #SocialImpact #HumanInTheLoop #EthicalAI #AbilityPath

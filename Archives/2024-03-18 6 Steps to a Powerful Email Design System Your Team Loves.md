@@ -1,10 +1,13 @@
 ---
-type: "Web"
-authors: "[[Kimberly Huang]]"
-url: "https://www.litmus.com/blog/email-design-system"
-published: 2024-03-18
-created: 2026-04-23
+type: Web
+authors: '[[Kimberly Huang]]'
+url: 'https://www.litmus.com/blog/email-design-system'
+published: 2024-03-18T00:00:00.000Z
+created: 2026-04-23T00:00:00.000Z
 tags:
+  - digital-campaigning
+  - automatyzacja
+  - content-marketing
 ---
 
 

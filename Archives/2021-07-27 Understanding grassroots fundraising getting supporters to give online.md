@@ -1,10 +1,14 @@
 ---
-type: "Web"
-authors: "[[Micah Caswell]]"
-url: "https://kindful.com/blog/understanding-grassroots-fundraising-getting-supporters-to-give-online/"
-published: 2021-07-27
-created: 2026-04-23
+type: Web
+authors: '[[Micah Caswell]]'
+url: >-
+  https://kindful.com/blog/understanding-grassroots-fundraising-getting-supporters-to-give-online/
+published: 2021-07-27T00:00:00.000Z
+created: 2026-04-23T00:00:00.000Z
 tags:
+  - fundraising
+  - digital-campaigning
+  - organizacje-społeczne
 ---
 
 

@@ -1,10 +1,14 @@
 ---
-type: "Web"
-authors: "[[Beth O'Malley]]"
-url: "https://weareastral.co.uk/thevault/email-deliverability-for-infrequent-and-seasonal-senders?utm_medium=email&_hsenc=p2ANqtz--_n89mio5RckQh2_ZBGQPsIsB7cBquKYW-ADGyu0I-QE4LXK2p18kA7wWpOv-6QB1fAE868ND7S2Nzhw0aeolJ-PPDR33Y7MvjENpHJVKt6UxvWe0&_hsmi=134083242&utm_content=133965696&utm_source=hs_email"
-published: 2026-04-21
-created: 2026-04-23
+type: Web
+authors: '[[Beth O''Malley]]'
+url: >-
+  https://weareastral.co.uk/thevault/email-deliverability-for-infrequent-and-seasonal-senders?utm_medium=email&_hsenc=p2ANqtz--_n89mio5RckQh2_ZBGQPsIsB7cBquKYW-ADGyu0I-QE4LXK2p18kA7wWpOv-6QB1fAE868ND7S2Nzhw0aeolJ-PPDR33Y7MvjENpHJVKt6UxvWe0&_hsmi=134083242&utm_content=133965696&utm_source=hs_email
+published: 2026-04-21T00:00:00.000Z
+created: 2026-04-23T00:00:00.000Z
 tags:
+  - digital-campaigning
+  - fundraising
+  - automatyzacja
 ---
 
 

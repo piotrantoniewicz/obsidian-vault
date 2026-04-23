@@ -1,10 +1,13 @@
 ---
-type: "Web"
-authors: "[[Madison Barefield]]"
-url: "https://www.causevox.com/blog/givingtuesday-2025-campaign-planning/"
-published: 2025-09-22
-created: 2026-04-22
+type: Web
+authors: '[[Madison Barefield]]'
+url: 'https://www.causevox.com/blog/givingtuesday-2025-campaign-planning/'
+published: 2025-09-22T00:00:00.000Z
+created: 2026-04-22T00:00:00.000Z
 tags:
+  - fundraising
+  - digital-campaigning
+  - organizacje-społeczne
 ---
 
 

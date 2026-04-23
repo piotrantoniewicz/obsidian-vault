@@ -1,10 +1,14 @@
 ---
-type: "Web"
-authors: "[[Beth O'Malley]]"
-url: "https://weareastral.co.uk/thevault/stop-reporting-on-opens-and-clicks.-heres-what-to-measure-instead?utm_medium=email&_hsenc=p2ANqtz-8DH3Sao32f7rL-2SbdVv8vE_EPx5McRY_GdZ6DD967KFbGlIBZWvUq27Hr7nNC3B8U2TxogyYZkai3wqzGbH3ybNR_aLi7eDOyYuNzA0bMvdwlVd0&_hsmi=134083242&utm_content=133965696&utm_source=hs_email"
-published: 2026-04-21
-created: 2026-04-23
+type: Web
+authors: '[[Beth O''Malley]]'
+url: >-
+  https://weareastral.co.uk/thevault/stop-reporting-on-opens-and-clicks.-heres-what-to-measure-instead?utm_medium=email&_hsenc=p2ANqtz-8DH3Sao32f7rL-2SbdVv8vE_EPx5McRY_GdZ6DD967KFbGlIBZWvUq27Hr7nNC3B8U2TxogyYZkai3wqzGbH3ybNR_aLi7eDOyYuNzA0bMvdwlVd0&_hsmi=134083242&utm_content=133965696&utm_source=hs_email
+published: 2026-04-21T00:00:00.000Z
+created: 2026-04-23T00:00:00.000Z
 tags:
+  - digital-campaigning
+  - strategia-organizacji
+  - fundraising
 ---
 
 

@@ -1,10 +1,14 @@
 ---
-type: "Web"
-authors: "[[Beth O'Malley]]"
-url: "https://weareastral.co.uk/thevault/customer-journey-mapping-for-email-how-to-actually-do-it?utm_medium=email&_hsenc=p2ANqtz-83fbt_Nyrah_6HzNsoOW3IR1t-cZZdeU-tJBivvKCbnqRarKVqwlOif1ycjZEZBXqmvkUs3Z4ilu0QBs7oLAzGsQSC62jhfwBzR9Hs1j9tmtKKw5U&_hsmi=134083242&utm_content=133965696&utm_source=hs_email"
-published: 2026-04-21
-created: 2026-04-23
+type: Web
+authors: '[[Beth O''Malley]]'
+url: >-
+  https://weareastral.co.uk/thevault/customer-journey-mapping-for-email-how-to-actually-do-it?utm_medium=email&_hsenc=p2ANqtz-83fbt_Nyrah_6HzNsoOW3IR1t-cZZdeU-tJBivvKCbnqRarKVqwlOif1ycjZEZBXqmvkUs3Z4ilu0QBs7oLAzGsQSC62jhfwBzR9Hs1j9tmtKKw5U&_hsmi=134083242&utm_content=133965696&utm_source=hs_email
+published: 2026-04-21T00:00:00.000Z
+created: 2026-04-23T00:00:00.000Z
 tags:
+  - digital-campaigning
+  - fundraising
+  - strategia-organizacji
 ---
 
 

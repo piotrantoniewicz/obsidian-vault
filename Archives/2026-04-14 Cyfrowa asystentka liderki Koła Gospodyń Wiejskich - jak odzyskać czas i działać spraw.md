@@ -1,10 +1,14 @@
 ---
-type: "Web"
-authors: "[[Fundacja Rozwoju Społeczeństwa Informacyjnego]]"
-url: "https://www.youtube.com/watch?v=okRXzcodtYw&list=PL0X9WIUjgfi9W9KVZqohccHvT65K3L5jY&index=89"
-published: 2026-04-14
-created: 2026-04-24
+type: Web
+authors: '[[Fundacja Rozwoju Społeczeństwa Informacyjnego]]'
+url: >-
+  https://www.youtube.com/watch?v=okRXzcodtYw&list=PL0X9WIUjgfi9W9KVZqohccHvT65K3L5jY&index=89
+published: 2026-04-14T00:00:00.000Z
+created: 2026-04-24T00:00:00.000Z
 tags:
+  - szkolenia-AI
+  - narzędzia-AI
+  - organizacje-społeczne
 ---
 
 

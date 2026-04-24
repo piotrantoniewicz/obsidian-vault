@@ -1,10 +1,14 @@
 ---
-type: "Web"
-authors: "[[Jackie Smith]]"
-url: "https://kindful.com/blog/how-to-make-your-year-end-appeal-stand-out-so-you-bring-in-more-donations/"
-published: 2021-11-17
-created: 2026-04-23
+type: Web
+authors: '[[Jackie Smith]]'
+url: >-
+  https://kindful.com/blog/how-to-make-your-year-end-appeal-stand-out-so-you-bring-in-more-donations/
+published: 2021-11-17T00:00:00.000Z
+created: 2026-04-23T00:00:00.000Z
 tags:
+  - fundraising
+  - organizacje-społeczne
+  - digital-campaigning
 ---
 
 

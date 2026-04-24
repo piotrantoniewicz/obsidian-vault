@@ -1,10 +1,14 @@
 ---
-type: "Web"
-authors: "[[Małgorzata Rodak]]"
-url: "https://publicystyka.ngo.pl/copywriting-empatyczny-jak-pisac-zeby-nie-przekraczac-granic-taup?utm_source=newsletter&utm_medium=email&utm_term=2026-04-24&utm_campaign=+Od+Excela+do+AI+fundraising+w+praktyce+NGO"
-published: 2026-04-01
-created: 2026-04-24
+type: Web
+authors: '[[Małgorzata Rodak]]'
+url: >-
+  https://publicystyka.ngo.pl/copywriting-empatyczny-jak-pisac-zeby-nie-przekraczac-granic-taup?utm_source=newsletter&utm_medium=email&utm_term=2026-04-24&utm_campaign=+Od+Excela+do+AI+fundraising+w+praktyce+NGO
+published: 2026-04-01T00:00:00.000Z
+created: 2026-04-24T00:00:00.000Z
 tags:
+  - fundraising
+  - content-marketing
+  - organizacje-społeczne
 ---
 
 

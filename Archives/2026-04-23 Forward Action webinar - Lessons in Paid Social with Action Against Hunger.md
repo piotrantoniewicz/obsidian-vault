@@ -1,10 +1,13 @@
 ---
-type: "Web"
-authors: "[[Forward Action]]"
-url: "https://www.youtube.com/watch?v=SRQuln0Xdyo"
-published: 2026-04-23
-created: 2026-04-24
+type: Web
+authors: '[[Forward Action]]'
+url: 'https://www.youtube.com/watch?v=SRQuln0Xdyo'
+published: 2026-04-23T00:00:00.000Z
+created: 2026-04-24T00:00:00.000Z
 tags:
+  - digital-campaigning
+  - fundraising
+  - content-marketing
 ---
 
 

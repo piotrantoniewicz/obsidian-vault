@@ -1,10 +1,14 @@
 ---
-type: "Web"
-authors: "[[Kimberly Huang]]"
-url: "https://www.litmus.com/blog/click-tap-and-touch-a-guide-to-cta-best-practices?utm_c%5B%25E2%2580%25A6%5Dit-email_is_essential&amp;utm_medium=offline&amp;utm_source=marketing"
-published: 2024-03-18
-created: 2026-04-23
+type: Web
+authors: '[[Kimberly Huang]]'
+url: >-
+  https://www.litmus.com/blog/click-tap-and-touch-a-guide-to-cta-best-practices?utm_c%5B%25E2%2580%25A6%5Dit-email_is_essential&amp;utm_medium=offline&amp;utm_source=marketing
+published: 2024-03-18T00:00:00.000Z
+created: 2026-04-23T00:00:00.000Z
 tags:
+  - content-marketing
+  - fundraising
+  - digital-campaigning
 ---
 
 

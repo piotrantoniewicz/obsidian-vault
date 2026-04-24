@@ -1,10 +1,13 @@
 ---
-type: "Web"
-authors: "[[Madison Barefield]]"
-url: "https://www.causevox.com/blog/givingtuesday-partnerships/"
-published: 2025-10-18
-created: 2026-04-22
+type: Web
+authors: '[[Madison Barefield]]'
+url: 'https://www.causevox.com/blog/givingtuesday-partnerships/'
+published: 2025-10-18T00:00:00.000Z
+created: 2026-04-22T00:00:00.000Z
 tags:
+  - fundraising
+  - digital-campaigning
+  - strategia-organizacji
 ---
 
 

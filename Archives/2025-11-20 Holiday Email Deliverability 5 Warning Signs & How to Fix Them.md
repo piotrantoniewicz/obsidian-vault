@@ -1,6 +1,6 @@
 ---
 type: Web
-authors: "[[Written By Lauren Meyer]]"
+authors: "[[Lauren Meyer]]"
 url: https://send-it-right.com/blog/holiday-email-deliverability-warning-signs?utm_source=www.civicshoutnewsletter.com&utm_medium=newsletter&utm_campaign=only-36-ask-one-time-donors-to-go-monthly&_bhlid=184c580d1c5967962fdffcadb12c1153155217e8
 published: 2025-11-20
 created: 2026-03-20

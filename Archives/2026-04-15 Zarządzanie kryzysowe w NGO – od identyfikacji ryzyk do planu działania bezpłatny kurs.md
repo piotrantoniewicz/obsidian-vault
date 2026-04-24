@@ -1,10 +1,14 @@
 ---
-type: "Web"
-authors: "[[Monika Schmeichel-Zarzeczna]]"
-url: "https://publicystyka.ngo.pl/zarzadzanie-kryzysowe-w-ngo-od-identyfikacji-ryzyk-do-planu-dzialania-bezplatny-kurs-taup?utm_source=newsletter&utm_medium=email&utm_term=2026-04-24&utm_campaign=+Od+Excela+do+AI+fundraising+w+praktyce+NGO"
-published: 2026-04-15
-created: 2026-04-24
+type: Web
+authors: '[[Monika Schmeichel-Zarzeczna]]'
+url: >-
+  https://publicystyka.ngo.pl/zarzadzanie-kryzysowe-w-ngo-od-identyfikacji-ryzyk-do-planu-dzialania-bezplatny-kurs-taup?utm_source=newsletter&utm_medium=email&utm_term=2026-04-24&utm_campaign=+Od+Excela+do+AI+fundraising+w+praktyce+NGO
+published: 2026-04-15T00:00:00.000Z
+created: 2026-04-24T00:00:00.000Z
 tags:
+  - organizacje-społeczne
+  - strategia-organizacji
+  - fundraising
 ---
 
 

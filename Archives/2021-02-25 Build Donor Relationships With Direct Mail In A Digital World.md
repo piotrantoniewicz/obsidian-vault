@@ -1,10 +1,13 @@
 ---
-type: "Web"
-authors: "[[Steven Shattuck]]"
-url: "https://kindful.com/blog/donor-relationships-direct-mail/"
-published: 2021-02-25
-created: 2026-04-23
+type: Web
+authors: '[[Steven Shattuck]]'
+url: 'https://kindful.com/blog/donor-relationships-direct-mail/'
+published: 2021-02-25T00:00:00.000Z
+created: 2026-04-23T00:00:00.000Z
 tags:
+  - fundraising
+  - organizacje-społeczne
+  - digital-campaigning
 ---
 
 

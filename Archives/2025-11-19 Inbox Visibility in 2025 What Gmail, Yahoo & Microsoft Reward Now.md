@@ -1,6 +1,6 @@
 ---
 type: Web
-authors: "[[Written By Lauren Meyer]]"
+authors: "[[Lauren Meyer]]"
 url: https://send-it-right.com/blog/inbox-visibility-guide-2025?utm_source=www.civicshoutnewsletter.com&utm_medium=newsletter&utm_campaign=how-equimundo-got-31-more-clicks-with-a-smaller-list&_bhlid=469108c04a4e58f93ad914b3169532d6f0e47ba8
 published: 2025-11-19
 created: 2026-03-18

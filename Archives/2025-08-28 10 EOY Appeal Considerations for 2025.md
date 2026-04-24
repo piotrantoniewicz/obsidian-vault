@@ -1,8 +1,6 @@
 ---
 type: Web
 authors:
-  - "[[Written By Mike Esposito]]"
-  - "[[CFRE]]"
   - "[[Mike Esposito]]"
 url: https://www.mikeespositocfre.com/nonprofit-resources/10-eoy-appeal-considerations-for-2025?utm_medium=email&_hsmi=378059023&utm_content=378059023&utm_source=brevo&utm_campaign=Newsletter%20October%208
 published: 2025-08-28T00:00:00.000Z

@@ -1,8 +1,8 @@
 ---
 type: Web
-authors: ["[[Written By Lauren Meyer]]", "[[Lauren Meyer]]"]
-url: >-
-  https://send-it-right.com/blog/promotions-tab-email-marketing?utm_source=www.civicshoutnewsletter.com&utm_medium=newsletter&utm_campaign=when-an-oops-email-outperforms-the-original&_bhlid=767b621949677a1864f73b64aa830ce19a823205
+authors:
+  - "[[Lauren Meyer]]"
+url: https://send-it-right.com/blog/promotions-tab-email-marketing?utm_source=www.civicshoutnewsletter.com&utm_medium=newsletter&utm_campaign=when-an-oops-email-outperforms-the-original&_bhlid=767b621949677a1864f73b64aa830ce19a823205
 published: 2025-08-21T00:00:00.000Z
 created: 2026-03-09T00:00:00.000Z
 tags:

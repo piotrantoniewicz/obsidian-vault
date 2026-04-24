@@ -1,6 +1,6 @@
 ---
 type: Web
-authors: "[[Written By]]"
+authors: "[[Rachel Bearbower]]"
 url: https://www.smallshopstrategies.com/podcast/hacks-to-transform-productivity?ck_subscriber_id=3412528627&utm_source=convertkit&utm_medium=email&utm_campaign=You%20can%27t%20always%20be%20%22on%22%20-%206966411&sh_kit=ebb8f2fb51f8b6f5b192f8b07d9aae25086a45840059610b97f734dbb8655eb6
 published: 2021-01-28T00:00:00.000Z
 created: 2026-03-04T00:00:00.000Z

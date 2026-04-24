@@ -1,10 +1,14 @@
 ---
-type: "Web"
-authors: "[[Kinga Pańczyszyn-Liśkiewicz]]"
-url: "https://publicystyka.ngo.pl/jak-technologie-i-sztuczna-inteligencja-moga-wspierac-fundraising-wywiad?utm_source=newsletter&utm_medium=email&utm_term=2026-04-24&utm_campaign=+Od+Excela+do+AI+fundraising+w+praktyce+NGO"
-published: 2024-08-21
-created: 2026-04-24
+type: Web
+authors: '[[Kinga Pańczyszyn-Liśkiewicz]]'
+url: >-
+  https://publicystyka.ngo.pl/jak-technologie-i-sztuczna-inteligencja-moga-wspierac-fundraising-wywiad?utm_source=newsletter&utm_medium=email&utm_term=2026-04-24&utm_campaign=+Od+Excela+do+AI+fundraising+w+praktyce+NGO
+published: 2024-08-21T00:00:00.000Z
+created: 2026-04-24T00:00:00.000Z
 tags:
+  - fundraising
+  - narzędzia-AI
+  - automatyzacja
 ---
 
 

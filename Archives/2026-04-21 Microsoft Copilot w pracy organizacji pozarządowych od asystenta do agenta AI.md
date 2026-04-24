@@ -1,10 +1,14 @@
 ---
-type: "Web"
-authors: "[[Michał Serwiński]]"
-url: "https://sektor3-0.pl/aktualnosci/microsoft-copilot-w-pracy-organizacji-pozarzadowych-od-asystenta-do-agenta-ai/?utm_source=newsletter&utm_medium=email&utm_term=2026-04-24&utm_campaign=+Od+Excela+do+AI+fundraising+w+praktyce+NGO"
-published: 2026-04-21
-created: 2026-04-24
+type: Web
+authors: '[[Michał Serwiński]]'
+url: >-
+  https://sektor3-0.pl/aktualnosci/microsoft-copilot-w-pracy-organizacji-pozarzadowych-od-asystenta-do-agenta-ai/?utm_source=newsletter&utm_medium=email&utm_term=2026-04-24&utm_campaign=+Od+Excela+do+AI+fundraising+w+praktyce+NGO
+published: 2026-04-21T00:00:00.000Z
+created: 2026-04-24T00:00:00.000Z
 tags:
+  - strategia-AI
+  - narzędzia-AI
+  - organizacje-społeczne
 ---
 
 

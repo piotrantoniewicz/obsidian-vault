@@ -1,10 +1,13 @@
 ---
-type: "Web"
-authors: "[[Sektor 3.0]]"
-url: "https://www.youtube.com/watch?v=jW8ny3xgRDY"
-published: 2026-04-22
-created: 2026-04-24
+type: Web
+authors: '[[Sektor 3.0]]'
+url: 'https://www.youtube.com/watch?v=jW8ny3xgRDY'
+published: 2026-04-22T00:00:00.000Z
+created: 2026-04-24T00:00:00.000Z
 tags:
+  - fundraising
+  - narzędzia-AI
+  - automatyzacja
 ---
 
 

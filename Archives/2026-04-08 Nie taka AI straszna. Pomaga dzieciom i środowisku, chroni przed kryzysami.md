@@ -1,10 +1,14 @@
 ---
-type: "Web"
-authors: "[[Elżbieta Piech]]"
-url: "https://sektor3-0.pl/blog/nie-taka-ai-straszna-pomaga-dzieciom-i-srodowisku-chroni-przed-kryzysami/?utm_source=newsletter&utm_medium=email&utm_term=2026-04-24&utm_campaign=+Od+Excela+do+AI+fundraising+w+praktyce+NGO"
-published: 2026-04-08
-created: 2026-04-24
+type: Web
+authors: '[[Elżbieta Piech]]'
+url: >-
+  https://sektor3-0.pl/blog/nie-taka-ai-straszna-pomaga-dzieciom-i-srodowisku-chroni-przed-kryzysami/?utm_source=newsletter&utm_medium=email&utm_term=2026-04-24&utm_campaign=+Od+Excela+do+AI+fundraising+w+praktyce+NGO
+published: 2026-04-08T00:00:00.000Z
+created: 2026-04-24T00:00:00.000Z
 tags:
+  - organizacje-społeczne
+  - strategia-AI
+  - narzędzia-AI
 ---
 
 

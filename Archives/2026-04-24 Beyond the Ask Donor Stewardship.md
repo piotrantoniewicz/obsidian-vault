@@ -1,10 +1,14 @@
 ---
-type: "Web"
-authors: "[[Bryan Neider]]"
-url: "https://www.linkedin.com/pulse/beyond-ask-donor-stewardship-bryan-neider-4ovqc/"
-published: 2026-04-24
-created: 2026-04-24
+type: Web
+authors: '[[Bryan Neider]]'
+url: >-
+  https://www.linkedin.com/pulse/beyond-ask-donor-stewardship-bryan-neider-4ovqc/
+published: 2026-04-24T00:00:00.000Z
+created: 2026-04-24T00:00:00.000Z
 tags:
+  - fundraising
+  - organizacje-społeczne
+  - digital-campaigning
 ---
 
 

@@ -1,6 +1,6 @@
 ---
 type: Web
-authors: "[[Written By Caroline Griffin]]"
+authors: "[[Caroline Griffin]]"
 url: https://marketeronamission.work/the-good-stuff/2024-year-end-tips
 published: 2024-10-17
 created: 2026-03-21

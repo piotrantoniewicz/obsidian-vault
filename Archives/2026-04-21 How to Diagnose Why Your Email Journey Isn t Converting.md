@@ -1,10 +1,14 @@
 ---
-type: "Web"
-authors: "[[Beth O'Malley]]"
-url: "https://weareastral.co.uk/thevault/how-to-diagnose-why-your-email-journey-isnt-converting?utm_medium=email&_hsenc=p2ANqtz-_H2Qf8stoK-iyjiBQ0NfL7Ylmb0XXJl3q6IwJgxDWvsS54-iDeS9DXEA7Fl46iPB-rxwWrqC1LOCdcYgk0tYfQCKDz_ZEULHp0UQCEj5PprsKCLMo&_hsmi=134083242&utm_content=133965696&utm_source=hs_email"
-published: 2026-04-21
-created: 2026-04-23
+type: Web
+authors: '[[Beth O''Malley]]'
+url: >-
+  https://weareastral.co.uk/thevault/how-to-diagnose-why-your-email-journey-isnt-converting?utm_medium=email&_hsenc=p2ANqtz-_H2Qf8stoK-iyjiBQ0NfL7Ylmb0XXJl3q6IwJgxDWvsS54-iDeS9DXEA7Fl46iPB-rxwWrqC1LOCdcYgk0tYfQCKDz_ZEULHp0UQCEj5PprsKCLMo&_hsmi=134083242&utm_content=133965696&utm_source=hs_email
+published: 2026-04-21T00:00:00.000Z
+created: 2026-04-23T00:00:00.000Z
 tags:
+  - fundraising
+  - content-marketing
+  - digital-campaigning
 ---
 
 

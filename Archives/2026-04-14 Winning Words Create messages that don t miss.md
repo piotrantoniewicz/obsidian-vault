@@ -1,10 +1,14 @@
 ---
-type: "Web"
-authors: "[[Harvey McKinnon]]"
-url: "https://www.centerfordigitalaction.eu/post/winning-words-create-messages-that-don-t-miss?source=newsletter&email_referrer=email_3189774&email_subject=mastering-mobilization-hungary-a-metrics-guide-and-using-public-narrative-to-drive-action&can_id=32cae499f95a9349c734a72403321b9c&link_id=6"
-published: 2026-04-14
-created: 2026-04-24
+type: Web
+authors: '[[Harvey McKinnon]]'
+url: >-
+  https://www.centerfordigitalaction.eu/post/winning-words-create-messages-that-don-t-miss?source=newsletter&email_referrer=email_3189774&email_subject=mastering-mobilization-hungary-a-metrics-guide-and-using-public-narrative-to-drive-action&can_id=32cae499f95a9349c734a72403321b9c&link_id=6
+published: 2026-04-14T00:00:00.000Z
+created: 2026-04-24T00:00:00.000Z
 tags:
+  - framing
+  - content-marketing
+  - digital-campaigning
 ---
 
 

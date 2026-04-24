@@ -1,10 +1,14 @@
 ---
-type: "Web"
-authors: "[[Filip Jędruch]]"
-url: "https://sektor3-0.pl/podcast/od-excela-do-ai-przyklady-skutecznego-fundraisingu-w-organizacjach-pozarzadowych/?utm_source=newsletter&utm_medium=email&utm_term=2026-04-24&utm_campaign=+Od+Excela+do+AI+fundraising+w+praktyce+NGO"
-published: 2026-04-23
-created: 2026-04-24
+type: Web
+authors: '[[Filip Jędruch]]'
+url: >-
+  https://sektor3-0.pl/podcast/od-excela-do-ai-przyklady-skutecznego-fundraisingu-w-organizacjach-pozarzadowych/?utm_source=newsletter&utm_medium=email&utm_term=2026-04-24&utm_campaign=+Od+Excela+do+AI+fundraising+w+praktyce+NGO
+published: 2026-04-23T00:00:00.000Z
+created: 2026-04-24T00:00:00.000Z
 tags:
+  - fundraising
+  - automatyzacja
+  - organizacje-społeczne
 ---
 
 

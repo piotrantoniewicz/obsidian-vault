@@ -1,8 +1,6 @@
 ---
 type: Web
 authors:
-  - "[[Written By Mike Esposito]]"
-  - "[[CFRE]]"
   - "[[Mike Esposito]]"
 url: https://www.mikeespositocfre.com/nonprofit-resources/planning-for-a-stronger-fundraising-year-in-2026?utm_source=brevo&utm_campaign=Newsletter%20January%2014&utm_medium=email
 published: 2025-11-20T00:00:00.000Z

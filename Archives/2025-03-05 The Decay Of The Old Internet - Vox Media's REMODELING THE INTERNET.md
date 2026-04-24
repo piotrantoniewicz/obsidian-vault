@@ -1,13 +1,13 @@
 ---
-type: "Web"
-authors: "[\"[[Written By Danny Denhard]]\"]"
-url: "https://dannydenhard.com/blog/remodeling-the-internet"
+type: Web
+authors: "[[Danny Denhard]]"
+url: https://dannydenhard.com/blog/remodeling-the-internet
 published: 2025-03-05
 created: 2026-03-18
 tags:
-  - "digital-campaigning"
-  - "content-marketing"
-  - "trendy-AI"
+  - digital-campaigning
+  - content-marketing
+  - trendy-AI
 ---
 
 

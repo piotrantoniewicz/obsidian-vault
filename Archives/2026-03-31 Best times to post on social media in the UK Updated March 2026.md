@@ -1,10 +1,12 @@
 ---
-type: "Web"
-authors: "[[Sinéad McNamee]]"
-url: "https://sproutsocial.com/insights/best-times-to-post-on-social-media-uk/"
-published: 2026-03-31
-created: 2026-04-27
+type: Web
+authors: '[[Sinéad McNamee]]'
+url: 'https://sproutsocial.com/insights/best-times-to-post-on-social-media-uk/'
+published: 2026-03-31T00:00:00.000Z
+created: 2026-04-27T00:00:00.000Z
 tags:
+  - content-marketing
+  - digital-campaigning
 ---
 
 

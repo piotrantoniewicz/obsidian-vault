@@ -1,10 +1,14 @@
 ---
-type: "Web"
-authors: "[[Jessica Fox]]"
-url: "https://www.eventgroove.com/blog/how-to-run-an-online-raffle/?utm_source=NPTG&utm_medium=referral&utm_campaign=how-raffle"
-published: 2026-03-16
-created: 2026-04-27
+type: Web
+authors: '[[Jessica Fox]]'
+url: >-
+  https://www.eventgroove.com/blog/how-to-run-an-online-raffle/?utm_source=NPTG&utm_medium=referral&utm_campaign=how-raffle
+published: 2026-03-16T00:00:00.000Z
+created: 2026-04-27T00:00:00.000Z
 tags:
+  - fundraising
+  - organizacje-społeczne
+  - digital-campaigning
 ---
 
 

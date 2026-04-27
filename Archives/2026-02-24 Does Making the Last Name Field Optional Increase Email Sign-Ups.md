@@ -1,10 +1,14 @@
 ---
-type: "Web"
-authors: "[[NextAfter]]"
-url: "https://www.nextafter.com/experiments/does-making-the-last-name-field-optional-increase-email-sign-ups/?utm_medium=email&_hsenc=p2ANqtz-_Q64bBsRKlq8uCFOphQBF_lziYylnGq3y9LF_67n-XNFonPcX6dKqviUnyUaedF9wIO1ZCPtJhH85xXgp7DjnUyGGerw&_hsmi=415767444&utm_content=414249134&utm_source=hs_email"
-published: 2026-02-24
-created: 2026-04-27
+type: Web
+authors: '[[NextAfter]]'
+url: >-
+  https://www.nextafter.com/experiments/does-making-the-last-name-field-optional-increase-email-sign-ups/?utm_medium=email&_hsenc=p2ANqtz-_Q64bBsRKlq8uCFOphQBF_lziYylnGq3y9LF_67n-XNFonPcX6dKqviUnyUaedF9wIO1ZCPtJhH85xXgp7DjnUyGGerw&_hsmi=415767444&utm_content=414249134&utm_source=hs_email
+published: 2026-02-24T00:00:00.000Z
+created: 2026-04-27T00:00:00.000Z
 tags:
+  - fundraising
+  - digital-campaigning
+  - organizacje-społeczne
 ---
 
 

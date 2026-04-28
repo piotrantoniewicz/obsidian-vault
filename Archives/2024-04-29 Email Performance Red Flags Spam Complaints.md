@@ -1,10 +1,13 @@
 ---
-type: "Web"
-authors: "[[Lauren Meyer]]"
-url: "https://www.socketlabs.com/blog/email-performance-red-flags-spam-complaints/?utm_campaign=deliverability_rate&utm_medium=blog&utm_source=senditright"
-published: 2024-04-29
-created: 2026-04-27
+type: Web
+authors: '[[Lauren Meyer]]'
+url: >-
+  https://www.socketlabs.com/blog/email-performance-red-flags-spam-complaints/?utm_campaign=deliverability_rate&utm_medium=blog&utm_source=senditright
+published: 2024-04-29T00:00:00.000Z
+created: 2026-04-27T00:00:00.000Z
 tags:
+  - digital-campaigning
+  - content-marketing
 ---
 
 

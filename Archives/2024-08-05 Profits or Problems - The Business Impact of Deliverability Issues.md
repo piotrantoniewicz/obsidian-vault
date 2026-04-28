@@ -1,10 +1,12 @@
 ---
-type: "Web"
-authors: "[[Lauren Meyer]]"
-url: "https://send-it-right.com/blog/business-impact-of-deliverability-issues"
-published: 2024-08-05
-created: 2026-04-27
+type: Web
+authors: '[[Lauren Meyer]]'
+url: 'https://send-it-right.com/blog/business-impact-of-deliverability-issues'
+published: 2024-08-05T00:00:00.000Z
+created: 2026-04-27T00:00:00.000Z
 tags:
+  - digital-campaigning
+  - content-marketing
 ---
 
 

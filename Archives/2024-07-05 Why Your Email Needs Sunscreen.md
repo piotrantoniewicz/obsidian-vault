@@ -1,10 +1,11 @@
 ---
-type: "Web"
-authors: "[[Lauren Meyer]]"
-url: "https://send-it-right.com/blog/intro-to-email-authentication"
-published: 2024-07-05
-created: 2026-04-27
+type: Web
+authors: '[[Lauren Meyer]]'
+url: 'https://send-it-right.com/blog/intro-to-email-authentication'
+published: 2024-07-05T00:00:00.000Z
+created: 2026-04-27T00:00:00.000Z
 tags:
+  - digital-campaigning
 ---
 
 

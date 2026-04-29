@@ -1,10 +1,13 @@
 ---
-type: "Web"
-authors: "[[Ethan Mollick]]"
-url: "https://www.oneusefulthing.org/p/the-shape-of-ai-jaggedness-bottlenecks"
-published: 2025-12-20
-created: 2026-04-28
+type: Web
+authors: '[[Ethan Mollick]]'
+url: 'https://www.oneusefulthing.org/p/the-shape-of-ai-jaggedness-bottlenecks'
+published: 2025-12-20T00:00:00.000Z
+created: 2026-04-28T00:00:00.000Z
 tags:
+  - trendy-AI
+  - strategia-AI
+  - LLM
 ---
 
 

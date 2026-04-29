@@ -1,10 +1,14 @@
 ---
-type: "Web"
-authors: "[[Alex Huntsberger]]"
-url: "https://neonone.com/resources/blog/recurring-donors/?utm_source=pardot&utm_medium=email&utm_campaign=pardot_email_tofu_rdr_launch_fullaudience_announcement_apr_2026&utm_content=cta_button_get_resource"
-published: 2026-04-28
-created: 2026-04-28
+type: Web
+authors: '[[Alex Huntsberger]]'
+url: >-
+  https://neonone.com/resources/blog/recurring-donors/?utm_source=pardot&utm_medium=email&utm_campaign=pardot_email_tofu_rdr_launch_fullaudience_announcement_apr_2026&utm_content=cta_button_get_resource
+published: 2026-04-28T00:00:00.000Z
+created: 2026-04-28T00:00:00.000Z
 tags:
+  - fundraising
+  - organizacje-społeczne
+  - strategia-organizacji
 ---
 
 

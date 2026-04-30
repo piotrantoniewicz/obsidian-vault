@@ -1,10 +1,13 @@
 ---
-type: "Web"
-authors: "[[mradmin]]"
-url: "https://www.mrss.com/lab/the-2026-mr-benchmarks-study-has-arrived/"
-published: 2026-04-22
-created: 2026-04-29
+type: Web
+authors: '[[mradmin]]'
+url: 'https://www.mrss.com/lab/the-2026-mr-benchmarks-study-has-arrived/'
+published: 2026-04-22T00:00:00.000Z
+created: 2026-04-29T00:00:00.000Z
 tags:
+  - fundraising
+  - digital-campaigning
+  - trendy-AI
 ---
 
 

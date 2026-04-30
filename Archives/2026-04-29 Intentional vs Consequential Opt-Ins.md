@@ -1,10 +1,14 @@
 ---
-type: "Web"
-authors: "[[Beth O'Malley]]"
-url: "https://weareastral.co.uk/thevault/intentional-vs-consequential-opt-ins?utm_medium=email&_hsenc=p2ANqtz-8HOzmm1Z1FMYXgHJsW2uVIKesBDQQw4B8anojdCVv928b3nbR3M0SF0UXugt8iTMxhmJfvhiuKDlvGmWtjxWueZ1xhWKMZSV60u9H755WgGghfA7M&_hsmi=134698468&utm_content=134700280&utm_source=hs_email"
-published: 2026-04-29
-created: 2026-04-30
+type: Web
+authors: '[[Beth O''Malley]]'
+url: >-
+  https://weareastral.co.uk/thevault/intentional-vs-consequential-opt-ins?utm_medium=email&_hsenc=p2ANqtz-8HOzmm1Z1FMYXgHJsW2uVIKesBDQQw4B8anojdCVv928b3nbR3M0SF0UXugt8iTMxhmJfvhiuKDlvGmWtjxWueZ1xhWKMZSV60u9H755WgGghfA7M&_hsmi=134698468&utm_content=134700280&utm_source=hs_email
+published: 2026-04-29T00:00:00.000Z
+created: 2026-04-30T00:00:00.000Z
 tags:
+  - fundraising
+  - digital-campaigning
+  - content-marketing
 ---
 
 

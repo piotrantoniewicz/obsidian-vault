@@ -1,10 +1,14 @@
 ---
-type: "Web"
-authors: "[[Beth Miles]]"
-url: "https://forwardaction.uk/webinar/your-questions-answered-lessons-in-paid-social/?utm_source=email&utm_medium=newsletter&utm_campaign=webinar_apr26&utm_content=follow-up"
-published: 2026-04-30
-created: 2026-04-30
+type: Web
+authors: '[[Beth Miles]]'
+url: >-
+  https://forwardaction.uk/webinar/your-questions-answered-lessons-in-paid-social/?utm_source=email&utm_medium=newsletter&utm_campaign=webinar_apr26&utm_content=follow-up
+published: 2026-04-30T00:00:00.000Z
+created: 2026-04-30T00:00:00.000Z
 tags:
+  - digital-campaigning
+  - fundraising
+  - organizacje-społeczne
 ---
 
 

@@ -1,10 +1,14 @@
 ---
-type: "Web"
-authors: "[[Laura de Agorreta]]"
-url: "https://www.centerfordigitalaction.eu/post/hold-the-line?link_id=3&can_id=32cae499f95a9349c734a72403321b9c&source=email-dont-open-this-tomorrow&email_referrer=email_3216143&email_subject=dont-open-this-tomorrow&&"
-published: 2025-12-04
-created: 2026-04-30
+type: Web
+authors: '[[Laura de Agorreta]]'
+url: >-
+  https://www.centerfordigitalaction.eu/post/hold-the-line?link_id=3&can_id=32cae499f95a9349c734a72403321b9c&source=email-dont-open-this-tomorrow&email_referrer=email_3216143&email_subject=dont-open-this-tomorrow&&
+published: 2025-12-04T00:00:00.000Z
+created: 2026-04-30T00:00:00.000Z
 tags:
+  - digital-campaigning
+  - organizacje-społeczne
+  - framing
 ---
 
 

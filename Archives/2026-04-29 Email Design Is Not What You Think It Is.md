@@ -1,10 +1,14 @@
 ---
-type: "Web"
-authors: "[[Beth O'Malley]]"
-url: "https://weareastral.co.uk/thevault/email-design-is-not-what-you-think-it-is?utm_medium=email&_hsenc=p2ANqtz-_k_ZIw1h4nejbp9vIbggQ3VBXMjIvX6-_Eq_voguUUKxKewgyeKM-KJ-QjdFkTGZsvv907t8WBV1x8yVSFztlncuKGEQgf3RGDHKsITxZ9uJsEyKE&_hsmi=134698468&utm_content=134700280&utm_source=hs_email"
-published: 2026-04-29
-created: 2026-04-30
+type: Web
+authors: '[[Beth O''Malley]]'
+url: >-
+  https://weareastral.co.uk/thevault/email-design-is-not-what-you-think-it-is?utm_medium=email&_hsenc=p2ANqtz-_k_ZIw1h4nejbp9vIbggQ3VBXMjIvX6-_Eq_voguUUKxKewgyeKM-KJ-QjdFkTGZsvv907t8WBV1x8yVSFztlncuKGEQgf3RGDHKsITxZ9uJsEyKE&_hsmi=134698468&utm_content=134700280&utm_source=hs_email
+published: 2026-04-29T00:00:00.000Z
+created: 2026-04-30T00:00:00.000Z
 tags:
+  - digital-campaigning
+  - content-marketing
+  - fundraising
 ---
 
 

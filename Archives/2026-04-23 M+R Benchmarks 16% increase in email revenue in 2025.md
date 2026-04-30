@@ -1,10 +1,14 @@
 ---
-type: "Web"
-authors: "[[Sara Cederberg]]"
-url: "https://www.civicshoutnewsletter.com/p/m-r-benchmarks-16-increase-in-email-revenue-in-2025?utm_source=www.civicshoutnewsletter.com&utm_medium=newsletter&utm_campaign=unpacking-benchmarks-with-m-r-s-jonathan-benton&_bhlid=81717f31ae38818c170843b6f946d77ab1ec1554"
-published: 2026-04-23
-created: 2026-04-30
+type: Web
+authors: '[[Sara Cederberg]]'
+url: >-
+  https://www.civicshoutnewsletter.com/p/m-r-benchmarks-16-increase-in-email-revenue-in-2025?utm_source=www.civicshoutnewsletter.com&utm_medium=newsletter&utm_campaign=unpacking-benchmarks-with-m-r-s-jonathan-benton&_bhlid=81717f31ae38818c170843b6f946d77ab1ec1554
+published: 2026-04-23T00:00:00.000Z
+created: 2026-04-30T00:00:00.000Z
 tags:
+  - fundraising
+  - digital-campaigning
+  - content-marketing
 ---
 
 

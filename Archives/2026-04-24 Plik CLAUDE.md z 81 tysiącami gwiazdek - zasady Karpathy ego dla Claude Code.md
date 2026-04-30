@@ -1,10 +1,14 @@
 ---
-type: "Web"
-authors: "[[Mateusz Wojdalski]]"
-url: "https://devstockacademy.pl/blog/narzedzia-i-automatyzacja/claude-md-karpathy-78k-gwiazdek-claude-code-2026/?utm_source=newsletter&utm_medium=email&utm_term=2026-04-29&utm_campaign=Copilot+na+liczniku+GPT-5+5+i+65+mld+dla+Anthropic"
-published: 2026-04-24
-created: 2026-04-29
+type: Web
+authors: '[[Mateusz Wojdalski]]'
+url: >-
+  https://devstockacademy.pl/blog/narzedzia-i-automatyzacja/claude-md-karpathy-78k-gwiazdek-claude-code-2026/?utm_source=newsletter&utm_medium=email&utm_term=2026-04-29&utm_campaign=Copilot+na+liczniku+GPT-5+5+i+65+mld+dla+Anthropic
+published: 2026-04-24T00:00:00.000Z
+created: 2026-04-29T00:00:00.000Z
 tags:
+  - narzędzia-AI
+  - prompt-engineering
+  - context-engineering
 ---
 
 

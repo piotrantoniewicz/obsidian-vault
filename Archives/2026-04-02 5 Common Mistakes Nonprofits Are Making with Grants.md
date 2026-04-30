@@ -1,10 +1,14 @@
 ---
-type: "Web"
-authors: "[[Nicole Jamrozinski]]"
-url: "https://thenonprofithive.com/5-common-mistakes-nonprofits-are-making-with-grants/?utm_source=brevo&utm_campaign=Newsletter%20Apr%2022%20-%20events&utm_medium=email"
-published: 2026-04-02
-created: 2026-04-29
+type: Web
+authors: '[[Nicole Jamrozinski]]'
+url: >-
+  https://thenonprofithive.com/5-common-mistakes-nonprofits-are-making-with-grants/?utm_source=brevo&utm_campaign=Newsletter%20Apr%2022%20-%20events&utm_medium=email
+published: 2026-04-02T00:00:00.000Z
+created: 2026-04-29T00:00:00.000Z
 tags:
+  - fundraising
+  - organizacje-społeczne
+  - strategia-organizacji
 ---
 
 

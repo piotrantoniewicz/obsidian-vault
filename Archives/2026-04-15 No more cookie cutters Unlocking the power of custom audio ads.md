@@ -1,10 +1,14 @@
 ---
-type: "Web"
-authors: "[[mradmin]]"
-url: "https://www.mrss.com/lab/no-more-cookie-cutters-unlocking-the-power-of-custom-audio-ads/"
-published: 2026-04-15
-created: 2026-04-29
+type: Web
+authors: '[[mradmin]]'
+url: >-
+  https://www.mrss.com/lab/no-more-cookie-cutters-unlocking-the-power-of-custom-audio-ads/
+published: 2026-04-15T00:00:00.000Z
+created: 2026-04-29T00:00:00.000Z
 tags:
+  - content-marketing
+  - digital-campaigning
+  - organizacje-społeczne
 ---
 
 

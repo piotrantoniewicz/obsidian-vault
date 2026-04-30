@@ -1,10 +1,14 @@
 ---
-type: "Web"
-authors: "[[Riley Young]]"
-url: "https://www.avidai.com/blog/april-product-updates-2026/?utm_campaign=40538215-%5BProduct%5D%20Product%20Updates&utm_medium=email&_hsenc=p2ANqtz--EY6Va6HDABFOBfCRopwuihdSdv9cqfDvpD1bUbzF1BBfRn5gdif-JqAb6l6CcuaxpJ_ILXkPIADGf8JSFpp21ooDo3B67YNCBZ6j5cyKcHHMej48&_hsmi=416380067&utm_content=416380067&utm_source=hs_email"
-published: 2026-04-29
-created: 2026-04-29
+type: Web
+authors: '[[Riley Young]]'
+url: >-
+  https://www.avidai.com/blog/april-product-updates-2026/?utm_campaign=40538215-%5BProduct%5D%20Product%20Updates&utm_medium=email&_hsenc=p2ANqtz--EY6Va6HDABFOBfCRopwuihdSdv9cqfDvpD1bUbzF1BBfRn5gdif-JqAb6l6CcuaxpJ_ILXkPIADGf8JSFpp21ooDo3B67YNCBZ6j5cyKcHHMej48&_hsmi=416380067&utm_content=416380067&utm_source=hs_email
+published: 2026-04-29T00:00:00.000Z
+created: 2026-04-29T00:00:00.000Z
 tags:
+  - fundraising
+  - narzędzia-AI
+  - automatyzacja
 ---
 
 

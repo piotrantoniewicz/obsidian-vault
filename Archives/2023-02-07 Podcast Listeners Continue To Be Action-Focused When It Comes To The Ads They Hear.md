@@ -1,10 +1,13 @@
 ---
-type: "Web"
-authors:
-url: "https://www.insideradio.com/free/podcast-listeners-continue-to-be-action-focused-when-it-comes-to-the-ads-they-hear/article_782c27b2-a6b9-11ed-b888-0bd00196e9ee.html"
-published: 2023-02-07
-created: 2026-04-29
+type: Web
+authors: null
+url: >-
+  https://www.insideradio.com/free/podcast-listeners-continue-to-be-action-focused-when-it-comes-to-the-ads-they-hear/article_782c27b2-a6b9-11ed-b888-0bd00196e9ee.html
+published: 2023-02-07T00:00:00.000Z
+created: 2026-04-29T00:00:00.000Z
 tags:
+  - content-marketing
+  - digital-campaigning
 ---
 
 

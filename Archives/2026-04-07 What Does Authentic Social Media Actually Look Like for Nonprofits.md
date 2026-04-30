@@ -1,10 +1,14 @@
 ---
-type: "Web"
-authors: "[[Sarah Suarez]]"
-url: "https://thenonprofithive.com/authentic-social-media-for-nonprofits/?utm_source=brevo&utm_campaign=Newsletter%20Apr%2022%20-%20events&utm_medium=email"
-published: 2026-04-07
-created: 2026-04-29
+type: Web
+authors: '[[Sarah Suarez]]'
+url: >-
+  https://thenonprofithive.com/authentic-social-media-for-nonprofits/?utm_source=brevo&utm_campaign=Newsletter%20Apr%2022%20-%20events&utm_medium=email
+published: 2026-04-07T00:00:00.000Z
+created: 2026-04-29T00:00:00.000Z
 tags:
+  - content-marketing
+  - organizacje-społeczne
+  - strategia-organizacji
 ---
 
 

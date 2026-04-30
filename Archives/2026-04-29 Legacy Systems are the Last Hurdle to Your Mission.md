@@ -1,10 +1,14 @@
 ---
-type: "Web"
-authors: "[[Bryan Neider]]"
-url: "https://www.linkedin.com/pulse/legacy-systems-last-hurdle-your-mission-bryan-neider-pis1c/"
-published: 2026-04-29
-created: 2026-04-29
+type: Web
+authors: '[[Bryan Neider]]'
+url: >-
+  https://www.linkedin.com/pulse/legacy-systems-last-hurdle-your-mission-bryan-neider-pis1c/
+published: 2026-04-29T00:00:00.000Z
+created: 2026-04-29T00:00:00.000Z
 tags:
+  - strategia-AI
+  - organizacje-społeczne
+  - automatyzacja
 ---
 
 

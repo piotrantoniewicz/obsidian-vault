@@ -1,10 +1,13 @@
 ---
-type: "Web"
-authors: "[[Partisan]]"
-url: "https://hub.partisan.community/m/news/what-cybersecurity-practices-political-journalists-adopt-to-stay-safe/bc2f1509-e441-45a4-885d-2c5d95d60ed8"
-published: 2026-04-20
-created: 2026-04-29
+type: Web
+authors: '[[Partisan]]'
+url: >-
+  https://hub.partisan.community/m/news/what-cybersecurity-practices-political-journalists-adopt-to-stay-safe/bc2f1509-e441-45a4-885d-2c5d95d60ed8
+published: 2026-04-20T00:00:00.000Z
+created: 2026-04-29T00:00:00.000Z
 tags:
+  - digital-campaigning
+  - strategia-organizacji
 ---
 
 

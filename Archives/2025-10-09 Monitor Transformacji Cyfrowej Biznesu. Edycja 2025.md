@@ -1,10 +1,14 @@
 ---
-type: "Web"
-authors: "[[KPMG]]"
-url: "https://kpmg.com/pl/pl/wiedza/technologia/monitor-transformacji-cyfrowej-biznesu-edycja-2025.html"
-published: 2025-10-09
-created: 2026-04-30
+type: Web
+authors: '[[KPMG]]'
+url: >-
+  https://kpmg.com/pl/pl/wiedza/technologia/monitor-transformacji-cyfrowej-biznesu-edycja-2025.html
+published: 2025-10-09T00:00:00.000Z
+created: 2026-04-30T00:00:00.000Z
 tags:
+  - trendy-AI
+  - strategia-AI
+  - szkolenia-AI
 ---
 
 

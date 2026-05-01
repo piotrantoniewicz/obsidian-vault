@@ -1,10 +1,14 @@
 ---
-type: "Web"
-authors: "[[Beth O'Malley]]"
-url: "https://weareastral.co.uk/thevault/how-to-write-better-email-subject-lines?utm_medium=email&_hsenc=p2ANqtz-8KG9ej98XU7iPpaJpf5WfL_KWHVOg7n8970A_lzBhKIM1DnP2Nv6H-AWC3sSwfUMKKy9uushc46IU06DjlF15NXjjH17d76Za483TMeSBoDLUlpik&_hsmi=134698468&utm_content=134700280&utm_source=hs_email"
-published: 2026-04-29
-created: 2026-04-30
+type: Web
+authors: '[[Beth O''Malley]]'
+url: >-
+  https://weareastral.co.uk/thevault/how-to-write-better-email-subject-lines?utm_medium=email&_hsenc=p2ANqtz-8KG9ej98XU7iPpaJpf5WfL_KWHVOg7n8970A_lzBhKIM1DnP2Nv6H-AWC3sSwfUMKKy9uushc46IU06DjlF15NXjjH17d76Za483TMeSBoDLUlpik&_hsmi=134698468&utm_content=134700280&utm_source=hs_email
+published: 2026-04-29T00:00:00.000Z
+created: 2026-04-30T00:00:00.000Z
 tags:
+  - digital-campaigning
+  - content-marketing
+  - ghostwriting
 ---
 
 

@@ -2,9 +2,9 @@
 type: Web
 authors: '[[Alex Huntsberger]]'
 url: >-
-  https://neonone.com/resources/blog/recurring-donors/?utm_source=pardot&utm_medium=email&utm_campaign=pardot_email_tofu_rdr_launch_fullaudience_announcement_apr_2026&utm_content=cta_button_get_resource
+  https://neonone.com/resources/blog/recurring-donors/?utm_source=pardot&utm_medium=email&utm_campaign=pardot_email_tofu_rdr_launch_email2_constance_announcement_apr_2026&utm_content=cta_button_get_resource
 published: 2026-04-28T00:00:00.000Z
-created: 2026-04-28T00:00:00.000Z
+created: 2026-04-30T00:00:00.000Z
 tags:
   - fundraising
   - organizacje-społeczne
@@ -16,7 +16,7 @@ tags:
 
 <iframe src="https://www2.neonone.com/l/679793/2026-04-22/2gkv1g" title="Download the 2026 Recurring Donor Report" width="100%" type="text/html" frameborder="0"></iframe>
 
-Neon One’s newest research report is here! It’s *[The Recurring Donor Report: Data-Backed Insights for Sustainable Generosity](https://neonone.com/resources/guide/the-recurring-donor-report/)*, and it shows that recurring donors are growing in number, staying engaged longer, and lending stable, predictable support to their favorite nonprofits.
+Neon One’s newest research report is here! It’s *[**The Recurring Donor Report: Data-Backed Insights for Sustainable Generosity**](https://neonone.com/resources/guide/the-recurring-donor-report/)*, and it shows that recurring donors are growing in number, staying engaged longer, and lending stable, predictable support to their favorite nonprofits.
 
 This is a big deal for the nonprofit sector. Total charitable giving is rising, but the number of people giving to nonprofits has been declining for years. For many organizations, that means they’re relying on a smaller pool of supporters for a larger share of their revenue. That is not a sustainable trend.
 

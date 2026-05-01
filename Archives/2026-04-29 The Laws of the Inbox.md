@@ -1,10 +1,14 @@
 ---
-type: "Web"
-authors: "[[Beth O'Malley]]"
-url: "https://weareastral.co.uk/thevault/the-laws-of-the-inbox?utm_medium=email&_hsenc=p2ANqtz-92_trph927y6nj8PO0sqDwrQh2oai0XW0DP354YmEfzdTYvGKoHEybZQCbw6vrRT7KKmTpfVU1Sjh-NAcAuZ5YzZNeqj-YkIqDZRnCnk629qHSQnw&_hsmi=134698468&utm_content=134700280&utm_source=hs_email"
-published: 2026-04-29
-created: 2026-04-30
+type: Web
+authors: '[[Beth O''Malley]]'
+url: >-
+  https://weareastral.co.uk/thevault/the-laws-of-the-inbox?utm_medium=email&_hsenc=p2ANqtz-92_trph927y6nj8PO0sqDwrQh2oai0XW0DP354YmEfzdTYvGKoHEybZQCbw6vrRT7KKmTpfVU1Sjh-NAcAuZ5YzZNeqj-YkIqDZRnCnk629qHSQnw&_hsmi=134698468&utm_content=134700280&utm_source=hs_email
+published: 2026-04-29T00:00:00.000Z
+created: 2026-04-30T00:00:00.000Z
 tags:
+  - digital-campaigning
+  - content-marketing
+  - strategia-organizacji
 ---
 
 

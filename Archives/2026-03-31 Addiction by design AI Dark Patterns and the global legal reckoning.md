@@ -1,10 +1,13 @@
 ---
-type: "Web"
-authors: "[[Katarzyna Szczesna]]"
-url: "https://behavioralinsight.substack.com/p/addiction-by-design-ai-dark-patterns"
-published: 2026-03-31
-created: 2026-05-01
+type: Web
+authors: '[[Katarzyna Szczesna]]'
+url: 'https://behavioralinsight.substack.com/p/addiction-by-design-ai-dark-patterns'
+published: 2026-03-31T00:00:00.000Z
+created: 2026-05-01T00:00:00.000Z
 tags:
+  - strategia-AI
+  - trendy-AI
+  - digital-campaigning
 ---
 
 

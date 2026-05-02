@@ -1,10 +1,14 @@
 ---
-type: "Web"
-authors: "[[Heather Mansfield]]"
-url: "https://www.nptechforgood.com/2026/01/15/why-personalization-can-make-or-break-virtual-peer-to-peer-fundraisers/"
-published: 2026-01-15
-created: 2026-05-01
+type: Web
+authors: '[[Heather Mansfield]]'
+url: >-
+  https://www.nptechforgood.com/2026/01/15/why-personalization-can-make-or-break-virtual-peer-to-peer-fundraisers/
+published: 2026-01-15T00:00:00.000Z
+created: 2026-05-01T00:00:00.000Z
 tags:
+  - fundraising
+  - digital-campaigning
+  - content-marketing
 ---
 
 

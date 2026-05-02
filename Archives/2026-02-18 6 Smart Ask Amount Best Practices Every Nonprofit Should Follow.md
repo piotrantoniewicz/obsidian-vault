@@ -1,10 +1,14 @@
 ---
-type: "Web"
-authors: "[[Heather Mansfield]]"
-url: "https://www.nptechforgood.com/2026/02/18/6-smart-ask-amount-best-practices-every-nonprofit-should-follow/"
-published: 2026-02-18
-created: 2026-05-01
+type: Web
+authors: '[[Heather Mansfield]]'
+url: >-
+  https://www.nptechforgood.com/2026/02/18/6-smart-ask-amount-best-practices-every-nonprofit-should-follow/
+published: 2026-02-18T00:00:00.000Z
+created: 2026-05-01T00:00:00.000Z
 tags:
+  - fundraising
+  - narzędzia-AI
+  - organizacje-społeczne
 ---
 
 

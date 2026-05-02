@@ -1,10 +1,13 @@
 ---
-type: "Web"
-authors: "[[Tom Iselin]]"
-url: "https://bloomerang.com/blog/your-board-isnt-working-why-a-board-retreat-might-be-the-best-investment-your-nonprofit-makes-this-year/?utm_medium=email_newsletter&utm_source=marketo&utm_campaign=26Q2-InBloom&utm_targeting=NA_all&utm_content=blog_board-retreat_email-05-01&mkt_tok=NjE4LVdHSS00NTkAAAGhg-Wlwt9h_Lg1MQO4mfqHLFi-25w1d8UIVFeZUFmkwxj_n57BnhstX_Hm_3vU0EXBeusoK9eL-I9h2CijVR6dFHcZlRYNqY_hdFXhm8C3XUjRhYc"
-published: 2026-04-22
-created: 2026-05-01
+type: Web
+authors: '[[Tom Iselin]]'
+url: >-
+  https://bloomerang.com/blog/your-board-isnt-working-why-a-board-retreat-might-be-the-best-investment-your-nonprofit-makes-this-year/?utm_medium=email_newsletter&utm_source=marketo&utm_campaign=26Q2-InBloom&utm_targeting=NA_all&utm_content=blog_board-retreat_email-05-01&mkt_tok=NjE4LVdHSS00NTkAAAGhg-Wlwt9h_Lg1MQO4mfqHLFi-25w1d8UIVFeZUFmkwxj_n57BnhstX_Hm_3vU0EXBeusoK9eL-I9h2CijVR6dFHcZlRYNqY_hdFXhm8C3XUjRhYc
+published: 2026-04-22T00:00:00.000Z
+created: 2026-05-01T00:00:00.000Z
 tags:
+  - strategia-organizacji
+  - organizacje-społeczne
 ---
 
 

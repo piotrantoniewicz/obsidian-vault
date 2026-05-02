@@ -1,10 +1,14 @@
 ---
-type: "Web"
-authors: "[[Jessica Fox]]"
-url: "https://www.eventgroove.com/blog/charity-sweepstakes-or-raffles-which-is-the-better-nonprofit-fundraiser/?utm_source=NPTG&utm_medium=referral&utm_campaign=sweepstakes?utm_source=nptechforgood&utm_medium=partner&utm_campaign=paid_nptechforgood_multichannel_tofu_march_feature_q1_2026"
-published: 2026-03-16
-created: 2026-05-01
+type: Web
+authors: '[[Jessica Fox]]'
+url: >-
+  https://www.eventgroove.com/blog/charity-sweepstakes-or-raffles-which-is-the-better-nonprofit-fundraiser/?utm_source=NPTG&utm_medium=referral&utm_campaign=sweepstakes?utm_source=nptechforgood&utm_medium=partner&utm_campaign=paid_nptechforgood_multichannel_tofu_march_feature_q1_2026
+published: 2026-03-16T00:00:00.000Z
+created: 2026-05-01T00:00:00.000Z
 tags:
+  - fundraising
+  - digital-campaigning
+  - organizacje-społeczne
 ---
 
 

@@ -1,10 +1,14 @@
 ---
-type: "Web"
-authors: "[[Kristin  Burnham]]"
-url: "https://mitsloan.mit.edu/ideas-made-to-matter/how-ai-reshaping-workflows-and-redefining-jobs?utm_source=ActiveCampaign&utm_medium=email&utm_content=AI%20Flash%20Business%20%2332&utm_campaign=AI%20Flash%20Business%20%2331%20%28Kopiuj%29"
-published: 2026-04-22
-created: 2026-05-02
+type: Web
+authors: '[[Kristin  Burnham]]'
+url: >-
+  https://mitsloan.mit.edu/ideas-made-to-matter/how-ai-reshaping-workflows-and-redefining-jobs?utm_source=ActiveCampaign&utm_medium=email&utm_content=AI%20Flash%20Business%20%2332&utm_campaign=AI%20Flash%20Business%20%2331%20%28Kopiuj%29
+published: 2026-04-22T00:00:00.000Z
+created: 2026-05-02T00:00:00.000Z
 tags:
+  - automatyzacja
+  - strategia-AI
+  - trendy-AI
 ---
 
 

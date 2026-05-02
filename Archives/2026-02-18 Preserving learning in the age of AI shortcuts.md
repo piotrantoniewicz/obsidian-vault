@@ -1,10 +1,14 @@
 ---
-type: "Web"
-authors: "[[Samantha Laine Perfas]]"
-url: "https://news.harvard.edu/gazette/story/2026/02/preserving-learning-in-the-age-of-ai-shortcuts/?utm_source=SilverpopMailing&utm_medium=email&utm_campaign=Daily%20Gazette%2020260219%20(1)&spMailingID=36174714&spUserID=MzQ0ODg3MDMzMjQ3S0&spJobID=3083546943&spReportId=MzA4MzU0Njk0MwS2&utm_source=ActiveCampaign&utm_medium=email&utm_content=AI%20Flash%20Business%20%2323&utm_campaign=AI%20Flash%20Business%20%2321%20%28Kopiuj%29"
-published: 2026-02-18
-created: 2026-05-02
+type: Web
+authors: "[[Samantha Laine\_Perfas]]"
+url: >-
+  https://news.harvard.edu/gazette/story/2026/02/preserving-learning-in-the-age-of-ai-shortcuts/?utm_source=SilverpopMailing&utm_medium=email&utm_campaign=Daily%20Gazette%2020260219%20(1)&spMailingID=36174714&spUserID=MzQ0ODg3MDMzMjQ3S0&spJobID=3083546943&spReportId=MzA4MzU0Njk0MwS2&utm_source=ActiveCampaign&utm_medium=email&utm_content=AI%20Flash%20Business%20%2323&utm_campaign=AI%20Flash%20Business%20%2321%20%28Kopiuj%29
+published: 2026-02-18T00:00:00.000Z
+created: 2026-05-02T00:00:00.000Z
 tags:
+  - szkolenia-AI
+  - strategia-AI
+  - trendy-AI
 ---
 
 

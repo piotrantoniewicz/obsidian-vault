@@ -1,10 +1,14 @@
 ---
-type: "Web"
-authors: "[[Anca Boboc]]"
-url: "https://hellofuture.orange.com/en/understanding-the-uses-of-ai-in-business-to-better-support-them/?utm_source=ActiveCampaign&utm_medium=email&utm_content=AI%20Flash%20Business%20%2327&utm_campaign=AI%20Flash%20Business%20%2325%20%28Kopiuj%29"
-published: 2026-03-24
-created: 2026-05-02
+type: Web
+authors: '[[Anca Boboc]]'
+url: >-
+  https://hellofuture.orange.com/en/understanding-the-uses-of-ai-in-business-to-better-support-them/?utm_source=ActiveCampaign&utm_medium=email&utm_content=AI%20Flash%20Business%20%2327&utm_campaign=AI%20Flash%20Business%20%2325%20%28Kopiuj%29
+published: 2026-03-24T00:00:00.000Z
+created: 2026-05-02T00:00:00.000Z
 tags:
+  - strategia-AI
+  - szkolenia-AI
+  - strategia-organizacji
 ---
 
 

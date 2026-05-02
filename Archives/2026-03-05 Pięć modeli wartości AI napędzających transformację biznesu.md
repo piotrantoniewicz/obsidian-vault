@@ -1,10 +1,14 @@
 ---
-type: "Web"
-authors: "[[OpenAI]]"
-url: "https://openai.com/pl-PL/index/the-five-ai-value-models-driving-business-reinvention/?utm_source=ActiveCampaign&utm_medium=email&utm_content=AI%20Flash%20Business%20%2330&utm_campaign=AI%20Flash%20Business%20%2328%20%28Kopiuj%29"
-published: 2026-03-05
-created: 2026-05-02
+type: Web
+authors: '[[OpenAI]]'
+url: >-
+  https://openai.com/pl-PL/index/the-five-ai-value-models-driving-business-reinvention/?utm_source=ActiveCampaign&utm_medium=email&utm_content=AI%20Flash%20Business%20%2330&utm_campaign=AI%20Flash%20Business%20%2328%20%28Kopiuj%29
+published: 2026-03-05T00:00:00.000Z
+created: 2026-05-02T00:00:00.000Z
 tags:
+  - strategia-AI
+  - narzędzia-AI
+  - automatyzacja
 ---
 
 

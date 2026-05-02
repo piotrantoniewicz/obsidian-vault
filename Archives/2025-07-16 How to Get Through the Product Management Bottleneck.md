@@ -1,10 +1,14 @@
 ---
-type: "Web"
-authors: "[[ DeepLearning.AI]]"
-url: "https://www.deeplearning.ai/the-batch/how-to-get-through-the-product-management-bottleneck/?utm_campaign=The%20Batch&utm_medium=email&_hsenc=p2ANqtz-9XMMG87YCE4BXMZKJ_2By2URQVTnOtpX_8aRFZMrnSl_61BK5zbsjsI5yfef6TOsGAfftvKDU5yG_7quvIJYHaqdbqXOgmeAVZdcrQGt01lyvvzpA&_hsmi=414233058&utm_content=414232119&utm_source=hs_email"
-published: 2025-07-16
-created: 2026-05-01
+type: Web
+authors: '[[ DeepLearning.AI]]'
+url: >-
+  https://www.deeplearning.ai/the-batch/how-to-get-through-the-product-management-bottleneck/?utm_campaign=The%20Batch&utm_medium=email&_hsenc=p2ANqtz-9XMMG87YCE4BXMZKJ_2By2URQVTnOtpX_8aRFZMrnSl_61BK5zbsjsI5yfef6TOsGAfftvKDU5yG_7quvIJYHaqdbqXOgmeAVZdcrQGt01lyvvzpA&_hsmi=414233058&utm_content=414232119&utm_source=hs_email
+published: 2025-07-16T00:00:00.000Z
+created: 2026-05-01T00:00:00.000Z
 tags:
+  - strategia-AI
+  - produkty-cyfrowe
+  - trendy-AI
 ---
 
 

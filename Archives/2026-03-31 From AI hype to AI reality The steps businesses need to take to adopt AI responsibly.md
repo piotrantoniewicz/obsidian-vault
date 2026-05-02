@@ -1,10 +1,14 @@
 ---
-type: "Web"
-authors: "[[Chris Huntingford]]"
-url: "https://www.itpro.com/technology/artificial-intelligence/from-ai-hype-to-ai-reality-the-steps-businesses-need-to-take-to-adopt-ai-responsibly?utm_source=ActiveCampaign&utm_medium=email&utm_content=AI%20Flash%20Business%20%2328&utm_campaign=AI%20Flash%20Business%20%2326%20%28Copy%29"
-published: 2026-03-31
-created: 2026-05-02
+type: Web
+authors: '[[Chris Huntingford]]'
+url: >-
+  https://www.itpro.com/technology/artificial-intelligence/from-ai-hype-to-ai-reality-the-steps-businesses-need-to-take-to-adopt-ai-responsibly?utm_source=ActiveCampaign&utm_medium=email&utm_content=AI%20Flash%20Business%20%2328&utm_campaign=AI%20Flash%20Business%20%2326%20%28Copy%29
+published: 2026-03-31T00:00:00.000Z
+created: 2026-05-02T00:00:00.000Z
 tags:
+  - strategia-AI
+  - szkolenia-AI
+  - trendy-AI
 ---
 
 

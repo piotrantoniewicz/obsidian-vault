@@ -1,10 +1,14 @@
 ---
-type: "Web"
-authors: "[[Feathr]]"
-url: "https://www.feathr.co/resources/case-studies/local-ymca-finds-new-members-donors-with-feathr?utm_term=case-study-ymca&utm_campaign=case-study-ymca-082624&utm_medium=marketing_email&_hsenc=p2ANqtz--GjUIgfS95ehGoyeY1gQg38JH4F-Jt5JOYFnaM54irprq3sl9n0OCWry-Nvhveko0R4EnvFIa1MewsnR2annFg4UgNKYhJs8XH6ZSddkLiKjNPFqo&_hsmi=361705595&utm_content=%5BCase%20Study%5D%20YMCA%20-%20Promo%201%20-%20Auto%20send&utm_source=case_study_email"
-published:
-created: 2026-05-01
+type: Web
+authors: '[[Feathr]]'
+url: >-
+  https://www.feathr.co/resources/case-studies/local-ymca-finds-new-members-donors-with-feathr?utm_term=case-study-ymca&utm_campaign=case-study-ymca-082624&utm_medium=marketing_email&_hsenc=p2ANqtz--GjUIgfS95ehGoyeY1gQg38JH4F-Jt5JOYFnaM54irprq3sl9n0OCWry-Nvhveko0R4EnvFIa1MewsnR2annFg4UgNKYhJs8XH6ZSddkLiKjNPFqo&_hsmi=361705595&utm_content=%5BCase%20Study%5D%20YMCA%20-%20Promo%201%20-%20Auto%20send&utm_source=case_study_email
+published: null
+created: 2026-05-01T00:00:00.000Z
 tags:
+  - fundraising
+  - digital-campaigning
+  - organizacje-społeczne
 ---
 
 

@@ -1,10 +1,14 @@
 ---
-type: "Web"
-authors: "[[Nilmini Rubin]]"
-url: "https://www.weforum.org/stories/2026/02/ai-governance-businesses-hold-them-back/?utm_source=ActiveCampaign&utm_medium=email&utm_content=AI%20Flash%20Business%20%2323&utm_campaign=AI%20Flash%20Business%20%2321%20%28Kopiuj%29"
-published: 2026-02-20
-created: 2026-05-02
+type: Web
+authors: '[[Nilmini Rubin]]'
+url: >-
+  https://www.weforum.org/stories/2026/02/ai-governance-businesses-hold-them-back/?utm_source=ActiveCampaign&utm_medium=email&utm_content=AI%20Flash%20Business%20%2323&utm_campaign=AI%20Flash%20Business%20%2321%20%28Kopiuj%29
+published: 2026-02-20T00:00:00.000Z
+created: 2026-05-02T00:00:00.000Z
 tags:
+  - strategia-AI
+  - trendy-AI
+  - organizacje-społeczne
 ---
 
 

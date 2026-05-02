@@ -1,10 +1,13 @@
 ---
-type: "Web"
-authors: "[[Heather Mansfield]]"
-url: "https://www.nptechforgood.com/2026/02/28/14-job-boards-for-nonprofit-professionals-worldwide/"
-published: 2026-02-28
-created: 2026-05-01
+type: Web
+authors: '[[Heather Mansfield]]'
+url: >-
+  https://www.nptechforgood.com/2026/02/28/14-job-boards-for-nonprofit-professionals-worldwide/
+published: 2026-02-28T00:00:00.000Z
+created: 2026-05-01T00:00:00.000Z
 tags:
+  - organizacje-społeczne
+  - szkolenia-AI
 ---
 
 

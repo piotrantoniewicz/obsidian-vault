@@ -5,6 +5,9 @@ url: "https://behavioralinsight.substack.com/p/wdrazanie-odpowiedzialnej-sztuczn
 published: 2025-09-03
 created: 2026-05-01
 tags:
+  - "strategia-AI"
+  - "trendy-AI"
+  - "framing"
 ---
 
 

@@ -1,10 +1,13 @@
 ---
-type: "Web"
-authors: "[[Kavahn Mansouri]]"
-url: "https://www.kcur.org/politics-elections-and-government/2026-04-09/festus-missouri-data-center-election-city-council?utm_campaign=The%20Batch&utm_medium=email&_hsenc=p2ANqtz-_EemDue7wYUsvzFUOnLstaox3XG4JgsEnrTKF70u8t9-qo_sS8EGL2d-ZSNrrAn4qJq1ItswXLdsPhBpOFjnPJAaZg0R6i952PoKhNbCHk93_NbLk&_hsmi=415463087&utm_content=415462208&utm_source=hs_email"
-published: 2026-04-09
-created: 2026-05-01
+type: Web
+authors: '[[Kavahn Mansouri]]'
+url: >-
+  https://www.kcur.org/politics-elections-and-government/2026-04-09/festus-missouri-data-center-election-city-council?utm_campaign=The%20Batch&utm_medium=email&_hsenc=p2ANqtz-_EemDue7wYUsvzFUOnLstaox3XG4JgsEnrTKF70u8t9-qo_sS8EGL2d-ZSNrrAn4qJq1ItswXLdsPhBpOFjnPJAaZg0R6i952PoKhNbCHk93_NbLk&_hsmi=415463087&utm_content=415462208&utm_source=hs_email
+published: 2026-04-09T00:00:00.000Z
+created: 2026-05-01T00:00:00.000Z
 tags:
+  - digital-campaigning
+  - organizacje-społeczne
 ---
 
 

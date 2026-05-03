@@ -5,6 +5,9 @@ url: "https://behavioralinsight.substack.com/p/projektowanie-zachowan-zamiast-sl
 published: 2025-12-05
 created: 2026-05-01
 tags:
+  - "strategia-AI"
+  - "szkolenia-AI"
+  - "strategia-organizacji"
 ---
 
 

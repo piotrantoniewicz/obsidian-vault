@@ -5,6 +5,9 @@ url: "https://haimagazine.com/pl/ai_branza/biznes/czlowiek-wartoscia-premium-jak
 published: 2026-03-20
 created: 2026-05-02
 tags:
+  - "strategia-AI"
+  - "szkolenia-AI"
+  - "strategia-organizacji"
 ---
 
 

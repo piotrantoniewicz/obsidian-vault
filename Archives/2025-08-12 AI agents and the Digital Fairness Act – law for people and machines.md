@@ -1,10 +1,12 @@
 ---
-type: "Web"
-authors: "[[Katarzyna Szczesna]]"
-url: "https://behavioralinsight.substack.com/p/ai-agents-and-the-digital-fairness"
-published: 2025-08-12
-created: 2026-05-01
+type: Web
+authors: '[[Katarzyna Szczesna]]'
+url: 'https://behavioralinsight.substack.com/p/ai-agents-and-the-digital-fairness'
+published: 2025-08-12T00:00:00.000Z
+created: 2026-05-01T00:00:00.000Z
 tags:
+  - trendy-AI
+  - strategia-AI
 ---
 
 

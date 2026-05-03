@@ -5,6 +5,8 @@ url: "https://www.politico.com/news/2026/04/08/wisconsin-city-passes-nations-fir
 published: 2026-04-08
 created: 2026-05-01
 tags:
+  - "digital-campaigning"
+  - "trendy-AI"
 ---
 
 

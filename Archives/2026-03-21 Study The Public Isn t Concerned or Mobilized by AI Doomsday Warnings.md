@@ -1,10 +1,14 @@
 ---
-type: "Web"
-authors: "[[Nirit Weiss-Blatt]]"
-url: "https://www.aipanic.news/p/study-the-public-isnt-concerned-or?utm_campaign=The%20Batch&utm_medium=email&_hsenc=p2ANqtz-8CUE5V_qbteP-e9KYd2Lb32iwpIY_r_eNkuemrXJM3eZIvtykyLpws8EIMpC6cfLkk1l1PphidnOlk-eZ2970u16tWRjFRyVq-YGb1OowOWBb0OhA&_hsmi=410856579&utm_content=410856141&utm_source=hs_email"
-published: 2026-03-21
-created: 2026-05-01
+type: Web
+authors: '[[Nirit Weiss-Blatt]]'
+url: >-
+  https://www.aipanic.news/p/study-the-public-isnt-concerned-or?utm_campaign=The%20Batch&utm_medium=email&_hsenc=p2ANqtz-8CUE5V_qbteP-e9KYd2Lb32iwpIY_r_eNkuemrXJM3eZIvtykyLpws8EIMpC6cfLkk1l1PphidnOlk-eZ2970u16tWRjFRyVq-YGb1OowOWBb0OhA&_hsmi=410856579&utm_content=410856141&utm_source=hs_email
+published: 2026-03-21T00:00:00.000Z
+created: 2026-05-01T00:00:00.000Z
 tags:
+  - framing
+  - digital-campaigning
+  - trendy-AI
 ---
 
 

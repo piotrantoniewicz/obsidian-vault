@@ -1,10 +1,12 @@
 ---
-type: "Web"
-authors: "[[Lauren Meyer]]"
-url: "https://send-it-right.com/blog/analyzing-recipient-behavior-for-email-success"
-published: 2024-12-18
-created: 2026-05-04
+type: Web
+authors: '[[Lauren Meyer]]'
+url: 'https://send-it-right.com/blog/analyzing-recipient-behavior-for-email-success'
+published: 2024-12-18T00:00:00.000Z
+created: 2026-05-04T00:00:00.000Z
 tags:
+  - fundraising
+  - digital-campaigning
 ---
 
 

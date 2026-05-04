@@ -1,10 +1,14 @@
 ---
-type: "Web"
-authors: "[[OpenAI]]"
-url: "https://openai.com/business/guides-and-resources/chatgpt-usage-and-adoption-patterns-at-work/?utm_source=ActiveCampaign&utm_medium=email&utm_content=AI%20Flash%20Business%20%2319&utm_campaign=AI%20Flash%20Business%20%2318%20%28Kopiuj%29"
-published: 2025-12-17
-created: 2026-05-03
+type: Web
+authors: '[[OpenAI]]'
+url: >-
+  https://openai.com/business/guides-and-resources/chatgpt-usage-and-adoption-patterns-at-work/?utm_source=ActiveCampaign&utm_medium=email&utm_content=AI%20Flash%20Business%20%2319&utm_campaign=AI%20Flash%20Business%20%2318%20%28Kopiuj%29
+published: 2025-12-17T00:00:00.000Z
+created: 2026-05-03T00:00:00.000Z
 tags:
+  - trendy-AI
+  - strategia-AI
+  - narzędzia-AI
 ---
 
 

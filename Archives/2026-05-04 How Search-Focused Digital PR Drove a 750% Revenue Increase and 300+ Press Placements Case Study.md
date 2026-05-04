@@ -1,10 +1,14 @@
 ---
-type: "Web"
-authors: "[[Matt Diggity]]"
-url: "https://diggitymarketing.com/search-focused-digital-pr-case-study/?utm_source=bento&utm_medium=email&utm_campaign=broadcast&bento_uuid=3fe30eff-8438-4668-8828-6f6bb6008181"
-published: 2026-05-04
-created: 2026-05-04
+type: Web
+authors: '[[Matt Diggity]]'
+url: >-
+  https://diggitymarketing.com/search-focused-digital-pr-case-study/?utm_source=bento&utm_medium=email&utm_campaign=broadcast&bento_uuid=3fe30eff-8438-4668-8828-6f6bb6008181
+published: 2026-05-04T00:00:00.000Z
+created: 2026-05-04T00:00:00.000Z
 tags:
+  - content-marketing
+  - digital-campaigning
+  - trendy-AI
 ---
 
 

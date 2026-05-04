@@ -1,10 +1,14 @@
 ---
-type: "Web"
-authors: "[[Aashna Kircher]]"
-url: "https://www.weforum.org/stories/2026/01/why-ai-for-business-means-investing-in-its-people/?utm_source=ActiveCampaign&utm_medium=email&utm_content=AI%20Flash%20Business%20%2319&utm_campaign=AI%20Flash%20Business%20%2318%20%28Kopiuj%29"
-published: 2026-01-20
-created: 2026-05-03
+type: Web
+authors: '[[Aashna Kircher]]'
+url: >-
+  https://www.weforum.org/stories/2026/01/why-ai-for-business-means-investing-in-its-people/?utm_source=ActiveCampaign&utm_medium=email&utm_content=AI%20Flash%20Business%20%2319&utm_campaign=AI%20Flash%20Business%20%2318%20%28Kopiuj%29
+published: 2026-01-20T00:00:00.000Z
+created: 2026-05-03T00:00:00.000Z
 tags:
+  - strategia-AI
+  - szkolenia-AI
+  - organizacje-społeczne
 ---
 
 

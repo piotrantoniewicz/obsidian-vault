@@ -1,10 +1,14 @@
 ---
-type: "Web"
-authors: "[[Timothy Montalvo]]"
-url: "https://www.eschoolnews.com/digital-learning/2026/01/13/ai-for-empathy-using-generative-tools/?utm_source=ActiveCampaign&utm_medium=email&utm_content=AI%20Flash%20Business%20%2317&utm_campaign=AI%20Flash%20Business%20%2314%20%28Kopiuj%29"
-published: 2026-01-13
-created: 2026-05-03
+type: Web
+authors: '[[Timothy Montalvo]]'
+url: >-
+  https://www.eschoolnews.com/digital-learning/2026/01/13/ai-for-empathy-using-generative-tools/?utm_source=ActiveCampaign&utm_medium=email&utm_content=AI%20Flash%20Business%20%2317&utm_campaign=AI%20Flash%20Business%20%2314%20%28Kopiuj%29
+published: 2026-01-13T00:00:00.000Z
+created: 2026-05-03T00:00:00.000Z
 tags:
+  - szkolenia-AI
+  - narzędzia-AI
+  - strategia-AI
 ---
 
 

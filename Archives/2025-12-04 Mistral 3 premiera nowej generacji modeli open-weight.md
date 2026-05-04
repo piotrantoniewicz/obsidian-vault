@@ -1,10 +1,14 @@
 ---
-type: "Web"
-authors: "[[Karolina Ceroń]]"
-url: "https://haimagazine.com/pl/ai_news/mistral-3-premiera-nowej-generacji-modeli-open-weight/?utm_source=ActiveCampaign&utm_medium=email&utm_content=AI%20Flash%20%2365%3A%20%20UNDP%20ostrzega%20przed%20nier%C3%B3wno%C5%9Bci%C4%85%20cyfrow%C4%85%2C%20AI%20skraca%20drog%C4%99%20na%20plac%20budowy%2C%20a%20Micha%C5%82%20Anio%C5%82%20maluje%20tarcz%C4%99%20dla%20NATO&utm_campaign=AI%20Flash%20%2364%20%28Kopiuj%29"
-published: 2025-12-04
-created: 2026-05-04
+type: Web
+authors: '[[Karolina Ceroń]]'
+url: >-
+  https://haimagazine.com/pl/ai_news/mistral-3-premiera-nowej-generacji-modeli-open-weight/?utm_source=ActiveCampaign&utm_medium=email&utm_content=AI%20Flash%20%2365%3A%20%20UNDP%20ostrzega%20przed%20nier%C3%B3wno%C5%9Bci%C4%85%20cyfrow%C4%85%2C%20AI%20skraca%20drog%C4%99%20na%20plac%20budowy%2C%20a%20Micha%C5%82%20Anio%C5%82%20maluje%20tarcz%C4%99%20dla%20NATO&utm_campaign=AI%20Flash%20%2364%20%28Kopiuj%29
+published: 2025-12-04T00:00:00.000Z
+created: 2026-05-04T00:00:00.000Z
 tags:
+  - narzędzia-AI
+  - LLM
+  - trendy-AI
 ---
 
 

@@ -1,10 +1,13 @@
 ---
-type: "Web"
-authors: "[[David Heacock]]"
-url: "https://fortune.com/2026/02/08/im-a-ceo-who-grew-a-boring-air-filter-business-into-a-260-million-company-and-ai-is-going-to-help-blue-collar-everyday-people-just-like-me/?utm_source=ActiveCampaign&utm_medium=email&utm_content=AI%20Flash%20Business%20%2321&utm_campaign=AI%20Flash%20Business%20%2319%20%28Kopiuj%29"
-published: 2026-02-08
-created: 2026-05-03
+type: Web
+authors: '[[David Heacock]]'
+url: >-
+  https://fortune.com/2026/02/08/im-a-ceo-who-grew-a-boring-air-filter-business-into-a-260-million-company-and-ai-is-going-to-help-blue-collar-everyday-people-just-like-me/?utm_source=ActiveCampaign&utm_medium=email&utm_content=AI%20Flash%20Business%20%2321&utm_campaign=AI%20Flash%20Business%20%2319%20%28Kopiuj%29
+published: 2026-02-08T00:00:00.000Z
+created: 2026-05-03T00:00:00.000Z
 tags:
+  - strategia-AI
+  - organizacje-społeczne
 ---
 
 

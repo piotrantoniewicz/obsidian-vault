@@ -1,10 +1,14 @@
 ---
-type: "Web"
-authors:
-url: "https://www.cambridge.org/news-and-insights/note-taking-more-effective-than-ai-for-learning?utm_campaign=corporate_social&utm_medium=social&utm_source=facebook&fbclid=IwdGRjcAOiPFBjbGNrA6I8PmV4dG4DYWVtAjExAHNydGMGYXBwX2lkDDM1MDY4NTUzMTcyOAABHkXD9PNVADCbsxfLJ36avPZ_F9AzdTNZsn54cOaSW1oiKiKOUidlieF-wDJ6_aem_k92EGVp-Yq8Yc-qOMKmcew&utm_source=ActiveCampaign&utm_medium=email&utm_content=AI%20Flash%20Business%20%2313&utm_campaign=AI%20Flash%20Business%20%2311%20%28Kopiuj%29"
-published: 2025-12-04
-created: 2026-05-04
+type: Web
+authors: null
+url: >-
+  https://www.cambridge.org/news-and-insights/note-taking-more-effective-than-ai-for-learning?utm_campaign=corporate_social&utm_medium=social&utm_source=facebook&fbclid=IwdGRjcAOiPFBjbGNrA6I8PmV4dG4DYWVtAjExAHNydGMGYXBwX2lkDDM1MDY4NTUzMTcyOAABHkXD9PNVADCbsxfLJ36avPZ_F9AzdTNZsn54cOaSW1oiKiKOUidlieF-wDJ6_aem_k92EGVp-Yq8Yc-qOMKmcew&utm_source=ActiveCampaign&utm_medium=email&utm_content=AI%20Flash%20Business%20%2313&utm_campaign=AI%20Flash%20Business%20%2311%20%28Kopiuj%29
+published: 2025-12-04T00:00:00.000Z
+created: 2026-05-04T00:00:00.000Z
 tags:
+  - szkolenia-AI
+  - LLM
+  - trendy-AI
 ---
 
 

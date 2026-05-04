@@ -2,9 +2,9 @@
 type: Web
 authors: '[[Redakcja]]'
 url: >-
-  https://haimagazine.com/pl/ai_branza/biznes/zielony-rachunek-za-ai/?utm_source=ActiveCampaign&utm_medium=email&utm_content=Do%C5%82%C4%85cz%20do%20Mastermind%2C%20wpadnij%20na%20Office%20Hours%20i%20sprawd%C5%BA%2C%20jak%20AI%20zmienia%20analityk%C4%99&utm_campaign=Mastermind%2C%20analityka%20w%20marketingu%20i%20Office%20Hours
+  https://haimagazine.com/pl/ai_branza/biznes/zielony-rachunek-za-ai/?utm_source=ActiveCampaign&utm_medium=email&utm_content=AI%20Flash%20Business%20%2321&utm_campaign=AI%20Flash%20Business%20%2319%20%28Kopiuj%29
 published: 2026-02-05T00:00:00.000Z
-created: 2026-03-24T00:00:00.000Z
+created: 2026-05-03T00:00:00.000Z
 tags:
   - trendy-AI
   - strategia-AI

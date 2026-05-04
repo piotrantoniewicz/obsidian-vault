@@ -1,10 +1,14 @@
 ---
-type: "Web"
-authors: "[[NASK]]"
-url: "https://www.nask.pl/magazyn/koszty-i-korzysci-wdrazania-technologii-sztucznej-inteligencji-w-spolecznej-swiadomosci?utm_source=ActiveCampaign&utm_medium=email&utm_content=AI%20Flash%20%2385%3A%20Claude%20w%20pracowni%20artysty%2C%20Meta%20w%20obj%C4%99ciach%20S%C5%82o%C5%84ca%20i%20podcast%20w%20koszyku&utm_campaign=AI%20Flash%20%2384%20%28Kopiuj%29"
-published: 2026-04-02
-created: 2026-05-04
+type: Web
+authors: '[[NASK]]'
+url: >-
+  https://www.nask.pl/magazyn/koszty-i-korzysci-wdrazania-technologii-sztucznej-inteligencji-w-spolecznej-swiadomosci?utm_source=ActiveCampaign&utm_medium=email&utm_content=AI%20Flash%20%2385%3A%20Claude%20w%20pracowni%20artysty%2C%20Meta%20w%20obj%C4%99ciach%20S%C5%82o%C5%84ca%20i%20podcast%20w%20koszyku&utm_campaign=AI%20Flash%20%2384%20%28Kopiuj%29
+published: 2026-04-02T00:00:00.000Z
+created: 2026-05-04T00:00:00.000Z
 tags:
+  - strategia-AI
+  - trendy-AI
+  - organizacje-społeczne
 ---
 
 

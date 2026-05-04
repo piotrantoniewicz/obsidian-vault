@@ -1,10 +1,13 @@
 ---
-type: "Web"
-authors: "[[Thariq Shihipar]]"
-url: "https://x.com/trq212/status/2033949937936085378?s=46"
-published: 2026-03-17
-created: 2026-05-01
+type: Web
+authors: '[[Thariq Shihipar]]'
+url: 'https://x.com/trq212/status/2033949937936085378?s=46'
+published: 2026-03-17T00:00:00.000Z
+created: 2026-05-01T00:00:00.000Z
 tags:
+  - narzędzia-AI
+  - automatyzacja
+  - prompt-engineering
 ---
 
 

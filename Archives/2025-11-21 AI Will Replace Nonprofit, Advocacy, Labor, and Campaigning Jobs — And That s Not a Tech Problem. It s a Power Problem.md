@@ -1,10 +1,14 @@
 ---
-type: "Web"
-authors: "[[Brad Caldana]]"
-url: "https://www.linkedin.com/pulse/ai-replace-nonprofit-advocacy-labor-campaigning-jobs-thats-caldana-bh4hc/"
-published: 2025-11-21
-created: 2026-05-03
+type: Web
+authors: '[[Brad Caldana]]'
+url: >-
+  https://www.linkedin.com/pulse/ai-replace-nonprofit-advocacy-labor-campaigning-jobs-thats-caldana-bh4hc/
+published: 2025-11-21T00:00:00.000Z
+created: 2026-05-03T00:00:00.000Z
 tags:
+  - organizacje-społeczne
+  - digital-campaigning
+  - strategia-AI
 ---
 
 

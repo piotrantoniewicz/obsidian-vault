@@ -1,10 +1,14 @@
 ---
-type: "Web"
-authors: "[[Jeanne Jennings]]"
-url: "https://martech.org/a-practical-framework-for-ai-disclosure-in-marketing/?utm_source=ActiveCampaign&utm_medium=email&utm_content=AI%20Flash%20Business%20%2319&utm_campaign=AI%20Flash%20Business%20%2318%20%28Kopiuj%29"
-published: 2026-01-21
-created: 2026-05-03
+type: Web
+authors: '[[Jeanne Jennings]]'
+url: >-
+  https://martech.org/a-practical-framework-for-ai-disclosure-in-marketing/?utm_source=ActiveCampaign&utm_medium=email&utm_content=AI%20Flash%20Business%20%2319&utm_campaign=AI%20Flash%20Business%20%2318%20%28Kopiuj%29
+published: 2026-01-21T00:00:00.000Z
+created: 2026-05-03T00:00:00.000Z
 tags:
+  - strategia-AI
+  - content-marketing
+  - ghostwriting
 ---
 
 

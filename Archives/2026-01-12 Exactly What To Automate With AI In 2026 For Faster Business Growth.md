@@ -1,10 +1,14 @@
 ---
-type: "Web"
-authors: "[[Jodie Cook]]"
-url: "https://www.forbes.com/sites/jodiecook/2026/01/12/exactly-what-to-automate-with-ai-in-2026-for-faster-business-growth/?ss=ai&referrer=grok.com&utm_source=ActiveCampaign&utm_medium=email&utm_content=AI%20Flash%20Business%20%2317&utm_campaign=AI%20Flash%20Business%20%2314%20%28Kopiuj%29"
-published: 2026-01-12
-created: 2026-05-03
+type: Web
+authors: '[[Jodie Cook]]'
+url: >-
+  https://www.forbes.com/sites/jodiecook/2026/01/12/exactly-what-to-automate-with-ai-in-2026-for-faster-business-growth/?ss=ai&referrer=grok.com&utm_source=ActiveCampaign&utm_medium=email&utm_content=AI%20Flash%20Business%20%2317&utm_campaign=AI%20Flash%20Business%20%2314%20%28Kopiuj%29
+published: 2026-01-12T00:00:00.000Z
+created: 2026-05-03T00:00:00.000Z
 tags:
+  - automatyzacja
+  - narzędzia-AI
+  - strategia-AI
 ---
 
 

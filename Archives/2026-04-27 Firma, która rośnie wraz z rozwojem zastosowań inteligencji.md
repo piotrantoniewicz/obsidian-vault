@@ -1,10 +1,14 @@
 ---
-type: "Web"
-authors: "[[OpenAI]]"
-url: "https://openai.com/pl-PL/index/a-business-that-scales-with-the-value-of-intelligence/?utm_source=ActiveCampaign&utm_medium=email&utm_content=AI+Flash+Business+%2318&utm_campaign=AI+Flash+%2370+%28Kopiuj%29"
-published: 2026-04-27
-created: 2026-05-03
+type: Web
+authors: '[[OpenAI]]'
+url: >-
+  https://openai.com/pl-PL/index/a-business-that-scales-with-the-value-of-intelligence/?utm_source=ActiveCampaign&utm_medium=email&utm_content=AI+Flash+Business+%2318&utm_campaign=AI+Flash+%2370+%28Kopiuj%29
+published: 2026-04-27T00:00:00.000Z
+created: 2026-05-03T00:00:00.000Z
 tags:
+  - trendy-AI
+  - strategia-AI
+  - LLM
 ---
 
 

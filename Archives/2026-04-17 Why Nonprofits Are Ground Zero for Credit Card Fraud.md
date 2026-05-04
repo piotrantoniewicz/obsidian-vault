@@ -1,10 +1,14 @@
 ---
-type: "Web"
-authors: "[[Click & Pledge]]"
-url: "https://blog.clickandpledge.com/why-nonprofits-are-ground-zero-for-credit-card-fraud/"
-published: 2026-04-17
-created: 2026-05-04
+type: Web
+authors: '[[Click & Pledge]]'
+url: >-
+  https://blog.clickandpledge.com/why-nonprofits-are-ground-zero-for-credit-card-fraud/
+published: 2026-04-17T00:00:00.000Z
+created: 2026-05-04T00:00:00.000Z
 tags:
+  - fundraising
+  - organizacje-społeczne
+  - digital-campaigning
 ---
 
 

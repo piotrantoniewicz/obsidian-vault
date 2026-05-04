@@ -1,10 +1,14 @@
 ---
-type: "Web"
-authors: "[[Tristan Amaya]]"
-url: "https://www.nextafter.com/experiments/how-a-dynamic-impact-callout-beneath-the-gift-array-affects-donor-conversion-2/?utm_medium=email&_hsenc=p2ANqtz--pFkUl0iQFQ5Dtj9HxO2X6N9Pf2SIdEUDbP-BsjzF72fgVEeP4TkjW7LCxC841bfK3k5z8nlv8N-1NCp9qLOu6HjPwKA&_hsmi=416836397&utm_content=416836397&utm_source=hs_email"
-published: 2025-09-22
-created: 2026-05-04
+type: Web
+authors: '[[Tristan Amaya]]'
+url: >-
+  https://www.nextafter.com/experiments/how-a-dynamic-impact-callout-beneath-the-gift-array-affects-donor-conversion-2/?utm_medium=email&_hsenc=p2ANqtz--pFkUl0iQFQ5Dtj9HxO2X6N9Pf2SIdEUDbP-BsjzF72fgVEeP4TkjW7LCxC841bfK3k5z8nlv8N-1NCp9qLOu6HjPwKA&_hsmi=416836397&utm_content=416836397&utm_source=hs_email
+published: 2025-09-22T00:00:00.000Z
+created: 2026-05-04T00:00:00.000Z
 tags:
+  - fundraising
+  - digital-campaigning
+  - organizacje-społeczne
 ---
 
 

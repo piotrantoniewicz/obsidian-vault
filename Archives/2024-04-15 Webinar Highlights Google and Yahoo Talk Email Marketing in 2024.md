@@ -1,10 +1,13 @@
 ---
-type: "Web"
-authors: "[[Lauren Meyer]]"
-url: "https://www.socketlabs.com/blog/webinar-highlights-google-yahoo-talk-email-marketing-in-2024/?utm_campaign=sender_reputation&utm_medium=blog&utm_source=senditright"
-published: 2024-04-15
-created: 2026-05-04
+type: Web
+authors: '[[Lauren Meyer]]'
+url: >-
+  https://www.socketlabs.com/blog/webinar-highlights-google-yahoo-talk-email-marketing-in-2024/?utm_campaign=sender_reputation&utm_medium=blog&utm_source=senditright
+published: 2024-04-15T00:00:00.000Z
+created: 2026-05-04T00:00:00.000Z
 tags:
+  - digital-campaigning
+  - fundraising
 ---
 
 

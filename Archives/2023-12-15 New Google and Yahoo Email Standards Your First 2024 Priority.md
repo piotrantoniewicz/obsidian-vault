@@ -1,10 +1,13 @@
 ---
-type: "Web"
-authors: "[[Lauren Meyer]]"
-url: "https://www.socketlabs.com/blog/first-2024-priority-meeting-google-and-yahoo-email-standards/?utm_campaign=sender_reputation&utm_medium=blog&utm_source=senditright"
-published: 2023-12-15
-created: 2026-05-04
+type: Web
+authors: '[[Lauren Meyer]]'
+url: >-
+  https://www.socketlabs.com/blog/first-2024-priority-meeting-google-and-yahoo-email-standards/?utm_campaign=sender_reputation&utm_medium=blog&utm_source=senditright
+published: 2023-12-15T00:00:00.000Z
+created: 2026-05-04T00:00:00.000Z
 tags:
+  - digital-campaigning
+  - fundraising
 ---
 
 

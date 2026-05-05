@@ -1,10 +1,13 @@
 ---
-type: "Web"
-authors: "[[Lauren Meyer]]"
-url: "https://www.socketlabs.com/blog/email-marketing-red-flags-high-bounces-low-delivery/?utm_source=senditright&utm_medium=blog&utm_campaign=sender_reputation"
-published: 2024-10-02
-created: 2026-05-04
+type: Web
+authors: '[[Lauren Meyer]]'
+url: >-
+  https://www.socketlabs.com/blog/email-marketing-red-flags-high-bounces-low-delivery/?utm_source=senditright&utm_medium=blog&utm_campaign=sender_reputation
+published: 2024-10-02T00:00:00.000Z
+created: 2026-05-04T00:00:00.000Z
 tags:
+  - digital-campaigning
+  - fundraising
 ---
 
 

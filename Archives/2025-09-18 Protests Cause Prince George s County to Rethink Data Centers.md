@@ -1,10 +1,13 @@
 ---
-type: "Web"
-authors: "[[Jenny Abamu]]"
-url: "https://wamu.org/story/25/09/18/protests-prince-georges-county-data-centers/?utm_campaign=The%20Batch&utm_medium=email&_hsenc=p2ANqtz-_xwkaHfS9r3xCC8Gt7aznywWyRRpGLVaTlLeJgeEYZSqyYKs-ih7IyVehBtSO_rj8P8I3xk66WCBizlQmakIi3T1S5y7eC1UT9WhRthEi5zVD-Fxw&_hsmi=415463087&utm_content=415462208&utm_source=hs_email"
-published: 2025-09-18
-created: 2026-05-01
+type: Web
+authors: '[[Jenny Abamu]]'
+url: >-
+  https://wamu.org/story/25/09/18/protests-prince-georges-county-data-centers/?utm_campaign=The%20Batch&utm_medium=email&_hsenc=p2ANqtz-_xwkaHfS9r3xCC8Gt7aznywWyRRpGLVaTlLeJgeEYZSqyYKs-ih7IyVehBtSO_rj8P8I3xk66WCBizlQmakIi3T1S5y7eC1UT9WhRthEi5zVD-Fxw&_hsmi=415463087&utm_content=415462208&utm_source=hs_email
+published: 2025-09-18T00:00:00.000Z
+created: 2026-05-01T00:00:00.000Z
 tags:
+  - organizacje-społeczne
+  - digital-campaigning
 ---
 
 

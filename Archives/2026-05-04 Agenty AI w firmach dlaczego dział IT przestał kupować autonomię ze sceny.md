@@ -1,10 +1,14 @@
 ---
-type: "Web"
-authors: "[[Mateusz Wojdalski]]"
-url: "https://devstockacademy.pl/blog/branza-it-i-nowe-technologie/agenty-ai-firmy-kryzys-zaufania-microsoft-ai-tour-2026/?ml_recipient=186619854031161036&ml_link=186619836959295225&utm_source=newsletter&utm_medium=email&utm_term=2026-05-05&utm_campaign=Anthropic+przeanalizowa%C5%82+milion+rozm%C3%B3w+z+Claude+em+Wynik+zaskakuje"
-published: 2026-05-04
-created: 2026-05-05
+type: Web
+authors: '[[Mateusz Wojdalski]]'
+url: >-
+  https://devstockacademy.pl/blog/branza-it-i-nowe-technologie/agenty-ai-firmy-kryzys-zaufania-microsoft-ai-tour-2026/?ml_recipient=186619854031161036&ml_link=186619836959295225&utm_source=newsletter&utm_medium=email&utm_term=2026-05-05&utm_campaign=Anthropic+przeanalizowa%C5%82+milion+rozm%C3%B3w+z+Claude+em+Wynik+zaskakuje
+published: 2026-05-04T00:00:00.000Z
+created: 2026-05-05T00:00:00.000Z
 tags:
+  - strategia-AI
+  - automatyzacja
+  - narzędzia-AI
 ---
 
 

@@ -1,10 +1,12 @@
 ---
-type: "Web"
-authors: "[[Bryan Neider]]"
-url: "https://www.linkedin.com/pulse/leading-era-permacrisis-bryan-neider-guyvc/"
-published: 2026-05-05
-created: 2026-05-05
+type: Web
+authors: '[[Bryan Neider]]'
+url: 'https://www.linkedin.com/pulse/leading-era-permacrisis-bryan-neider-guyvc/'
+published: 2026-05-05T00:00:00.000Z
+created: 2026-05-05T00:00:00.000Z
 tags:
+  - organizacje-społeczne
+  - strategia-organizacji
 ---
 
 

@@ -1,10 +1,14 @@
 ---
-type: "Web"
-authors: "[[Megan Henry]]"
-url: "https://ohiocapitaljournal.com/2026/04/03/data-center-ban-on-the-ohio-ballot-petitioners-get-approval-to-start-gathering-signatures/?utm_campaign=The%20Batch&utm_medium=email&_hsenc=p2ANqtz-8XgFcYaURfFY6YunGxBagWbgr2XDrToG1n_HT8HGYpPDvui9LFBXtT2Y9O6_Mn5bt94xMWXtSFT_npetzXKebp6ZU27zW77Gg8OQN8ypFTg4Z8wI0&_hsmi=415463087&utm_content=415462208&utm_source=hs_email"
-published: 2026-04-03
-created: 2026-05-01
+type: Web
+authors: '[[Megan Henry]]'
+url: >-
+  https://ohiocapitaljournal.com/2026/04/03/data-center-ban-on-the-ohio-ballot-petitioners-get-approval-to-start-gathering-signatures/?utm_campaign=The%20Batch&utm_medium=email&_hsenc=p2ANqtz-8XgFcYaURfFY6YunGxBagWbgr2XDrToG1n_HT8HGYpPDvui9LFBXtT2Y9O6_Mn5bt94xMWXtSFT_npetzXKebp6ZU27zW77Gg8OQN8ypFTg4Z8wI0&_hsmi=415463087&utm_content=415462208&utm_source=hs_email
+published: 2026-04-03T00:00:00.000Z
+created: 2026-05-01T00:00:00.000Z
 tags:
+  - organizacje-społeczne
+  - digital-campaigning
+  - trendy-AI
 ---
 
 

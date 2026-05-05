@@ -13,13 +13,14 @@ tags:
 
 # AI's arrival complicates Big Tech climate goals, and some worry it's locking in more fossil fuels
 
-Artykuł AP News dokumentuje napięcie między ambicjami klimatycznymi wielkich firm technologicznych (Google, Microsoft) a rzeczywistością energetyczną wynikającą z gwałtownego wzrostu infrastruktury AI. Sześć lat temu Google było przekonane, że osiągnie neutralność węglową — dziś firmy te budują kolejne centra danych wymagające gigawatów energii, co coraz trudniej pokryć wyłącznie ze źródeł odnawialnych. Microsoft przyznaje, że nadal dąży do usuwania większej ilości CO2 niż emituje, ale tempo rozbudowy infrastruktury AI wyprzedza tempo wdrażania odnawialnych źródeł energii. Krytycy wskazują, że nowe kontrakty energetyczne zawierane przez Big Tech mogą "zakleszczać" infrastrukturę opartą na paliwach kopalnych na kolejne dekady.
+Artykuł AP News dokumentuje napięcie między ambicjami klimatycznymi wielkich firm technologicznych (Google, Microsoft) a rzeczywistością energetyczną wynikającą z gwałtownego wzrostu infrastruktury AI. Sześć lat temu Google było przekonane, że osiągnie neutralność węglową — dziś firmy te budują kolejne centra danych wymagające gigawatów energii, co coraz trudniej pokryć wyłącznie ze źródeł odnawialnych. Microsoft przyznaje, że nadal dąży do usuwania większej ilości CO2 niż emituje, ale tempo rozbudowy infrastruktury AI wyprzedza tempo wdrażania odnawialnych źródeł energii. Krytycy wskazują, że nowe kontrakty energetyczne zawierane przez Big Tech mogą "zakleszczać" infrastrukturę opartą na paliwach kopalnych na kolejne dekady. Dane są konkretne: emisje Google wzrosły o ~50%, Meta o ~60%, Amazon o 33%, Microsoft o 23% w ciągu pierwszych pięciu lat ich zobowiązań klimatycznych. Gaz ziemny w 2024 r. odpowiadał za ponad 40% energii zasilającej centra danych w USA (węgiel za 30% globalnie), a same centra danych zużywały 4,6% całej energii elektrycznej w USA — udział ten może się potroić do 2028 r. AI wskazywany jest jako jeden z czynników wzrostu emisji z paliw kopalnych w USA o 2,4% w ubiegłym roku (Rhodium Group).
 
 ## Wnioski
 
 - Deklaracje klimatyczne Big Tech zderzają się z realiami energetycznymi AI — tempo rozbudowy centrów danych wyprzedza dostępność energii ze źródeł odnawialnych, co podważa wcześniejsze zobowiązania
 - Wzrost zapotrzebowania na energię przez [[AI]] może "zakleszczać" infrastrukturę paliw kopalnych na lata, nawet jeśli firmy deklarują dążenie do neutralności węglowej
 - Organizacje społeczne i środowiskowe NGO mają rosnące pole do działania w tym obszarze — napięcie między korporacyjnymi deklaracjami a rzeczywistością energetyczną to materiał na skuteczne kampanie rzecznicze
+- Polityka administracji Trumpa (cięcia dotacji i pozwoleń dla farm wiatrowych i słonecznych, wygaśnięcie ulg podatkowych dla OZE w lipcu 2025) tworzy dodatkową przeszkodę — firmy budowały swoje plany klimatyczne zakładając dostępność tych mechanizmów, a teraz muszą jeszcze bardziej polegać na gazie ziemnym
 
 ## Zastosowanie
 

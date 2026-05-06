@@ -1,10 +1,14 @@
 ---
-type: "Web"
-authors: "[[Mateusz Wojdalski]]"
-url: "https://devstockacademy.pl/blog/aktualnosci-i-wydarzenia/gen-z-nienawidzi-ai-paradoks-badanie-gallup-2026/?ml_recipient=186619854031161036&ml_link=186619836925740785&utm_source=newsletter&utm_medium=email&utm_term=2026-05-05&utm_campaign=Anthropic+przeanalizowa%C5%82+milion+rozm%C3%B3w+z+Claude+em+Wynik+zaskakuje"
-published: 2026-05-01
-created: 2026-05-05
+type: Web
+authors: '[[Mateusz Wojdalski]]'
+url: >-
+  https://devstockacademy.pl/blog/aktualnosci-i-wydarzenia/gen-z-nienawidzi-ai-paradoks-badanie-gallup-2026/?ml_recipient=186619854031161036&ml_link=186619836925740785&utm_source=newsletter&utm_medium=email&utm_term=2026-05-05&utm_campaign=Anthropic+przeanalizowa%C5%82+milion+rozm%C3%B3w+z+Claude+em+Wynik+zaskakuje
+published: 2026-05-01T00:00:00.000Z
+created: 2026-05-05T00:00:00.000Z
 tags:
+  - trendy-AI
+  - szkolenia-AI
+  - strategia-AI
 ---
 
 

@@ -1,10 +1,14 @@
 ---
-type: "Web"
-authors: "[[Jack Milroy]]"
-url: "https://www.linkedin.com/pulse/why-advocacy-organizations-shouldnt-have-live-grant-complex-milroy-a3k8c/?trackingId=3hs8Bsy4Stq8b9kkXDJoIg%3D%3D"
-published: 2026-05-04
-created: 2026-05-05
+type: Web
+authors: '[[Jack Milroy]]'
+url: >-
+  https://www.linkedin.com/pulse/why-advocacy-organizations-shouldnt-have-live-grant-complex-milroy-a3k8c/?trackingId=3hs8Bsy4Stq8b9kkXDJoIg%3D%3D
+published: 2026-05-04T00:00:00.000Z
+created: 2026-05-05T00:00:00.000Z
 tags:
+  - fundraising
+  - organizacje-społeczne
+  - strategia-organizacji
 ---
 
 

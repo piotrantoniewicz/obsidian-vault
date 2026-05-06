@@ -68,4 +68,3 @@ The transition from legacy platforms to AI-native ecosystems is more than a tech
 
 Subscribe on LinkedIn [https://www.linkedin.com/build-relation/newsletter-follow?entityUrn=7396000666046881792](https://www.linkedin.com/build-relation/newsletter-follow?entityUrn=7396000666046881792)
 
-#NonprofitLeadership #AITransformation #FutureOfWork #DigitalGovernance #SocialImpact #StrategicLeadership #TechForGood #AbilityPath

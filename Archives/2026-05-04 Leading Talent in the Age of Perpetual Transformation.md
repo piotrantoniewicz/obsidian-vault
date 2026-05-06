@@ -76,4 +76,4 @@ The journey from reactive to creative is not a one-time event. It is a daily pra
 
 Subscribe on LinkedIn [https://www.linkedin.com/build-relation/newsletter-follow?entityUrn=7396000666046881792](https://www.linkedin.com/build-relation/newsletter-follow?entityUrn=7396000666046881792)
 
-#NonprofitLeadership #FutureOfWork #TalentManagement #DigitalTransformation #AIinImpact #Governance #SocialImpact #AbilithPath
+

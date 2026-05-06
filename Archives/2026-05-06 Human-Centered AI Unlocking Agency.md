@@ -1,10 +1,14 @@
 ---
-type: "Web"
-authors: "[[Bryan Neider]]"
-url: "https://www.linkedin.com/pulse/human-centered-ai-unlocking-agency-bryan-neider-gkeec/"
-published: 2026-05-06
-created: 2026-05-06
+type: Web
+authors: '[[Bryan Neider]]'
+url: >-
+  https://www.linkedin.com/pulse/human-centered-ai-unlocking-agency-bryan-neider-gkeec/
+published: 2026-05-06T00:00:00.000Z
+created: 2026-05-06T00:00:00.000Z
 tags:
+  - strategia-AI
+  - szkolenia-AI
+  - organizacje-społeczne
 ---
 
 
@@ -59,5 +63,3 @@ One of the most important measures of our technological progress is the expanded
 ### Amplifying agency. Preserving dignity.
 
 **Subscribe on LinkedIn** [https://www.linkedin.com/build-relation/newsletter-follow?entityUrn=7396000666046881792](https://www.linkedin.com/build-relation/newsletter-follow?entityUrn=7396000666046881792)
-
-#NonprofitLeadership #DisabilityServices #Inclusion #AIforGood #Empowerment #SocialImpact #Accessibility #AbilityPath

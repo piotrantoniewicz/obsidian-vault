@@ -58,4 +58,4 @@ Stewardship is the heartbeat of our mission. It is the bridge between a transact
 
 Subscribe on LinkedIn: [https://www.linkedin.com/build-relation/newsletter-follow?entityUrn=7396000666046881792](https://www.linkedin.com/build-relation/newsletter-follow?entityUrn=7396000666046881792)
 
-#NonprofitLeadership #DonorStewardship #FundraisingStrategy #SocialImpact #Philanthropy #AIinNonprofit #Governance #AbilithPath
+

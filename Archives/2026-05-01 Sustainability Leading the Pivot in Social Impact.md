@@ -66,4 +66,3 @@ The future of the social sector will be shaped by our ability to lead people thr
 
 Subscribe on LinkedIn [https://www.linkedin.com/build-relation/newsletter-follow?entityUrn=7396000666046881792](https://www.linkedin.com/build-relation/newsletter-follow?entityUrn=7396000666046881792)
 
-#NonprofitLeadership #SocialImpact #GenerativeAI #WorkRedesign #TalentManagement #Governance #Sustainability #AbilithPath

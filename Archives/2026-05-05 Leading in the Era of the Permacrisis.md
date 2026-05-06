@@ -78,4 +78,4 @@ Leadership was never meant to be easy, but it was always meant to be meaningful.
 
 Subscribe on LinkedIn [https://www.linkedin.com/build-relation/newsletter-follow?entityUrn=7396000666046881792](https://www.linkedin.com/build-relation/newsletter-follow?entityUrn=7396000666046881792)
 
-#NonprofitLeadership #SocialImpact #StrategicGovernance #AIinNonprofit #ExecutiveExcellence #ResilientCulture #TalentManagement #AbilityPath
+

@@ -72,4 +72,4 @@ To drive greater team engagement in the social sector, managers need to recogniz
 
 Subscribe on LinkedIn [https://www.linkedin.com/build-relation/newsletter-follow?entityUrn=7396000666046881792](https://www.linkedin.com/build-relation/newsletter-follow?entityUrn=7396000666046881792)
 
-#NonprofitLeadership #EmployeeMotivation #SocialImpact #StrategicManagement #Governance #HumanCapital #TalentManagement #AbilityPath
+

@@ -60,5 +60,3 @@ When we stop telling a technology story and start telling a people story, we cha
 ### Leading with Heart. Scaling with Intelligence.
 
 Subscribe on LinkedIn [https://www.linkedin.com/build-relation/newsletter-follow?entityUrn=7396000666046881792](https://www.linkedin.com/build-relation/newsletter-follow?entityUrn=7396000666046881792)
-
-**#NonprofitLeadership #FutureOfWork #GenerativeAI #SocialImpact #Governance #TalentManagement #WomenInTech #AbilityPath**

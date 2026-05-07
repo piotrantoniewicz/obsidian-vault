@@ -1,10 +1,14 @@
 ---
-type: "Web"
-authors: "[[Rhea Wong]]"
-url: "https://www.linkedin.com/pulse/development-director-burnout-costing-you-whats-broken-rhea-wong-urewc/"
-published: 2026-05-07
-created: 2026-05-07
+type: Web
+authors: '[[Rhea Wong]]'
+url: >-
+  https://www.linkedin.com/pulse/development-director-burnout-costing-you-whats-broken-rhea-wong-urewc/
+published: 2026-05-07T00:00:00.000Z
+created: 2026-05-07T00:00:00.000Z
 tags:
+  - fundraising
+  - organizacje-społeczne
+  - strategia-organizacji
 ---
 
 

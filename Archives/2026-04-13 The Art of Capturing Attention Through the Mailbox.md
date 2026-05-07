@@ -1,10 +1,14 @@
 ---
-type: "Web"
-authors: "[[Robbin Warner]]"
-url: "https://grassrootsconnector.substack.com/p/the-art-of-capturing-attention-through?link_id=31&can_id=32cae499f95a9349c734a72403321b9c&source=email-mastering-mobilization-hungary-a-metrics-guide-and-using-public-narrative-to-drive-action&email_referrer=email_3224494&email_subject=fomo-about-fundraising"
-published: 2026-04-13
-created: 2026-05-07
+type: Web
+authors: '[[Robbin Warner]]'
+url: >-
+  https://grassrootsconnector.substack.com/p/the-art-of-capturing-attention-through?link_id=31&can_id=32cae499f95a9349c734a72403321b9c&source=email-mastering-mobilization-hungary-a-metrics-guide-and-using-public-narrative-to-drive-action&email_referrer=email_3224494&email_subject=fomo-about-fundraising
+published: 2026-04-13T00:00:00.000Z
+created: 2026-05-07T00:00:00.000Z
 tags:
+  - digital-campaigning
+  - organizacje-społeczne
+  - framing
 ---
 
 

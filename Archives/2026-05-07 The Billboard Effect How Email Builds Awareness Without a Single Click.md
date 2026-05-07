@@ -1,10 +1,14 @@
 ---
-type: "Web"
-authors: "[[Beth O'Malley]]"
-url: "https://weareastral.co.uk/thevault/the-billboard-effect?utm_medium=email&_hsenc=p2ANqtz--IyChEcyQ2-JA2j6jtAGDK4H3lhiXdseRaHa_V63bA0kv-EeVhMb5obvORFmxAaUZTFQmk01yVoTmHDu-IZs3magXMAsgVrqm5NY2fswYRFdCbtHY&_hsmi=135269154&utm_content=135270488&utm_source=hs_email"
-published: 2026-05-07
-created: 2026-05-07
+type: Web
+authors: '[[Beth O''Malley]]'
+url: >-
+  https://weareastral.co.uk/thevault/the-billboard-effect?utm_medium=email&_hsenc=p2ANqtz--IyChEcyQ2-JA2j6jtAGDK4H3lhiXdseRaHa_V63bA0kv-EeVhMb5obvORFmxAaUZTFQmk01yVoTmHDu-IZs3magXMAsgVrqm5NY2fswYRFdCbtHY&_hsmi=135269154&utm_content=135270488&utm_source=hs_email
+published: 2026-05-07T00:00:00.000Z
+created: 2026-05-07T00:00:00.000Z
 tags:
+  - digital-campaigning
+  - content-marketing
+  - fundraising
 ---
 
 

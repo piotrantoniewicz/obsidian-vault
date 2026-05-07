@@ -1,10 +1,14 @@
 ---
-type: "Web"
-authors: "[[Beth O'Malley]]"
-url: "https://weareastral.co.uk/thevault/your-newsletter-is-probably-not-working-heres-how-to-fix-it?utm_medium=email&_hsenc=p2ANqtz--f-wXPb3yGv_eCZbsoRbIqg01sDQnlbKB5UaaQSq0rgkog35yFxHcpwW-gKKmJ71Jix9zGhNhOxsfC2opslkvrH7vcUFlvtxEOHyQf4H9PMaj3XVI&_hsmi=135269154&utm_content=135270488&utm_source=hs_email"
-published: 2026-05-07
-created: 2026-05-07
+type: Web
+authors: '[[Beth O''Malley]]'
+url: >-
+  https://weareastral.co.uk/thevault/your-newsletter-is-probably-not-working-heres-how-to-fix-it?utm_medium=email&_hsenc=p2ANqtz--f-wXPb3yGv_eCZbsoRbIqg01sDQnlbKB5UaaQSq0rgkog35yFxHcpwW-gKKmJ71Jix9zGhNhOxsfC2opslkvrH7vcUFlvtxEOHyQf4H9PMaj3XVI&_hsmi=135269154&utm_content=135270488&utm_source=hs_email
+published: 2026-05-07T00:00:00.000Z
+created: 2026-05-07T00:00:00.000Z
 tags:
+  - digital-campaigning
+  - fundraising
+  - content-marketing
 ---
 
 

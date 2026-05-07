@@ -1,10 +1,14 @@
 ---
-type: "Web"
-authors: "[[Beth O'Malley]]"
-url: "https://weareastral.co.uk/thevault/emails-going-to-spam-whats-normal-whats-changed-and-what-to-do-about-it?utm_medium=email&_hsenc=p2ANqtz-_1wJ78YlALfI420cuQKazfmXhm0ufCmCz1cqM3wqujhmabLcmvDSxMDu53WlR4jSSVyexyyF-U2J-0Xr6979WRxD4E8uTl-E03j0wa7j-x2zlgPps&_hsmi=135269154&utm_content=135270488&utm_source=hs_email"
-published: 2026-05-07
-created: 2026-05-07
+type: Web
+authors: '[[Beth O''Malley]]'
+url: >-
+  https://weareastral.co.uk/thevault/emails-going-to-spam-whats-normal-whats-changed-and-what-to-do-about-it?utm_medium=email&_hsenc=p2ANqtz-_1wJ78YlALfI420cuQKazfmXhm0ufCmCz1cqM3wqujhmabLcmvDSxMDu53WlR4jSSVyexyyF-U2J-0Xr6979WRxD4E8uTl-E03j0wa7j-x2zlgPps&_hsmi=135269154&utm_content=135270488&utm_source=hs_email
+published: 2026-05-07T00:00:00.000Z
+created: 2026-05-07T00:00:00.000Z
 tags:
+  - digital-campaigning
+  - fundraising
+  - content-marketing
 ---
 
 

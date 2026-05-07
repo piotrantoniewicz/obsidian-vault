@@ -1,10 +1,14 @@
 ---
-type: "Web"
-authors: "[[Katarzyna Szczesna]]"
-url: "https://behavioralinsight.substack.com/p/we-are-no-longer-designing-just-products?utm_source=post-email-title&publication_id=3154057&post_id=196745833&utm_campaign=email-post-title&isFreemail=true&r=4zdnrk&triedRedirect=true&utm_medium=email"
-published: 2026-05-07
-created: 2026-05-07
+type: Web
+authors: '[[Katarzyna Szczesna]]'
+url: >-
+  https://behavioralinsight.substack.com/p/we-are-no-longer-designing-just-products?utm_source=post-email-title&publication_id=3154057&post_id=196745833&utm_campaign=email-post-title&isFreemail=true&r=4zdnrk&triedRedirect=true&utm_medium=email
+published: 2026-05-07T00:00:00.000Z
+created: 2026-05-07T00:00:00.000Z
 tags:
+  - strategia-AI
+  - szkolenia-AI
+  - trendy-AI
 ---
 
 

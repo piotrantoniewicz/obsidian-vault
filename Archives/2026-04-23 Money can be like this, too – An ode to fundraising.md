@@ -1,10 +1,14 @@
 ---
-type: "Web"
-authors: "[[Lili Mayer]]"
-url: "https://www.centerfordigitalaction.eu/post/an-ode-to-fundraising?source=newsletter&email_referrer=email_3224494&email_subject=fomo-about-fundraising&can_id=32cae499f95a9349c734a72403321b9c&link_id=6"
-published: 2026-04-23
-created: 2026-05-07
+type: Web
+authors: '[[Lili Mayer]]'
+url: >-
+  https://www.centerfordigitalaction.eu/post/an-ode-to-fundraising?source=newsletter&email_referrer=email_3224494&email_subject=fomo-about-fundraising&can_id=32cae499f95a9349c734a72403321b9c&link_id=6
+published: 2026-04-23T00:00:00.000Z
+created: 2026-05-07T00:00:00.000Z
 tags:
+  - fundraising
+  - organizacje-społeczne
+  - framing
 ---
 
 

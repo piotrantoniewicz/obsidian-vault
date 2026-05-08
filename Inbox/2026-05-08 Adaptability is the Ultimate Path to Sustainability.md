@@ -71,5 +71,3 @@ The mission of social impact is too important to be slowed by outdated notions o
 ### Adaptability is stewardship.
 
 Subscribe on LinkedIn [https://www.linkedin.com/build-relation/newsletter-follow?entityUrn=7396000666046881792](https://www.linkedin.com/build-relation/newsletter-follow?entityUrn=7396000666046881792)
-
-#NonprofitLeadership #SocialImpact #FutureOfWork #AILiteracy #SkillsFirst #TalentManagement #Governance #AbilithPath

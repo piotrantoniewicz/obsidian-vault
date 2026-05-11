@@ -1,8 +1,8 @@
 ---
-type: "Web"
+type: Web
 authors: "[[Elena Cucu]]"
-url: "https://www.socialinsider.io/social-media-benchmarks/instagram"
-published: 2023-01-01
+url: https://www.socialinsider.io/social-media-benchmarks/instagram
+published: 2026-02-20
 created: 2026-05-11
 tags:
 ---

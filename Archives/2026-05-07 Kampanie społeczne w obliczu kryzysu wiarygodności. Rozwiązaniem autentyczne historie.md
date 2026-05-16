@@ -1,10 +1,14 @@
 ---
-type: "Web"
-authors: "[[Małgorzata Baran]]"
-url: "https://www.proto.pl/raporty/kampanie-spoleczne-w-obliczu-kryzysu-wiarygodnosci-rozwiazaniem-autentyczne-historie/"
-published: 2026-05-07
-created: 2026-05-14
+type: Web
+authors: '[[Małgorzata Baran]]'
+url: >-
+  https://www.proto.pl/raporty/kampanie-spoleczne-w-obliczu-kryzysu-wiarygodnosci-rozwiazaniem-autentyczne-historie/
+published: 2026-05-07T00:00:00.000Z
+created: 2026-05-14T00:00:00.000Z
 tags:
+  - digital-campaigning
+  - organizacje-społeczne
+  - framing
 ---
 
 

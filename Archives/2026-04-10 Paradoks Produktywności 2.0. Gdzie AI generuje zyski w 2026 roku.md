@@ -1,10 +1,14 @@
 ---
-type: "Web"
-authors: "[[Krzysztof Mirończuk]]"
-url: "https://haimagazine.com/pl/ai_branza/it/paradoks-produktywnosci-2-0/?utm_source=ActiveCampaign&utm_medium=email&utm_content=Przejd%C5%BA%20quest%20w%20showroomie%2C%20we%C5%BA%20udzia%C5%82%20w%20debacie%20w%20teatrze%20i%20do%C5%82%C4%85cz%20do%20wydarze%C5%84%20online&utm_campaign=Quest%20w%20showroomie%20Lenovo%2C%20debata%20w%20Teatrze%206%20%20pi%C4%99tro%2C%20spotkania%20online%20z%20Pracuj%20pl%20i%20She%20Leads%20AI"
-published: 2026-04-10
-created: 2026-05-08
+type: Web
+authors: '[[Krzysztof Mirończuk]]'
+url: >-
+  https://haimagazine.com/pl/ai_branza/it/paradoks-produktywnosci-2-0/?utm_source=ActiveCampaign&utm_medium=email&utm_content=Przejd%C5%BA%20quest%20w%20showroomie%2C%20we%C5%BA%20udzia%C5%82%20w%20debacie%20w%20teatrze%20i%20do%C5%82%C4%85cz%20do%20wydarze%C5%84%20online&utm_campaign=Quest%20w%20showroomie%20Lenovo%2C%20debata%20w%20Teatrze%206%20%20pi%C4%99tro%2C%20spotkania%20online%20z%20Pracuj%20pl%20i%20She%20Leads%20AI
+published: 2026-04-10T00:00:00.000Z
+created: 2026-05-08T00:00:00.000Z
 tags:
+  - strategia-AI
+  - automatyzacja
+  - narzędzia-AI
 ---
 
 

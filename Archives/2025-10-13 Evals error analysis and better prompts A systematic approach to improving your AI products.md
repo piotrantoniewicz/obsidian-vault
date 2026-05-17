@@ -1,10 +1,13 @@
 ---
-type: "Web"
-authors: "[[How I AI]]"
-url: "https://www.youtube.com/watch?v=PgzOBNse2EA"
-published: 2025-10-13
-created: 2026-05-11
+type: Web
+authors: '[[How I AI]]'
+url: 'https://www.youtube.com/watch?v=PgzOBNse2EA'
+published: 2025-10-13T00:00:00.000Z
+created: 2026-05-11T00:00:00.000Z
 tags:
+  - prompt-engineering
+  - LLM
+  - strategia-AI
 ---
 
 

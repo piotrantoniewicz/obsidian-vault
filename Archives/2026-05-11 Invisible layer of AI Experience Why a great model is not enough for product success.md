@@ -1,10 +1,14 @@
 ---
-type: "Web"
-authors: "[[Katarzyna Szczesna]]"
-url: "https://behavioralinsight.substack.com/p/invisible-layer-of-ai-experience?utm_source=substack&publication_id=3154057&post_id=197196719&utm_medium=email&utm_content=share&utm_campaign=email-share&triggerShare=true&isFreemail=true&r=4zdnrk&triedRedirect=true"
-published: 2026-05-11
-created: 2026-05-11
+type: Web
+authors: '[[Katarzyna Szczesna]]'
+url: >-
+  https://behavioralinsight.substack.com/p/invisible-layer-of-ai-experience?utm_source=substack&publication_id=3154057&post_id=197196719&utm_medium=email&utm_content=share&utm_campaign=email-share&triggerShare=true&isFreemail=true&r=4zdnrk&triedRedirect=true
+published: 2026-05-11T00:00:00.000Z
+created: 2026-05-11T00:00:00.000Z
 tags:
+  - strategia-AI
+  - narzędzia-AI
+  - trendy-AI
 ---
 
 

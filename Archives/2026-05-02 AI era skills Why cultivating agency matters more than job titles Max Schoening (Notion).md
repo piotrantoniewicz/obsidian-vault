@@ -1,10 +1,13 @@
 ---
-type: "Web"
-authors: "[[Lenny's Podcast]]"
-url: "https://www.youtube.com/watch?v=mCO-D3pkviM"
-published: 2026-05-02
-created: 2026-05-12
+type: Web
+authors: '[[Lenny''s Podcast]]'
+url: 'https://www.youtube.com/watch?v=mCO-D3pkviM'
+published: 2026-05-02T00:00:00.000Z
+created: 2026-05-12T00:00:00.000Z
 tags:
+  - strategia-AI
+  - szkolenia-AI
+  - narzędzia-AI
 ---
 
 

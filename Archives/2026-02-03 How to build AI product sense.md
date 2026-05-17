@@ -1,10 +1,14 @@
 ---
-type: "Web"
-authors: "[[Tal Raviv]]"
-url: "https://www.lennysnewsletter.com/p/how-to-build-ai-product-sense?utm_source=substack&utm_medium=email&utm_campaign=email-restack-comment&r=4zdnrk&triedRedirect=true"
-published: 2026-02-03
-created: 2026-05-12
+type: Web
+authors: '[[Tal Raviv]]'
+url: >-
+  https://www.lennysnewsletter.com/p/how-to-build-ai-product-sense?utm_source=substack&utm_medium=email&utm_campaign=email-restack-comment&r=4zdnrk&triedRedirect=true
+published: 2026-02-03T00:00:00.000Z
+created: 2026-05-12T00:00:00.000Z
 tags:
+  - narzędzia-AI
+  - context-engineering
+  - szkolenia-AI
 ---
 
 

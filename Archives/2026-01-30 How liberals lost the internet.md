@@ -1,10 +1,14 @@
 ---
-type: "Web"
-authors: "[[Robert Topinka]]"
-url: "https://www.theguardian.com/commentisfree/ng-interactive/2026/jan/30/digital-politics-liberals-internet-disinformation?utm_source=newsletter&utm_medium=email&utm_term=Fri+08+May+2026&utm_campaign=SUBJECT+The+The+Das+Ist+So+Berlin+Attention+War+edition"
-published: 2026-01-30
-created: 2026-05-08
+type: Web
+authors: '[[Robert Topinka]]'
+url: >-
+  https://www.theguardian.com/commentisfree/ng-interactive/2026/jan/30/digital-politics-liberals-internet-disinformation?utm_source=newsletter&utm_medium=email&utm_term=Fri+08+May+2026&utm_campaign=SUBJECT+The+The+Das+Ist+So+Berlin+Attention+War+edition
+published: 2026-01-30T00:00:00.000Z
+created: 2026-05-08T00:00:00.000Z
 tags:
+  - digital-campaigning
+  - framing
+  - content-marketing
 ---
 
 

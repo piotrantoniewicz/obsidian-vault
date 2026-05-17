@@ -1,10 +1,13 @@
 ---
-type: "Web"
-authors: "[[Jack Milroy]]"
-url: "https://www.linkedin.com/pulse/politics-dirty-word-jack-milroy-ktsfc/"
-published: 2026-05-11
-created: 2026-05-11
+type: Web
+authors: '[[Jack Milroy]]'
+url: 'https://www.linkedin.com/pulse/politics-dirty-word-jack-milroy-ktsfc/'
+published: 2026-05-11T00:00:00.000Z
+created: 2026-05-11T00:00:00.000Z
 tags:
+  - organizacje-społeczne
+  - framing
+  - strategia-organizacji
 ---
 
 

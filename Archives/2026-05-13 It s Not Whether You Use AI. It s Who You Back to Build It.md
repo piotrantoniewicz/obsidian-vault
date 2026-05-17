@@ -1,10 +1,14 @@
 ---
-type: "Web"
-authors: "[[Justin Steele]]"
-url: "https://www.linkedin.com/pulse/its-whether-you-use-ai-who-back-build-justin-steele-5f1yc/"
-published: 2026-05-13
-created: 2026-05-14
+type: Web
+authors: '[[Justin Steele]]'
+url: >-
+  https://www.linkedin.com/pulse/its-whether-you-use-ai-who-back-build-justin-steele-5f1yc/
+published: 2026-05-13T00:00:00.000Z
+created: 2026-05-14T00:00:00.000Z
 tags:
+  - organizacje-społeczne
+  - strategia-AI
+  - fundraising
 ---
 
 

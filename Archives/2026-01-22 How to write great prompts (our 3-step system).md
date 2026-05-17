@@ -1,10 +1,14 @@
 ---
-type: "Web"
-authors: "[[Ryan Carr]]"
-url: "https://moodboard.beehiiv.com/p/how-to-write-great-prompts-our-3-step-system?utm_source=moodboard.beehiiv.com&utm_medium=newsletter&utm_campaign=how-to-build-a-vibe-marketing-agency&_bhlid=7841bbcd3abafe2a79ff309a5e2a24995fbf2b9a&jwt_token="
-published: 2026-01-22
-created: 2026-05-08
+type: Web
+authors: '[[Ryan Carr]]'
+url: >-
+  https://moodboard.beehiiv.com/p/how-to-write-great-prompts-our-3-step-system?utm_source=moodboard.beehiiv.com&utm_medium=newsletter&utm_campaign=how-to-build-a-vibe-marketing-agency&_bhlid=7841bbcd3abafe2a79ff309a5e2a24995fbf2b9a&jwt_token=
+published: 2026-01-22T00:00:00.000Z
+created: 2026-05-08T00:00:00.000Z
 tags:
+  - prompt-engineering
+  - szkolenia-AI
+  - content-marketing
 ---
 
 

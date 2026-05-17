@@ -1,28 +1,34 @@
 ---
-categories:
-  - Emails
-published: 2026-01-22
-created: 2026-03-18
-labels:
-  - Ryan Carr
+categories: Clippings
+authors:
+  - '[[Ryan Carr]]'
+url: 'https://moodboard.beehiiv.com/p/how-to-write-great-prompts-our-3-step-system'
+source: >-
+  [[Archives/2026-01-22 How to write great prompts (our 3-step
+  system)|2026-01-22 How to write great prompts (our 3-step system)]]
+published: '2026-01-22'
+created: '2026-05-08'
 relevance: wysoka
 tags:
   - prompt-engineering
-  - narzędzia-AI
   - szkolenia-AI
+  - content-marketing
 ---
-
 # How to write great prompts (our 3-step system)
 
-Ryan Carr opisuje 3-krokowy system budowania skutecznych promptów: Start Simple → Iterate → Templatize. Zamiast pisać rozbudowany prompt z góry (co zazwyczaj kończy się frustracją) lub iterować bez zapisywania efektów, system polega na uruchomieniu prostego promptu, stopniowym „doktorowaniu" outputu feedbackiem krok po kroku, a na końcu poproszeniu Claude'a o syntezę całej rozmowy w jeden reużywalny szablon. Ten ostatni krok — meta-prompting — to używanie AI do tworzenia lepszych promptów AI, co pozwala utrwalić swój smak i preferencje w formacie gotowym do wielokrotnego użycia.
+[[Ryan Carr]] z newslettera Moodboard opisuje prostą, trzyetapową metodę budowania skutecznych promptów: **Start Simple → Iterate → Templatize**. Artykuł diagnozuje dwie powszechne pułapki: ludzie albo iterują, ale nie zapisują wyników, albo próbują napisać „idealny prompt" upfront — co kończy się frustracją, bo nie da się przewidzieć potrzebnych korekt przed zobaczeniem pierwszego outputu. Rozwiązaniem jest celowe zaczynanie od prostego promptu, iterowanie go feedbackiem krok po kroku, a następnie poproszenie AI o syntezę całej sesji w jeden wielokrotnego użytku szablon. Carr nazywa to **meta-promptingiem** — używaniem AI do budowania lepszych promptów dla AI.
+
+## Frameworki i metody
+
+- **Start Simple** — zacznij od jednozdaniowego promptu, bez doszlifowywania; pierwszy output jest celowo niedopracowany — ma dać punkt startowy do reakcji
+- **Iterate** — „doktoruj" output feedbackiem krok po kroku: styl, struktura, ton, przykłady; analogia: tak jak szkolujesz junior editora — nie wręczasz mu 47-punktowego style guide, tylko dajesz feedback na żywy tekst
+- **Templatize** — gdy osiągniesz satysfakcjonujący output, poproś AI: *„Weź cały feedback, który dawałem w tej sesji, i stwórz z tego jeden wielorazowy prompt"*; AI syntetyzuje wszystkie poprawki w jeden szablon gotowy do ponownego użycia
+- **Meta-prompting** — używanie AI do tworzenia lepszych promptów; iteracyjne podejście pozwala uchwycić twój smak i preferencje w powtarzalnym formacie
 
 ## Wnioski
-- Dwie pułapki do unikania: próba napisania „idealnego prompta" od razu (niemożliwe bez zobaczenia outputu) oraz iterowanie bez zapisywania – oba podejścia marnują czas przy kolejnym użyciu.
-- Meta-prompting: po osiągnięciu dobrego outputu wystarczy napisać „stwórz z tej rozmowy jeden templatyzowany prompt" — [[Claude]] sam wyciąga wszystkie iteracyjne instrukcje i scala je w jeden gotowy szablon.
-- System działa jak onboarding juniora: nie dajesz mu 47-punktowego style guide na starcie, tylko dajesz feedback na żywe outputy, aż się nauczy — tu robimy to samo, tylko z AI.
-
-## Cytat
-> „Nie musisz być inżynierem promptów. Musisz tylko wiedzieć, jak wygląda dobra robota w twoim przypadku, i być gotowy dawać feedback, aż to osiągniesz."
+- Nie da się napisać idealnego promptu bez wcześniejszego zobaczenia outputu — iteracja jest z natury procesu konieczna, nie błędem
+- Templatyzacja jest kluczowym krokiem, który większość pomija — bez niej każdą sesję zaczyna się od zera
+- Meta-prompting sprawia, że nie trzeba być „prompt engineerem" — wystarczy wiedzieć, co jest dobre w swoim obszarze, i dawać feedback
 
 ## Zastosowanie
-Zastosować system Start Simple → Iterate → Templatize do budowania biblioteki promptów dla kursów AI dla NGO i ghostwritingu na [[LinkedIn]] — każdy prompt iterowany z uczestnikami szkolenia staje się gotowym szablonem do reużycia.
+System Start Simple → Iterate → Templatize jest gotowym ćwiczeniem na szkolenia AI dla NGO — prosty, bezpieczny i natychmiast praktyczny dla uczestników bez technicznego backgroundu. Można go użyć do budowania z organizacjami ich własnych promptów do fundraisingu, komunikacji lub raportowania — i zostawiać im gotowe szablony jako wynik warsztatu.

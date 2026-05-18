@@ -66,4 +66,4 @@ As we celebrate the residents who now call Mitchell Park Place home, we are remi
 
 Subscribe on LinkedIn [https://www.linkedin.com/build-relation/newsletter-follow?entityUrn=7396000666046881792](https://www.linkedin.com/build-relation/newsletter-follow?entityUrn=7396000666046881792)
 
-#NonprofitLeadership #SocialImpact #AffordableHousing #Governance #InclusiveLiving #UrbanDevelopment #AbiltiyPath #EdenHousing
+

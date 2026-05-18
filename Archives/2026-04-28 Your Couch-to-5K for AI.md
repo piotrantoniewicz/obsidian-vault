@@ -1,10 +1,14 @@
 ---
-type: "Web"
-authors: "[[Hilary Gridley]]"
-url: "https://www.lennysnewsletter.com/p/your-couch-to-5k-for-ai?utm_source=substack&utm_medium=email&utm_campaign=email-restack-comment&r=4zdnrk&triedRedirect=true"
-published: 2026-04-28
-created: 2026-05-12
+type: Web
+authors: '[[Hilary Gridley]]'
+url: >-
+  https://www.lennysnewsletter.com/p/your-couch-to-5k-for-ai?utm_source=substack&utm_medium=email&utm_campaign=email-restack-comment&r=4zdnrk&triedRedirect=true
+published: 2026-04-28T00:00:00.000Z
+created: 2026-05-12T00:00:00.000Z
 tags:
+  - szkolenia-AI
+  - strategia-AI
+  - narzędzia-AI
 ---
 
 

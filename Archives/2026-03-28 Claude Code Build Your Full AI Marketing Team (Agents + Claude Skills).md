@@ -1,10 +1,13 @@
 ---
-type: "Web"
-authors: "[[Grace Leung]]"
-url: "https://www.youtube.com/watch?v=yLXLHnD4fco"
-published: 2026-03-28
-created: 2026-05-08
+type: Web
+authors: '[[Grace Leung]]'
+url: 'https://www.youtube.com/watch?v=yLXLHnD4fco'
+published: 2026-03-28T00:00:00.000Z
+created: 2026-05-08T00:00:00.000Z
 tags:
+  - automatyzacja
+  - narzędzia-AI
+  - content-marketing
 ---
 
 

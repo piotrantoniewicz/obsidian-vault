@@ -67,5 +67,3 @@ Every hour you spend formatting a PowerPoint deck, digging up a buried email thr
 > ***Reclaim your time. Amplify your mission. AI clears the desk; you fulfill the mission.***
 
 Subscribe on LinkedIn [https://www.linkedin.com/build-relation/newsletter-follow?entityUrn=7396000666046881792](https://www.linkedin.com/build-relation/newsletter-follow?entityUrn=7396000666046881792)
-
-#NonprofitLeadership #SocialImpact #AforGood #CapacityBuilding #ExecutiveProductivity #StrategicGovernance #OperationalExcellence #AbilityPath

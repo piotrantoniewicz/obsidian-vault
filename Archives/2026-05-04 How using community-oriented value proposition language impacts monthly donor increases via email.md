@@ -1,10 +1,14 @@
 ---
-type: "Web"
-authors: "[[Yanni Saratsis]]"
-url: "https://www.nextafter.com/experiments/how-using-community-oriented-value-proposition-language-impacts-monthly-donor-increases-via-email/?utm_medium=email&_hsenc=p2ANqtz-9p97dNnB_9t5zvQ4zz-oyXC1efQNJX5xMF51VhmIHZHEnfvZi7pHgr7HsrBW7fDtOZuUmR_WIelb4BzDWOmT3nVM4Gpw&_hsmi=419154813&utm_content=418634263&utm_source=hs_email"
-published: 2026-05-04
-created: 2026-05-18
+type: Web
+authors: '[[Yanni Saratsis]]'
+url: >-
+  https://www.nextafter.com/experiments/how-using-community-oriented-value-proposition-language-impacts-monthly-donor-increases-via-email/?utm_medium=email&_hsenc=p2ANqtz-9p97dNnB_9t5zvQ4zz-oyXC1efQNJX5xMF51VhmIHZHEnfvZi7pHgr7HsrBW7fDtOZuUmR_WIelb4BzDWOmT3nVM4Gpw&_hsmi=419154813&utm_content=418634263&utm_source=hs_email
+published: 2026-05-04T00:00:00.000Z
+created: 2026-05-18T00:00:00.000Z
 tags:
+  - fundraising
+  - digital-campaigning
+  - framing
 ---
 
 

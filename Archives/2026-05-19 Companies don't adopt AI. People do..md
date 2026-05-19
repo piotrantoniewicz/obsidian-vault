@@ -1,10 +1,14 @@
 ---
-type: "Web"
-authors: "[[Alexandre Kantjas]]"
-url: "https://go9x.com/blog/companies-dont-adopt-ai-people-do?utm_campaign=Newsletter+%E2%80%94+Companies+don%27t+adopt+AI.+People+do.&utm_content=Newsletter+%E2%80%94+Companies+don%27t+adopt+AI.+People+do.&utm_medium=email&utm_source=customer.io&utm_term=dgTGrAgDAOaTAeWTAQGeQFyfhiQW3z726UMSRVw%3D"
-published: 2026-05-19
-created: 2026-05-19
+type: Web
+authors: '[[Alexandre Kantjas]]'
+url: >-
+  https://go9x.com/blog/companies-dont-adopt-ai-people-do?utm_campaign=Newsletter+%E2%80%94+Companies+don%27t+adopt+AI.+People+do.&utm_content=Newsletter+%E2%80%94+Companies+don%27t+adopt+AI.+People+do.&utm_medium=email&utm_source=customer.io&utm_term=dgTGrAgDAOaTAeWTAQGeQFyfhiQW3z726UMSRVw%3D
+published: 2026-05-19T00:00:00.000Z
+created: 2026-05-19T00:00:00.000Z
 tags:
+  - strategia-AI
+  - szkolenia-AI
+  - strategia-organizacji
 ---
 
 

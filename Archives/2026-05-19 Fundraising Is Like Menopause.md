@@ -1,10 +1,13 @@
 ---
-type: "Web"
-authors: "[[Rhea Wong]]"
-url: "https://www.linkedin.com/pulse/fundraising-like-menopause-rhea-wong-h4uwe/"
-published: 2026-05-19
-created: 2026-05-19
+type: Web
+authors: '[[Rhea Wong]]'
+url: 'https://www.linkedin.com/pulse/fundraising-like-menopause-rhea-wong-h4uwe/'
+published: 2026-05-19T00:00:00.000Z
+created: 2026-05-19T00:00:00.000Z
 tags:
+  - fundraising
+  - organizacje-społeczne
+  - strategia-organizacji
 ---
 
 

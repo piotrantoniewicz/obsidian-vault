@@ -1,10 +1,14 @@
 ---
-type: "Web"
-authors: "[[Euler]]"
-url: "https://euler.net/case-studies/wwf/?utm_source=www.civicshoutnewsletter.com&utm_medium=newsletter&utm_campaign=how-wwf-tripled-its-renewal-rate&_bhlid=cf25b90d92daf7805cc47d473afb2a98e4a5e658"
-published: 2022-03-25
-created: 2026-05-18
+type: Web
+authors: '[[Euler]]'
+url: >-
+  https://euler.net/case-studies/wwf/?utm_source=www.civicshoutnewsletter.com&utm_medium=newsletter&utm_campaign=how-wwf-tripled-its-renewal-rate&_bhlid=cf25b90d92daf7805cc47d473afb2a98e4a5e658
+published: 2022-03-25T00:00:00.000Z
+created: 2026-05-18T00:00:00.000Z
 tags:
+  - fundraising
+  - digital-campaigning
+  - organizacje-społeczne
 ---
 
 

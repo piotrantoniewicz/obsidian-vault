@@ -1,10 +1,14 @@
 ---
-type: "Web"
-authors: "[[Sara Cederberg]]"
-url: "https://www.civicshoutnewsletter.com/p/lessons-from-automating-a-complex-renewal-series?utm_source=www.civicshoutnewsletter.com&utm_medium=newsletter&utm_campaign=what-your-email-program-can-learn-from-e-commerce&_bhlid=d6a6eca1c1cb51c9a26e948372ad27d30da833f4"
-published: 2026-01-15
-created: 2026-05-19
+type: Web
+authors: '[[Sara Cederberg]]'
+url: >-
+  https://www.civicshoutnewsletter.com/p/lessons-from-automating-a-complex-renewal-series?utm_source=www.civicshoutnewsletter.com&utm_medium=newsletter&utm_campaign=what-your-email-program-can-learn-from-e-commerce&_bhlid=d6a6eca1c1cb51c9a26e948372ad27d30da833f4
+published: 2026-01-15T00:00:00.000Z
+created: 2026-05-19T00:00:00.000Z
 tags:
+  - automatyzacja
+  - fundraising
+  - digital-campaigning
 ---
 
 

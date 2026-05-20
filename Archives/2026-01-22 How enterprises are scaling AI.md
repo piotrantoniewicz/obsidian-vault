@@ -1,10 +1,14 @@
 ---
-type: "Web"
-authors: "[[OpenAI]]"
-url: "https://openai.com/business/guides-and-resources/how-enterprises-are-scaling-ai/"
-published: 2026-01-22
-created: 2026-05-18
+type: Web
+authors: '[[OpenAI]]'
+url: >-
+  https://openai.com/business/guides-and-resources/how-enterprises-are-scaling-ai/
+published: 2026-01-22T00:00:00.000Z
+created: 2026-05-18T00:00:00.000Z
 tags:
+  - strategia-AI
+  - szkolenia-AI
+  - strategia-organizacji
 ---
 
 

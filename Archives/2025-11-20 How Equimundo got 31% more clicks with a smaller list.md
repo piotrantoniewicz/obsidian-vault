@@ -2,25 +2,15 @@
 type: Web
 authors: '[[Sara Cederberg]]'
 url: >-
-  https://www.civicshoutnewsletter.com/p/how-equimundo-got-31-more-clicks-with-a-smaller-list?utm_source=www.civicshoutnewsletter.com&utm_medium=newsletter&utm_campaign=what-you-need-to-know-about-google-s-ai-inbox&_bhlid=ee194f37d786688e1cdb03d5610b227884389e9c
+  https://www.civicshoutnewsletter.com/p/how-equimundo-got-31-more-clicks-with-a-smaller-list?utm_source=www.civicshoutnewsletter.com&utm_medium=newsletter&utm_campaign=the-summer-reengagement-playbook&_bhlid=11c67df5f413ed1f6b6c6f3971f0b33c98d4d69f
 published: 2025-11-20T00:00:00.000Z
-created: 2026-03-22T00:00:00.000Z
+created: 2026-05-19T00:00:00.000Z
 tags:
-  - digital-campaigning
-  - fundraising
   - organizacje-społeczne
+  - digital-campaigning
+  - strategia-organizacji
 ---
 
-
-![Sara Cederberg](https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,quality=80,format=auto,onerror=redirect/uploads/user/profile_picture/91c0d2d4-b13a-44e0-a79d-e3ed214a6876/1516922432252.jpg)
-
-[Sara Cederberg](https://www.civicshoutnewsletter.com/authors/sara-cederberg)
-
-Nov 20, 2025
-
-•
-
-4 min read
 
 If the most interesting data point for leadership is “total subscribers,” it’s time for a reset.
 

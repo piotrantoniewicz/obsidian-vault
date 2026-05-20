@@ -1,10 +1,14 @@
 ---
-type: "Web"
-authors: "[[Sara Cederberg]]"
-url: "https://www.civicshoutnewsletter.com/p/the-anatomy-of-a-deliverability-comeback?utm_source=www.civicshoutnewsletter.com&utm_medium=newsletter&utm_campaign=the-summer-reengagement-playbook&_bhlid=24da1153bd03069290f4aaf05c621c1f72051f36"
-published: 2025-10-21
-created: 2026-05-19
+type: Web
+authors: '[[Sara Cederberg]]'
+url: >-
+  https://www.civicshoutnewsletter.com/p/the-anatomy-of-a-deliverability-comeback?utm_source=www.civicshoutnewsletter.com&utm_medium=newsletter&utm_campaign=the-summer-reengagement-playbook&_bhlid=24da1153bd03069290f4aaf05c621c1f72051f36
+published: 2025-10-21T00:00:00.000Z
+created: 2026-05-19T00:00:00.000Z
 tags:
+  - digital-campaigning
+  - organizacje-społeczne
+  - strategia-organizacji
 ---
 
 

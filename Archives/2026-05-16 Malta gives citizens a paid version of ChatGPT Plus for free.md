@@ -1,10 +1,13 @@
 ---
-type: "Web"
-authors: "[[Roselyne Min]]"
-url: "https://www.euronews.com/next/2026/05/16/malta-offers-free-chatgpt-plus-access-to-its-citizens-through-a-national-ai-program?utm_source=substack&utm_medium=email"
-published: 2026-05-16
-created: 2026-05-18
+type: Web
+authors: '[[Roselyne Min]]'
+url: >-
+  https://www.euronews.com/next/2026/05/16/malta-offers-free-chatgpt-plus-access-to-its-citizens-through-a-national-ai-program?utm_source=substack&utm_medium=email
+published: 2026-05-16T00:00:00.000Z
+created: 2026-05-18T00:00:00.000Z
 tags:
+  - strategia-AI
+  - trendy-AI
 ---
 
 

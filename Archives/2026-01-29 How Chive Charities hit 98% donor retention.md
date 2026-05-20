@@ -1,10 +1,14 @@
 ---
-type: "Web"
-authors: "[[Sara Cederberg]]"
-url: "https://www.civicshoutnewsletter.com/p/how-chive-charities-hit-98-donor-retention?utm_source=www.civicshoutnewsletter.com&utm_medium=newsletter&utm_campaign=what-your-email-program-can-learn-from-e-commerce&_bhlid=cfb304bf7de2100b930b2e17faafd1c8c64d8739"
-published: 2026-01-29
-created: 2026-05-19
+type: Web
+authors: '[[Sara Cederberg]]'
+url: >-
+  https://www.civicshoutnewsletter.com/p/how-chive-charities-hit-98-donor-retention?utm_source=www.civicshoutnewsletter.com&utm_medium=newsletter&utm_campaign=what-your-email-program-can-learn-from-e-commerce&_bhlid=cfb304bf7de2100b930b2e17faafd1c8c64d8739
+published: 2026-01-29T00:00:00.000Z
+created: 2026-05-19T00:00:00.000Z
 tags:
+  - fundraising
+  - organizacje-społeczne
+  - digital-campaigning
 ---
 
 

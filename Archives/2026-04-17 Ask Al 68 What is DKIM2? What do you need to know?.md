@@ -1,10 +1,11 @@
 ---
-type: "Web"
-authors: "[[Valimail]]"
-url: "https://www.youtube.com/watch?v=K7z_62tUXkQ"
-published: 2026-04-17
-created: 2026-05-07
+type: Web
+authors: '[[Valimail]]'
+url: 'https://www.youtube.com/watch?v=K7z_62tUXkQ'
+published: 2026-04-17T00:00:00.000Z
+created: 2026-05-07T00:00:00.000Z
 tags:
+  - digital-campaigning
 ---
 
 

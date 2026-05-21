@@ -1,15 +1,16 @@
 ---
 categories: Clippings
-authors: ["[[Anthropic]]"]
+authors:
+  - "[[Anthropic]]"
 url: https://claude.com/blog/how-anthropic-teams-use-claude-code
-source: "[[Archives/2000-07-24 How Anthropic teams use Claude Code|2000-07-24 How Anthropic teams use Claude Code]]"
-published: 2000-07-24
+source: "[[Archives/2025-07-24 How Anthropic teams use Claude Code|2025-07-24 How Anthropic teams use Claude Code]]"
+published: 2025-07-24
 created: 2026-04-19
 relevance: średnia
 tags:
-  - "narzędzia-AI"
-  - "automatyzacja"
-  - "strategia-AI"
+  - narzędzia-AI
+  - automatyzacja
+  - strategia-AI
 ---
 
 # How Anthropic teams use Claude Code

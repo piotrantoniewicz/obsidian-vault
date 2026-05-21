@@ -1,15 +1,16 @@
 ---
 categories: Clippings
-authors: ["[[Anthropic]]"]
+authors:
+  - "[[Anthropic]]"
 url: https://claude.com/blog/introducing-routines-in-claude-code
-published: 2000-04-14
+published: 2026-04-14
 created: 2026-04-24
 relevance: wysoka
 tags:
-  - "automatyzacja"
-  - "narzędzia-AI"
-  - "produkty-cyfrowe"
-source: "[[Archives/2000-04-14 Introducing routines in Claude Code|2000-04-14 Introducing routines in Claude Code]]"
+  - automatyzacja
+  - narzędzia-AI
+  - produkty-cyfrowe
+source: "[[Archives/2026-04-14 Introducing routines in Claude Code|2026-04-14 Introducing routines in Claude Code]]"
 ---
 
 # Introducing routines in Claude Code

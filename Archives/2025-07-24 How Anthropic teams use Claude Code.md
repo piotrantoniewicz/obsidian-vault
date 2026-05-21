@@ -1,8 +1,8 @@
 ---
 type: Web
-authors: '[[Anthropic]]'
-url: 'https://claude.com/blog/how-anthropic-teams-use-claude-code'
-published: 2000-07-24T00:00:00.000Z
+authors: "[[Anthropic]]"
+url: https://claude.com/blog/how-anthropic-teams-use-claude-code
+published: 2025-07-24
 created: 2026-04-19T00:00:00.000Z
 tags:
   - narzędzia-AI

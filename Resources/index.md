@@ -1,0 +1,102 @@
+# Indeks
+
+- [[2000-09-17 UNICEF Standardizing email design across 190 countries]] — UNICEF użył Beefree do standaryzacji emaili fundraisingowych w 190 krajach bez zaplecza technicznego.
+- [[2009-08-19 The Nonprofit Starvation Cycle (SSIR)]] — SSIR opisuje mechanizm głodzenia NGO przez fundatorów oczekujących niskich kosztów administracyjnych.
+- [[2013-10-01 SOSTAC 1-Day Masterclass - AI enabled 30 Jan London]] — SOSTAC® to sześcioetapowy framework planowania marketingowego uznany przez CIM za jeden z najlepszych modeli.
+- [[2016-01-15 Building Leadership Capacity Reframing the Succession Challenge]] — Bridgespan diagnozuje strukturalny deficyt liderów NGO i proponuje sześć procesów budowania pipeline talentów.
+- [[2017-02-09 How to plan your digital strategy with the PROSPER framework]] — PROSPER to cykliczny framework planowania strategii cyfrowej z naciskiem na zasoby i ewaluację wyników.
+- [[2017-08-02 The OODA Loop How to Turn Uncertainty into Opportunity]] — OODA Loop Boyda: cztery kroki decyzyjne w warunkach chaosu — Obserwuj, Orientuj, Decyduj, Działaj.
+- [[2018-01-03 How a personal tone affects donations in an email fundraising appeal]] — Eksperyment CaringBridge: email pisany w pierwszej osobie zwiększył konwersję darowizn o 145%.
+- [[2018-08-08 Naucz się pracować z danymi i stań się ekspertem, którego potrzebuje rynek]] — Przegląd kursów i platform data science dla NGO, w tym DataBasic i deeplearning.ai Ng.
+- [[2018-08-23 Fiszki na sterydach]] — Przegląd aplikacji do nauki z fiszkami (Quizlet, Memrise, Duolingo) opartych na krzywej zapominania i gamifikacji.
+- [[2019-02-20 Power Mapping and Analysis]] — Warsztatowa metoda mapowania siły interesariuszy i decydentów na potrzeby strategii kampanii advocacy.
+- [[2019-07-24 How ActionStation trains an army of keyboard warriors to promote love over hate]] — ActionStation szkoli wolontariuszy do zmieniania rasistowskich komentarzy przez komunikację opartą na wartościach.
+- [[2019-08-05 Trendy technologiczne w edukacji online]] — Trendy e-learningu z 2019: AI, VR i przejście od modelu pull do push w szkoleniach.
+- [[2019-12-19 Donor Cultivation 5 Data-Driven Strategies to Boost Retention]] — NextAfter: pięć strategii retencji darczyńców opartych na danych, koncentrujących się na emailu kultywacyjnym.
+- [[2020-03-13 Guide to campaign planning OASIS - GCS]] — Framework OASIS do planowania kampanii komunikacyjnych opracowany przez brytyjski Government Communication Service.
+- [[2020-04-06 Jak stworzyć nowoczesny ekosystem szkoleniowy w organizacji w 7 krokach]] — 7 kroków budowania Learning Ecosystem: zintegrowanej infrastruktury szkoleniowej zamiast jednej platformy.
+- [[2020-06-15 Organizuj, czytaj, zapisuj – jak uporządkować swoją cyfrową biblioteczkę]] — Przegląd narzędzi do zarządzania cyfrową biblioteką i zakładkami: Pocket, Raindrop, Feedly, Wakelet.
+- [[2020-06-16 How a less designed, text heavy email affects donor conversion]] — Email w czystym tekście zwiększył konwersję darowizn o 28,8% wobec graficznie zaprojektowanej wersji.
+- [[2020-06-17 Przestań oszukiwać siebie i zwiększ swoją produktywność. Aplikacje do monitorowania czasu pracy]] — Przegląd aplikacji do śledzenia czasu: Toggl i Clockify (czynne), RescueTime (bierne).
+- [[2020-10-21 Host-Read Podcast Ads Pack a Brand Recall Punch]] — Raport Nielsena: reklamy podcast czytane przez hosta zwiększają intencję zakupu o 50% vs. pre-recorded.
+- [[2021-01-28 10 Hacks to Transform Your Productivity]] — 10 technik produktywności dla liderów NGO: blokowanie powiadomień, Pomodoro, batching maili, delegowanie.
+- [[2021-02-25 Build Donor Relationships With Direct Mail In A Digital World]] — Direct mail jako narzędzie stewardship i retencji darczyńców, uzupełniające komunikację cyfrową.
+- [[2021-03-02 Darmowa muzyka do filmów, podcastów i reklam – jak ją znaleźć i użyć]] — Przewodnik po legalnych źródłach muzyki dla NGO z wyjaśnieniem licencji Creative Commons i royalty free.
+- [[2021-03-23 Zapisuj – segreguj – automatyzuj, czyli jak skutecznie zapanować nad listą zadań]] — Trzyelementowy system zarządzania zadaniami łączący elementy GTD z automatyzacją przez Zapier.
+- [[2021-04-19 Case Study How Bay City News raised major donor revenue in a time of hardship]] — Bay City News podwoiło przychody z darowizn przez systematyczne budowanie relacji z major donors.
+- [[2021-04-20 Najlepsze podcasty, które inspirują do działania – złota dziesiątka (część I)]] — Ranking 10 polskich podcastów dla osób działających społecznie; mapa ekosystemu NGO audio.
+- [[2021-06-16 8 AB Tests to Try on Your Donation Page]] — 8 udokumentowanych testów A/B dla stron donacji: value proposition, social proof, język wspólnotowy, brak wideo.
+- [[2021-06-30 Asana aplikacja do zarządzania zadaniami Jak wdrożyliśmy ją w zespole Sektor 3.0]] — Case study wdrożenia Asany w NGO: analiza potrzeb, typy użytkowników i zasady adopcji narzędzia.
+- [[2021-07-14 Revamp To Giving Tuesday Email Campaign Gets Big Results]] — American Cancer Society: relacyjny ton emaili zwiększył liczbę wpłat o 237% na Giving Tuesday.
+- [[2021-07-21 Consumer Reactions to Email Logos (BIMI)]] — Standard BIMI wyświetlający logo marki w skrzynce zwiększa open rate o 21% i zaufanie o 90%.
+- [[2021-07-25 Unveiling Abandoned Cart Email Benchmarks]] — Benchmarki emaili o porzuconych koszykach w ecommerce; seria trzech emaili jest 6× skuteczniejsza finansowo.
+- [[2021-07-27 Understanding grassroots fundraising getting supporters to give online]] — Ladder of Engagement jako model stopniowego angażowania darczyńców w fundraisingu grassroots online.
+- [[2021-08-04 Viral Writing 101 with Shaan Puri, Dickie Bush & Nicolas Cole Ship 30 for 30]] — Shaan Puri: viralne pisanie to celowe projektowanie emocji u czytelnika, nie kwestia szczęścia.
+- [[2021-08-06 Email Sender Reputation]] — Reputacja nadawcy email (domeny i IP) jako fundament dostarczalności; Sender Score i metody naprawy.
+- [[2021-09-16 How To Make Sure Your New Donor Acquisition Investment Pays Off]] — Seria powitalnych emaili i tagowanie CRM jako metoda przekształcania nowych darczyńców w lojalnych.
+- [[2021-09-30 Jak przekształcić artykuł w infografikę?]] — 7-etapowy proces tworzenia infografiki z artykułu: scenorys, makieta, wizualizacja, publikacja, promocja.
+- [[2021-10-26 Personal Knowledge Management (PKM), czyli jak stworzyć swój drugi, zapasowy mózg]] — PKM jako drugi mózg: systemy zbierania, łączenia i syntezy wiedzy, od Zettelkasten po Obsidian.
+- [[2021-11-03 Potwierdzone (dez)info, czyli jak weryfikować informacje w dobie mediów społecznościowych]] — 5 sygnałów ostrzegawczych dezinformacji i narzędzia fact-checkingu dla użytkowników mediów społecznościowych.
+- [[2021-11-16 Czym jest dobra prezentacja i jak ją stworzyć]] — Trzy typy prezentacji (sceniczna, spotkaniowa, raportowa) i 6-etapowy proces tworzenia wg Nancy Duarte.
+- [[2021-11-17 How To Make Your Year-End Appeal Stand Out So You Bring In More Donations]] — Segmentacja bazy i personalizacja (imię, kwota, kanał) jako klucz do skutecznych apeli końcoworocznych.
+- [[2021-11-25 Komunikacja asynchroniczna w zespole – na czym polega i kiedy ją wybrać]] — Przewodnik: kiedy wybrać komunikację asynchroniczną zamiast spotkań i jakie narzędzia stosować.
+- [[2021-12-13 10 Instagram Best Practices for Nonprofits]] — 10 zasad Instagrama dla NGO w erze pay-to-play: profil, rytm publikacji, narzędzia fundraisingowe.
+- [[2021-12-16 Modele zarządzania wiedzą i narzędzia, z których warto korzystać]] — Pięć modeli PKM od analogowego Commonplace book i Zettelkasten po cyfrowe Obsidian i Roam Research.
+- [[2022-01-04 Fundraising basics understanding the donor cultivation cycle]] — 5-etapowy cykl kultywowania darczyńców: identyfikacja, kwalifikacja, kultywowanie, apel, stewardship.
+- [[2022-02-01 To tylko 4 kroki! Jak zacząć skutecznie zarządzać swoją wiedzą]] — 4 kroki do systemu PKM wg Seek–Sense–Share Jarche'a; przystępny start dla budujących Second Brain.
+- [[2022-02-23 5 kampanii społecznych, które musisz znać]] — Analiza 5 polskich kampanii NGO i mechanizmów ich skuteczności: Amnesty, Rak'n'Roll, Greenpeace, SYNAPSIS.
+- [[2022-03-03 2022 Best Nonprofit Tech Tools A Roundup - Out in the Boons]] — Zestawienie narzędzi tech dla NGO: fundraising (Givebutter), CRM (Salesforce), projekty (Trello), komunikacja.
+- [[2022-03-25 WWF Reinvents Email Journey To Boost Fundraising]] — WWF spersonalizowało email journey adopcji zwierząt: 46% open rate, £30 000 dodatkowego przychodu.
+- [[2022-04-04 The Wave Method - Out in the Boons]] — Wave Method: rytmiczny kontakt z darczyńcami przez cały rok zamiast kampanijnych wybuchów i ciszy.
+- [[2022-04-25 Copywriting Magic Words - Out in the Boons]] — Badania dr Shang: konkretne słowa emocjonalne zwiększają datki o 10% w zależności od płci darczyńców.
+- [[2022-04-28 How Small Donors Become Major Donors Analyzing Major Donor Pathways]] — CCS Fundraising: prawie 1 na 3 major donorów startował z darem poniżej 250 USD; droga trwa lata.
+- [[2022-05-11 Czy wszyscy będziemy pracować w IT O kompetencjach których potrzebują nowoczesne firmy i organizacje]] — Wywiad demityzuje rynek IT: transformacja cyfrowa wymaga reskillingu NGO, nie tylko rekrutacji programistów.
+- [[2022-06-21 Obsidian jak skonfigurować swoje centrum zarządzania wiedzą Poradnik dla początkujących i zaawansowanych]] — Praktyczna konfiguracja Obsidian: 4 foldery, pluginy i workflow przetwarzania notatek bibliograficznych na wieczne.
+- [[2022-06-28 How St Mungos transformed their cash welcome journey]] — St Mungo's zwiększyło przychody emailowe o 150% przez automatyzację i testy A/B sekwencji powitalnej dla darczyńców.
+- [[2022-07-01 How to Grow Your Monthly Giving Program]] — Trzy strategie programu regularnych darczyńców: 90% retencja, welcome series i framing roczny zamiast miesięcznego.
+- [[2022-07-20 Grow your podcast audience from scratch 15 practical strategies to get you started]] — 15 strategii budowania widowni podcastu: dystrybucja wieloformatowa, wymiana odcinków, budowanie społeczności.
+- [[2022-08-09 Darmowe banki wideo i animacji - skąd brać zasoby do filmów, prezentacji, stron WWW]] — Przegląd darmowych serwisów z klipami wideo i animacjami (Pexels, Lottie Files) z wyjaśnieniem licencji.
+- [[2022-08-25 Notion - jeden notatnik by rządzić wszystkimi]] — Notion jako all-in-one dla NGO: bazy danych, Kanban, porównanie z Obsidianem i rady dotyczące wdrożenia.
+- [[2022-09-19 Mentimeter - jak tworzyć interaktywne prezentacje i quizy]] — Mentimeter do interaktywnych warsztatów: rodzaje interakcji, integracje z Zoom i porównanie z konkurencją.
+- [[2022-09-30 10 sposobów na usprawnienie marketingu w NGO]] — 10 zasad efektywnego marketingu NGO: SMART, recykling treści, archetypy marki i LinkedIn dla fundraiserów.
+- [[2022-10-21 How to Write an Epic End-of-Year Fundraising Letter]] — 7-krokowy framework apelu końcoworocznego: jedna historia, darczyńca jako bohater, reguła 7 dotknięć.
+- [[2022-10-31 How an offer-focused welcome series impacts donor conversion rate]] — NextAfter: seria powitalna skupiona na wartości dla odbiorcy zwiększyła konwersję darczyńców o 920%.
+- [[2022-11-02 What is the hope-based approach]] — Hope-based communication Coombesa: 5 przesunięć od narracji strachu do nadziei w kampaniach NGO.
+- [[2022-11-08 Your Donation Will Be Matched! Well, Not Really.]] — CharityWatch demaskuje trzy modele kampanii matching gift jako często narzędzia marketingowe, nie realne podwojenie wpłat.
+- [[2022-12-14 A Look Inside Testing & Optimization at charity water]] — Charity:water: narracja skupiona na jednostce (nie problemie) istotnie zwiększa konwersję na stronach donacji.
+- [[2022-12-14 Cyfrowe odgracanie, czyli jak okiełznać nowe technologie bez przechodzenia na cyfrowy detoks]] — 30-dniowa metoda Cala Newporta: świadomy przegląd stosu narzędzi zamiast radykalnego detoksu cyfrowego.
+- [[2023-01-12 Po co właściwie wrzucasz ten post Wyznaczanie celów czyli marketing społeczny od wizji do realizacji]] — Framework Wizja → Misja → Cele SMART i lejek konwersji jako struktura strategii marketingowej NGO.
+- [[2023-02-07 Podcast Listeners Continue To Be Action-Focused When It Comes To The Ads They Hear]] — Acast 2023: 95% słuchaczy podcastów podejmuje działanie po reklamie; pre-recorded dogania host-read ads.
+- [[2023-02-21 Sztuczna Inteligencja – gra o edukacyjny tron]] — AI w edukacji: personalizacja, automatyzacja i nowa rola trenera jako projektanta promptów i kuratora procesu.
+- [[2023-03-01 Aktywizm w skali mikro O nowych trendach w pomaganiu i aktywizmie online]] — Trzy nowe formy cyfrowego aktywizmu: mikrowolontariat, wolontariat epizodyczny i slacktywizm jako brama do zaangażowania.
+- [[2023-03-03 Amnesty International USA]] — Blue State i Amnesty International USA: 36 testów A/B w 9 miesięcy dało +21% przychodów i +22% sustainerów.
+- [[2023-03-30 Za mało czasu na marketing Zatrudnij sztuczną inteligencję w swoim NGO]] — Pierwsze praktyczne wprowadzenie ChatGPT i DALL-E do marketingu NGO; historyczny dokument adopcji AI w 2023.
+- [[2023-04-12 Science Olympiad Uses CRM to Reach New Audiences]] — Science Olympiad: lead magnet i CRM pozwoliły urosnąć z 140 do 30 000 kontaktów przy 6-osobowym zespole.
+- [[2023-05-03 O pierwszej lekcji z AI]] — Podcast Sektor 3.0: AI podnosi produktywność NGO w fundraisingu i zarządzaniu; metoda sokratejska do ChatGPT.
+- [[2023-05-04 Przewodnik po sztucznej inteligencji w edukacji]] — AI w edukacji 2023: ChatGPT skraca czas zadań pisemnych o połowę; konieczność przeformułowania celów kursów.
+- [[2023-05-23 Jak zorganizować warsztaty kompetencji cyfrowych dla seniorek i seniorów Wskazówki i porady]] — Organizacja warsztatów cyfrowych dla seniorów: BYOD, kanały offline do rekrutacji i finansowanie z programów publicznych.
+- [[2023-05-31 10 Content Marketing Best Practices for Nonprofits]] — 5-krokowa strategia content marketingu NGO: email najskuteczniejszy, organiczny zasięg social media to tylko 1–4%.
+- [[2023-06-12 System CRM - niezbędne narzędzie dla organizacji non-profit TechSoup Polska]] — TechSoup: CRM jako fundament fundraisingu i zarządzania wolontariuszami; cztery obszary zastosowań w NGO.
+- [[2023-07-13 Maximizing Donations through Multi-Channel Digital Strategies]] — Save the Redwoods League: wielokanałowa kampania year-end z matching gift dała wzrost przychodów o 247% YOY.
+- [[2023-08-09 PARA – intuicyjny sposób na organizację notatek od Tiago Forte]] — System PARA Tiago Forte: cztery foldery porządkujące wiedzę według aktualnej przydatności, nie tematycznej kategorii.
+- [[2023-08-28 Top 10 ways of increasing deliverability of Emails]] — 12-krokowy przewodnik dostarczalności emaili: SPF, DKIM, DMARC, sygnały behawioralne i odbudowa reputacji nadawcy.
+- [[2023-09-07 8 Steps Nonprofits Can Take to Adopt AI Responsibly]] — SSIR (Kanter, Fine): 8 kroków odpowiedzialnej adopcji AI w NGO, od edukacji liderów po redesign stanowisk.
+- [[2023-09-10 Email Preference Center - Types, Best Practices and Examples]] — Centrum preferencji emailowych: trzy typy, 12 best practices i 20% spadek wypisów po wdrożeniu przez SendGrid.
+- [[2023-09-11 20+ Cart Abandonment Stats To Reduce Your Lost Sales In 2026]] — NGO ma 82% wskaźnik porzuceń formularza donacji; emaile przypominające osiągają 40%+ open rate.
+- [[2023-09-21 Computational Agents Exhibit Believable Humanlike Behavior Stanford HAI]] — Stanford 2023: architektura generative agents (pamięć → refleksja → planowanie) i social prototyping dla kampanii.
+- [[2023-10-04 Nie masz pomysłu na kampanię storytellingową organizacji Skorzystaj z pomocy sztucznej inteligencji]] — ChatGPT, DALL-E i Midjourney jako narzędzia do kampanii storytellingowych i generowania grafik dla NGO.
+- [[2023-10-17 Jak ocenić etyczne i ekologiczne koszty AI dla organizacji pozarządowej?]] — Etyczne i ekologiczne koszty AI (ślad węglowy, warunki pracy) i konkretne działania mitygujące dla NGO.
+- [[2023-10-31 Zamiana mowy w tekst. Automatyczna transkrypcja i triki w edytorach tekstu]] — Przegląd narzędzi do transkrypcji: Good Tape, Riverside.fm i trick z dyktowaniem do Word/Google Docs.
+- [[2023-11-01 The Emerging Digital Development Officer Role]] — CASE: Digital Gift Officer jako nowy zawód fundraisera operującego przez Zoom i email z 14 kontaktami na kwartał.
+- [[2023-11-07 Muzyka do pracy. Gdzie szukać dźwięków wspierających skupienie]] — Mechanizm działania muzyki na skupienie i przegląd narzędzi: Mubert (AI), Earth.fm, dźwięki binauralne.
+- [[2023-11-12 Black Friday Blitz How To Create Your First $100,000 Digital Product]] — 10-dniowy plan tworzenia superniszowego produktu cyfrowego z ChatGPT przed Black Friday.
+- [[2023-11-15 How to Write A Weekly Newsletter]] — Formuła newslettera w 5 minut: idea + kąt (listicle) i gotowy prompt ChatGPT do generowania tematów.
+- [[2023-12-11 Fei-Fei Li o AI skoncentrowanym na czlowieku]] — Dr Fei-Fei Li: Human-Centered AI oparte na multidyscyplinarności, augmentowaniu człowieka i złożoności inteligencji.
+- [[2023-12-15 New Google and Yahoo Email Standards Your First 2024 Priority]] — Nowe wymogi Google i Yahoo od 2024: SPF, DKIM, DMARC, one-click unsubscribe i koniec z @gmail.com do wysyłek masowych.
+- [[2024-01-26 Mobile Wallets and Nonprofit Fundraising The New Generation of Giving]] — Apple Pay, Google Pay i Venmo w fundraisingu: 53% Amerykanów używa portfeli cyfrowych jako podstawowej metody płatności.
+- [[2024-02-13 Boosting Returns by 41% The Power of Accessible Email Content]] — Dostępność emaili jako dźwignia fundraisingowa: optymalizacja czcionek dała 41% wzrost donacji w teście A/B.
+- [[2024-02-26 2026 Blogging Statistics for Nonprofits]] — Statystyki blogowania dla NGO: blogi generują 13× wyższy ROI, ale tylko 48% organizacji je prowadzi.
+- [[2024-02-29 Jak polubić technologie Wycieczka w świat AI]] — Relacja osoby z lękiem technologicznym testującej Good Tape, Loom, Adobe Firefly i Perplexity w pracy NGO.
+- [[2024-03-14 Sztuczna inteligencja (AI) w edukacji Jak stworzyć szkolenie online w tandemie z chatbotem]] — Krok po kroku: ChatGPT do produkcji e-learningu — scenariusz, storyboard, interakcje i grafiki w modelu tandemu.
+- [[2024-03-15 Guide to Check Your Domain Reputation]] — Google Postmaster Tools: konfiguracja i interpretacja reputacji domeny i IP dla kampanii emailowych.
+- [[2024-03-18 6 Steps to a Powerful Email Design System Your Team Loves]] — 6 kroków budowy email design system: audyt, projektowanie modułów i wdrożenie spójnych szablonów dla zespołu.

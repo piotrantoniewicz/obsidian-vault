@@ -1,10 +1,13 @@
 ---
-type: "Web"
-authors: "[[Shannon Farley]]"
-url: "https://www.linkedin.com/pulse/what-funders-should-take-away-from-skoll-leave-behind-shannon-farley-6wv1c/"
-published: 2026-05-04
-created: 2026-05-20
+type: Web
+authors: '[[Shannon Farley]]'
+url: >-
+  https://www.linkedin.com/pulse/what-funders-should-take-away-from-skoll-leave-behind-shannon-farley-6wv1c/
+published: 2026-05-04T00:00:00.000Z
+created: 2026-05-20T00:00:00.000Z
 tags:
+  - organizacje-społeczne
+  - strategia-AI
 ---
 
 

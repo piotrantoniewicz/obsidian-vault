@@ -100,3 +100,103 @@
 - [[2024-03-14 Sztuczna inteligencja (AI) w edukacji Jak stworzyć szkolenie online w tandemie z chatbotem]] — Krok po kroku: ChatGPT do produkcji e-learningu — scenariusz, storyboard, interakcje i grafiki w modelu tandemu.
 - [[2024-03-15 Guide to Check Your Domain Reputation]] — Google Postmaster Tools: konfiguracja i interpretacja reputacji domeny i IP dla kampanii emailowych.
 - [[2024-03-18 6 Steps to a Powerful Email Design System Your Team Loves]] — 6 kroków budowy email design system: audyt, projektowanie modułów i wdrożenie spójnych szablonów dla zespołu.
+- [[2024-03-18 A Strategic Guide to Calls-to-Action (CTAs) in Email Marketing Best Practices for Success]] — Litmus: projektowanie skutecznych CTA w emailu — język, kontrast, pozycja przycisku i śledzenie UTM.
+- [[2024-03-18 Email Modules Your Secret to Working Smarter]] — 7-krokowy proces wdrożenia modularnych bloków HTML dla standaryzacji produkcji emaili w zespole.
+- [[2024-03-18 Litmus Live 2026 Recap]] — Relacja z konferencji Litmus Live 2026: AI w email marketingu, retencja subskrybentów i premiera Validity Engage.
+- [[2024-03-18 The Results Are In AB Testing HTML vs. Plain Text Emails]] — Litmus: plaintext email wygrał z HTML o 63% konwersji u odbiorców znających markę.
+- [[2024-03-18 The Top Email Marketing Trends for 2026]] — 7 trendów email marketingu 2026: AI skraca produkcję, privacy-proofing i porzucenie open rate jako KPI.
+- [[2024-03-19 2026 Online Fundraising Statistics for Nonprofits]] — Statystyki online fundraisingu NGO 2024–2025: email nr 1, retencja 45%, darowizny cykliczne to 31% przychodów.
+- [[2024-04-08 IPH uses CRM to Expand Their Recurring Giving]] — IPH zwiększyło przychody z darowizn cyklicznych o 150% przez CRM, community branding i upgrades.
+- [[2024-04-15 Webinar Highlights Google and Yahoo Talk Email Marketing in 2024]] — Google i Yahoo wyjaśniają wymogi 2024: SPF/DKIM/DMARC to minimum, liczy się zaufanie odbiorców.
+- [[2024-04-19 Recurring Donations 101 A Guide for Nonprofits (2026)]] — LTV darczyńcy cyklicznego to $7 288 vs $3 607 jednorazowego; 6-krokowy przewodnik uruchomienia programu.
+- [[2024-04-22 How to write an AI policy for your charity]] — 8-punktowy szkielet pierwszej polityki AI dla NGO: dane, bias, transparentność i RODO.
+- [[2024-04-22 Jak działa Wikipedia i czy nadal jest nam potrzebna]] — Demistyfikacja Wikipedii: 3 mld odsłon rocznie i jej kluczowa rola jako źródła danych dla LLM.
+- [[2024-04-24 Why We Need More Compute for Inference]] — Andrew Ng: koszty inferencji AI spadają o 86% rocznie, odblokując nową falę zastosowań agentycznych.
+- [[2024-04-29 Email Performance Red Flags Spam Complaints]] — Diagnoza i zapobieganie skargom spam: Double Opt-In, segmentacja źródła zapisu i sunset policy.
+- [[2024-04-29 Jak sztuczna inteligencja może ci pomóc w nauce?]] — AI jako tutor: definiowanie celów SMART, plan nauki i testy sprawdzające z gotowymi promptami.
+- [[2024-05-07 2026 Social Media Statistics for Nonprofits]] — Statystyki social media NGO 2026: Instagram 15% zasięgu, LinkedIn 1,91% engagement, TikTok kosztuje 10× Facebook.
+- [[2024-05-08 Rozwijanie kompetencji cyfrowych pracowników organizacji społecznych]] — Systemowy proces budowania kompetencji cyfrowych NGO: diagnoza potrzeb, szkolenia kontekstowe i kultura uczenia.
+- [[2024-05-15 Human Rights Watch Growing Digital Revenue on Giving Tuesday]] — HRW: o 50% mniej emaili, +4% przychody; emocjonalne CTA i celebrity ambasadorka dały +101% z reklam.
+- [[2024-05-20 AI in Fundraising]] — CCS Fundraising: AI uwalnia czas na relacje z darczyńcami przez predykcję zachowań i automatyzację treści.
+- [[2024-05-23 Email Performance Red Flags High Unsubscribe Rate]] — Diagnoza wysokich wypisów emailowych: analiza kohortowa, welcome series i preference center.
+- [[2024-05-24 Jak dobrze wybrać, napisać i rozliczyć grant z pomocą sztucznej inteligencji]] — AI w procesie grantowym: 4-krokowa symulacja oceny wniosku i gotowe prompty dla fundraiserów.
+- [[2024-05-29 14 Exceptional Nonprofit Peer-to-Peer Fundraising Platforms]] — Przegląd 14 platform peer-to-peer fundraisingu: ceny, funkcje i rekomendowane zastosowania dla NGO.
+- [[2024-05-30 AI Experimentation canvas]] — CAST: kanwa eksperymentów z AI dla NGO zamiast gotowych polityk, z zasadą transparentności.
+- [[2024-05-30 Weak Links, Stronger Sector Why Nonprofit Networking Is Not Optional]] — Słabe więzi zawodowe jako niedoceniane źródło rezyliencji i nowych idei w sektorze NGO.
+- [[2024-06-18 Dlaczego dane są ważne dla organizacji społecznej]] — Cztery obszary, w których analityka wzmacnia storytelling, fundraising i efektywność małego NGO.
+- [[2024-06-18 Email Performance Red Flags Low Open Rates]] — Diagnoza niskiego open rate: porównanie wyników per-ISP odróżnia problem treści od problemu dostarczalności.
+- [[2024-06-18 Why Deliverability (Still) Matters in 2024]] — Profilaktyka vs. leczenie w dostarczalności email i jak komunikować problemy deliverability do zarządu.
+- [[2024-06-19 10 Threads & X Best Practices for Nonprofits]] — 10 wskazówek dla NGO: Threads zyska więcej niż X, który stracił wartość po przejęciu przez Muska.
+- [[2024-06-20 Nie jesteśmy skazani na AI – dr Alek Tarkowski o etyce sztucznej inteligencji]] — Dr Tarkowski: AI to wybór polityczny, NGO mają sprawczość kształtowania jej kierunku.
+- [[2024-06-26 Marka osobista w NGO jak zacząć budowanie wizerunku społecznika społeczniczki]] — Budowanie marki osobistej społecznika: od wartości i kompetencji po obecność na LinkedIn.
+- [[2024-06-27 What To Do When You Suspect a Deliverability Issue]] — Pełny protokół diagnozy i naprawy problemów z dostarczalnością email krok po kroku.
+- [[2024-07-05 Why Your Email Needs Sunscreen]] — Przystępny przewodnik po SPF, DKIM i DMARC jako ochronie reputacji nadawcy przed spoofingiem.
+- [[2024-07-08 Grassroots and non-profit perspectives on generative AI]] — Raport JRF: NGO używają AI głównie do cięcia kosztów, bez strategii i etycznych ram zarządzania.
+- [[2024-07-13 Building a Sender Reputation Fit for the Hall of Fame]] — 7-krokowy plan budowania reputacji nadawcy email przez uwierzytelnianie i sygnały zaangażowania.
+- [[2024-07-25 Email deliverability guide]] — Kompleksowy przewodnik MessageFlow: inbox placement, SPF/DKIM/DMARC i segmentacja per dostawca skrzynki.
+- [[2024-07-30 Email Performance Red Flags Low Click-through Rates]] — Diagnoza niskiego CTR: hierarchia przyczyn od dostarczalności po CTA, benchmarki historyczne.
+- [[2024-08-05 Profits or Problems - The Business Impact of Deliverability Issues]] — Ukryte koszty złej dostarczalności emaili: rotacja klientów, czas pracowników i koszt konsultantów.
+- [[2024-08-07 Webinar Recap Everything You Really Need to Know About DMARC (ft. Valimail)]] — DMARC krok po kroku: polityki p=none/quarantine/reject i narzędzia do interpretacji raportów XML.
+- [[2024-08-08 Jak AI może ci pomóc w odpowiadaniu na często zadawane pytania]] — AI do obsługi FAQ: budowanie baz wiedzy i chatbotów dla NGO z gotowymi przykładami promptów.
+- [[2024-08-09 Jak pozyskiwać pieniądze od darczyńców prywatnych z pomocą technologii]] — Otwarte Klatki: fundraising jako maraton przez dane, segmentację i ChatGPT do personalizacji treści.
+- [[2024-08-09 Liverpool Is Famously Leftwing. How Did the Far Right Gain a Foothold Moya Lothian-McLean]] — Analiza zamieszek w Liverpoolu 2024: rasizm ukryty w lewicowej twierdzy i dezinformacja na TikToku.
+- [[2024-08-12 AI Governance Framework for Nonprofits]] — Microsoft: framework governance AI dla NGO z gotowymi szablonami polityk i sześcioma modułami wdrożeniowymi.
+- [[2024-08-15 [OLB] Day 1 - Understanding the OODA Loop Framework]] — OODA Loop Blueprint dzień 1: geneza frameworku Boyda i jego przewaga nad linearnym planowaniem kampanii.
+- [[2024-08-15 Przewodnik filantropa po inwestycjach w AI w NGO]] — Fast Forward: due diligence dla filantropów inwestujących w AI dla NGO — impact, zasoby i etyka.
+- [[2024-08-16 [OLB] Day 2 - Observation & gathering data]] — OODA Loop Blueprint dzień 2: aktywna obserwacja, pułapki poznawcze i Zettelkasten do zbierania danych.
+- [[2024-08-17 [OLB] Day 3 - Orientation - synthesising and analysing data]] — OODA Loop Blueprint dzień 3: Orientacja jako najważniejsza faza — synteza danych vs. pułapka sunk costs.
+- [[2024-08-18 [OLB] Day 4 - Decision & why you're not ready]] — OODA Loop Blueprint dzień 4: 7 sygnałów ostrzegawczych, że zespół nie jest gotowy do decyzji kampanijnej.
+- [[2024-08-19 [OLB] Day 5 - Action & staying agile]] — OODA Loop Blueprint dzień 5: egzekucja przez feedback loops, pivot i działanie wewnątrz cyklu przeciwnika.
+- [[2024-08-21 Jak technologie i sztuczna inteligencja mogą wspierać fundraising]] — Otwarte Klatki: AI personalizuje podziękowania, obsługuje emaile i pisze skrypty bez programowania.
+- [[2024-08-27 Visualising Extreme Heat]] — Climate Outreach: jak fotografować ekstremalne upały bez trywializowania — grupy narażone i właściwe obrazy.
+- [[2024-09-04 Thinking about using AI Here s what you can and (probably) can t change about AI s environmental impact]] — Green Web Foundation: środowiskowy koszt AI — co NGO może zmienić, a co jest poza ich kontrolą.
+- [[2024-09-17 How can we visualise extreme heat- Why are solutions stories so important- And more!]] — Climate Outreach: narracja rozwiązań klimatycznych zamiast "budzenia" i nowe wytyczne wizualizacji upałów.
+- [[2024-09-18 Co zamiast Google Jamboard Alternatywne tablice online i sposoby na bezbolesną przeprowadzkę]] — Porównanie FigJam, Miro i Lucidspark jako alternatyw po zamknięciu Jamboarda Google dla NGO.
+- [[2024-09-18 Strategic communication course and template]] — 7-elementowy framework strategii komunikacji NGO: od kontekstu po ewaluację, prostszy niż OASIS i SOSTAC.
+- [[2024-09-26 Czym jest cyberbezpieczeństwo Na co uważać w sieci, e-mailach i nie tylko]] — Podstawy cyberbezpieczeństwa dla NGO: phishing, spoofing telefoniczny i higiena cyfrowa dla nietech pracowników.
+- [[2024-10-02 AI data centers are draining water from this drought-stricken Mexican town]] — Centra danych AI w Meksyku pochłaniają wodę od społeczności dotkniętych suszą; ukryte koszty środowiskowe Big Tech.
+- [[2024-10-02 Email Marketing Red Flags High Bounces, Low Delivery]] — Kaskadowe skutki wysokiego bounce rate; progi alarmowe (0,1% hard bounce) i higiena listy emailowej.
+- [[2024-10-09 Should I Be Using AI for This - The Nonprofit AI Treasure Map]] — Nonprofit AI Treasure Map Fruchtermana: matryca decyzji Admin vs Program z czterema pytaniami filtrującymi.
+- [[2024-10-09 The Rise of the AfD and the Digital Challenge How Progressive Parties in Germany Can Catch Up]] — Sześć strategii cyfrowych dla progresywistów na wzór zdecentralizowanego digital organisingu AfD w Niemczech.
+- [[2024-10-10 What to do about Germany]] — ECDA po wyborach w Niemczech 2024: cyfrowa dominacja AfD i lekcje dla europejskich organizacji progresywnych.
+- [[2024-10-14 AI for Activism]] — Praktyczne zastosowania AI w aktywizmie: monitorowanie dezinformacji, mobilizacja zwolenników i ochrona przed represjami.
+- [[2024-10-17 Specific Year-End Tips to Spice Up Your Campaign]] — 7-punktowy checklist kampanii year-end: wykluczanie darczyńców po wpłacie, SMS i wideo bez produkcji.
+- [[2024-10-24 Community, Code, and Chemistry]] — Nagroda Nobla 2024 dla AlphaFold 2 jako argument za open science i otwartym kodem w AI.
+- [[2024-10-24 Pre-Order the New Edition of Digital Progressive Magazine + More]] — ECDA: kalkulatory wpływu polityk, gry wideo i kampania listowna CCOO jako nowe taktyki angażowania.
+- [[2024-10-29 Cooperating through the use of AI]] — We Are Open Cooperative: kolektywne podejście do AI z lokalnymi modelami, transparentnością i poszanowaniem środowiska.
+- [[2024-10-29 Designing a Monthly Giving Program Quick Tips and Examples]] — Praktyczny przewodnik monthly giving z case studies charity:water, WWF i Doctors Without Borders.
+- [[2024-10-30 5 things we learnt about public opinion on active travel]] — Climate Outreach: framing aktywnego transportu i zasada "nadziei i sprawczości bez pasywnej pozytywności" w komunikacji klimatycznej.
+- [[2024-11-06 Najlepsze podcasty dla aktywistów aktywistek i organizacji społecznych część II]] — Ranking 10 polskich podcastów dla NGO: fundraising, strategia, technologie i zarządzanie organizacją.
+- [[2024-11-08 Our COP29- Advocating for more and better public engagement]] — Climate Outreach na COP29: jak komunikować przekroczenie celu 1,5°C bez niszczenia poczucia sprawczości odbiorców.
+- [[2024-11-12 19 funkcji Google Docs. Jak lepiej wykorzystywać Dokumenty Google w swojej organizacji]] — 19 zaawansowanych funkcji Google Docs dla NGO: tryb sugerowania, smart chips i pisanie głosowe.
+- [[2024-11-12 In the face of defeat]] — Mar Garcia (ECDA) po reelekcji Trumpa: dlaczego populiści wygrywają i jak progresywiści mogą odpowiedzieć narracyjnie.
+- [[2024-11-13 Canva i Affinity łączą siły, a Twoja NGO zyskuje profesjonalne oprogramowanie do grafiki wektorowej i nie tylko]] — Fuzja Canva i Affinity: NGO z Canva for Nonprofits zyskują bezpłatny dostęp do Designer, Photo i Publisher.
+- [[2024-11-13 How to Catch and Lower Email Deliverability Red Flags]] — 5 red flags emailowych (bounces, open rate, spam, wypisy, CTR) z protokołem diagnozy per mailbox provider.
+- [[2024-11-14 The Hyperspace Bypass]] — AI jako obejście 75 lat abstrakcji technologicznych; pięć zmian: programowanie opcjonalne, interfejsy adaptacyjne, jednorazowe aplikacje.
+- [[2024-11-19 Automatyzacja zadań. Jak przyspieszyć zbieranie faktur z załączników i tworzenie zestawień]] — Tutorial Make.com: automatyzacja pobierania faktur z Gmaila do Google Drive i Sheets bez pisania kodu.
+- [[2024-11-20 2026 AI Marketing and Fundraising Statistics for Nonprofits]] — Statystyki adopcji AI w NGO: 70% wierzy w AI, 40% bez edukacji, 76% bez polityki AI w organizacji.
+- [[2024-11-21 AI w edukacji. Jak tworzyć spersonalizowane ścieżki nauczania z pomocą sztucznej inteligencji?]] — Krok po kroku: ChatGPT/Claude do budowy spersonalizowanych ścieżek szkoleniowych z chatbotem-trenerem i role-play.
+- [[2024-11-21 Dissent Smarter, Engage Deeper, Fundraise Better]] — ECDA po wyborach USA 2024: koparticypacja zwolenników w narracji, kampanie EOY i migracja na Bluesky.
+- [[2024-12-03 How to Set Up BIMI and a Mark Certificate to Display Your Email Logo]] — 5-krokowy proces konfiguracji BIMI: logo marki w skrzynce odbiorcy przez SVG Tiny 1.2, VMC i rekord DNS.
+- [[2024-12-03 Prezentacje w erze kryzysu skupienia – jak przyciągnąć uwagę i ją utrzymać]] — 4 filary angażującej prezentacji i przegląd narzędzi interaktywnych: Mentimeter, Slido, Poll Everywhere.
+- [[2024-12-04 CRM dla NGO profesjonalizacja działań organizacji w pięciu krokach]] — 5-krokowy model wdrożenia CRM w NGO: od porządkowania danych po automatyzację i zarządzanie wiedzą organizacyjną.
+- [[2024-12-04 Optimizing email deliverability and digital fundraising]] — Case study Humane Society of Utah: migracja na dedykowany IP i warm-up dały +89,7% przychodów emailowych.
+- [[2024-12-04 The Swift List]] — 10 lekcji z Taylor Swift dla ruchów progresywnych: autentyczność, bezpośredni kontakt z bazą i mitologia ruchu.
+- [[2024-12-05 Making a List, Checking It Twice- Goodies for Progressives]] — ECDA: mobile-first strony donacji, grywalizacja w aktywizmie i model autentycznej komunikacji Taylor Swift dla NGO.
+- [[2024-12-10 Substack – co to za platforma Newslettery jako alternatywa dla mediów społecznościowych]] — Substack jako platforma newsletter+blog+podcast; porównanie z Ghost, WordPress i Patronite dla NGO.
+- [[2024-12-16 How Should We Be Reporting Climate Target Setbacks]] — Konstruktywny framing klimatycznych porażek: "widzieć problem i odpowiedź jednocześnie" bez niszczenia sprawczości odbiorców.
+- [[2024-12-18 Analyzing Recipient Behavior for Email Success]] — Analiza zaangażowania emailowego per mailbox provider jako metoda diagnozy dostarczalności vs jakości treści.
+- [[2024-12-18 Climate and migration, talking heat pumps and climate setbacks]] — Climate Outreach: migracja klimatyczna jako strategia adaptacyjna i UK jako precedens strategii partycypacji publicznej.
+- [[2024-12-19 How Shelter are transforming their supporter journeys]] — Shelter UK: trzy segmentowane ścieżki powitalne dla darczyńców dały głębszą personalizację i wyższą konwersję emailową.
+- [[2024-12-19 Stand out actions from 2024]] — 5 wyróżniających się kampanii UK 2024: email-to-target z wyborem tematu, stunt w przestrzeni publicznej i skill-building sympatyków.
+- [[2024-12-19 Your ECDA Wrapped 2024 Edition]] — ECDA 2024: kampanie o 41 głosach różnicy w Budapeszcie, BirdLife Poland i kryzysowy fundraising dla Mérce.
+- [[2024-12-20 Monthly Giving Guide Key Benefits and Tips to Get Started]] — Darczyńcy cykliczni dają 40% więcej rocznie; guide do identyfikacji kandydatów, segmentacji i partnerstw korporacyjnych.
+- [[2025-01-03 Applications Spotting Good Uses of AI Tools]] — 4 pytania filtrujące do oceny zastosowań AI w NGO: dokładność, interpretowalność, wrażliwość danych i odpowiedzialność.
+- [[2025-01-08 Jak działa NotebookLM – twój wirtualny asystent do pracy z informacjami film]] — Google NotebookLM: darmowy AI asystent badawczy pracujący na prywatnych dokumentach, z cytatami i podcastem audio.
+- [[2025-01-08 There is No AI For Good]] — Rev. Kronzak: "nie ma AI for good" — analogia do social media i postulaty regulacyjne dla sektora NGO.
+- [[2025-01-09 Linki, które działają praktyczny przewodnik po linkowaniu w NGO]] — Strategiczne linkowanie w NGO: UTM, kody QR, CTA i 5 zasad skutecznego kierowania ruchu z analityką.
+- [[2025-01-11 Storytelling w jednym zdaniu i technika mostu]] — Kurs DWA SŁOWA lekcja 1: hook w jednym zdaniu i technika mostu jako minimalistyczny wzorzec storytellingu.
+- [[2025-01-12 Dwie litery które stawiają do pionu - pisz do jednej osoby]] — Kurs DWA SŁOWA lekcja 2: pisanie do jednej osoby przez zaimek "TY" i technika persony z imieniem.
+- [[2025-01-12 Prime Minister Starmer plans to make Britain AI superpower]] — Plan Starmera: UK AI superpower przez testowanie przed regulacją i National Data Library z danych NHS.
+- [[2025-01-13 Czytelnik skanuje tekst - metoda odwróconej struktury]] — Kurs DWA SŁOWA lekcja 3: metoda odwróconej struktury — pogrubienia najpierw, bo czytelnik skanuje tekst.
+- [[2025-01-14 Masz wiele umiejętności, których nie będzie mieć AI. Korzystaj z nich przede wszystkim]] — 7 ludzkich supermocji wg Timothy'ego B. Lee: fizyczność, relacyjność i etyczna niezależność w erze AI.

@@ -1,10 +1,13 @@
 ---
-type: "Web"
-authors: "[[Partisan]]"
-url: "https://hub.partisan.community/m/news/5-campaign-lessons-from-the-may-2026-uk-elections/f332507a-610f-4b5a-a577-3731e387a961"
-published: 2026-05-14
-created: 2026-05-19
+type: Web
+authors: '[[Partisan]]'
+url: >-
+  https://hub.partisan.community/m/news/5-campaign-lessons-from-the-may-2026-uk-elections/f332507a-610f-4b5a-a577-3731e387a961
+published: 2026-05-14T00:00:00.000Z
+created: 2026-05-19T00:00:00.000Z
 tags:
+  - digital-campaigning
+  - strategia-AI
 ---
 
 

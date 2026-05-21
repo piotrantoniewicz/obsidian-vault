@@ -1,10 +1,12 @@
 ---
-type: "Web"
-authors: "[[NextAfter]]"
-url: "https://www.youtube.com/watch?v=n_5K_6YwNvc"
-published: 2025-12-05
-created: 2026-05-21
+type: Web
+authors: '[[NextAfter]]'
+url: 'https://www.youtube.com/watch?v=n_5K_6YwNvc'
+published: 2025-12-05T00:00:00.000Z
+created: 2026-05-21T00:00:00.000Z
 tags:
+  - fundraising
+  - digital-campaigning
 ---
 
 

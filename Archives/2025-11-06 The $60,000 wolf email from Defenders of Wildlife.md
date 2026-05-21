@@ -1,10 +1,13 @@
 ---
-type: "Web"
-authors: "[[Sara Cederberg]]"
-url: "https://www.civicshoutnewsletter.com/p/the-60-000-wolf-email-from-defenders-of-wildlife?utm_source=www.civicshoutnewsletter.com&utm_medium=newsletter&utm_campaign=the-summer-reengagement-playbook&_bhlid=1752461ae2fd39c8cadc262ab1ac360443405ff8"
-published: 2025-11-06
-created: 2026-05-19
+type: Web
+authors: '[[Sara Cederberg]]'
+url: >-
+  https://www.civicshoutnewsletter.com/p/the-60-000-wolf-email-from-defenders-of-wildlife?utm_source=www.civicshoutnewsletter.com&utm_medium=newsletter&utm_campaign=the-summer-reengagement-playbook&_bhlid=1752461ae2fd39c8cadc262ab1ac360443405ff8
+published: 2025-11-06T00:00:00.000Z
+created: 2026-05-19T00:00:00.000Z
 tags:
+  - fundraising
+  - digital-campaigning
 ---
 
 

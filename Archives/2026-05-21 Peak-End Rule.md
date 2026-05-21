@@ -1,10 +1,13 @@
 ---
-type: "Web"
-authors: "[[Jon Yablonski]]"
-url: "https://lawsofux.com/peak-end-rule/?utm_source=www.civicshoutnewsletter.com&utm_medium=newsletter&utm_campaign=the-email-no-one-remembers-and-how-to-fix-it&_bhlid=de3c3db3e7f181c3c5d54e6ae687ab6fb6f1f62e"
-published:
-created: 2026-05-21
+type: Web
+authors: '[[Jon Yablonski]]'
+url: >-
+  https://lawsofux.com/peak-end-rule/?utm_source=www.civicshoutnewsletter.com&utm_medium=newsletter&utm_campaign=the-email-no-one-remembers-and-how-to-fix-it&_bhlid=de3c3db3e7f181c3c5d54e6ae687ab6fb6f1f62e
+published: null
+created: 2026-05-21T00:00:00.000Z
 tags:
+  - framing
+  - content-marketing
 ---
 
 

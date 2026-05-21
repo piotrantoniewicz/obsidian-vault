@@ -1,10 +1,14 @@
 ---
-type: "Web"
-authors: "[[Ryan Carr]]"
-url: "https://moodboard.beehiiv.com/p/build-an-ai-lead-magnet-in-45-minutes?utm_source=moodboard.beehiiv.com&utm_medium=newsletter&utm_campaign=3-prompts-for-your-marketing-funnel&_bhlid=1d0c6888df0a6cdd00f064ba83105bb805205a4e&jwt_token="
-published: 2025-10-23
-created: 2026-05-08
+type: Web
+authors: '[[Ryan Carr]]'
+url: >-
+  https://moodboard.beehiiv.com/p/build-an-ai-lead-magnet-in-45-minutes?utm_source=moodboard.beehiiv.com&utm_medium=newsletter&utm_campaign=3-prompts-for-your-marketing-funnel&_bhlid=1d0c6888df0a6cdd00f064ba83105bb805205a4e&jwt_token=
+published: 2025-10-23T00:00:00.000Z
+created: 2026-05-08T00:00:00.000Z
 tags:
+  - content-marketing
+  - narzędzia-AI
+  - produkty-cyfrowe
 ---
 
 

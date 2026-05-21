@@ -200,3 +200,153 @@
 - [[2025-01-12 Prime Minister Starmer plans to make Britain AI superpower]] — Plan Starmera: UK AI superpower przez testowanie przed regulacją i National Data Library z danych NHS.
 - [[2025-01-13 Czytelnik skanuje tekst - metoda odwróconej struktury]] — Kurs DWA SŁOWA lekcja 3: metoda odwróconej struktury — pogrubienia najpierw, bo czytelnik skanuje tekst.
 - [[2025-01-14 Masz wiele umiejętności, których nie będzie mieć AI. Korzystaj z nich przede wszystkim]] — 7 ludzkich supermocji wg Timothy'ego B. Lee: fizyczność, relacyjność i etyczna niezależność w erze AI.
+- [[2025-01-14 Zacznij jak u Hitchcocka - pierwsze zdanie decyduje]] — Kurs DWA SŁOWA lekcja 4: pierwsze zdanie decyduje o uwadze — zacznij od najsilniejszego momentu.
+- [[2025-01-15 Key issue for campaigning this year]] — Dyskusja kampanierów ECF: kluczowe wyzwania 2025 — populizm, dezinformacja i AI jako zagrożenia dla NGO.
+- [[2025-01-15 Kto to jest idiota - siła konkretu i paprocika]] — Kurs DWA SŁOWA lekcja 5: "paprocik" — fizyczny szczegół zmysłowy jako fundament angażującego copywritingu.
+- [[2025-01-18 People who can advise on choosing collaboration platforms]] — Dyskusja ECF: dobór platform współpracy dla NGO — WhatsApp, Signal, Cloudron i zasada audytu adopcji.
+- [[2025-01-21 Lessons for organisers in a time of monsters]] — Hahrie Han "Undivided": organizowanie vs. mobilizowanie — model 3P, plastry miodu i przynależność przed przekonaniem.
+- [[2025-01-23 How We Built Our Agentic AI News Briefings]] — Allie K Miller: architektura agentowego systemu briefingów AI w GumLoop za mniej niż 1 dolara dziennie.
+- [[2025-01-28 Agent of Change]] — Fast Forward: era agentów AI w NGO — strategia "buduj playbook teraz", by jutro skalować go z AI.
+- [[2025-01-28 Meta rezygnuje z fact-checkerów na Facebooku i Instagramie Co to oznacza dla organizacji społecznych]] — Meta zastępuje fact-checkerów Community Notes; ryzyko dezinformacji dla NGO i argument za własnymi kanałami.
+- [[2025-01-29 End-of-Year 2024 Digital Fundraising Final Report]] — MissionWired: raport end-of-year 2024 — SMS dało 1282% ROI, email stagnuje, dywersyfikacja kanałów kluczowa.
+- [[2025-01-30 Donor Engagement Strategies 7 Ways to Engage Your Donors]] — CauseVox: 7 strategii angażowania darczyńców między kampaniami przez wdzięczność, edukację i wolontariat.
+- [[2025-01-30 From feminists to priests and nuns - everyone agrees access to menstrual products is a good thing]] — Case study Różowej Skrzyneczki: od lokalnej inicjatywy do ogólnopolskiego ruchu przez niespodziewane koalicje.
+- [[2025-01-31 Trendy powinny bazować na obserwacjach. Jak czytać raporty i wyciągać z nich jak najwięcej]] — Jak krytycznie czytać raporty trendowe przez pryzmat własnego kontekstu zamiast szukać gotowych recept.
+- [[2025-02-03 Three months of protests against corruption and state violence in Serbia – the emergence of the largest student movement in Europe]] — Serbski ruch studencki 2024: zdecentralizowana struktura bez liderów, plenuma i koalicja ponad podziałami.
+- [[2025-02-05 Mierzenie czasu pracy. Wnioski po pięciu latach]] — Toggl Track i RescueTime: 5 lat mierzenia czasu — zadania trwają 2x dłużej niż zakładamy, "praca wokół pracy" to 2h/dzień.
+- [[2025-02-05 Recykling treści Jak zautomatyzować tworzenie transkrypcji postów do mediów społecznościowych i wpisów na bloga]] — Make.com + OpenAI: automatyzacja recyklingu webinaru na transkrypcję, posty Facebook i wpis bloga.
+- [[2025-02-05 Your Open Rates Are Wrong Here s Why]] — Open rate jako proxy inbox placement, nie miara zaangażowania; diagnoza per mailbox provider i alternatywne metryki.
+- [[2025-02-08 How You Can Leverage AI for Big Decisions – Insights from Geoff Woods]] — Geoff Woods: framework CRIT (Kontekst-Rola-Wywiad-Zadanie) i AI Board do strategicznych decyzji z AI.
+- [[2025-02-10 AI-Empowered Politics How Artificial Intelligence is Transforming Governance and Political Organizations]] — AI w kampaniach politycznych: bariery adopcji (brak ekspertyzy, EU AI Act) analogiczne do wdrożeń w NGO.
+- [[2025-02-10 Global Survey shows Rejection of Unrestricted Freedom of Expression]] — Badanie 13 500 osób: większość popiera moderację treści, ale 59% uważa agresję online za nieuniknioną.
+- [[2025-02-10 Roblox, Discord, OpenAI i Google zakładają organizację bezpieczeństwa dzieci online]] — ROOST: koalicja Big Tech ($27M) buduje open-source narzędzia AI do wykrywania treści szkodliwych dla dzieci.
+- [[2025-02-10 ROOST - Open source AI safety for everyone]] — Mozilla i Ayah Bdeir: ROOST jako otwarta infrastruktura bezpieczeństwa AI dla NGO, startupów i rządów.
+- [[2025-02-11 Best Practices for Major Gift Fundraising What You Need to Know to Raise More]] — 7-krokowy program major gifts: identyfikacja prospects 3C, kultywacja relacji, solicitation i stewardship.
+- [[2025-02-11 How Philanthropy Built, Lost, and Could Reclaim the A.I. Race]] — Historia filantropii w AI: od akademickich badań do korporacyjnego wyścigu; nowa rola to finansowanie etyki i bezpieczeństwa.
+- [[2025-02-11 Open source in the age of AI]] — McKinsey/Mozilla: 50%+ organizacji używa open source AI; niższy koszt, ale bariery bezpieczeństwa i compliance.
+- [[2025-02-11 Ruch na stronie Sektor 3.0 spadł o 60% Dlaczego winne są pliki cookies i co to znaczy dla NGO]] — Google Consent Mode v2: dlaczego strony NGO tracą 50-60% mierzonego ruchu i jak poprawić konfigurację.
+- [[2025-02-12 Google NotebookLM – narzędzie AI do zarządzania wiedzą i edukacji w NGO]] — Google NotebookLM: darmowe narzędzie AI do onboardingu, szkoleń i baz wiedzy NGO — skraca onboarding o 75%.
+- [[2025-02-12 The Social Change Nest Newsletter is Back]] — Social Change Nest: model fiscal hosting dla niezarejestrowanych grup i możliwości grantowe dla oddolnych inicjatyw UK.
+- [[2025-02-13 Alternative event platforms to Eventbrite]] — Dyskusja ECF: Ticket Tailor jako tańsza i szybsza alternatywa dla Eventbrite rekomendowana przez trzy NGO.
+- [[2025-02-13 Serbia, crisitunities, and a new training for political communicators]] — ECDA: lekcje z serbskiego ruchu studenckiego i "crisitunity" — kryzys USAID jako szansa na samodzielność NGO.
+- [[2025-02-14 Bluesky 101]] — ECDA: praktyczny przewodnik po Bluesky dla NGO — migracja z X, Custom Feeds i narzędzia kampanijne.
+- [[2025-02-15 Reactivating Lapsed Donors with Second Harvest NOLA - M+R]] — M+R case study: jedna kultywacyjna wiadomość do nieaktywnych darczyńców przed kampanią zwiększa reaktywację.
+- [[2025-02-15 The Communication & Giving Preferences of 641 Online Donors]] — Badanie 641 darczyńców: email nr 1 (33%), 38% niezadowolonych z komunikacji wpływu, 67% popiera AI w NGO.
+- [[2025-02-17 Three powerful examples of strong, persuasive copy]] — Analiza wzorcowych tekstów MSF, ACLU i PCRM: efekt identyfikowalnej ofiary i bezpośrednie połączenie z darczyńcą.
+- [[2025-02-19 No-code jest jak budownictwo modułowe. Łatwe i elastyczne]] — Make.com, Zapier i Bubble jako narzędzia no-code dla NGO — podejście MVP do automatyzacji bez programistów.
+- [[2025-02-20 Michal Nachmany Unlocking Better Climate Legislation With AI]] — Climate Policy Radar: ML i NLP do porządkowania legislacji klimatycznej; zasada "najpierw problem misji, potem narzędzie".
+- [[2025-02-21 The End of Political Advocacy]] — Colin Delany: czy tradycyjny advocacy ma sens gdy władza ignoruje prawo? Lokalne działania jako odporna alternatywa.
+- [[2025-02-22 Skuteczna kampania 1,5% podatku. 10 sprawdzonych rad ekspertów i ekspertek fundraisingu]] — Dekalog kampanii 1,5% podatku: priorytet ciepłych baz, touchpointy niskokostowe i rozliczanie partnerów z konwersji.
+- [[2025-02-25 AI Think We're Onto Something]] — Fast Forward Alumni Retreat: etyka AI w NGO, zasada "waliduj przed customizacją" i narzędzia oszczędzające 25% czasu.
+- [[2025-02-25 Tech Stack Funduszu Sektor 3.0 narzędzia i dobre praktyki inkubacji]] — Fundusz Sektor 3.0: tech stack (CiviCRM, Zoom, Slack, Miro, Figma) i organizacja rocznego programu inkubacji NGO.
+- [[2025-02-25 The future of the internet is likely smaller communities, with a focus on curated experiences]] — Vox Media: przyszłość internetu to małe zaufane społeczności; 86% tęskni za mniejszymi przestrzeniami cyfrowymi.
+- [[2025-02-27 Bezpieczeństwo nie tylko od święta – poradnik cyberbezpieczeństwa dla NGO]] — Sektor 3.0/NASK: phishing, codzienna higiena cyfrowa i bezpłatne narzędzia CERT Polska dla organizacji społecznych.
+- [[2025-02-27 Building Power in a Time of Crisis]] — Higher Ground Labs: narzędzia tech dla ruchów progresywnych (OpenField, Swayable, Plural) w obliczu erozji demokracji.
+- [[2025-02-27 Maximize Your Advocacy Effective Phone Campaign Strategies]] — New/Mode: kampanie telefoniczne advocacy — patch-through call skuteczniejszy niż dziesiątki emaili do polityków.
+- [[2025-02-27 Practitioners Webinar Series Building a Mid-Tier Donor Program]] — Harris for President: program mid-tier donors ($200-$10K) przez segmentację tagami, Welcome Ladder i fizyczne premiums.
+- [[2025-02-27 Your supporters matter more than your organization (Really!)]] — ECDA: komunikacja supporter-first, "belonging before belief" Hahrie Han i playbook fundraisingowy dla Polski.
+- [[2025-03-03 Scenarios for emerging reality @ ECF Oxford]] — FairSay/ECF: trzy scenariusze geopolityczne (Bumpy Road, Cold War II, Tribal Planet) jako narzędzie planowania strategicznego NGO.
+- [[2025-03-04 How to Write an Email Nurture Sequence A Guide for Marketers]] — 8-krokowy proces email nurture sequence: segmentacja behawioralna, treści edukacyjne i automatyzacja follow-upów.
+- [[2025-03-05 Czym jest Perplexity AI Wyszukiwarka i narzędzie z AI w jednym]] — Perplexity AI: wyszukiwarka z LLM generująca odpowiedzi z przypisami; tryby Focus, Deep Research i Spaces.
+- [[2025-03-05 The Decay Of The Old Internet - Vox Medias REMODELING THE INTERNET]] — 53% chce społeczności max 200 osób; Discord, Substack i Patreon rosną jako platformy zaufanych społeczności niszowych.
+- [[2025-03-09 Activist s Three Step Guide For Rapid Mobilization]] — DemLabs: 3-krokowy system szybkiej mobilizacji aktywistów przez kody QR i alerty przeglądarkowe bez rejestracji.
+- [[2025-03-12 Airtable przyjazna baza danych z funkcją formularzy online i automatyzacji]] — Airtable dla NGO: formularz → baza danych → automatyczna sekwencja emailowa bez programowania.
+- [[2025-03-13 Join us! New workshop on how to earn trust in a climate of distrust]] — Climate Outreach: kryzys zaufania w komunikacji klimatycznej i framework "przenoszenia klimatu z abstrakcji do konkretu".
+- [[2025-03-13 Omnibus - chaos czy uproszczenie - Spojrzenie naszej Fundacji]] — Pakiet Omnibus I dereguluje ESG, ale nie zwalnia firm z presji klimatycznej — test na greenwashing.
+- [[2025-03-13 TON - Mobilizing in Times of Crisis, Bluesky Toolbox, AI-Empowered Politics]] — Tectonica TON: kampanie telefoniczne, AI w polityce i diagnoza Ganza o donor dependency jako słabości ruchów.
+- [[2025-03-14 Łap podsumowanie Kick-offu AIDEAS]] — AIDEAS: model onboardingu programu AI — pełny dostęp do narzędzi (GeneratorGPT, Team Navigator, Discord) od pierwszego dnia.
+- [[2025-03-18 Report The social media domination of the German far right]] — ECDA: jak AfD zdominowało TikToka przez masową produkcję treści, model Vorfeld i wczesną adopcję platformy.
+- [[2025-03-19 Czy AI odbiera nam sprawczość Zachowaj kontrolę nad technologią]] — Sektor 3.0: ryzyko uzależnienia NGO od Big Tech AI; polski model Bielik jako alternatywa chroniąca suwerenność danych.
+- [[2025-03-19 Hugging Face Submits Open-Source Blueprint for White House AI Policy Fight]] — Hugging Face lobbuje za open-source AI; modele OSS dorównują komercyjnym za ułamek kosztów dla NGO.
+- [[2025-03-19 Pathways to work - welfare benefits reform]] — Dyskusja ECF: szybka koordynacja kampanii emailowych do posłów w reakcji na rządowe cięcia świadczeń socjalnych UK.
+- [[2025-03-20 How do you get people under 30 to donate]] — ECDA: młodzi dają czas, nie pieniądze; case study PATENT (Węgry) zamieniające oburzenie publiczne w systemową zmianę.
+- [[2025-03-20 LinkedIn Ads to reach policy makers]] — LinkedIn Ads jako narzędzie dotarcia do decydentów — kampanie wokół momentów legislacyjnych i content journey dla polityków.
+- [[2025-03-22 From side project to core strategy]] — Tech To The Rescue: partnerstwa tech-NGO to R&D z misją, które szkoli firmy w projektowaniu dla trudnych środowisk.
+- [[2025-03-24 From career coaching to farming - how two NGOs are driving change with agentic AI]] — CareerVillage i Digital Green: agentic AI redukuje koszt interakcji do $0,03–$0,10 i skaluje usługi NGO.
+- [[2025-03-26 Digital campaigning course]] — Dyskusja ECF: rekomendacja Digital Campaigning Certificate Course (Social Movement Technologies) dla doświadczonych praktyków.
+- [[2025-03-26 How to Keep Your Organization s Content Discoverable in the Age of AI Search]] — GEO (Generative Engine Optimization): 5 zasad optymalizacji treści NGO pod AI search — struktura, EEAT, structured data.
+- [[2025-03-27 Bezpłatne aplikacje dla NGO Część 1 pakiety biurowe]] — Google Workspace i Microsoft 365 for Nonprofits: bezpłatne pakiety biurowe dla NGO z Google Ad Grants ($10K/mies.).
+- [[2025-03-27 Model Behavior]] — Mozilla/Fast Forward: open-source AI jako wybór wartościowy dla NGO — lokalność, prywatność i decentralizacja władzy.
+- [[2025-03-27 Visualising climate-linked migration]] — Climate Outreach: 10 zasad etycznego storytellingu wizualnego o migracji klimatycznej — od dehumanizacji do podmiotowości.
+- [[2025-03-28 The death of the follower]] — ECDA: koniec modelu follower-based; trzypoziomowa strategia (algorytm → email → alternatywne przestrzenie) dla NGO.
+- [[2025-03-30 2026 Website Marketing Statistics for Nonprofits]] — Statystyki stron NGO: bounce rate 60-70%, gap mobile-desktop, konwersja 1,5%, 44% ruchu z organic search.
+- [[2025-03-31 Alternatives to Many Chat]] — Dyskusja ECF: Linktree jako bezpłatna alternatywa dla ManyChat do automatyzacji odpowiedzi na Instagramie dla NGO.
+- [[2025-04-02 Jak generować obrazy w Microsoft Copilot]] — Praktyczny przewodnik po generowaniu grafik AI przez Microsoft Copilot (DALL-E 3) — darmowe, bez instalacji.
+- [[2025-04-02 Strengthening Email Ecosystem Outlook s New Requirements for High-Volume Senders Microsoft Community Hub]] — Od maja 2025 Outlook wymaga SPF, DKIM, DMARC od nadawców masowych — brak zgodności = kod błędu 550.
+- [[2025-04-03 Gdy jeden e-mail dla wszystkich nie działa – czyli kilka ważnych słów o segmentacji w fundraisingu]] — Segmentacja bazy fundraisingowej: 4 wymiary i gotowe scenariusze automatyzacji (seria powitalna, reaktywacja, upgrade).
+- [[2025-04-03 TON - Restoring Trust Through Mobilizing, Death of the Follower, NGOs Under Siege]] — Tectonica TON: odbudowa zaufania przez organizowanie, "śmierć followera" i NGO pod ostrzałem dezinformacji.
+- [[2025-04-08 Cyberprzestępcy to nie są zakapturzeni goście Jak atakowane są organizacje społeczne]] — NGO jako cel ataków służb rosyjskich i łańcuchowych hakerów; model lokalnych centrów kompetencji IT.
+- [[2025-04-08 Google Cloud moves deeper into open source AI with Ai2 partnership]] — Google Cloud i Allen Institute: w pełni otwarte modele OLMo/Molmo (dane + kod + przepis) dla sektora publicznego.
+- [[2025-04-09 Boost Your Nonprofit s Email Reach A Beginner s Guide to SPF, DKIM, DMARC, and BIMI]] — Przystępny przewodnik po SPF, DKIM, DMARC i BIMI dla NGO bez zaawansowanego zaplecza technicznego.
+- [[2025-04-10 Engagement tips, For You feeds explained & a free visual communications webinar]] — ECDA: algorytmy "For You" zastąpiły model followersowy; engagement squads i recurring donors jako odpowiedź NGO.
+- [[2025-04-10 It s Not About the Money—It s About the People]] — Liza Baranyai/ECDA: fundraising to budowanie wspólnoty, nie transakcja — engagement-first komunikacja przez cały rok.
+- [[2025-04-10 Jak wypromować wydarzenie offline 8 praktycznych wskazówek]] — Sektor 3.0: 8 wskazówek promocji eventów NGO w trzech fazach (przed, w trakcie, po) z recyklingiem treści.
+- [[2025-04-10 Where would you run an international workshop, and why]] — Dyskusja ECF: Nairobi, Kuala Lumpur i Stambuł jako lokalizacje dla warsztatów NGO z uczestnikami z Globalnego Południa.
+- [[2025-04-11 The Case of the 98% Donor Retention Rate]] — Chive Charities: 98% retencja darczyńców miesięcznych przez komunikację 1-do-1, odręczne kartki i email drip.
+- [[2025-04-14 Selling charity merch]] — Dyskusja ECF: ecommerce charytatywny (Shopify, WooCommerce) — kalkulacja marż per produkt i ROI zamiast ROAS.
+- [[2025-04-15 Grant Distribution, Grant Opportunities, Podcasts, Training and More]] — Social Change Nest: cross-border grant distribution przez fiscal hosting i "radical resilience" organizacyjna.
+- [[2025-04-15 Imagining The Positive Possibilities Of Political AI]] — AI wyrównuje szanse w kampaniach — demokratyzacja narzędzi dla małych organizacji bez dużych budżetów.
+- [[2025-04-15 Jak działa Deep Research AI i jak może wspierać działania społeczne?]] — Porównanie Deep Research (Perplexity, ChatGPT, Gemini) — zastosowania dla NGO z kosztami i ograniczeniami.
+- [[2025-04-16 Fascism and the English Language]] — Przewodnik po języku oporu: zamień eufemizmy procesowe na konkretny język wynikowy (reżim, porwanie, zamach stanu).
+- [[2025-04-16 Jak nagrać podcast bezpłatny kurs]] — Tworzenie podcastu dla NGO krok po kroku; narzędzia AI do edycji: Auphonic, Descript, Riverside.fm.
+- [[2025-04-17 Lessons for designing visual communications to win hearts, minds, and long-term change]] — Mariana Spada/Tectonica: komunikacja wizualna jako akt polityczny — brief, teoria zmiany i intencjonalne AI.
+- [[2025-04-17 Training platforms-providers for global NGOs]] — Dyskusja ECF: Humentum, Kaya (bezpłatna, wielojęzyczna) i FabRiders jako platformy szkoleniowe dla globalnych NGO.
+- [[2025-04-18 6 Ways to Grow Your Nonprofit s Monthly Giving Program]] — 6 strategii programu cyklicznego: optymalizacja zapisu, dedykowane kampanie, ekskluzywne benefity i "Grow Your Impact".
+- [[2025-04-20 How Democrats Ended Up in the Digital Media Ditch]] — Colin Delany: analiza cyfrowej porażki progresywistów — MAGA media architecture i potrzeba przebudowy na kanały bezpośrednie.
+- [[2025-04-21 FEP Data for Q4 2024 Highlights the Growing Role of High-Dollar Donors in Driving Fundraising Performance Across the Sector]] — FEP Q4 2024: +3,5% przychodów ale -4,5% darczyńców; małe darowizny -8,8% — rosnące uzależnienie od dużych donorów.
+- [[2025-04-21 We need dissident tech, now!]] — Dr. Scholz: sektor społeczny potrzebuje niezależnego tech stack (Signal, Proton, Hylo) zamiast uzależnienia od Big Tech.
+- [[2025-04-22 Help - Google Adwords]] — Dyskusja ECF: Google Ad Grants traci wartość — koszt kliknięcia wzrósł z $0,70 do $2,50 w ciągu 7 lat.
+- [[2025-04-22 Strażacy z Wiśniowej tworzą aplikację dla OSP. FireX będzie cyfrowym asystentem dowódcy]] — FireX: aplikacja MVP dla OSP jako asystent dowódcy — case study produktu cyfrowego z inkubacji Funduszu Sektor 3.0.
+- [[2025-04-22 Why We Feel a Bit Like Stuart Smalley Rethinking AI for Real-World Impact LinkedIn]] — Upsolve i SkillUp: chatboty Q&A działały gorzej niż brak chatbotów — lekcja o proaktywnym AI procesowym.
+- [[2025-04-24 Bezpłatne aplikacje dla NGO. Część 2 – narzędzia do komunikacji w zespole]] — Slack, Teams, Zoom i Jitsi Meet dla NGO — porównanie i ścieżki darmowego dostępu przez TechSoup.
+- [[2025-04-24 Data becomes exciting when you know how to use it]] — ECDA: M&R Benchmarks 2024 — influencerzy w 50% NGO, recurring giving +5%, Digital Markets Act kary dla Big Tech.
+- [[2025-04-24 Mathur A youth-led climate case making history]] — Kanadyjska sprawa sądowa Mathur: model long-term advocacy prawnego w obszarze konstytucyjnych praw klimatycznych.
+- [[2025-04-24 Should unions adopt AI - Thats the WRONG question]] — Nick Scott: AI ma zwiększać impact misji NGO i związków zawodowych, nie ciąć koszty operacyjne.
+- [[2025-04-25 Visualising climate-linked migration, essential election resources and more]] — Climate Outreach: 10 zasad etycznego wizualnego storytellingu o migracji klimatycznej i zasoby wyborcze.
+- [[2025-04-28 Glorious RAGs - A Safer Path to Using AI in the Social Sector]] — Jim Fruchterman: RAG i podział Admin Zone/Program Zone jako ramy bezpiecznego wdrożenia AI w NGO.
+- [[2025-04-28 Glorious RAGs A Safer Path to Using AI in the Social Sector]] — Jim Fruchterman: RAG ogranicza halucynacje LLM przez dziedzinową bazę wiedzy — rozszerzona wersja notatki.
+- [[2025-04-28 Przewlekłe problemy z odpornością cyfrową]] — Tactical Tech: cyfrowa odporność NGO wymaga zmian kulturowych, nie jednorazowego wdrożenia narzędzi, z listą opensource.
+- [[2025-04-29 Sathy Rajasekharan is Transforming Maternal Healthcare With AI]] — Jacaranda Health PROMPTS: AI z human-in-the-loop obsługuje 3 mln kobiet w czterech krajach Afryki.
+- [[2025-04-30 What Did We Learn From KamalaHQ]] — Rob Flaherty: lekcje KamalaHQ — narrowcasting, "offline drives online" i zarządzanie autonomicznym zespołem kreatywnym.
+- [[2025-04-30 Wypróbuj Gemy w Google Gemini i spraw sobie wirtualnego asystenta AI]] — Gemy Google Gemini: konfiguracja i 6 typów bezpłatnych asystentów AI dla NGO w Google Workspace.
+- [[2025-05-01 Claude AI Exploited to Operate 100+ Fake Political Personas in Global Influence Campaign]] — Anthropic: Claude użyty do zarządzania 100+ fałszywymi personami politycznymi jako autonomiczny orkiestrator taktyk.
+- [[2025-05-01 Pro bono, rebranded]] — Tech To The Rescue: zmiana języka z "pro bono" na partnerstwo strategiczne zwiększa jakość współpracy tech-NGO.
+- [[2025-05-06 Funders, Start Your Prompt Engines]] — Fast Forward: trzy pytania diagnostyczne dla fundatorów oceniających propozycje projektów AI od NGO.
+- [[2025-05-06 Jak dbać o prywatność i chronić dane w dobie generatywnej sztucznej inteligencji Poradnik]] — Sektor 3.0: anonimizacja danych, ustawienia prywatności ChatGPT/Gemini i lokalne modele AI dla NGO.
+- [[2025-05-06 TON - Visual Comms to Win Hearts, Democrats Digital Media Ditch, AI Fake Personas]] — Tectonica TON: diagnoza email fundraisingu (M+R 2024), fake persony AI Anthropic i komunikacja wizualna NGO.
+- [[2025-05-07 How to establish a Community Technology Partnership]] — Community Technology Partnership (CTP): projektowanie technologii od problemów społeczności, nie od gotowych produktów.
+- [[2025-05-08 Everyone should do more surveys]] — ECDA: ankiety jako narzędzie angażowania zwolenników i checklista fundraisingowa dla małych darczyńców.
+- [[2025-05-13 How - whether to create unity in a divided campaign group]] — Pytania diagnostyczne i zasady zarządzania konfliktami wartości wewnątrz podzielonych grup aktywistycznych.
+- [[2025-05-13 Who Is the Monthly Giver? A Profile from GivingPulse]] — GivingTuesday GivingPulse: profil darczyńcy cyklicznego — 30% dawców, młodszy, miejski, częściej wolontariusz.
+- [[2025-05-14 Cyberbezpieczeństwo w NGO podstawowe zasady i narzędzia]] — Cztery filary cyberbezpieczeństwa NGO: menedżer haseł, 2FA, higiena cyfrowa i formalna polityka bezpieczeństwa.
+- [[2025-05-14 Fundraising email layout]] — Test warunku wstępnego layoutu emaila fundraisingowego zanim zainwestujesz w pełny A/B test.
+- [[2025-05-14 In Search of Tactics That Win]] — Micah Sifry: teoria dylematu, pillars of support i targeted boycotts jako skuteczne taktyki oporu.
+- [[2025-05-14 UK Labour - uh. What-]] — Dyskusja ECF: kompromis messagingowy Labour alienuje własną bazę aktywistów — lekcja dla NGO.
+- [[2025-05-15 Is your technology stack part of your theory of change]] — Kim Foale: wybór narzędzi Big Tech jako sprzeczność z misją NGO; model Community Technology Partnership.
+- [[2025-05-15 Recording of It Needs to Be Said with Micah Sifry]] — Micah Sifry o pułapce "rage giving" i zasobach strategicznego dawania: Oath.vote i Movement Voter Project.
+- [[2025-05-15 Social media networking - support group]] — Dyskusja ECF: lista sieci dla NGO-owych social media managerów — Agencies for Good, SMT, APC Network.
+- [[2025-05-16 AI Isn t Coming - It s Here]] — Battleground AI: kombinacja human+AI przewyższa oba oddzielnie; badanie 400 reklam potwierdza co-pilot model.
+- [[2025-05-16 CHT Statement in Response to State Moratorium on AI Legislation]] — Center for Humane Technology sprzeciwia się 10-letniemu moratorium na stanowe regulacje AI w USA.
+- [[2025-05-16 Donations from thank you page]] — Benchmarki i framework daisy chain donation ask po akcji kampanijnej; reguła £1 per action taker.
+- [[2025-05-16 New Report Urges Democrats to Rethink Campaign Tech]] — Higher Ground Labs 2024: prawica osiąga 10× zasięg przy mniejszym budżecie; AI wdrażane bez systemu.
+- [[2025-05-19 Bluesky Is Plotting a Total Takeover of the Social Internet]] — Wywiad z CEO Jay Graber: AT Protocol jako otwarta infrastruktura społecznościowa, 34 mln użytkowników.
+- [[2025-05-19 International Civil Society s Tech Stack is in Extreme Danger]] — Trump odciął ICC od Microsoft przez sankcje; mapa ryzyk US Big Tech dla globalnych NGO.
+- [[2025-05-20 Press play Why podcasts matter for progressive politics]] — ECDA: podcasty budują zaufanie i docierają do młodych pomijanych przez media; lekcja z KamalaHQ vs Rogan.
+- [[2025-05-20 We did the math on AI s energy footprint Here s the story you haven t heard]] — MIT Technology Review: 80–90% mocy AI to inference; ślad energetyczny AI rośnie i jest ukrywany przez firmy.
+- [[2025-05-20 We did the math on AI s energy footprint. Here s the story you haven t heard.]] — MIT Technology Review: ślad węglowy AI — 4,4% energii USA do data centers, brak transparentności firm.
+- [[2025-05-21 Direct Mail Rewired Nonprofits and America for the Worse. Here s How to Do Better]] — Jason Lewis: direct mail przekształcił darczyńców w konsumentów; powrót do prawdziwego membership jako odpowiedź.
+- [[2025-05-21 Managing images-videos - any recommendations]] — Dyskusja ECF: ResourceSpace i Synology jako tanie alternatywy systemu DAM dla NGO zarządzających archiwum.
+- [[2025-05-21 Top of the Class]] — Fast Forward: trzy case studies hybrydowego modelu "AI w tle, człowiek na froncie" w edukacji NGO.
+- [[2025-05-22 77 million miles of waterways were missing from maps AI found them in record time]] — Bridges to Prosperity: AI WaterNet zmapował 124 mln km brakujących rzek skracając planowanie infrastruktury mostów.
+- [[2025-05-22 77 million miles of waterways were missing from maps. AI found them in record time.]] — Bridges to Prosperity: NGO użyło AI do mapowania nieznanych cieków wodnych dla infrastruktury w Afryce.
+- [[2025-05-22 Campaigns, code, and citizen power]] — Partisan: AI w demokracji uczestniczącej, technologia w wyborach rumuńskich i polskich, TikTok w Bundestagu.
+- [[2025-05-22 Learning from Failure US2024 and beyond]] — Higher Ground Labs: zasięg vs zaangażowanie, organiczne media i AI jako infrastruktura — lekcje US 2024.
+- [[2025-05-22 Learning from Poland's far right]] — ECDA: model "constant campaign" Konfederacji Mentzena — wieloletnia obecność w social media dała 15% w wyborach.
+- [[2025-05-23 A worrying read!]] — Dyskusja ECF: zależność NGO od US Big Tech po odcięciu ICC od Microsoft; europejskie alternatywy.
+- [[2025-05-23 Most Political Consultants Are Using AI, Study Finds]] — AAPC: 59% konsultantów używa AI regularnie; ChatGPT dominuje (76%); główne zastosowania to analiza i propozycje.
+- [[2025-05-27 Bądź jak ośmiornica płynąca na rekinie. O cyfrowej niezależności, prywatności i bezpieczeństwie na Festiwalu Sektor 3.0 edycja 2025]] — Festiwal Sektor 3.0 2025: cyfrowa autonomia przez intencjonalne korzystanie z AI i cyberhigiena dla NGO.
+- [[2025-05-27 How tech shapes historic elections- Romania and Poland]] — Partisan: technologia w wyborach 2025 w Rumunii i Polsce; narzędzia Qomon offline i NationBuilder.
+- [[2025-05-27 The Influence Evolution]] — DGAP: taksonomia AI-influencerów od narzędzi do autonomicznych agentów i dwie ścieżki dla mediów.
+- [[2025-05-29 Banned Yet Broadcasting Sanctioned Belarusian State Media Influencing the Polish Elections]] — Alliance4Europe: Radio Belarus dezinformowało polskie wybory 2025 przez TikTok z 16 mln wyświetleń.
+- [[2025-05-29 Bots Do Lie AI Disinformation in Senegal s Elections Democracy Reporting International]] — DRI: 41–47% odpowiedzi chatbotów o wyborach w Senegalu jest błędnych; LLM nie nadają się do informacji wyborczych.
+- [[2025-05-29 Engaging Activists meeting - feedback and next steps]] — ECF: "Manifesto of Mistakes" jako narzędzie uczenia się na błędach kampanii i konwersja zwolenników w aktywistów.

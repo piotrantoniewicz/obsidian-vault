@@ -1,10 +1,14 @@
 ---
-type: "Web"
-authors: "[[Ryan Carr]]"
-url: "https://moodboard.beehiiv.com/p/set-up-your-first-claude-cowork-project-fast?utm_source=moodboard.beehiiv.com&utm_medium=newsletter&utm_campaign=build-a-home-for-your-ai-projects&_bhlid=d3b5cb2c7e8c06c4e3454c6585c3a3e49869a181&jwt_token="
-published: 2026-04-02
-created: 2026-05-18
+type: Web
+authors: '[[Ryan Carr]]'
+url: >-
+  https://moodboard.beehiiv.com/p/set-up-your-first-claude-cowork-project-fast?utm_source=moodboard.beehiiv.com&utm_medium=newsletter&utm_campaign=build-a-home-for-your-ai-projects&_bhlid=d3b5cb2c7e8c06c4e3454c6585c3a3e49869a181&jwt_token=
+published: 2026-04-02T00:00:00.000Z
+created: 2026-05-18T00:00:00.000Z
 tags:
+  - automatyzacja
+  - narzędzia-AI
+  - prompt-engineering
 ---
 
 

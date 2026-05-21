@@ -1,10 +1,14 @@
 ---
-type: "Web"
-authors: "[[Lenny Rachitsky]]"
-url: "https://www.lennysnewsletter.com/p/this-week-on-how-i-ai-zapiers-ceo?utm_source=substack&utm_medium=email&utm_campaign=email-restack-comment&r=4zdnrk&triedRedirect=true"
-published: 2026-01-05
-created: 2026-05-12
+type: Web
+authors: '[[Lenny Rachitsky]]'
+url: >-
+  https://www.lennysnewsletter.com/p/this-week-on-how-i-ai-zapiers-ceo?utm_source=substack&utm_medium=email&utm_campaign=email-restack-comment&r=4zdnrk&triedRedirect=true
+published: 2026-01-05T00:00:00.000Z
+created: 2026-05-12T00:00:00.000Z
 tags:
+  - strategia-AI
+  - narzędzia-AI
+  - szkolenia-AI
 ---
 
 

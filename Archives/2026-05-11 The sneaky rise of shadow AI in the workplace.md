@@ -5,6 +5,9 @@ url: "https://www.businessinsider.com/sneaky-rise-shadow-ai-workplace-claude-it-
 published: 2026-05-11
 created: 2026-05-18
 tags:
+  - "strategia-AI"
+  - "szkolenia-AI"
+  - "narzędzia-AI"
 ---
 
 

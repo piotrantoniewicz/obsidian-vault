@@ -5,6 +5,9 @@ url: "https://kylebehrend.substack.com/p/most-nonprofits-only-see-half-the?r=62y
 published: 2026-05-21
 created: 2026-05-21
 tags:
+  - "strategia-AI"
+  - "narzędzia-AI"
+  - "organizacje-społeczne"
 ---
 
 

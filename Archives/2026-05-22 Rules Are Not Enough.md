@@ -5,6 +5,9 @@ url: "https://www.linkedin.com/pulse/rules-enough-bryan-neider-16ubc/"
 published: 2026-05-22
 created: 2026-05-22
 tags:
+  - "strategia-AI"
+  - "organizacje-społeczne"
+  - "strategia-organizacji"
 ---
 
 

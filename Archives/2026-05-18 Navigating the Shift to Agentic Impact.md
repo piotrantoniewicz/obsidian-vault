@@ -5,6 +5,9 @@ url: "https://www.linkedin.com/pulse/navigating-shift-agentic-impact-bryan-neide
 published: 2026-05-13
 created: 2026-05-18
 tags:
+  - "strategia-AI"
+  - "organizacje-społeczne"
+  - "narzędzia-AI"
 ---
 
 

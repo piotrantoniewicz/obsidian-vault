@@ -5,6 +5,8 @@ url: "https://www.litmus.com/blog/micro-animations-macro-impact-10-use-cases-you
 published: 2026-05-14
 created: 2026-05-22
 tags:
+  - "content-marketing"
+  - "digital-campaigning"
 ---
 
 

@@ -5,6 +5,9 @@ url: "https://www.linkedin.com/pulse/navigating-labyrinth-innovation-calcified-w
 published: 2026-05-14
 created: 2026-05-18
 tags:
+  - "organizacje-społeczne"
+  - "strategia-organizacji"
+  - "framing"
 ---
 
 

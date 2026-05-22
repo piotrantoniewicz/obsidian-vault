@@ -5,6 +5,9 @@ url: "https://aiforhumanity.ffwd.org/p/funders-gold?utm_source=substack&utm_medi
 published: 2026-05-20
 created: 2026-05-20
 tags:
+  - "fundraising"
+  - "organizacje-społeczne"
+  - "strategia-AI"
 ---
 
 

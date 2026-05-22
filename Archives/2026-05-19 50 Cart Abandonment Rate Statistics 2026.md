@@ -5,6 +5,7 @@ url: "https://baymard.com/lists/cart-abandonment-rate?utm_source=www.civicshoutn
 published:
 created: 2026-05-19
 tags:
+  - "content-marketing"
 ---
 
 

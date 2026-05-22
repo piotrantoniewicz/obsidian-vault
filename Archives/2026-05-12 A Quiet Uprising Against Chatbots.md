@@ -5,6 +5,9 @@ url: "https://nonprofitquarterly.org/a-quiet-uprising-against-chatbots/?utm_sour
 published: 2026-05-12
 created: 2026-05-20
 tags:
+  - "strategia-AI"
+  - "narzędzia-AI"
+  - "organizacje-społeczne"
 ---
 
 

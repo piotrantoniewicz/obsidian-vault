@@ -5,6 +5,9 @@ url: "https://www.linkedin.com/pulse/reclaiming-your-mission-age-ai-bryan-neider
 published: 2026-05-19
 created: 2026-05-19
 tags:
+  - "szkolenia-AI"
+  - "prompt-engineering"
+  - "organizacje-społeczne"
 ---
 
 

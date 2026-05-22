@@ -5,6 +5,9 @@ url: "https://www.linkedin.com/pulse/redefining-reality-adapting-gen-zs-truth-br
 published: 2026-05-18
 created: 2026-05-18
 tags:
+  - "framing"
+  - "digital-campaigning"
+  - "content-marketing"
 ---
 
 

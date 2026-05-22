@@ -5,6 +5,9 @@ url: "https://www.cxtoday.com/marketing-sales-technology/5-findings-from-6senses
 published: 2026-05-12
 created: 2026-05-18
 tags:
+  - "strategia-AI"
+  - "trendy-AI"
+  - "narzędzia-AI"
 ---
 
 

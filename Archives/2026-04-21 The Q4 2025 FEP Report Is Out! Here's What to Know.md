@@ -5,6 +5,8 @@ url: "https://neonone.com/resources/blog/q4-2025-fep-report-takeaways/"
 published: 2026-04-21
 created: 2026-05-18
 tags:
+  - "fundraising"
+  - "organizacje-społeczne"
 ---
 
 

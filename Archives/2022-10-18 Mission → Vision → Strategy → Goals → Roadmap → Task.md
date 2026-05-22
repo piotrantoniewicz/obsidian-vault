@@ -5,6 +5,7 @@ url: "https://www.lennysnewsletter.com/p/mission-vision-strategy-goals-roadmap"
 published: 2022-10-18
 created: 2026-05-12
 tags:
+  - "strategia-organizacji"
 ---
 
 

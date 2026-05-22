@@ -5,6 +5,9 @@ url: "https://moodboard.beehiiv.com/p/a-prompt-for-ai-images-that-match-your-bra
 published: 2025-08-21
 created: 2026-05-08
 tags:
+  - "prompt-engineering"
+  - "narzędzia-AI"
+  - "content-marketing"
 ---
 
 

@@ -5,6 +5,9 @@ url: "https://www.lennysnewsletter.com/p/this-week-on-how-i-ai-the-power-users?u
 published: 2026-01-12
 created: 2026-05-12
 tags:
+  - "narzędzia-AI"
+  - "vibe-coding"
+  - "strategia-AI"
 ---
 
 

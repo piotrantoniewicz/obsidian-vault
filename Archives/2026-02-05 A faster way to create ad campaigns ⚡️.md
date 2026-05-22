@@ -5,6 +5,9 @@ url: "https://moodboard.beehiiv.com/p/a-faster-way-to-create-ad-campaigns?utm_so
 published: 2026-02-05
 created: 2026-05-08
 tags:
+  - "automatyzacja"
+  - "narzędzia-AI"
+  - "content-marketing"
 ---
 
 

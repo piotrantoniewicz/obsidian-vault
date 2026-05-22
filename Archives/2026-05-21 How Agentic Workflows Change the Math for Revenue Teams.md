@@ -5,6 +5,9 @@ url: "https://go9x.com/blog/how-agentic-workflows-change-the-math-for-revenue-te
 published: 2026-05-21
 created: 2026-05-20
 tags:
+  - "automatyzacja"
+  - "strategia-AI"
+  - "narzędzia-AI"
 ---
 
 

@@ -62,4 +62,3 @@ We are not just managing data; we are stewarding the trust of the communities we
 
 Subscribe on LinkedIn [https://www.linkedin.com/build-relation/newsletter-follow?entityUrn=7396000666046881792](https://www.linkedin.com/build-relation/newsletter-follow?entityUrn=7396000666046881792)
 
-#NonprofitLeadership #DigitalSovereignty #AIforGood #Resilience #TechStewardship #Governance #SocialImpact #AbilithPath

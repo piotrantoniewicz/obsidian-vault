@@ -350,3 +350,53 @@
 - [[2025-05-29 Banned Yet Broadcasting Sanctioned Belarusian State Media Influencing the Polish Elections]] — Alliance4Europe: Radio Belarus dezinformowało polskie wybory 2025 przez TikTok z 16 mln wyświetleń.
 - [[2025-05-29 Bots Do Lie AI Disinformation in Senegal s Elections Democracy Reporting International]] — DRI: 41–47% odpowiedzi chatbotów o wyborach w Senegalu jest błędnych; LLM nie nadają się do informacji wyborczych.
 - [[2025-05-29 Engaging Activists meeting - feedback and next steps]] — ECF: "Manifesto of Mistakes" jako narzędzie uczenia się na błędach kampanii i konwersja zwolenników w aktywistów.
+- [[2025-05-29 TON s New Chapter Leading with Purpose in the Age of AI]] — Tectonica ogłasza strategiczny zwrot TON na etyczne wdrożenie AI dla organizacji progresywnych z intencją.
+- [[2025-05-31 How to create videos with Google Veo 3 AI video generator]] — Google Veo 3: 20-sekundowe wideo advocacy za 20 USD/mies. w mniej niż godzinę, krok po kroku.
+- [[2025-06-01 Digital Organizing Glossary]] — ECDA: słownik pojęć digital organizingu — wskaźniki email, Ladder of Engagement i Action Network.
+- [[2025-06-03 A Chief AI Officer Won't Fix Your AI Problems]] — CAIO to symptom, nie rozwiązanie — AI powinno być wbudowane w każdą funkcję organizacji, nie scentralizowane.
+- [[2025-06-03 Beeffective]] — Kompendium porad Beeffective: używanie AI z głową, marka osobista i skuteczne promtowanie dla marketerów.
+- [[2025-06-03 CRM - email & social media platform advice needed! (global)]] — Dyskusja ECF: pułapka "Death Star", suwerenność technologiczna NGO i wybór CRM jako decyzja polityczna.
+- [[2025-06-03 Dwa Słowa]] — Kompendium taktyk copywriterskich z newsletterów Dwa Słowa: nagłówki, ciekawość, pilność i storytelling.
+- [[2025-06-03 Flowmail]] — Wskazówki Flowmail: budowanie listy mailowej, sekwencje powitalne i projektowanie emaili dla NGO.
+- [[2025-06-03 Lead generation w NGO, czyli jak pozyskać nowych odbiorców, darczyńców i wolontariuszy]] — Lejek zaangażowania NGO z lead magnetami, formularzami i sekwencją emailową dla darczyńców i wolontariuszy.
+- [[2025-06-03 Matt Diggity]] — Strategie SEO i automatyzacji content pipeline od Matt Diggity adaptowane dla NGO i kampanierów cyfrowych.
+- [[2025-06-03 Piotr Pysiak]] — Porady Piotra Pysiaka o delegowaniu, zapobieganiu wypaleniu liderów i adaptacji kampanii do szybkich zmian.
+- [[2025-06-03 Tech Power and the Crisis of Democracy]] — AI-first government jako cover story dla konsolidacji władzy; dane beneficjentów NGO podatne na re-identyfikację.
+- [[2025-06-03 The Most-Cited Computer Scientist Plans to Make AI More Trustworthy]] — Yoshua Bengio zakłada LawZero i proponuje "Scientist AI" bez agencji jako bezpieczną alternatywę dla AGI.
+- [[2025-06-03 TON - New Chapter Leading with Purpose in the Age of AI]] — Newsletter Tectonica: "AI z intencją" dla NGO i zagrożenia tech stack sektora obywatelskiego.
+- [[2025-06-03 What elections across Europe are quietly teaching us about the future of influence]] — Wybory w Rumunii i Polsce 2025: sieci wolontariuszy, deepfaki i białoruska dezinformacja z 16 mln wyświetleń.
+- [[2025-06-04 2026 Email Marketing Statistics for Nonprofits]] — Statystyki email NGO 2026: open rate 28,59%, 81% marketerów używa AI, personalizacja CTA daje +202% konwersji.
+- [[2025-06-04 Ecomail]] — Praktyczne porady Ecomail: cykliczne podsumowania kampanii, sezonowość i analiza wskaźników email.
+- [[2025-06-04 Meet the AI Trailblazers Transforming Youth Wellbeing]] — Fast Forward: NGO jako pionierzy odpowiedzialnego AI; 4 kategorie zastosowań i 600% wzrost AI-powered nonprofits.
+- [[2025-06-04 Preventable deaths campaigns in Scotland]] — Dyskusja ECF: mapa organizacji UK (INQUEST, CHARM) dokumentujących możliwe do uniknięcia zgony instytucjonalne.
+- [[2025-06-05 What are ads good for]] — ECDA: reklamy cyfrowe nie zmieniają poglądów — wartość to rekrutacja do infrastruktury kampanii (lista, eventy, Discord).
+- [[2025-06-06 Any recommendations for community crowd funding platforms]] — Dyskusja ECF: Open Collective, Donorbox i Ghost Pro jako tanie platformy crowdfundingowe dla małych NGO.
+- [[2025-06-06 ECF]] — Kompendium porad z newsletterów ECF: WhatsApp jako centrum komunikacji i exodus z X/Twittera dla NGO.
+- [[2025-06-06 Self-Organization Needs Activators The 9% Who Turn Networks into Movements]] — Model 1-9-90: 9% "network catalysts" przekształca luźne sieci w skuteczne ruchy społeczne.
+- [[2025-06-07 Struktura Avaaz]] — Analiza struktury emaili Avaaz: personalizacja nadawcy, emocjonalne tematy i mechanizmy mobilizacji 70 mln członków.
+- [[2025-06-07 Struktura CIWF]] — Analiza newsletterów Compassion in World Farming: stały nadawca-ekspert, emoji zwierząt i emocjonalne CTA.
+- [[2025-06-07 Struktura Greenpeace]] — Analiza emaili Greenpeace Polska: personalizacja nadawcy, emotikonki i wzorce tematów mobilizacyjnych.
+- [[2025-06-07 Struktura WeMove]] — Analiza struktury emaili WeMove Europe: brutalna bezpośredniość, dramatyczne otwarcia i brak emoji.
+- [[2025-06-08 Jess Campbell]] — Porady Jess Campbell: budowanie listy emailowej, sekwencje powitalne i czyszczenie nieaktywnych subskrybentów.
+- [[2025-06-09 21 Donor Recognition Examples How to Thank Donors Well]] — 21 sposobów dziękowania darczyńcom; podziękowanie w 48h zwiększa retencję 4x, telefon o 30%.
+- [[2025-06-09 Sovereign AI is political branding—the reality is closer to digital colonialism]] — "Suwerenna AI" to branding: ZEA i Francja inwestują miliardy, lecz w pełni zależą od infrastruktury USA.
+- [[2025-06-10 Meet the Finalists of the 2025 AI for Good Impact Awards]] — ITU/Tech To The Rescue: 12 finalistów AI for Good 2025 — konkretne wdrożenia NGO w zdrowiu, mapowaniu i rolnictwie.
+- [[2025-06-10 OUCH!]] — Jess Campbell: matematyka fundraisingu Giving Tuesday — jeden email ~$831, cel $5K wymaga 3 apeli.
+- [[2025-06-10 The invisible hand - How digital persuasion shapes our online world]] — Framework FORCES i 7 typów cyfrowych szturchańców jako mapa technik manipulacji i etycznych kampanii.
+- [[2025-06-11 Google Adwords Grants i pułapki technologiczne w NGO]] — Dyskusja ECF: Performance Max w Ad Grants i diagnoza Foale'a o NGO szukających "magicznej różdżki".
+- [[2025-06-11 Google for Nonprofits will expand to 100+ new countries and launch 10+ new no-cost AI features]] — Google for Nonprofits: 10+ nowych funkcji AI (NotebookLM, Gemini Deep Research) bezpłatnie dla NGO.
+- [[2025-06-11 Inside Amsterdam s high-stakes experiment to create fair welfare AI]] — Amsterdam Smart Check: algorytm "odpowiedzialnego AI" nadal był stronniczy mimo audytów — klęska za €500K.
+- [[2025-06-11 Jak przygotować się do pisania wniosku o grant z pomocą asystenta AI – Google NotebookLM]] — NotebookLM do analizy dokumentów grantowych — AI jako asystent przygotowania, nie generator treści wniosku.
+- [[2025-06-11 The digital race- How Europe can catch up]] — Partisan: progresywna Europa wydaje 36% budżetu na reklamy cyfrowe; zasada "always-on" zamiast kampanijnych sprintów.
+- [[2025-06-12 Report + checklist - quick wins to improve your campaign actions]] — Analiza 20 UK NGO: social proof, WhatsApp share button i walidacja danych zwiększają konwersję akcji kampanijnych.
+- [[2025-06-12 The Aligned Organisation - A Brown Paper]] — Framework 7 elementów Aligned Organisation: spójność wartości, strategii i struktury jako warunek skutecznej zmiany.
+- [[2025-06-13 #99 Nie publikuj na LinkedIn, zanim tego nie przeczytasz]] — LinkedIn SEO 2025: czas spędzony z postem jako metryka #1, profil jako wyszukiwarka i PDFy zamiast linków.
+- [[2025-06-13 AI, Voter Trends & 2024 Surprises AAPC Unveils Bipartisan Research at Pollie Awards]] — AAPC 2025: 200+ konsultantów używa AI do efektywności operacyjnej (syntezy, drafts), nie kreacji kampanijnej.
+- [[2025-06-13 Apple s iOS 26 Digital Outreach just got a HUGE wake-up call - M+R]] — iOS 26 filtruje nieznane połączenia i SMS-y; NGO muszą "zasłużyć" na dostęp do rozmowy ze zwolennikami.
+- [[2025-06-13 Are You Ready for the AI Election]] — Chatboty perswazyjne, targetowanie AI i wideo AI — cztery kategorie narzędzi dla "wyborów AI 2028".
+- [[2025-06-13 Email i prosta baza danych dla małej organizacji]] — Dyskusja ECF: Mailchimp jako prosta baza i email dla małego NGO, Action Network jako alternatywa dla advocacy.
+- [[2025-06-13 How Digital Pros Are Thinking About AI-Driven Advertising]] — Meta automatyzuje reklamy do końca 2025; "karmienie algorytmu" wariantami kreacji staje się koniecznością kampanijną.
+- [[2025-06-13 ICYMI Email Deliverability Have the Rules Changed? WEBINAR RECORDING - M+R]] — M+R webinar: higiena list według domeny, segmentacja przed wysyłką i problemy z domenami Microsoft w 2025.
+- [[2025-06-13 ICYMI Email Deliverability Have the Rules Changed]] — M+R Q&A o dostarczalności 2025: priorytyzacja wysyłki do aktywnych, monitorowanie per dostawca i folder Promotions.
+- [[2025-06-13 Jak personalizować kampanie e-mailowe - Praktyczny przewodnik]] — 7 kroków personalizacji emaili: zbieranie danych, segmentacja, wyzwalacze i dynamiczne treści dla NGO.
+- [[2025-06-14 Caroline Griffin]] — Kompendium Caroline Griffin: Google Performance Max vs Meta, SMS 95% otwieralność i alternatywy dla drogich platform.

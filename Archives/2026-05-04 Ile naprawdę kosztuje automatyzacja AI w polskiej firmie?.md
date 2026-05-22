@@ -5,6 +5,9 @@ url: "https://wpraktyce.ai/blog/ile-kosztuje-automatyzacja-ai-w-polskiej-firmie?
 published: 2026-05-04
 created: 2026-05-18
 tags:
+  - "automatyzacja"
+  - "narzędzia-AI"
+  - "strategia-AI"
 ---
 
 

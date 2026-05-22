@@ -5,6 +5,9 @@ url: "https://hub.partisan.community/m/news/dont-forget-the-potential-of-the-goo
 published: 2026-05-08
 created: 2026-05-19
 tags:
+  - "digital-campaigning"
+  - "fundraising"
+  - "content-marketing"
 ---
 
 

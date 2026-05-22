@@ -5,6 +5,9 @@ url: "https://www.linkedin.com/pulse/technically-flawless-completely-forgettable
 published: 2026-05-22
 created: 2026-05-22
 tags:
+  - "framing"
+  - "digital-campaigning"
+  - "content-marketing"
 ---
 
 

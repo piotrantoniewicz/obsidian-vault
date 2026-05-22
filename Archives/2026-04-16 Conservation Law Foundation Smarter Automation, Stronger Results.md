@@ -5,6 +5,9 @@ url: "https://www.engagingnetworks.net/blog/conservation-law-foundation-automati
 published: 2026-04-16
 created: 2026-05-22
 tags:
+  - "fundraising"
+  - "automatyzacja"
+  - "digital-campaigning"
 ---
 
 

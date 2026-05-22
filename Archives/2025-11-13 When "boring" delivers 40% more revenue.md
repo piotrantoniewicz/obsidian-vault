@@ -5,6 +5,9 @@ url: "https://www.civicshoutnewsletter.com/p/when-boring-delivers-40-more-revenu
 published: 2025-11-13
 created: 2026-05-19
 tags:
+  - "fundraising"
+  - "digital-campaigning"
+  - "content-marketing"
 ---
 
 

@@ -5,6 +5,9 @@ url: "https://www.lennysnewsletter.com/p/today-on-how-i-ai-i-gave-clawdbot?utm_s
 published: 2026-01-28
 created: 2026-05-12
 tags:
+  - "narzędzia-AI"
+  - "automatyzacja"
+  - "trendy-AI"
 ---
 
 

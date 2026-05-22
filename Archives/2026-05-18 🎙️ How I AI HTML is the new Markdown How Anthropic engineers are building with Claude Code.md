@@ -5,6 +5,9 @@ url: "https://www.lennysnewsletter.com/p/how-i-ai-html-is-the-new-markdown?utm_s
 published: 2026-05-18
 created: 2026-05-20
 tags:
+  - "vibe-coding"
+  - "narzędzia-AI"
+  - "prompt-engineering"
 ---
 
 

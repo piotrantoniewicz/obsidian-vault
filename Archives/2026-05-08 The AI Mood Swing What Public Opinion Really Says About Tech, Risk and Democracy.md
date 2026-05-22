@@ -5,6 +5,9 @@ url: "https://hub.partisan.community/m/news/the-ai-mood-swing-what-public-opinio
 published: 2026-05-08
 created: 2026-05-19
 tags:
+  - "trendy-AI"
+  - "digital-campaigning"
+  - "strategia-AI"
 ---
 
 

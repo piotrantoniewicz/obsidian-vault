@@ -5,6 +5,9 @@ url: "https://www.centerfordigitalaction.eu/post/takeaways-from-m-r-s-benchmarks
 published: 2026-05-19
 created: 2026-05-21
 tags:
+  - "fundraising"
+  - "digital-campaigning"
+  - "organizacje-społeczne"
 ---
 
 

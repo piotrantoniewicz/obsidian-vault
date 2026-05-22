@@ -5,6 +5,9 @@ url: "https://moodboard.beehiiv.com/p/create-ads-with-nano-banana-pro?utm_source
 published: 2025-11-27
 created: 2026-05-08
 tags:
+  - "narzędzia-AI"
+  - "content-marketing"
+  - "prompt-engineering"
 ---
 
 

@@ -5,6 +5,9 @@ url: "https://www.lennysnewsletter.com/p/this-week-on-how-i-ai-automate-the?utm_
 published: 2026-02-04
 created: 2026-05-12
 tags:
+  - "automatyzacja"
+  - "narzędzia-AI"
+  - "vibe-coding"
 ---
 
 

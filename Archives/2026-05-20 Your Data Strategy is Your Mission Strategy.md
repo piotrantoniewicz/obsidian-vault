@@ -5,6 +5,9 @@ url: "https://www.linkedin.com/pulse/your-data-strategy-mission-bryan-neider-voz
 published: 2026-05-20
 created: 2026-05-20
 tags:
+  - "strategia-AI"
+  - "organizacje-społeczne"
+  - "strategia-organizacji"
 ---
 
 

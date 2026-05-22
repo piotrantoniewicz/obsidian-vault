@@ -5,6 +5,9 @@ url: "https://moodboard.beehiiv.com/p/a-prompt-that-builds-your-landing-page-by-
 published: 2025-07-31
 created: 2026-05-08
 tags:
+  - "prompt-engineering"
+  - "vibe-coding"
+  - "produkty-cyfrowe"
 ---
 
 

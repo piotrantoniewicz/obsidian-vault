@@ -5,6 +5,7 @@ url: "https://www.lennysnewsletter.com/p/my-favorite-templates-issue-37"
 published: 2020-08-04
 created: 2026-05-12
 tags:
+  - "strategia-organizacji"
 ---
 
 

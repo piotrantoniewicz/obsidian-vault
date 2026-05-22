@@ -400,3 +400,103 @@
 - [[2025-06-13 ICYMI Email Deliverability Have the Rules Changed]] — M+R Q&A o dostarczalności 2025: priorytyzacja wysyłki do aktywnych, monitorowanie per dostawca i folder Promotions.
 - [[2025-06-13 Jak personalizować kampanie e-mailowe - Praktyczny przewodnik]] — 7 kroków personalizacji emaili: zbieranie danych, segmentacja, wyzwalacze i dynamiczne treści dla NGO.
 - [[2025-06-14 Caroline Griffin]] — Kompendium Caroline Griffin: Google Performance Max vs Meta, SMS 95% otwieralność i alternatywy dla drogich platform.
+- [[2025-06-16 Branding w NGO Jak stworzyć markę, której ludzie zaufają]] — Systematyczny framework brandingu NGO: tożsamość marki, archetypy Junga i brandbook dla spójnej komunikacji.
+- [[2025-06-16 Go viral or go home The TikTok strategy progressives need]] — Petra De Sutter: 0→26K obserwujących na TikToku w rok — strategia autentyczności i delegowania do Gen Z.
+- [[2025-06-16 How to create an AI Policy]] — DataKind UK/Wellcome Trust: tworzenie polityki AI dla małych NGO — inwentaryzacja użycia, ryzyka i iteracyjne governance.
+- [[2025-06-16 Personalizacja w e-mail marketingu]] — Personalizacja emaili to dostosowanie treści, oferty i momentu wysyłki przez segmentację — nie tylko imię odbiorcy.
+- [[2025-06-16 Phone fundraising - insights wanted!]] — Hierarchia ROI fundraisingu telefonicznego: upgrade istniejących → konwersja cykliczna → konwersja jednorazowa → zimna rekrutacja.
+- [[2025-06-17 Digital Lessons from Poland s Election Permanent Campaign, Permanent Manipulation]] — Polskie wybory 2025: AI-generowani zwolennicy i saturacja TikTokiem zdefiniowały permanentną kampanię dezinformacyjną.
+- [[2025-06-17 Jak wizualizacja danych wspiera komunikację organizacji społecznej Sprawdź na przykładzie Fundacji Gajusz]] — BI_NGO i Fundacja Gajusz: analogie, jednostki czasu i dane względne jako techniki data storytellingu dla fundraisingu.
+- [[2025-06-17 Using paid social to drive email your MP actions]] — Meta Ads do kampanii email-to-MP: optymalizacja pod konwersje (nie ruch), broad targeting i Pixel jako warunki skuteczności.
+- [[2025-06-17 We're back- Political Tech Summit 2026]] — Political Tech Summit Berlin 2026 i AI Politics Academy: 3-miesięczny program AI dla specjalistów politycznych w Europie.
+- [[2025-06-18 Bezpłatne aplikacje dla NGO. Część 3 – zarządzanie zadaniami i projektami]] — Porównanie Asany, Trello, 2do2 i Nozbe dla NGO z dostępnymi zniżkami do 75% na plany pro.
+- [[2025-06-18 Prime Time]] — Fast Forward Demo Day 2025: 7 NGO wdrażających AI od malarii po przemoc domową, z 53% poprawą kluczowych wskaźników.
+- [[2025-06-19 A Bumper Edition of Our Newsletter for Summer]] — Social Change Nest 5-lecie: 51% grantów niedostępnych bez fiscal hosting i toolkit płacenia za lived experience.
+- [[2025-06-19 Emails to MPs not getting through]] — Systemowa blokada emaili do parlamentarzystów UK: diagnoza DMARC/DKIM i model spersonalizowanej komunikacji z politykami.
+- [[2025-06-19 Just in time for spring cleaning, a list refresh]] — ECDA: re-engagement seria jako higiena listy + TikTok case Petry De Sutter + compliance fundraisingowy dla wyborów.
+- [[2025-06-19 The anti-Trump camp was in disarray. How has No Kings managed to unite it]] — "No Kings": prosty patriotyczny framing bez liderów zjednoczył 5 mln Amerykanów w marszach w czerwcu 2025.
+- [[2025-06-20 Jak Mówić, Żeby Media Chciały Słuchać]] — Zasada odwróconej piramidy i budowanie relacji z redakcjami jako klucz do obecności NGO w mediach.
+- [[2025-06-20 Soft opt-ins i ustawa Data Use and Access Act 2025]] — Data (Use and Access) Act 2025 UK: soft opt-in dla NGO szacowany na £290 mln rocznie — strategia wdrożenia.
+- [[2025-06-20 You sound like ChatGPT]] — Badania: ChatGPT zunifikował język angielski, słowa "delve" wzrosły o 51% — ostrzeżenie dla ghostwriterów o utracie głosu.
+- [[2025-06-22 9 ChatGPT & Claude Writing Tips (to get CRAZY GOOD outputs)]] — Nicolas Cole: 9 technik prompt engineeringu — Automation Prompting, Claude Projects i modularny workflow twórczy.
+- [[2025-06-23 A Black Hole of Energy Use Meta s Massive AI Data Center Is Stressing Out a Louisiana Community]] — Meta przerzuca koszt 3 elektrowni gazowych na ubogich mieszkańców Luizjany dla centrum danych AI.
+- [[2025-06-23 Consultation response action]] — Jak zebrać 31% odpowiedzi w konsultacjach publicznych: uproszczenie pytań i wstępna zgoda urzędników jako klucz.
+- [[2025-06-23 Imagining Two Possible Futures of AI In Political Campaigning]] — AAPC: 54% widzi AI jako narzędzie, 41% jako transformację — dwa scenariusze przyszłości AI w kampaniach politycznych.
+- [[2025-06-23 Is the Politics Business Ready for the Age of AI]] — Phil Vangelakos (Push Digital): AI to kwestia przetrwania firm konsultingowych — kto się nie zaadaptuje, zniknie.
+- [[2025-06-23 Meta traffic ad conversion question]] — Najczęstszy błąd NGO w Meta Ads: kampania "Traffic" zamiast "Conversions" — dlaczego 150 kliknięć dało 0 konwersji.
+- [[2025-06-23 Using AI Right Now A Quick Guide]] — Ethan Mollick: Deep Research, voice mode i branching jako funkcje odróżniające power userów AI od casual users.
+- [[2025-06-24 Can We Build Trust in AI]] — KPMG 2025: tylko 40% Amerykanów ufa AI (vs 75-80% Chiny/Indie) — 4 strategie budowania zaufania przez przywództwo.
+- [[2025-06-24 Guidance The use of Artificial Intelligence]] — BBC: wewnętrzne wytyczne AI — ludzki nadzór redakcyjny i transparentność wobec odbiorców jako standard instytucjonalny.
+- [[2025-06-24 How to build an ethical AI culture From values to practice]] — 5-etapowa dojrzałość etyczna AI: od ewangelizacji wartości przez polityki do realnej eliminacji nieetycznych modeli.
+- [[2025-06-24 Positive v Negative campaign strategy]] — Julien Vincent: dychotomia "pozytywna/negatywna" kampania to błąd — skuteczna łączy inside track z outside track jednocześnie.
+- [[2025-06-25 AI policies for small charities]] — Forum ECF: frameworki polityki AI dla małych NGO (CAST, DataKind, mySociety) i etyczny dylemat wdrożenia AI w sektorze misyjnym.
+- [[2025-06-25 Build optimism—don't debate it]] — Jacek Siadkowski (Tech To The Rescue): pragmatyczny optymizm przez co-creation labs zamiast okrągłych stołów i paneli.
+- [[2025-06-25 Marketing z misją 10 inspirujących przykładów]] — 10 polskich NGO z wzorcowym marketingiem: storytelling, marka osobista lidera, fundraising symboliczny i estetyka dopasowana do odbiorcy.
+- [[2025-06-25 Progress Shouldn t Poison Black Communities]] — xAI (Musk) emituje 2000 ton tlenków azotu rocznie w Czarnej dzielnicy Memphis — nowy rasizm środowiskowy AI.
+- [[2025-06-26 Letnia rewolucja w GeneratorGPT - Sprawdź, co dla Ciebie przygotowaliśmy]] — GeneratorGPT letnia aktualizacja przez AIDEAS: iteracyjny rozwój platformy AI pod feedback uczestników programu.
+- [[2025-06-27 Czerwcowa strategia e-mail marketingowa dla e-commerce]] — Ecomail: 5 czerwcowych hooks mailingowych (Dzień Ojca, Pride, Środowisko) z benchmarkami konwersji dla NGO.
+- [[2025-06-27 Pockets Change increased email engagement by 357%]] — Pockets Change: +357% CTR w 12 miesięcy przez zautomatyzowaną welcome series pisaną głosem dyrektora.
+- [[2025-06-28 The AI Backlash Keeps Growing Stronger]] — Wired: "ambient animosity" wobec AI rośnie — Duolingo usunęło posty po krytyce "AI-first"; lekcja komunikacyjna dla NGO.
+- [[2025-06-30 Czerwiec w e-mail marketingu – nasze podsumowanie]] — Ecomail: sezonowe okazje wartościowe (Pride, Środowisko) jako naturalne punkty wejścia w email marketing NGO latem.
+- [[2025-06-30 Defeating the government in Parliament to proscribe Palestine Action as a terrorist organisation]] — ECF: wall-charting posłów, reklamy targetowane na Westminster i multi-channel fallback w nagłej kampanii legislacyjnej.
+- [[2025-06-30 Inertia and impact]] — OODA Loop jako framework strategiczny dla ruchów społecznych: inercja organizacyjna jako główna bariera szybkiego uczenia się.
+- [[2025-06-30 Newsletter Tool]] — Forum ECF: Ghost, CiviCRM+Mosaico i Action Network jako etyczne alternatywy dla Mailchimp z RODO dla NGO.
+- [[2025-07-01 Dekarbonizacja już tu jest – nowy raport Fundacji Climate&Strategy]] — Climate&Strategy: polskie firmy przeszły z deklaratywnej do mierzalnej dekarbonizacji — case studies Michelin, Rossmann, Polenergia.
+- [[2025-07-01 ESG, biznes i NGO – praktyczny przewodnik po skutecznej współpracy]] — ESG jako strategiczne partnerstwo NGO-biznes: employee volunteering, co-advocacy i dyrektywa CSRD jako motory współpracy.
+- [[2025-07-01 Szefowo, Szefie - Wasz nowy Zespół to Agentic AI. Jesteście gotowi by nim skutecznie zarządzać ]] — 5 kompetencji lidera zarządzającego agentami AI: precyzja celów, governance, orkiestracja i zarządzanie moral hazard.
+- [[2025-07-02 Building AI for the Public Good Preliminary Insights from Our Responsible AI Pipeline]] — New Rising Ventures: 200+ zgłoszeń do Responsible AI Pipeline — demokratyzacja treści, civic gamifikacja i narrative safety.
+- [[2025-07-02 New strategies for the far right]] — ECF: dyskusja o nowych strategiach wobec Reform UK — kooperatyzm lokalny jako oddolna kontr-narracja na populizm.
+- [[2025-07-02 We need new strategies to respond to the far right]] — Natasha Adams: strategie lobbingu i mobilizacji cyfrowej nie działają przeciw skrajnej prawicy — potrzeba sojuszy i planowania scenariuszowego.
+- [[2025-07-03 Choosing the Right Gen AI Tools - For Campaigns and Organizations]] — Tectonica: 8-pytaniowy framework oceny narzędzi AI — teoria zmiany, integracja z CRM i etyka demokratyczna jako filtry.
+- [[2025-07-03 Pride, podcasts and plenty of ways to get involved]] — ECDA: relational organizing przez WhatsApp + reframing Marszu Równości w Budapeszcie + toolkit podcastów politycznych.
+- [[2025-07-03 The End of the Age of NGOs]] — Bush/Hadden: złoty wiek NGO skończony — sceptycyzm publiczny, ograniczenia rządowe i cięcia USAID jako potrójne zagrożenie.
+- [[2025-07-03 The future of email-to-target campaigning]] — More Onion/Impact Stack: email-to-target ma 15 lat i wymaga ewolucji — od szablonów ku personalizacji i nowym kanałom dostarczania do decydentów.
+- [[2025-07-03 TON - Picking the Right AI Tools, AI Campaign Trade-offs, ChatGPT Making Us Less Smart]] — Tectonica TON: framework 3 pytań wyboru narzędzi AI + badanie MIT o osłabianiu pamięci i myślenia przez ChatGPT.
+- [[2025-07-03 Use Claude to write great newsletters (fast)]] — Ryan Carr: Claude Projects jako asystent newsletterów — projekt z bazą wiedzy i prompt systemowy skracają pisanie do 1 godziny.
+- [[2025-07-04 Digital power The winning formula behind Zohran Mamdani s victory]] — Kampania Mamdaniego: digital-first, konkretny komunikat ekonomiczny i 26 000 wolontariuszy jako blueprint progresywnej kampanii wyborczej.
+- [[2025-07-04 Technologie w walce z marnowaniem żywności. Jak działa cyfrowy ekosystem Federacji Polskich Banków Żywności?]] — FPBŻ: jak sieć 31 NGO zbudowała centrum usług wspólnych IT ze standardem EPCIS dla 40 000 ton żywności rocznie.
+- [[2025-07-07 Renting Attention vs. Building Power]] — Sam Lockwood: kampania Harris wynajmowała uwagę (reklamy), Mamdani budował władzę (relacje) — 1,6 mln pukań do drzwi jako dowód.
+- [[2025-07-08 AI vs. SEO - How Generative Search Is Reshaping Discovery, Content Strategy, and Consumer Trust in 2025]] — Fractl: 66% konsumentów oczekuje zastąpienia wyszukiwarek przez AI; era GEO — bycie cytowanym ważniejsze od pozycji.
+- [[2025-07-08 Harris, Mamdani, and How we Campaign - Curious What You Think]] — ECF: dyskusja o "wynajmowaniu uwagi vs. budowaniu władzy" — zasady kampanii Mamdaniego i kryzys zaufania do polityków.
+- [[2025-07-08 Ten email nie sprzedaje, a generuje najwięcej przychodu]] — Flowmail: email z pytaniem zbierającym obiekcje darczyńców zamiast prośby — fundraisingowa odwrotność logiki mailingowej.
+- [[2025-07-08 What people are vibe coding (and actually using)]] — Lenny Rachitsky: 1000+ osób bez zaplecza technicznego tworzy i używa własnych narzędzi AI przez Cursor, Claude Code i Lovable.
+- [[2025-07-08 What would be your dream platform for digital campaigning tools]] — Avaaz/ECF: dyskusja o idealnej platformie kampanijnej — FairSay: strategia organizowania ważniejsza niż funkcje platformy.
+- [[2025-07-09 Lista zadań od Google – minimalistyczne zarządzanie zadaniami]] — Google Tasks dla NGO: minimalistyczne, bezpłatne zarządzanie zadaniami w ekosystemie Google z integracją Gemini.
+- [[2025-07-09 Top 10 Essential MCP Servers for Claude Code (2026 Developer Version)]] — Przegląd 10 serwerów MCP rozszerzających Claude Code o GitHub, bazy danych, Notion, Figma i Zapier.
+- [[2025-07-10 A copy-paste prompt for viral LinkedIn posts]] — Format "comment-to-get" omijający karę algorytmiczną LinkedIn + czterostopniowy process prompt do tworzenia viralowych postów.
+- [[2025-07-10 How to Write a Great Lapsed Donor Email]] — 4 elementy reaktywacji nieaktywnych darczyńców: imię + przypomnienie poprzedniego wsparcia + historia beneficjenta + konkretne CTA.
+- [[2025-07-10 Jaki jest najlepszy czas na wysyłkę mailingu?]] — Ecomail: optymalny timing emaili wg branż — dla NGO wieczory i weekendy; wtorek i środa rano dla B2B.
+- [[2025-07-10 Recommendations for reading week]] — ECF: 17 rekomendowanych książek i zasobów o komunikacji i kampanierstwie — Lakoff, Heath & Heath, Chenoweth, Centola.
+- [[2025-07-10 Zrobiłem analizę 150+ wysłanych newsletterów]] — Flowmail: analiza 150+ kampanii — skuteczny email to nie rabat, lecz wyraźny powód do działania (nowość, FOMO, USP, dowód społeczny).
+- [[2025-07-11 Does social media avatar activism change opinions This study says yes]] — Badanie: zmiana avataru marki na znak poparcia powoduje mniejszy backlash niż posty, ale wymaga autentycznych działań.
+- [[2025-07-11 Events roundup, new resources and an exciting Britain Talks Climate update!]] — Climate Outreach: 14 modeli zaangażowania obywatelskiego w klimat (od stadionów po rady miejskie) jako inspiracje dla NGO.
+- [[2025-07-11 How an Instagram Chatbot Helped Mamdani s Mayoral Campaign]] — Manychat na Instagramie kampanii Mamdaniego: 77 000 wiadomości, 3 000 emaili i 20 000 kliknięć za 318 dolarów.
+- [[2025-07-11 Human In The Loop Is Not Enough]] — Krytyka "human in the loop" jako fasady — participatory AI governance wymaga rzeczywistej sprawczości beneficjentów, nie tylko zatwierdzania decyzji.
+- [[2025-07-14 6 taktyk, które odblokowały +80 tys. w ecommerce (w 30 dni)]] — Flowmail: 6 taktyk email bez rabatów — popup, welcome series, porzucone koszyki, po-zakupowa i migracja istniejącej bazy.
+- [[2025-07-14 Kiedy najlepiej wysyłać kampanie e-mailowe]] — Ecomail: dla NGO wieczory i weekendy najskuteczniejsze; wtorek i czwartek dla wysyłek ogólnych — timing zależy od grupy docelowej.
+- [[2025-07-14 Poznaj AI Optimization – SEO nowej generacji]] — AIO/GEO/AEO: trzy strategie widoczności w erze AI search — być cytowanym przez ChatGPT ważniejsze niż pozycja w Google.
+- [[2025-07-14 Small but mighty—How donations turbo-charged Možemo s campaign in Zagreb]] — Možemo! (Chorwacja): rekordowa liczba małych darczyńców jako dowód oddolnej siły ruchu samorządowego w Zagrzebiu.
+- [[2025-07-15 AI Impact Insider - I didn't type this email]] — MacWhisper do lokalnej transkrypcji mowy + prompt "thought partner" — zmiana roli AI z asystenta na partnera myślowego.
+- [[2025-07-15 Announcing the first voices and new spaces for ideas]] — Partisan: pierwsi prelegenci Political Tech Summit 2026 Berlin i nowy blog ekosystemu political tech z perspektywą wartości demokratycznych.
+- [[2025-07-15 Helping campaigners take higher-level actions]] — ECF/FairSay: sesja "Engaging Activists" o przejściu wspierających do wyższych poziomów działania kampanijnego; notatki AI z nagrania.
+- [[2025-07-15 Job share policy]] — ECF: zasoby HR o job-sharingu dla NGO — Working Families darmowy toolkit i RadHR jako źródła polityki elastycznego zatrudnienia.
+- [[2025-07-15 What messages might Reform be vulnerable to]] — RCT na 6000 Brytyjczyków: framing korporacyjnych interesów za Reform UK obniża poparcie skuteczniej niż narracje o imigracji.
+- [[2025-07-16 BCC + Snooze - My new favorite email hack]] — Prosty hack stewardshipu: BCC siebie + snooze na datę follow-upu z darczyńcą bez dodatkowych narzędzi ani CRM.
+- [[2025-07-16 CMOs might be pushing ahead on AI, but lack of measurement s holding them back]] — Gartner: 60% projektów AI porzucone do 2027 r. — brak standardowych metryk ROI blokuje pełną adopcję AI w marketingu.
+- [[2025-07-16 Does Posting Win Elections]] — VoteHub: analiza 2 tygodni Twittera kongresmenów USA — brak istotnej korelacji między częstością postowania a wynikami wyborczymi.
+- [[2025-07-16 How to Get Through the Product Management Bottleneck]] — Andrew Ng: agentic coding przenosi bottleneck z kodowania na decydowanie — empatia do użytkownika jako nowe narzędzie PM.
+- [[2025-07-16 New strategies for the far right]] — ECF: framing korporacyjny jako kontr-narracja do Reform UK + model "post-organizacyjny" skrajnej prawicy z terrain targeting.
+- [[2025-07-16 Przewodnik - 4 kroki do skutecznej strategii fundraisingowej]] — Instytut Fundraisingu: 4 kroki do stabilnych przychodów z darowizn indywidualnych — model z 14 lat wdrożeń w polskich NGO.
+- [[2025-07-17 2025 AI Safety Index]] — Future of Life Institute: Anthropic najlepszy (C+) z 7 firm AI — przepaść między tempem do AGI a brakiem planów bezpieczeństwa w żadnej firmie.
+- [[2025-07-17 2025 UK & Ireland Digital Benchmarks Study Is Live!]] — M+R/Rally: benchmarki 39 NGO UK/Irlandia 2024 — regular giving +8%, email przychód na 1000 wysyłek -39%.
+- [[2025-07-17 A guide to your first Claude + Zapier automation]] — Bezkoderski pipeline: Claude API + Zapier + Google Sheets — trigger z arkusza → prompt AI → wynik z powrotem do arkusza.
+- [[2025-07-17 Digital solidarity - How can online tools help strengthen Europe's unions]] — ECDA: kampanie Mamdaniego i Možemo! jako wzorce + letni data review + zapowiedź kursu Digital Organizing 2025.
+- [[2025-07-17 Fundraising ethics guide]] — ECF: poszukiwanie etycznych standardów fundraisingu z perspektywą dekolonialną — temat bez gotowych zasobów w sektorze NGO.
+- [[2025-07-17 Karpathy AI to nowy system operacyjny - hAI Magazine]] — Karpathy: LLM jako nowy OS — trzy epoki software (1.0/2.0/3.0) i "suwak autonomii" jako praktyczny model wdrażania AI.
+- [[2025-07-17 Stripe accounts]] — ECF: Stripe to jedno konto = jeden bank; Wise i Open Collective jako rozwiązania dla fiskalnego hostingu wielu NGO.
+- [[2025-07-17 The AI-native nonprofit era is coming]] — Siadkowski (Tech To The Rescue): trzy typy kompetencji AI w NGO i pięć archetypów organizacji według stopnia transformacji AI.
+- [[2025-07-18 #104 Twoja marka vs. algorytmy. Nadchodzi era AI-powered search]] — Beeffective: AIO (AI Optimization) — walka o cytowanie przez ChatGPT i Gemini zastępuje walkę o pozycje w Google.
+- [[2025-07-18 Video + notes - Influencing politicians call]] — ECF/Platts/Bannister: targeted MP approach, fizyczne pocztówki (Postbug) i drop-in events skuteczniejsze niż masowe emaile do parlamentarzystów.
+- [[2025-07-18 Who else is using Cloudron]] — ECF/GFSC: Cloudron do self-hostowania open-source — model transformacji cyfrowej NGO niezależnej od Big Tech z tezą Geeks for Social Change.
+- [[2025-07-18 Why Democrats are (still) bad at the internet]] — Patrick Stevenson (Biden White House): przestarzała hierarchia mediów, własne konta vs. twórcy i brak listy kreatorów jako systemowe błędy cyfrowe.
+- [[2025-07-21 Mailing w lipcu - podsumowanie sezonowych trendow]] — Ecomail: lipiec jako czas porządków emailowych — mobile-first, mid-season sale, A/B testy i przygotowanie infrastruktury do Q4.

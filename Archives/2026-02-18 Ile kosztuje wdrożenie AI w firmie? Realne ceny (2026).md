@@ -1,10 +1,13 @@
 ---
-type: "Web"
-authors: "[[Tomasz Woliński]]"
-url: "https://stormit.pl/ile-kosztuje-wdrozenie-ai"
-published: 2026-02-18
-created: 2026-05-22
+type: Web
+authors: '[[Tomasz Woliński]]'
+url: 'https://stormit.pl/ile-kosztuje-wdrozenie-ai'
+published: 2026-02-18T00:00:00.000Z
+created: 2026-05-22T00:00:00.000Z
 tags:
+  - strategia-AI
+  - automatyzacja
+  - narzędzia-AI
 ---
 
 

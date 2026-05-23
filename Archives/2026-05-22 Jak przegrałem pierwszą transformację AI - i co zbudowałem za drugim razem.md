@@ -1,10 +1,14 @@
 ---
-type: "Web"
-authors: "[[Franciszek Bazyli Georgiew]]"
-url: "https://www.linkedin.com/pulse/jak-przegra%C5%82em-pierwsz%C4%85-transformacj%C4%99-ai-i-co-za-georgiew-%E9%AB%98%E5%82%85%E5%AE%89-ghqhf/"
-published: 2026-05-22
-created: 2026-05-22
+type: Web
+authors: '[[Franciszek Bazyli Georgiew]]'
+url: >-
+  https://www.linkedin.com/pulse/jak-przegra%C5%82em-pierwsz%C4%85-transformacj%C4%99-ai-i-co-za-georgiew-%E9%AB%98%E5%82%85%E5%AE%89-ghqhf/
+published: 2026-05-22T00:00:00.000Z
+created: 2026-05-22T00:00:00.000Z
 tags:
+  - strategia-AI
+  - automatyzacja
+  - szkolenia-AI
 ---
 
 

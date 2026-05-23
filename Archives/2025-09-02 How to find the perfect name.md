@@ -1,10 +1,13 @@
 ---
-type: "Web"
-authors: "[[David Placek]]"
-url: "https://www.lennysnewsletter.com/p/how-to-find-the-perfect-name?utm_source=substack&utm_medium=email&utm_campaign=email-restack-comment&r=4zdnrk&triedRedirect=true"
-published: 2025-09-02
-created: 2026-05-11
+type: Web
+authors: '[[David Placek]]'
+url: >-
+  https://www.lennysnewsletter.com/p/how-to-find-the-perfect-name?utm_source=substack&utm_medium=email&utm_campaign=email-restack-comment&r=4zdnrk&triedRedirect=true
+published: 2025-09-02T00:00:00.000Z
+created: 2026-05-11T00:00:00.000Z
 tags:
+  - content-marketing
+  - framing
 ---
 
 

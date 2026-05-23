@@ -1,10 +1,14 @@
 ---
-type: "Web"
-authors: "[[Partisan]]"
-url: "https://hub.partisan.community/m/news/leadership-in-crisis-mode-rebuilding-political-trust-through-tech/05053f3c-3870-4f45-92b4-7e670f8046d7"
-published: 2026-05-08
-created: 2026-05-19
+type: Web
+authors: '[[Partisan]]'
+url: >-
+  https://hub.partisan.community/m/news/leadership-in-crisis-mode-rebuilding-political-trust-through-tech/05053f3c-3870-4f45-92b4-7e670f8046d7
+published: 2026-05-08T00:00:00.000Z
+created: 2026-05-19T00:00:00.000Z
 tags:
+  - digital-campaigning
+  - organizacje-społeczne
+  - strategia-AI
 ---
 
 

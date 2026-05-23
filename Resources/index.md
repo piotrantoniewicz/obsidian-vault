@@ -1650,3 +1650,53 @@
 - [[2026-03-05 Do this ONE thing to maximize your email course RESULTS!]] — Jenna Kutcher: zasada "implement as you go" — kursy działają tylko przy natychmiastowym wdrażaniu każdej lekcji.
 - [[2026-03-05 How to protect your charity s forms from spam]] — More Onion: wielowarstwowa ochrona formularzy NGO przed spamem — ochrona sesyjna, honeypoty i wielowarstwowe bariery.
 - [[2026-03-05 I watched an AI war simulation, and here's what I learned]] — MacNeil: symulacja dyplomatyczna LLM w Europie 1901 — Claude wybrał pokój, Anthropic odmówił zastosowań wojskowych.
+- [[2026-03-05 Is panic turning off your donors]] — Dane League of Women Voters: ton nadziei + pilność bije alarmizm; email z podziękowaniem po kampanii przyspiesza powrót darczyńcy o 30%.
+- [[2026-03-05 Kiedyś byliśmy tylko witaminą]] — Maciąg: ewolucja agencji od witaminy przez lek do rozmów z zarządem — specyficzność problemu decyduje o stawkach.
+- [[2026-03-05 Nie mówię żegnaj, tylko do zobaczenia]] — ETH Zurich/Anthropic ESRC: łączenie kont z profilami LinkedIn za $1–4 kończy praktyczną anonimowość w internecie.
+- [[2026-03-05 Patronite dla organizacji społecznych Oczywiście! Przykłady dobrych praktyk]] — Sektor 3.0: 6 czynników sukcesu NGO na Patronite — transparentność wydatków i kierowanie ruchu z innych kanałów.
+- [[2026-03-05 Pięć modeli wartości AI napędzających transformację biznesu]] — OpenAI: sekwencyjne portfolio pięciu modeli wartości AI — od biegłości pracowników po reorganizację przez agenty.
+- [[2026-03-05 What Is Zero-Click Content and Why Nonprofits Should Pay Attention]] — Zero-click content: Facebook tłumi linki, Google AI Overviews redukuje CTR o 30% — pięć adaptacji dla NGO.
+- [[2026-03-05 Your FIRST Email List Assignment!]] — Dzień 1 mini-kursu: Email 101 i konfiguracja Flodesk jako pierwszego ESP dla NGO budującego listę od zera.
+- [[2026-03-06 5 lessons from ghostwriting for 300+ clients]] — Nicolas Cole PGA: ghostwriter to dźwignia dystrybucji idei klienta, nie ich autor — 5 lekcji z 300+ klientów.
+- [[2026-03-06 A prompt for incredible slide decks (fast)]] — Ryan Carr: 1876-słowowy wizard prompt do prezentacji .pptx przez wywiad AI analizujący URL i uploadowane assety.
+- [[2026-03-06 Children s Wisconsin Piloting a Successful Day of Giving Campaign]] — Children's Wisconsin: Day of Giving przekroczył cel o 37,5% ($55K) przez spersonalizowany storytelling i real-time countdown.
+- [[2026-03-06 Diving into Day TWO of your list building mini-course!]] — Dzień 2 mini-kursu: tworzenie lead magnet jako mechanizm wzrostu listy — 10K subskrybentów z dwóch konkretnych ofert.
+- [[2026-03-06 How Image-Heavy Emails Hurt Email Deliverability and Engagement]] — Email jako jedna grafika ląduje w spamie; balanced HTML (tekst jako tekst, grafiki wspierające) jako standard.
+- [[2026-03-06 How removing a form disclaimer from a content offer landing page impacts sign up rate]] — Usunięcie disclaimera z formularza: +10,1% konwersji przy 100% pewności statystycznej na 26K użytkowników.
+- [[2026-03-06 I used this framework to make major career decisions. It takes 5 minutes]] — Prompt AI oparty na oczekiwanej wartości i framework Bezosa "drzwi w jedną/dwie strony" do szybkich decyzji.
+- [[2026-03-06 My chief of staff, Claude Code]] — Jim Prosser: Claude Code zbudował system nocnych skanów emaili i 6 równoległych subagentów, oszczędzając 45 minut dziennie.
+- [[2026-03-07 Welcome to DAY THREE of launching your email list!]] — Dzień 3 mini-kursu: formularze zapisu i emaile dostarczające lead magnet; metryka $1/subskrybent/miesiąc.
+- [[2026-03-08 5 Steps To Becoming A Premium Ghostwriter]] — Nicolas Cole: 5-krokowy plan Premium Ghostwritera dla pracujących na etacie — niching, oferta premium, outreach i The 10x Choice.
+- [[2026-03-08 BONUS Ghostwriting As A Career (Crash Course)]] — PGA: 5 archetypów głosu klienta (Storyteller, Opinionater, Fact Presenter, Frameworker, F Bomb Dropper) i modele cenowe.
+- [[2026-03-08 Day FOUR of your email list mini-course is here!]] — Dzień 4 mini-kursu: aktywna dystrybucja opt-inu — "zostań własnym publicystą" i obsługa istniejących subskrybentów.
+- [[2026-03-08 Decision Journaling - Ship 30 for 30]] — Dickie Bush i Nicolas Cole: journaling jako narzędzie decyzyjne z typologią One-Way/Two-Way Door i AI jako partnerem myślowym.
+- [[2026-03-08 The best thing you can do]] — ECDA: trzy zasady skutecznego fundraisingu progresywnych organizacji — własna baza danych ważniejsza niż Instagram.
+- [[2026-03-08 The LinkedIn Post Creator Prompt]] — Nicolas Cole: architektura Hook-Point-Action z gotowym promptem AI do generowania 3 typów postów LinkedIn.
+- [[2026-03-08 The perfect tech stack]] — Rachel Bearbower: idealny tech stack NGO zależy od celów, nie listy narzędzi — najpierw "kto?", potem "jak?".
+- [[2026-03-09 🎙️ This week on How I AI Mastering Midjourney How to create consistent, beautiful brand imagery without complex prompts]] — Jamey Gannon: SREF i kody personalizacji Midjourney dają spójną identyfikację wizualną bez złożonych promptów tekstowych.
+- [[2026-03-09 (Day 1) Don't be a Freelance Writer. Be a Premium Ghostwriter!]] — Nicolas Cole: etykieta "Premium Ghostwriter" zamiast "Freelance Writer" — od $25 do $5 000 za artykuł przez pozycjonowanie.
+- [[2026-03-09 99% z nas pisze treści, które właśnie zastąpił prosty skrypt]] — Bisocjacja Koestlera: zderzenie dwóch niepowiązanych ramek tworzy unikalne treści odporne na automatyzację przez AI.
+- [[2026-03-09 Gmail Changed the Game What Google s AI-Powered Inbox Means for Email Marketers]] — Gemini w Gmailu zmienia inbox w interfejs AI; emaile muszą być zoptymalizowane pod LLM, nie tylko open rate.
+- [[2026-03-09 Jak zamienić fundraising z chaosu w przewidywalny system-]] — Martyna Mazela: cztery filary systemu fundraisingowego — baza, komunikacja, plan 12 miesięcy i ścieżka darczyńcy.
+- [[2026-03-09 THE FINAL DAY of your list building mini-course!!]] — Dzień 5 mini-kursu: wysyłka pierwszego emaila; lista emailowa jako długoterminowy aktyw versus ulotny zasięg social media.
+- [[2026-03-09 To Em Dash or Not to Em Dash — A Fundraiser's Defense]] — Sanky: myślnik (em dash) jako narzędzie dramaturgiczne budujące pauzę decyzyjną w fundraisingowym copywritingu.
+- [[2026-03-09 Why Underpricing Leads to Burnout in Independent Nonprofit Work]] — Jeff Tripp: wypalenie niezależnych konsultantów NGO wynika z rozbieżności między rolą wycenioną a faktycznie pełnioną.
+- [[2026-03-10 (Day 2) Premium Positioning as a Ghostwriter]] — Formuła 1-1-1 (1 problem, 1 osoba, 1 sposób) i wzór cenowy (Wiedza/Podaż) jako framework premium pozycjonowania ghostwritera.
+- [[2026-03-10 A guide to advanced B2B positioning]] — April Dunford: cztery pułapki pozycjonowania B2B — rozbieżne poglądy na konkurencję i pesymizm produktowy ślepy na mocne strony.
+- [[2026-03-10 AI for fundraising - guide]] — ECF: zasoby AI dla fundraisingu (CAST, Brightworks AI) i ryzyko "AI poverty porn" — metafora AI jako transport Karen Hao.
+- [[2026-03-10 AI Weekly #31]] — Anthropic negocjuje z Pentagonem, tylko 7% polskich firm AI-native, AI Act wejdzie w życie w sierpniu 2026.
+- [[2026-03-10 Course COMPLETE! Take your next step now!]] — Funnel edukacyjny (darmowy mini-kurs → masterclass → płatny kurs) jako model konwersji dla programów szkoleniowych NGO.
+- [[2026-03-10 Friction by Design - Rethinking the AI Revolution for Movements and Democracy]] — Tectonica/Howey: zasada "Elevation > Automation" — AI mnoży wartość pracy ludzkiej, więc cięcie zespołu po wdrożeniu to błąd.
+- [[2026-03-10 How to Get Donors to Say I Do (Want to Give Monthly)]] — 6 zasad Cialdiniego jako framework rekrutacji darczyńców cyklicznych; darowizna miesięczna to 31% online giving i rośnie.
+- [[2026-03-10 Klasyk AI, który kocham i nienawidzę]] — Dwa Słowa: formulaiczne schematy ChatGPT ("nie chodzi o X, chodzi o Y") jako rozpoznawalny ślad AI niszczący autentyczność.
+- [[2026-03-10 Seven practical ways to use AI and automation in your digital fundraising program]] — Jordan Harp: 7 obszarów AI w fundraisingu — pisanie emaili, rapid response, testy A/B i automatyzacja ścieżek darczyńcy.
+- [[2026-03-10 We Analyzed 89K LinkedIn URLs Cited in AI Search - What Drives Visibility]] — Semrush: LinkedIn w 11% odpowiedzi AI — oryginalne treści regularnych autorów (5+ postów/tydzień) wyprzedzają virale.
+- [[2026-03-10 Wielkanoc Jak Twoje NGO Może Zaangażować Firmy i Społeczność]] — Pomagam.pl: hybrydowa kampania wielkanocna NGO+biznes+wolontariusze z zasadą "kawałków mazurka" i zbiórkę firmową.
+- [[2026-03-10 Your email accessibility checklist]] — Email Markup Consortium: tylko 21 z 443K emaili przeszło testy dostępności; checklist alt text, kontrast i opisowe linki.
+- [[2026-03-10 Zarządzanie wiedzą w NGO Jak zamienić rozmowy na czacie w systematyczny rozwój zespołu]] — Sektor 3.0: trzy warunki zarządzania wiedzą z czatu — umowa zespołu, jedno miejsce bazy wiedzy i nawyki wyławiania.
+- [[2026-03-11 (Day 3) Crafting your Premium Offer as a ghostwriter]] — PGA dzień 3: Irresistible Offer (1+1+1) podnosi opt-in 5-dniowego kursu emailowego do 50% vs 20% dla newslettera.
+- [[2026-03-11 5 Simple Steps To Build a Powerful Digital Donor Journey Map (And Keep Donors Coming Back)]] — CauseVox: 5-etapowy digital donor journey (Discover → Engage → Give → Retain → Advocate) z rolą AI search.
+- [[2026-03-11 AI is Coming for Your Nonprofit LinkedIn]] — Davenport: AI wyrównuje pole gry małych i dużych NGO — stoicka rama decyzyjna: chroń to, co nieusuwalnie ludzkie.
+- [[2026-03-11 Crafting your Premium Offer as a ghostwriter]] — Nicolas Cole: Irresistible Offer (3×1) i 5-dniowy kurs emailowy jako powtarzalna, skalowalna oferta ghostwriterska.
+- [[2026-03-11 Meta podnosi ceny w Europie]] — Meta przerzuca DST na reklamodawców od lipca 2026: +2–5% do kampanii w Austrii, Francji, Hiszpanii, UK i Turcji.
+- [[2026-03-11 Struktura Avaaz]] — Analiza 42 maili Avaaz: technika "Re:" jako follow-up, skrajnie krótkie tematy i regionalny koordynator jako nadawca.

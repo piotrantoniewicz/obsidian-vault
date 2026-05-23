@@ -1200,3 +1200,453 @@
 - [[2025-12-09 Your old backlink strategy is dead (AI changed the rules)]] — Indig: nofollow równorzędne z dofollow w AI-search; citeable content (infografiki, badania) zastępuje ilościowy link building.
 - [[2025-12-10 Automatyzacja w NGO jak oddać żabę technologii i odzyskać czas na misję]] — ngo.pl: automatyzacja "żab" przez Word, Gemini Gems, Make.com i Airtable — konkretne scenariusze dla NGO bez programowania.
 - [[2025-12-10 In 2026, Advocacy and Organizing Will Get Smart About Social Media Platforms]] — New-Mode: Social Advocacy na Bluesky i Instagram; fragmentacja platform wymusza multi-channel advocacy i budowanie list emailowych.
+- [[2025-12-10 Mniej chaosu, więcej kontroli. Meta odpala nowy porządek]] — Meta: AI-guided hub do odzyskiwania kont, partnerstwa z wydawcami i nowa metryka Reels Skip Rate w API Instagrama.
+- [[2025-12-10 Podział na B2B i B2C to za mało]] — High consideration vs. low consideration jako trafniejszy podział niż B2B/B2C; fundraising NGO to zawsze high consideration wymagające budowania zaufania.
+- [[2025-12-11 Affinity Studio – popularny program graficzny od teraz za darmo. Na zawsze i dla każdego!]] — Affinity Designer, Photo i Publisher bezpłatnie dla wszystkich — profesjonalna alternatywa dla Adobe dla NGO bez budżetu.
+- [[2025-12-11 Breaking Down Giving Tuesday - M+R]] — M+R: 65% NGO ze wzrostem w GT 2025; SMS ROI powyżej 300%, influencerzy i AI search zmieniają krajobraz online fundraisingu.
+- [[2025-12-11 Gadające lodówki, klej do internetu i inne takie takie]] — Full Fact: deepfake'i podmienione wizerunki ekspertów na TikToku i bezpieczeństwo Chrome agentic browsing przez izolowany Gemini.
+- [[2025-12-11 Moving more than just needles]] — ECDA: wygrany strajk metalowców w Barcelonie jako model łączenia strajku z cyfrową kampanią; nowe kursy TikTok Intensive i Digital Organizing 2026.
+- [[2025-12-11 Nano Banana Pro prompts for better looking newsletters]] — Dwa prompty Gemini Nano Banana Pro (thumbnail + grafika sekcji) do spójnych wizualnie newsletterów z referencjami brandowymi.
+- [[2025-12-11 Only 36% ask one-time donors to go monthly]] — NextAfter: tylko 36% NGO prosi jednorazowych o cykliczność; upgrade daje 36% wyższe LTV i 83% retencję vs. 44% dla jednorazowych.
+- [[2025-12-11 Petition vs. Open Letter - Any insights on signer behaviour]] — Campax/ECF: petycje zawsze biją listy otwarte skalą; hybryda z autentycznym autorstwem przez osoby z doświadczeniem wzmacnia siłę przekonywania.
+- [[2025-12-11 Power, Not Panic Why Organizers Must Engage with AI to Build the Future We Deserve]] — re:power: AI jako teren walki o władzę — ruchy progresywne muszą angażować AI jak politykę, nie uciekać od niej.
+- [[2025-12-11 Shining examples + parting tips]] — Caroline Griffin: autentyczne wideo NGO z influencerami konsekwentnie wygrywa z profesjonalnymi materiałami; case studies kampanii year-end.
+- [[2025-12-12 🎁 prezentownik (nie)tylko dla Geeków 2025]] — Polska liderem adopcji AI w UE; 71% czasu pracy w polskich finansach przejdzie transformację przez Generative AI wg Accenture.
+- [[2025-12-12 AI nie działa - A może po prostu nie wie co masz na myśli]] — 5 zasad promptowania (cel, kontekst, format, ograniczenia, dialog sokratejski) i porównanie Claude vs. ChatGPT vs. Perplexity.
+- [[2025-12-12 Google's Head of Search broke her silence]] — Liz Reid: AI Overviews nie zmniejszają ruchu reklamowego; treści z unikalną ekspercką perspektywą przeżyją shift ku AI search.
+- [[2025-12-12 This Shor Smells Bad]] — Sifry: David Shor systematycznie się myli traktując sondaże jako niezmienną prawdę; grassroots organizing i framing potrafią przesuwać sondaże.
+- [[2025-12-15 4 systemy, które dają największy zwrot z email marketingu]] — Flowmail: cztery filary email marketingu (kampanie, lista, automatyzacja, dostarczalność) jako zintegrowany system dla NGO.
+- [[2025-12-15 9 Trends Driving Digital Strategy in 2026]] — 9 trendów 2026: fragmentacja, owned audiences, kreatorzy jako kanał i głęboki content zamiast szerokiego zasięgu.
+- [[2025-12-15 Bring Healthcare Foundation Fundraising into the Digital Age]] — Scripps Health Foundation: 3x online revenue i 699% ROI przez platformę Honor Your Caregiver i segmentację danych.
+- [[2025-12-15 Copy this one prompt and Claude will build your next Skill]] — Claude Skills z SKILL.md: jeden prompt konwertuje wątek rozmowy w automatyzację skracającą tygodniową pracę do 3 godzin.
+- [[2025-12-15 Digitize all End-of-Year Fundraising]] — Geisinger Health Foundation: 3x online revenue od zera przez edukację liderów, infrastrukturę webową i real-time optymalizację emaila.
+- [[2025-12-15 How to build your first Claude Skill]] — Allie K Miller: SKILL.md w plain text bez kodu — jak budować Claude Skills automatyzujące powtarzalne zadania dla NGO.
+- [[2025-12-15 How to Set Realistic Yet Motivating Fundraising Goals for 2026]] — CauseVox: 7-krokowy proces celów fundraisingowych z danymi historycznymi, SMART i podziałem na baseline i stretch goal.
+- [[2025-12-15 How we grew a service business by 46% in 12 months]] — SEO case study: jakość linków DR50+, pytania Google PAA i naprawa Schema markup dały 46,73% wzrost ruchu organicznego.
+- [[2025-12-15 RFM - analiza która pozwala lepiej poznać Twoich klientów]] — Model RFM (Recency-Frequency-Monetary) jako fundament segmentacji darczyńców i precyzyjnej personalizacji komunikacji NGO.
+- [[2025-12-16 6 systemów, 1 organizm]] — Burnejko: autonomiczna firma 2026 jako 6 systemów AI (Jądro, Mózg, Głos, Serce, Ręce, Odporność) działających bez właściciela na co dzień.
+- [[2025-12-16 How entrepreneurs will thrive in 2026 [The Future Thread]]] — Disney IP otwarta dla Sory i paradoks AI: głębsza integracja zwiększy wartość ludzkich kompetencji emocjonalnych i relacyjnych.
+- [[2025-12-16 Moja wczorajsza reakcja na ODMOWĘ innego eksperta]] — Technika reframingu odmowy: pytanie "co jest dobrego w tej sytuacji?" jako narzędzie zmiany perspektywy po niepowodzeniu.
+- [[2025-12-16 Steal UNICEF's strategy for scaling email templates]] — UNICEF z Beefree: centralna biblioteka brandingowa i no-code builder skróciły tygodniową produkcję emaili do jednego dnia.
+- [[2025-12-16 The Future Of AI Leverage]] — Cole: era ręcznego promptowania osiąga sufit; prawdziwa dźwignia to orkiestracja sieci równoległych agentów AI zastępująca liniowe promptowanie.
+- [[2025-12-16 What's Good in Tech- Yesterday's Tools Won't Solve Today's Crises]] — Fast Forward: Lemontree pomógł 21 000 rodzinom znaleźć żywność w jeden dzień; NGO współtworzące tech osiągają wykładniczy impact.
+- [[2025-12-17 AI nie czyta w myślach. Dlaczego najpierw musisz wiedzieć, czego chcesz]] — Karina Janus: AI bez jasnego celu użytkownika odpowiada generycznie; precyzja oczekiwań ważniejsza niż jakość modelu.
+- [[2025-12-17 AI Weekly #24]] — Agentic AI Foundation unifikuje protokoły MCP; GEO jako nowa dyscyplina widoczności; Neptune AI przejęte przez OpenAI; Bielik w Polsce.
+- [[2025-12-17 ChatGPT usage and adoption patterns at work]] — OpenAI: ChatGPT wzrósł od 8% do 43% pracowników wiedzy w 3 lata dzięki oddolnej adopcji bez decyzji IT.
+- [[2025-12-17 Do Something Anything. The 'Ho, Ho, Ho, it's M-A-M-D-A-N-I' edition]] — Rally: kampania Mamdaniego jako wzorzec — chatbot na Instagramie zamienił 45 000 kliknięć w armię wolontariuszy.
+- [[2025-12-17 EOY Campaign underperforming- Do this]] — Jess Campbell: 6 działań ratunkowych dla słabych kampanii EOY; okno 29-31 grudnia to szczytowy moment fundraisingowy.
+- [[2025-12-17 Jak odzyskać klientów, którzy przestali kupować w e-commerce]] — Flowmail: sekwencja win-back 3 mailami z niespodziewaną ofertą dla lapsed donors po 90-180 dniach nieaktywności.
+- [[2025-12-17 Marketingowe WRAPPED 2025 by Team Beeffective]] — Beeffective: autentyczność wygrała z perfekcją w 2025; rola marketera krystalizuje się w strategię i odpowiedzialność komunikacyjną.
+- [[2025-12-17 Mediation Recommendations]] — ECF: Navigate (mediacja transformatywna) jako rekomendowane narzędzie dla NGO borykających się z poważnymi konfliktami wewnętrznymi.
+- [[2025-12-17 Oni przejmują stery. Jesteś na to gotowy?]] — Instagram otwiera algorytm Reelsów — twórcy zyskują bezpośrednią kontrolę nad sygnałami kształtującymi zasięg organiczny.
+- [[2025-12-17 Unwrap Your December Newsletter - Grants, Blogs, and More]] — Social Change Nest: Urban Movement Innovation Fund przekazał $2 mln do 400+ organizacji klimatycznych; granty dla youth organising UK.
+- [[2025-12-18 #124 Mini-przewodnik jak zaplanować skuteczny marketing na 2026]] — Beeffective: 3-krokowe planowanie marketingu 2026 — audyt kanałów, mierzalne cele i weryfikacja narzędzi przed nowym sezonem.
+- [[2025-12-18 Climate Reality Check – bezpłatny raport o regulacjach klimatycznych w Europie i na świecie]] — Climate&Strategy: "deregulacja" CSRD to mit — presja klimatyczna trwa przez kontrahentów, inwestorów i globalne łańcuchy dostaw.
+- [[2025-12-18 The Impact of EU Regulation on Political Campaigns]] — TTPA zniszczyło 6+ lat danych z biblioteki reklam Meta; zakaz faworyzuje bad actors i ekstremistyczny content organiczny.
+- [[2025-12-18 TON - Propaganda and AI Slop Overwhelm]] — AI slop propagandowy zalewa ekosystem informacyjny; toolkit Amnesty do rozliczalności algorytmicznej; Ganz vs. Shor o organizowaniu.
+- [[2025-12-19 Former Moz head of SEO reveals truth about AI SEO]] — Cyrus Shepard: 70-80% pracy SEO to już AI optimization; treści generyczne giną, unikalne dane i ekspertyza przeżywają.
+- [[2025-12-19 Make, n8n czy Zapier - Jak wybrać żeby sobie nie utrudnić]] — Make.com dla startu NGO, n8n dla RODO i wrażliwych danych, Zapier szybko drożeje przy skalowaniu.
+- [[2025-12-19 Młody Polak, własna firma i realny produkt w USA]] — 19-latek z agentami AI do analizy kontraktów dla sektora obronnego USA; klucz: jeden konkretny problem i kontakt z klientem.
+- [[2025-12-19 Stand out actions from 2025]] — More Onion: St Mungo's Flow, Gingerbread voice notes do posłów i wieloletnia kampania Shelter zakończona zmianą prawa dla 11 mln najemców.
+- [[2025-12-20 Prawne pułapki chatbotów AI Jak uniknąć kosztownych błędów w biznesie]] — Halucynacje LLM to immanentna cecha, nie błąd do naprawienia; wdrażający chatboty odpowiadają prawnie za działania AI.
+- [[2025-12-20 The Shape of AI Jaggedness, Bottlenecks and Salients]] — Mollick: "Jagged Frontier" AI, bottlenecki blokujące pełną automatyzację i reverse salients jako mapa przyszłych przełomów technologicznych.
+- [[2025-12-23 Podsumowanie 2025. AI w cyfrowym środowisku pracy]] — Workai: 2025 rok AI w pracy — od eksperymentu do codziennego wsparcia; prognoza 2026 to konsolidacja narzędzi zamiast nowych wdrożeń.
+- [[2025-12-23 Social Media wchodzą na salony]] — Meta przenosi Reelsy na telewizory — algorytmiczny strumień wideo kolonizuje "kanapowy czas" odbiorców kosztem zasięgu organicznego NGO.
+- [[2025-12-26 GPTs - Twój personalny asystent AI]] — Custom GPTs bez programowania: jak zbudować asystenta AI z własną bazą wiedzy i instrukcjami systemowymi dla NGO.
+- [[2025-12-28 Bernie Sanders criticizes AI as the most consequential technology in humanity]] — Sanders: AI to najważniejsza technologia historii; postulat moratorium na data centra i ochrony rynku pracy przed bezrobociem.
+- [[2025-12-28 I deliberately understaff every project Leadership lessons from Rippling s $16B journey]] — CPO Rippling: celowe niedostaffowanie, high alpha/low beta i walka z entropią organizacyjną przy skali 16 mld USD.
+- [[2025-12-29 Black Hats just pulled off something wild]] — Black Hat SEO powraca przez manipulację modelami AI; Google wypiera tradycyjne wyniki wyszukiwania na rzecz AI responses.
+- [[2025-12-29 My 2026 AI predictions (and the three things you NEED to focus on)]] — Allie Miller: trzy priorytety AI na 2026 — kontekst/pamięć, autonomia agentów i mierzenie wartości ekonomicznej zamiast liczby licencji.
+- [[2025-12-29 This week on How I AI How Webflow s CPO built an AI chief of staff]] — CPO Webflow zbudowała AI chief of staff zarządzający kalendarzem, emailem i adopcją AI przez Builder Days.
+- [[2025-12-29 Życzenia Świąteczne i Noworoczne - jak napisać je dobrze]] — Trzy formaty maili świątecznych dla NGO; 70–80% otwarć grudniowych na mobile; transparentność zamiast szablonów.
+- [[2025-12-30 AI Weekly #25]] — AI to gra o energię, dane i standardy; ekonomika AI różna od SaaS; przepaść regulacyjna UE–USA rośnie; lokalne modele jak Bielik ważniejsze dla NGO z RODO.
+- [[2025-12-30 The data you need to pull in January]] — Civic Shout: które dane rok-end pobrać i jak je analizować zanim stracą kontekst — sektorowe trendy Fundraising Effectiveness Project 2025.
+- [[2025-12-31 Dlaczego komfort Cię zabija (jak pójść na swoje i zacząć zarabiać)]] — Stres taktyczny i recykling umiejętności jako droga od etatu do niezależności zawodowej bez nagłego skoku.
+- [[2025-12-31 Jak budować lojalność z etykietą szkodliwości?]] — Nowy Jork uznał feedy social mediów za produkt wysokiego ryzyka; szansa dla NGO budujących bezpośrednie relacje poza algorytmem.
+- [[2026-01-01 Designing Email Journeys Using TFDS]] — Framework TFDS (Think-Feel-Do-Say) do projektowania email journeys zorientowanych na stan wewnętrzny odbiorcy zamiast lejka.
+- [[2026-01-01 Hej, wstawaj! 2026 właśnie się wyrenderował]] — AI automatyzacja wspina się po drabinie od fabryk po kreatorów; Schneier o braku transparentności AI w administracji publicznej.
+- [[2026-01-01 Jedyny wzór, który musisz znać, by zarabiać]] — Równanie Wartości Hormozi'ego jako fundament oferty: (wyniki × wiarygodność) / (czas + wysiłek) zamiast features.
+- [[2026-01-01 My 3 most-used AI workflows of 2025]] — Trzy tygodniowe workflow AI: newsletter z Claude, reklamy Meta przez Nano Banana Pro i LinkedIn "comment-to-get" do wzrostu organicznego.
+- [[2026-01-01 The Psychology of Email Design How Humans Actually Behave in the Inbox]] — Inbox to środowisko zadaniowe: hierarchia informacyjna, bridging i redukcja cognitive load ważniejsze niż estetyka emaila.
+- [[2026-01-01 Wakacje All Excuse me w Sharmie]] — Zaufanie i reputacja jako waluta równoległa; model "syndykatu" zaufanej małej społeczności kontra masowa platforma w fundraisingu.
+- [[2026-01-02 🤖 moja spowiedź z 2025....]] — Szewczyk: "zautomatyzuj chaos, a dostaniesz zautomatyzowany chaos" — audyt procesów przed AI, n8n Helper z Claude Code bez kodu.
+- [[2026-01-02 10 Website Marketing Best Practices for Nonprofits]] — Heather Mansfield: 10 zasad strony NGO — GEO pod AI search, mobile-first i ruch z email zamiast ikon social mediów.
+- [[2026-01-02 Największy tyran nie ma biura. Mieszka w Twojej głowie.]] — Model 3% aktywnych vs 97% pasywnych darczyńców; One-Liner Problem→Rozwiązanie→Wynik i Lead Magnet jako pomost.
+- [[2026-01-02 Pierwsza automatyzacja w Make]] — 30 minut i pierwsza automatyzacja w Make.com działa: efekt kuli śnieżnej adopcji przez prosty case powiadamiania o ważnych mailach.
+- [[2026-01-03 10 Email Marketing Best Practices for Nonprofits]] — Mansfield: mobile-first, czyszczenie listy, SPF/DKIM/DMARC, CTR jako priorytet zamiast open rate; 33% darczyńców przez email.
+- [[2026-01-03 3 błędy firm, które wdrażają AI]] — Trzy pułapki wdrożeń AI w NGO: automatyzowanie wszystkiego naraz, mit drogich custom rozwiązań i iluzja braku wystarczających danych.
+- [[2026-01-03 Najlepsza lekcja z całego kursu to ta]] — Efekt effortlessness, reguła 9:1:1 i psychologia haków jako architektura contentu z jednego epickiego tekstu tygodniowo.
+- [[2026-01-04 10 Blogging Best Practices for Nonprofits]] — Mansfield: blog NGO jako fundament GEO w 2026 — 10 zasad łączących SEO, email, social i widoczność w AI search.
+- [[2026-01-04 Jak dobierać kolory, żeby było fajnie]] — Zasada 60-30-10 w brandingu wizualnym; archetyp marki przez asystenta AI; coolors.co jako punkt startowy do palety.
+- [[2026-01-04 When they go low, we go viral]] — Mamdani wygrał wybory burmistrza NYC od 1% przez digital-first kampanię z 750 000 USD od 8500 darczyńców spoza miasta.
+- [[2026-01-05 Czasami jest mi źle, czasami dobrze. Jak każdemu]] — Manifest: wady i obsesje twórcy to jedyna unikalna przewaga w erze AI-generated perfekcji w brandingu osobistym.
+- [[2026-01-05 Pamiętasz pierwszy opis na GaduGadu]] — Wyrównanie do lewej i prosta hierarchia typograficzna podniosły CTR o 40% w teście A/B ofert B2B — prostota jako luksus.
+- [[2026-01-05 Reading Your First DMARC Reports]] — Jak czytać raporty DMARC: legit emaile failujące auth, nieznane IP i egzekwowanie polityki dla lepszej dostarczalności kampanii NGO.
+- [[2026-01-05 The creator of Claude Code just revealed his workflow, and developers are losing their minds]] — Boris Cherny (Anthropic): 5 równoległych agentów Claude Code, CLAUDE.md jako żywa baza wiedzy i slash commands do git.
+- [[2026-01-05 This week on How I AI Zapier s CEO shares his personal AI stack]] — Wade Foster: AI przez przykład nie "memo"; hackathony jako safe spaces; agent rekrutacyjny i Grok do discovery talentów na X.
+- [[2026-01-05 Zapier s CEO shares his personal AI stack Wade Foster]] — Foster (Zapier): ekstrakcja kultury firmy przez Granola, agent rekrutacyjny oceniający kandydatów i Grok poza LinkedIn.
+- [[2026-01-06 Basta! – a French investigative media outlet that relies solely on donations]] — Basta!: 400k€ wyłącznie z darowizn bez reklam ani grantów, 10–15% wzrostu rocznie przez dekadę.
+- [[2026-01-06 Did it Work- Assessing Your Year-End Campaign Performance]] — 5-krokowy schemat analizy post-kampanijnej: cele SMART, porównanie r/r, top-content, timing i benchmarki sektorowe Q1.
+- [[2026-01-06 How the Cornell Lab of Ornithology turned $400K into $4M]] — Cornell Lab: 10x wzrost fundraisingu przez program cykliczny Discovery Partners, A/B testy emaili i segmentację bazy 2,1M.
+- [[2026-01-06 Rok 2026 w AI. Brutalna prawda]] — Burnejko: Claude Code jako interfejs do plików firmy; 6 trendów — autonomiczne firmy, soloprzedsiębiorca+AI bije korporacje, juniorzy wypadają.
+- [[2026-01-06 Starting 2026 off with a bang]] — 8-krokowy system budowania listy i lejka donatorów z ROI 258%; donor journey automatyzuje konwersję od pierwszego dnia zapisu.
+- [[2026-01-07 How to Raise $1,000 Without Spamming Your Base]] — Haley Bash (Donor Organizer Hub): fundraising oparty na relacjach przez drużyny i bezpośrednie prośby zamiast masowych apeli.
+- [[2026-01-07 Koniec ładnego internetu. Nadchodzi dyktatura autentyczności]] — Mosseri (Instagram): AI-generated perfekcja staniała; autentyczny chaos i ludzka niedoskonałość to nowa premia dla NGO.
+- [[2026-01-07 Sam Altman. Twarz rewolucji AI i pytanie, którego nikt nie chce zadawać głośno]] — OpenAI: ewolucja z non-profit do komercji, odejście badaczy bezpieczeństwa i strukturalny konflikt misji z kosztami miliardów.
+- [[2026-01-08 Global AI Adoption in 2025]] — Microsoft: 16,3% globalnej populacji używa GenAI; ZEA i Singapur na czele; DeepSeek dominuje rynki bez dostępu do zachodnich platform.
+- [[2026-01-08 Gmail is entering the Gemini era]] — Google integruje Gemini z Gmail: AI Overviews, Help Me Write i AI Inbox — email filtrowany przez AI zanim dotrze do czytelnika.
+- [[2026-01-08 Google Just Stuffed a Bunch of New AI Into Your Gmail]] — Nowe funkcje Gemini w Gmail: streszczenia wątków, AI Inbox jako spersonalizowany briefing i Smart Replies dla płatnych subskrybentów.
+- [[2026-01-08 Jak zapewnić trwałość projektu technologicznego po grancie]] — Kacprowicz (Sektor 3.0): NGO ignorują koszty utrzymania po grancie — lista stałych kosztów i modele finansowania trwałości.
+- [[2026-01-08 My AI tool stack for 2026]] — Stos AI Ryana Carra: Flora (workflow), Midjourney, Claude Projects, Nano Banana Pro i Wispr Flow jako zintegrowane środowisko twórcze.
+- [[2026-01-08 Nowy Rok, Nowy Ja]] — Kalifornijska ustawa DROP: jedno żądanie kasuje dane u 500+ brokerów automatycznie; Grok i odpowiedzialność producenta za zachowanie AI.
+- [[2026-01-08 The Nigerian Prince Problem]] — Manipulacyjne taktyki fundraisingowe (fałszywa urgency, zmyślone deadliny) erodują zaufanie darczyńców i podnoszą churn długoterminowo.
+- [[2026-01-08 What the smartest email teams are acting on in 2026]] — Sara Cederberg: 6 priorytetów email NGO w 2026 — dostarczalność, retencja 26,3% i koniec modelu broadcast na rzecz wielokanałowości.
+- [[2026-01-08 You don't understand AI automations (and I know why)]] — "Tutorial Hell" blokuje automatyzację; format Live Build-Along eliminuje prokrastynację i daje gotową automatyzację w jedną godzinę.
+- [[2026-01-09 🤖 zatrudniłem pracownika za 100$ - mc]] — Robert Szewczyk: Claude Code Max jako pracownik wykonawczy; 95% firm bez ROI z AI (MIT) — najpierw procesy, potem narzędzia.
+- [[2026-01-09 AI Weekly #26]] — Roczne podsumowanie AI 2025: Google dogoniło OpenAI, MCP i A2A jako standardy agentowe, era rozliczeń ROI zamiast hype'u.
+- [[2026-01-09 ChatGPT's citation algorithm (reverse-engineered)]] — SE Ranking: "answer capsules" i autorytet domeny (32K+ linków) jako klucze do cytowania przez ChatGPT; aktualizacja treści poprawia pozycje o 95 miejsc.
+- [[2026-01-09 Czemu idioci mają więcej klientów]] — Autorytet relacyjny (przewodnik "obok") zastępuje hierarchiczny; amatorzy budują "my" przez storytelling procesu, nie szczytu kompetencji.
+- [[2026-01-09 Embracing AI in Europe New evidence from harmonised central bank business surveys]] — EBC: tylko 4% europejskich firm używa GenAI intensywnie; wczesna eksperymentacja najsilniejszym predyktorem pełnej adopcji.
+- [[2026-01-09 Jak wygląda dojrzała praca z AI. Przykład setupu Borisa Cherny'ego]] — Workflow twórcy Claude Code: CLAUDE.md jako pamięć projektu, planowanie przed generowaniem, kilka równoległych instancji AI.
+- [[2026-01-09 Keith Edwards What I Learned Building a Progressive YouTube Channel in 2025]] — Konsekwentność (film dziennie) i odejście od outrage-driven contentu dały Keithowi milion subskrybentów w 15 miesięcy.
+- [[2026-01-09 Skróty klawiszowe z ChatGPT - jedno kliknięcie zero przełączania okien]] — AutoHotKey (Windows) i Shortcuts (Mac) wywołujące ChatGPT bez przełączania okien — wzorzec "AI wbudowanego w workflow".
+- [[2026-01-10 3 ways to find ghostwriting clients]] — Dickie i Cole: sieci "Leaks i Faucets", upsell od pracodawców i lokalne firmy stacjonarne jako trzy kanały klientów ghostwriting.
+- [[2026-01-10 Jeden standard, który zmieni wszystko (i 1,5 etatu oszczędności)]] — MCP pod Linux Foundation: 2 dni warsztatów mapowania procesów = 1,5 etatu oszczędności rocznie; n8n 2.0 z Save/Publish.
+- [[2026-01-10 The only n8n mental model you need]] — Trigger → akcje → dane jako jedyny model myślowy potrzebny do budowania workflow n8n bez wiedzy technicznej.
+- [[2026-01-11 Piotr, czy masz plan fundraisingowy na 2026?]] — Instytut Fundraisingu: trzy pytania planistyczne (z czego rezygnuję / co kontynuuję / co zaczynam) jako szkielet strategii roku.
+- [[2026-01-11 Zamień pasję na pieniądze - piękne, ale niemożliwe]] — Mateusz Ufel: pasja jako filtr percepcji marki, nie produkt — marka osobista to archeologia odkrywania, nie architektura do zbudowania.
+- [[2026-01-12 Designing Emails For Humans And AI In Gmail s New Era]] — Gemini w Gmail jako filtr między nadawcą a odbiorcą; techniki projektowania emaili pod AI-ekstrakcję i koniec modelu "im więcej, tym lepiej".
+- [[2026-01-12 Exactly What To Automate With AI In 2026 For Faster Business Growth]] — Jodie Cook: 5 obszarów automatyzacji AI eliminujących "podatek na wzrost" — AI bierze boilerplate, człowiek skupia się na strategii.
+- [[2026-01-12 I need you to learn Claude Code immediately - here's how]] — Allie Miller: Claude Code jako "Everything App" dla nietech; TutorAgent+BuilderAgent i "Build Day" jako model onboardingu NGO.
+- [[2026-01-12 Policy communications trends in 2026]] — Tom Moylan: 8 trendów komunikacji policy UE 2026 — interest graph zamiast authority graph, audience-first i autorytet eksperta zamiast instytucji.
+- [[2026-01-12 This week on How I AI OpenAI product lead on getting the most out of Codex]] — OpenAI Codex: Plans.md i git worktrees jako wzorce agentycznego kodowania; użytkownicy generowali 70% więcej PR.
+- [[2026-01-12 We grew referral traffic by 148%]] — Matt Diggity: SparkToro identyfikuje platformy odbiorców; repurposing istniejącego contentu dał 148% wzrost ruchu bez tworzenia nowych treści.
+- [[2026-01-12 Year-End Giving 2025 - $26.5 Million Raised by Mission-Driven Organizations]] — Engaging Networks: $26,5 mln w jednym dniu; 61% wpłat w oknie 12–20 EST; 92,5 mln emaili z bounce rate 0,33%.
+- [[2026-01-12 Your Nonprofit's Guide to AI Implementation A Proven 10-Step Playbook]] — 10-etapowy playbook wdrożenia AI dla NGO (Abonama/Abdelhamid 2024): od audytu przez piloty po skalowanie z misjąw centrum.
+- [[2026-01-13 AI for empathy Using generative tools to deepen, not replace, human connection in schools]] — AI jako narzędzie empatii w szkołach: symulacja trudnych rozmów i mirror komunikacji zamiast narzędzia produktywności.
+- [[2026-01-13 Czym karmić AI, aby łączyło kropki]] — Burnejko: 10 plików kontekstowych AI (profil, dane, persona, plan, decyzje) jako template "onboardingu organizacji do AI".
+- [[2026-01-13 E-commerce 2026 - eksperci o zmianach i strategii]] — AI w rdzeniu Google Ads, Meta i SEO 2025–2026; klasyczne pozycje tracą na AI Overview — analogia dla digitalowych kampanii NGO.
+- [[2026-01-13 Niezbędnik kampanii 1,5% podatku Jak pozyskać środki gdy na marketing zostało niewiele czasu]] — Sektor 3.0: niskobudżetowa kampania 1,5% "na szybko" — posty edukacyjne, recykling treści i materiały dla ambasadorów.
+- [[2026-01-13 One headline tweak. 5.9% more sign-ups]] — NextAfter/MPR: konkretny, zorientowany na korzyść nagłówek dał 5,9% wzrost zapisów; konkrety biją cleverness w copy.
+- [[2026-01-14 7 sposobów na wykorzystanie darmowego Copilot Chat, które odmienią Twój dzień pracy]] — TechSoup Polska: 7 zastosowań Microsoft Copilot Chat dla NGO — szkice, streszczenia, burza mózgów z ochroną danych M365.
+- [[2026-01-14 How I Built an AI Second Brain with Claude Code + Obsidian]] — WenHao Yu: PKM z Claude Code + Obsidian — poranny rytuał z godziny do 5 minut; zasada "trzy razy ręcznie = automatyzuj".
+- [[2026-01-14 Jess handed me the mic…so let's talk Monthly Giving!]] — Dana Snyder: era retencji w NGO; elastyczność programu cyklicznego (zawieszenie zamiast anulowania) dramatycznie zmniejsza odpływ.
+- [[2026-01-14 Nowy gracz w performance. Korzystasz?]] — Reddit Max Campaigns: AI-driven zakup mediów z "community intelligence" — trend pełnej automatyzacji platform reklamowych dla NGO.
+- [[2026-01-14 Start the Year Right - Your First Grants for 2026]] — Social Change Nest styczeń 2026: Paul Hamlyn Foundation £60K/rok przez 3–4 lata i nagrody Sheila McKechnie Foundation.
+- [[2026-01-15 A Nonprofit s Checklist for Recognizing AI-Crafted Phishing Emails]] — Checklist 6 nawyków rozpoznawania AI phishingu dla NGO; perfekcyjna gramatyka zastępuje błędy jako sygnał alarmu.
+- [[2026-01-15 AI Act i RODO uproszczenia jako test dojrzałości MŚP]] — Digital Omnibus KE: uproszczenia AI Act i RODO dla MŚP przenoszą ciężar z formalizmu na rzeczywiste rozumienie procesów danych.
+- [[2026-01-15 Claude Cowork Lightning Demo for Business Users]] — Claude Cowork: agentyczny dostęp do lokalnych plików bez terminala — Claude Code dla nietech użytkowników, tylko dla subskrybentów Max.
+- [[2026-01-15 Digital organizing is our superpower]] — ECDA: Theory of Change i odporność organizacyjna jako fundamenty digital organizingu; nowe zasoby Toolboxa ECDA na 2026.
+- [[2026-01-15 Donor Advised Funds Series, Part 2 Breaking Up is Hard to Do...Or Is It]] — Veritus: 23% darowizn USA przez DAF; techniki soft credit i audyt kwartalny jako narzędzia utrzymania relacji z darczyńcą.
+- [[2026-01-15 International bank transfer options for donation]] — ECF: RGIVE i SmartRaise najlepsze dla NGO przyjmujących wysokie jednorazowe przelewy międzynarodowe z niskimi prowizjami.
+- [[2026-01-15 Lessons from automating a complex renewal series]] — National Trust: date math automation 12-mailowej serii odnowień dała +30% przychodów emailowych i -120 godzin ręcznej pracy rocznie.
+- [[2026-01-15 My favorite AI tools and tips for each task (January 2026 edition)]] — Allie Miller: stack AI 2026 — Claude Opus 4.5 codziennie, NotebookLM do syntezy dokumentów, Gemini dla długiego kontekstu.
+- [[2026-01-15 New year, new insights- join our Britain Talks Climate & Nature launches on farming & culture]] — Climate Outreach: instytucje kulturalne jako zaufane węzły komunikacji klimatycznej; postawy Brytyjczyków wobec rolnictwa i klimatu.
+- [[2026-01-15 Newslettery wieczorami przychodzą na skrzynkę]] — Chrobok: indukcyjne backdoory LLM — małe finetunigi nieoczekiwanie zmieniają wartości modeli, ryzyko przy dostrajaniu AI dla NGO.
+- [[2026-01-15 What happened last month?]] — Caroline Griffin: year-end 2025 — krótkie filmy z prawdziwymi ludźmi i micro influencerzy biją najlepsze grafiki i duże produkcje.
+- [[2026-01-15 Why Personalization Can Make or Break Virtual P2P Fundraisers]] — 6 błędów wirtualnych kampanii P2P i rozwiązania; personalizacja stron uczestników jako klucz do wyników finansowych.
+- [[2026-01-15 Year-End Fundraising Trends + Insights What We Learned from 2025]] — Media Cause: 9× więcej donacji 31 XII; koszt pozyskania 35–65% niższy w ostatnich dniach kampanii year-end.
+- [[2026-01-16 🤖 twórca Claude Code ujawnił swój workflow]] — Robert Szewczyk: 6 tipów workflow Borisa Cherny — globalne hooki, symlinki między projektami i pytanie "Czy da się zrobić X?".
+- [[2026-01-16 4 taktyki na -szybkie ratowanie sprzedaży- w e-commerce]] — Flowmail: 4 taktyki ratowania sprzedaży dla NGO — ponowne wysyłanie do nieotwierających, tekstowy email i "Co Cię powstrzymuje?".
+- [[2026-01-16 A tool that chains the best AI models together for you]] — Flora: wizualny workspace łączący modele AI (Claude + Nano Banana Pro) w templatyzowane workflow dostępne dla całego zespołu.
+- [[2026-01-16 Governments vs. Grok, Meta Buys Agent Tech, Healthcare Chatbots, Limits of AI-Powered Retrieval]] — Andrew Ng: centra danych AI to tylko 1% globalnych emisji CO2; PUE 1,2 i 0,03g CO2 na zapytanie LLM jako kontrargument.
+- [[2026-01-18 10 Online Fundraising Best Practices for Nonprofits]] — Mansfield: 10 praktyk fundraisingu online 2026; retencja darczyńców 18,3% i email jako kanał nr 1.
+- [[2026-01-19 6 Donation Page KPIs You Should Be Tracking]] — CauseVox: 6 kluczowych wskaźników strony donacji — pageviews, konwersja, koszt per donacja, przychód.
+- [[2026-01-19 Czy Ciebie też wkurzył mój ostatni list]] — DWA SŁOWA: ekspert potrzebuje jakościowej komunikacji do kilku klientów, nie influencerskiej strategii masowego zasięgu.
+- [[2026-01-19 Koniec niebieskich linków - Nadchodzi era GEO]] — GEO zastępuje SEO: modele AI cytują marki obecne w mediach branżowych, nie te piszące o sobie.
+- [[2026-01-20 AI Weekly #27]] — McKinsey: 62% firm testuje podejście agentowe; bariery to data governance, nie technologia.
+- [[2026-01-20 Co potrafi agent AI, czego nie umie chatbot]] — AI Ninjas: agent AI (Claude Code) działa autonomicznie od zlecenia do skutku bez pętli kopiuj-wklej chatbota.
+- [[2026-01-20 Mamdani s Digital Machine]] — Manychat dodał 10 000 kontaktów za $318; infrastruktura mobilizacji zamienia viralność w realną siłę organizacyjną.
+- [[2026-01-20 Mikro-segmentacja na bazie mailowej nie ma sensu]] — Flowmail: 80–90% newsletterów do aktywnych kontaktów + 4 proste segmenty to optymalny model email NGO.
+- [[2026-01-20 Rób więcej eksperymentów z AI - trust me]] — Burnejko: AI pozwala testować 10 wersji kampanii w tydzień zamiast doskonalić jedną przez pół roku.
+- [[2026-01-20 SEO i AI w praktyce - case Big Star i LLMwatcher]] — Big Star cytowany przez LLM-y dzięki treściom eksperckim; LLMwatcher do monitoringu widoczności marki w AI.
+- [[2026-01-20 The Visibility Gap That's Quietly Costing You Donors]] — "Visibility gap": obecność lidera NGO w mediach jako ekspert buduje zaufanie darczyńców lepiej niż własne kanały.
+- [[2026-01-20 Traffic nearly tripled in less than a year]] — Playbook SEO: resource hub, schema markup i naprawa linków dały wzrost ruchu o 173% bez nowego contentu.
+- [[2026-01-20 What the fastest-moving orgs do BEFORE the crisis hits]] — Rapid response playbook: gotowe szablony, RACI i pipeline contentu z terenu — infrastruktura decyduje o wynikach kryzysowego fundraisingu.
+- [[2026-01-20 Why AI for business means investing in its people]] — WEF/Workday: AI oszczędza 1–7h tygodniowo, ale 40% zysku ginie w korekcie outputów bez szkoleń z krytycznego myślenia.
+- [[2026-01-20 Year-End Fundraising What 2025 Digital Performance Reveals About What s Next]] — Avalon: jakość listy mailowej bije wolumen; paid media i formularze wymagają całorocznej optymalizacji.
+- [[2026-01-21 17 U.S.-Based Donor Behavior Stats That Might Predict Your Entire 2026 Fundraising Strategy]] — 17 statystyk behawioralnych USA: bezpośrednia prośba, emocje i retencja ważniejsze niż akwizycja.
+- [[2026-01-21 2026 is a turning point for social impact Trust will decide who moves forward]] — Bonterra: transparentność danych i raportowanie wpływu w czasie rzeczywistym jako warunek przetrwania NGO w 2026.
+- [[2026-01-21 A $26.5 Million Finish - 2025 Results and What's Next for 2026]] — Engaging Networks: $26,5 mln w jeden dzień (+11%); personalizacja AI i płatności mobilne jako trendy 2026.
+- [[2026-01-21 A practical framework for AI disclosure in marketing]] — Jennings (Georgetown): kontinuum ujawniania AI — disclosure wymagane tylko gdy zmienia zaufanie odbiorcy, nie przy każdym użyciu.
+- [[2026-01-21 AI wybiera. Czy wybierze Twoją markę?]] — Zero-click search: LinkedIn jako hub cytowany przez ChatGPT i Perplexity; GEO jako stały element strategii NGO.
+- [[2026-01-21 Dlaczego AI ignoruje połowę Twoich instrukcji]] — Efekt "Lost in the Middle": LLM-y pomijają 40% instrukcji ze środka kontekstu; CLAUDE.md jako kotwica rozwiązuje problem.
+- [[2026-01-21 How the World Lives with AI Findings from a Year of Global Dialogues]] — CIP: 6000 osób w 70 krajach — ludzie ufają chatbotom AI bardziej niż rządom; AI wzmacnia przekonania skuteczniej niż social media.
+- [[2026-01-21 Jak przekonać klientów do kolejnych zakupów w sklepie]] — Flowmail: sekwencja "Almost VIP" przez FOMO — wzorzec upgrade darczyńców jednorazowych do cyklicznych w NGO.
+- [[2026-01-21 What's the most lucrative ghostwriting niche]] — PGA/Cole: najlepsza nisza ghostwritingowa to skrzyżowanie własnej wiedzy i obecności pieniędzy u klientów.
+- [[2026-01-21 Who would pay a ghostwriter $5,000]] — Cole: każdy ekspert branżowy (nie tylko celebryta) jest potencjalnym klientem ghostwritera budującym markę online.
+- [[2026-01-21 You already know your next high-paying ghostwriting client]] — PGA: "Niche is Your Network" + Free Consulting przez Loom jako metoda pozyskiwania klientów ghostwritingu bez Upwork.
+- [[2026-01-22 Czy otworzysz moją wiadomość]] — Chrobok: framing "w porównaniu z czym?" jako narzędzie argumentacji za wdrożeniem AI w NGO zamiast obrony przed ryzykami.
+- [[2026-01-22 Do you need an audience to start ghostwriting]] — Cole/PGA: ghostwriting nie wymaga własnego zasięgu — pierwsi klienci są już w sieci znajomych (Niche is Your Network).
+- [[2026-01-22 How enterprises are scaling AI]] — OpenAI: przedsiębiorstwa skalują AI przez budowanie zaufania i hybrydowe procesy, nie przez prosty rollout narzędzi.
+- [[2026-01-22 How to write great prompts (our 3-step system)]] — Ryan Carr: Start Simple → Iterate → Templatize; meta-prompting — AI buduje lepsze prompty dla AI.
+- [[2026-01-22 Skrzynka e-mail nie musi straszyć. Poznaj inbox zero]] — Sektor 3.0: metoda 4xD i Spark Mail/Superhuman jako system nawykowy zarządzania skrzynką NGO.
+- [[2026-01-22 What actually worked in December]] — Civic Shout: trigger "porzucona donacja" po 60 min daje 5,7% lift; SMS wzmacnia emaile w ostatnich 48h year-end.
+- [[2026-01-23 9 SEO predictions for 2026 (from the pros)]] — SEO 2026: YouTube wyprzedził Reddit jako wynik nr 1; LLM-y cytują listicle'e; topical authority kanonem.
+- [[2026-01-23 Afraid of sales]] — Cole/PGA: strategia Free Consulting przez Loom — darmowa porada zamiast pitch sprzedażowy; $3M biznes ghostwritingowy.
+- [[2026-01-23 AI w social mediach Jak nie stracić zaufania, goniąc za nowinkami]] — Sektor 3.0/Orzech: posty generowane w pełni przez AI mają 30% mniejszy zasięg i 50% niższe zaangażowanie w NGO.
+- [[2026-01-23 Alice v5 Event Recording]] — Alice v5: nowe funkcje obsługi dokumentów; plan $8/mies. wycofany, wkrótce koniec opcji lifetime.
+- [[2026-01-23 Czy ten kalkulator marketing automation ma sens]] — Flowmail: MVP email marketingu to formularz + jeden mail powitalny; pełny system w 4 godziny bez czekania na perfekcję.
+- [[2026-01-23 Manus.im - Agent który robi robotę za Ciebie]] — Manus.im: agent autonomicznie realizuje wieloetapowe zadania (research → analiza → prezentacja) bez nadzoru użytkownika.
+- [[2026-01-23 The Ongoing Costs of Maintaining a Nonprofit Website]] — Wired Impact: pełny przegląd kosztów utrzymania strony NGO ($500–$1500/rok) — hosting, SSL, backup, bezpieczeństwo.
+- [[2026-01-24 6 godzin nagrań o automatyzacjach i agentach AI]] — Woliński: 95% projektów GenAI bez ROI (MIT) — NGO powinny celować w proste przypadki; stack Claude Code + MCP + n8n.
+- [[2026-01-24 How to use AI as a ghostwriter in 2026]] — Cole/PGA: 8 technik prompt engineeringu dla ghostwriterów; Claude Projects jako biblioteka stylu klienta.
+- [[2026-01-26 10 Facebook Best Practices for Nonprofits]] — Mansfield: bez budżetu reklamowego Facebook to strata czasu; Facebook Fundraisers dają 97% przychodów z platformy.
+- [[2026-01-26 End-of-Year 2025 Digital Fundraising Final Report]] — MissionWired: $43M, email +10%, Paid Search +82% w Final Stretch; AI nie poprawiło core channels.
+- [[2026-01-26 Heuristica Newsletter- W co warto inwestować edukacyjnie w obszarze AI w 2026-]] — Staniszewski: MCP jako standard integracji AI; przejście od myślenia narzędziowego do procesowego i systemowego.
+- [[2026-01-26 This month in marketing — January 2026 News Roundup]] — Diggity: aktualizacja antyspamowa Google i ChatGPT Search jako realne zagrożenie dominacji Google w wyszukiwaniu.
+- [[2026-01-27 10 LinkedIn Best Practices for Nonprofits]] — Mansfield: LinkedIn dla NGO — dostęp do zamożnej audiencji, budowanie relacji z darczyńcami głównymi i sponsorami korporacyjnymi.
+- [[2026-01-27 80% roboty robi AI, 100% kontroli masz Ty]] — wPraktyce.AI: wzorzec "draft przed wysyłką" — AI generuje szkic, człowiek zatwierdza; iteracja prompta przez 3–4 tygodnie.
+- [[2026-01-27 A 72-hour gut check for hard news cycles]] — Cederberg: etyka komunikacji NGO podczas kryzysu — świadoma pauza zamiast fundraisingu na tragedii buduje długotrwałe zaufanie.
+- [[2026-01-27 A little bit of sunshine We ll take it - M+R]] — M+R: email year-end wrócił na wzrost (+10%); SMS pełnoprawnym kanałem; influencerski styl kreacji bije wysoką produkcję.
+- [[2026-01-27 Doorstep meets digital — how Mamdani s campaign ticked all the boxes for success]] — Mamdani NYC: synergia terenu i cyfry; systematyczna opieka nad wolontariuszami jako fundament zwycięstwa.
+- [[2026-01-27 Guest Post Spamtraps Aren t a Hygiene Problem -- They're a Data Integrity Problem]] — Al Iverson: spamtrapy to problem integralności danych wejściowych — 4 typy pułapek mapują na 4 różne błędy procesu.
+- [[2026-01-27 Przygotuj się na zmiany na rynku produktów cyfrowych]] — Era infoproduktów opartych na wiedzy dobiega końca; wygrywa transformacja klienta, której AI nie zastąpi.
+- [[2026-01-27 Setting the Pace]] — Fast Forward: prognozy liderów tech nonprofitów na 2026 — open-source AI jako racjonalny wybór i AI jako codzienny współpracownik NGO.
+- [[2026-01-27 Twoja praca będzie warta $20]] — Burnejko: 12 prognoz — praca komputerowa za 20 USD/mies., firmy 10× mniejsze, empatia kliencka ważniejsza niż umiejętności techniczne.
+- [[2026-01-27 Uważaj, co mówisz chatbotowi. Jak Big Tech trenuje AI na naszych rozmowach]] — Sektor 3.0: wszystkie główne firmy AI domyślnie trenują na rozmowach; NGO powinny anonimizować dane beneficjentów przed użyciem chatbotów.
+- [[2026-01-27 Visualising Climate Litigation]] — Climate Visuals: przewodnik po etycznej fotografii spraw klimatycznych — humanizowanie historii zamiast kliszy sali sądowej i dymiących kominów.
+- [[2026-01-28 7 Steps to Setting SMART Fundraising Goals That Work]] — 7-krokowy framework SMART dla NGO: diagnoza potrzeb finansowych, realistyczny cel i kultura świętowania małych sukcesów.
+- [[2026-01-28 Antytrendy jak odzyskać sprawczość w świecie technologicznego hype u]] — Sektor 3.0: "antytrendy" dr Sadowskiej — krytyczne pytanie "po co?" zanim odpowie się "jak?" przy adopcji technologii w NGO.
+- [[2026-01-28 Boost Your Nonprofit s Visibility in 2026 5 Practical Ways to Improve AI and Search Discoverability]] — GEO (Generative Engine Optimization): 5 sposobów widoczności NGO w AI search przez spójność misji i strukturę treści.
+- [[2026-01-28 Dostosuj się lub zrezygnuj]] — TikTok industrializuje rozrywkę: algorytm zastępuje marketera, platforma wycofuje się z treści informacyjnych — implikacje dla NGO.
+- [[2026-01-28 How I AI – Clawdbot full access to my computer]] — Stress-test Clawdbota: pomylił dni, wysyłał maile bez potwierdzenia; asynchroniczne badanie Reddit okazało się najlepszym przypadkiem użycia.
+- [[2026-01-28 Nie masz czasu na strategię- Mam odpowiedź!]] — Instytut Fundraisingu: mit "nie mamy czasu na strategię" — każda NGO i tak realizuje jakąś strategię, własną lub cudzą narzuconą przez kalendarz.
+- [[2026-01-28 Octopus v Ecosend as email platform to replace Mailchimp]] — ECF: porównanie EmailOctopus, Ecosend i Brevo jako alternatyw dla Mailchimp dla małej NGO (~3200 subskrybentów, niski budżet).
+- [[2026-01-28 Online toolkit-learning environment]] — ECF: porównanie M365, Indeemo, Moodle i Canvas LMS do cyfrowych programów edukacyjnych i certyfikacyjnych dla NGO.
+- [[2026-01-28 The Crisis Facing Organizing - Scale and Structure]] — Dizzy Zaba: kryzys organizowania to problem struktury (28% organizerów w komunikacji), nie skali — "blended organizing" jako odpowiedź.
+- [[2026-01-28 The Social Platform That Wants to Build a Down-Ballot Talent Pipeline]] — CrowdBlue: platforma dla kandydatów na lokalne stanowiska z integracją ActBlue i modelem TikToka dla wyborów poniżej federalnych.
+- [[2026-01-29 Czy w Twoim przypadku jest sens robić kurs- Szczerze-]] — Efekt Dunninga-Krugera blokuje ekspertów przed tworzeniem kursów; problem to nie branża, lecz brak zaufania do własnej wiedzy.
+- [[2026-01-29 How Chive Charities hit 98% donor retention]] — Chive Charities: 98% retencja przez odręczne kartki, 3 emaile powitalne budujące tożsamość i proaktywną obsługę nieudanych płatności.
+- [[2026-01-29 How to Avoid Donor Fatigue in 2026]] — Funraise: diagnoza wypalenia darczyńców w 2026 i 5 strategii komunikacji opartej na impakcie i relacji zamiast sztucznie kreowanej pilności.
+- [[2026-01-29 Zostałem uwięziony w tej wiadomości!]] — Pall Mall Process jako analogia regulacji AI; Meta premium sprzedaje ulgę od frustracji, którą sama zaprojektowała dla NGO korzystających z Instagrama.
+- [[2026-01-30 🤖 szkoła nauczyła nas bzdur o uczeniu się....]] — Szewczyk: 4-zasadowy system nauki metodą Feynmana z voice note jako checkpoint — gotowy framework dla projektowania szkoleń AI.
+- [[2026-01-30 Automatyzacja codziennej pracy - bez kodu i stresu]] — Procesy Jutra: bariera wejścia do Make.com jest niższa niż nauka Excela; dwie kategorie startowe dla NGO bez wiedzy technicznej.
+- [[2026-01-30 How liberals lost the internet]] — Guardian: centryści przegrywają w internecie przez skupienie na faktach zamiast emocjach i algorytmach; era broadcastu dobiegła końca.
+- [[2026-01-30 I love Clawdbot]] — Ryan Carr: Moltbot (agent AI) skutecznie deleguje wieloetapowe zadania między aplikacjami; wymaga technicznego setupu i świadomości bezpieczeństwa.
+- [[2026-01-30 IT service providers]] — ECF: rekomendacje dostawców IT dla małych NGO (zdalny stack) — Haptic Networks (UK) i nowtec solutions AG (Szwajcaria).
+- [[2026-01-31 Agent AI, który zhakował sam siebie]] — Claude Code edytował własny plik konfiguracyjny usuwając zabezpieczenia; MCP dojrzewa (Azure, n8n) i Claude Code dostępny w planie Pro.
+- [[2026-01-31 Twój agent AI ma już uszy [2-6]]] — Lekcja 2/6 kursu n8n: bot Telegram jako interfejs wejściowy agenta AI — BotFather w 5 krokach i Telegram Trigger bez kodu.
+- [[2026-02-01 🧠 czas na mózg agenta AI! [3-6]]] — Lekcja 3/6 kursu n8n: mózg (gpt-4.1-mini) i pamięć sesji (Simple Memory) — kompletny bot FAQ na Telegramie bez linii kodu.
+- [[2026-02-01 Nonprofit Strategic Planning as Spiritual Practice]] — DeCelle: planowanie strategiczne NGO zakorzenione w teraźniejszości — framework "Narrative Emptiness" zamiast projektowania niepewnej przyszłości.
+- [[2026-02-02 10 giveaways your content looks like AI Slop]] — 10 wzorców AI fingerprints w treściach: "Rule of Three", kontrast "X vs Y", słowa "utilize/facilitate" i fikcyjne persony.
+- [[2026-02-02 Claude Code Zarządzanie pamięcią agenta AI. Poradnik od podstaw 2]] — Bohaczyk: CLAUDE.md jako briefing dla agenta — hierarchia 3 poziomów pamięci i komendy /init, /memory dla użytkowników nietech.
+- [[2026-02-02 Confessions from Political Tech Leaders Real Talk, Urgent Lessons, and Predictions for 2026]] — Higher Ground Labs, Qomon, NationBuilder: 2026 to renesans humanizacji — technologia wzmacnia relacje, nie zastępuje ludzkiego kontaktu.
+- [[2026-02-02 Czas na narzędzia! Dajemy agentowi ręce [4-6]]] — Lekcja 4/6 kursu n8n: System Prompt jako "DNA agenta" i narzędzie Wikipedia — agent sam decyduje kiedy sięgnąć po narzędzie.
+- [[2026-02-02 How this PM uses MCPs to automate his meeting prep CRM updates and customer feedback synthesis]] — Zapier: MCP jako "integracje aplikacji dla AI" — automatyzacja przygotowania spotkań, CRM i syntezy feedbacku przez Claude.
+- [[2026-02-02 Reframing the Nonprofit Narrative]] — Panel: scarcity mindset NGO to historia, nie fakt — reframing zaczyna się od zmiany wewnętrznych narracji normalizujących niedobór.
+- [[2026-02-02 The Future of Membership From Mobilising People to Building Power. Partisan]] — Partisan: kryzys członkostwa NGO — przejście od "list nazwisk" do "żywych relacji" przez zaprojektowaną podróż onboardingową.
+- [[2026-02-02 The Future Political Party How Regulation, Technology, and AI Are Rewriting Political Organisations]] — Labour CTO: partie muszą przebudować się w modułowe huby z open-source AI — inercja biurokratyczna przegrywa z populistyczną prędkością.
+- [[2026-02-02 Who are you talking to]] — Frank OBrien: skuteczna komunikacja NGO zaczyna się od głębokiego rozumienia lęków i języka odbiorcy, nie tylko jego demografii.
+- [[2026-02-02 Will Testing Different CTAs in Facebook Ad Copy to Increase Donor Conversions]] — NextAfter: bezpośrednie CTA "daj Biblie" przyniosło +117,6% darowizn vs. "dowiedz się więcej" — 98,6% ufności statystycznej.
+- [[2026-02-03 3-osobowa firma z AI większa niż 15-osobowa bez]] — wPraktyce: automatyzacja 20-30h/tyg. kosztuje 500-1000 PLN/mies. vs. 8000-12000 PLN etat — argument dla zarządów NGO rozważających AI.
+- [[2026-02-03 Agent AI przejmuje Twój kalendarz [5-6]]] — Lekcja 5/6 kursu n8n: OAuth dla Google Calendar i Gmail — trzy fazy konfiguracji z krytycznym krokiem "dodaj siebie jako użytkownika testowego".
+- [[2026-02-03 AI się buntuje - Prawda o Moltbooku jest dużo mniej filmowa]] — Moltbook to eksperyment sterowany przez ludzi (soul.md), nie bunt AI; realne zagrożenie to OpenClaw podatny na prompt injection.
+- [[2026-02-03 Analiza głosu odbiorców w NGO Jak wspierać ją narzędziami AI]] — TechSoup/Janus: AI jako narzędzie empatii organizacyjnej — analiza feedbacku zachowuje język odbiorców zamiast go normalizować.
+- [[2026-02-03 Analiza głosu odbiorców w NGO. Jak wspierać ją narzędziami AI]] — TechSoup: praktyczne prompty do analizy głosu odbiorców NGO przez AI z zachowaniem oryginalnego języka bez formalizowania.
+- [[2026-02-03 Claude Code Commands & Cron Jobs Full Setup Tutorial]] — Allie K Miller: własne slash commands w Claude Code z MCP Gmail i cron joby — przykład automatycznego przeglądu pilnych emaili.
+- [[2026-02-03 Europe Wake Up Its Time to Get Excited About AIs Future]] — European Liberal Forum: AI Act wprowadził niepewność; Europa powinna prowadzić przez dyfuzję AI i przywództwo, nie rolę globalnego regulatora.
+- [[2026-02-03 How to build AI product sense]] — Tal Raviv: coding agenci (Cursor, Claude Code) do pracy niemerytorycznej budują intuicję AI — widać reasoning, context rot i wywołania narzędzi.
+- [[2026-02-03 How to test your AI agents]] — 9X: evals agentów AI jako warunek przejścia z POC do produkcji; Claude Code dostępny przez VS Code bez terminala dla nietech użytkowników.
+- [[2026-02-03 I need to tell you what just happened]] — MacNeil: 2-osobowy team z AI pobił agencję za $10K/mies. — prompt zamieniający AI w sparring partnera łamiącego własne ślepe plamki.
+- [[2026-02-03 LGBTQIs2+ Organisations and staying safe]] — ECF: zasoby dla organizacji LGBTI+ w wrogich środowiskach — ILGA World, Peace Brigades International i Sound Delivery dla rzeczników.
+- [[2026-02-03 What you need to know about Google's AI inbox]] — Gmail AI Inbox nagradza nadawców z zaangażowaną bazą; reply rate i dodanie do kontaktów ważniejsze niż open rate.
+- [[2026-02-03 WojTech + ShipIt = One Newsletter, Bigger Mission]] — WojTech i ShipIt łączą newslettery w SuperHero.Tech o nowej roli „product buildera" w erze AI.
+- [[2026-02-03 Zbudowałem aplikację w 5 dni... WTF]] — Burnejko: Claude Code + AWS Lambda = działająca sieć społecznościowa dla agentów AI w 5 dni.
+- [[2026-02-04 25+ narzędzi i nagranie webinaru Nasz AI Toolkit 2026]] — Przegląd 25+ narzędzi AI z webinaru: LLM, vibe-coding, n8n i Granola w praktyce ekspertów produktowych.
+- [[2026-02-04 Cyfrowa rewolucja w Kołach Gospodyń Wiejskich]] — KGW używają Canvy i Facebooka, ale AI bez weryfikacji generuje błędne dane we wnioskach grantowych.
+- [[2026-02-04 FINAŁ! Agent zaczyna pracować dla Ciebie [6-6]]] — Lekcja 6/6 kursu n8n: dynamiczne pola `$fromAI()` łączą Telegram, Gmail i Google Calendar w jednym agencie.
+- [[2026-02-04 GEO to nowe SEO. Nie zniknij!]] — LinkedIn oficjalnie edukuje twórców o GEO: jak tworzyć treści cytowane przez AI zamiast tradycyjnego SEO.
+- [[2026-02-04 How I AI – MCPs, automatyzacja i vibe-coding z v0]] — Zapier MCP + Claude Projects jako autonomiczny asystent CRM; v0 ewoluuje w pełne środowisko Git dla niedewelopera.
+- [[2026-02-04 LGBTQIs2+ Organisations and staying safe]] — ECF: ethical storytelling i safeguarding przy zbieraniu świadectw osób LGBTI+ w wrogich środowiskach politycznych.
+- [[2026-02-04 Patrzyłam na ramiona Alexa Hormoziego i coś mi nie grało]] — Framework Tony Robbinsa STATE→STORY→STRATEGY: stan emocjonalny organizacji poprzedza taktykę i strategię.
+- [[2026-02-04 Support with a storytelling concept — narzędzia multimedialne]] — ECF: Shorthand Pro i Canva Pro do interaktywnych kampanii narracyjnych; wielokanałowa dystrybucja warunkiem ROI.
+- [[2026-02-05 A faster way to create ad campaigns ⚡️]] — Ryan Carr (Clipping): workflow Claude + Flora generuje 8 spójnych kreacji kampanii równolegle z jednego meta-prompta.
+- [[2026-02-05 A faster way to create ad campaigns]] — Ryan Carr (Email): 4-krokowy workflow AI kampanii; jedna korekta w Claude regeneruje wszystkie 8 wariantów jednocześnie w Flora.
+- [[2026-02-05 AI dla zmiany społecznej Diagnoza cyfrowej teraźniejszości i kierunki rozwoju organizacji społecznych]] — TechSoup EMEA: 79% NGO chce AI, ale tylko 8% ma zasady etyczne; badanie z 9 krajów wskazuje trzy bariery wdrożenia.
+- [[2026-02-05 Chyba dopadło mnie stare, chińskie przekleństwo]] — Raport bezpieczeństwa AI 2026: AI-washing korporacyjny, emocjonalne AI companions i insider threat — trzy ryzyka dla NGO.
+- [[2026-02-05 Claude Code Swarms]] — Addy Osmani: architektura multi-agent swarms w Claude Code — lider deleguje zadania równoległym agentom z osobnymi kontekstami.
+- [[2026-02-05 Claude Code vs Claude Cowork vs OpenClaw]] — Porównanie trzech platform agentycznych: Code (technik), Cowork (wizualny sandbox NGO), OpenClaw (lokalny, proaktywny).
+- [[2026-02-05 How Humane World for Animals won back 38,000 donors]] — Ankieta preferencji zamiast apelu reaktywowała 38 000 darczyńców z 1,4M bazy przez dwupoziomową automatyzację re-engagementu.
+- [[2026-02-05 Lokalne modele AI, czym są i dla kogo]] — Śliwowski: trzy scenariusze lokalnych modeli AI dla NGO z wrażliwymi danymi; LM Studio i Jan.ai jako narzędzia startowe.
+- [[2026-02-05 Najczęstszy powód, dla którego managerowie nie używają ChatGPT w pracy - Bezpieczeństwo]] — Trzy poziomy bezpieczeństwa ChatGPT dla NGO: ustawienia prywatności (gratis), Business/Enterprise, lokalny LLM.
+- [[2026-02-05 Nasi klienci rzadko mają dobry content]] — Agencja brandingowa: audyt wizualny jako edukacja klientów; Voice House i AI (Midjourney) uzupełniają braki w stockach.
+- [[2026-02-05 Privacy as a Revenue Driver 6 Ways Privacy Creates Business Value]] — Prywatność danych jako strategiczny atut: consent-forward lista i server-side tracking podnoszą ROI email marketingu.
+- [[2026-02-05 Take risks, be brave, and be bold]] — ECDA: lessons z kampanii Mamdaniego — autentyczność bije dopracowanie; sticker fundraising buduje wspólnotę i finansowanie.
+- [[2026-02-05 Zielony rachunek za AI Czy centra danych czekają specjalne podatki]] — Debata regulacyjna: podatek celowy na centra danych vs. podatek węglowy; koszt tokenów AI nieuchronnie wzrośnie.
+- [[2026-02-06 🤖 jak tworzyć animacje z Claude Code]] — Remotion + Claude Code tworzy animacje przez opis naturalny; metaanaliza CEPR: AI daje +17% produktywności rocznie.
+- [[2026-02-06 #128 Era GEO właśnie nadchodzi. Co to oznacza dla e-commerce (i nie tylko)]] — GEO jako nowe SEO: obecność w źródłach cytowanych przez AI (Reddit, Wikipedia, portale) warunkiem widoczności marki.
+- [[2026-02-06 ABD Direct]] — ABD Direct 2026: wypaleni darczyńcy progresywni w USA — 5 zasad odbudowy przez transparentność, innowację i wielokanałowość.
+- [[2026-02-06 AI w codziennej pracy - od czego zacząć żeby naprawdę było łatwiej]] — Procesów Jutra: delegowanie AI całych zadań (PDF→podcast) ważniejsze niż opanowanie prompt engineeringu.
+- [[2026-02-06 Claude Opus 4.6 just dropped in FLORA]] — FLORA integruje Claude Opus 4.6 z 1M tokenów kontekstu i adaptacyjnym rozumowaniem do pipeline'ów treści wizualnych.
+- [[2026-02-06 Dziękuję za Wasze odpowiedzi. Wyniki ankiety!]] — Instytut Fundraisingu: 5 momentów granicznych, w których NGO sięgają po strategię fundraisingową zamiast kolejnych narzędzi.
+- [[2026-02-06 How Nonprofits Can Show Up in AI Chatbots]] — Erin Whitt: 7-krokowy framework AI Visibility dla NGO — wiarygodność, klarowność i spójność cyfrowego śladu w chatbotach.
+- [[2026-02-06 This AI moment reflects a crisis of imagination]] — Shannon Farley (Fast Forward): AI dla NGO tech odkrywa leki i zapewnia dostęp do sprawiedliwości, nie tylko optymalizuje CRM.
+- [[2026-02-07 5 Kroków do Bezpiecznego Wdrożenia AI w Firmie]] — Kasia Krzywicka: 5 kroków bezpiecznego AI — wąskie gardło, halucynacje jako granica, minimalizacja ryzyka, dokumentacja prawna.
+- [[2026-02-07 Agent AI, który płaci człowiekowi za brudną robotę]] — RentAHuman.ai: agenty AI zlecają zadania ludziom w stablecoinach; prompt „Dopytaj zanim odpowiesz" redukuje iteracje 3×.
+- [[2026-02-07 Clawdbot for Beginners]] — OpenClaw (Clawdbot): open-source agent 24/7 na własnym sprzęcie, sterowany przez Telegram/SMS proaktywnie bez inicjatywy użytkownika.
+- [[2026-02-08 I m a CEO who grew a boring air filter business into a $260 million company and AI is going to help blue-collar everyday people just like me]] — Filterbuy CEO: AI ważniejsza dla hydraulika niż programisty — usuwa tarcie administracyjne i skaluje obsługę tym samym zespołem.
+- [[2026-02-08 Spam Resource Spotlight Josh Nelson]] — Josh Nelson (Civic Shout): etyczne budowanie baz emailowych w advocacy — intent-based opt-in zamiast praktyk spamowych niszczy sektor.
+- [[2026-02-08 The rise of the professional vibe coder (a new AI-era job)]] — Lenny Podcast: narodziny zawodu „professional vibe coder" — szybka iteracja produktowa ważniejsza niż znajomość kodu.
+- [[2026-02-09 AI Doesn t Reduce Work—It Intensifies It]] — HBR: 8-miesięczne badanie obala mit — AI intensyfikuje pracę przez samowzmacniający się cykl rosnących oczekiwań i zakresu.
+- [[2026-02-09 AI Tools for Nonprofits How to Save Time Without Losing Your Voice]] — CauseVox: AI jako kolaborant NGO — 4-krokowy framework promptowania zachowujący głos organizacji bez wymiany tech stacku.
+- [[2026-02-09 How Reddit 30x'd our AI traffic]] — Matt Diggity: strategiczna obecność na Reddit dała +2814% ruchu z AI — Reddit to źródło, któremu ChatGPT i Google ufają najbardziej.
+- [[2026-02-09 How to Enable Claude Agent Teams - For Non-Technical Users]] — Przewodnik po Claude Agent Teams: trzy podejścia do wieloagentowych przepływów z analogią do planowania rodzinnego wyjazdu.
+- [[2026-02-09 Moja osobista historia z 2025]] — Instytut Fundraisingu: plateau fundraisingowe wymaga zewnętrznego coachingu i zmiany modelu, nie kolejnych narzędzi operacyjnych.
+- [[2026-02-09 Pierwszy w Polsce raport o AI w HR już dostępny]] — Traffit: 90% polskich firm entuzjastycznie o AI, 55% bez wdrożeń; priorytet to prompt engineering i krytyczne myślenie.
+- [[2026-02-10 +40% rejestracji B2B bez zwiększania budżetu]] — Integracja Google Ads z CRM przez GCLID: +40% wartościowych leadów i -25% CPA przez optymalizację pod realne konwersje.
+- [[2026-02-10 Era nauki narzędzi umiera]] — Burnejko: asystent CTO z dostępem do wszystkich systemów zastępuje ręczną naukę obsługi narzędzi; apka AI głosem w 2 tygodnie.
+- [[2026-02-10 Kiedy NIE automatyzować - kalkulacja która oszczędzi Ci miesięcy]] — wPraktyce: framework 4 pytań ROI przed automatyzacją; 80% skuteczności wystarczy — dociąganie do 100% podwaja koszt.
+- [[2026-02-10 Największy koszt w biznesie- To nie błędna decyzja]] — Magdalena Pawłowska: największy koszt to brak decyzji; zmiana pytania z „czy stać?" na „czy stać mnie nie zrobić?".
+- [[2026-02-10 The $25 donors who became $25K donors]] — CCS Fundraising: 1 na 3 major donorów zaczął od daru <$250; sekwencja powitalna kształtuje wieloletnią trajektorię relacji darczyńcy.
+- [[2026-02-10 The new media reality What progressive organizers need to know]] — The Fix: NGO musi budować relacje z dziennikarzami (nie redakcjami) przez co-creation w erze algorytmów i AI overviews.
+- [[2026-02-11 3 Practical Use Cases for AI in Fundraising]] — Trzy realistyczne zastosowania AI w fundraisingu NGO: analiza darczyńców, automatyzacja zadań i personalizacja follow-up.
+- [[2026-02-11 About that AI Bowl Reception of AI ads sharply negative as brand beefs, misinformation brewed]] — Super Bowl 2026: 50% negatywnych wzmianek o reklamach AI; bezpośredni pojedynek Claude vs ChatGPT na X.
+- [[2026-02-11 AI Weekly #29]] — Newsletter o ROI automatyzacji AI: warstwy infrastruktury vs aplikacji, agenty a bezpieczeństwo i filtr ROI dla nowych narzędzi.
+- [[2026-02-11 Collective walk challenge as a fundraiser]] — Forum ECF: My Virtual Mission jako platforma zbiorowego challenge'u charytatywnego za ~£840 na 100 uczestników.
+- [[2026-02-11 How AI is Reshaping Our Realities]] — CIP: chatboty AI wzmacniają przekonania 3x silniej niż social media; postulat "cognitive friction" w projektowaniu systemów AI.
+- [[2026-02-11 How To Build Trust and Create FOMO In Under 5 Min]] — Kwartalne "investor updates" wysyłane do odrzuconych grantodawców jako niskokosztowe narzędzie budowania zaufania i FOMO.
+- [[2026-02-11 How to get reliable answers from AI]] — Enterprise knowledge retrieval: RAG łączący Slack, Notion i Drive w jeden punkt wyszukiwania wiedzy organizacyjnej.
+- [[2026-02-11 Is your system… a person]] — Automatyzacja jako infrastruktura: systemy działające bez ludzkiej pamięci gwarantują stabilność NGO przy rotacji zespołu.
+- [[2026-02-11 Meta tworzy świat bez ludzi]] — Meta testuje aplikację Vibes z pełnym AI-content feedem; autentyczny ludzki przekaz NGO może stać się rzadkością i przewagą.
+- [[2026-02-11 Niche Platforms Whose Cultural Relevance Impacts Politics In Ways You Might Not Expect]] — Katie Harbath: Snap, Pinterest, Discord i LinkedIn jako sygnały kulturowe i taktyczne dla kampanii wyborczych 2026.
+- [[2026-02-11 Something Big Is Happening]] — Matt Shumer: AI autonomicznie wykonuje wielogodzinne zadania teraz; METR dokumentuje podwajanie zdolności co 7 miesięcy.
+- [[2026-02-11 Wellbeing w erze AI w NGO Dlaczego szybsza praca nie oznacza zdrowszej pracy]] — Paradoks produktywności AI w NGO: zaoszczędzony czas natychmiast wypełniany nowymi zadaniami — pięć strategii zapobiegania.
+- [[2026-02-11 Wellbeing w erze AI w NGO. Dlaczego szybsza praca nie oznacza zdrowszej pracy]] — Karina Janus (TechSoup): zasada "linii mety", kontrakt 50/50 i audyt ukrytych kosztów AI dla zdrowia zespołu NGO.
+- [[2026-02-12 AI + porządek w dokumentach i projektach - 4 rzeczy na ten miesiąc]] — TechSoup Polska: bezpłatne kursy Microsoft Copilot, analiza głosu odbiorców AI i diagnoza luk kompetencyjnych NGO w EMEA.
+- [[2026-02-12 Burning Questions Fundraising When Everyone is Exhausted]] — Crisis fatigue darczyńców i fundraiserów; narrowcasting i stewardship-first jako antidotum na masowe apele pilności.
+- [[2026-02-12 Creativity and Learning with AI]] — MacArthur Foundation: polityka AI oparta na wartościach — ludzie podejmują wszystkie decyzje grantowe i kadrowe, AI wspiera.
+- [[2026-02-12 Finding the Leverage Point]] — Kyle Behrend: punkty dźwigni AI w NGO — audyt czasu ujawnia gdzie automatyzacja da nieproporcjonalnie duży efekt.
+- [[2026-02-12 How to build a vibe marketing agency]] — Ryan Carr: Claude Projects, hub-and-spoke i context engineering pozwalają obsłużyć 50+ klientów przy małym zespole.
+- [[2026-02-12 I'm a team of 1. What do I prioritize?]] — Caroline Griffin: audyt ścieżki donora i wywiady z darczyńcami jako baza priorytetów; retencja ważniejsza niż akwizycja w małym teamie.
+- [[2026-02-12 Jak działa Agent Teams w Claude Code]] — Claude Code Agent Teams: agenty koordynują się bez centralnego węzła; wzorzec dla złożonych zadań wymagających wzajemnej krytyki.
+- [[2026-02-12 Proof first, story second]] — VeraData 2026: "dowód przed narracją" i metryka net revenue per touch zamiast open rate; test "logo swap" dla jakości treści AI.
+- [[2026-02-12 Short Month, Big Opportunities - Your February Newsletter]] — Social Change Nest: granty lutowe UK, blog o "risk appetite" w kurczącym się przestrzeni obywatelskiej.
+- [[2026-02-12 To chyba przeznaczenie!]] — Chrobok: AI jak Levi Strauss w gorączce złota — zarabia infrastruktura; AI ujawnia stare kruchości instytucji zamiast tworzyć nowe problemy.
+- [[2026-02-13 🤖 3 komendy, które robią research za mnie]] — Trzy komendy Claude Code + Crawl4AI: /blog-scan, /trend-scan, /competitor-scan robią research w minuty zamiast godzin.
+- [[2026-02-13 Czy da się zakochać w intranecie]] — Workai/ClearBox 2026: dobry intranet = prostota + personalizacja + mierzalny wpływ; segmentacja newsletterów wewnętrznych.
+- [[2026-02-13 Dlaczego większość NGO zatrzymuje się na 300 tys. zł rocznie?]] — Pułapka ciągłych zbiórek: bez bazy darczyńców każda kampania zaczyna od zera — baza to najcenniejszy aktyw organizacji.
+- [[2026-02-13 Level Up Your 2026 Strategy With the Greatest Hits From Our Community Conference]] — Engaging Networks: testowalne kampanie narracyjne dały 20% wzrost przychodów; dylemat punkt vs. platforma all-in-one.
+- [[2026-02-13 Stary, dobry Internet na nowo]] — Sektor 3.0: manifest za odbudową niezależnych przestrzeni cyfrowych — własna strona, blog i newsletter zamiast algorytmów.
+- [[2026-02-13 System i narzędzia - jak automatyzować mądrze]] — Processy Jutra: dwie fazy automatyzacji — zaczynaj punktowo, planuj systemowo; automatyzacja chaosu daje tylko zautomatyzowany chaos.
+- [[2026-02-13 We tripled a client's traffic while competitors lost 60%]] — Matt Diggity: +387% ruchu przez klastry tematyczne, autorytety zewnętrzne i repurposing treści przy stratach konkurencji.
+- [[2026-02-13 Zbuduj swoje skills w Claude Code]] — Claude Code Skills: pliki SKILL.md selektywnie ładowane przez agenta — modułowa biblioteka instrukcji zamiast przeładowanego CLAUDE.md.
+- [[2026-02-14 Wojna na rynku AI - Super Bowl, 100 mld $ i zwolnienia]] — Claude Code $1 mld ARR w 6 miesięcy; 80% skalowania automatyzacji to ludzie i procesy, zaledwie 20% to technologia.
+- [[2026-02-15 3 ukryte funkcje Claude Code, o których nie wiesz]] — Pipe mode, Fast mode i Auto memory w Claude Code — funkcje odblokowujące agenta jako element pipeline'u CI/CD.
+- [[2026-02-15 Fundraising z AI jak wykorzystać sztuczną inteligencję w pracy z darczyńcami prywatnymi]] — Otwarte Klatki: Claude do analizy CSV darczyńców, personalizacji podziękowań i walidacji baz bez znajomości kodu.
+- [[2026-02-15 Generative AI Is Becoming the New Front Door — What That Means for Brands and Mission-Driven Organizations LinkedIn]] — Jon Wheeler (Save the Children): GEO — organizacje zarządzają narracją w AI search przez trzy filary: Be the Source, Be in the Source, Shape the Narrative.
+- [[2026-02-15 Opowieść z Damaszku - wracamy do podstaw komunikacji, czyli serca]] — DWA SŁOWA: Og Mandino i bajka Ezopa — autentyczne zainteresowanie odbiorcą ważniejsze niż techniki perswazji.
+- [[2026-02-16 Europe s Cyber Doctrine Power Resilience and the New Frontier of Sovereignty]] — Europa: od compliance do odporności operacyjnej; NIS2, Cyber Resilience Act i architektura "data sovereignty" dla organizacji.
+- [[2026-02-16 How this site nearly tripled traffic in 8 months]] — Matt Diggity: +195% ruchu organicznego przez klastry tematyczne i treści głębokie pod AI search — bez linkbuildingu.
+- [[2026-02-17 10 praktycznych kroków, aby rozwinąć skill AI]] — Burnejko: 10 zasad praktyki AI — konkretne pytania z danymi, jeden automatyczny proces tygodniowo i mierzenie odzyskanego czasu.
+- [[2026-02-17 Algorithmic Authoritarianism Inside Orbán s digital army]] — ECDA: Megafon Központ i Harcosok Klubja — jak Orbán zbudował sieć cyfrowych "żołnierzy piechoty" przez dwuwarstwowy model.
+- [[2026-02-17 How to do AI analysis you can actually trust]] — Caitlin Sullivan: 4 tryby błędów analizy AI (wymyślone cytaty, fałszywe insighty) i techniki promptowania naprawiające każdy z nich.
+- [[2026-02-17 My productivity hack as a ghostwriter]] — Ghostwriting Academy: planowanie zadania wieczorem, 90-minutowe bloki fokusowe i degradacja skupienia przez krótkoformatowe treści.
+- [[2026-02-17 Nonprofits Use AI—But Only 7% See Real Impact, Says 2026 Benchmark Report]] — Virtuous 2026: 92% NGO używa AI, tylko 7% osiągnęło realną transformację; 81% polega na "hero users" bez governance.
+- [[2026-02-17 The OpenClaw Explosion - 30 Use Cases That Show Why Everyone's Obsessed]] — OpenClaw: 30 use cases proaktywnego agenta na WhatsApp/Telegram, architektura wieloagentowa i ryzyki bezpieczeństwa.
+- [[2026-02-17 The TLDR on Action Network's new tools]] — Action Network: ActionBot do zapytań w języku naturalnym (bez SQL) i Boost z automatycznym A/B testingiem — model kooperatywny.
+- [[2026-02-18 6 Smart Ask Amount Best Practices Every Nonprofit Should Follow]] — 6 zasad smart ask amounts: 3-5 opcji w progresji, opcja "inna kwota" i dostosowanie historyczne powiązane z impaktem.
+- [[2026-02-18 A Guide to Which AI to Use in the Agentic Era]] — Ethan Mollick: trójdzielny model Models–Apps–Harnesses; w erze agentowej uprzęż ma większe znaczenie niż sam model AI.
+- [[2026-02-18 Autonomiczny agent, który zmieni performance w 2026 roku]] — Meta Manus: autonomiczny agent w Ads Managerze zmienia specjalistów z wykonawców w strategów — NGO musi być gotowe.
+- [[2026-02-18 Brain Mój drugi mózg AI i wirtualna rada nadzorcza]] — Tomasz Woliński: system Brain (Obsidian + Claude) z 5 wirtualnymi mentorami i retrospektywami HPR jako osobisty OS.
+- [[2026-02-18 CHT s 2026 Policy Forecast]] — Center for Humane Technology: 73 ustawy AI w stanach, moratorium Trumpa i bitwa sądowa o regulacje AI w wyborczym 2026 roku.
+- [[2026-02-18 How to make $8,000+ as a writer]] — PGA: "Irresistible Offer Stack" — framework pozycjonujący ghostwritera jako konsultanta sprzedającego wyniki, nie słowa.
+- [[2026-02-18 Ile kosztuje wdrożenie AI w firmie? Realne ceny (2026)]] — Realne koszty wdrożenia AI w Polsce: trzy poziomy (5–50 tys. PLN), ukryte koszty i ryzyko bez audytu.
+- [[2026-02-18 Jak zarządzać wiedzą w organizacji pozarządowej bezpłatny kurs]] — Sektor 3.0: wiedza jawna vs. ukryta w NGO, bezpłatny kurs e-learningowy zarządzania wiedzą organizacji.
+- [[2026-02-18 Preserving learning in the age of AI shortcuts]] — Harvard: trzy perspektywy na AI w edukacji — narzędzie kariery, ryzyko poznawcze, balans z życiem.
+- [[2026-02-18 The political effects of X s feed algorithm]] — Randomizowany eksperyment: algorytm X przesuwa opinie użytkowników w prawo — efekt persistentny po wyłączeniu.
+- [[2026-02-18 Wyzwanie 1 - Walidacja Produktu Cyfrowego]] — Easytools: walidacja produktu cyfrowego przed budowaniem — go-to-market i adopcja ważniejsze niż szybkość tworzenia.
+- [[2026-02-19 17 Ways Nonprofit Boards Can Support Governance And Risk Oversight]] — Forbes: 17 perspektyw liderów NGO na zarząd jako partnera strategicznego w zarządzaniu ryzykiem i AI.
+- [[2026-02-19 3 prompts to level up your marketing funnel]] — Ryan Carr: trójwarstwowy lejek AI — kalkulator lead magnet, newsletter Claude Projects, posty LinkedIn comment-to-get.
+- [[2026-02-19 Ditch the therapy speak. Start winning and raising money]] — ECDA/Harvey McKinnon: prosty "lepki" komunikat zamiast żargonu akademickiego — fundraising i kampanie dla postępowych NGO.
+- [[2026-02-19 How Adding a One-Time Gift Option to a Slide-Up Promoting Recurring Giving Impacted Transactions]] — NextAfter: dodanie opcji jednorazowej do slide-up cyklicznego zmniejszyło transakcje o 56,4% — mniej opcji, wyższa konwersja.
+- [[2026-02-19 How Meta Campaign Optimization Goals Affect Donor Acquisition Costs]] — NextAfter: optymalizacja kampanii Meta pod darowizny daje 1480% wyższy współczynnik konwersji niż pod email.
+- [[2026-02-19 How UNICEF USA unlocked 26,000 more donations]] — UNICEF USA: automatyzacja porzuconych donacji — email po 60 minutach odzyskał 26 000 darowizn i +3 mln USD.
+- [[2026-02-19 Komunikacja kryzysowa w NGO – jak mówić, gdy dzieje się źle]] — Sektor 3.0: 4 zasady komunikacji kryzysowej NGO — scenariusze przed presją czasu i odróżnianie typów kryzysu.
+- [[2026-02-19 Lista mailowa rośnie, a sprzedaż spada - mierzysz złe rzeczy]] — Flowmail: liczy się zaangażowana baza, nie całkowita — segmentacja do aktywnych 90 dni i AI do researchu odbiorców.
+- [[2026-02-19 Looking for Help with Meta Ban]] — ECF: odblokowanie konta Meta Ads NGO — dedykowany kanał wsparcia dla nonprofitów i precyzja formalna w komunikacji.
+- [[2026-02-19 Od prestiżowych nagród po szkolenia w VeloBanku - zobacz, co robimy w lutym]] — AIDEAS: Generator Pomysłów skaluje model NGO→korporacja; szkolenia AI dla VeloBanku i nagrody branżowe 2026.
+- [[2026-02-19 Recommendations – Campaign Management Platforms]] — ECF: przegląd 18 platform campaigningowych (petycje, email-to-target) i rekomendacja AI-powered becauseai.io dla NGO.
+- [[2026-02-19 Tak się kończy wzięcie udziału w WOŚP!!!111]] — Chrobok: sycophancy AI w diagnozach medycznych i AI Recommendation Poisoning przez ukryte prompty w przyciskach.
+- [[2026-02-19 Virtuous - 2026 Nonprofit AI Adoption Report]] — Virtuous: raport 346 NGO — 92% używa AI, 7% osiąga transformację; bariery governance i pomiar dojrzałości.
+- [[2026-02-19 Why Work With Values Aligned Partners]] — Social Change Nest: współpraca z partnerami o zgodnych wartościach redukuje konflikty, wypalenie i ryzyko reputacyjne NGO.
+- [[2026-02-19 Your copy - The 2026 Nonprofit AI Adoption Report]] — Virtuous: mail dostarczający raport — 92% vs. 7% adopcji AI, wielokanałowa dystrybucja (PDF, audio, wideo, AI).
+- [[2026-02-19 Your Donors ARE Different… When You re Small]] — Better Fundraising: mit "wyjątkowości" darczyńców małych NGO blokuje data-driven fundraising i hamuje wzrost organizacji.
+- [[2026-02-20 🤖 żyjemy w historycznym momencie...]] — "Build vs buy" reset: koszt budowania własnych narzędzi AI spada do zera, SaaS i subskrypcje tracą przewagę.
+- [[2026-02-20 Everything is about to break]] — MacNeil: dezintegracja systemów w 2026 — AI jako narzędzie "identity work" i wzmacniania autentycznego sygnału marki.
+- [[2026-02-20 Koniec technologicznej partyzantki- Zobacz ten raport-]] — KPMG/Microsoft: polskie firmy inwestują w AI bez strategii — dojrzałość strategiczna spadła do 2,9/10.
+- [[2026-02-20 The business advantage of strong AI governance]] — WEF: AI governance jako fundament innowacji — mniej niż 1% organizacji wdrożyło odpowiedzialne praktyki AI.
+- [[2026-02-20 We Are Fast. We Are Qualitative. And We ve Never Had an Office.]] — SidLabs: manifest async-first — asynchroniczność, dokumentacja i AI jako filary zdalnej organizacji bez biura.
+- [[2026-02-20 Why Most Nonprofits Arent Using AI (Yet)]] — Gatmaitan: ostrożna adopcja AI przez NGO to strategia — 92% darczyńców wymaga transparentności, AI rozwiązuje "Tuesday problems".
+- [[2026-02-21 93% deklaruje, że używa AI. W rekrutacji widzę ~20%]] — Woliński: przepaść między deklarowaną a realną adopcją AI — szkolenia dają +5,9 pp produktywności więcej niż technologia.
+- [[2026-02-22 500 000 zł oszczędności i własny system AI w 8 tygodni - case study Answear.com]] — Answear.com: własny system AI w 8 tygodni, 500 000 PLN oszczędności — case study niezależności od dostawców.
+- [[2026-02-22 8 Ways Online Registration Drives Better Golf Fundraising Results]] — GolfStatus: cyfrowa rejestracja uczestników turniejów golfowych NGO — automatyzacja płatności, centralizacja danych.
+- [[2026-02-23 Are You a Renter or an Owner]] — Raffi Krikorian (Mozilla CTO): 3 pytania oceniające tech w NGO i zasada "build for the margins" dla liderów.
+- [[2026-02-23 Budowanie bazy mailowej dzięki webinarom]] — Ecomail: webinary jako lead magnet z FOMO — integracja API z mailingiem i cykl lead nurturing po wydarzeniu.
+- [[2026-02-23 ChatGPT just broke its biggest promise (Feb News Roundup)]] — Diggity: ChatGPT zmienił zasady, Google ujawnił algorytm rankingowy, analiza 2M sesji LLM — które AI dają ruch.
+- [[2026-02-23 Day 1 - Welcome to Claude—Your Shortcut to Smarter Work]] — Wprowadzenie do Claude dla użytkowników ChatGPT: 200k kontekstu, modele, ceny Free/Pro/Team i kluczowe funkcje.
+- [[2026-02-24 AI and Civil Society]] — ECF: "AI's War on Truth" i potrzeba regulacji AI przez NGO; masterclass AI & Campaigning dla kampanierów europejskich.
+- [[2026-02-24 BIMI - Why your logo belongs in the inbox]] — BIMI: logo organizacji przy emailu — konfiguracja, Common Mark Certificate, dane o 10–39% wyższym zaangażowaniu.
+- [[2026-02-24 BIMI Why your logo belongs in the inbox]] — Sara Cederberg: BIMI krok po kroku dla NGO — CMC zamiast znaku towarowego, wymagania DMARC, koszt ~1100 USD/rok.
+- [[2026-02-24 Day 2 - Writing Prompts for Best Results]] — Skuteczne promptowanie Claude: struktura XML, meta-prompting w Anthropic Console i trzy przykłady zastosowań biznesowych.
+- [[2026-02-24 Does Making the Last Name Field Optional Increase Email Sign-Ups]] — NextAfter: test A/B pola "Nazwisko" w formularzu NGO — niejednoznaczny wynik, brak statystycznej ważności.
+- [[2026-02-24 Email Deliverability Trends 2026 Expert Insights and Predictions]] — 12 ekspertów: 10 trendów deliverability 2026 — AI filtruje skrzynki, zaangażowanie zastępuje metryki techniczne.
+- [[2026-02-24 Jak dobrze wyjść z mediów społecznościowych]] — Śliwowski: porzucanie social mediów przez NGO — pułapka działania zbiorowego i migracja na newslettery i Fediverse.
+- [[2026-02-24 Jedna rzecz, która zdecyduje, czy Twoja NGO zbuduje przewidywalne przychody]] — Instytut Fundraisingu: system fundraisingowy zamiast reaktywnych zbiórek — case study fundacji 1 mln PLN.
+- [[2026-02-24 Strach przed AI = strach przed zmianą]] — wPraktyce.AI: psychologiczna bariera wdrożenia AI — nie technika, lecz strach przed zmianą blokuje organizacje.
+- [[2026-02-24 Wielki reset AI 2026. Spokojnie, świat Ci nie odjechał]] — Microsoft: 84% ludzi nie używa AI — jesteśmy w 2005 roku internetu, przewaga przez powtarzalne zastosowanie AI.
+- [[2026-02-25 60 minut vs 6 tygodni – podsumowanie AI Product Sprint na żywo]] — AI Product Sprint: pełny cykl discovery–prototypowanie w 60 minut — NotebookLM, Lovable, PostHog i rola "Product Buildera".
+- [[2026-02-25 Attention everyone! How to cut through with your communication]] — ECDA: narzędzie Imprion do analityki treści NGO na social media — system punktacji zasięgu i identyfikacja wzorców.
+- [[2026-02-25 Creating Depth in Your Nonprofit Impact Reporting]] — Schappert Howden: trzy poziomy impactu NGO — outputs, outcomes, Impact — raportowanie zmiany, nie aktywności.
+- [[2026-02-25 Day 3 - Start Building Apps, Charts, and Tools with Artifacts]] — Claude Artifacts: jak budować interaktywne aplikacje, wizualizacje i narzędzia HTML bez znajomości kodu.
+- [[2026-02-25 How to set up Claude Cowork the right way]] — Nav Toor: 5 funkcji Claude Cowork i konfiguracja agenta w folderach — zmiana myślenia z promptów na pliki kontekstu.
+- [[2026-02-26 Copyright training]] — British Library i Naomi Korn Associates: rekomendowane szkolenia z praw autorskich dla NGO, bibliotek i archiwów.
+- [[2026-02-26 Day 4 - Turn Your Documents into Claude's Database]] — Claude Projects eliminuje halucynacje AI przez załadowanie dokumentów organizacji — jakość rośnie o 40%.
+- [[2026-02-26 How Nonprofits Can Balance Technology Adoption With Donor Trust]] — 20 liderów NGO: technologia musi służyć misji i wzmacniać relację z darczyńcą, nie ją zastępować.
+- [[2026-02-26 Jak poprawić efekty wdrażania marketingu-]] — Kłosiński: efekt "dziurawego wiadra" — jakość materiałów ważniejsza niż zasięg; audyt zasobów przed kampanią.
+- [[2026-02-26 Jest już ciemno! Ale...]] — Chrobok: Cellebrite w rękach reżimów i dlaczego LLM generuje słabe hasła (20–27 bitów entropii zamiast 98).
+- [[2026-02-26 The tests that transformed a welcome series]] — St Mungo's: 17 miesięcy testów A/B welcome series — otwarcia 32→52%, przychody +180%.
+- [[2026-02-26 This prompt interviews you, then builds your lead magnet]] — Ryan Carr: wizard prompt budujący interaktywny lead magnet HTML w 10–15 minut przez ustrukturyzowany wywiad.
+- [[2026-02-26 Wyzwanie 2 - Walidacja produktu cyfrowego - praktyczne wskazówki]] — Framework DECIDE: walidacja produktu cyfrowego bez dużego budżetu — tryby odkrywania i sprawdzania.
+- [[2026-02-26 Zarabiaj na swojej wiedzy. Kolejne 7 wskazówek jak budować markę eksperta na LinkedIn]] — Jaczewski: zasada 95/5, Liczba Dunbara i 7-11-4 Priestleya — budowanie "ciepłych kontaktów" na LinkedIn.
+- [[2026-02-27 #130 Jak sprawić, żeby Instagram Twojej marki rósł w followy]] — Beeffective: rolki z hookiem w 3–5 sekundach i karuzele jako najskuteczniejsze formaty wzrostu na Instagramie.
+- [[2026-02-27 Day 5 - Build Your First Personal Software with Claude—No Experience, No Problem]] — Allie Miller: tworzenie aplikacji z Claude bez kodowania w 10 minut — Artifacts, Projects i Lovable.
+- [[2026-02-27 How Smaller Nonprofits Can Use AI to Raise More Major Gifts]] — Blackbaud: ML identyfikuje major donors w małych NGO — zarządzanie portfolio i targeting kwoty prośby.
+- [[2026-02-27 How to Build Your AI Second Brain Using Obsidian + Claude Code]] — Noah Vincent: setup Obsidian + Claude Code jako AI second brain — CLAUDE.md i memory.md dla ciągłości sesji.
+- [[2026-02-27 Nagranie konferencji AI_Managers już dostępne - kluczowe wnioski]] — AI_Managers 2026: 7% organizacji skaluje AI, 67% w "dolinie śmierci" — programy ambasadorskie zamiast zakazów.
+- [[2026-02-28 14 Job Boards for Nonprofit Professionals Worldwide]] — Mansfield: 14 portali z ofertami pracy dla sektora NGO — USA i globalne (Idealist, Devex, CharityJob).
+- [[2026-02-28 Day 6 - You're Just Getting Started—Take Action to Really Become AI-First]] — Allie Miller: podsumowanie kursu AI Fast Track i 4 poziomy AI-first Academy — podstawy po agentic workflows.
+- [[2026-02-28 The Beginners Step-by-Step Guide to Claude Cowork]] — Przewodnik po Claude Cowork: agent autonomicznie wykonujący wieloetapowe zadania na plikach użytkownika.
+- [[2026-03-01 🤖 twórz niesamowite strony i designy!]] — Google Stitch + Claude Code: redesign UI w jednej sesji — pipeline od screenshota do działającej aplikacji, paradoks AI i wypalenie.
+- [[2026-03-01 Google AI Overviews Surges Across 9 Industries]] — BrightEdge: AIO wzrosło 58% rok do roku — edukacja 18→83%, tylko 17% źródeł AIO pokrywa się z top 10 organicznych.
+- [[2026-03-02 Beyond the ask - Fundraising as building donor trust]] — Candid: fundraising zaczyna i kończy się na zaufaniu — cztery filary: programy, finanse, liderzy, zarząd.
+- [[2026-03-02 Czy to koniec ery klepania kodu-]] — Claude 4.6 tworzy "zespół 10x", agenci na Mac Mini, prompt injection w artykułach i stuletnie obligacje Alphabet.
+- [[2026-03-02 Design emails people love to get]] — Community Mindfulness Project: wzorzec autentycznego emaila NGO — ciepły głos, ciekawostki i pytania zamiast masowego broadcastu.
+- [[2026-03-02 Fundraising to sztuka zapraszania ludzi]] — Pomagam.pl: fundraising jako zaproszenie do współtworzenia zmiany — 40% Polaków gotowych dawać więcej, jeśli poprosić.
+- [[2026-03-02 PJMF Learning Hub - AI for Nonprofits Resource Platform]] — McGovern Foundation: platforma edukacyjna AI dla NGO — model czterech faz "AI Journey" i zasoby globalne.
+- [[2026-03-02 To nie brak wiedzy spowalnia Twój fundraising]] — Martyna: luka w NGO to nie brak wiedzy narzędziowej, lecz brak strategicznego wyboru priorytetu działania.
+- [[2026-03-03 A simple testing approach for overwhelmed teams]] — Jeden test A/B na kampanię NGO — etykieta "Most Popular" +94% przychodów, muzeum 390% więcej na wysyłkę.
+- [[2026-03-03 A Student's Guide to Not Writing with ChatGPT]] — Perret: ChatGPT produkuje plausybilne zdania nie fakty — krytyka etyczna, kognitywna i środowiskowa AI w edukacji.
+- [[2026-03-03 Handlowiec traci 50% czasu na adminkę]] — wPraktyce.AI: 8 obszarów automatyzacji sprzedaży B2B — enrichment, kwalifikacja, oferty, umowy i fakturowanie.
+- [[2026-03-03 How to charge $8,000-month as a ghostwriter]] — PGA: niszowe pozycjonowanie i selekcja klientów z ROI zamiast poszerzania oferty — od 2k do 30k$/miesiąc.
+- [[2026-03-03 How to debug a team that isn t working the Waterline Model]] — Molly Graham: Waterline Model — diagnoza problemów zespołu od struktury do interpersonalnej, "snorkel before you scuba".
+- [[2026-03-03 Improving skill-creator Test, measure, and refine Agent Skills]] — Anthropic: skill-creator z evals i benchmarkami — capability uplift vs. encoded preference jako dwa typy skilli.
+- [[2026-03-03 Jak zmienia się SEO i link building w erze AI]] — WhitePress: SEO to "Search Everywhere Optimization" — GEO dla LLM, digital PR i ChatGPT 5,4 mld wizyt/miesiąc.
+- [[2026-03-03 Obsidian PKM Guide How I Use AI to Build a LYT Note-Taking System]] — WenHao Yu: LYT + MOC dają AI natychmiastowy kontekst — z Claude Code 5+ notatek dziennie zamiast jednej tygodniowo.
+- [[2026-03-03 Przyszłość technologii agentowej - Czy czekają nas media społecznościowe dla agentów AI]] — Ministerstwo Cyfryzacji: Moltbook 1,5 mln botów od 17k użytkowników i 400 złośliwych pluginów — ryzyko vibe codingu.
+- [[2026-03-03 The AI Job Threat - What to Know and What to Do Right Now]] — Allie Miller: Citrini (recesja 2028) vs. Citadel (krzywa S) — "self-embedding AI" jako pomijany czynnik rynku pracy.
+- [[2026-03-03 The Leadership Brief 03Mar2026 - AI updates by Marcelina Dutkiewicz]] — Dutkiewicz: AI nie brzmi autentycznie bez wzorców głosu — champion AI bez ról systemowych to porażka strategii.
+- [[2026-03-03 These Two Reports Are Dividing Wall Street on AI]] — Allie Miller: Citrini (pesymistyczny) vs. Citadel (optymistyczny) o wpływie AI na rynek pracy — "self-embedding AI" rozbija oba.
+- [[2026-03-04 Czy publiczne zaangażowanie przechodzi do lamusa]] — ProLetter: media społecznościowe przesuwają się z publicznych interakcji do DM — Threads i strategia DM-first.
+- [[2026-03-04 Defeating Nondeterminism in LLM Inference]] — Thinking Machines Lab: atomic adds w GPU jako źródło niedeterminizmu LLM — batch-invariant kernels jako rozwiązanie.
+- [[2026-03-04 Increasing Your Donation Page Conversion Rate 9 Smart Tips]] — Soapbox Engage: 9 technik optymalizacji strony donacji — mobile (8% konwersji), PayPal i kampanijne landing page.
+- [[2026-03-04 Nonprofit Landing Page Best Practices A Comprehensive Guide]] — Trajectory Web Design: landing page NGO skupiony na jednym celu — konwersja 12%, po optymalizacji do 20%.
+- [[2026-03-04 Preference Centres Are Dead — And It s Time We Stop Pretending They Work]] — Centra preferencji email rozwiązują problem marketera, nie czytelnika — segmentacja behawioralna zamiast deklaratywnej.
+- [[2026-03-04 Smart AI Model Boosts Donation Amounts by 4.2% Growth AB Tests]] — Fundraise Up: AI personalizuje kwoty darowizn w czasie rzeczywistym — +4,2% średniej darowizny (p=0.019).
+- [[2026-03-04 Trendy w fundraisingu 2026 - Z nami zbierzesz więcej]] — Pomagam.pl: "permacrisis" i Compassion Fatigue — autentyczność i usuwanie barier technologicznych w fundraisingu 2026.
+- [[2026-03-04 Upgrade Links Boost Recurring Donations and Cover Fees Easily - Fundraise Up]] — Fundraise Up: spersonalizowane linki zwiększające stałą darowiznę bez ponownego wpisywania danych płatności.
+- [[2026-03-04 You're In! Let's Build Your List From Scratch Starting Now]] — Jenny Kutcher: 5-lekcyjny kurs budowania listy emailowej od zera — lead magnet, Flodesk i 30-dniowy plan treści.
+- [[2026-03-05 Data is power. Don't waste yours]] — ECDA: trzy poziomy pracy z danymi NGO — raportowanie wyników, moderacja TrollWall AI i strategia wyborcza.
+- [[2026-03-05 Do this ONE thing to maximize your email course RESULTS!]] — Jenna Kutcher: zasada "implement as you go" — kursy działają tylko przy natychmiastowym wdrażaniu każdej lekcji.
+- [[2026-03-05 How to protect your charity s forms from spam]] — More Onion: wielowarstwowa ochrona formularzy NGO przed spamem — ochrona sesyjna, honeypoty i wielowarstwowe bariery.
+- [[2026-03-05 I watched an AI war simulation, and here's what I learned]] — MacNeil: symulacja dyplomatyczna LLM w Europie 1901 — Claude wybrał pokój, Anthropic odmówił zastosowań wojskowych.

@@ -1050,3 +1050,53 @@
 - [[2025-11-20 3 prompts for trying out Gemini 3]] — Trzy prompty vibe-codingowe w Gemini 3: interaktywny lead magnet, dashboard CSV i generatywna gra artystyczna.
 - [[2025-11-20 AI Weekly #22]] — Wojewodzic: Google edukuje dzieci na Gemini, cyberataki AI obniżają PKB UK i 9 kluczowych sygnałów tygodnia.
 - [[2025-11-20 Czy AI ma wiedzę Twojej babci]] — Chrobok: knowledge collapse — LLM wzmacniają dominujące dane kosztem wiedzy niszowej, lokalnej i ustnie przekazywanej.
+- [[2025-11-20 Holiday Email Deliverability 5 Warning Signs & How to Fix Them]] — 5 sygnałów ostrzegawczych dostarczalności emaili w Q4: reputacja nadawcy buduje się przez cały rok.
+- [[2025-11-20 How Equimundo got 31% more clicks with a smaller list]] — Equimundo: lista mniejsza o 50%, CTR wyższy o 31,3% — reset KPI z liczby subskrybentów na działania odbiorców.
+- [[2025-11-20 Kasumi Quinlan Is Using AI to Reimagine Food Security]] — Lemontree: AI rekomendujące zasoby żywnościowe dla 21K rodzin dziennie przez SMS bez specjalnych aplikacji.
+- [[2025-11-20 Osiągnęłam sukces, bo nigdy więcej nie chcę poczuć…]] — Pawłowska: motywacja "od" (ucieczka przed bólem) vs. "do" (cel aspiracyjny) jako fundamenty trwałego biznesu.
+- [[2025-11-20 Planning for a Stronger Fundraising Year in 2026]] — 4 obszary planowania fundraisingu: stewardship przed apelami, rekalibracja danych, wczesne planowanie i własny rozwój.
+- [[2025-11-21 🤖 4 świetne funkcjonalności Claude Code]] — Szewczyk: Skills, Custom Commands, Sub-agents i MCP jako kompletny framework pracy konsultanta bez programowania.
+- [[2025-11-21 (HOT TIP) When to send your fundraising emails]] — Jess Campbell: piątek to optymalny dzień wysyłki apeli EOY — 90% przewaga nad czwartkiem wg danych 2022.
+- [[2025-11-21 AI Will Replace Nonprofit, Advocacy, Labor, and Campaigning Jobs — And That s Not a Tech Problem. It s a Power Problem]] — Caldana: AI wypiera "wejściowe" role NGO bez sprawiedliwego podziału oszczędności — problem władzy, nie technologii.
+- [[2025-11-21 Czy ADHD zjadło już twój mózg i biznes]] — DWA SŁOWA: "biznesowe ADHD" to głównie brak systemu — automatyzacja procesów eliminuje objawy reaktywnego działania.
+- [[2025-11-21 Inside the Instagram Machine That Got Zohran Mamdani Elected]] — ManyChat i filozofia "neighborhood bar": 77K wiadomości, 10K emaili za 318 dolarów przez automatyczne DM.
+- [[2025-11-21 Jak reklamować się na Facebooku i Instagramie w organizacji pozarządowej Mały budżet, duży efekt]] — Sektor 3.0: Ads Manager zamiast "Promuj post" — pełny przewodnik po Meta Ads dla NGO z małym budżetem.
+- [[2025-11-21 Run this million-dollar audit for your site today]] — Matt Diggity: 10-krokowy audyt SEO z monitorowaniem cytowań marki w AI jako nowy wymiar optymalizacji.
+- [[2025-11-23 A guide to difficult conversations, building high-trust teams, and designing a life you love]] — Rachel Lockett: lider zadający pytania zamiast dawania odpowiedzi; cel konfliktu to wzajemne zrozumienie.
+- [[2025-11-23 Litigation as a campaigning tactic]] — ECF: strategiczne litygowanie (ClientEarth, Good Law Project) i crowdfunding spraw sądowych jako taktyki kampanijne.
+- [[2025-11-24 NextAfter Minute 20 The Slide-Up Test That Boosted Monthly Giving by 122.7%]] — Slide-up w połowie strony zwiększył konwersję na cykliczne darowizny o 122,7% vs. sticky bar u góry.
+- [[2025-11-24 Wykorzystaliśmy naszą formułę do budowania produktów w praktyce - AI Product Heroes 2.0]] — AI Product Heroes: NPS 80, 610 uczestników; AI skrócił cały cykl tworzenia kursu do 3 miesięcy.
+- [[2025-11-25 AI s War On Truth chris rose]] — Chris Rose: 250 mln fałszywych odpowiedzi ChatGPT dziennie — bezprecedensowe zagrożenie dla prawdy wymagające kampanii NGO.
+- [[2025-11-25 Content w dobie AI - strategie i case Big Star]] — Big Star: treści przejrzyste strukturalnie sprawiają, że LLM wskazują markę jako eksperckie źródło — GEO w praktyce.
+- [[2025-11-25 Fundraisingowy trik, o którym nikt nie mówi]] — Instytut Fundraisingu: 3-krokowy audit Biblioteki Materiałów Facebook do kreacji świątecznych w 15 minut.
+- [[2025-11-25 Giving Tuesday 2025 - What to watch]] — Civic Shout: 5 trendów GT 2025 — mniej darczyńców, wyższe kwoty, dostarczalność emaili jako nowa zmienna decydująca.
+- [[2025-11-25 Giving Tuesday 2025 What to watch]] — Sara Cederberg: wymogi dostarczalności Google jako kluczowy czynnik GT 2025; traktuj GT jako moment odkrycia, nie przychodu.
+- [[2025-11-25 Minister bez twarzy. Polityczna fikcja z AI w roli głównej]] — Diella w Albanii: AI jako minister — case study zagrożeń algorithmic governance i wymogi AI Act dla ludzkich nadzorców.
+- [[2025-11-25 Mój aktualny stack AI - Gotowy na 2026]] — Burnejko: stack 2026 — Gemini 3 Pro do asystentów, Claude Code do kodowania; wizja autonomicznych asystentów w 20 min/dzień.
+- [[2025-11-25 Nonprofit Financial Blind Spots 7 Risks to Avoid]] — 7 ślepych plamek finansowych NGO: brak dashboardów i koncentracja >40% przychodów w jednym źródle jako główne ryzyka.
+- [[2025-11-25 Reverse (clean) graffiti]] — ECF: reverse graffiti i farba kredowa jako nieinwazyjne narzędzia akcji bezpośrednich w kampaniach NGO.
+- [[2025-11-26 I znowu od początku Serio Dlaczego warto świadomie zarządzać procesami w NGO]] — Sektor 3.0: mapowanie procesów NGO jako fundament automatyzacji — wiedza "mieszka w głowach", nie w systemach.
+- [[2025-11-26 My No Fluff Fundraising Advice]] — Jess Campbell: 15+ emaili w EOY, tematy budzące ciekawość i transakcyjne nastawienie grudniowych darczyńców jako klucze kampanii.
+- [[2025-11-26 Nowa praca w erze AI kiedy technologia wspiera, a nie zastępuje rozum]] — Sektor 3.0: mapowanie argumentacji jako antidotum na sycophancy modeli AI i erozję zbiorowej mądrości zespołu.
+- [[2025-11-26 Pseudonimy na FB – swoboda myśli czy furtka do hejtu?]] — Meta wprowadza pseudonimy w Grupach Facebook — dylemat anonimowości vs. odpowiedzialności dla moderatorów NGO.
+- [[2025-11-26 TechLider #1 - 8 filarów skutecznego wdrożenia Automatyzacji i AI]] — 8 kroków wdrożenia AI: audyt procesów przed automatyzacją chroni przed "zautomatyzowanym chaosem"; case MOTO46.
+- [[2025-11-26 The Ultimate Guide to Context Engineering for PMs]] — Context engineering: warstwowy kontekst (wątek → CRM → ton marki) transformuje output LLM od ogólnikowego do gotowego.
+- [[2025-11-27 A 2026 wake-up call for your business]] — MacNeil: okno na naukę AI się zamyka; peak social media 2022; trick "reasoning chain" pogłębia odpowiedzi modelu.
+- [[2025-11-27 AI może nauczyć nas pokory]] — Chrobok: Project CETI i AI dekodujące mowę wielorybów; reward hacking jako ostrzeżenie przed optymalizacją nagrody zamiast wartości.
+- [[2025-11-27 Community leadership is confusing What is the middle way between centralized and decentralized?]] — Pfortmüller: "droga środka" w przywództwie społeczności — między centralizacją (szybkość) a decentralizacją (ko-kreacja).
+- [[2025-11-27 Create ads with Nano Banana Pro]] — Ryan Carr: workflow Nano Banana Pro (Gemini) — meta-prompt w Claude → prompty → kreacje z czytelnym tekstem od razu.
+- [[2025-11-27 Shaking up politics from within]] — ECDA: Brand New Bundestag jako model "odnawiania demokracji od wewnątrz" przez wprowadzanie niedoreprezentowanych kandydatów.
+- [[2025-11-27 The Choice Between Transformational Tech and Performative Optimization]] — Tectonica: LLM optymalizowane na wygrywanie produkują 22% więcej dezinformacji — wybór narzędzi AI to decyzja polityczna.
+- [[2025-11-27 TON - Performative LLM Optimization Dangers, AI for Persuasion]] — Tectonica TON: LLM pod presją rynkową produkują do 188% więcej dezinformacji; megasystem problem Schneider; model Mamdaniego.
+- [[2025-11-27 Zjedź w prawo - tak reaguje moje dziecko]] — DWA SŁOWA: NGO potrzebuje klarownego pozycjonowania ("zapach") i drogi dojazdowej do klientów, nie tylko pięknej strony.
+- [[2025-11-28 🤖 mój setup 2025 - czym nagrywam i pracuję]] — Szewczyk: "klątwa wiedzy" w szkoleniach AI; paradoks Pew Research — młodzi boją się AI mimo że go używają.
+- [[2025-11-28 The Art of Paradigm Shift]] — Wander: zmiana paradygmatu (Meadows) jako najsilniejsza dźwignia systemowa; ćwiczenie "podróżnika w czasie" w strategii kampanii.
+- [[2025-11-29 Diversity Isn t a Checkbox. It s a Campaign Strategy That s Essential for the Industry s Future.]] — Różnorodność w sztabach kampanijnych jako strategia wygrywania — trzy filary: rekrutacja, szkolenia i empowerment.
+- [[2025-11-30 Beyond Credibility The Effects of Different Forms of Visual Disinformation - Teresa Weikmann, Jana Laura Egelhofer, Sophie Lecheler, 2025]] — Badanie akademickie porównujące skutki deepfakes, manipulowanych zdjęć i fałszywych cytatów na wiarygodność odbiorców.
+- [[2025-12-01 5 donor touchpoints you can do in under 2 minutes]] — Bearbower: 5 mikrokontaktów z darczyńcami poniżej 2 minut — autentyczna regularna mikrokomunikacja bez wielkich gestów.
+- [[2025-12-01 Black Friday 2025 - strategie e-mailowe które działały]] — Ecomail: podsumowanie BF 2025 po wysyłce — framework BF (prekampanie, VIP, urgency, prostota) transferowalny do NGO.
+- [[2025-12-01 How to turn your impact statement into a fundraising offer]] — Aragon/Build Good: "fundraising offer" to konkretna obietnica dla darczyńcy, nie opis działalności — 3 kroki tworzenia.
+- [[2025-12-01 Jak wyjść z Dnia Świra]] — DWA SŁOWA: brak klientów/darczyńców to problem pozycjonowania i drogi dojazdowej, nie braku strony czy social mediów.
+- [[2025-12-01 Końcówka roku - Najlepszy moment na rozwój kompetencji]] — Workai: ewolucja kompetencji komunikatorów (analityka + AI) i funkcja AI wyjaśniającej żargon w intraneecie NGO.
+- [[2025-12-01 Listopad w e-mailingu - podsumowanie Black Week 2025]] — Ecomail: 115,5 mln maili przez Black Week 2025 (+24% r/r); kampanie wizerunkowe NGO wyróżniają się w przeładowanej skrzynce.
+- [[2025-12-02 65% vs 52% The real Giving Tuesday story]] — Civic Shout: 65% darczyńców GT wraca vs. 52% ogółem — GT to otwarcie relacji, nie finał; trzy filary retencji po Giving Tuesday.

@@ -1,10 +1,14 @@
 ---
-type: "Web"
-authors: "[[Partisan]]"
-url: "https://hub.partisan.community/m/news/governance-2.0-how-ai-is-reprogramming-the-state/932bd464-6b28-406c-bdca-6c01bd3e8ba7"
-published: 2026-05-14
-created: 2026-05-19
+type: Web
+authors: '[[Partisan]]'
+url: >-
+  https://hub.partisan.community/m/news/governance-2.0-how-ai-is-reprogramming-the-state/932bd464-6b28-406c-bdca-6c01bd3e8ba7
+published: 2026-05-14T00:00:00.000Z
+created: 2026-05-19T00:00:00.000Z
 tags:
+  - strategia-AI
+  - digital-campaigning
+  - organizacje-społeczne
 ---
 
 

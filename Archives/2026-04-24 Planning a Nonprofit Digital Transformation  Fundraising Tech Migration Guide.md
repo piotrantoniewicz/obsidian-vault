@@ -1,10 +1,14 @@
 ---
-type: "Web"
-authors: "[[Engaging Networks]]"
-url: "https://www.engagingnetworks.net/blog/nonprofit-digital-transformation-tech-migration-guide/?utm_campaign=136965333-The%20Engager%20%7C%20Engaging%20Networks%20Monthly%20Newsletter&utm_medium=email&_hsenc=p2ANqtz--NfQVGXwGLcPKPUn3uaV4g4YQS3_QTzj7yllKP09JNbHudWeNnc5iwHMakf0sfwa0uFIwlod4M4to5kmCoSMJ2HTHlSJ-Konv5Nwtk3sAJMDpSzrY&_hsmi=136422253&utm_content=136422457&utm_source=hs_email"
-published: 2026-04-24
-created: 2026-05-22
+type: Web
+authors: '[[Engaging Networks]]'
+url: >-
+  https://www.engagingnetworks.net/blog/nonprofit-digital-transformation-tech-migration-guide/?utm_campaign=136965333-The%20Engager%20%7C%20Engaging%20Networks%20Monthly%20Newsletter&utm_medium=email&_hsenc=p2ANqtz--NfQVGXwGLcPKPUn3uaV4g4YQS3_QTzj7yllKP09JNbHudWeNnc5iwHMakf0sfwa0uFIwlod4M4to5kmCoSMJ2HTHlSJ-Konv5Nwtk3sAJMDpSzrY&_hsmi=136422253&utm_content=136422457&utm_source=hs_email
+published: 2026-04-24T00:00:00.000Z
+created: 2026-05-22T00:00:00.000Z
 tags:
+  - fundraising
+  - organizacje-społeczne
+  - strategia-organizacji
 ---
 
 

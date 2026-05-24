@@ -1,10 +1,13 @@
 ---
-type: "Web"
-authors: "[[Anthropic]]"
-url: "https://claude.com/blog/using-claude-code-the-unreasonable-effectiveness-of-html"
-published: 2000-05-20
-created: 2026-05-21
+type: Web
+authors: '[[Anthropic]]'
+url: >-
+  https://claude.com/blog/using-claude-code-the-unreasonable-effectiveness-of-html
+published: 2000-05-20T00:00:00.000Z
+created: 2026-05-21T00:00:00.000Z
 tags:
+  - narzędzia-AI
+  - strategia-AI
 ---
 
 

@@ -1,10 +1,13 @@
 ---
-type: "Web"
-authors: "[[Katarzyna Szczesna]]"
-url: "https://behavioralinsight.substack.com/p/the-cognitive-cost-nobody-put-in?utm_source=substack&utm_medium=email&utm_campaign=email-restack-comment&r=4zdnrk&triedRedirect=true"
-published: 2026-05-20
-created: 2026-05-20
+type: Web
+authors: '[[Katarzyna Szczesna]]'
+url: >-
+  https://behavioralinsight.substack.com/p/the-cognitive-cost-nobody-put-in?utm_source=substack&utm_medium=email&utm_campaign=email-restack-comment&r=4zdnrk&triedRedirect=true
+published: 2026-05-20T00:00:00.000Z
+created: 2026-05-20T00:00:00.000Z
 tags:
+  - narzędzia-AI
+  - trendy-AI
 ---
 
 

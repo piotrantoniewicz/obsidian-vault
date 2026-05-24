@@ -1,10 +1,14 @@
 ---
-type: "Web"
-authors: "[[Beth O'Malley]]"
-url: "https://weareastral.co.uk/thevault/the-three-new-email-metrics-for-2026?utm_medium=email&_hsenc=p2ANqtz--3RwIVvrI5jGFoSQj0GF9pQVtTyGUvFcKmHyFN79tqgAcOUx9WNMWCAx96V6qxUzTi3hC5q4DadvTQBN7wNfvxV0scbhHyutZ8N5aDymmgUtZ57n0&_hsmi=135789897&utm_content=135788518&utm_source=hs_email"
-published: 2026-05-13
-created: 2026-05-18
+type: Web
+authors: '[[Beth O''Malley]]'
+url: >-
+  https://weareastral.co.uk/thevault/the-three-new-email-metrics-for-2026?utm_medium=email&_hsenc=p2ANqtz--3RwIVvrI5jGFoSQj0GF9pQVtTyGUvFcKmHyFN79tqgAcOUx9WNMWCAx96V6qxUzTi3hC5q4DadvTQBN7wNfvxV0scbhHyutZ8N5aDymmgUtZ57n0&_hsmi=135789897&utm_content=135788518&utm_source=hs_email
+published: 2026-05-13T00:00:00.000Z
+created: 2026-05-18T00:00:00.000Z
 tags:
+  - fundraising
+  - digital-campaigning
+  - content-marketing
 ---
 
 

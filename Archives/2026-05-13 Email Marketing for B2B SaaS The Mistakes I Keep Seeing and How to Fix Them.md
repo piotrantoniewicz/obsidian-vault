@@ -1,10 +1,14 @@
 ---
-type: "Web"
-authors: "[[Beth O'Malley]]"
-url: "https://weareastral.co.uk/thevault/email-marketing-for-b2b-saas-the-mistakes-i-keep-seeing-and-how-to-fix-them?utm_medium=email&_hsenc=p2ANqtz-8h-1Vv4ez-aWwYZ9mNf3oiSWTA9wu9ku9HeVDmtCqS6SouT5junaAp7OyYXlKr6S4B7nmmVy5jENoZjOJqxDuzEKd_WLDo2fFvmvXtp8VxUA1aThU&_hsmi=135789897&utm_content=135788518&utm_source=hs_email"
-published: 2026-05-13
-created: 2026-05-18
+type: Web
+authors: '[[Beth O''Malley]]'
+url: >-
+  https://weareastral.co.uk/thevault/email-marketing-for-b2b-saas-the-mistakes-i-keep-seeing-and-how-to-fix-them?utm_medium=email&_hsenc=p2ANqtz-8h-1Vv4ez-aWwYZ9mNf3oiSWTA9wu9ku9HeVDmtCqS6SouT5junaAp7OyYXlKr6S4B7nmmVy5jENoZjOJqxDuzEKd_WLDo2fFvmvXtp8VxUA1aThU&_hsmi=135789897&utm_content=135788518&utm_source=hs_email
+published: 2026-05-13T00:00:00.000Z
+created: 2026-05-18T00:00:00.000Z
 tags:
+  - fundraising
+  - content-marketing
+  - digital-campaigning
 ---
 
 

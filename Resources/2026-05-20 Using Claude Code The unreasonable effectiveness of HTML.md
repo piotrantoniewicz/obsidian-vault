@@ -1,14 +1,15 @@
 ---
 categories: Clippings
-authors: ["[[Thariq Shihipar]]"]
+authors:
+  - "[[Thariq Shihipar]]"
 url: https://claude.com/blog/using-claude-code-the-unreasonable-effectiveness-of-html
 source: "[[Archives/2000-05-20 Using Claude Code The unreasonable effectiveness of HTML|2000-05-20 Using Claude Code The unreasonable effectiveness of HTML]]"
-published: 2000-05-20
+published: 2026-05-20
 created: 2026-05-21
 relevance: średnia
 tags:
-  - "narzędzia-AI"
-  - "strategia-AI"
+  - narzędzia-AI
+  - strategia-AI
 ---
 
 # Using Claude Code: The unreasonable effectiveness of HTML

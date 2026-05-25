@@ -1,8 +1,6 @@
 ---
 type: Web
-authors:
-  - "[[Hyland]]"
-  - "[[K (pgt)]]"
+authors: "[[Jim Fruchterman]]"
 url: https://blogs.lse.ac.uk/socialbusinesshub/2025/04/28/glorious-rags-a-safer-path-to-using-ai-in-the-social-sector/?utm_source=substack&utm_medium=email
 published: 2025-04-28T00:00:00.000Z
 created: 2026-03-02T00:00:00.000Z

@@ -2,7 +2,7 @@
 categories: Clippings
 authors: "[[Out in the Boons]]"
 url: https://www.outintheboons.me/blog/2022/nonprofit-tech-tools
-source: "[[2022-03-03 2022 Best Nonprofit Tech Tools A Roundup — Out in the Boons]]"
+source: "[[Resources/2022-03-03 2022 Best Nonprofit Tech Tools A Roundup - Out in the Boons|2022-03-03 2022 Best Nonprofit Tech Tools A Roundup - Out in the Boons]]"
 published: 2022-03-03
 created: 2026-03-13
 relevance: średnia

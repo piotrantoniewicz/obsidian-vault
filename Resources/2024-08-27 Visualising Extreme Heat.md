@@ -2,9 +2,8 @@
 categories: Clippings
 authors:
   - "[[Venn Creative]]"
-  - "[[Climate Outreach]]"
 url: https://climateoutreach.org/visualising-extreme-heat/
-source: "[[2024-08-27 Visualising extreme heat]]"
+source: "[[Archives/2024-08-27 Visualising extreme heat|2024-08-27 Visualising extreme heat]]"
 published: 2024-08-27
 created: 2026-03-02
 relevance: niska

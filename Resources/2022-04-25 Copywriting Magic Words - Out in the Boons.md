@@ -2,7 +2,7 @@
 categories: Clippings
 authors: "[[KSood]]"
 url: https://www.outintheboons.me/blog/magic-words
-source: "[[2022-04-25 Copywriting Magic Words — Out in the Boons]]"
+source: "[[Archives/2022-04-25 Copywriting Magic Words - Out in the Boons|2022-04-25 Copywriting Magic Words - Out in the Boons]]"
 published: 2022-04-25
 created: 2026-03-13
 relevance: wysoka

@@ -3,7 +3,7 @@ categories: Clippings
 authors:
   - "[[Mina Kim]]"
 url: https://www.kqed.org/forum/2010101910972/inside-the-democrats-campaign-spam-machine
-source: "[[2025-08-20 Inside the Democrats Campaign Spam Machine  KQED]]"
+source: "[[Archives/2025-08-20 Inside the Democrats Campaign Spam Machine KQED|2025-08-20 Inside the Democrats Campaign Spam Machine KQED]]"
 published: 2025-08-20T00:00:00.000Z
 created: 2026-03-19T00:00:00.000Z
 relevance: średnia

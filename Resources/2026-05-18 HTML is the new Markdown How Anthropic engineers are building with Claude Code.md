@@ -1,15 +1,17 @@
 ---
 categories: Clippings
-authors: ["[[Thariq Shihipar]]", "[[Lenny Rachitsky]]"]
-url: "https://www.lennysnewsletter.com/p/how-i-ai-html-is-the-new-markdown"
-source: "[[Archives/2026-05-18 🎙️ How I AI HTML is the new Markdown How Anthropic engineers are building with Claude Code|2026-05-18 🎙️ How I AI HTML is the new Markdown How Anthropic engineers are building with Claude Code]]"
+authors:
+  - "[[Thariq Shihipar]]"
+  - "[[Lenny Rachitsky]]"
+url: https://www.lennysnewsletter.com/p/how-i-ai-html-is-the-new-markdown
+source: "[[Archives/2026-05-18 HTML is the new Markdown How Anthropic engineers are building with Claude Code|2026-05-18 HTML is the new Markdown How Anthropic engineers are building with Claude Code]]"
 published: 2026-05-18
 created: 2026-05-20
 relevance: wysoka
 tags:
-  - "vibe-coding"
-  - "narzędzia-AI"
-  - "prompt-engineering"
+  - vibe-coding
+  - narzędzia-AI
+  - prompt-engineering
 ---
 
 # HTML is the new Markdown: How Anthropic engineers are building with Claude Code

@@ -6,6 +6,7 @@
     "created": "date",
     "labels": "multitext",
     "published": "date",
-    "relevance": "multitext"
+    "relevance": "multitext",
+    "authors": "multitext"
   }
 }

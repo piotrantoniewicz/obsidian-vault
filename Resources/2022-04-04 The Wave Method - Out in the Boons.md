@@ -2,7 +2,7 @@
 categories: Clippings
 authors: "[[Out in the Boons]]"
 url: https://www.outintheboons.me/blog/2022/the-wave-method
-source: "[[2022-04-04 The Wave Method — Out in the Boons]]"
+source: "[[Archives/2022-04-04 The Wave Method - Out in the Boons|2022-04-04 The Wave Method - Out in the Boons]]"
 published: 2022-04-04
 created: 2026-03-13
 relevance: wysoka

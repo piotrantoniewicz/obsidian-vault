@@ -1,15 +1,17 @@
 ---
 categories: Clippings
-authors: ["[[Freya Graham]]"]
+authors:
+  - "[[Freya Graham]]"
 url: https://www.businessinsider.com/bridges-to-prosperity-nonprofit-ai-mapping-waterways-rural-communities-2025-5?IR=T
 source: "[[Archives/2025-05-22 77 million miles of waterways were missing from maps AI found them in record time|2025-05-22 77 million miles of waterways were missing from maps AI found them in record time]]"
 published: 2025-05-22
 created: 2026-04-12
-relevance: średnia
+relevance:
+  - niska
 tags:
-  - "narzędzia-AI"
-  - "organizacje-społeczne"
-  - "strategia-AI"
+  - narzędzia-AI
+  - organizacje-społeczne
+  - strategia-AI
 ---
 
 # 77 million miles of waterways were missing from maps. AI found them in record time.

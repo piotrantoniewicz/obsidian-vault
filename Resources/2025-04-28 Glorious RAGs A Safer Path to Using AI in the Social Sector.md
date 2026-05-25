@@ -1,15 +1,16 @@
 ---
 categories: Clippings
-authors: ["[[Jim Fruchterman]]"]
+authors:
+  - "[[Jim Fruchterman]]"
 url: https://blogs.lse.ac.uk/socialbusinesshub/2025/04/28/glorious-rags-a-safer-path-to-using-ai-in-the-social-sector/
-source: "[[Archives/2025-04-28 Glorious RAGs A Safer Path to Using AI in the Social Sector|2025-04-28 Glorious RAGs A Safer Path to Using AI in the Social Sector]]"
+source: "[[Archives/2025-04-28 Glorious RAGs  A Safer Path to Using AI in the Social Sector - The Social Business Hub|2025-04-28 Glorious RAGs  A Safer Path to Using AI in the Social Sector - The Social Business Hub]]"
 published: 2025-04-28
 created: 2026-04-12
 relevance: wysoka
 tags:
-  - "strategia-AI"
-  - "narzędzia-AI"
-  - "organizacje-społeczne"
+  - strategia-AI
+  - narzędzia-AI
+  - organizacje-społeczne
 ---
 
 # Glorious RAGs: A Safer Path to Using AI in the Social Sector

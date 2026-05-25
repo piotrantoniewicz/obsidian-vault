@@ -1,6 +1,6 @@
 ---
 type: Web
-authors: "[[Tectonica Digital Campaign Solutions]]"
+authors: "[[Ned Howey]]"
 url: https://www.tectonica.co/posts/rethinking_ai_revolution_for_movements
 published:
 created: 2026-03-18

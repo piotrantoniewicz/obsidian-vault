@@ -1,6 +1,7 @@
 ---
 type: Web
 authors:
+  - "[[Partisan]]"
 url: https://hub.partisan.community/m/news/europes-next-blackout-the-political-price-of-ais-energy-appetite/b6012e36-4fe3-4e6e-a7b5-63b678a1b97b
 published: 2026-03-16
 created: 2026-03-17

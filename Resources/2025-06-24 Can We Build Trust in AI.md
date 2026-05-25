@@ -3,7 +3,7 @@ categories: Clippings
 authors:
   - "[[Maya]]"
 url: https://sowhatsnext.substack.com/p/can-we-build-trust-in-ai
-source: "[[2025-06-24 Can We Build Trust in AI]]"
+source: "[[Archives/2025-06-24 Can We Build Trust in AI|2025-06-24 Can We Build Trust in AI]]"
 published: 2025-06-24
 created: 2026-03-19
 relevance: wysoka

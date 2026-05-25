@@ -1,10 +1,14 @@
 ---
-type: "Web"
-authors: "[[Amir Klein]]"
-url: "https://www.lennysnewsletter.com/p/how-to-build-your-pm-second-brain?utm_source=substack&utm_medium=email&utm_campaign=email-restack-comment&r=4zdnrk&triedRedirect=true"
-published: 2025-12-16
-created: 2026-05-12
+type: Web
+authors: '[[Amir Klein]]'
+url: >-
+  https://www.lennysnewsletter.com/p/how-to-build-your-pm-second-brain?utm_source=substack&utm_medium=email&utm_campaign=email-restack-comment&r=4zdnrk&triedRedirect=true
+published: 2025-12-16T00:00:00.000Z
+created: 2026-05-12T00:00:00.000Z
 tags:
+  - narzędzia-AI
+  - strategia-AI
+  - prompt-engineering
 ---
 
 

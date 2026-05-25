@@ -1,10 +1,13 @@
 ---
-type: "Web"
-authors: "[[Lenny Rachitsky]]"
-url: "https://www.lennysnewsletter.com/p/an-ai-glossary"
-published: 2025-06-24
-created: 2026-05-12
+type: Web
+authors: '[[Lenny Rachitsky]]'
+url: 'https://www.lennysnewsletter.com/p/an-ai-glossary'
+published: 2025-06-24T00:00:00.000Z
+created: 2026-05-12T00:00:00.000Z
 tags:
+  - LLM
+  - prompt-engineering
+  - szkolenia-AI
 ---
 
 

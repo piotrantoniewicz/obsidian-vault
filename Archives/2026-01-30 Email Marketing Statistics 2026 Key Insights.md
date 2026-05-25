@@ -1,10 +1,14 @@
 ---
-type: "Web"
-authors: "[[Milda Bernatavičiūtė]]"
-url: "https://www.omnisend.com/blog/email-marketing-statistics/?utm_source=www.civicshoutnewsletter.com&utm_medium=newsletter&utm_campaign=what-your-email-program-can-learn-from-e-commerce&_bhlid=e020364e72da7c38ad3dc7306b40ef09b314a03b"
-published: 2026-01-30
-created: 2026-05-19
+type: Web
+authors: '[[Milda Bernatavičiūtė]]'
+url: >-
+  https://www.omnisend.com/blog/email-marketing-statistics/?utm_source=www.civicshoutnewsletter.com&utm_medium=newsletter&utm_campaign=what-your-email-program-can-learn-from-e-commerce&_bhlid=e020364e72da7c38ad3dc7306b40ef09b314a03b
+published: 2026-01-30T00:00:00.000Z
+created: 2026-05-19T00:00:00.000Z
 tags:
+  - digital-campaigning
+  - fundraising
+  - content-marketing
 ---
 
 

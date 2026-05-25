@@ -5,6 +5,8 @@ url: "https://www.technofobia.pl/p/ile-energii-pozera-ai"
 published: 2026-05-21
 created: 2026-05-21
 tags:
+  - "trendy-AI"
+  - "strategia-AI"
 ---
 
 

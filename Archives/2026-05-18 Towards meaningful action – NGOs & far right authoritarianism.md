@@ -5,6 +5,9 @@ url: "https://thinkingdoingchanging.com/2026/05/18/towards-meaningful-action-ngo
 published: 2026-05-18
 created: 2026-05-22
 tags:
+  - "organizacje-społeczne"
+  - "strategia-organizacji"
+  - "digital-campaigning"
 ---
 
 

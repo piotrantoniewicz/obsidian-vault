@@ -1,10 +1,12 @@
 ---
 type: Web
-authors: "[[Elena Cucu]]"
-url: https://www.socialinsider.io/social-media-benchmarks/instagram
-published: 2026-02-20
-created: 2026-05-11
+authors: '[[Elena Cucu]]'
+url: 'https://www.socialinsider.io/social-media-benchmarks/instagram'
+published: 2026-02-20T00:00:00.000Z
+created: 2026-05-11T00:00:00.000Z
 tags:
+  - content-marketing
+  - digital-campaigning
 ---
 
 

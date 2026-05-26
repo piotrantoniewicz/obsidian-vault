@@ -1,10 +1,13 @@
 ---
-type: "Web"
-authors: "[[Partisan]]"
-url: "https://www.youtube.com/watch?v=1b_iKCpnahY"
-published: 2026-05-18
-created: 2026-05-19
+type: Web
+authors: '[[Partisan]]'
+url: 'https://www.youtube.com/watch?v=1b_iKCpnahY'
+published: 2026-05-18T00:00:00.000Z
+created: 2026-05-19T00:00:00.000Z
 tags:
+  - digital-campaigning
+  - strategia-AI
+  - organizacje-społeczne
 ---
 
 

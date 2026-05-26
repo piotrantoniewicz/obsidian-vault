@@ -1,10 +1,12 @@
 ---
-type: "Web"
-authors: "[[Elena Cucu]]"
-url: "https://www.socialinsider.io/social-media-benchmarks/facebook"
-published: 2026-03-23
-created: 2026-05-18
+type: Web
+authors: '[[Elena Cucu]]'
+url: 'https://www.socialinsider.io/social-media-benchmarks/facebook'
+published: 2026-03-23T00:00:00.000Z
+created: 2026-05-18T00:00:00.000Z
 tags:
+  - content-marketing
+  - digital-campaigning
 ---
 
 

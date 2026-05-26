@@ -1199,3 +1199,9 @@
 - [[2025-05-22 77 million miles of waterways were missing from maps. AI found them in record time]] — Bridges to Prosperity: AI WaterNet zmapował 124 mln km brakujących rzek skracając planowanie infrastruktury mostów.
 - [[2025-06-24 Can We Build Trust in AI]] — KPMG 2025: tylko 40% Amerykanów ufa AI (vs 75-80% Chiny/Indie) — 4 strategie budowania zaufania przez przywództwo.
 - [[2025-08-20 Inside the Democrats Campaign Spam Machine KQED]] — KQED/Bonica: 95% środków Democratic spam machine pochodzi od seniorów 65+; analogia do financial elder fraud.
+
+- [[2025-08-19 Why your AI product needs a different development lifecycle]] — Reganti i Badam: framework CC/CD dla produktów AI, zarządzanie autonomią i niedeterminizmem systemu.
+- [[2026-01-20 ChatGPT apps are about to be the next big distribution channel Here s how to build one]] — Colin Matthews: ChatGPT apps jako nowy kanał dystrybucji oparty na MCP, przewodnik budowania pierwszej aplikacji.
+- [[2026-02-24 How to use AI for your next job interview]] — Noam Segal: system coachingu do rozmów kwalifikacyjnych oparty na Claude Code z pętlą feedbacku.
+- [[2026-03-23 2026 Organic Facebook Engagement Benchmarks]] — Elena Cucu z Socialinsider: benchmarki zaangażowania organicznego Facebooka 2026 (formaty, częstotliwość, wzrost obserwujących).
+- [[2026-04-16 Getting Started with Claude Cowork]] — Ryan Carr: wprowadzenie do Claude Cowork, struktura projektów, skille i scheduled tasks.

@@ -1,10 +1,13 @@
 ---
-type: "Web"
-authors: "[[Aishwarya Naresh Reganti]]"
-url: "https://www.lennysnewsletter.com/p/why-your-ai-product-needs-a-different?utm_source=substack&utm_medium=email&utm_campaign=email-restack-comment&r=4zdnrk&triedRedirect=true"
-published: 2025-08-19
-created: 2026-05-11
+type: Web
+authors: '[[Aishwarya Naresh Reganti]]'
+url: >-
+  https://www.lennysnewsletter.com/p/why-your-ai-product-needs-a-different?utm_source=substack&utm_medium=email&utm_campaign=email-restack-comment&r=4zdnrk&triedRedirect=true
+published: 2025-08-19T00:00:00.000Z
+created: 2026-05-11T00:00:00.000Z
 tags:
+  - strategia-AI
+  - produkty-cyfrowe
 ---
 
 

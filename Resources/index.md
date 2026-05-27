@@ -2134,6 +2134,8 @@
 - [[2026-05-12 5 Findings From 6sense's BDR Report That Every Sales Leader Should See]] — Raport 6sense: adopcja AI wśród BDR-ów wzrosła do 99%, ale wyniki rosną tylko gdy AI służy nauce umiejętności.
 - [[2026-05-12 A Quiet Uprising Against Chatbots]] — Badania i NGO (Empower Work, UPchieve): chatboty skuteczniejsze jako wsparcie pracowników niż bezpośredni kontakt z beneficjentem.
 - [[2026-05-12 From Google hit to +170% revenue in 5 months]] — Playbook SEO po uderzeniu algorytmu: audyt, USP w treści, klastry tematyczne; +170% przychodów w 5 miesięcy.
+- [[2026-05-12 Sprzedaż z AI, 6 kroków]] — Mirek Burnejko: 6-etapowy framework wdrożenia AI-CSO (Chief Sales Officer) do automatyzacji sprzedaży dla małych przedsiębiorców.
+- [[2026-05-12 The AI security threat you need to know about]] — Natalie MacNeil: zagrożenia bezpieczeństwa AI, SOP → Claude Skills jako fundament agentów, suwerenność w erze ambient AI.
 - [[2026-05-12 The Collapse of Traditional Search]] — AEO zastępuje SEO: cytowanie przez AI ważniejsze niż ranking; Webflow 6× wyższy wskaźnik konwersji z ruchu AI.
 - [[2026-05-12 What your email program can learn from e-commerce]] — Automatyzacja behawioralna z e-commerce w NGO: triggered emails generują 37% przychodów przy 2% wolumenu wysyłek.
 - [[2026-05-13 Czy warto jeszcze być na Facebooku-]] — Facebook traci Gen Z, ale pozostaje najlepszym kanałem dla 30–40-latków; Meta AI Connectors otwierają automatyzację kampanii.
@@ -2190,4 +2192,8 @@
 - [[2026-05-22 Jak przegrałem pierwszą transformację AI - i co zbudowałem za drugim razem]] — Georgiew: lekcje nieudanej transformacji AI; "komandosi" z mandatem i cotygodniowy feedback loop jako skuteczna alternatywa.
 - [[2026-05-22 Rules Are Not Enough]] — Neider/Seidman: kultura wartości (self-governance) vs. regulaminów (compliance); "strategic pause" jako praktyka liderów NGO wdrażających AI.
 - [[2026-05-22 Technically Flawless and Completely Forgettable Why "good communicators" no longer are]] — Jack Milroy: technicznie bezbłędna komunikacja instytucjonalna wygląda jak unikanie; niedoskonałość na kamerze sygnałem autentyczności.
+- [[2026-05-22 Why Good Senders Still End Up on Blocklists]] — Lauren Meyer: dobre praktyki wysyłkowe nie wystarczą — ekosystem (shared infra, ATO, odziedziczone listy) i ślepe punkty metryk to ukryte przyczyny blokad.
 - [[2026-05-25 The Homogenization Trap of AI & Performance Reviews Stop Polishing, Start Anchoring]] — Neider: AI wygładza oceny pracownicze tworząc "pułapkę jednakowości"; framework ocen opartych na artefaktach zamiast narracji.
+- [[2026-05-26 Czy AI kradnie kontakt człowiek człowiek-]] — Mirek Burnejko: 6-krokowy proces tworzenia skutecznych promptów i model pracy agentowej eliminujący komunikację o niskiej wartości w firmach.
+- [[2026-05-26 Why Email Shortcuts Don't Work]] — Lauren Meyer: skróty w email marketingu (kupowanie list, warmup services) niszczą reputację nadawcy i dostarczalność kampanii.
+- [[2026-05-27 Forum Mety zniszczy Twoją reputację]] — Jakub Jacek: Meta Forum (AI w grupach FB) zmienia reputację marek; LinkedIn walczy z AI slopem; Google wprowadza reklamy do AI Mode.

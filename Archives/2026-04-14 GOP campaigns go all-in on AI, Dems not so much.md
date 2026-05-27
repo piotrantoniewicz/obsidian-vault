@@ -5,6 +5,9 @@ url: "https://www.axios.com/2026/04/14/republicans-ai-campaigns-democrats-2026?u
 published: 2026-04-14
 created: 2026-05-27
 tags:
+  - "digital-campaigning"
+  - "trendy-AI"
+  - "strategia-AI"
 ---
 
 

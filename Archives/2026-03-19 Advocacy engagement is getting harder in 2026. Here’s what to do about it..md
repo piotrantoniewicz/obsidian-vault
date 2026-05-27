@@ -5,6 +5,9 @@ url: "https://www.newmode.net/blog/advocacy-engagement-is-getting-harder-in-2026
 published: 2026-03-19
 created: 2026-05-27
 tags:
+  - "digital-campaigning"
+  - "organizacje-społeczne"
+  - "framing"
 ---
 
 

@@ -5,6 +5,9 @@ url: "https://people1st.substack.com/p/ai-kills-trust-and-followers-dont?utm_med
 published: 2026-04-16
 created: 2026-05-27
 tags:
+  - "digital-campaigning"
+  - "content-marketing"
+  - "framing"
 ---
 
 

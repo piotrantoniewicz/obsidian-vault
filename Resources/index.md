@@ -1714,6 +1714,7 @@
 - [[2026-03-19 What 81,000 people told AI about their deepest fears]] — Anthropic: 80K rozmów Claude w 159 krajach — nadzieje i lęki wobec AI współistnieją jako napięcie wewnątrz jednej osoby.
 - [[2026-03-19 What a gluten-free pancake stack taught me about hope]] — Kutcher: masterclass storytellingu emocjonalnego — autentyczność o osobistej stracie buduje głębszą więź z czytelnikami.
 - [[2026-03-19 [30 Day Growth Challenge] Day 4- Grow Your Email List With Online Petitions]] — Jess Campbell dzień 4: petycje online przez Action Network lub Civic Shout jako magnes setek subskrybentów.
+- [[Resources/2026-03-19 Advocacy engagement is getting harder in 2026. Here's what to do about it.|2026-03-19 Advocacy engagement is getting harder in 2026. Here's what to do about it.]] — Steve Anderson (New/Mode): 6 strategii odbudowania zaangażowania w advocacy przy spadających wskaźnikach; teoria zmiany i pilność jako klucz.
 - [[2026-03-20 Człowiek wartością premium. Jak nie wpaść w mit taniego AI]] — Debata Okulska/Holoubek: AI jako narzędzie cięcia kosztów to pułapka — realna transformacja chroni kompetencje ludzkie.
 - [[2026-03-20 The Center for Humane Technology s New Website]] — Tectonica: strona CHT jako infrastruktura ruchu — architektura dla wielu typów odbiorców: decydenci, rodzice, media, donatorzy.
 - [[2026-03-20 Where Does Your Foundation Stand on AI Introducing the AI Journey Map for Philanthropy]] — Project Evident: AI Journey Map dla filantropii — framework oceny dojrzałości AI fundacji od eksploracji do zarządzania.
@@ -1951,6 +1952,7 @@
 - [[2026-04-14 The counterintuitive fix for a shrinking donor file]] — NAMI obniżyło kwoty sugerowane, podwoiło response rate i zastąpiło welcome appeal ankietą z upominkiem.
 - [[2026-04-14 Winning Words Create messages that don t miss]] — Harvey McKinnon: żargon progresywnych NGO alienuje odbiorców; audyt języka i tłumaczenia na potoczny.
 - [[2026-04-14 [30 Day Growth Challenge] Day 30 - My FAVORITE Email Growth Strategy]] — Jess Campbell: State of the Union — wirtualne spotkanie NGO z rejestracją emailową jako strategia budowania listy.
+- [[Resources/2026-04-14 GOP campaigns go all-in on AI, Dems not so much|2026-04-14 GOP campaigns go all-in on AI, Dems not so much]] — Alex Isenstadt, Holly Otterbein (Axios): przepaść w adopcji AI między kampaniami GOP a Demokratami; narzędzia do symulacji wyborców i ryzyka deepfake.
 - [[2026-04-15 Developing Major Donors and Planned Giving for Long-Term Sustainability]] — 5-krokowy proces identyfikacji i kultywacji major donors z praktykami stewardshipu i planned giving.
 - [[2026-04-15 How To Get More Donation Pledges For Your Nonprofit]] — Donation pledges dla NGO: 4 powody aktualności, 5 best practices w 2026; retencja ~90%.
 - [[2026-04-15 Klonują Zuckerberga!]] — Meta tworzy AI-klona Zuckerberga, wyprzedza Google reklamą (26,8%) i zamknęła "link w bio" tagowaniem Reelsów.
@@ -1970,6 +1972,7 @@
 - [[2026-04-16 Najprostszy sposób na podnoszenie cen]] — Rozpoznaj budżet klienta przez KRS i widełki, podnoś ceny o 5–10% po każdym projekcie bez negocjacji.
 - [[2026-04-16 Nowy król Kim jest najważniejszy człowiek w cyfrowej firmie]] — AI Compliance Officer jako nowa rola strategiczna; EU AI Act i kary do 7% globalnego obrotu.
 - [[2026-04-16 first name isn't personalization (here's what is)]] — Rachel Bearbower: prawdziwa personalizacja emaili to historia wpłat i segmentacja CRM, nie imię.
+- [[Resources/2026-04-16 AI Kills Trust and Followers Don't Matter Anymore.|2026-04-16 AI Kills Trust and Followers Don't Matter Anymore.]] — Ryan Davis (People First): AI disclaimers obniżają zaufanie; follower count to przestarzały wskaźnik — algorytm zastąpił grafy społecznościowe.
 - [[2026-04-17 136- Viralowy hook to za mało]] — Beeffective: algorytmy mierzą retencję i reakcje — sam hook bez wartościowego środka i końca nie buduje zasięgu.
 - [[2026-04-17 Ask Al 68 What is DKIM2? What do you need to know?]] — Al Iverson: DKIM2 w fazie IETF — rozwiązuje replay attack, backscatter i zrywanie podpisów przy forwarding.
 - [[2026-04-17 My day one experiment with Claude Design]] — Ryan Carr: Claude Design buduje system brandingowy z kodu strony; prompt Slide Deck Outline Wizard.
@@ -2136,8 +2139,10 @@
 - [[2026-05-12 From Google hit to +170% revenue in 5 months]] — Playbook SEO po uderzeniu algorytmu: audyt, USP w treści, klastry tematyczne; +170% przychodów w 5 miesięcy.
 - [[2026-05-12 Sprzedaż z AI, 6 kroków]] — Mirek Burnejko: 6-etapowy framework wdrożenia AI-CSO (Chief Sales Officer) do automatyzacji sprzedaży dla małych przedsiębiorców.
 - [[2026-05-12 The AI security threat you need to know about]] — Natalie MacNeil: zagrożenia bezpieczeństwa AI, SOP → Claude Skills jako fundament agentów, suwerenność w erze ambient AI.
+- [[2026-05-12 The marketing truth nobody wants to say]] — Jenna Kutcher: email marketing dociera do 100% subskrybentów vs. <10% zasięg organiczny w social media; wartość subskrybenta ~$1/miesiąc.
 - [[2026-05-12 The Collapse of Traditional Search]] — AEO zastępuje SEO: cytowanie przez AI ważniejsze niż ranking; Webflow 6× wyższy wskaźnik konwersji z ruchu AI.
 - [[2026-05-12 What your email program can learn from e-commerce]] — Automatyzacja behawioralna z e-commerce w NGO: triggered emails generują 37% przychodów przy 2% wolumenu wysyłek.
+- [[Resources/2026-05-12 Does the addition of a premium on an offer donation page impact donor conversion?|2026-05-12 Does the addition of a premium on an offer donation page impact donor conversion?]] — Jeff Giddens (NextAfter): test A/B pokazuje, że premia na stronie donacyjnej podwaja konwersję i zwiększa dary cykliczne o 102,9%.
 - [[2026-05-13 Czy warto jeszcze być na Facebooku-]] — Facebook traci Gen Z, ale pozostaje najlepszym kanałem dla 30–40-latków; Meta AI Connectors otwierają automatyzację kampanii.
 - [[2026-05-13 Email Marketing for B2B SaaS The Mistakes I Keep Seeing and How to Fix Them]] — Beth O'Malley: 5 błędów email marketingu SaaS; segmentacja według motywacji i triggery behawioralne jako rozwiązanie.
 - [[2026-05-13 How I Get People To Reply To My Emails]] — Jess Campbell: 4 techniki generowania odpowiedzi (emoji, quiz, jedno słowo, long-form) obniżające barierę reakcji subskrybenta.
@@ -2198,3 +2203,4 @@
 - [[2026-05-26 Why Email Shortcuts Don't Work]] — Lauren Meyer: skróty w email marketingu (kupowanie list, warmup services) niszczą reputację nadawcy i dostarczalność kampanii.
 - [[2026-05-27 Before the AI Pilot]] — Meena Das (Namaste Data): praca kulturowa z AI w NGO ważniejsza niż szybka implementacja; AI Equity Toolkit 2026 dla zarządów.
 - [[2026-05-27 Forum Mety zniszczy Twoją reputację]] — Jakub Jacek: Meta Forum (AI w grupach FB) zmienia reputację marek; LinkedIn walczy z AI slopem; Google wprowadza reklamy do AI Mode.
+- [[Resources/2026-05-27 Transparentność boli. Dlaczego większość liderów woli kłamać?|2026-05-27 Transparentność boli. Dlaczego większość liderów woli kłamać?]] — Maciej Sawicki: transparentność finansowa jako mechanizm biznesowy — dlaczego liderzy ukrywają złe wiadomości i dlaczego to błąd.

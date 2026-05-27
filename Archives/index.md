@@ -904,6 +904,7 @@
 - [[2026-03-19 Poza feedem. Jak mikrospołeczności i newslettery zmieniają sposób bycia w Internecie]] — Sektor 3.0: trend odchodzenia od algorytmów ku newsletterom i mikrospołecznościom jako jakościowemu internetowi.
 - [[2026-03-19 Product management on the AI exponential]] — Cat Wu (Anthropic): PM na krzywej wykładniczej AI — krótkie sprinty, prototypy i rewizja funkcji przy każdej nowej wersji modelu.
 - [[2026-03-19 The AI chatbot that made me see politics differently]] — Gunter: chatbot posła Sewardsa 24/7 — zmiana framingu od "zastąpienia" do "wzmacniania" relacji wyborczych przez AI.
+- [[Archives/2026-03-19 Advocacy engagement is getting harder in 2026. Here's what to do about it.|2026-03-19 Advocacy engagement is getting harder in 2026. Here's what to do about it.]] — Steve Anderson (New/Mode): 6 strategii odbudowania zaangażowania w advocacy przy spadających wskaźnikach; teoria zmiany i pilność jako klucz.
 - [[2026-03-20 Człowiek wartością premium. Jak nie wpaść w mit taniego AI]] — Debata Okulska/Holoubek: AI jako narzędzie cięcia kosztów to pułapka — realna transformacja chroni kompetencje ludzkie.
 - [[2026-03-20 The Center for Humane Technology s New Website]] — Tectonica: strona CHT jako infrastruktura ruchu — architektura dla wielu typów odbiorców: decydenci, rodzice, media, donatorzy.
 - [[2026-03-20 Where Does Your Foundation Stand on AI Introducing the AI Journey Map for Philanthropy]] — Project Evident: AI Journey Map dla filantropii — framework oceny dojrzałości AI fundacji od eksploracji do zarządzania.
@@ -1052,6 +1053,7 @@
 - [[2026-04-14 Stop Leading Your Nonprofit Like a Machine]] — Bryan Neider: neurobiologia przywództwa NGO; bezpieczeństwo psychologiczne i SDT zamiast transakcyjnego zarządzania.
 - [[2026-04-14 The Meta Wars - Fidesz s Political Campaign on Facebook Through Digital Loopholes]] — Fidesz omija zakaz reklam politycznych przez misklasyfikację, Fight Clubs i armię botów proxy.
 - [[2026-04-14 Winning Words Create messages that don t miss]] — Harvey McKinnon: żargon progresywnych NGO alienuje odbiorców; audyt języka i tłumaczenia na potoczny.
+- [[Archives/2026-04-14 GOP campaigns go all-in on AI, Dems not so much|2026-04-14 GOP campaigns go all-in on AI, Dems not so much]] — Alex Isenstadt, Holly Otterbein (Axios): przepaść w adopcji AI między kampaniami GOP a Demokratami; narzędzia do symulacji wyborców i ryzyka deepfake.
 - [[2026-04-15 Developing Major Donors and Planned Giving for Long-Term Sustainability]] — 5-krokowy proces identyfikacji i kultywacji major donors z praktykami stewardshipu i planned giving.
 - [[2026-04-15 How To Get More Donation Pledges For Your Nonprofit]] — Donation pledges dla NGO: 4 powody aktualności, 5 best practices w 2026; retencja ~90%.
 - [[2026-04-15 No more cookie cutters Unlocking the power of custom audio ads]] — Planned Parenthood: 25 wersji audio reklam dopasowanych do podcastów daje +49% brand impact.
@@ -1063,6 +1065,7 @@
 - [[2026-04-16 Conservation Law Foundation Smarter Automation, Stronger Results]] — CLF: +35% przychodów dzięki personalizacji kwot i automatyzacji welcome series w Engaging Networks.
 - [[2026-04-16 Getting Started with Claude Cowork]] — Ryan Carr: wprowadzenie do Claude Cowork, struktura projektów, skille i scheduled tasks.- [[2026-04-16 Is the far-right better at investing in people]] — MobLab: prawica ma 40-letni ekosystem talentów; progresywny sektor gubi ludzi przez krótkie granty.
 - [[2026-04-16 Nowy król Kim jest najważniejszy człowiek w cyfrowej firmie]] — AI Compliance Officer jako nowa rola strategiczna; EU AI Act i kary do 7% globalnego obrotu.
+- [[Archives/2026-04-16 AI Kills Trust and Followers Don't Matter Anymore.|2026-04-16 AI Kills Trust and Followers Don't Matter Anymore.]] — Ryan Davis (People First): AI disclaimers obniżają zaufanie; follower count to przestarzały wskaźnik — algorytm zastąpił grafy społecznościowe.
 - [[2026-04-17 Ask Al 68 What is DKIM2? What do you need to know?]] — Al Iverson: DKIM2 w fazie IETF — rozwiązuje replay attack, backscatter i zrywanie podpisów przy forwarding.
 - [[2026-04-17 Sector Stewardship - The Job Behind the Job]] — Bryan Neider: 5 wymiarów odpowiedzialności liderów NGO za cały sektor, nie tylko własną organizację.
 - [[2026-04-17 Supermoce dla NGO Jak Copilot usprawnia codzienną pracę Łukasz Foks Microsoft]] — Webinar Foksa (Microsoft): trzystopniowa droga dojrzałości AI w NGO przez Copilot i agentów.
@@ -1172,6 +1175,7 @@
 - [[2026-05-12 5 Findings From 6sense's BDR Report That Every Sales Leader Should See]] — Raport 6sense: adopcja AI wśród BDR-ów wzrosła do 99%, ale wyniki rosną tylko gdy AI służy nauce umiejętności.
 - [[2026-05-12 A Quiet Uprising Against Chatbots]] — Badania i NGO (Empower Work, UPchieve): chatboty skuteczniejsze jako wsparcie pracowników niż bezpośredni kontakt z beneficjentem.
 - [[2026-05-12 The Collapse of Traditional Search]] — AEO zastępuje SEO: cytowanie przez AI ważniejsze niż ranking; Webflow 6× wyższy wskaźnik konwersji z ruchu AI.
+- [[Archives/2026-05-12 Does the addition of a premium on an offer donation page impact donor conversion?|2026-05-12 Does the addition of a premium on an offer donation page impact donor conversion?]] — Jeff Giddens (NextAfter): test A/B pokazuje, że premia na stronie donacyjnej podwaja konwersję i zwiększa dary cykliczne o 102,9%.
 - [[2026-05-13 Email Marketing for B2B SaaS The Mistakes I Keep Seeing and How to Fix Them]] — Beth O'Malley: 5 błędów email marketingu SaaS; segmentacja według motywacji i triggery behawioralne jako rozwiązanie.
 - [[2026-05-13 How can brands win hearts when AI does the shopping?]] — Accenture: 75% konsumentów gotowych na AI-shopper; emocjonalna tożsamość marki jako obrona przed komodytyzacją przez AI.
 - [[2026-05-13 How to Cut AI Costs and Climate Impact Ranking 9 Inputs and Outputs]] — Ranking 9 formatów AI pod kątem kosztów tokenów: TXT i MD najtańsze, PPTX i DOCX 10× droższe.
@@ -1208,3 +1212,4 @@
 - [[2026-05-22 Rules Are Not Enough]] — Neider/Seidman: kultura wartości (self-governance) vs. regulaminów (compliance); "strategic pause" jako praktyka liderów NGO wdrażających AI.
 - [[2026-05-22 Technically Flawless and Completely Forgettable Why "good communicators" no longer are]] — Jack Milroy: technicznie bezbłędna komunikacja instytucjonalna wygląda jak unikanie; niedoskonałość na kamerze sygnałem autentyczności.
 - [[2026-05-25 The Homogenization Trap of AI & Performance Reviews Stop Polishing, Start Anchoring]] — Neider: AI wygładza oceny pracownicze tworząc "pułapkę jednakowości"; framework ocen opartych na artefaktach zamiast narracji.
+- [[Archives/2026-05-27 Transparentność boli. Dlaczego większość liderów woli kłamać?|2026-05-27 Transparentność boli. Dlaczego większość liderów woli kłamać?]] — Maciej Sawicki: transparentność finansowa jako mechanizm biznesowy — dlaczego liderzy ukrywają złe wiadomości i dlaczego to błąd.

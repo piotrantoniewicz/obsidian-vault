@@ -2196,4 +2196,5 @@
 - [[2026-05-25 The Homogenization Trap of AI & Performance Reviews Stop Polishing, Start Anchoring]] — Neider: AI wygładza oceny pracownicze tworząc "pułapkę jednakowości"; framework ocen opartych na artefaktach zamiast narracji.
 - [[2026-05-26 Czy AI kradnie kontakt człowiek człowiek-]] — Mirek Burnejko: 6-krokowy proces tworzenia skutecznych promptów i model pracy agentowej eliminujący komunikację o niskiej wartości w firmach.
 - [[2026-05-26 Why Email Shortcuts Don't Work]] — Lauren Meyer: skróty w email marketingu (kupowanie list, warmup services) niszczą reputację nadawcy i dostarczalność kampanii.
+- [[2026-05-27 Before the AI Pilot]] — Meena Das (Namaste Data): praca kulturowa z AI w NGO ważniejsza niż szybka implementacja; AI Equity Toolkit 2026 dla zarządów.
 - [[2026-05-27 Forum Mety zniszczy Twoją reputację]] — Jakub Jacek: Meta Forum (AI w grupach FB) zmienia reputację marek; LinkedIn walczy z AI slopem; Google wprowadza reklamy do AI Mode.

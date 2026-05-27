@@ -5,6 +5,8 @@ url: "https://theconnector.substack.com/p/notes-on-no-kings-3-were-going-to?utm_
 published: 2026-03-31
 created: 2026-05-27
 tags:
+  - "digital-campaigning"
+  - "organizacje-społeczne"
 ---
 
 

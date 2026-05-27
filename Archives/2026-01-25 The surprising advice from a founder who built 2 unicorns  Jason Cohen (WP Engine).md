@@ -5,6 +5,9 @@ url: "https://www.youtube.com/watch?v=8xLquwfx6p0"
 published: 2026-01-25
 created: 2026-05-12
 tags:
+  - "produkty-cyfrowe"
+  - "strategia-organizacji"
+  - "fundraising"
 ---
 
 

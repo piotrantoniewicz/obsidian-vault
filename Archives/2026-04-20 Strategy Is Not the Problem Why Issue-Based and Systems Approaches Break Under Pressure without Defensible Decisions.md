@@ -5,6 +5,9 @@ url: "https://horizonsproject.us/strategy-is-not-the-problem-why-issue-based-and
 published: 2026-04-20
 created: 2026-05-27
 tags:
+  - "organizacje-społeczne"
+  - "strategia-organizacji"
+  - "framing"
 ---
 
 

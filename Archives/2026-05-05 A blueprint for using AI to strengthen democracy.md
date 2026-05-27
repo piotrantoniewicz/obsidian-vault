@@ -5,6 +5,9 @@ url: "https://www.technologyreview.com/2026/05/05/1136843/ai-democracy-blueprint
 published: 2026-05-05
 created: 2026-05-27
 tags:
+  - "strategia-AI"
+  - "digital-campaigning"
+  - "trendy-AI"
 ---
 
 

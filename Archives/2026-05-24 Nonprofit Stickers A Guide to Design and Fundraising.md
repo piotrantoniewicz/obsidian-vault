@@ -5,6 +5,9 @@ url: "https://www.nptechforgood.com/2026/05/24/nonprofit-stickers-a-guide-to-des
 published: 2026-05-24
 created: 2026-05-27
 tags:
+  - "fundraising"
+  - "organizacje-społeczne"
+  - "content-marketing"
 ---
 
 

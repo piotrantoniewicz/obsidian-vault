@@ -5,6 +5,9 @@ url: "https://convergencemag.com/articles/surround-sound-communications-how-to-b
 published: 2026-05-12
 created: 2026-05-27
 tags:
+  - "digital-campaigning"
+  - "framing"
+  - "organizacje-społeczne"
 ---
 
 

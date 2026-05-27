@@ -5,6 +5,9 @@ url: "https://www.nptechforgood.com/cause-awareness-giving-day-calendar-for-nonp
 published: 2023-12-28
 created: 2026-05-27
 tags:
+  - "fundraising"
+  - "digital-campaigning"
+  - "organizacje-społeczne"
 ---
 
 

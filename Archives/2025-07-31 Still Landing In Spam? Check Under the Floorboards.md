@@ -5,6 +5,8 @@ url: "https://send-it-right.com/blog/spam-issues-check-under-the-floorboards"
 published: 2025-07-31
 created: 2026-05-27
 tags:
+  - "fundraising"
+  - "digital-campaigning"
 ---
 
 

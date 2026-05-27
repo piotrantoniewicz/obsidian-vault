@@ -5,6 +5,8 @@ url: "https://www.youtube.com/watch?v=pEis2CBomVA"
 published: 2026-03-15
 created: 2026-05-12
 tags:
+  - "framing"
+  - "strategia-organizacji"
 ---
 
 

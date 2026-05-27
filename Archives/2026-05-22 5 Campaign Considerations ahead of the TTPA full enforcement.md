@@ -5,6 +5,9 @@ url: "https://hub.partisan.community/m/news/5-campaign-considerations-ahead-of-t
 published: 2026-05-22
 created: 2026-05-27
 tags:
+  - "digital-campaigning"
+  - "framing"
+  - "strategia-organizacji"
 ---
 
 

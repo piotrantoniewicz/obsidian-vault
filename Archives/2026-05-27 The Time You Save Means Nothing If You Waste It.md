@@ -5,6 +5,9 @@ url: "https://kylebehrend.substack.com/p/the-time-you-save-means-nothing-if?r=62
 published: 2026-05-27
 created: 2026-05-27
 tags:
+  - "strategia-AI"
+  - "organizacje-społeczne"
+  - "strategia-organizacji"
 ---
 
 

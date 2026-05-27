@@ -5,6 +5,9 @@ url: "https://www.notus.org/2026-election/chatgpt-claude-elections-chat-bots-cam
 published: 2026-04-20
 created: 2026-05-27
 tags:
+  - "digital-campaigning"
+  - "LLM"
+  - "trendy-AI"
 ---
 
 

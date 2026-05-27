@@ -5,6 +5,9 @@ url: "https://znetwork.org/znetarticle/ai-populism-is-coming-but-not-the-way-pro
 published: 2026-05-09
 created: 2026-05-27
 tags:
+  - "digital-campaigning"
+  - "trendy-AI"
+  - "strategia-organizacji"
 ---
 
 

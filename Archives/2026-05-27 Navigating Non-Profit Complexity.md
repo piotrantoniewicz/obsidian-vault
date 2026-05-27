@@ -5,6 +5,9 @@ url: "https://www.linkedin.com/pulse/navigating-non-profit-complexity-bryan-neid
 published: 2026-05-27
 created: 2026-05-27
 tags:
+  - "strategia-organizacji"
+  - "strategia-AI"
+  - "organizacje-społeczne"
 ---
 
 

@@ -5,6 +5,8 @@ url: "https://www.noemamag.com/how-to-protect-human-autonomy-in-an-age-of-ai/"
 published: 2026-05-05
 created: 2026-05-26
 tags:
+  - "strategia-AI"
+  - "trendy-AI"
 ---
 
 

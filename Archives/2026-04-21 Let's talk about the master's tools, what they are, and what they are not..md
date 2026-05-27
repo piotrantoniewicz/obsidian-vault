@@ -5,6 +5,9 @@ url: "https://www.nonprofitaf.com/lets-talk-about-the-masters-tools-what-they-ar
 published: 2026-04-21
 created: 2026-05-27
 tags:
+  - "organizacje-społeczne"
+  - "framing"
+  - "strategia-organizacji"
 ---
 
 

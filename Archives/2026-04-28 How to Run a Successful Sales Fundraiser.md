@@ -5,6 +5,9 @@ url: "https://www.eventgroove.com/blog/how-to-run-an-online-sales-fundraiser/?ut
 published: 2026-04-28
 created: 2026-05-27
 tags:
+  - "fundraising"
+  - "organizacje-społeczne"
+  - "digital-campaigning"
 ---
 
 

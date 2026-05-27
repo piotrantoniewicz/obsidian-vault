@@ -5,6 +5,8 @@ url: "https://send-it-right.com/blog/email-shortcuts-dont-work"
 published: 2024-08-24
 created: 2026-05-27
 tags:
+  - "fundraising"
+  - "digital-campaigning"
 ---
 
 

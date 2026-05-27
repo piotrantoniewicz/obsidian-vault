@@ -5,6 +5,9 @@ url: "https://www.techpolicy.press/ai-efficiency-can-undermine-accountability-ev
 published: 2026-05-05
 created: 2026-05-27
 tags:
+  - "strategia-AI"
+  - "narzędzia-AI"
+  - "organizacje-społeczne"
 ---
 
 

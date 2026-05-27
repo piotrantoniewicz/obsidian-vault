@@ -5,6 +5,9 @@ url: "https://hub.partisan.community/m/news/organic-social-amplification-for-acq
 published: 2026-05-22
 created: 2026-05-27
 tags:
+  - "digital-campaigning"
+  - "organizacje-społeczne"
+  - "content-marketing"
 ---
 
 

@@ -66,5 +66,3 @@ First Principles and Systems Thinking are not passing fads; together, they form 
 > ***Start with first principles, master the system, scale with Agentic-AI, change the outcome.***
 
 Subscribe on LinkedIn [https://www.linkedin.com/build-relation/newsletter-follow?entityUrn=7396000666046881792](https://www.linkedin.com/build-relation/newsletter-follow?entityUrn=7396000666046881792)
-
-#NonprofitLeadership #SystemThinking #FirstPrinciples #SocialImpact #StrategicGovernance #CapacityBuilding #NonprofitManagement #AbilityPath

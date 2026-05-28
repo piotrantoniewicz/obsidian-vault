@@ -1,10 +1,13 @@
 ---
-type: "Web"
-authors: "[[How I AI]]"
-url: "https://www.youtube.com/watch?v=yaG70VotukE"
-published: 2025-12-22
-created: 2026-05-12
+type: Web
+authors: '[[How I AI]]'
+url: 'https://www.youtube.com/watch?v=yaG70VotukE'
+published: 2025-12-22T00:00:00.000Z
+created: 2026-05-12T00:00:00.000Z
 tags:
+  - strategia-AI
+  - szkolenia-AI
+  - strategia-organizacji
 ---
 
 

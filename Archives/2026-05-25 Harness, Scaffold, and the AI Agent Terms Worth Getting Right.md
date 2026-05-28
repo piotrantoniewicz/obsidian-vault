@@ -1,10 +1,13 @@
 ---
-type: "Web"
-authors: "[[Sergio Paniego, Aritra Roy Gosthipaty]]"
-url: "https://huggingface.co/blog/agent-glossary"
-published: 2026-05-25
-created: 2026-05-28
+type: Web
+authors: '[[Sergio Paniego, Aritra Roy Gosthipaty]]'
+url: 'https://huggingface.co/blog/agent-glossary'
+published: 2026-05-25T00:00:00.000Z
+created: 2026-05-28T00:00:00.000Z
 tags:
+  - narzędzia-AI
+  - LLM
+  - context-engineering
 ---
 
 

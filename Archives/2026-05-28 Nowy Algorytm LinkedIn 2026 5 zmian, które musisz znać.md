@@ -1,10 +1,12 @@
 ---
-type: "Web"
-authors: "[[Adrianna Wardzała]]"
-url: "https://www.youtube.com/watch?v=J1Ib53hkQ4E"
-published: 2026-05-28
-created: 2026-05-28
+type: Web
+authors: '[[Adrianna Wardzała]]'
+url: 'https://www.youtube.com/watch?v=J1Ib53hkQ4E'
+published: 2026-05-28T00:00:00.000Z
+created: 2026-05-28T00:00:00.000Z
 tags:
+  - content-marketing
+  - digital-campaigning
 ---
 
 

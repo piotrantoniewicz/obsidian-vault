@@ -1,10 +1,12 @@
 ---
-type: "Web"
-authors: "[[How I AI]]"
-url: "https://www.youtube.com/watch?v=2RD3FP5iWJY"
-published: 2026-03-09
-created: 2026-05-12
+type: Web
+authors: '[[How I AI]]'
+url: 'https://www.youtube.com/watch?v=2RD3FP5iWJY'
+published: 2026-03-09T00:00:00.000Z
+created: 2026-05-12T00:00:00.000Z
 tags:
+  - narzędzia-AI
+  - content-marketing
 ---
 
 

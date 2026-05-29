@@ -5,6 +5,9 @@ url: "https://www.youtube.com/watch?v=eh8bcBIAAFo"
 published: 2026-03-01
 created: 2026-05-12
 tags:
+  - "trendy-AI"
+  - "produkty-cyfrowe"
+  - "strategia-AI"
 ---
 
 

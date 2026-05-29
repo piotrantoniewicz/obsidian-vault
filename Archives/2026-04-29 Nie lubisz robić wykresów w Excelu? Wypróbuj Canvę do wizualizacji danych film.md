@@ -5,6 +5,8 @@ url: "https://publicystyka.ngo.pl/nie-lubisz-robic-wykresow-w-excelu-wyprobuj-ca
 published: 2026-04-29
 created: 2026-05-29
 tags:
+  - "organizacje-społeczne"
+  - "content-marketing"
 ---
 
 

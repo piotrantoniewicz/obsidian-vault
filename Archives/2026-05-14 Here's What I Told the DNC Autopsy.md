@@ -5,6 +5,9 @@ url: "https://www.thebulwark.com/p/heres-what-i-told-the-dnc-autopsy-biden-harri
 published: 2026-05-14
 created: 2026-05-27
 tags:
+  - "digital-campaigning"
+  - "content-marketing"
+  - "trendy-AI"
 ---
 
 

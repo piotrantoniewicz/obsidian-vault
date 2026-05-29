@@ -5,6 +5,9 @@ url: "https://sektor3-0.pl/aktualnosci/ai-nie-zalezy-ale-ludziom-tak-festiwal-se
 published: 2026-05-22
 created: 2026-05-29
 tags:
+  - "organizacje-społeczne"
+  - "strategia-AI"
+  - "szkolenia-AI"
 ---
 
 

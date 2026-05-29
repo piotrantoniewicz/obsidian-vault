@@ -1,10 +1,14 @@
 ---
-type: "Web"
-authors: "[[Michał Serwiński]]"
-url: "https://sektor3-0.pl/podcast/przestan-zakladac-zacznij-pytac-jak-tworzyc-uslugi-ktorych-ludzie-potrzebuja/?utm_source=newsletter&utm_medium=email&utm_term=2026-05-29&utm_campaign=+Canva+i+proste+wykresy"
-published: 2026-05-28
-created: 2026-05-29
+type: Web
+authors: '[[Michał Serwiński]]'
+url: >-
+  https://sektor3-0.pl/podcast/przestan-zakladac-zacznij-pytac-jak-tworzyc-uslugi-ktorych-ludzie-potrzebuja/?utm_source=newsletter&utm_medium=email&utm_term=2026-05-29&utm_campaign=+Canva+i+proste+wykresy
+published: 2026-05-28T00:00:00.000Z
+created: 2026-05-29T00:00:00.000Z
 tags:
+  - organizacje-społeczne
+  - produkty-cyfrowe
+  - strategia-organizacji
 ---
 
 

@@ -5,6 +5,9 @@ url: "https://www.youtube.com/watch?v=xeZDHGjG5zM"
 published: 2026-01-12
 created: 2026-05-12
 tags:
+  - "narzędzia-AI"
+  - "vibe-coding"
+  - "prompt-engineering"
 ---
 
 

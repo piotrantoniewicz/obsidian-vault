@@ -5,6 +5,9 @@ url: "https://www.youtube.com/watch?v=SXCtQnJE8_I"
 published: 2025-12-15
 created: 2026-05-12
 tags:
+  - "automatyzacja"
+  - "narzędzia-AI"
+  - "szkolenia-AI"
 ---
 
 

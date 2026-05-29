@@ -5,6 +5,9 @@ url: "https://www.youtube.com/watch?v=JMeXWVw0r3E"
 published: 2025-10-26
 created: 2026-05-11
 tags:
+  - "strategia-AI"
+  - "narzędzia-AI"
+  - "szkolenia-AI"
 ---
 
 

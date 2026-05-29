@@ -1,10 +1,14 @@
 ---
-type: "Web"
-authors: "[[Michael Bertha]]"
-url: "https://www.cio.com/article/4172478/why-relationships-are-the-hidden-infrastructure-of-ai-transformation.html?utm_source=ActiveCampaign&utm_medium=email&utm_content=AI%20Flash%20Business%20%2336&utm_campaign=AI%20Flash%20Business%20%2335%20%28Kopiuj%29"
-published: 2026-05-18
-created: 2026-05-29
+type: Web
+authors: '[[Michael Bertha]]'
+url: >-
+  https://www.cio.com/article/4172478/why-relationships-are-the-hidden-infrastructure-of-ai-transformation.html?utm_source=ActiveCampaign&utm_medium=email&utm_content=AI%20Flash%20Business%20%2336&utm_campaign=AI%20Flash%20Business%20%2335%20%28Kopiuj%29
+published: 2026-05-18T00:00:00.000Z
+created: 2026-05-29T00:00:00.000Z
 tags:
+  - strategia-AI
+  - szkolenia-AI
+  - strategia-organizacji
 ---
 
 

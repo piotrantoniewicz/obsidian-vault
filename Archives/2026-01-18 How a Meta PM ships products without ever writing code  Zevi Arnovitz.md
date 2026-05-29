@@ -5,6 +5,9 @@ url: "https://www.youtube.com/watch?v=1em64iUFt3U"
 published: 2026-01-18
 created: 2026-05-12
 tags:
+  - "vibe-coding"
+  - "narzędzia-AI"
+  - "produkty-cyfrowe"
 ---
 
 

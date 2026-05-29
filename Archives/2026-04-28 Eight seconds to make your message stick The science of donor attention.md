@@ -5,6 +5,9 @@ url: "https://fast.wistia.com/embed/transcripts/mifctl75wd.html"
 published: 2026-04-28
 created: 2026-05-21
 tags:
+  - "fundraising"
+  - "framing"
+  - "digital-campaigning"
 ---
 
 

@@ -5,6 +5,9 @@ url: "https://www.youtube.com/watch?v=c_w0LaFahxk"
 published: 2025-09-21
 created: 2026-05-11
 tags:
+  - "strategia-AI"
+  - "szkolenia-AI"
+  - "strategia-organizacji"
 ---
 
 

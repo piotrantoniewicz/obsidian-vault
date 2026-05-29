@@ -5,6 +5,9 @@ url: "https://www.youtube.com/watch?v=Auxs8ZsHRI4"
 published: 2026-02-01
 created: 2026-05-12
 tags:
+  - "strategia-organizacji"
+  - "framing"
+  - "organizacje-społeczne"
 ---
 
 

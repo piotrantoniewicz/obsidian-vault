@@ -5,6 +5,9 @@ url: "https://www.youtube.com/watch?v=I-R1bc1rlFs"
 published: 2026-01-01
 created: 2026-05-12
 tags:
+  - "automatyzacja"
+  - "strategia-AI"
+  - "narzędzia-AI"
 ---
 
 

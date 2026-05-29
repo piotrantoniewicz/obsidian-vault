@@ -5,6 +5,9 @@ url: "https://www.youtube.com/watch?v=PplmzlgE0kg"
 published: 2026-04-23
 created: 2026-05-12
 tags:
+  - "strategia-AI"
+  - "narzędzia-AI"
+  - "produkty-cyfrowe"
 ---
 
 

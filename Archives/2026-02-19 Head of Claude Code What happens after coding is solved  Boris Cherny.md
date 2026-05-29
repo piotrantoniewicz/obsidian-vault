@@ -5,6 +5,9 @@ url: "https://www.youtube.com/watch?v=We7BZVKbCVw"
 published: 2026-02-19
 created: 2026-05-12
 tags:
+  - "strategia-AI"
+  - "narzędzia-AI"
+  - "trendy-AI"
 ---
 
 

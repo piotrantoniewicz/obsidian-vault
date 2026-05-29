@@ -529,7 +529,7 @@
 - [[2025-10-20 AI-generated poverty porn fake images being used by aid agencies]] — Guardian: NGO używają AI-generowanych zdjęć ubóstwa zamiast etycznej fotografii — rasistowskie stereotypy w skali.
 - [[2025-10-20 Black Friday nie wybacza błędów - poradnik marketera]] — Wielokanałowa kampania z segmentacją, automatyzacją i reaktywacją jako model każdej intensywnej kampanii fundraisingowej.
 - [[2025-10-20 Just Fix It – The electoral map of Europe s cost of living crisis]] — ECDA (8 krajów): kryzys kosztów życia jako niezagospodarowany teren progresywnych NGO — problem w wizji, nie komunikacji.
-- [[2025-10-20 Mapping the UK migration justice movement]] — ECF/NEON: mapowanie przeciążonego ruchu sprawiedliwości migracyjnej UK i jego powiązań z innymi ruchami sprawiedliwości.
+- [[Inbox/2025-10-20 Mapping the UK migration justice movement]] — ECF/NEON: mapowanie przeciążonego ruchu sprawiedliwości migracyjnej UK i jego powiązań z innymi ruchami sprawiedliwości.
 - [[2025-10-21 The anatomy of a deliverability comeback]] — Case study RIF: odbudowa reputacji nadawcy przez audyt SPF/DKIM, usunięcie 1/3 adresów i reaktywację 500K subskrybentów.
 - [[2025-10-21 Top 3 mistakes campaigners make when trying to use the law in their campaigns and what to do instead]] — SMK UK: prawo działa jako narzędzie kampanijne tylko gdy wplecione od początku strategii, nie jako ostatni resort.
 - [[2025-10-22 Jak pisać czytelne i zwięzłe e-maile Przegląd technik strukturyzacji treści]] — Trzy frameworki strukturyzacji emaili (BLUF, SCQA, TL;DR) oparte na badaniach eye-trackingu z promptami AI.

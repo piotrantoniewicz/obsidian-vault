@@ -1,6 +1,6 @@
 ---
 type: Web
-authors: '[[Nicu Popescu, Alan Riley]]'
+authors: '[[Nicu Popescu]], [[Alan Riley]]'
 url: >-
   https://ecfr.eu/publication/fast-energy-how-europe-can-power-the-ai-revolution-and-stay-competitive/?utm_source=ActiveCampaign&utm_medium=email&utm_content=AI%20Flash%20Business%20%2329&utm_campaign=AI%20Flash%20Business%20%2326%20%28Copy%29
 published: 2026-04-01T00:00:00.000Z

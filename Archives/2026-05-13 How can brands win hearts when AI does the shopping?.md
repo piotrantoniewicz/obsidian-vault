@@ -1,6 +1,6 @@
 ---
 type: Web
-authors: '[[Dhanya Vimalan, Matthew Eaton]]'
+authors: '[[Dhanya Vimalan]], [[Matthew Eaton]]'
 url: >-
   https://www.marketing-interactive.com/how-can-brands-win-hearts-when-ai-does-the-shopping?utm_source=ActiveCampaign&utm_medium=email&utm_content=AI%20Flash%20Business%20%2334&utm_campaign=AI%20Flash%20Business%20%2333%20%28Kopiuj%29
 published: 2026-05-13T00:00:00.000Z

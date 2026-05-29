@@ -853,7 +853,7 @@
 - [[2025-10-20 Czy wiesz, kto tak naprawdę chce wpłacić Ci darowiznę]] — Instytut Fundraisingu: donor persona w 5 wymiarach (motywacje, wartości, lokalizacja, obawy, wartości) przed każdą kampanią.
 - [[2025-10-20 Human-centered AI Practical insights for nonprofit boards]] — Heyman: BYO AI vs intencjonalne wdrożenie — polityka AI, bezpieczne środowisko i szkolenia zarządu jako trzy priorytety.
 - [[2025-10-20 Just Fix It – The electoral map of Europe s cost of living crisis]] — ECDA (8 krajów): kryzys kosztów życia jako niezagospodarowany teren progresywnych NGO — problem w wizji, nie komunikacji.
-- [[2025-10-20 Mapping the UK migration justice movement]] — ECF/NEON: mapowanie przeciążonego ruchu sprawiedliwości migracyjnej UK i jego powiązań z innymi ruchami sprawiedliwości.
+- [[Resources/2025-10-20 Mapping the UK migration justice movement]] — ECF/NEON: mapowanie przeciążonego ruchu sprawiedliwości migracyjnej UK i jego powiązań z innymi ruchami sprawiedliwości.
 - [[2025-10-20 Pierwszy e-mail do klienta - Sprawdź jak zrobić to dobrze]] — Ecomail: welcome email jako "mapa relacji" — 74% subskrybentów oczekuje natychmiastowego powitania po zapisie.
 - [[2025-10-20 Who influenced Labour the most in their first year of office]] — ECF: analiza 10 000 spotkań ministerialnych Labour jako kampania transparentności opublikowana w Guardianie.
 - [[2025-10-21 3 powody, dlaczego jeszcze nie zarabiasz 100.000 zł na swojej wiedzy]] — Pawłowska: trzy blokady sprzedaży kursów — niejasna oferta, niewidoczny marketing i niezręczny proces sprzedaży.

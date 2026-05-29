@@ -1,6 +1,6 @@
 ---
 type: Web
-authors: '[[Sergio Paniego, Aritra Roy Gosthipaty]]'
+authors: '[[Sergio Paniego]], [[Aritra Roy Gosthipaty]]'
 url: 'https://huggingface.co/blog/agent-glossary'
 published: 2026-05-25T00:00:00.000Z
 created: 2026-05-28T00:00:00.000Z

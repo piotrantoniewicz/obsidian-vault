@@ -1,6 +1,7 @@
 ---
 type: Web
-authors: "[[thinking, doing, changing]]"
+authors:
+  - "[[thinking, doing, changing]]"
 url: https://thinkingdoingchanging.com/2025/10/20/mapping-the-uk-migration-justice-movement/?utm_medium=email&_hsenc=p2ANqtz-9MFx3WdxGBPPsEEUtb3DCs3bZgrL67my1XDZuUCl9x0auXA8_tpcpOccO_VklGBUO55PtIoitOKeRgWKPji5U9NU0-4K63QGb0qHkDLSYmppDwF_Q&_hsmi=121307777&utm_content=121307777&utm_source=hs_email
 published: 2025-10-20T00:00:00.000Z
 created: 2026-03-20T00:00:00.000Z

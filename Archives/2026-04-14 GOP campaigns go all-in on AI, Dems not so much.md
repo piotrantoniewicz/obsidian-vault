@@ -1,6 +1,6 @@
 ---
 type: "Web"
-authors: "[[Alex Isenstadt,Holly Otterbein]]"
+authors: ["[[Alex Isenstadt]]", "[[Holly Otterbein]]"]
 url: "https://www.axios.com/2026/04/14/republicans-ai-campaigns-democrats-2026?utm_medium=email&_hsenc=p2ANqtz-8vkzSXsDfBlOShWDiV5EUdmFShfLjn7vmOzxB2Az_e4KB4ZTlmCBCqts3CrXkfknIVPS-1dm6PdeO-rfqugJmQTb_nCtZ5VZb5b_JhUP6U79jk3xk&_hsmi=136128316&utm_content=136128316&utm_source=hs_email"
 published: 2026-04-14
 created: 2026-05-27

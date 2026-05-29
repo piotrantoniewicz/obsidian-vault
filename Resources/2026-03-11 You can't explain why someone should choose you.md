@@ -1,27 +1,37 @@
 ---
 categories:
-  - Emails
+  - "Emails"
 published: 2026-03-11
-created: 2026-03-20
+created: 2026-05-29
 labels:
-  - Five Prompts
+  - "Five Prompts"
 relevance: wysoka
 tags:
-  - prompt-engineering
-  - content-marketing
-  - ghostwriting
+  - "prompt-engineering"
+  - "content-marketing"
+  - "strategia-organizacji"
 ---
+
 # You can't explain why someone should choose you
 
-Newsletter diagnozuje problem, który podcina solopreneurom skrzydła: dobra usługa, ale niemożliwość wyjaśnienia w jednym zdaniu, dlaczego ktoś powinien wybrać właśnie ciebie. Autor, były CMO w Disney i Hasbro, pokazuje, że brak klarownego pozycjonowania kosztuje nie tylko przychody, ale przede wszystkim czas — bo każdy tydzień marketingu bez wyraźnej pozycji to tydzień docierania do niewłaściwych ludzi lub niesklejania się z właściwymi. Trzy prompty AI budują pozycjonowanie od środka: (1) Find Your Actual Edge — AI szuka twojej unikalnej przewagi z opisu biznesu, (2) The Disappearance Test — co byłoby stracone, gdybyś zniknął, (3) Write Your Value Statement — jedno zdanie „pomagam X osiągnąć Y w sposób, który Z". Kluczowy insight: AI bez wcześniejszego pozycjonowania tylko artykułuje zamieszanie w skali.
+Newsletter Five Prompts poświęcony pozycjonowaniu i różnicowaniu oferty — temacie, który autor obserwował przez 20 lat jako CMO w Disney, Hasbro i Bank of America. Kluczowa teza: większość solopreneurów ma dobrą ofertę, ale złe pozycjonowanie, a AI nie naprawi tego automatycznie — tylko pomoże artykułować chaos na dużą skalę. Trzy prompty mają wymusić klarowność zanim napisze się choć jedno zdanie content marketingu.
+
+## Frameworki i metody
+
+- **Find Your Actual Edge** — prompt, który prosi AI o spojrzenie oczami potencjalnego klienta: *"What do I know, believe, or see that most people in my space don't? What's my actual edge? If you can't find one from my description, tell me that too."* Kluczowy jest ostatni fragment — zmusza AI do uczciwości zamiast polerowania słabej propozycji. Jeśli [[Claude]] nie znajdzie wyróżnika: problem leży w ofercie, nie w komunikacji.
+- **The Disappearance Test** — *"If my website disappeared tomorrow, would anyone actually notice?"* Oryginalnie metoda wywiadów z klientami stosowana przez autora przy każdym onboardingu. Wersja AI pokazuje lukę między tym, za co uważasz się za znany/a, a tym, czego ktoś faktycznie by ci brakowało.
+- **Write Your Value Statement** — uzupełnij zdanie: *"People choose me because I help them _____ in a way that _____."* Drugi blank ("in a way that") jest miejscem faktycznej dyferencjacji — to tam żyje pozycjonowanie. Trzy wersje rankowane według klarowności i siły; wybraną wersję testuje się jako bio, nagłówek emaila, subject line.
 
 ## Wnioski
-- [[Prompt-engineering]] nie zastąpi pozycjonowania — jeśli AI nie potrafi znaleźć twojej przewagi w opisie biznesu, problem leży w ofercie, nie w komunikacji.
-- „The Disappearance Test" to szybki odpowiednik wywiadu z klientem: ujawnia lukę między tym, za co myślisz że jesteś znany, a czym byłbyś faktycznie odczuwalnie stracony — dla [[dobryai.pl]] warto to sprawdzić.
-- Struktura „Pomagam [komu] osiągnąć [co] w sposób, który [differentiator]" — drugi blank jest miejscem prawdziwej różnicy i większość osób pisze go zbyt ogólnie bez AI wymuszającego konkret.
+
+- Problemy z pozycjonowaniem często są błędnie diagnozowane jako problemy z komunikacją — zanim poprawisz messaging [[fundraising]]owej kampanii NGO, sprawdź czy 6 osób w organizacji odpowie tak samo na pytanie "dlaczego właśnie wy?".
+- The Disappearance Test jest gotowym narzędziem do sesji strategicznych z klientami — można go zastosować do stron organizacji, newsletterów, programów grantowych.
+- Ograniczenie formatu (jedno zdanie z dwoma blankami) jest produktywnym wymuszeniem precyzji — dobra technika przy ghostwritingu i framingu komunikacji dla NGO.
 
 ## Cytat
-> „Every week you spend marketing without clear positioning is a week your best content reaches the wrong people, or reaches the right people and doesn't stick."
+
+> "AI nie naprawi pozycjonowania automatycznie — tylko pomoże ci artykułować chaos na większą skalę."
 
 ## Zastosowanie
-Przydatne do zbudowania jednozdaniowego pozycjonowania usług szkoleniowych i konsultingowych dobryai.pl — szczególnie prompt nr 3 jako test headline'u strony i bio.
+
+Trzy prompty można bezpośrednio przenieść do pracy z NGO przy audytach komunikacji i rebrandingach — szczególnie "Find Your Actual Edge" jako narzędzie diagnozy przed pisaniem strategii fundraisingu. Value Statement Prompt jest użyteczny przy tworzeniu pitch decków i ofert szkoleniowych dla dobryai.pl.

@@ -1,27 +1,36 @@
 ---
 categories:
-  - Emails
+  - "Emails"
 published: 2026-03-06
-created: 2026-03-20
+created: 2026-05-29
 labels:
-  - Five Prompts
-relevance: wysoka
+  - "Five Prompts"
+relevance: średnia
 tags:
-  - prompt-engineering
-  - strategia-organizacji
-  - narzędzia-AI
+  - "prompt-engineering"
+  - "strategia-organizacji"
+  - "narzędzia-AI"
 ---
+
 # I used this framework to make major career decisions. It takes 5 minutes.
 
-Newsletter prezentuje dwa narzędzia do przełamywania paraliżu decyzyjnego: prompt AI oparty na oczekiwanej wartości oraz framework „drzwi w jedną i dwie strony" autorstwa Bezosa, stosowany przez autora w Disney i Bank of America. Kluczowy insight: większość solopreneurów utknęła w analizie, bo porównuje best-case jednej opcji z worst-case innej — zamiast myśleć w kategoriach najbardziej prawdopodobnego rezultatu. Drugi framework nakazuje szybkie działanie przy decyzjach odwracalnych (testowanie cen, formaty treści, nowe usługi) i głębszą analizę tylko dla decyzji nieodwracalnych. Newsletter zawiera też sekcję o migracji z ChatGPT do Claude — autor w pełni przeszedł i uważa Claude za „team membera, nie serwilnego asystenta".
+Newsletter Five Prompts prezentuje dwa frameworki ułatwiające podejmowanie decyzji — prompt oparty na oczekiwanej wartości oraz model "one-way/two-way door" wywodzący się z praktyki korporacyjnej (Disney, Bank of America). Centralną tezą jest rozróżnienie między decyzjami odwracalnymi, które wymagają szybkości działania, a nieodwracalnymi, które zasługują na głębszą analizę. Autor pokazuje też, jak [[Claude]] wypiera [[ChatGPT]] w jego własnym workflow jako narzędzie bardziej nastawione na rozumowanie strategiczne.
+
+## Frameworki i metody
+
+- **Decision-Making Prompt (oczekiwana wartość)** — zamiast porównywać scenariusze optymistyczne jednej opcji z pesymistycznymi drugiej, prompt wymusza myślenie przez pryzmat najbardziej prawdopodobnego wyniku: *"For each option: best realistic outcome, worst realistic outcome, most likely outcome — then tell me which has the best most-likely outcome. Optimize for expected value."*
+- **Two-way door vs. one-way door** — podział decyzji na odwracalne (testowanie ceny, format treści, start newslettera → priorytet: szybkość) i nieodwracalne (najem lokalu, zatrudnienie, dług → priorytet: analiza). Kluczowe pytanie operacyjne: *"Czy mogę to cofnąć w 30 dni?"* — jeśli tak, przestań analizować i zacznij testować.
 
 ## Wnioski
-- Prompt do podejmowania decyzji z oczekiwaną wartością (`best/worst/most-likely` dla każdej opcji) radykalnie skraca czas analizy i eliminuje myślenie życzeniowe — warto zastosować przy decyzji o priorytetach projektów dobryai.pl czy kierunkach [[Dolnośląska Sieć Partnerstw LGD]].
-- Framework „drzwi w jedną/dwie strony" pozwala NGO szybciej eksperymentować: testowanie nowego formatu szkolenia, kampanii email-to-target czy nowego narzędzia [[Make.com]] to decyzje odwracalne — nie wymagają komitetów ani długiej analizy.
-- [[Claude]] jest rekomendowany jako narzędzie strategiczne zamiast generatora treści — jego przewaga nad ChatGPT leży w długim kontekście, zdolności do odrzucania słabych pomysłów i myśleniu strategicznym, nie tylko odpowiadaniu.
+
+- [[Prompt engineering]] w służbie decyzji strategicznych pozwala skrócić czas agonizowania z miesięcy do minut — warto wbudować podobne prompty w standardowy proces planowania projektów z organizacjami pozarządowymi.
+- Framework two-way/one-way door bezpośrednio przekłada się na pracę z organizacjami: większość decyzji w [[fundraising]]u (nowy kanał, format kampanii, CTA) to two-way doors — warto to uświadamiać klientom, by nie blokowali testowania.
+- Migracja autora z [[ChatGPT]] do [[Claude]] i opis różnicy ("Claude reasons through strategy, not just generates content") to dobry argument w szkoleniach z AI dla NGO pokazujący, dlaczego dobór narzędzia ma znaczenie.
 
 ## Cytat
-> „Decyzja paraliżuje nie dlatego, że jest trudna, ale dlatego, że nie wiesz jak wygląda dobry wynik — porównujesz best-case jednej opcji z worst-case drugiej."
+
+> "Ludzie budujący najszybciej nie są mądrzejsi — po prostu wiedzą, które drzwi otwierają się w obie strony."
 
 ## Zastosowanie
-Framework drzwi odwracalnych/nieodwracalnych przydatny w doradztwie dla NGO przy podejmowaniu decyzji o narzędziach i strategiach cyfrowych — szczególnie przy wdrożeniach AI gdzie opór wynika z traktowania każdej próby jak nieodwracalnego zobowiązania.
+
+Framework two-way/one-way door można wbudować w warsztaty strategiczne dla NGO jako narzędzie odblokowania decyzji — szczególnie przy wdrożeniach AI, gdzie organizacje często paraliżują się przed pierwszym krokiem. Prompt oparty na oczekiwanej wartości jest gotowy do użycia w sesjach doradczych z klientami przy wyborze narzędzi lub strategii kampanii.

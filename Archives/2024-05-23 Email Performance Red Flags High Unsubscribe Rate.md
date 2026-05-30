@@ -161,7 +161,7 @@ If you have multiple teams sending email, get on the same page to ensure recipie
 
 *“Some of the senders I work with who have high unsubscribe rates due to over-mailing are in that situation due to pressure from their leadership. When a CEO thinks sending more email equates to making more money, it’s very challenging for anyone else to say no. One technique that can help build a business case for backing off is measuring average subscriber tenure against lifetime customer value. This turns the conversation from ‘send more = make more money’ to ‘long term subscribers = make more money,’”* shared Autumn.
 
-I love this approach! Many practitioners fall into the trap of trying to get their bosses to understand how email works. Hate to break it to you, friends, but that’s almost never going to happen (unless [Tim Moore](https://www.linkedin.com/in/tim-moore-38186b1/) is your CEO… #emailnerd4liiiiiife! )
+I love this approach! Many practitioners fall into the trap of trying to get their bosses to understand how email works. Hate to break it to you, friends, but that’s almost never going to happen (unless [Tim Moore](https://www.linkedin.com/in/tim-moore-38186b1/) is your CEO… emailnerd4liiiiiife! )
 
 Speaking in revenue and business impact is always the way to go when you’re speaking to the folks who are charged with ensuring your company meets their goals.
 

@@ -168,7 +168,7 @@ The reality is, these outages happen. A lot.
 
 💌 Bookmark your ESP + mailbox provider status pages. Check them when things feel off.
 
-💌 Ask if others are facing a similar issue before panicking. The #emailgeeks Slack group, for example, is a great place to quickly find out if an issue is "just you" or something more widespread.
+💌 Ask if others are facing a similar issue before panicking. The emailgeeks Slack group, for example, is a great place to quickly find out if an issue is "just you" or something more widespread.
 
 💌 Escalate early — "delivered" in your ESP doesn’t always mean "delivered to the inbox". Check in with someone who has access to dig deeper into what might be happening... starting with your IT or infrastructure team.
 

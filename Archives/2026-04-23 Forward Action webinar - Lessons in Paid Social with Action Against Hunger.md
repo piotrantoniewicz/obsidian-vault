@@ -53,8 +53,7 @@ Get in touch: hello@forwardaction.uk
 About this webinar:  
   
 Recorded on Thursday 23 April 2026, this session explores how charities can adapt their paid social strategies to drive better results in a changing digital landscape.  
-  
-#PaidSocial #DigitalFundraising #CharityMarketing #NonprofitMarketing
+
 
 ## Transcript
 

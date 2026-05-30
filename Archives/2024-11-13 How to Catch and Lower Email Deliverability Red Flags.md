@@ -140,7 +140,7 @@ Make a data-based hypothesis about what you *think* is contributing to your chan
 
 If your email red flags persist or you’re unsure of the best next steps, connect with your ESP or a deliverability nerd ([like me!](https://send-it-right.com/lets-talk-email)) who enjoys noodlin’ through email data. We can offer insights, help you run diagnostics, or suggest tailored solutions to get your program back on track.
 
-Also consider dropping a question into #emailgeeks Slack, where you’re likely to have it answered by experts — and sometimes, mailbox provider themselves! Here’s a list of places you can go to [connect with other email folks](https://send-it-right.com/connect-with-email-nerds) who might be able to help.
+Also consider dropping a question into emailgeeks Slack, where you’re likely to have it answered by experts — and sometimes, mailbox provider themselves! Here’s a list of places you can go to [connect with other email folks](https://send-it-right.com/connect-with-email-nerds) who might be able to help.
 
 ## Wrapping it up.
 

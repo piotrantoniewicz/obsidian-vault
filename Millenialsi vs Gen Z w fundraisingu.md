@@ -2,18 +2,15 @@
 type: Note
 tags:
   - fundraising
-  - pokolenia
   - digital-campaigning
   - organizacje-społeczne
-created: '2026-05-26'
+created: 2026-05-26
 sources:
-  - '[[2026-04-15-how-to-get-more-donation-pledges-for-your-nonprofit]]'
-  - >-
-    [[2026-04-14-how-inbox-behaviour-changes-by-generation-and-what-it-means-for-your-email-strategy]]
-  - >-
-    [[2026-04-08-społeczność-jako-twój-najlepszy-fundraiser-jak-wdrożyć-model-peer-to-peer]]
-  - '[[2026-05-06-4-of-the-best-hacks-for-fundraisers-and-leaders-from-afp-icon]]'
-  - '[[2025-02-15-the-communication-giving-preferences-of-641-online-donors]]'
+  - "[[2026-04-15-how-to-get-more-donation-pledges-for-your-nonprofit]]"
+  - "[[2026-04-14-how-inbox-behaviour-changes-by-generation-and-what-it-means-for-your-email-strategy]]"
+  - "[[2026-04-08-społeczność-jako-twój-najlepszy-fundraiser-jak-wdrożyć-model-peer-to-peer]]"
+  - "[[2026-05-06-4-of-the-best-hacks-for-fundraisers-and-leaders-from-afp-icon]]"
+  - "[[2025-02-15-the-communication-giving-preferences-of-641-online-donors]]"
 ---
 # Millenialsi vs Gen Z w fundraisingu
 

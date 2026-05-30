@@ -65,7 +65,7 @@ Cause awareness and giving days are powerful themes upon which to launch social 
 15: [Endangered Species Day](https://www.daysoftheyear.com/days/endangered-species-day/) — EndangeredSpeciesDay  
 ****17: [International Day Against Homophobia, Transphobia, Biphobia](https://human-rights-channel.coe.int/idahotb-en.html) — IDAHOTB  
 ****18: [International Museum Day](https://www.daysoftheyear.com/days/museum-day/) — MuseumDay  
-22: [International Day for Biological Diversity](https://www.cbd.int/idb/) — BiologicalDiversityDay** **23: [World Turtle Day](https://www.awarenessdays.com/awareness-days-calendar/world-turtle-day/) —** **#WorldTurtleDay**  
+22: [International Day for Biological Diversity](https://www.cbd.int/idb/) — BiologicalDiversityDay** **23: [World Turtle Day](https://www.awarenessdays.com/awareness-days-calendar/world-turtle-day/) —** **WorldTurtleDay**  
 **31: [World No Tobacco Day](https://www.who.int/campaigns/world-no-tobacco-day) — WorldNoTobaccoDay****
 
 ## June

@@ -30,7 +30,7 @@ Key things to know:
 - **Theme:** Neighbors, friends and organizations taking small acts of generosity that make care visible and shared
 - **Framing:** A mid-year rhythm-builder, not a year-end push
 - **Participation:** Flexible. No formal registration is required. Activations range from donation drives and volunteer events to online campaigns
-- **National Hashtag:** #TogetherTuesday and tag @GivingTuesday
+- **National Hashtag:** TogetherTuesday and tag @GivingTuesday
 
 ## Our recommendation: Be part of building it
 
@@ -44,7 +44,7 @@ That said, here are three low-lift options worth considering:
 
 ### Option 1: Organic social (lowest lift)
 
-Nonprofits can participate in the national conversation by posting one or two social posts on or around June 23 using the #TogetherTuesday hashtag.
+Nonprofits can participate in the national conversation by posting one or two social posts on or around June 23 using the TogetherTuesday hashtag.
 
 - **Why:** It connects your organization to a national moment with growing visibility, costs nothing and requires minimal production effort
 - **What to post:** A message about what "community care" looks like for your cause, a story of impact, a volunteer spotlight or a simple call to give, volunteer or share
@@ -56,7 +56,7 @@ If you have a matching gift offer already in place for June, TogetherTuesday pro
 
 - **Why:** The day gives urgency and context to a message that might otherwise feel generic mid-month
 - **What to send:** A short, warm text (160 characters or fewer) that ties your match to the spirit of community care on June 23
-- **Sample copy:** *"Today is #TogetherTuesday! Every gift to \[Organization Name\] is matched dollar for dollar, up to $\[X\]. Your neighbors are counting on us. Give now: \[link\]* "
+- **Sample copy:** *"Today is TogetherTuesday! Every gift to \[Organization Name\] is matched dollar for dollar, up to $\[X\]. Your neighbors are counting on us. Give now: \[link\]* "
 - **Recommendation:** Confirm your match availability and segment to your most responsive texting list for best results
 
 ### Option 3: One-off standalone email (moderate lift)

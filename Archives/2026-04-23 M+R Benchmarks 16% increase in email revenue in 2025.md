@@ -44,7 +44,7 @@ That’s 16% of your list walking away every year. In other words, the average n
 
 *The move:* Prioritize organic and paid acquisition now while there’s time to warm up new supporters before year-end.
 
-A name added in May has months to get to know you before the first #GivingTuesday email drops.
+A name added in May has months to get to know you before the first GivingTuesday email drops.
 
 **Your 2025 one-time donors won’t stay one-time donors forever**  
 One-time giving grew 17% in 2025, outpacing monthly giving’s 12% growth.

@@ -110,7 +110,7 @@ These handy tools located directly on your nonprofit and personal fundraisers’
 
 The power of story lies in its ability to connect us on a deeply human level. In order to do that, you have to tell a good story that shows donors who they’re helping and how it works. Make your donors the hero’s of the story, you are simply a guide to helping them steward their money well and have a profound impact on the world
 
-The Bill and Melinda Gates Foundation partnered with GivingTuesday to develop the #MyGivingStory initiative: a space for donors, volunteers, and nonprofit staff to [tell the story](https://www.causevox.com/blog/effective-social-media-planning-for-nonprofit-fundraising-success/) about why they give. This initiative helps an organization’s supporters find the words and inspiration they need to activate and rally others to get involved.
+The Bill and Melinda Gates Foundation partnered with GivingTuesday to develop the MyGivingStory initiative: a space for donors, volunteers, and nonprofit staff to [tell the story](https://www.causevox.com/blog/effective-social-media-planning-for-nonprofit-fundraising-success/) about why they give. This initiative helps an organization’s supporters find the words and inspiration they need to activate and rally others to get involved.
 
 Stories help to connect people. Not only that, but they help your donors to place themselves in your organization’s work: they can see what their role is and how it impacts someone else.
 
@@ -128,7 +128,7 @@ For GivingTuesday 2025, think through what stories your nonprofit has to share a
 
 ### Get your supporters involved in your storytelling:
 
-- Ask your donors to tell #MyGivingStory, but be sure to ask them to tag your nonprofit in the post
+- Ask your donors to tell MyGivingStory, but be sure to ask them to tag your nonprofit in the post
 - Create your own hashtag storytelling challenge or picture sharing challenge on social media. (ie Volo City Kids Foundation asks their donors to change their profile picture to a childhood picture of themselves playing a sport)
 - Give them the opportunity to create their [own personal fundraising page](https://www.causevox.com/blog/peer-to-peer-fundraising-primer/), where they can share their own story and fundraise on your behalf on GivingTuesday.
 

@@ -307,7 +307,7 @@ Keep these best practices in mind for your year-end campaign:
 
 ### 1\. Branding
 
-When it comes to branding, consistency is key. Choosing a memorable and catchy hashtag or tagline that’s just 1-3 words long can help people easily recognize your campaign. For example, a hashtag like #FeedOurFuture or a tagline like “Power Up Learning” reinforces your mission, making it easy for people to remember, search, and engage with your campaign. Make sure it’s easy to type and sticks in people’s minds. Once you’ve decided on your phrase, use it across all your social media posts. This not only reinforces your message but also makes it easier for people to search for and engage with your campaign.
+When it comes to branding, consistency is key. Choosing a memorable and catchy hashtag or tagline that’s just 1-3 words long can help people easily recognize your campaign. For example, a hashtag like FeedOurFuture or a tagline like “Power Up Learning” reinforces your mission, making it easy for people to remember, search, and engage with your campaign. Make sure it’s easy to type and sticks in people’s minds. Once you’ve decided on your phrase, use it across all your social media posts. This not only reinforces your message but also makes it easier for people to search for and engage with your campaign.
 
 Before finalizing your hashtag or tagline, it’s a good idea to check if any other organizations or campaigns are already using something similar. If they are, it might be worth brainstorming a new one that feels unique to your campaign.
 

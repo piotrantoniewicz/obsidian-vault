@@ -20,7 +20,7 @@ Newsletter ProLetter z 4 marca 2026 stawia fundamentalną tezę dla strategii di
 
 - **DM-first strategy (Threads)** — frazy „DM me" / „message me" w poście automatycznie zamieniają się w klikalny link otwierający okno czatu prywatnego; konwersja z publicznego zainteresowania do prywatnej rozmowy bez dodatkowych kroków; zachowane ustawienia prywatności (blokowanie nieznajomych); logika: przechwycenie intencji w momencie jej szczytowego natężenia.
 - **Voice replies YouTube** — twórcy odpowiadają na komentarze nagraniami głosowymi (Android i iOS); skraca dystans między twórcą a widzem bez wysiłku nagrywania osobnego wideo; budowanie głębszej relacji przez autentyczny głos.
-- **Transparent sponsorship X** — formalne oznaczenie płatnego partnerstwa (menu z trzema kropkami, przed lub po publikacji); zastępuje hasztag #ad; X jednocześnie usuwa kryptowaluty i hazard z listy branż zakazanych (dozwolone przy właściwym oznaczeniu).
+- **Transparent sponsorship X** — formalne oznaczenie płatnego partnerstwa (menu z trzema kropkami, przed lub po publikacji); zastępuje hasztag ad; X jednocześnie usuwa kryptowaluty i hazard z listy branż zakazanych (dozwolone przy właściwym oznaczeniu).
 
 ## Kluczowe dane
 

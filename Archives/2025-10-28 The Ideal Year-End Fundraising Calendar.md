@@ -106,7 +106,7 @@ Here’s an example of what a year-end fundraising communications calendar can l
 
 ### Want this template to create your own year-end fundraising plan? Download yours when you enter your email here:
 
-## By #GivingTuesday (December 2, 2025): Big Fundraising Kickoff
+## By GivingTuesday (December 2, 2025): Big Fundraising Kickoff
 
 Engage in a GivingTuesday Fundraiser or Friendraiser: while you build your general plan, you should definitely take GivingTuesday into consideration. This day can have a big pay-off if you put together a clear plan.
 

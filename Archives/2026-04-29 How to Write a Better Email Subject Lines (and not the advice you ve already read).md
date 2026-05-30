@@ -74,7 +74,7 @@ Third: even if you get a statistically valid result, it tells you almost nothing
 
 What is worth testing instead? The things that are harder to test but more meaningful when you find an answer: the sequence of emails in a journey, the timing of a specific trigger relative to a behaviour, the presence or absence of a specific piece of content. Test at the programme level, not the subject line level. I've written about this in depth — the link is in the further reading below.
 
-## The psychology that #works
+## The psychology that works
 
 None of this means subject lines do not matter. They do. They are the pre-promise. They set the expectation. They determine who opens and in what frame of mind. Here are the psychological mechanisms that genuinely influence that decision.
 

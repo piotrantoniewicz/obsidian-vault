@@ -17,7 +17,7 @@ tags:
 Heather Mansfield z [[Nonprofit Tech for Good]] zebrała ponad 70 międzynarodowych dni tematycznych i zbiórek charytatywnych na 2026 rok, tworząc praktyczny kalendarz dla organizacji pozarządowych. Każdy wpis zawiera link do opisu dnia, gotowy hashtag i datę, co umożliwia bezpośrednie wykorzystanie w planowaniu kampanii social mediowych i fundraisingowych. Kalendarz obejmuje szeroki zakres tematów — od środowiska przez zdrowie po prawa człowieka — co pozwala każdej organizacji znaleźć daty rezonujące z jej misją. Wpisanie się w ogólnoświatowy kontekst tematyczny zwiększa zasięg postów i kampanii bez konieczności budowania narracji od zera.
 
 ## Wnioski
-- Planowanie kampanii fundraisingowych i mailingów wokół globalnych dni tematycznych (np. #GivingTuesday, #WorldNGODay) zwiększa zasięg i szansę na wirusowe dotarcie do nowych odbiorców.
+- Planowanie kampanii fundraisingowych i mailingów wokół globalnych dni tematycznych (np. GivingTuesday, WorldNGODay) zwiększa zasięg i szansę na wirusowe dotarcie do nowych odbiorców.
 - Gotowy zestaw hashtagów pozwala organizacjom wpisać się w szerszy dialog społeczny i zwiększyć widoczność treści bez dodatkowych nakładów na promocję.
 - Kalendarz stanowi gotowy framework do rocznego planowania treści — można połączyć go z harmonogramem mailingów, kampanii email-to-target i aktywności na social mediach.
 

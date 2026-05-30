@@ -19,7 +19,7 @@ tags:
 ## Frameworki i metody
 
 **Trzy opcje uczestnictwa (od najniższego do umiarkowanego nakładu):**
-- **Opcja 1 — Organiczne social media**: 1-2 posty w dniu 23 czerwca z hashtagiem #TogetherTuesday; zero kosztów produkcji
+- **Opcja 1 — Organiczne social media**: 1-2 posty w dniu 23 czerwca z hashtagiem TogetherTuesday; zero kosztów produkcji
 - **Opcja 2 — Kampania SMS z matching gift**: jeden SMS (≤160 znaków) do aktywnej listy tekstowej, z istniejącym matchem jako haczykiem czasowym
 - **Opcja 3 — Jednorazowy email**: targetowany do wybranego segmentu (np. lapsed donors, mid-level prospects) z historią wpływu i jasnym wezwaniem do działania
 

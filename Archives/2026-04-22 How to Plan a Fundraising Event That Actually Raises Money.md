@@ -5,6 +5,9 @@ url: "https://bloomerang.com/blog/how-to-plan-a-fundraising-event-that-actually-
 published: 2026-04-22
 created: 2026-05-29
 tags:
+  - "fundraising"
+  - "organizacje-społeczne"
+  - "strategia-organizacji"
 ---
 
 

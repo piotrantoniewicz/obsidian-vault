@@ -1,10 +1,14 @@
 ---
-type: "Web"
-authors: "[[Tom Iselin]]"
-url: "https://bloomerang.com/blog/the-importance-of-building-a-donor-pipeline-before-you-need-it?utm_medium=email_newsletter&utm_source=marketo&utm_campaign=26Q2-InBloom&utm_targeting=NA_all&utm_content=blog_pipeline_email-05-08&mkt_tok=NjE4LVdHSS00NTkAAAGhp_H00RrkNgM8rw2kyCqMXTTjQ3wDS7i9IN3-PFdoFdiGBjRUhaASVmS5jmK7CHb9YnZeTSTE9-_ydJVx1KSRihhAu14tFNob3NZLwtaRqfwaFBQ"
-published: 2026-04-22
-created: 2026-05-29
+type: Web
+authors: '[[Tom Iselin]]'
+url: >-
+  https://bloomerang.com/blog/the-importance-of-building-a-donor-pipeline-before-you-need-it?utm_medium=email_newsletter&utm_source=marketo&utm_campaign=26Q2-InBloom&utm_targeting=NA_all&utm_content=blog_pipeline_email-05-08&mkt_tok=NjE4LVdHSS00NTkAAAGhp_H00RrkNgM8rw2kyCqMXTTjQ3wDS7i9IN3-PFdoFdiGBjRUhaASVmS5jmK7CHb9YnZeTSTE9-_ydJVx1KSRihhAu14tFNob3NZLwtaRqfwaFBQ
+published: 2026-04-22T00:00:00.000Z
+created: 2026-05-29T00:00:00.000Z
 tags:
+  - fundraising
+  - organizacje-społeczne
+  - strategia-organizacji
 ---
 
 

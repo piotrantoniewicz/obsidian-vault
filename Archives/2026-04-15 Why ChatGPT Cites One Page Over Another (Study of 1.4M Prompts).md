@@ -1,10 +1,15 @@
 ---
-type: "Web"
-authors: ["[[Louise Linehan]]", "[[Xibeijia Guan]]"]
-url: "https://ahrefs.com/blog/why-chatgpt-cites-pages/"
-published: 2026-04-15
-created: 2026-05-29
+type: Web
+authors:
+  - '[[Louise Linehan]]'
+  - '[[Xibeijia Guan]]'
+url: 'https://ahrefs.com/blog/why-chatgpt-cites-pages/'
+published: 2026-04-15T00:00:00.000Z
+created: 2026-05-29T00:00:00.000Z
 tags:
+  - LLM
+  - narzędzia-AI
+  - content-marketing
 ---
 
 

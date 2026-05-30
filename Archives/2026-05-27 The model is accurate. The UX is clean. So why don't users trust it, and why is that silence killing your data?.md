@@ -5,6 +5,9 @@ url: "https://behavioralinsight.substack.com/p/the-model-is-accurate-the-ux-is-c
 published: 2026-05-27
 created: 2026-05-29
 tags:
+  - "strategia-AI"
+  - "szkolenia-AI"
+  - "narzędzia-AI"
 ---
 
 

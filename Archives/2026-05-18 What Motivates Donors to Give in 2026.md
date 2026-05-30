@@ -1,10 +1,14 @@
 ---
-type: "Web"
-authors: "[[Melaina Chromy]]"
-url: "https://bloomerang.com/blog/2026-giving-report-donor-motivation-and-charitable-giving-trends?utm_medium=email_newsletter&utm_source=marketo&utm_campaign=26Q2-InBloom&utm_targeting=NA_all&utm_content=blog_signals_email-05-29&mkt_tok=NjE4LVdHSS00NTkAAAGiFBdrN3y_JBp_023JIlIE34HHfOkINcbUBIpZT0aUIpiQnXkiw0tyY55K0y-vuKvPtoYdLJVTkhl7-VBFvLe-mtefal7xz6F7Fe3ywmxwCOOglv4"
-published: 2026-05-18
-created: 2026-05-29
+type: Web
+authors: '[[Melaina Chromy]]'
+url: >-
+  https://bloomerang.com/blog/2026-giving-report-donor-motivation-and-charitable-giving-trends?utm_medium=email_newsletter&utm_source=marketo&utm_campaign=26Q2-InBloom&utm_targeting=NA_all&utm_content=blog_signals_email-05-29&mkt_tok=NjE4LVdHSS00NTkAAAGiFBdrN3y_JBp_023JIlIE34HHfOkINcbUBIpZT0aUIpiQnXkiw0tyY55K0y-vuKvPtoYdLJVTkhl7-VBFvLe-mtefal7xz6F7Fe3ywmxwCOOglv4
+published: 2026-05-18T00:00:00.000Z
+created: 2026-05-29T00:00:00.000Z
 tags:
+  - fundraising
+  - digital-campaigning
+  - organizacje-społeczne
 ---
 
 

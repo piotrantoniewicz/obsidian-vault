@@ -5,6 +5,9 @@ url: "https://www.linkedin.com/pulse/magia-vibe-codingu-jak-stworzy%C5%82em-w%C5
 published: 2025-04-22
 created: 2026-05-31
 tags:
+  - "vibe-coding"
+  - "narzędzia-AI"
+  - "automatyzacja"
 ---
 
 

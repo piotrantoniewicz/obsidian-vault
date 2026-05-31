@@ -5,6 +5,9 @@ url: "https://www.linkedin.com/pulse/rewolucja-ai-first-w-e-commerce-shopify-zmi
 published: 2025-04-15
 created: 2026-05-31
 tags:
+  - "strategia-AI"
+  - "strategia-organizacji"
+  - "szkolenia-AI"
 ---
 
 

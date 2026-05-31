@@ -5,6 +5,9 @@ url: "https://www.linkedin.com/pulse/czym-jest-anthropic-economic-index-i-po-co-
 published: 2026-03-31
 created: 2026-05-31
 tags:
+  - "trendy-AI"
+  - "szkolenia-AI"
+  - "strategia-AI"
 ---
 
 

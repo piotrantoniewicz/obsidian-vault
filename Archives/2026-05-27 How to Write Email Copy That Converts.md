@@ -5,6 +5,9 @@ url: "https://weareastral.co.uk/thevault/how-to-write-email-copy-that-converts?u
 published: 2026-05-27
 created: 2026-05-31
 tags:
+  - "digital-campaigning"
+  - "fundraising"
+  - "ghostwriting"
 ---
 
 

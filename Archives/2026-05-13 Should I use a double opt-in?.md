@@ -1,14 +1,13 @@
 ---
-type: Web
-authors: '[[Beth O''Malley]]'
-url: >-
-  https://weareastral.co.uk/thevault/should-i-use-a-double-opt-in?&utm_medium=email&_hsenc=p2ANqtz--Vd0nmMZO8ryIlX9v9vVBq8r0kUaLmg9VonfPw44rhGD3jrETQIYl8LCG_dt21gRkWs0SxC1f3AD7_yTW6p7v1W3EI4VYoK9p_ze8FX9BxZ3QDW0U&_hsmi=135789897&utm_content=135788518&utm_source=hs_email
-published: 2026-05-13T00:00:00.000Z
-created: 2026-05-18T00:00:00.000Z
+type: "Web"
+authors: "[[Beth O'Malley]]"
+url: "https://weareastral.co.uk/thevault/should-i-use-a-double-opt-in?utm_medium=email&_hsenc=p2ANqtz-8HpGZdSaaKGNzzzP_nlizNzWaY0YASHzn-nPnUXwN0KrPB5mYuNN6YZvM7h4TJyltEu-bZozbc-usbOXxq7gQaM4edeWW1O14mBFv7RsQ2dbbtRoI&_hsmi=136887126&utm_content=136828310&utm_source=hs_email"
+published: 2026-05-13
+created: 2026-05-31
 tags:
-  - fundraising
-  - digital-campaigning
-  - content-marketing
+  - "content-marketing"
+  - "digital-campaigning"
+  - "fundraising"
 ---
 
 

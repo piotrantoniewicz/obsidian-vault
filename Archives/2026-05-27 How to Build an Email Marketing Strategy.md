@@ -5,6 +5,9 @@ url: "https://weareastral.co.uk/thevault/how-to-build-an-email-marketing-strateg
 published: 2026-05-27
 created: 2026-05-31
 tags:
+  - "digital-campaigning"
+  - "fundraising"
+  - "content-marketing"
 ---
 
 

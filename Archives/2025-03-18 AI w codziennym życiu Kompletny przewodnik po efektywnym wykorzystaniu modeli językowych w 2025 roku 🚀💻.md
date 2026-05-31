@@ -5,6 +5,9 @@ url: "https://www.linkedin.com/pulse/ai-w-codziennym-%C5%BCyciu-kompletny-przewo
 published: 2025-03-18
 created: 2026-05-31
 tags:
+  - "narzędzia-AI"
+  - "LLM"
+  - "prompt-engineering"
 ---
 
 

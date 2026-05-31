@@ -5,6 +5,9 @@ url: "https://www.linkedin.com/pulse/dlaczego-sztuczna-inteligencja-halucynuje-z
 published: 2025-04-01
 created: 2026-05-31
 tags:
+  - "LLM"
+  - "szkolenia-AI"
+  - "strategia-AI"
 ---
 
 

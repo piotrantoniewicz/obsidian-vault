@@ -5,6 +5,9 @@ url: "https://www.anthropic.com/research/labor-market-impacts"
 published: 2026-03-05
 created: 2026-05-31
 tags:
+  - "trendy-AI"
+  - "strategia-AI"
+  - "LLM"
 ---
 
 

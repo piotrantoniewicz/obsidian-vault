@@ -5,6 +5,9 @@ url: "https://www.linkedin.com/pulse/agenci-ai-od-podstaw-do-przysz%C5%82o%C5%9B
 published: 2025-04-08
 created: 2026-05-31
 tags:
+  - "strategia-AI"
+  - "automatyzacja"
+  - "trendy-AI"
 ---
 
 

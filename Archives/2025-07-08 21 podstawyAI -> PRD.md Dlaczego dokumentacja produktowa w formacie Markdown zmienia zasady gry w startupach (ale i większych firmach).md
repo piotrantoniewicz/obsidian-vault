@@ -5,6 +5,9 @@ url: "https://www.linkedin.com/pulse/21-podstawyai-prdmd-dlaczego-dokumentacja-w
 published: 2025-07-08
 created: 2026-05-31
 tags:
+  - "produkty-cyfrowe"
+  - "strategia-organizacji"
+  - "narzędzia-AI"
 ---
 
 

@@ -3,7 +3,7 @@ type: "Web"
 authors: "[[Roger Montti]]"
 url: "https://www.searchenginejournal.com/google-ai-overviews-surges-across-9-industries/568448/"
 published: 2026-03-01
-created: 2026-05-18
+created: 2026-05-31
 tags:
   - "trendy-AI"
   - "content-marketing"
@@ -24,8 +24,6 @@ New research from BrightEdge shows that while AI Overviews (AIO) has expanded it
 A twelve-month comparison from February 2025 to February 2026 shows that AI Overviews (AIO) coverage grew by a whopping 58%. The education sector experienced the strongest expansion in the number of queries triggering AI search results, from 18% of queries in May 2025 to 83% of queries triggering AI search results by December 2025.
 
 Similarly, B2B technology queries experienced a massive expansion of queries that triggered AI search results, growing from 36% to 82%. One of the strongest growing sectors for AI search results is restaurants, growing from 10% of queries to 78% of queries triggering AI search results.
-
-<iframe src="https://www.searchenginejournal.com/wp-json/sscats/v2/tk/Middle_Post_Text"></iframe>
 
 Meanwhile, healthcare queries were already triggering AIO results by a large margin since 2024, at a rate of 72% of the time. By December 2025, however, the rate at which healthcare queries triggered AIO edged up to 88%, which is an extraordinary amount of AI search results. Given that AIO is said to be driven by user satisfaction metrics, this may mean that users are appreciating having an AI explain healthcare-related topics in a conversational format.
 

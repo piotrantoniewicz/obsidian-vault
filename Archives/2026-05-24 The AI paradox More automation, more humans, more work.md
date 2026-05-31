@@ -5,6 +5,9 @@ url: "https://www.lennysnewsletter.com/p/the-ai-paradox-dan-shipper?utm_source=s
 published: 2026-05-24
 created: 2026-05-31
 tags:
+  - "strategia-AI"
+  - "trendy-AI"
+  - "narzędzia-AI"
 ---
 
 

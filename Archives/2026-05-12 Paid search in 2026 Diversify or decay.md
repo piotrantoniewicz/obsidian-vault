@@ -5,6 +5,9 @@ url: "https://www.mrss.com/lab/paid-search-in-2026-diversify-or-decay/"
 published: 2026-05-12
 created: 2026-05-31
 tags:
+  - "digital-campaigning"
+  - "trendy-AI"
+  - "strategia-AI"
 ---
 
 

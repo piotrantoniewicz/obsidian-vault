@@ -5,6 +5,9 @@ url: "https://www.lennysnewsletter.com/p/a-rational-conversation-on-where?utm_so
 published: 2026-05-31
 created: 2026-05-31
 tags:
+  - "strategia-AI"
+  - "trendy-AI"
+  - "LLM"
 ---
 
 

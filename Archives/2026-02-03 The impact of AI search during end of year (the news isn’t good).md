@@ -5,6 +5,9 @@ url: "https://www.mrss.com/lab/the-impact-of-ai-search-during-end-of-year-the-ne
 published: 2026-02-03
 created: 2026-05-31
 tags:
+  - "fundraising"
+  - "digital-campaigning"
+  - "organizacje-społeczne"
 ---
 
 

@@ -5,6 +5,9 @@ url: "https://www.lennysnewsletter.com/p/how-i-ai-how-the-engineer-behind?utm_so
 published: 2026-05-25
 created: 2026-05-31
 tags:
+  - "narzędzia-AI"
+  - "automatyzacja"
+  - "strategia-AI"
 ---
 
 

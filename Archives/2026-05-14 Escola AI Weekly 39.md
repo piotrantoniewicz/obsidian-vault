@@ -5,6 +5,9 @@ url: "https://wojewodzic.substack.com/p/escola-ai-weekly-39?utm_source=substack&
 published: 2026-05-14
 created: 2026-05-31
 tags:
+  - "trendy-AI"
+  - "automatyzacja"
+  - "strategia-AI"
 ---
 
 

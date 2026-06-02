@@ -5,6 +5,8 @@ url: "https://send-it-right.com/blog/email-myths"
 published: 2024-07-27
 created: 2026-06-02
 tags:
+  - "content-marketing"
+  - "digital-campaigning"
 ---
 
 

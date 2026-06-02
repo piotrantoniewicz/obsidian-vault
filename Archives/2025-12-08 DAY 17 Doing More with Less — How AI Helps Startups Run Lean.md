@@ -5,6 +5,9 @@ url: "https://www.linkedin.com/pulse/day-17-doing-more-less-how-ai-helps-startup
 published: 2025-12-08
 created: 2026-06-02
 tags:
+  - "automatyzacja"
+  - "narzędzia-AI"
+  - "strategia-AI"
 ---
 
 

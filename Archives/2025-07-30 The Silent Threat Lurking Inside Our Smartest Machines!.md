@@ -5,6 +5,9 @@ url: "https://www.linkedin.com/pulse/silent-threat-lurking-inside-our-smartest-m
 published: 2025-07-30
 created: 2026-06-02
 tags:
+  - "strategia-AI"
+  - "LLM"
+  - "trendy-AI"
 ---
 
 

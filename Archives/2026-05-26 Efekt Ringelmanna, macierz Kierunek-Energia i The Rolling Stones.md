@@ -5,6 +5,8 @@ url: "https://www.linkedin.com/pulse/efekt-ringelmanna-macierz-kierunek-energia-
 published: 2026-05-26
 created: 2026-06-02
 tags:
+  - "strategia-organizacji"
+  - "organizacje-społeczne"
 ---
 
 

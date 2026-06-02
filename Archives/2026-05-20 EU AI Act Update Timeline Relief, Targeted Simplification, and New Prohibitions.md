@@ -5,6 +5,9 @@ url: "https://www.globalpolicywatch.com/2026/05/eu-ai-act-update-timeline-relief
 published: 2026-05-20
 created: 2026-06-02
 tags:
+  - "strategia-AI"
+  - "trendy-AI"
+  - "narzędzia-AI"
 ---
 
 

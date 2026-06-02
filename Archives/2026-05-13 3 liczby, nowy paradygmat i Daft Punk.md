@@ -5,6 +5,7 @@ url: "https://www.linkedin.com/pulse/3-liczby-nowy-paradygmat-i-daft-punk-ma%C5%
 published: 2026-05-13
 created: 2026-06-02
 tags:
+  - "strategia-organizacji"
 ---
 
 

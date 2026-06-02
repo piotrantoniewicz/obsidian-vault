@@ -5,6 +5,9 @@ url: "https://www.nextafter.com/experiments/how-a-video-thumbnail-cta-got-more-c
 published: 2026-05-12
 created: 2026-06-02
 tags:
+  - "fundraising"
+  - "digital-campaigning"
+  - "content-marketing"
 ---
 
 

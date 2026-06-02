@@ -1,10 +1,14 @@
 ---
-type: "Web"
-authors: "[[Jacek Siadkowski]]"
-url: "https://www.forbes.com/councils/forbesnonprofitcouncil/2026/05/28/ai-driven-philanthropy-how-nonprofits-can-protect-their-mission/"
-published: 2026-05-28
-created: 2026-06-01
+type: Web
+authors: '[[Jacek Siadkowski]]'
+url: >-
+  https://www.forbes.com/councils/forbesnonprofitcouncil/2026/05/28/ai-driven-philanthropy-how-nonprofits-can-protect-their-mission/
+published: 2026-05-28T00:00:00.000Z
+created: 2026-06-01T00:00:00.000Z
 tags:
+  - strategia-AI
+  - organizacje-społeczne
+  - narzędzia-AI
 ---
 
 

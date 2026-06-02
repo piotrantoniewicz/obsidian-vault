@@ -1,10 +1,13 @@
 ---
-type: "Web"
-authors: "[[Madelyn Gardner]]"
-url: "https://www.brafton.com/blog/content-marketing/evergreen-meaning-in-marketing/"
-published: 2026-05-20
-created: 2026-06-01
+type: Web
+authors: '[[Madelyn Gardner]]'
+url: 'https://www.brafton.com/blog/content-marketing/evergreen-meaning-in-marketing/'
+published: 2026-05-20T00:00:00.000Z
+created: 2026-06-01T00:00:00.000Z
 tags:
+  - content-marketing
+  - digital-campaigning
+  - strategia-organizacji
 ---
 
 

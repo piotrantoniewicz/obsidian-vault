@@ -1,10 +1,13 @@
 ---
-type: "Web"
-authors: "[[Jonathan Goldford]]"
-url: "https://wiredimpact.com/blog/giving-levels-drive-donations/"
-published: 2026-04-02
-created: 2026-06-01
+type: Web
+authors: '[[Jonathan Goldford]]'
+url: 'https://wiredimpact.com/blog/giving-levels-drive-donations/'
+published: 2026-04-02T00:00:00.000Z
+created: 2026-06-01T00:00:00.000Z
 tags:
+  - fundraising
+  - organizacje-społeczne
+  - digital-campaigning
 ---
 
 

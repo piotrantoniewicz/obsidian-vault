@@ -1,10 +1,14 @@
 ---
-type: "Web"
-authors: "[[Bryan Neider]]"
-url: "https://www.linkedin.com/pulse/ai-revolution-rewriting-nonprofit-talent-roles-culture-bryan-neider-dcxyc/"
-published: 2026-06-01
-created: 2026-06-01
+type: Web
+authors: '[[Bryan Neider]]'
+url: >-
+  https://www.linkedin.com/pulse/ai-revolution-rewriting-nonprofit-talent-roles-culture-bryan-neider-dcxyc/
+published: 2026-06-01T00:00:00.000Z
+created: 2026-06-01T00:00:00.000Z
 tags:
+  - strategia-AI
+  - organizacje-społeczne
+  - automatyzacja
 ---
 
 

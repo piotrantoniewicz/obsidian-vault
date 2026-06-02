@@ -1,10 +1,13 @@
 ---
-type: "Web"
-authors: "[[Diana Otero]]"
-url: "https://nonprofithub.org/first-time-donor-retention/"
-published: 2026-04-21
-created: 2026-06-01
+type: Web
+authors: '[[Diana Otero]]'
+url: 'https://nonprofithub.org/first-time-donor-retention/'
+published: 2026-04-21T00:00:00.000Z
+created: 2026-06-01T00:00:00.000Z
 tags:
+  - fundraising
+  - digital-campaigning
+  - automatyzacja
 ---
 
 

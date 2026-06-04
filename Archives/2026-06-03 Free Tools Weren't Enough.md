@@ -5,6 +5,9 @@ url: "https://kylebehrend.substack.com/p/free-tools-werent-enough?r=62y3&utm_cam
 published: 2026-06-03
 created: 2026-06-03
 tags:
+  - organizacje-społeczne
+  - szkolenia-AI
+  - strategia-AI
 ---
 
 

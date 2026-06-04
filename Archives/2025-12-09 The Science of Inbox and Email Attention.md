@@ -5,6 +5,8 @@ url: "https://weareastral.co.uk/thevault/the-science-of-attention-why-people-rea
 published: 2025-12-09
 created: 2026-06-04
 tags:
+  - content-marketing
+  - strategia-organizacji
 ---
 
 

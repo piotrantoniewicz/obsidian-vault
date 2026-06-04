@@ -1132,6 +1132,7 @@
 - [[2025-12-08 Cheap and powerful AI campaigns target voters in India]] — Rest of World: AI w wyborach Bihar — klonowanie głosu, chatboty WhatsApp i deepfaki za 1500 USD/mies. zamiast całych zespołów.
 - [[2025-12-08 Guidance for using artificial intelligence in fundraising]] — Fundraising Regulator UK: 3-etapowe wytyczne dla fundraisingu AI z zasadą pełnej odpowiedzialności organizacji za każdy output.
 - [[2025-12-08 Nonprofits are solving 21st century problems—they need 21st century tech]] — Google.org: AI-powered NGO skalują misję wykładniczo; koalicja technologów, filantropów i decydentów jako warunek konieczny.
+- [[2025-12-08 NextAfter Minute 22 The Default Setting That Built Long-Term Giving]] — NextAfter: zmiana domyślnego ustawienia formularza donacji na cykliczne (15 USD) dała rekordowy wzrost dawców cyklicznych przy retencji 2× wyższej niż jednorazowi.
 - [[2025-12-09 AI to nie Twój kumpel (trik Karpathego)]] — Burnejko: LLM jako symulator — prośba o symulację dyskusji CFO, klienta i sceptyka zamiast pytania AI o opinie.
 - [[2025-12-09 Coś dziwnego dzieje się z moim Facebookiem!]] — Instytut Fundraisingu: creative (jedno zdjęcie + hasło) jako najtrudniejszy i kluczowy element skutecznej kampanii fundraisingowej.
 - [[2025-12-09 Global Amnesty International launches an Algorithmic Accountability toolkit to enable investigators, rights defenders and activists to hold powerful actors accountable for AI-facilitated harms]] — Amnesty: toolkit rozliczalności algorytmicznej łączący badania techniczne, prawo człowieka, kampanię i strategic litigation.
@@ -1142,6 +1143,7 @@
 - [[2025-12-09 The Pi Day test that drove 390% more revenue per send]] — Civic Shout: HRW i Museum of Science — o 50% mniej emaili dało +39% i +390% revenue per send w różnych kampaniach.
 - [[2025-12-09 What Happened on Giving Tuesday? Our Numbers Are In!]] — Engaging Networks: 19,5 mln USD w GT 2025, 100 mln maili; połowa wpłat koncentruje się w 8-godzinnym oknie wieczornym.
 - [[2025-12-09 Your old backlink strategy is dead (AI changed the rules)]] — Indig: nofollow równorzędne z dofollow w AI-search; citeable content (infografiki, badania) zastępuje ilościowy link building.
+- [[2025-12-09 The Science of Inbox and Email Attention]] — Beth O'Malley: 5 mechanizmów neurologicznych uwagi w skrzynce (cognitive load, triage, predictive coding); email jako kanał budowania pamięci, nie konwersji.
 - [[2025-12-10 Automatyzacja w NGO jak oddać żabę technologii i odzyskać czas na misję]] — ngo.pl: automatyzacja "żab" przez Word, Gemini Gems, Make.com i Airtable — konkretne scenariusze dla NGO bez programowania.
 - [[2025-12-10 In 2026, Advocacy and Organizing Will Get Smart About Social Media Platforms]] — New-Mode: Social Advocacy na Bluesky i Instagram; fragmentacja platform wymusza multi-channel advocacy i budowanie list emailowych.
 - [[2025-12-10 Mniej chaosu, więcej kontroli. Meta odpala nowy porządek]] — Meta: AI-guided hub do odzyskiwania kont, partnerstwa z wydawcami i nowa metryka Reels Skip Rate w API Instagrama.
@@ -1524,6 +1526,7 @@
 - [[2026-02-18 Preserving learning in the age of AI shortcuts]] — Harvard: trzy perspektywy na AI w edukacji — narzędzie kariery, ryzyko poznawcze, balans z życiem.
 - [[2026-02-18 The political effects of X s feed algorithm]] — Randomizowany eksperyment: algorytm X przesuwa opinie użytkowników w prawo — efekt persistentny po wyłączeniu.
 - [[2026-02-18 Wyzwanie 1 - Walidacja Produktu Cyfrowego]] — Easytools: walidacja produktu cyfrowego przed budowaniem — go-to-market i adopcja ważniejsze niż szybkość tworzenia.
+- [[2026-02-18 Intent Over Personalisation What “Personal” Actually Means in Email (and How to Build It)]] — Beth O’Malley: personalizacja emaila to nie imię w temacie lecz kontekst — framework trzech kubełków intencji (aktywna, pasywna, negatywna) i rola suppression.
 - [[2026-02-19 Cisco explores the expanding threat landscape of AI security for 2026 with its latest annual report]] — Cisco: 83% firm planuje agentic AI, tylko 29% gotowych; prompt injection i MCP jako nowe wektory ataków 2026.
 - [[2026-02-19 Head of Claude Code What happens after coding is solved  Boris Cherny]] — Boris Cherny: Claude Code odpowiada za 4% commitów na GitHubie; kolejna granica to automatyzacja ogólnych zadań biurowych.
 - [[2026-02-19 17 Ways Nonprofit Boards Can Support Governance And Risk Oversight]] — Forbes: 17 perspektyw liderów NGO na zarząd jako partnera strategicznego w zarządzaniu ryzykiem i AI.
@@ -2329,6 +2332,7 @@
 - [[2026-05-25 The 1 reason ghostwriters fail when pitching]] — Nicolas Cole: pricing power = umiejętność artykułowania problemu klienta lepiej niż on sam; sprzedaż to edukacja, nie perswazja.
 - [[2026-05-25 The Homogenization Trap of AI & Performance Reviews Stop Polishing, Start Anchoring]] — Neider: AI wygładza oceny pracownicze tworząc "pułapkę jednakowości"; framework ocen opartych na artefaktach zamiast narracji.
 - [[2026-05-25 Harness, Scaffold, and the AI Agent Terms Worth Getting Right]] — Hugging Face: słownik terminów AI Agents — harness, scaffold, agent, model i loop — jako praktyczny model mentalny do budowania i wdrażania agentów.
+- [[2026-05-25 Schema Markup in 2026 The Tags That Make Your Site Readable to Google's AI Agents]] — Robert Portillo: 8 typów schema markup kluczowych po Google I/O 2026; FAQPage cytowana 4–5× częściej przez AI; schema jako infrastruktura widoczności.
 - [[2026-05-26 20 messages – $4,000 in the bank]] — PGA: case Andrew — 20+ follow-upów przez kilka miesięcy zanim CEO tech potrzebował ghostwritera; milczenie to problem timingu, nie odrzucenie.
 - [[2026-05-26 Efekt Ringelmanna, macierz Kierunek-Energia i The Rolling Stones]] — Wardaszka-Deręgowska: efekt Ringelmanna w MŚP — powyżej 8 osób zaangażowanie spada o 50%; macierz Kierunek-Energia jako narzędzie diagnostyczne.
 - [[2026-05-26 Everything, Everywhere Take Your Ads to the Multiverse]] — M+R: Dynamic Creative Optimization (DCO) — setki wariantów kreacji optymalizowanych w czasie rzeczywistym; CPA o 20% niższy.
@@ -2361,6 +2365,9 @@
 - [[2026-05-29 Personal Stewardship Self-Investment & Career Resilience in the AI Era]] — Bryan Neider: zarządzanie własnym talentem i osądem jako system operacyjny kariery w erze AI; symbiotyczna współpraca z AI zamiast rywalizacji.
 - [[2026-05-29 Software 3.0 dlaczego twoja aplikacja nie powinna istnieć]] — Lipowczan/Karpathy: Software 3.0 = prompting jako programowanie; vibe coding vs. agentic engineering — każdy produkt cyfrowy jest przebudowywany na AI-first.
 - [[2026-05-29 The 21 Best Social Media Marketing Tools to Try in 2026]] — Buffer: przegląd 21 narzędzi social media — zarządzanie, analityka, social listening, wideo; zacznij od jednego kompleksowego.
+- [[2026-05-29 Digital Canvassing 2.0 Where Advocacy Meets Algorithm]] — Partisan: permanentna infrastruktura mobilizacji demokratycznej zamiast kampanijnych sprintów; framing wartościowy (fair play) do dotarcia do sceptycznych wyborców.
+- [[2026-05-29 What small organisations get wrong about digital advocacy when going against the big EU lobby]] — Partisan/Muradyan: 3 luki strukturalne NGO w EU advocacy (wywiadowcza, dostępu, wiarygodności); teoria zmiany i koalicje heterogeniczne jako klucz do wpływu.
+- [[2026-05-29 5 Campaign Lessons from Spain's Regional Elections AI, Disinformation and the Limits of Digital Warfare]] — Partisan/Rodriguez: AI zmienia tempo kampanii, nie strategię; 5 lekcji z Hiszpanii + triage dezinformacji (ignoruj/demaskuj/kontr-ramuj).
 - [[2026-05-30 176,000 writers are completely wrong about AI]] — Ship 30/PGA: AI zabiło commodity writing (stawki za słowo), nie pisanie — wyjście to model Premium Ghostwritera sprzedającego wyniki, nie słowa.
 - [[2026-05-30 49% polskich firm rozczarowanych AI. Wszyscy robią te same 5 rzeczy...]] — Tomasz Woliński: EY survey — 49% firm rozczarowanych; 5 błędów wdrożeniowych: brak właściciela, złe zadania, zła architektura agentów, brak KPI, brak iteracji.
 - [[2026-05-31 A rational conversation on where AI is actually going]] — Benedict Evans: AI to "moment 1997 internetu"; paradoks Jevonsa — tańsze zadania robimy częściej, nie eliminujemy; pytanie "zadanie czy rola?" kluczem do oceny wpływu AI na pracę.
@@ -2370,6 +2377,9 @@
 - [[2026-06-02 Send It Right - Why Missing the Inbox Costs More Than You Realize]] — Lauren Meyer: ukryte koszty problemów z dostarczalnością emaili — 5 kategorii strat poza open rates; zapobieganie zawsze tańsze niż naprawa.
 - [[2026-06-02 18 case studies w 3 godziny. Oto jak to zrobiłem.]] — wPraktyce.AI: 5-krokowy framework tworzenia contentu hurtowo z AI (matryca branża × problem, agent z transkrypcjami) — 18 case studies w 3h zamiast 72h.
 - [[2026-06-03 Kończymy projekt transformacja cyfrowa NGO w ramach NOWEFIO]] — TechSoup Polska: ewaluacja 2-letniego projektu NOWEFIO — cyfrowa zmiana blokowana przez triadę bariery czas/kompetencje/budżet, ale możliwa gdy traktowana jak konkretne zadanie z dedykowaną osobą.
+- [[2026-06-03 Free Tools Weren’t Enough]] — Kyle Behrend: 60+ NGO z darmowym dostępem do AI — korzystały 4; prawdziwa bariera to kultura organizacyjna, nie koszt narzędzi.
+- [[2026-06-03 Evolving From a Scarcity Mindset to One of Abundance]] — Bryan Neider: 5 lekcji transformacji AI dla organizacji społecznych — agenci autonomiczni, Parity Benchmark, Compute Equity jako nowe ramy działania NGO.
+- [[2026-06-03 Tech News Weekly 84 — Agenci AI przejmują kontrolę od giełdy po Twój kalendarz]] — Paweł Lipowczan: przełom matematyczny OpenAI, Gemini Spark, Microsoft Scout, GitHub Copilot pricing — tygodniowy przegląd krajobrażu AI agentów.
 - [[2026-06-04 CEO liczy metry kabla zamiast szukać kontraktów]] — wPraktyce.AI: case study automatyzacji kosztorysowania i dokumentacji powykonawczej u elektryka — wzorzec "wiedza ekspercka w głowie → agent AI na skalę", ROI w 3 miesiące.
 - [[2026-06-04 największy błąd w fundraisingu]] — Social Movers Hub: największy błąd NGO to komunikowanie do wszystkich jednakowo — rozwiązaniem jest budowanie persony darczyńcy i pytanie „co ta osoba potrzebuje usłyszeć".
 - [[2026-06-04 AEO tips for nonprofits]] — Caroline Griffin: jak NGO powinny optymalizować swoją widoczność w wynikach AI (AEO) — przez historie beneficjentów, earned media, Google My Business i schema markup.

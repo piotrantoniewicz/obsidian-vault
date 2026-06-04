@@ -5,6 +5,9 @@ url: "https://www.linkedin.com/pulse/evolving-from-scarcity-mindset-one-abundanc
 published: 2026-06-03
 created: 2026-06-03
 tags:
+  - organizacje-społeczne
+  - strategia-AI
+  - automatyzacja
 ---
 
 

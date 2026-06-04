@@ -5,6 +5,9 @@ url: "https://weareastral.co.uk/thevault/intent-over-personalisation-what-person
 published: 2026-02-18
 created: 2026-06-04
 tags:
+  - content-marketing
+  - digital-campaigning
+  - strategia-organizacji
 ---
 
 

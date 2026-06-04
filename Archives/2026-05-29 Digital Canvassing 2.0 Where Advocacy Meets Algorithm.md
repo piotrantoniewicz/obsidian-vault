@@ -5,6 +5,9 @@ url: "https://hub.partisan.community/m/news/digital-canvassing-2.0-where-advocac
 published: 2026-05-29
 created: 2026-06-04
 tags:
+  - digital-campaigning
+  - organizacje-społeczne
+  - framing
 ---
 
 

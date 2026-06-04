@@ -5,6 +5,9 @@ url: "https://www.linkedin.com/pulse/tech-news-weekly-84-agenci-ai-przejmuj%25C4
 published: 2026-06-03
 created: 2026-06-03
 tags:
+  - trendy-AI
+  - narzędzia-AI
+  - automatyzacja
 ---
 
 

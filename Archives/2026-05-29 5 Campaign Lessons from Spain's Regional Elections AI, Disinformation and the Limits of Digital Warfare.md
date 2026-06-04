@@ -5,6 +5,9 @@ url: "https://hub.partisan.community/m/news/5-campaign-lessons-from-spains-regio
 published: 2026-05-29
 created: 2026-06-04
 tags:
+  - digital-campaigning
+  - strategia-AI
+  - framing
 ---
 
 

@@ -5,6 +5,9 @@ url: "https://hub.partisan.community/m/news/what-small-organisations-get-wrong-a
 published: 2026-05-29
 created: 2026-06-04
 tags:
+  - digital-campaigning
+  - organizacje-społeczne
+  - strategia-organizacji
 ---
 
 

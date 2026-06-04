@@ -22,6 +22,61 @@ Piotr/
 - Po dodaniu notatki do `Resources/` dopisz wpis do `Resources/index.md` w formacie:
   `- [[YYYY-MM-DD Tytuł]] — jednozdaniowy opis co zawiera`
 
+## Uzupełnianie index.md — procedura
+
+`Resources/index.md` ma ~451 KB i 2370+ linii — nie można go czytać w całości. Używaj wyłącznie narzędzi bash.
+
+### Krok 1 — znajdź brakujące wpisy
+
+```bash
+# Wylistuj pliki i wyciągnij zaindeksowane tytuły
+ls /Users/piotr_air/Obsidian/Piotr/Resources/*.md | grep -v '/index' | sed 's|.*/||; s|\.md$||' | sort > /tmp/all_files.txt
+
+# Wyciągnij alias (po |) jeśli istnieje, inaczej tytuł — obsługuje oba formaty linków
+grep -oP '(?<=\|)[^\]]+(?=\]\])|(?<=\[\[)[^\]|]+(?=\]\])' \
+  /Users/piotr_air/Obsidian/Piotr/Resources/index.md \
+  | sed 's|^[^/]*/||' | sort > /tmp/indexed.txt
+
+comm -23 /tmp/all_files.txt /tmp/indexed.txt
+```
+
+**Uwaga na fałszywe alarmy** — `comm` może nadal zgłosić plik jako brakujący jeśli:
+- tytuł w indeksie ma inną interpunkcję niż nazwa pliku (np. `Don't` vs `Don't` — curly vs straight apostrof)
+- tytuł ma inną wielkość liter (np. `extreme heat` vs `Extreme Heat`)
+- nazwa pliku zaczyna się od `[nawiasy kwadratowe]` — regex `[^\]|]+` zatrzymuje się na `[`
+
+Przed uznaniem pliku za brakujący **zawsze zweryfikuj** samą datą:
+```bash
+grep -c "YYYY-MM-DD" /Users/piotr_air/Obsidian/Piotr/Resources/index.md
+```
+Jeśli wynik > 0 — plik jest w indeksie (może mieć inny tytuł). Jeśli wynik = 0 — plik naprawdę nie istnieje w indeksie i należy go dodać.
+
+### Krok 2 — znajdź duplikaty
+
+```bash
+grep -oP '(?<=\[\[)[^\]]+(?=\]\])' /Users/piotr_air/Obsidian/Piotr/Resources/index.md | sort | uniq -d
+```
+
+### Krok 3 — odczytaj treść notatki
+
+Pliki mogą mieć w nazwie curly apostrofy (') — `head` z dosłowną nazwą zawiedzie. Użyj `find`:
+```bash
+find /Users/piotr_air/Obsidian/Piotr/Resources/ -name "YYYY-MM-DD*" -exec head -30 {} \;
+```
+
+### Krok 4 — dopisz wpis do index.md
+
+Wpis wstawiaj **chronologicznie** — znajdź ostatni wpis z tego samego dnia lub poprzedniego:
+```bash
+grep -n "YYYY-MM-DD\|YYYY-MM-DD-1" /Users/piotr_air/Obsidian/Piotr/Resources/index.md | tail -5
+```
+Następnie użyj Edit z dokładnym kontekstem sąsiedniego wiersza jako `old_string`.
+
+Format wpisu:
+```
+- [[YYYY-MM-DD Tytuł]] — jednozdaniowy opis co zawiera
+```
+
 ## Format notatki (Resources/)
 
 ```yaml

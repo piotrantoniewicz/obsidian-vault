@@ -5,6 +5,9 @@ url: "https://www.civicshoutnewsletter.com/p/how-you-can-turn-privacy-into-a-gro
 published: 2025-09-30
 created: 2026-06-09
 tags:
+  - "fundraising"
+  - "digital-campaigning"
+  - "organizacje-społeczne"
 ---
 
 

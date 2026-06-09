@@ -5,6 +5,9 @@ url: "https://hub.partisan.community/m/news/new-rulebook-same-race-campaigning-a
 published: 2026-06-07
 created: 2026-06-09
 tags:
+  - "digital-campaigning"
+  - "framing"
+  - "strategia-organizacji"
 ---
 
 

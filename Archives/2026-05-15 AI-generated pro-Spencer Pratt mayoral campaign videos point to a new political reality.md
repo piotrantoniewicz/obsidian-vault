@@ -5,6 +5,9 @@ url: "https://www.nbcnews.com/tech/tech-news/spencer-pratt-los-angeles-mayoral-c
 published: 2026-05-15
 created: 2026-06-09
 tags:
+  - "digital-campaigning"
+  - "trendy-AI"
+  - "framing"
 ---
 
 

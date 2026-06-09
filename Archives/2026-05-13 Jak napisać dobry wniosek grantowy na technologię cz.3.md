@@ -5,6 +5,9 @@ url: "https://www.techsoup.pl/blog/jak-napisac-dobry-wniosek-grantowy-na-technol
 published: 2026-05-13
 created: 2026-06-09
 tags:
+  - "fundraising"
+  - "organizacje-społeczne"
+  - "szkolenia-AI"
 ---
 
 

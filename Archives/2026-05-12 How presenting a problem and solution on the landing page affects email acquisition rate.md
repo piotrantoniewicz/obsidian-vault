@@ -5,6 +5,9 @@ url: "https://www.nextafter.com/experiments/how-presenting-a-problem-and-solutio
 published: 2026-05-12
 created: 2026-06-09
 tags:
+  - "framing"
+  - "fundraising"
+  - "digital-campaigning"
 ---
 
 

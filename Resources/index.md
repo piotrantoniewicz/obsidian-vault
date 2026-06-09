@@ -2255,6 +2255,8 @@
 - [[Resources/2026-05-12 Does the addition of a premium on an offer donation page impact donor conversion?|2026-05-12 Does the addition of a premium on an offer donation page impact donor conversion?]] — Jeff Giddens (NextAfter): test A/B pokazuje, że premia na stronie donacyjnej podwaja konwersję i zwiększa dary cykliczne o 102,9%.
 - [[Resources/2026-05-12 Surround Sound Communications How to Build a Narrative Machine|2026-05-12 Surround Sound Communications How to Build a Narrative Machine]] — Ritti Singh: model "surround sound" — ta sama narracja z wielu kierunków buduje "common sense"; kampania Freeze the Rent jako case study.
 - [[2026-05-12 Wstydziłam się metody, którą zarobiłam 50k]] — Magdalena Pawłowska: sprzedaż kursu za 50 tys. zł bez listy mailowej — wyłącznie przez DM i jeden post na prywatnym Facebooku.
+- [[2026-05-12 How presenting a problem and solution on the landing page affects email acquisition rate]] — NextAfter: framing problem/rozwiązanie na landing page zwiększa email acquisition o 20,6%; eksperyment A/B dla Franciscan University.
+- [[2026-05-13 Jak napisać dobry wniosek grantowy na technologię cz.3]] — TechSoup: anatomia wniosku grantowego (7 sekcji, ukryte pytania recenzenta), cele SMART, AI jako pomocnik a nie autor wniosku.
 - [[2026-05-13 Czy warto jeszcze być na Facebooku-]] — Facebook traci Gen Z, ale pozostaje najlepszym kanałem dla 30–40-latków; Meta AI Connectors otwierają automatyzację kampanii.
 - [[2026-05-13 Email Marketing for B2B SaaS The Mistakes I Keep Seeing and How to Fix Them]] — Beth O'Malley: 5 błędów email marketingu SaaS; segmentacja według motywacji i triggery behawioralne jako rozwiązanie.
 - [[2026-05-13 How I Get People To Reply To My Emails]] — Jess Campbell: 4 techniki generowania odpowiedzi (emoji, quiz, jedno słowo, long-form) obniżające barierę reakcji subskrybenta.
@@ -2274,6 +2276,7 @@
 - [[2026-05-14 How WWF tripled its renewal rate]] — WWF: potrojenie wskaźnika odnowień przez rozbudowanie sekwencji powitalnej do 15 etapów z personalizacją i mechanizmem ratowania odwołań.
 - [[2026-05-14 Navigating the Labyrinth Innovation in a "Calcified" World]] — Bryan Neider: innowacja w sektorze społecznym to nawigacja biurokracji przez sojusze z urzędnikami i skumulowane małe zwycięstwa.
 - [[2026-05-15 Why Your Mission Should Outlive Your Goals]] — Neider: misja (duże M) musi przetrwać osiągnięcie konkretnego celu; pięć scenariuszy zapobiegania "post-summit identity crisis".
+- [[2026-05-15 AI-generated pro-Spencer Pratt mayoral campaign videos point to a new political reality]] — Angela Yang: AI-generowane virale kampanijne jako nowy standard; demokratyzacja propagandy i dylemat trust vs. storytelling.
 - [[2026-05-16 the 3 mistakes keeping you stuck]] — PGA: 3 systemowe błędy ghostwriterów — brak niszy, brak productizacji, brak systemu outreach; kaskadowa pułapka niskich stawek.
 - [[2026-05-16 Malta gives citizens a paid version of ChatGPT Plus for free]] — Malta i OpenAI: pierwsze rządowe partnerstwo AI; bezpłatny ChatGPT Plus dla obywateli po ukończeniu kursu AI literacy.
 - [[2026-05-18 Deep Dive Voter Perceptions in the AI Era Measure, Diagnose, Improve]] — RankBee AI / Partisan: framework Measure-Diagnose-Improve do zarządzania widocznością NGO i kampanii w systemach AI — jak AI kształtuje percepcję wyborców.
@@ -2389,6 +2392,7 @@
 - [[2026-06-03 Free Tools Weren’t Enough]] — Kyle Behrend: 60+ NGO z darmowym dostępem do AI — korzystały 4; prawdziwa bariera to kultura organizacyjna, nie koszt narzędzi.
 - [[2026-06-03 Evolving From a Scarcity Mindset to One of Abundance]] — Bryan Neider: 5 lekcji transformacji AI dla organizacji społecznych — agenci autonomiczni, Parity Benchmark, Compute Equity jako nowe ramy działania NGO.
 - [[2026-06-03 Tech News Weekly 84 — Agenci AI przejmują kontrolę od giełdy po Twój kalendarz]] — Paweł Lipowczan: przełom matematyczny OpenAI, Gemini Spark, Microsoft Scout, GitHub Copilot pricing — tygodniowy przegląd krajobrażu AI agentów.
+- [[2026-06-03 ANALYSIS Creators are Challenging the Influence of Advocacy Groups]] — M+R: twórcy (54% top kont politycznych) wypierają NGO (3%) z social media; 4 strategie creator playbooku dla organizacji advocacy.
 - [[2026-06-04 How the American Kidney Fund grew email revenue by 52%]] — Civic Shout: case study AKF — higiena listy + segmentacja dały +52% przychodu z e-maila i +25% darowizn rok do roku; scrubowanie zewnętrzne, ankiety one-click i miesięczne kontrole listy.
 - [[2026-06-04 CEO liczy metry kabla zamiast szukać kontraktów]] — wPraktyce.AI: case study automatyzacji kosztorysowania i dokumentacji powykonawczej u elektryka — wzorzec "wiedza ekspercka w głowie → agent AI na skalę", ROI w 3 miesiące.
 - [[2026-06-04 największy błąd w fundraisingu]] — Social Movers Hub: największy błąd NGO to komunikowanie do wszystkich jednakowo — rozwiązaniem jest budowanie persony darczyńcy i pytanie „co ta osoba potrzebuje usłyszeć".
@@ -2401,6 +2405,7 @@
 - [[2026-06-08 How to overcome any sales objection]] — Ship 30 for 30: framework "Sales is Education" — obiekcje klientów to luka edukacyjna, nie fakty; ghostwriter edukuje prospekta zamiast przekonywać.
 - [[2026-06-08 Don't Let AI = Atrophy of Intellect]] — Bryan Neider: całkowite delegowanie myślenia do AI powoduje atrofię intelektualną w NGO; 5-krokowy Critical Thinking Workout chroniący głębokie przetwarzanie poznawcze.
 - [[2026-06-05 Your company needs agency, not agents.]] — Elena Verna: struktury organizacyjne oparte na command-and-control blokują wartość AI — potrzeba sprawczości pracowników (agency), nie tylko agentów AI.
+- [[2026-06-07 New Rulebook, Same Race Campaigning After TTPA and GDPR]] — Partisan: koniec mikrotargetowania w UE po TTPA; nowym gatekeeperem są AI search (GEO jako nowe SEO); email i owned channels wracają do centrum strategii.
 - [[2026-06-07 FULL BREAKDOWN Revealing Every Email We Send Across 5 Businesses & 250,000 Subscribers]] — Dickie Bush: architektura email engine dla 5 modeli biznesowych — sekwencje behawioralne, trzy typy emaili i 7 zasad maksymalizacji ROI z emaila.
 - [[2026-06-07 5 Campaign Lessons from the EU Inc Campaign (and Why It Isn't Over Yet)]] — Partisan: 5 lekcji advocacy z kampanii EU Inc — jeden prosty ask, koalicja jako argument, draft zamiast żądania, pożyczanie narracji instytucji, budżetowanie trylogu.
 - [[2026-05-25 5 Nonprofit Brand Strategy Lessons]] — Nicole Jamrozinski: strategia marki NGO to jasność organizacyjna, nie polished wizualia; spójność buduje zaufanie skuteczniej niż kreatywność.

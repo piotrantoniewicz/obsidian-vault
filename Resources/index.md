@@ -2383,3 +2383,4 @@
 - [[2026-06-04 CEO liczy metry kabla zamiast szukać kontraktów]] — wPraktyce.AI: case study automatyzacji kosztorysowania i dokumentacji powykonawczej u elektryka — wzorzec "wiedza ekspercka w głowie → agent AI na skalę", ROI w 3 miesiące.
 - [[2026-06-04 największy błąd w fundraisingu]] — Social Movers Hub: największy błąd NGO to komunikowanie do wszystkich jednakowo — rozwiązaniem jest budowanie persony darczyńcy i pytanie „co ta osoba potrzebuje usłyszeć".
 - [[2026-06-04 AEO tips for nonprofits]] — Caroline Griffin: jak NGO powinny optymalizować swoją widoczność w wynikach AI (AEO) — przez historie beneficjentów, earned media, Google My Business i schema markup.
+- [[2026-06-09 Kiedy warto automatyzować wycenę z AI]] — wPraktyce.AI (Patryk Łopot): kiedy automatyzacja wycen ma sens, a kiedy nie — LLM nie liczy tylko przewiduje, test kolorowości i test reguł jako narzędzia diagnostyczne.

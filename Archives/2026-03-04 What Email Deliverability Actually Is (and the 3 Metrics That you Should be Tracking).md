@@ -5,6 +5,8 @@ url: "https://weareastral.co.uk/thevault/what-email-deliverability-actually-is-a
 published: 2026-03-04
 created: 2026-06-10
 tags:
+  - digital-campaigning
+  - fundraising
 ---
 
 

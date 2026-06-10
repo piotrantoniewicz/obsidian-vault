@@ -405,6 +405,7 @@
 - [[2025-06-07 Struktura Greenpeace]] — Analiza emaili Greenpeace Polska: personalizacja nadawcy, emotikonki i wzorce tematów mobilizacyjnych.
 - [[2025-06-07 Struktura WeMove]] — Analiza struktury emaili WeMove Europe: brutalna bezpośredniość, dramatyczne otwarcia i brak emoji.
 - [[2025-06-08 Jess Campbell]] — Porady Jess Campbell: budowanie listy emailowej, sekwencje powitalne i czyszczenie nieaktywnych subskrybentów.
+- [[2025-06-08 20 Fundraising Workflows You Should Automate in 2025]] — Nathan Hill / Avid: 20 konkretnych workflow fundraisingowych do automatyzacji — od serii powitalnych po scoring major donorów i re-engagement lapsed donors.
 - [[2025-06-09 21 Donor Recognition Examples How to Thank Donors Well]] — 21 sposobów dziękowania darczyńcom; podziękowanie w 48h zwiększa retencję 4x, telefon o 30%.
 - [[2025-06-09 Sovereign AI is political branding—the reality is closer to digital colonialism]] — "Suwerenna AI" to branding: ZEA i Francja inwestują miliardy, lecz w pełni zależą od infrastruktury USA.
 - [[2025-06-10 17 podstawyAI - czyli spróbujmy razem stworzyć aplikację webową z użyciem vibe codingu (podstawyDEV) - część 1, przygotowanie]] — Jurgiel-Zyla: vibe coding krok po kroku — Cursor tworzy zaślepkę HTML, Claude generuje PRD; tech stack PHP+MySQL.
@@ -1643,6 +1644,7 @@
 - [[2026-03-04 Upgrade Links Boost Recurring Donations and Cover Fees Easily - Fundraise Up]] — Fundraise Up: spersonalizowane linki zwiększające stałą darowiznę bez ponownego wpisywania danych płatności.
 - [[2026-03-04 You're In! Let's Build Your List From Scratch Starting Now]] — Jenny Kutcher: 5-lekcyjny kurs budowania listy emailowej od zera — lead magnet, Flodesk i 30-dniowy plan treści.
 - [[2026-03-04 Z nami zbierzesz więcej]] — Pomagam.pl: "permacrisis" i Compassion Fatigue — autentyczność i usuwanie barier technologicznych w fundraisingu 2026.
+- [[2026-03-04 What Email Deliverability Actually Is (and the 3 Metrics That you Should be Tracking)]] — Beth O'Malley: różnica między delivery a deliverability — 3 metryki (IPR, SPR, SCC), jak Gmail/Microsoft/Yahoo budują reputację nadawcy i dlaczego panel ESP wprowadza w błąd.
 - [[2026-03-05 Data is power. Don't waste yours]] — ECDA: trzy poziomy pracy z danymi NGO — raportowanie wyników, moderacja TrollWall AI i strategia wyborcza.
 - [[2026-03-05 Do this ONE thing to maximize your email course RESULTS!]] — Jenna Kutcher: zasada "implement as you go" — kursy działają tylko przy natychmiastowym wdrażaniu każdej lekcji.
 - [[2026-03-05 How to protect your charity s forms from spam]] — More Onion: wielowarstwowa ochrona formularzy NGO przed spamem — ochrona sesyjna, honeypoty i wielowarstwowe bariery.
@@ -2330,6 +2332,7 @@
 - [[2026-05-18 What Motivates Donors to Give in 2026]] — Bloomerang 2026: retencja 31,9%, konwersja pierwszego daru 25,84%; stewardship w 60 dniach po darze decyduje o budowie bazy.
 - [[2026-05-18 Why relationships are the hidden infrastructure of AI transformation]] — Glenn Remoreras: transformacja AI to 20% technologii i 80% ludzi; zaufanie i relacje jako rzeczywisty różnicujący czynnik wdrożeń.
 - [[2026-05-18 Why this Claude Code engineer uses HTML files as AI specs  Thariq Shihipar (Anthropic)]] — Thariq Shihipar (Anthropic): HTML zamiast Markdown jako medium spec AI — workflow brainstorm→plan→micro-app→wdrożenie i mentalność alokatora zasobów obliczeniowych.
+- [[2026-05-18 How Do You Stand Out When Everyone's Using AI To Create Content?]] — Nicolas Cole: trójwarstwowy model wartości informacji w epoce AI (organizacja + pewność + asset) — dlaczego ekspertyza i zaufanie nie są zastępowalne przez prompty.
 - [[2026-05-19 5 Lessons From RankBee AI on -Voter Perceptions in the AI Era-]] — RankBee AI: LLM jako nowa brama informacyjna wyborców; widoczność organizacji w odpowiedziach AI ważniejsza niż SEO.
 - [[2026-05-19 50 Cart Abandonment Rate Statistics 2026]] — Baymard: 70,22% koszyk porzucony; benchmark i przyczyny, bezpośrednio przekładalne na optymalizację formularzy donacyjnych NGO.
 - [[2026-05-19 AI kosztuje 6-9 tys. PLN. Twój chaos kosztuje więcej]] — Transparentne widełki cenowe automatyzacji AI dla MŚP; średni zwrot w 47 dni; koszt bezczynności > koszt wdrożenia.
@@ -2424,6 +2427,8 @@
 - [[2026-06-01 Brzmi jak odpowiedzialność. Czy to o Tobie?]] — Instytut Fundraisingu: 80% NGO paraliżuje "muszę zapytać" — skuteczny fundraising wymaga jednej osoby z pełnym mandatem i rocznym planem przychodów.
 - [[2026-06-01 How to land ghostwriting clients in 30 days]] — Ship 30 for 30: 7-krokowy roadmap pozyskania pierwszego klienta ghostwritingowego za $3,000 w 30 dni — Niche Down, Be Your Own Case Study, Leaks & Faucets, 5x follow-up.
 - [[2026-06-01 The AI Revolution is Rewriting Nonprofit Talent, Roles, and Culture]] — Bryan Neider: AI eliminuje coordination drag w NGO; REWRITE Methodology — edge pilots, Fiduciary Wedge i spłaszczona hierarchia.
+- [[2026-06-01 Od strategii do wyniku jak połączyć marketing i sprzedaż, żeby budować biznes w przemyśle - gościnnie Mariusz Gliński z BusinessWeb]] — Beeffective/BusinessWeb: model integracji marketingu i sprzedaży B2B na HubSpot — APS, MQL/SQL, REV.BW i dlaczego CRM przed zmapowaniem procesów kończy się fiaskiem.
+- [[2026-06-01 How Generative AI Is Redefining Visibility—And What Sales, Marketing, and Communications Leaders Must Do Now]] — Leah Nurik: generatywne AI zastępuje wyszukiwarki jako punkt odkrycia — widoczność wymaga citable treści i zewnętrznych wzmianek; ruch z AI konwertuje 15-20× lepiej.
 - [[2026-06-02 18 case studies w 3 godziny. Oto jak to zrobiłem]] — wPraktyce.AI: 5-krokowy framework tworzenia contentu hurtowo z AI (matryca branża × problem, agent z transkrypcjami) — 18 case studies w 3h zamiast 72h.
 - [[2026-06-02 5 tools every nonprofit emailer should know about]] — Civic Shout: pięć narzędzi dla emailerów NGO — Google Postmaster Tools, GlockApps, Litmus, Beefree, Aboutmy.email — do monitorowania reputacji domeny, dostarczalności, renderowania i konfiguracji technicznej.
 - [[2026-06-02 Ghostwriting isn't just for books]] — Ship 30 for 30: ghostwriting poza książkami (LinkedIn, newslettery, YouTube, sales pages); strategia "Lead with observation, not pitch" i "Push for the call, not the Loom".
@@ -2431,6 +2436,7 @@
 - [[2026-06-02 Send It Right - Why Missing the Inbox Costs More Than You Realize]] — Lauren Meyer: ukryte koszty problemów z dostarczalnością emaili — 5 kategorii strat poza open rates; zapobieganie zawsze tańsze niż naprawa.
 - [[2026-06-02 This ghostwriter made $5,000 in just 2 months]] — Ship 30 for 30: framework 1:1:1 Premium Positioning (konkretna osoba + problem + unikalna metoda), Be Your Own Case Study i Value-First Outreach.
 - [[2026-06-02 Why Missing the Inbox Costs More Than You Realize]] — Why Missing the Inbox Costs More Than You Realize  Newsletter od Lauren Meyer (Send It Right) poświęcony ukrytym kosztom problemów z…
+- [[2026-06-02 Small business strategies for 2026 AI, resilience and security]] — Vicki Hyman / Mastercard: cztery wnioski ze Small Business Summit — AI jako akcelerator, fragmentacja narzędzi, cyberbezpieczeństwo przez nawyki i mentalność odporności.
 - [[2026-06-03 ANALYSIS Creators are Challenging the Influence of Advocacy Groups]] — M+R: twórcy (54% top kont politycznych) wypierają NGO (3%) z social media; 4 strategie creator playbooku dla organizacji advocacy.
 - [[2026-06-03 Evolving From a Scarcity Mindset to One of Abundance]] — Bryan Neider: 5 lekcji transformacji AI dla organizacji społecznych — agenci autonomiczni, Parity Benchmark, Compute Equity jako nowe ramy działania NGO.
 - [[2026-06-03 Free Tools Weren't Enough]] — Kyle Behrend: 60+ NGO z darmowym dostępem do AI — korzystały 4; prawdziwa bariera to kultura organizacyjna, nie koszt narzędzi.
@@ -2456,3 +2462,6 @@
 - [[2026-06-09 Kiedy warto automatyzować wycenę z AI]] — wPraktyce.AI (Patryk Łopot): kiedy automatyzacja wycen ma sens, a kiedy nie — LLM nie liczy tylko przewiduje, test kolorowości i test reguł jako narzędzia diagnostyczne.
 - [[2026-06-09 Paradoks Jevonsa w biurze. Dlaczego AI przynosi wypalenie zamiast wolnego czasu?]] — Mateusz Wojdalski: wzrost produktywności AI nie redukuje obciążenia — efekt zapadki podnosi normy; 88% wypalonych wsrod pracownikow z 40% wzrostem produktywnosci.
 - [[2026-06-09 The privacy risk hiding in your email program]] — Civic Shout: ryzyko prywatności danych w programach emailowych NGO — regulacje (20+ stanów USA), ryzyko AI i narzędzi zewnętrznych, praktyczne kroki audytu i polityki bezpieczeństwa danych donorów.
+- [[2026-06-09 Google's new AI + paid search Diversify or decay (UPDATED)]] — M+R: jak integracja AI w Google Search zmienia płatne kampanie dla NGO — strategia AI Max/Performance Max i Answer Engine Optimization (AEO/GEO).
+- [[2026-06-10 GiveCon 2026 Recap Purpose, People, and What's Possible]] — Melaina Chromy / Bloomerang: relacja z GiveCon 2026 (700 uczestników) — partnerstwo Bloomerang+Dataro z predykcyjnym scoringiem donorów i wizja platformy bezprzyciskowej.
+- [[2026-06-10 The Three AI principles Bloomerang Won't Compromise On]] — Dennis Fois / Bloomerang: trzy zasady AI dla nonprofit CRM — misja jako metryka, relacja pozostaje ludzka, dane należą do organizacji.

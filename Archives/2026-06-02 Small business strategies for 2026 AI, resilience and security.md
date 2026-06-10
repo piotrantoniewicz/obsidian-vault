@@ -5,6 +5,8 @@ url: "https://www.mastercard.com/global/en/news-and-trends/stories/2026/masterca
 published: 2026-06-02
 created: 2026-06-10
 tags:
+  - strategia-AI
+  - automatyzacja
 ---
 
 

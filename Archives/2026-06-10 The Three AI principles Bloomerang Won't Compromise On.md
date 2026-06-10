@@ -5,6 +5,9 @@ url: "https://bloomerang.com/blog/the-three-ai-principles-bloomerang-wont-compro
 published:
 created: 2026-06-10
 tags:
+  - fundraising
+  - strategia-AI
+  - organizacje-społeczne
 ---
 
 

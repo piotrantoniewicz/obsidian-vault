@@ -5,6 +5,9 @@ url: "https://www.youtube.com/watch?v=n6P3ypDpU3w&t=92s"
 published: 2026-05-18
 created: 2026-06-10
 tags:
+  - ghostwriting
+  - content-marketing
+  - produkty-cyfrowe
 ---
 
 

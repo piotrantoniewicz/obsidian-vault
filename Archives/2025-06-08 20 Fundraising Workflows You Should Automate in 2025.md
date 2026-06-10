@@ -5,6 +5,8 @@ url: "https://avidai.com/blog/fundraising-workflows-you-should-automate/?utm_med
 published: 2025-06-08
 created: 2026-06-10
 tags:
+  - fundraising
+  - automatyzacja
 ---
 
 

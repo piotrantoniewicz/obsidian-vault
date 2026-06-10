@@ -5,6 +5,9 @@ url: "https://bloomerang.com/blog/givecon-2026-recap?utm_medium=email&utm_source
 published:
 created: 2026-06-10
 tags:
+  - fundraising
+  - narzędzia-AI
+  - organizacje-społeczne
 ---
 
 

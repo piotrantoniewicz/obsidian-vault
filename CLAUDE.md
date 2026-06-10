@@ -19,6 +19,7 @@ Piotr/
 - `Archives/` i `Attachments/` są tylko do odczytu — nigdy tam nie pisz ani nie edytuj
 - Przy każdym pytaniu o vault zacznij od `Resources/index.md` — to mapa 2000+ notatek
 - Nowe notatki trafiają do `Resources/`, nazwa: `YYYY-MM-DD Tytuł artykułu.md`
+- **Znak `#` jest zakazany w nazwach plików** — Obsidian traktuje `#` w wikilinku jako separator nagłówka, co łamie nawigację. Zamiast `#41` używaj `nr41`.
 - Po dodaniu notatki do `Resources/` dopisz wpis do `Resources/index.md` w formacie:
   `- [[YYYY-MM-DD Tytuł]] — jednozdaniowy opis co zawiera`
 
@@ -28,28 +29,37 @@ Piotr/
 
 ### Krok 1 — znajdź brakujące wpisy
 
-```bash
-# Wylistuj pliki i wyciągnij zaindeksowane tytuły
-ls /Users/piotr_air/Obsidian/Piotr/Resources/*.md | grep -v '/index' | sed 's|.*/||; s|\.md$||' | sort > /tmp/all_files.txt
+**Używaj wyłącznie metody Python** — regex `[^\]]+` łamie się na tytułach zawierających `]` (np. `[OLB]`, `[30 Day Growth Challenge]`, `[digitally]`). Jedyna niezawodna metoda: sprawdź czy nazwa pliku **dosłownie** pojawia się w treści index.md.
 
-# Wyciągnij alias (po |) jeśli istnieje, inaczej tytuł — obsługuje oba formaty linków
-grep -oP '(?<=\|)[^\]]+(?=\]\])|(?<=\[\[)[^\]|]+(?=\]\])' \
-  /Users/piotr_air/Obsidian/Piotr/Resources/index.md \
-  | sed 's|^[^/]*/||' | sort > /tmp/indexed.txt
+```python
+import os, re
 
-comm -23 /tmp/all_files.txt /tmp/indexed.txt
+resources_dir = "/Users/piotr_air/Obsidian/Piotr/Resources"
+index_path = os.path.join(resources_dir, "index.md")
+
+actual = {
+    os.path.splitext(f)[0]
+    for f in os.listdir(resources_dir)
+    if f.endswith(".md") and f not in ("index.md", "index.md.bak")
+}
+
+with open(index_path) as fh:
+    content = fh.read()
+
+# Szukaj dosłownej nazwy pliku wewnątrz [[ ... ]] lub [[ ... |
+# re.escape obsługuje nawiasy kwadratowe, apostrofy, cudzysłowy i inne znaki specjalne
+indexed = set()
+for name in actual:
+    if re.search(r’\[\[‘ + re.escape(name) + r’(\]\]|\|)’, content):
+        indexed.add(name)
+
+missing = sorted(actual - indexed)
+print(f"Notatki: {len(actual)}, Zaindeksowane: {len(indexed)}, Brakuje: {len(missing)}")
+for m in missing:
+    print(f"  {m}")
 ```
 
-**Uwaga na fałszywe alarmy** — `comm` może nadal zgłosić plik jako brakujący jeśli:
-- tytuł w indeksie ma inną interpunkcję niż nazwa pliku (np. `Don't` vs `Don't` — curly vs straight apostrof)
-- tytuł ma inną wielkość liter (np. `extreme heat` vs `Extreme Heat`)
-- nazwa pliku zaczyna się od `[nawiasy kwadratowe]` — regex `[^\]|]+` zatrzymuje się na `[`
-
-Przed uznaniem pliku za brakujący **zawsze zweryfikuj** samą datą:
-```bash
-grep -c "YYYY-MM-DD" /Users/piotr_air/Obsidian/Piotr/Resources/index.md
-```
-Jeśli wynik > 0 — plik jest w indeksie (może mieć inny tytuł). Jeśli wynik = 0 — plik naprawdę nie istnieje w indeksie i należy go dodać.
+**Dlaczego nie regex `[^\]]+`** — dla `[[2024-08-15 [OLB] Day 1...]]` regex zatrzymuje się na pierwszym `]` i nie zwraca żadnego dopasowania (pusta lista). `re.escape` w metodzie powyżej zamieniają `[` i `]` w `\[` i `\]`, więc działają poprawnie.
 
 ### Krok 2 — znajdź duplikaty
 

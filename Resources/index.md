@@ -2465,3 +2465,4 @@
 - [[2026-06-09 Google's new AI + paid search Diversify or decay (UPDATED)]] — M+R: jak integracja AI w Google Search zmienia płatne kampanie dla NGO — strategia AI Max/Performance Max i Answer Engine Optimization (AEO/GEO).
 - [[2026-06-10 GiveCon 2026 Recap Purpose, People, and What's Possible]] — Melaina Chromy / Bloomerang: relacja z GiveCon 2026 (700 uczestników) — partnerstwo Bloomerang+Dataro z predykcyjnym scoringiem donorów i wizja platformy bezprzyciskowej.
 - [[2026-06-10 The Three AI principles Bloomerang Won't Compromise On]] — Dennis Fois / Bloomerang: trzy zasady AI dla nonprofit CRM — misja jako metryka, relacja pozostaje ludzka, dane należą do organizacji.
+- [[2026-06-11 Jak lepiej analizować dane firmy z AI]] — wPraktyce.AI: newsletter o wartości AI jako narzędzia do rozmowy z własnymi danymi zamiast intuicji; framework diagnostyczny i podejście modułowe.

@@ -5,6 +5,9 @@ url: "https://weareastral.co.uk/thevault/how-humans-actually-behave-in-the-inbox
 published: 2026-06-09
 created: 2026-06-11
 tags:
+  - "digital-campaigning"
+  - "fundraising"
+  - "content-marketing"
 ---
 
 

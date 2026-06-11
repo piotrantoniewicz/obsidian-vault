@@ -5,6 +5,9 @@ url: "https://www.blackbaud.co.uk/industry-insights/resources/the-status-of-uk-f
 published: 2026-05-14
 created: 2026-06-11
 tags:
+  - "fundraising"
+  - "strategia-organizacji"
+  - "trendy-AI"
 ---
 
 

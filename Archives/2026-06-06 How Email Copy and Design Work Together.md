@@ -5,6 +5,9 @@ url: "https://weareastral.co.uk/thevault/how-email-copy-and-design-work-together
 published: 2026-06-06
 created: 2026-06-11
 tags:
+  - "digital-campaigning"
+  - "content-marketing"
+  - "fundraising"
 ---
 
 

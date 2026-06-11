@@ -3,7 +3,7 @@ categories:
   - Clippings
 author: "[[Marta Malinowska]]"
 url: https://beeffective.pl/blog/jak-tworzyc-tresci-ktore-naprawde-angazuja-gen-z/
-sources: "[[Archives/2025-11-14 Jak tworzyć treści, które naprawdę angażują Gen Z?|2025-11-14 Jak tworzyć treści, które naprawdę angażują Gen Z?]]"
+source: "[[Archives/2025-11-14 Jak tworzyć treści, które naprawdę angażują Gen Z?|2025-11-14 Jak tworzyć treści, które naprawdę angażują Gen Z?]]"
 published: 2025-11-14
 created: 2026-03-06
 relevance: średnia

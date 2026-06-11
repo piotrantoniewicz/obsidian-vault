@@ -1,7 +1,7 @@
 ---
 categories:
   - Reports
-sources: Virtuous
+source: Virtuous
 authors: ["[[Virtuous]]", "[[Fundraising.AI]]"]
 topics: adopcja AI w fundraisingu NGO
 published: 2026-02-19

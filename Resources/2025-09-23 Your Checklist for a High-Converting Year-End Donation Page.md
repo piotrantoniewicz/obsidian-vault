@@ -3,7 +3,7 @@ categories:
   - Clippings
 author: "[[Caroline Griffin]]"
 url: https://www.idonate.com/blog/your-checklist-for-a-high-converting-year-end-donation-page
-sources: "[[2025-09-23 Your Checklist for a High-Converting Year-End Donation Page]]"
+source: "[[2025-09-23 Your Checklist for a High-Converting Year-End Donation Page]]"
 published: 2025-09-23
 created: 2026-03-06
 relevance: wysoka

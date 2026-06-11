@@ -3,7 +3,7 @@ categories:
   - Clippings
 author: "[[Kateryna Chukhno]]"
 url: https://beeffective.pl/blog/nadchodzi-era-geo/
-sources: "[[Archives/2026-01-19 Koniec niebieskich linków? Nadchodzi era GEO|2026-01-19 Koniec niebieskich linków? Nadchodzi era GEO]]"
+source: "[[Archives/2026-01-19 Koniec niebieskich linków? Nadchodzi era GEO|2026-01-19 Koniec niebieskich linków? Nadchodzi era GEO]]"
 published: 2026-01-19
 created: 2026-03-06
 relevance: średnia

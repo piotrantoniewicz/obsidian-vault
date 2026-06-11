@@ -3,7 +3,7 @@ categories:
   - Clippings
 author: "[[Anna Ratajczak-Piotrowska]]"
 url: https://beeffective.pl/blog/ai-optimization-seo-nowej-generacji/
-sources: "[[Archives/2025-07-14 Poznaj AI Optimization – SEO nowej generacji|2025-07-14 Poznaj AI Optimization – SEO nowej generacji]]"
+source: "[[Archives/2025-07-14 Poznaj AI Optimization – SEO nowej generacji|2025-07-14 Poznaj AI Optimization – SEO nowej generacji]]"
 published: 2025-07-14
 created: 2026-03-06
 relevance: średnia

@@ -3,7 +3,7 @@ categories:
   - Clippings
 author: "[[Kaja Chmielewska]]"
 url: https://beeffective.pl/blog/linkedin-b2b-w-praktyce/
-sources: "[[Archives/2025-08-25 LinkedIn B2B - potencjał, który musisz wykorzystać!|2025-08-25 LinkedIn B2B - potencjał, który musisz wykorzystać!]]"
+source: "[[Archives/2025-08-25 LinkedIn B2B - potencjał, który musisz wykorzystać!|2025-08-25 LinkedIn B2B - potencjał, który musisz wykorzystać!]]"
 published: 2025-08-25
 created: 2026-03-06
 relevance: niska

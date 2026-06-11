@@ -3,7 +3,7 @@ categories:
   - Clippings
 author: "[[Team Beeffective]]"
 url: https://beeffective.pl/blog/wrapped-2025-copy/
-sources: "[[Archives/2025-12-17 Marketingowe WRAPPED 2025 by Team Beeffective|2025-12-17 Marketingowe WRAPPED 2025 by Team Beeffective]]"
+source: "[[Archives/2025-12-17 Marketingowe WRAPPED 2025 by Team Beeffective|2025-12-17 Marketingowe WRAPPED 2025 by Team Beeffective]]"
 published: 2025-12-17
 created: 2026-03-06
 relevance: średnia

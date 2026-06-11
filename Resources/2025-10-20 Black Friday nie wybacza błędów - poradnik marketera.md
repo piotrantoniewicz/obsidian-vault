@@ -3,7 +3,7 @@ categories:
   - Clippings
 author: "[[Kaja Chmielewska]]"
 url: https://beeffective.pl/blog/black-friday-nie-wybacza-bledow-strategiczny-przewodnik-marketera/
-sources: "[[Archives/2025-10-20 Black Friday nie wybacza błędów - poradnik marketera|2025-10-20 Black Friday nie wybacza błędów - poradnik marketera]]"
+source: "[[Archives/2025-10-20 Black Friday nie wybacza błędów - poradnik marketera|2025-10-20 Black Friday nie wybacza błędów - poradnik marketera]]"
 published: 2025-10-20
 created: 2026-03-06
 relevance: średnia

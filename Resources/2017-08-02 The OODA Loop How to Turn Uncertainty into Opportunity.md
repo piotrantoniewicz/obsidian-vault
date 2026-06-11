@@ -3,7 +3,7 @@ categories:
   - Clippings
 authors: "[[Taylor Pearson]]"
 url: https://taylorpearson.me/ooda-loop/
-sources: "[[Archives/2017-08-02 The OODA Loop How to Turn Uncertainty into Opportunity|2017-08-02 The OODA Loop How to Turn Uncertainty into Opportunity]]"
+source: "[[Archives/2017-08-02 The OODA Loop How to Turn Uncertainty into Opportunity|2017-08-02 The OODA Loop How to Turn Uncertainty into Opportunity]]"
 published: 2017-08-02
 created: 2026-03-06
 relevance: średnia

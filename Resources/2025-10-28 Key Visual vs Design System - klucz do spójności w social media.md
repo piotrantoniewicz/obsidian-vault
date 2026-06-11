@@ -3,7 +3,7 @@ categories:
   - Clippings
 author: "[[Łukasz Kiersznikiewicz]]"
 url: https://beeffective.pl/blog/key-visual-vs-design-system/
-sources: "[[Archives/2025-10-28 Key Visual vs Design System - klucz do spójności w social media|2025-10-28 Key Visual vs Design System - klucz do spójności w social media]]"
+source: "[[Archives/2025-10-28 Key Visual vs Design System - klucz do spójności w social media|2025-10-28 Key Visual vs Design System - klucz do spójności w social media]]"
 published: 2025-10-28
 created: 2026-03-06
 relevance: niska

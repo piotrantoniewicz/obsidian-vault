@@ -23,69 +23,14 @@ Piotr/
 - Po dodaniu notatki do `Resources/` dopisz wpis do `Resources/index.md` w formacie:
   `- [[YYYY-MM-DD Tytuł]] — jednozdaniowy opis co zawiera`
 
-## Uzupełnianie index.md — procedura
+## Praca z index.md
 
-`Resources/index.md` ma ~451 KB i 2370+ linii — nie można go czytać w całości. Używaj wyłącznie narzędzi bash.
+Weryfikację kompletności indeksu (brakujące wpisy, duplikaty) wykonuje plugin: **`/index:update vault`**.
 
-### Krok 1 — znajdź brakujące wpisy
-
-**Używaj wyłącznie metody Python** — regex `[^\]]+` łamie się na tytułach zawierających `]` (np. `[OLB]`, `[30 Day Growth Challenge]`, `[digitally]`). Jedyna niezawodna metoda: sprawdź czy nazwa pliku **dosłownie** pojawia się w treści index.md.
-
-```python
-import os, re
-
-resources_dir = "/Users/piotr_air/Obsidian/Piotr/Resources"
-index_path = os.path.join(resources_dir, "index.md")
-
-actual = {
-    os.path.splitext(f)[0]
-    for f in os.listdir(resources_dir)
-    if f.endswith(".md") and f not in ("index.md", "index.md.bak")
-}
-
-with open(index_path) as fh:
-    content = fh.read()
-
-# Szukaj dosłownej nazwy pliku wewnątrz [[ ... ]] lub [[ ... |
-# re.escape obsługuje nawiasy kwadratowe, apostrofy, cudzysłowy i inne znaki specjalne
-indexed = set()
-for name in actual:
-    if re.search(r’\[\[‘ + re.escape(name) + r’(\]\]|\|)’, content):
-        indexed.add(name)
-
-missing = sorted(actual - indexed)
-print(f"Notatki: {len(actual)}, Zaindeksowane: {len(indexed)}, Brakuje: {len(missing)}")
-for m in missing:
-    print(f"  {m}")
-```
-
-**Dlaczego nie regex `[^\]]+`** — dla `[[2024-08-15 [OLB] Day 1...]]` regex zatrzymuje się na pierwszym `]` i nie zwraca żadnego dopasowania (pusta lista). `re.escape` w metodzie powyżej zamieniają `[` i `]` w `\[` i `\]`, więc działają poprawnie.
-
-### Krok 2 — znajdź duplikaty
-
-```bash
-grep -oP '(?<=\[\[)[^\]]+(?=\]\])' /Users/piotr_air/Obsidian/Piotr/Resources/index.md | sort | uniq -d
-```
-
-### Krok 3 — odczytaj treść notatki
-
-Pliki mogą mieć w nazwie curly apostrofy (') — `head` z dosłowną nazwą zawiedzie. Użyj `find`:
-```bash
-find /Users/piotr_air/Obsidian/Piotr/Resources/ -name "YYYY-MM-DD*" -exec head -30 {} \;
-```
-
-### Krok 4 — dopisz wpis do index.md
-
-Wpis wstawiaj **chronologicznie** — znajdź ostatni wpis z tego samego dnia lub poprzedniego:
-```bash
-grep -n "YYYY-MM-DD\|YYYY-MM-DD-1" /Users/piotr_air/Obsidian/Piotr/Resources/index.md | tail -5
-```
-Następnie użyj Edit z dokładnym kontekstem sąsiedniego wiersza jako `old_string`.
-
-Format wpisu:
-```
-- [[YYYY-MM-DD Tytuł]] — jednozdaniowy opis co zawiera
-```
+Uwagi techniczne przy każdej operacji na index.md:
+- Plik ma ~450 KB i 2300+ linii — **nigdy nie czytaj go w całości**, używaj `grep -n` i Edit.
+- Wpisy wstawiaj **chronologicznie**: znajdź przez `grep -n "YYYY-MM-DD"` ostatni wpis z tej samej lub najbliższej wcześniejszej daty i użyj Edit z sąsiednim wierszem jako kontekstem.
+- Nazwy plików mogą zawierać curly apostrofy (') — `head` z dosłowną nazwą zawiedzie, używaj `find ... -name "YYYY-MM-DD*"`.
 
 ## Format notatki (Resources/)
 
@@ -161,10 +106,11 @@ Sekcje treści: definicja (2–4 zdania własnymi słowami) → kluczowe mechani
 
 **Lint** — okresowo: szukaj stron Galaxy/ bez linków przychodzących (sieroty), nieaktualnych twierdzeń, luk tematycznych. Zaproponuj uzupełnienia.
 
-## Pluginy (INGEST)
+## Pluginy
 
 | Komenda | Źródło | Cel |
 |---|---|---|
 | `/clippings-to-notes:clip` | `Inbox/` | przetwarza clipy → `Resources/` + `Archives/` |
 | `/emails-to-notes:process <etykieta>` | Gmail | newslettery → `Resources/` |
 | `/pdfs-to-notes:extract [podfolder]` | `~/Documents/Email/` | raporty PDF → `Resources/` |
+| `/index:update vault` | `Resources/` | weryfikacja i naprawa `Resources/index.md` |

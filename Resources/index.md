@@ -2451,3 +2451,4 @@
 - [[2026-06-12 A label does not change behavior. The design of a label does.]] — Katarzyna Szczesna (Substack): behavioral design etykiet AI — dlaczego sama ikona UE nic nie zmienia, jak paradoks przejrzystości wpływa na zaufanie i czym jest „AI Invisibility Effect".
 - [[2026-06-12 Heart and Impact]] — Bryan Neider (LinkedIn): framework TEAMS! dla kultury organizacji nonprofit — kultura jako „bicie serca" misji, które przeżywa każdego lidera i każdy kryzys finansowania.
 - [[2026-06-12 What getting AI wrong means for us]] — europe2031.ai: scenariusz spekulatywny 2025–2031 — jak Europa przegrała wyścig AI z USA i Chinami; analiza błędów politycznych, zależności infrastrukturalnej i braku strategicznej odwagi.
+- [[2026-06-12 Escola AI Weekly nr42]] — Krzysztof Wojewodzic: przegląd tygodnia AI — centrum danych Francja/SoftBank 5GW, boty > ludzie w ruchu internetowym, Nvidia lokalny sprzęt i model 550B, Claude w iOS 27, lekcja komunikacyjna z afery Podsiadło.

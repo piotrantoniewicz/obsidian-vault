@@ -1665,6 +1665,7 @@
 - [[2026-03-06 How removing a form disclaimer from a content offer landing page impacts sign up rate]] — Usunięcie disclaimera z formularza: +10,1% konwersji przy 100% pewności statystycznej na 26K użytkowników.
 - [[2026-03-06 I used this framework to make major career decisions. It takes 5 minutes]] — Prompt AI oparty na oczekiwanej wartości i framework Bezosa "drzwi w jedną/dwie strony" do szybkich decyzji.
 - [[2026-03-06 My chief of staff, Claude Code]] — Jim Prosser: Claude Code zbudował system nocnych skanów emaili i 6 równoległych subagentów, oszczędzając 45 minut dziennie.
+- [[2026-03-06 Specialist charity Networks]] — Wątek ECF: zarządzanie specjalistycznymi sieciami charytatywnymi — model Healthwatch England (153 lokalne org., peer networki, miękkie narzędzia brandingu).
 - [[2026-03-07 Welcome to DAY THREE of launching your email list!]] — Dzień 3 mini-kursu: formularze zapisu i emaile dostarczające lead magnet; metryka $1/subskrybent/miesiąc.
 - [[2026-03-08 5 Steps To Becoming A Premium Ghostwriter]] — Nicolas Cole: 5-krokowy plan Premium Ghostwritera dla pracujących na etacie — niching, oferta premium, outreach i The 10x Choice.
 - [[2026-03-08 BONUS Ghostwriting As A Career (Crash Course)]] — PGA: 5 archetypów głosu klienta (Storyteller, Opinionater, Fact Presenter, Frameworker, F Bomb Dropper) i modele cenowe.
@@ -1865,6 +1866,9 @@
 - [[2026-03-26 Twój zespół już używa AI Czas na politykę korzystania!]] — TechSoup: dwustronicowa polityka AI dla NGO — 3 obszary (operacje, komunikacja, narzędzia) i format warsztatu 60–90 min.
 - [[2026-03-26 What 20 years of M+R Benchmarks data tells us about email]] — M+R 20 lat: email z 35% (2021) do 11% (2025) przychodów — kanał relacyjny, nie przychodowy; recurring giving to 1/3 donacji.
 - [[2026-03-26 Why political technologies need practitioner and citizen oversight]] — deliberAIde: participatory co-design technologii politycznych przez rady użytkowników i regulacje infrastrukturalne AI.
+- [[2026-03-26 Anyone have experiences with NLA licenses]] — ECF: praktyczne doświadczenia NGO z licencją NLA (~£200/rok) dla organizacji udostępniających treści prasowe; kwestia zrzutów ekranu nagłówków nierozstrzygnięta.
+- [[2026-03-27 Evidence - campaigners more likely to give]] — ECF: badania potwierdzające, że aktywiści kampanijni częściej dają — "Civic Core" (Mohan, 2012) i Yale (2024); case studies More Onion; argument za integracją fundraisingu z campaign journey.
+- [[2026-03-27 Tabling amendments to bills]] — ECF: Joe White (Citizens UK) o używaniu poprawek do ustaw jako taktyki kampanijnej — dostęp do ministrów i widoczność w agendzie rządowej bez konieczności szczegółowego wpływu legislacyjnego.
 - [[2026-03-27 AI Weekly 33]] — EBC: firmy z AI częściej rosną i zatrudniają; AI przejmuje zadania juniorów; projektowanie procesów ważniejsze niż promptowanie.
 - [[2026-03-27 AI s arrival complicates Big Tech climate goals, and some worry it s locking in more fossil fuels]] — Google +50%, Meta +60% emisji CO2 przy deklaracjach klimatycznych; centra danych AI to 4,6% energii USA.
 - [[2026-03-27 Day 12 - Cross Promotions]] — 4-krokowy cross-promotion: wzajemna wymiana freebie z komplementarnymi NGO daje 1% konwersji przy zerowych kosztach.
@@ -1939,6 +1943,7 @@
 - [[2026-04-02 You will not hit your response rate if]] — Namaste Data: 7 pytań do oceny sukcesu ankiety; pytania do reaktywacji lapsed donors; AI ≠ inwestycja infrastrukturalna.
 - [[2026-04-02 [30 Day Growth Challenge] Day 18- Using podcasts to pitch your freebie]] — Jess Campbell argumentuje, że większość gości podcastów marnuje moment "gdzie mogę dowiedzieć się więcej?" wskazując stronę www zamiast…
 - [[2026-04-02 [30 Day Growth Challenge] Day 18- Using podcasts to pitch your freebie]] — Landing page lead magnetu zamiast strony głównej przy pitch w podcaście — jedna zmiana daje natychmiastowych subskrybentów emaila.
+- [[2026-04-02 Sharing hopeful projects pushing back on the authoritarian far right]] — Wątek ECF o strategiach odpowiedzi na wzrost skrajnej prawicy; teza o wyczerpaniu modelu cyfrowego i potrzebie odbudowy infrastruktury obywatelskiej IRL (PlaceCal, Mapped).
 - [[2026-04-03 Data center ban on the Ohio ballot Petitioners get approval to start gathering signatures]] — Ohio: oddolna inicjatywa konstytucyjna zakazująca centrów danych AI; odpowiedź na wzrost rachunków za energię.
 - [[2026-04-03 Stewardship as a Force Multiplier in a Chaotic World]] — Bryan Neider: 5 filarów stewardship NGO — zwinność, transparentność, AI governance, outcomes i kapitał społeczny sektora.
 - [[2026-04-03 This writer gets paid $5,000 to go on walks---]] — Metoda Voice-First: dyktowanie do Claude podczas spaceru skraca pisanie newslettera z 2h do 30 minut.

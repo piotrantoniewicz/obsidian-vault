@@ -2478,3 +2478,4 @@
 - [[2026-06-11 WeMove mailing — nowe wzorce (marzec–czerwiec 2026)]] — 33 maile WeMove Europe (marzec–czerwiec 2026): finansowa szczerość w fundraisingu (106 tys. euro), format „[Imię] kontra [Antagonista]", ankieta o tożsamości aktywistycznej, cliffhanger w mailu o wygranej, 5-mailowa seria na jednego wroga (Palantir).
 - [[2026-06-11 Jak lepiej analizować dane firmy z AI]] — wPraktyce.AI: newsletter o wartości AI jako narzędzia do rozmowy z własnymi danymi zamiast intuicji; framework diagnostyczny i podejście modułowe.
 - [[2026-06-11 Closing the gap between signup and first gift]] — Civic Shout: case study Internet Society — 621% wzrost przychodów cyfrowych dzięki sekwencjom email opartym na badaniu potrzeb darczyńców i dwuetapowym welcome journey.
+- [[2026-06-11 dlaczego organizacje tracą darczyńców]] — Social Movers Hub: 6 najczęstszych błędów komunikacyjnych po wpłacie; zmiana framingu z transakcyjnego na partnerski jako klucz do retencji darczyńców.

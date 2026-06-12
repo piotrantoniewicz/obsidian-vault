@@ -5,6 +5,9 @@ url: "https://www.linkedin.com/pulse/heart-impact-bryan-neider-eintc/"
 published: 2026-06-12
 created: 2026-06-12
 tags:
+  - "strategia-organizacji"
+  - "organizacje-społeczne"
+  - "szkolenia-AI"
 ---
 
 

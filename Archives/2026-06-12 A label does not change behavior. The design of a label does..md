@@ -5,6 +5,9 @@ url: "https://behavioralinsight.substack.com/p/a-label-does-not-change-behavior?
 published: 2026-06-12
 created: 2026-06-12
 tags:
+  - "strategia-AI"
+  - "narzędzia-AI"
+  - "framing"
 ---
 
 

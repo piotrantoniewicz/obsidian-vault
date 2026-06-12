@@ -5,6 +5,9 @@ url: "https://europe2031.ai/"
 published:
 created: 2026-06-12
 tags:
+  - "strategia-AI"
+  - "trendy-AI"
+  - "strategia-organizacji"
 ---
 
 

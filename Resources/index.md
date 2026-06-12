@@ -2448,3 +2448,6 @@
 - [[2026-06-11 Jak lepiej analizować dane firmy z AI]] — wPraktyce.AI: newsletter o wartości AI jako narzędzia do rozmowy z własnymi danymi zamiast intuicji; framework diagnostyczny i podejście modułowe.
 - [[2026-06-11 Closing the gap between signup and first gift]] — Civic Shout: case study Internet Society — 621% wzrost przychodów cyfrowych dzięki sekwencjom email opartym na badaniu potrzeb darczyńców i dwuetapowym welcome journey.
 - [[2026-06-11 dlaczego organizacje tracą darczyńców]] — Social Movers Hub: 6 najczęstszych błędów komunikacyjnych po wpłacie; zmiana framingu z transakcyjnego na partnerski jako klucz do retencji darczyńców.
+- [[2026-06-12 A label does not change behavior. The design of a label does.]] — Katarzyna Szczesna (Substack): behavioral design etykiet AI — dlaczego sama ikona UE nic nie zmienia, jak paradoks przejrzystości wpływa na zaufanie i czym jest „AI Invisibility Effect".
+- [[2026-06-12 Heart and Impact]] — Bryan Neider (LinkedIn): framework TEAMS! dla kultury organizacji nonprofit — kultura jako „bicie serca" misji, które przeżywa każdego lidera i każdy kryzys finansowania.
+- [[2026-06-12 What getting AI wrong means for us]] — europe2031.ai: scenariusz spekulatywny 2025–2031 — jak Europa przegrała wyścig AI z USA i Chinami; analiza błędów politycznych, zależności infrastrukturalnej i braku strategicznej odwagi.

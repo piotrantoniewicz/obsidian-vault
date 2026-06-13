@@ -115,4 +115,5 @@ Sekcje treści: definicja (2–4 zdania własnymi słowami) → kluczowe mechani
 | `/clippings-to-notes:clip` | `Inbox/` | przetwarza clipy → `Resources/` + `Archives/` |
 | `/emails-to-notes:process <etykieta>` | Gmail | newslettery → `Resources/` |
 | `/pdfs-to-notes:extract [podfolder]` | `~/Documents/Email/` | raporty PDF → `Resources/` |
+| `/linkedin-to-notes:save` | wklejony post LinkedIn | post → `Resources/` |
 | `/index:update vault` | `Resources/` | weryfikacja i naprawa `Resources/index.md` |

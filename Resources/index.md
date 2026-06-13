@@ -2176,6 +2176,7 @@
 - [[2026-04-29 Stop creating content. Build your content system]] — Five Prompts: "content architekt" — jeden temat tygodniowo, pięć kątów widzenia; 5 promptów przez cały pipeline contentowy.
 - [[2026-04-29 The Laws of the Inbox]] — 11 fundamentalnych praw email marketingu; email jako kanał infrastrukturalny budujący relacje, nie kanał konwersji.
 - [[2026-04-29 The Real Reason Your Ghostwriting Clients Don t Stick Around]] — Nicolas Cole: obiekcja "zrobimy to sami" to szansa sprzedażowa; oferuj projekt z handoffem i dokumentacją.
+- [[2026-04-30 Best campaigning software on a budget-integrated with CRM]] — ECF: porównanie narzędzi digital campaginingu i CRM dla małych NGO (Engaging Networks, New/Mode, Brevo, iParl).
 - [[2026-04-30 Building a paid social programme - your questions answered]] — Forward Action: Q&A o paid social dla NGO z benchmarkami kosztów pozyskania subskrybenta i darczyńcy.
 - [[2026-04-30 How people ask Claude for personal guidance]] — Anthropic: 6% rozmów z Claude to porady osobiste; sycophancy w 25% rozmów dotyczących relacji.
 - [[2026-04-30 I tak nie otworzysz tego maila]] — Ubuntu dodaje AI bez wyłącznika; spór Musk vs Altman o kierunek OpenAI; sycophancy modeli językowych.
@@ -2408,6 +2409,7 @@
 - [[2026-06-02 Why Missing the Inbox Costs More Than You Realize]] — Why Missing the Inbox Costs More Than You Realize  Newsletter od Lauren Meyer (Send It Right) poświęcony ukrytym kosztom problemów z…
 - [[2026-06-02 Small business strategies for 2026 AI, resilience and security]] — Vicki Hyman / Mastercard: cztery wnioski ze Small Business Summit — AI jako akcelerator, fragmentacja narzędzi, cyberbezpieczeństwo przez nawyki i mentalność odporności.
 - [[2026-06-02 Avoiding Common Pitfalls of Email Automation  MWD Blog]] — Tiffany Peplinski (MWD Agency): praktyczny checklist do planowania i przeglądów automatyzacji emailowych w CRM dla fundraisingu; kiedy automatyzować, a kiedy nie.
+- [[2026-06-02 Lessons from Hungary]] — Wątek ECF: analiza Mashe Gessen (NYT) o formule pokonania Orbána — wolontariat, kontakt twarzą w twarz, framing „kryminalnego przedsięwzięcia" i rola ruchów oddolnych niezwiązanych z polityką wyborczą.
 - [[2026-06-03 ANALYSIS Creators are Challenging the Influence of Advocacy Groups]] — M+R: twórcy (54% top kont politycznych) wypierają NGO (3%) z social media; 4 strategie creator playbooku dla organizacji advocacy.
 - [[2026-06-03 Evolving From a Scarcity Mindset to One of Abundance]] — Bryan Neider: 5 lekcji transformacji AI dla organizacji społecznych — agenci autonomiczni, Parity Benchmark, Compute Equity jako nowe ramy działania NGO.
 - [[2026-06-03 Free Tools Weren't Enough]] — Kyle Behrend: 60+ NGO z darmowym dostępem do AI — korzystały 4; prawdziwa bariera to kultura organizacyjna, nie koszt narzędzi.
@@ -2422,6 +2424,7 @@
 - [[2026-06-04 Autonomous Supply Chain Why Agentic AI Is Rewriting the Operating Model]] — Hagen Heubach (SAP): agentic AI jako model operacyjny dla łańcuchów dostaw; 3 zdolności potrzebne do autonomii; barierą skalowania jest zaufanie i governance, nie technologia.
 - [[2026-06-04 Recommendations for tools for supporter mapping]] — wątek ECF: Hannah Dewhirst (Positive Money) szukała narzędzia do geograficznego mapowania zwolenników po kodach pocztowych; rekomendacja Mapped by Common Knowledge (integracja z Action Network).
 - [[2026-06-05 Your company needs agency, not agents.]] — Elena Verna: struktury organizacyjne oparte na command-and-control blokują wartość AI — potrzeba sprawczości pracowników (agency), nie tylko agentów AI.
+- [[2026-06-05 Copyright trolls — ochrona NGO przed roszczeniami o prawa autorskie]] — Open Rights Group ostrzega sektor NGO przed copyright trollami; jak bronić się przez doktrynę fair dealing.
 - [[2026-06-06 How Email Copy and Design Work Together]] — Beth O'Malley (Astral): framework 5 miejsc spójności copy–design w emailach; shared brief i test images-off jako narzędzia audytu kampanii.
 - [[2026-06-07 5 Campaign Lessons from the EU Inc Campaign (and Why It Isn't Over Yet)]] — Partisan: 5 lekcji advocacy z kampanii EU Inc — jeden prosty ask, koalicja jako argument, draft zamiast żądania, pożyczanie narracji instytucji, budżetowanie trylogu.
 - [[2026-06-07 FULL BREAKDOWN Revealing Every Email We Send Across 5 Businesses & 250,000 Subscribers]] — Dickie Bush: architektura email engine dla 5 modeli biznesowych — sekwencje behawioralne, trzy typy emaili i 7 zasad maksymalizacji ROI z emaila.

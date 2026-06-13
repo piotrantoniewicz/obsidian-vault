@@ -57,7 +57,7 @@ Benchmark NextAfter (138 organizacji): tylko **36%** prosi jednorazowych darczy�
 ## Powiązane pojęcia
 
 - [[2026-06-03 Tożsamość darczyńcy|Tożsamość darczyńcy]] — regularność wpłat formalizuje narrację "jestem kimś, kto wspiera X"; to tożsamość napędza cykliczność, nie odwrotnie
-- [[Stewardship]] (opieka nad darczyńcą) — praca między wpłatami, która decyduje o utrzymaniu retencji 79% zamiast spadku do poziomu jednorazowych
+- [[2026-06-13 Stewardship|Stewardship]] (opieka nad darczyńcą) — praca między wpłatami, która decyduje o utrzymaniu retencji 79% zamiast spadku do poziomu jednorazowych
 - [[Pledge program]] (program zobowiązań) — kuzyn dawania cyklicznego: przenosi ciężar decyzji z kwoty na czas trwania relacji
 - [[Peer-to-peer fundraising]] — kanał rekrutacji darczyńców cyklicznych przez zaufanie przeniesione od znajomych
 - [[Transparentność operacyjna]] — warunek utrzymania darczyńcy, który sam wybrał organizację i sam ją rozliczy

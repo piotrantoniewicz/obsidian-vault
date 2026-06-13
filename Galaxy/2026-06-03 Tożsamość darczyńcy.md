@@ -56,7 +56,7 @@ W epoce perfekcyjnego contentu AI, niedoskonałość buduje wiarygodność. Darc
 - [[2026-06-12 Recurring giving|Recurring giving]] (dawanie cykliczne) — mechanizm finansowy, który wzmacnia tożsamość darczyńcy przez regularność
 - [[Peer-to-peer fundraising]] (fundraising rówieśniczy) — kanał, w którym tożsamość transferuje się przez sieć społeczną
 - [[Pledge program]] (program zobowiązań) — narzędzie formalizacji tożsamości filantropicznej
-- [[Stewardship]] (opieka nad darczyńcą) — praca organizacji podtrzymująca narrację tożsamościową darczyńcy między wpłatami
+- [[2026-06-13 Stewardship|Stewardship]] (opieka nad darczyńcą) — praca organizacji podtrzymująca narrację tożsamościową darczyńcy między wpłatami
 - [[Transparentność operacyjna]] (operational transparency) — warunek konieczny do utrzymania sprawczości darczyńcy w jego własnej narracji
 
 ---

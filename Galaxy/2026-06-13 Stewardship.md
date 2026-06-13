@@ -44,9 +44,9 @@ Stewardship nie jest jednolity. Major donorzy przechodzą 5-etapowy pipeline (id
 
 - [[2026-06-12 Recurring giving|Recurring giving]] (dawanie cykliczne) — stewardship to praca między wpłatami, która utrzymuje retencję cykliczną na poziomie 79–90% zamiast spadku do poziomu jednorazowych; dawanie cykliczne automatyzuje wpłatę, stewardship podtrzymuje relację
 - [[2026-06-03 Tożsamość darczyńcy|Tożsamość darczyńcy]] — każdy kontakt stewardshipowy potwierdza narrację darczyńcy o sobie ("jestem kimś, kto wspiera X"); pierwsze podziękowanie jest momentem, w którym ta tożsamość się krystalizuje lub gaśnie
-- [[Transparentność operacyjna]] (operational transparency) — pokazywanie wpływu i uczciwe raportowanie to rdzeń stewardshipu: darczyńca, który nie widzi efektu, przestaje dawać
-- [[Pledge program]] (program zobowiązań) — stewardship przedłuża zobowiązanie, dostarczając darczyńcy powodów, by je odnawiał
-- [[Peer-to-peer fundraising]] — zadowolony, dobrze "zaopiekowany" darczyńca staje się ambasadorem, który rekrutuje kolejnych przez sieć społeczną
+- [[2026-06-13 Transparentność operacyjna|Transparentność operacyjna]] (operational transparency) — pokazywanie wpływu i uczciwe raportowanie to rdzeń stewardshipu: darczyńca, który nie widzi efektu, przestaje dawać
+- [[2026-06-13 Pledge program|Pledge program]] (program zobowiązań) — stewardship przedłuża zobowiązanie, dostarczając darczyńcy powodów, by je odnawiał
+- [[2026-06-13 Peer-to-peer fundraising|Peer-to-peer fundraising]] — zadowolony, dobrze "zaopiekowany" darczyńca staje się ambasadorem, który rekrutuje kolejnych przez sieć społeczną
 
 ---
 
@@ -56,7 +56,7 @@ Stewardship nie jest jednolity. Major donorzy przechodzą 5-etapowy pipeline (id
 - **Audyt minimum dla klienta:** (1) czy istnieje podziękowanie w ciągu 48h, (2) czy nowy darczyńca dostaje serię powitalną i ankietę, (3) czy ktokolwiek kontaktuje się z darczyńcą *bez prośby o pieniądze*, (4) czy major donorzy i darczyńcy planowani mają osobną ścieżkę. Większość organizacji obleje punkty 3 i 4.
 - **Stewardship layering dla organizacji bez budżetu:** zamiast nowych kanałów — dodawanie spersonalizowanych elementów do istniejących materiałów (odręczny Post-It na raporcie rocznym wskazujący stronę o projekcie darczyńcy). Tani, wysokozaufany ruch.
 - **Kanał papierowy wraca:** darczyńcy spędzają **39% więcej czasu** z przesyłką papierową niż z emailem — w świecie przeciążonym mailem direct mail i odręczna notka to niskokonkurencyjny kanał wart przetestowania nawet w polskich NGO.
-- **Automatyzacja jako moduł kursu:** triggery w CRM (nowa wpłata → zadanie), 4-mailowa seria powitalna i segmentacja ankietowa to gotowe scenariusze do zbudowania w [[Make.com]] — model "automate the tired, humanize the inspired" jako oś modułu "Fundraising z AI".
+- **Automatyzacja jako moduł kursu:** triggery w CRM (nowa wpłata → zadanie), 4-mailowa seria powitalna i segmentacja ankietowa to gotowe scenariusze do zbudowania w [[Make.com]] — model "automate the tired, humanize the inspired" jako oś modułu "Fundraising z AI" i konkretny przykład [[2026-06-13 Wdrażanie AI w organizacji społecznej|wdrażania AI]] (poziom *New*: automatyzacja uwalniająca czas na relacje).
 
 ---
 

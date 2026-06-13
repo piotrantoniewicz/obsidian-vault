@@ -1,4 +1,32 @@
-# Strategia rozbudowy Galaxy/ — 2026-06-10
+# Strategia rozbudowy Galaxy/ — 2026-06-13
+
+*Konwencja: data w tytule H1 = data ostatniej istotnej aktualizacji tego pliku. Przy każdej takiej zmianie (nowe pojęcia, zamknięta fala, korekta planu) zaktualizuj datę w tytule i wpis „akt. RRRR-MM-DD" w sekcji „Gdzie jesteśmy".*
+
+## Gdzie jesteśmy (akt. 2026-06-13)
+
+**Fala 1 — ZAMKNIĘTA.** Klaster fundraisingowy: 7 stron gęsto połączonych wikilinkami, zero surowych czerwonych linków wewnątrz klastra.
+
+| Strona | Data | Źródła |
+|---|---|---|
+| [[2026-06-03 Tożsamość darczyńcy]] | 06-03 | 8 |
+| [[2026-06-12 Recurring giving]] | 06-12 | 9 |
+| [[2026-06-13 Stewardship]] | 06-13 | 5 |
+| [[2026-06-13 Peer-to-peer fundraising]] | 06-13 | 5 |
+| [[2026-06-13 Pledge program]] | 06-13 | 4 |
+| [[2026-06-13 Transparentność operacyjna]] | 06-13 | 5 |
+| [[2026-06-13 Major gifts]] | 06-13 | 4 |
+
+*Dopisek 2026-06-13:* **Major gifts** powstało poza planem fal — operacja Query/popyt: pipeline major gifts był wielokrotnie linkowany ze Stewardship (czerwony link), a `qmd` potwierdził 4 mocne źródła. Domyka klaster fundraisingowy (3C, pipeline 5 etapów, non-cash, AI scoring). Linki wsteczne dodane ze Stewardship, Pledge, Tożsamości darczyńcy, Transparentności i Wdrażania AI.
+
+**Następny krok: Fala 2** — wybrane 5 pojęć (zweryfikowane qmd 2026-06-13, każde ma ≥4–5 konkretnych źródeł). Wychodzimy z czystego fundraisingu w stronę AI-dla-organizacji, operacji kampanijnych i komunikacji — rdzeń profilu właściciela.
+
+1. [x] **Wdrażanie AI w organizacji społecznej** ✅ 2026-06-13 → [[2026-06-13 Wdrażanie AI w organizacji społecznej]] (5 źródeł; cztery filary gotowości, Faster/Better/New, framework PATH, AI-native). Otwiera gałąź "AI w organizacjach" w indeksie; podlinkowana wstecz ze Stewardship i Transparentności.
+2. [ ] **Email deliverability** (dostarczalność maili) — klaster digital-campaigning; bogaty, konkretny materiał: dedykowany deliverability guide, sender reputation, seasonal senders, top 10 ways. Wysoka stosowalność w konsultacjach.
+3. [ ] **Framing** (ramy narracyjne) — tag z listy zamkniętej; źródła rozproszone, ale realne: paradigm shift, doom-loop politics, "nonprofit storytelling needs stronger narratives", brak mobilizacji przez AI-doom. Most do ghostwritingu.
+4. [ ] **RAG** (retrieval-augmented generation) — klaster narzędzia-AI/LLM; "Glorious RAGs — safer path to AI in social sector", Karpathy LLM wiki z Claude Code, beyond gen-AI jargon, lokalne modele AI. Pojęcie, które właściciel sam praktykuje (qmd to RAG).
+5. [ ] **Storytelling oparty na danych** (data storytelling) — klaster content-marketing + ghostwriting; wizualizacja danych (case Gajusz), "dlaczego dane są ważne", storytelling concept, pułapki analizy, Canva. Spina komunikację z fundraisingiem.
+
+Po fali 2 do rozważenia (fala 3 / popyt): Mobilizacja cyfrowa, Context engineering, Prompt engineering, AI governance w NGO, Pokolenia darczyńców, Newsletter jako kanał.
 
 ## Stan wyjściowy
 
@@ -35,17 +63,17 @@ Zasady:
 - Po napisaniu notatki: dopisz wpis do `Galaxy/index.md` + sprawdź, czy inne strony Galaxy/ powinny dostać wikilink do nowego pojęcia
 - Czerwone linki w sekcji "Powiązane pojęcia" zostawiaj świadomie — to backlog następnych stron
 
-## Fala 1 — czerwone linki (5 pojęć, natychmiast)
+## Fala 1 — czerwone linki (5 pojęć) ✅ ZROBIONE 2026-06-13
 
 Z `[[2026-06-03 Tożsamość darczyńcy]]`:
 
-- [ ] **Recurring giving** (dawanie cykliczne) — qmd potwierdza bogaty materiał: Neon One 2026, GivingPulse, retention benchmarks
-- [ ] **Stewardship** (opieka nad darczyńcą) — retencja 31.9%, konwersja 1→2 wpłata 25.84%, frameworki relacyjne
-- [ ] **Peer-to-peer fundraising** — proxy trust, Pomagam.pl, model społecznościowy
-- [ ] **Pledge program** (program zobowiązań)
-- [ ] **Transparentność operacyjna**
+- [x] **Recurring giving** (dawanie cykliczne) — Neon One 2026, GivingPulse, retention benchmarks → [[2026-06-12 Recurring giving]]
+- [x] **Stewardship** (opieka nad darczyńcą) — 2% win-back, 80→90% = 2x, "automate the tired, humanize the inspired" → [[2026-06-13 Stewardship]]
+- [x] **Peer-to-peer fundraising** — proxy trust (88% vs 20%), Pomagam.pl, Key Opinion Neighbors → [[2026-06-13 Peer-to-peer fundraising]]
+- [x] **Pledge program** (program zobowiązań) — unlock majority givers, okno odnowienia 60–90 dni → [[2026-06-13 Pledge program]]
+- [x] **Transparentność operacyjna** — brak dowodu wpływu = brak drugiego daru, cykl głodzenia → [[2026-06-13 Transparentność operacyjna]]
 
-Efekt: spójny klaster fundraisingowy — 6 stron gęsto połączonych wikilinkami, od razu widoczny w graph view.
+Efekt osiągnięty: spójny klaster fundraisingowy — 6 stron gęsto połączonych wikilinkami, widoczny w graph view.
 
 ## Fala 2 — klastry z rozkładu tagów (kolejne ~10 pojęć)
 

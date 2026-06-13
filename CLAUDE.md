@@ -79,6 +79,8 @@ context-engineering  strategia-organizacji
 
 ## Format notatki (Galaxy/)
 
+> **Plik podstawowy agenta piszącego noty Galaxy/: [`galaxy-strategia.md`](galaxy-strategia.md)** (w katalogu głównym vaultu). Przeczytaj go przed każdą sesją pisania w Galaxy/ — zawiera bieżący stan rozbudowy (fale, „Gdzie jesteśmy"), kryteria przyjęcia pojęcia, workflow `qmd` i kolejny krok. Po każdej istotnej zmianie w Galaxy/ aktualizuj ten plik (data w tytule H1 + sekcja „Gdzie jesteśmy"). Sekcja poniżej opisuje sam format notatki; strategia *co* i *kiedy* pisać jest w `galaxy-strategia.md`.
+
 Galaxy/ to wiki pojęć — kompilacja wiedzy z wielu notatek Resources/. Działa jak u Karpathy'ego: LLM jest bibliotekarzem, który buduje i aktualizuje encyklopedię. Notatka konceptowa nie jest jednorazowym zapisem — rośnie przy każdym nowym źródle.
 
 ```yaml

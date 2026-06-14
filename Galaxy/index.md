@@ -13,6 +13,7 @@
 ## AI w organizacjach
 
 - [[2026-06-13 Wdrażanie AI w organizacji społecznej]] — świadome wprowadzanie AI w służbie misji: cztery filary gotowości, "AI odsłania istniejące słabości", Faster/Better/New, framework PATH, model AI-native.
+- [[2026-06-14 RAG]] — generowanie wspomagane wyszukiwaniem: model pobiera z zaufanej bazy przed odpowiedzią → mniej halucynacji; "bezpieczniejsza ścieżka" dla NGO (Admin/Program Zone), RAG vs Agentic RAG, RAG vs LLM Wiki, RAG lokalny (Ollama) i hybrydowy pipeline anonimizacji; qmd jako osobisty RAG vaultu.
 
 ## Komunikacja i digital campaigning
 

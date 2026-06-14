@@ -48,6 +48,7 @@ Transparentność, której darczyńca nie zauważy, nie istnieje. Stąd: aktuali
 - [[2026-06-12 Recurring giving|Recurring giving]] — darczyńca cykliczny sam wybrał organizację i sam ją rozlicza; transparentność jest podwójnie istotna dla utrzymania jego zaufania
 - [[2026-06-13 Pledge program|Pledge program]] — wieloletnie zobowiązanie wymaga wieloletniego dowodu, że raty robią różnicę
 - [[2026-06-14 Framing|Framing]] (ramy narracyjne) — sam dowód wpływu nie wystarcza: trudny wynik trzeba ująć w kadr „ruch i sprawczość" (konstruktywny framing), inaczej transparentność zniechęca zamiast budować zaufanie
+- [[2026-06-14 Storytelling oparty na danych|Storytelling oparty na danych]] — operacyjna technika pokazywania dowodu wpływu: surowa tabela nie buduje zaufania, dopóki liczby nie zostaną ubrane w historię i rzetelną analizę (mediana, nie myląca średnia)
 
 ---
 

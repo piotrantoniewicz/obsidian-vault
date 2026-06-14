@@ -1,10 +1,14 @@
 ---
-type: "Web"
-authors: "[[Dennis Fois]]"
-url: "https://bloomerang.com/blog/the-nonprofit-of-2030?ck_subscriber_id=3412528627&utm_source=convertkit&utm_medium=email&utm_campaign=%F0%9F%92%BB%20open%20tabs%20%7C%20updates%20from%20back-to-back%20tech%20conferences%20-%2022143329&sh_kit=ebb8f2fb51f8b6f5b192f8b07d9aae25086a45840059610b97f734dbb8655eb6"
-published:
-created: 2026-06-14
+type: Web
+authors: '[[Dennis Fois]]'
+url: >-
+  https://bloomerang.com/blog/the-nonprofit-of-2030?ck_subscriber_id=3412528627&utm_source=convertkit&utm_medium=email&utm_campaign=%F0%9F%92%BB%20open%20tabs%20%7C%20updates%20from%20back-to-back%20tech%20conferences%20-%2022143329&sh_kit=ebb8f2fb51f8b6f5b192f8b07d9aae25086a45840059610b97f734dbb8655eb6
+published: null
+created: 2026-06-14T00:00:00.000Z
 tags:
+  - fundraising
+  - strategia-organizacji
+  - narzędzia-AI
 ---
 
 

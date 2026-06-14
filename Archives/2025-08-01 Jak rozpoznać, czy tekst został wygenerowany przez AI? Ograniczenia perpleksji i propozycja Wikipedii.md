@@ -1,10 +1,14 @@
 ---
-type: "Web"
-authors: "[[Marcin Wilkowski]]"
-url: "https://blog.humanistyka.dev/2025/08/jak-rozpoznac-czy-tekst-zostal-wygenerowany-przez-ai-ograniczenia-perpleksji-i-propozycja-wikipedii"
-published: 2025-08-01
-created: 2026-06-14
+type: Web
+authors: '[[Marcin Wilkowski]]'
+url: >-
+  https://blog.humanistyka.dev/2025/08/jak-rozpoznac-czy-tekst-zostal-wygenerowany-przez-ai-ograniczenia-perpleksji-i-propozycja-wikipedii
+published: 2025-08-01T00:00:00.000Z
+created: 2026-06-14T00:00:00.000Z
 tags:
+  - LLM
+  - narzędzia-AI
+  - ghostwriting
 ---
 
 

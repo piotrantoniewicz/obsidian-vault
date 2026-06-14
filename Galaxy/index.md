@@ -18,3 +18,4 @@
 
 - [[2026-06-14 Email deliverability]] — dostarczalność maili: delivery ≠ deliverability, reputacja domeny (nie IP), SPF/DKIM/DMARC, trzy metryki (IPR/SPR/SCC), reputacja jako infrastruktura roczna, polscy providerzy (Onet/WP/Orange).
 - [[2026-06-14 Framing]] — ramy narracyjne: kadr aktywuje wartości przed faktami, własna narracja zamiast myth-bustingu (efekt backfire), konkret > abstrakcja (X-risk najsłabiej mobilizuje), middling jako samosabotaż, dopasowanie historia↔apel, audyt żargonu, Public Narrative (Ganz).
+- [[2026-06-14 Storytelling oparty na danych]] — przekład liczb na narrację: statystyka bez historii zapomniana, historia bez liczb krucha; techniki uczłowieczania liczby (analogia, jednostka czasu, dane względne), 5 pułapek analizy (mediana vs średnia), SMS jako silnik pozyskiwania historii, narzędzia bez budżetu (Looker Studio, Datawrapper, Canva).

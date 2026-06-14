@@ -1,10 +1,14 @@
 ---
-type: "Web"
-authors: "[[Bloomerang]]"
-url: "https://bloomerang.com/news/bloomerang-launches-conversational-reporting?ck_subscriber_id=3412528627&utm_source=convertkit&utm_medium=email&utm_campaign=%F0%9F%92%BB%20open%20tabs%20%7C%20updates%20from%20back-to-back%20tech%20conferences%20-%2022143329&sh_kit=ebb8f2fb51f8b6f5b192f8b07d9aae25086a45840059610b97f734dbb8655eb6"
-published: 2026-04-27
-created: 2026-06-14
+type: Web
+authors: '[[Bloomerang]]'
+url: >-
+  https://bloomerang.com/news/bloomerang-launches-conversational-reporting?ck_subscriber_id=3412528627&utm_source=convertkit&utm_medium=email&utm_campaign=%F0%9F%92%BB%20open%20tabs%20%7C%20updates%20from%20back-to-back%20tech%20conferences%20-%2022143329&sh_kit=ebb8f2fb51f8b6f5b192f8b07d9aae25086a45840059610b97f734dbb8655eb6
+published: 2026-04-27T00:00:00.000Z
+created: 2026-06-14T00:00:00.000Z
 tags:
+  - fundraising
+  - narzędzia-AI
+  - organizacje-społeczne
 ---
 
 

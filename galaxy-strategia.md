@@ -4,6 +4,8 @@
 
 ## Gdzie jesteśmy (akt. 2026-06-14)
 
+*Dopisek 2026-06-14 (b):* **Framing** napisane (Fala 2, poz. 3) → [[2026-06-14 Framing]]. 7 źródeł z Resources/, dołącza do sekcji "Komunikacja i digital campaigning". Synteza 5 mechanizmów (własny framing vs myth-busting/backfire, wartości+konkret > abstrakcja, konstruktywny kadr porażki, audyt żargonu, middling + dopasowanie historia↔apel) + frameworki-kotwice (Public Narrative Ganza, segmentacja przez wartości). Podlinkowane wstecz z **Transparentności operacyjnej** i **Stewardship**. Zostawione 2 świadome czerwone linki ([[Storytelling oparty na danych]], [[Public Narrative]]) — pierwszy to następny krok. Następny krok: Fala 2 poz. 5 — **Storytelling oparty na danych** (spina komunikację z fundraisingiem, domyka „Komunikację i digital campaigning"); poz. 4 (RAG) zostaje jako gałąź narzędzia-AI.
+
 *Dopisek 2026-06-14:* **Email deliverability** napisane (Fala 2, poz. 2) → [[2026-06-14 Email deliverability]]. Pierwsza strona poza klastrem fundraisingowym/AI — otwiera nową sekcję indeksu "Komunikacja i digital campaigning". 6 źródeł z Resources/, podlinkowana wstecz ze Stewardship; zostawione 2 świadome czerwone linki ([[Higiena listy]], [[Newsletter jako kanał]]) jako backlog. Następny krok: Fala 2 poz. 3 — **Framing**.
 
 **Fala 1 — ZAMKNIĘTA.** Klaster fundraisingowy: 7 stron gęsto połączonych wikilinkami, zero surowych czerwonych linków wewnątrz klastra.
@@ -24,7 +26,7 @@
 
 1. [x] **Wdrażanie AI w organizacji społecznej** ✅ 2026-06-13 → [[2026-06-13 Wdrażanie AI w organizacji społecznej]] (5 źródeł; cztery filary gotowości, Faster/Better/New, framework PATH, AI-native). Otwiera gałąź "AI w organizacjach" w indeksie; podlinkowana wstecz ze Stewardship i Transparentności.
 2. [x] **Email deliverability** (dostarczalność maili) ✅ 2026-06-14 → [[2026-06-14 Email deliverability]] (6 źródeł; delivery ≠ deliverability, SPF/DKIM/DMARC, 3 metryki IPR/SPR/SCC, reputacja jako infrastruktura roczna, seasonal senders, polscy providerzy). Otwiera sekcję "Komunikacja i digital campaigning" w indeksie; podlinkowana wstecz ze Stewardship.
-3. [ ] **Framing** (ramy narracyjne) — tag z listy zamkniętej; źródła rozproszone, ale realne: paradigm shift, doom-loop politics, "nonprofit storytelling needs stronger narratives", brak mobilizacji przez AI-doom. Most do ghostwritingu.
+3. [x] **Framing** (ramy narracyjne) ✅ 2026-06-14 → [[2026-06-14 Framing]] (7 źródeł; własny framing vs myth-busting/backfire, wartości+konkret > abstrakcja, konstruktywny kadr porażki, audyt żargonu, middling + dopasowanie historia↔apel, Public Narrative Ganza). Most do ghostwritingu; podlinkowane wstecz z Transparentności i Stewardship.
 4. [ ] **RAG** (retrieval-augmented generation) — klaster narzędzia-AI/LLM; "Glorious RAGs — safer path to AI in social sector", Karpathy LLM wiki z Claude Code, beyond gen-AI jargon, lokalne modele AI. Pojęcie, które właściciel sam praktykuje (qmd to RAG).
 5. [ ] **Storytelling oparty na danych** (data storytelling) — klaster content-marketing + ghostwriting; wizualizacja danych (case Gajusz), "dlaczego dane są ważne", storytelling concept, pułapki analizy, Canva. Spina komunikację z fundraisingiem.
 

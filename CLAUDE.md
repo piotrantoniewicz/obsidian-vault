@@ -32,6 +32,16 @@ Uwagi techniczne przy każdej operacji na index.md:
 - Wpisy wstawiaj **chronologicznie**: znajdź przez `grep -n "YYYY-MM-DD"` ostatni wpis z tej samej lub najbliższej wcześniejszej daty i użyj Edit z sąsiednim wierszem jako kontekstem.
 - Nazwy plików mogą zawierać curly apostrofy (') — `head` z dosłowną nazwą zawiedzie, używaj `find ... -name "YYYY-MM-DD*"`.
 
+## Wyszukiwanie w vaultcie (qmd)
+
+Vault jest zaindeksowany w qmd (kolekcja `obsidian`, `**/*.md`). Zasady:
+
+- **Domyślnie `qmd query "<fraza>" -n 15`** — 15 wyników daje szeroki kontekst do syntezy.
+- Wyszukiwania zawężaj do vaultu: `-c obsidian` (druga kolekcja `Ghostwriting` jest osobna).
+- `qmd query` = hybryda (expansion + BM25 + wektory + reranking); `qmd search` = szybki BM25 bez LLM.
+- Źródła cytuj z `Resources/`, nie z `Archives/` (qmd zwraca oba — duplikaty treści).
+- Po sesji pisania w `Galaxy/`: `qmd update` + `qmd embed`, żeby nowe strony były wyszukiwalne następnym razem.
+
 ## Format notatki (Resources/)
 
 ```yaml

@@ -47,6 +47,7 @@ Transparentność, której darczyńca nie zauważy, nie istnieje. Stąd: aktuali
 - [[2026-06-13 Peer-to-peer fundraising|Peer-to-peer fundraising]] — radykalna transparentność i de-influencing to fundament wiarygodności, na której opiera się rekomendacja ambasadora
 - [[2026-06-12 Recurring giving|Recurring giving]] — darczyńca cykliczny sam wybrał organizację i sam ją rozlicza; transparentność jest podwójnie istotna dla utrzymania jego zaufania
 - [[2026-06-13 Pledge program|Pledge program]] — wieloletnie zobowiązanie wymaga wieloletniego dowodu, że raty robią różnicę
+- [[2026-06-14 Framing|Framing]] (ramy narracyjne) — sam dowód wpływu nie wystarcza: trudny wynik trzeba ująć w kadr „ruch i sprawczość" (konstruktywny framing), inaczej transparentność zniechęca zamiast budować zaufanie
 
 ---
 

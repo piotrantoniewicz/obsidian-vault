@@ -17,3 +17,4 @@
 ## Komunikacja i digital campaigning
 
 - [[2026-06-14 Email deliverability]] — dostarczalność maili: delivery ≠ deliverability, reputacja domeny (nie IP), SPF/DKIM/DMARC, trzy metryki (IPR/SPR/SCC), reputacja jako infrastruktura roczna, polscy providerzy (Onet/WP/Orange).
+- [[2026-06-14 Framing]] — ramy narracyjne: kadr aktywuje wartości przed faktami, własna narracja zamiast myth-bustingu (efekt backfire), konkret > abstrakcja (X-risk najsłabiej mobilizuje), middling jako samosabotaż, dopasowanie historia↔apel, audyt żargonu, Public Narrative (Ganz).

@@ -13,3 +13,7 @@
 ## AI w organizacjach
 
 - [[2026-06-13 Wdrażanie AI w organizacji społecznej]] — świadome wprowadzanie AI w służbie misji: cztery filary gotowości, "AI odsłania istniejące słabości", Faster/Better/New, framework PATH, model AI-native.
+
+## Komunikacja i digital campaigning
+
+- [[2026-06-14 Email deliverability]] — dostarczalność maili: delivery ≠ deliverability, reputacja domeny (nie IP), SPF/DKIM/DMARC, trzy metryki (IPR/SPR/SCC), reputacja jako infrastruktura roczna, polscy providerzy (Onet/WP/Orange).

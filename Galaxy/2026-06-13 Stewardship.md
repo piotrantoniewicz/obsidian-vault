@@ -47,6 +47,7 @@ Stewardship nie jest jednolity. Major donorzy przechodzą 5-etapowy pipeline (id
 - [[2026-06-13 Transparentność operacyjna|Transparentność operacyjna]] (operational transparency) — pokazywanie wpływu i uczciwe raportowanie to rdzeń stewardshipu: darczyńca, który nie widzi efektu, przestaje dawać
 - [[2026-06-13 Pledge program|Pledge program]] (program zobowiązań) — stewardship przedłuża zobowiązanie, dostarczając darczyńcy powodów, by je odnawiał
 - [[2026-06-13 Peer-to-peer fundraising|Peer-to-peer fundraising]] — zadowolony, dobrze "zaopiekowany" darczyńca staje się ambasadorem, który rekrutuje kolejnych przez sieć społeczną
+- [[2026-06-14 Email deliverability|Email deliverability]] — "momenty pomiędzy" (kontakt bez prośby) to nie tylko taktyka relacyjna: każda angażująca, niesprzedażowa wysyłka karmi reputację domeny i decyduje o tym, czy mail z apelem w ogóle trafi do skrzynki
 
 ---
 

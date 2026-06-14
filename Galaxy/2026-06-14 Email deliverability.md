@@ -13,7 +13,7 @@ sources:
   - "[[2024-07-05 Why Your Email Needs Sunscreen]]"
   - "[[2026-04-21 Email Deliverability for Infrequent and Seasonal Senders How to Land in the Inbox When It Actually Matters]]"
   - "[[2024-11-13 How to Catch and Lower Email Deliverability Red Flags]]"
-  - "[[2025-04-09 Boost Your Nonprofit's Email Reach A Beginner's Guide to SPF, DKIM, DMARC, and BIMI]]"
+  - "[[2025-04-09 Boost Your Nonprofit s Email Reach A Beginner s Guide to SPF, DKIM, DMARC, and BIMI]]"
 ---
 
 # Email deliverability (dostarczalność maili)

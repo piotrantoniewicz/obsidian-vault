@@ -2243,6 +2243,7 @@
 - [[2026-05-06 Instagram karze za kopiowanie i zachęca do kopiowania. Jak żyć-]] — Paradoks Instagrama: kary za nieoryginalność i narzędzie Swap do remiksowania; Meta AI Connectors do automatyzacji kampanii reklamowych.
 - [[2026-05-06 Jak stworzyć wideo produktowe z AI od zera - Podsumowanie webinaru z Krystianem Wydro]] — 6-krokowy proces tworzenia wideo produktowego z AI: Gemini/ChatGPT, Kling, ElevenLabs, CapCut bez grafika.
 - [[2026-05-06 The Founders Playbook - Building an AI-Native Startup]] — Anthropic: playbook startupu AI-native; AI jako orkiestrator zastępujący tradycyjne wąskie gardła skalowania.
+- [[2026-05-06 What a Nonprofit Petition Can Actually Do For You (Beyond Collecting Signatures)  Soapbox Engage  Online fundraising platform for nonprofits]] — Soapbox Engage: petycja jako narzędzie list-buildingu i kultywacji darczyńców — strategia follow-up i integracja z CRM.
 - [[2026-05-07 A $207K increase in email revenue with one shift]] — UNHCR Canada: +40% przychodów z emaila przez rozciągnięcie kampanii zimowej na 5 faz do marca.
 - [[2026-05-07 Design is more than form. It s shaping how people think]] — „System 0": AI filtruje rzeczywistość użytkownika; odpowiedzialne projektowanie AI chroni autonomię kognitywną.
 - [[2026-05-07 Development Director Burnout Is Costing You Millions—Here s What s Broken]] — Rhea Wong: wypalenie dyrektorów fundraisingu to skutek braku systemu pipeline'u darczyńców, nie niekompetencji.
@@ -2273,12 +2274,14 @@
 - [[2026-05-11 The Power of the Many-Shaped Team]] — Bryan Neider: model „team of teams" na przykładzie Mitchell Park Place; systemowe zmiany NGO wymagają radykalnej współpracy.
 - [[2026-05-11 The sneaky rise of shadow AI in the workplace]] — 71% pracowników używa nieautoryzowanych narzędzi AI; rozwiązaniem governance i szkolenia, nie blokowanie.
 - [[2026-05-11 🎙️ This week on How I AI Sendbird s elite AI-adoption playbook & Notion s spec-driven development]] — Sendbird: gamifikowany rynek automatyzacji wewnątrz firmy; Notion: spec-driven development z Markdown jako źródłem prawdy.
+- [[2026-05-11 The complete guide to LinkedIn for nonprofits Fundraising, networking, and growth strategies]] — GoFundMe Pro: praktyczny przewodnik po LinkedIn dla NGO — optymalizacja strony, budowanie zasięgu, konwersja w donacje i corporate partnerships.
 - [[2026-05-12 5 Findings From 6sense's BDR Report That Every Sales Leader Should See]] — Raport 6sense: adopcja AI wśród BDR-ów wzrosła do 99%, ale wyniki rosną tylko gdy AI służy nauce umiejętności.
 - [[2026-05-12 A Quiet Uprising Against Chatbots]] — Badania i NGO (Empower Work, UPchieve): chatboty skuteczniejsze jako wsparcie pracowników niż bezpośredni kontakt z beneficjentem.
 - [[2026-05-12 Does the addition of a premium on an offer donation page impact donor conversion?]] — Jeff Giddens (NextAfter): test A/B pokazuje, że premia na stronie donacyjnej podwaja konwersję i zwiększa dary cykliczne o 102,9%.
 - [[2026-05-12 From Google hit to +170% revenue in 5 months]] — Playbook SEO po uderzeniu algorytmu: audyt, USP w treści, klastry tematyczne; +170% przychodów w 5 miesięcy.
 - [[2026-05-12 How a video thumbnail CTA got more clicks than a hyperlinked text CTA]] — NextAfter/Bible League Canada: thumbnail wideo +24,3% click rate, ale bez przekładu na statystycznie istotny wzrost donacji.
 - [[2026-05-12 How presenting a problem and solution on the landing page affects email acquisition rate]] — NextAfter: framing problem/rozwiązanie na landing page zwiększa email acquisition o 20,6%; eksperyment A/B dla Franciscan University.
+- [[2026-05-12 How adding a graphic icon to a monthly selection on a donation form impacted conversion rates]] — NextAfter/Save the Children: ikonka serca przy opcji miesięcznej darowizny zwiększyła konwersję o 23% i RPV o 56%.
 - [[2026-05-12 Paid search in 2026 Diversify or decay]] — M+R: AI Overviews wypychają reklamy; Answer Engine Optimization (AEO) i AI Max jako odpowiedź NGO na spadającą widoczność.
 - [[2026-05-12 Sprzedaż z AI, 6 kroków]] — Mirek Burnejko: 6-etapowy framework wdrożenia AI-CSO (Chief Sales Officer) do automatyzacji sprzedaży dla małych przedsiębiorców.
 - [[2026-05-12 Surround Sound Communications How to Build a Narrative Machine]] — Ritti Singh: model "surround sound" — ta sama narracja z wielu kierunków buduje "common sense"; kampania Freeze the Rent jako case study.
@@ -2449,6 +2452,7 @@
 - [[2026-06-05 Your company needs agency, not agents.]] — Elena Verna: struktury organizacyjne oparte na command-and-control blokują wartość AI — potrzeba sprawczości pracowników (agency), nie tylko agentów AI.
 - [[2026-06-05 Copyright trolls — ochrona NGO przed roszczeniami o prawa autorskie]] — Open Rights Group ostrzega sektor NGO przed copyright trollami; jak bronić się przez doktrynę fair dealing.
 - [[2026-06-06 How Email Copy and Design Work Together]] — Beth O'Malley (Astral): framework 5 miejsc spójności copy–design w emailach; shared brief i test images-off jako narzędzia audytu kampanii.
+- [[2026-06-06 Product Update AI-Powered Fundraising and Volunteer Enhancements]] — CharityEngine: AI Agent do kampanii fundraisingowych oparty na danych historycznych organizacji + automatyzacja zarządzania wolontariuszami.
 - [[2026-06-07 5 Campaign Lessons from the EU Inc Campaign (and Why It Isn't Over Yet)]] — Partisan: 5 lekcji advocacy z kampanii EU Inc — jeden prosty ask, koalicja jako argument, draft zamiast żądania, pożyczanie narracji instytucji, budżetowanie trylogu.
 - [[2026-06-07 FULL BREAKDOWN Revealing Every Email We Send Across 5 Businesses & 250,000 Subscribers]] — Dickie Bush: architektura email engine dla 5 modeli biznesowych — sekwencje behawioralne, trzy typy emaili i 7 zasad maksymalizacji ROI z emaila.
 - [[2026-06-07 New Rulebook, Same Race Campaigning After TTPA and GDPR]] — Partisan: koniec mikrotargetowania w UE po TTPA; nowym gatekeeperem są AI search (GEO jako nowe SEO); email i owned channels wracają do centrum strategii.

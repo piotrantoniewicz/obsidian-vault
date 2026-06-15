@@ -49,10 +49,13 @@ W epoce perfekcyjnego contentu AI, niedoskonałość buduje wiarygodność. Darc
 | Potwierdzenie tożsamości | Podziękowanie listowne, regularny kontakt | Wskaźniki wpływu (impact metrics), przejrzyste raporty | Surowe materiały (raw content), de-influencing, aktualizacje postępu |
 | Zagrożenie | Brak follow-up po pierwszej wpłacie | Przypadkowy opt-in (zapis bez intencji) → poczucie manipulacji | Zmęczenie misją (purpose fatigue) + instytucjonalny ton |
 
+Pełne rozwinięcie tych różnic — z danymi o medianie daru, retencji, kanałach i progach asku per kohorta — w osobnej nocie: [[2026-06-15 Pokolenia darczyńców]].
+
 ---
 
 ## Powiązane pojęcia
 
+- [[2026-06-15 Pokolenia darczyńców]] — rozkład tożsamości dawania na konkretne kohorty (Gen Z / Millenialsi / Gen X / Boomers) z danymi o kwocie, retencji i kanale; różnice generacyjne jako wymiar tej samej mechaniki
 - [[2026-06-12 Recurring giving|Recurring giving]] (dawanie cykliczne) — mechanizm finansowy, który wzmacnia tożsamość darczyńcy przez regularność
 - [[2026-06-13 Peer-to-peer fundraising|Peer-to-peer fundraising]] (fundraising rówieśniczy) — kanał, w którym tożsamość transferuje się przez sieć społeczną
 - [[2026-06-13 Pledge program|Pledge program]] (program zobowiązań) — narzędzie formalizacji tożsamości filantropicznej

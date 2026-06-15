@@ -56,7 +56,7 @@ Nieaktywni subskrybenci aktywnie **szkodzą** reputacji — regularne wyciszanie
 - [[2026-06-12 Recurring giving]] — regularny, przewidywalny kontakt z darczyńcą cyklicznym to zarazem sygnał spójności wolumenu dla filtrów.
 - [[2026-06-03 Tożsamość darczyńcy]] — zaangażowanie (odpowiedzi, kliknięcia) jako najsilniejszy sygnał reputacji łączy się z poczuciem przynależności: ludzie otwierają maile od nadawcy, z którym się utożsamiają.
 - [[Higiena listy]] — wyciszanie nieaktywnych, walidacja adresów, re-permission (czerwony link — kandydat na osobną stronę).
-- [[Newsletter jako kanał]] — deliverability to warstwa techniczna pod strategią newslettera (czerwony link — backlog Fali 3).
+- [[2026-06-15 Newsletter jako kanał]] — deliverability to warstwa techniczna pod strategią newslettera: kanał własny (owned vs rented), billboard effect, rytm i wzrost bazy stoją na fundamencie dostarczalności.
 
 ---
 

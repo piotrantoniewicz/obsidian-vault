@@ -1672,6 +1672,7 @@
 - [[2026-03-06 I used this framework to make major career decisions. It takes 5 minutes]] — Prompt AI oparty na oczekiwanej wartości i framework Bezosa "drzwi w jedną/dwie strony" do szybkich decyzji.
 - [[2026-03-06 My chief of staff, Claude Code]] — Jim Prosser: Claude Code zbudował system nocnych skanów emaili i 6 równoległych subagentów, oszczędzając 45 minut dziennie.
 - [[2026-03-06 Specialist charity Networks]] — Wątek ECF: zarządzanie specjalistycznymi sieciami charytatywnymi — model Healthwatch England (153 lokalne org., peer networki, miękkie narzędzia brandingu).
+- [[2026-03-06 3 things every strong report has]] — Framework Message–Soul–Data: trzy filary mocnego raportu rocznego NGO, który porusza darczyńców i skłania do działania.
 - [[2026-03-07 Welcome to DAY THREE of launching your email list!]] — Dzień 3 mini-kursu: formularze zapisu i emaile dostarczające lead magnet; metryka $1/subskrybent/miesiąc.
 - [[2026-03-08 5 Steps To Becoming A Premium Ghostwriter]] — Nicolas Cole: 5-krokowy plan Premium Ghostwritera dla pracujących na etacie — niching, oferta premium, outreach i The 10x Choice.
 - [[2026-03-08 BONUS Ghostwriting As A Career (Crash Course)]] — PGA: 5 archetypów głosu klienta (Storyteller, Opinionater, Fact Presenter, Frameworker, F Bomb Dropper) i modele cenowe.
@@ -2436,7 +2437,9 @@
 - [[2026-06-02 Avoiding Common Pitfalls of Email Automation  MWD Blog]] — Tiffany Peplinski (MWD Agency): praktyczny checklist do planowania i przeglądów automatyzacji emailowych w CRM dla fundraisingu; kiedy automatyzować, a kiedy nie.
 - [[2026-06-02 Lessons from Hungary]] — Wątek ECF: analiza Mashe Gessen (NYT) o formule pokonania Orbána — wolontariat, kontakt twarzą w twarz, framing „kryminalnego przedsięwzięcia" i rola ruchów oddolnych niezwiązanych z polityką wyborczą.
 - [[2026-06-03 ANALYSIS Creators are Challenging the Influence of Advocacy Groups]]
+- [[2026-06-15 How to become a top 1% ghostwriter]] — Ship 30 for 30: 5-krokowy system ghostwritera w dowolnej niszy z pomocą AI (mapa branż-konstelacji, narracja problem-rozwiązanie, 5 poziomów specyfiki odbiorcy).
 - [[2026-06-15 Boję się, że ludzie się wypiszą]] — Martyna Mazela (Instytut Fundraisingu): strach przed wypisami jako najdroższy odruch NGO; kalkulacja progu stabilności (budżet ÷ średnia darowizna = cel regularnych darczyńców) i segmentacja dychotomiczna bazy jako fundament systemu regularnych darowizn.
+- [[2026-06-15 The hour you lose to scheduling every week is now optional]] — Marketing AI Playbook: integracja Buffer z Claude przez MCP — workflow planowania tygodnia postów w 20 minut przez content repurposing i automatyczne kolejkowanie.
 - [[2026-06-14 The Nonprofit of 2030 What It Takes to Get There]] — wizja NGO roku 2030 przez pryzmat 5 sił (transfer majątku, zmiana dawania, AI, proof of impact, rosnące potrzeby); z danymi o retencji i luce AI w sektorze — M+R: twórcy (54% top kont politycznych) wypierają NGO (3%) z social media; 4 strategie creator playbooku dla organizacji advocacy.
 - [[2026-06-03 Evolving From a Scarcity Mindset to One of Abundance]] — Bryan Neider: 5 lekcji transformacji AI dla organizacji społecznych — agenci autonomiczni, Parity Benchmark, Compute Equity jako nowe ramy działania NGO.
 - [[2026-06-03 Free Tools Weren't Enough]] — Kyle Behrend: 60+ NGO z darmowym dostępem do AI — korzystały 4; prawdziwa bariera to kultura organizacyjna, nie koszt narzędzi.

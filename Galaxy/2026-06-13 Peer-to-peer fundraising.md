@@ -50,6 +50,7 @@ P2P żywi się autentycznością, więc wspiera go "de-influencing organizacyjny
 - [[2026-06-12 Recurring giving|Recurring giving]] (dawanie cykliczne) — darczyńca pozyskany przez P2P może ewoluować w cyklicznego, wolontariusza, a nawet kolejnego fundraisera
 - [[2026-06-13 Transparentność operacyjna|Transparentność operacyjna]] (operational transparency) — de-influencing i radykalna transparentność to warunek konieczny wiarygodności, na której opiera się rekomendacja ambasadora
 - [[2026-06-13 Pledge program|Pledge program]] (program zobowiązań) — sposób na przedłużenie relacji z darczyńcami pozyskanymi w jednorazowej akcji P2P
+- [[2026-06-15 Pokolenia darczyńców]] — P2P to główna dźwignia dla darczyńców pod-30, którzy dają zasięg i proxy trust, nie gotówkę; zaangażowanie czasowe zamieniane w pozyskanie
 
 ---
 

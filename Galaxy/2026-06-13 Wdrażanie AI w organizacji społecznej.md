@@ -51,8 +51,8 @@ Najgłębszy sens AI w sektorze społecznym to ekspansja autonomii odbiorców, n
 - [[2026-06-13 Transparentność operacyjna|Transparentność operacyjna]] — 92% darczyńców wymaga jawności co do AI; wdrożenie AI bez transparentności podkopuje zaufanie, na którym stoi organizacja
 - [[2026-06-13 Stewardship|Stewardship]] (opieka nad darczyńcą) — zasada "automate the tired, humanize the inspired": AI ma uwalniać czas na relacje, nie zastępować ludzki kontakt
 - [[2026-06-14 RAG|RAG]] (retrieval-augmented generation) — bezpieczniejsza ścieżka użycia AI w sektorze społecznym: odpowiedzi oparte na własnej, kontrolowanej bazie wiedzy organizacji (Admin/Program Zone, RAG lokalny)
-- [[Prompt engineering]] — kompetencja operacyjna warunkująca poziom *Better/New*; bez niej zespół utyka na *Faster*
-- [[AI governance w NGO]] — filar etyki i zasad: lekka polityka AI jako warunek wstępny, nie formalność po fakcie
+- [[2026-06-15 Prompt engineering]] — kompetencja operacyjna warunkująca poziom *Better/New*; bez niej zespół utyka na *Faster*
+- [[2026-06-15 AI governance]] — filar etyki i zasad: lekka polityka AI jako warunek wstępny, nie formalność po fakcie
 - [[Automatyzacja]] / [[Make.com]] — konkretna realizacja poziomu *New* dla organizacji bez budżetu na rozwiązania szyte na miarę
 
 ---

@@ -36,7 +36,7 @@ Skuteczny stewardship jest **wyzwalany zdarzeniem**, nie harmonogramem: nowa dar
 Pierwsze 30–60 dni przesądza o retencji. Sprawdzony pakiet: **ankieta powitalna** zaraz po wpłacie (motywacja, interesujące programy, preferowana częstotliwość kontaktu — dane do segmentacji w CRM) plus **4-mailowa seria powitalna**: (1) potwierdzenie + social, (2) historia organizacji, (3) konkretna historia wpływu, (4) zaproszenie do zaangażowania niepieniężnego. Język "ty/twój", nie "my/nasze" — darczyńca jako sprawca zmiany.
 
 **5. Segmentacja ścieżek — różni darczyńcy, różna opieka**
-Stewardship nie jest jednolity. Major donorzy przechodzą 5-etapowy pipeline (identyfikacja → kwalifikacja → kultywacja → solicitacja → stewardship) wymagający [[CRM]] z widokiem pipeline'u, żeby zespół nie tracił kontaktów z oczu. Darczyńcy planowani (zapis w testamencie — już **23,7%** datków osobistych w 2025) zasługują na osobny "stewardship stack" — a 53% NGO wciąż traktuje ich jak jednorazowych. Darczyńcy cykliczni potrzebują dedykowanej opieki, która utrzymuje ich retencję na poziomie ~90% zamiast spadku do średniej.
+Stewardship nie jest jednolity. Major donorzy przechodzą [[2026-06-13 Major gifts|5-etapowy pipeline]] (identyfikacja → kwalifikacja → kultywacja → solicitacja → stewardship) wymagający [[CRM]] z widokiem pipeline'u, żeby zespół nie tracił kontaktów z oczu. Darczyńcy planowani (zapis w testamencie — już **23,7%** datków osobistych w 2025) zasługują na osobny "stewardship stack" — a 53% NGO wciąż traktuje ich jak jednorazowych. Darczyńcy cykliczni potrzebują dedykowanej opieki, która utrzymuje ich retencję na poziomie ~90% zamiast spadku do średniej.
 
 ---
 
@@ -46,6 +46,7 @@ Stewardship nie jest jednolity. Major donorzy przechodzą 5-etapowy pipeline (id
 - [[2026-06-03 Tożsamość darczyńcy|Tożsamość darczyńcy]] — każdy kontakt stewardshipowy potwierdza narrację darczyńcy o sobie ("jestem kimś, kto wspiera X"); pierwsze podziękowanie jest momentem, w którym ta tożsamość się krystalizuje lub gaśnie
 - [[2026-06-13 Transparentność operacyjna|Transparentność operacyjna]] (operational transparency) — pokazywanie wpływu i uczciwe raportowanie to rdzeń stewardshipu: darczyńca, który nie widzi efektu, przestaje dawać
 - [[2026-06-13 Pledge program|Pledge program]] (program zobowiązań) — stewardship przedłuża zobowiązanie, dostarczając darczyńcy powodów, by je odnawiał
+- [[2026-06-13 Major gifts|Major gifts]] (duże darowizny) — stewardship to piąty, domykający etap pipeline'u dużych darów; bez niego major gift jest jednorazowy, a major donorzy wymagają najbardziej zagęszczonej, zindywidualizowanej opieki
 - [[2026-06-13 Peer-to-peer fundraising|Peer-to-peer fundraising]] — zadowolony, dobrze "zaopiekowany" darczyńca staje się ambasadorem, który rekrutuje kolejnych przez sieć społeczną
 - [[2026-06-14 Email deliverability|Email deliverability]] — "momenty pomiędzy" (kontakt bez prośby) to nie tylko taktyka relacyjna: każda angażująca, niesprzedażowa wysyłka karmi reputację domeny i decyduje o tym, czy mail z apelem w ogóle trafi do skrzynki
 - [[2026-06-14 Framing|Framing]] (ramy narracyjne) — każdy kontakt stewardshipowy musi być rozdziałem tej samej historii co apel: spójność narracyjna (zamiast middlingu) decyduje, czy „moment pomiędzy" buduje relację, czy tylko dokłada szumu

@@ -49,6 +49,7 @@ Pledge donors to ciepli kandydaci do najwyższego piętra zaangażowania — zap
 - [[2026-06-13 Stewardship|Stewardship]] (opieka nad darczyńcą) — obsługa pledga po jego zabezpieczeniu (aktualizacje postępu, rozmowa o odnowieniu) jest tak samo ważna jak samo pozyskanie
 - [[2026-06-13 Transparentność operacyjna|Transparentność operacyjna]] (operational transparency) — wieloletnie zobowiązanie wymaga wieloletniego zaufania: darczyńca musi widzieć, że jego raty robią różnicę
 - [[2026-06-13 Peer-to-peer fundraising|Peer-to-peer fundraising]] — sposób na zamianę jednorazowych darczyńców z akcji P2P w trwałe zobowiązania
+- [[2026-06-13 Major gifts|Major gifts]] (duże darowizny) — pledge to winda do rejestru major giverów: rozłożenie kwoty na raty otwiera duże dawanie tym, których nie stać na jednorazowy major gift, i buduje most do planned giving
 
 ---
 

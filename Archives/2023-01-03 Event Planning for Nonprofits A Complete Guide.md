@@ -5,6 +5,9 @@ url: "https://charityengine.net/nonprofit-event-guide/?utm_campaign=Weekly%20Blo
 published: 2023-01-03
 created: 2026-06-16
 tags:
+  - fundraising
+  - organizacje-społeczne
+  - digital-campaigning
 ---
 
 

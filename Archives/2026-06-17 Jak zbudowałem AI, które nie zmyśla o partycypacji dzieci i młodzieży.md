@@ -1,10 +1,13 @@
 ---
-type: "Web"
-authors: "[[Rafał Szymański]]"
-url: "https://rafalszymanski.pl/blog/ai-rag-ktore-nie-zmysla-partycypacja/"
-published:
-created: 2026-06-17
+type: Web
+authors: '[[Rafał Szymański]]'
+url: 'https://rafalszymanski.pl/blog/ai-rag-ktore-nie-zmysla-partycypacja/'
+published: null
+created: 2026-06-17T00:00:00.000Z
 tags:
+  - narzędzia-AI
+  - LLM
+  - organizacje-społeczne
 ---
 
 

@@ -5,6 +5,9 @@ url: "https://claude.com/blog/building-with-claude-managed-agents"
 published: 2000-06-10
 created: 2026-06-17
 tags:
+  - "automatyzacja"
+  - "narzędzia-AI"
+  - "strategia-AI"
 ---
 
 

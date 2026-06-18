@@ -1,5 +1,6 @@
 # Indeks
 - [[2000-09-17 UNICEF Standardizing email design across 190 countries]] — UNICEF użył Beefree do standaryzacji emaili fundraisingowych w 190 krajach bez zaplecza technicznego.
+- [[2026-06-10 The evolution of agentic surfaces building with Claude Managed Agents]] — Anthropic: ewolucja architektury agentów od Messages API przez Claude Agent SDK do Claude Managed Agents — produkcyjna platforma z izolowanymi sandboxami, zarządzaniem sesjami i vaultami na credentials.
 - [[2009-08-19 The Nonprofit Starvation Cycle (SSIR)]] — SSIR opisuje mechanizm głodzenia NGO przez fundatorów oczekujących niskich kosztów administracyjnych.
 - [[2013-10-01 SOSTAC 1-Day Masterclass - AI enabled 30 Jan London]] — SOSTAC® to sześcioetapowy framework planowania marketingowego uznany przez CIM za jeden z najlepszych modeli.
 - [[2016-01-15 Building Leadership Capacity Reframing the Succession Challenge]] — Bridgespan diagnozuje strukturalny deficyt liderów NGO i proponuje sześć procesów budowania pipeline talentów.
@@ -1622,6 +1623,7 @@
 - [[2026-03-01 Google AI Overviews Surges Across 9 Industries]] — BrightEdge: AIO wzrosło 58% rok do roku — edukacja 18→83%, tylko 17% źródeł AIO pokrywa się z top 10 organicznych.
 - [[2026-03-01 The design process is dead. Here s what s replacing it.  Jenny Wen (head of design at Claude)]] — Jenny Wen (Anthropic): koniec klasycznych makiet; designerzy stają się partnerami kodującymi na żywych prototypach.
 - [[2026-03-01 🤖 twórz niesamowite strony i designy!]] — Google Stitch + Claude Code: redesign UI w jednej sesji — pipeline od screenshota do działającej aplikacji, paradoks AI i wypalenie.
+- [[2026-03-01 Using spec-driven development with Claude Code]] — Heeki Park: spec-driven development jako antidotum na vibe coding — trzy poziomy SDD (spec-first, spec-anchored, spec-as-source) i praktyczny workflow planowania projektów z Claude Code.
 - [[2026-03-02 Beyond the ask Fundraising as building donor trust]] — Candid: fundraising zaczyna i kończy się na zaufaniu — cztery filary: programy, finanse, liderzy, zarząd.
 - [[2026-03-02 Czy to koniec ery klepania kodu-]] — Claude 4.6 tworzy "zespół 10x", agenci na Mac Mini, prompt injection w artykułach i stuletnie obligacje Alphabet.
 - [[2026-03-02 Design emails people love to get.]] — Community Mindfulness Project: wzorzec autentycznego emaila NGO — ciepły głos, ciekawostki i pytania zamiast masowego broadcastu.
@@ -1896,6 +1898,7 @@
 - [[2026-03-30 The world needs more voices right now. Yours included.]] — Jenna Kutcher: podcast jako antidotum na treści AI — autentyczny głos buduje głębsze relacje niż algorytmiczny content.
 - [[2026-03-30 To 1 zdanie do AI, które pokaże słabe miejsce Twojej NGO]] — Instytut Fundraisingu: gotowy prompt diagnostyczny do AI ujawnia trzy największe bariery stabilnego finansowania NGO.
 - [[2026-03-30 [30 Day Growth Challenge] Day 15- The Forward to a Friend Strategy]] — Program poleceń jako wirusowy wzrost listy mailingowej; narzędzia Kit/Beehiiv z automatyzacją vs manualne forwarding.
+- [[2026-03-30 Data centers are creating 'heat islands' and warming the land around them by up to 16 degrees]] — Laura Paddison (CNN): badanie Cambridge pokazuje, że centra danych AI tworzą wyspy ciepła — średnio +3,6°F, max 16,4°F w promieniu 10 km, dotykając 340 mln ludzi.
 - [[2026-03-31 30 biuletyn podstawyAI, czyli czym jest Anthropic Economic Index i po co to komu]] — Jurgiel-Zyla: Anthropic Economic Index — augmentacja bije automatyzację; doświadczeni użytkownicy AI mają 73,1% success rate.
 - [[2026-03-31 Addiction by design AI Dark Patterns and the global legal reckoning]] — Globalna fala regulacji przeciw dark patterns: precedensy sądowe USA, zakaz infinite scroll dla dzieci w Brazylii.
 - [[2026-03-31 Best times to post on Facebook in 2026 Updated March 2026]] — Sprout Social 2026: Facebook — wtorki i środy 12:00–20:00 szczyt zaangażowania; weekendy konsekwentnie najgorsze.
@@ -2211,6 +2214,7 @@
 - [[2026-04-30 The real numbers on AI replacing you]] — Dickie Bush: tylko 8,6% ludzi używa ChatGPT; ghostwriter traktujący AI jako narzędzie dostarcza pracę jakości całego zespołu.
 - [[2026-04-30 The rise of the human–AI workforce]] — McKinsey: AI nie zastąpi połowy pracy; kluczem zarządzanie hybrydowymi zespołami ludzi i agentów AI.
 - [[2026-04-30 Unpacking Benchmarks with M+R's Jonathan Benton]] — M+R Benchmarks 2026: przychody NGO z emaili wzrosły o 16%; organiczny ruch SEO spadł o 40% przez AI.
+- [[2026-04-30 Silicon Valley Is Bracing for a Permanent Underclass]] — Jasmine Sun (NYT): Dolina Krzemowa obawia się trwałej klasy niższej — paradoks firm AI ostrzegających przed skutkami własnej technologii; analiza politycznych odpowiedzi (UBI vs gwarancja pracy).
 - [[2026-05-01 10 more styles for you to steal]] — Kolekcja 10 kodów stylistycznych (--sref) do Midjourney; techniki łączenia i ważenia estetyk.
 - [[2026-05-01 Anthropic 1 mln rozmów o co naprawdę pytamy Claude a w 2026 roku]] — Analiza miliona rozmów z Claude: 6% to porady osobiste; sycophancy w 25% rozmów o relacjach.
 - [[2026-05-01 Big AI's Plans Strain CO2 Pledges]] — Alphabet, Amazon, Meta i Microsoft zwiększają emisje CO2 przez centra danych AI mimo wcześniejszych zobowiązań.

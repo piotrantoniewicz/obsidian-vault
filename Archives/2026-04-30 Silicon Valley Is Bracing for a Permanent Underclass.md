@@ -5,6 +5,9 @@ url: "https://www.nytimes.com/2026/04/30/opinion/ai-labor-work-force-silicon-val
 published: 2026-04-30
 created: 2026-06-17
 tags:
+  - "trendy-AI"
+  - "strategia-AI"
+  - "strategia-organizacji"
 ---
 
 

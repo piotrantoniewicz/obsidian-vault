@@ -5,6 +5,8 @@ url: "https://edition.cnn.com/2026/03/30/climate/data-centers-are-having-an-unde
 published: 2026-03-30
 created: 2026-06-17
 tags:
+  - "trendy-AI"
+  - "strategia-AI"
 ---
 
 

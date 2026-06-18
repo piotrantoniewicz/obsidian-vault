@@ -5,6 +5,9 @@ url: "https://heeki.medium.com/using-spec-driven-development-with-claude-code-4a
 published: 2026-03-01
 created: 2026-06-17
 tags:
+  - "vibe-coding"
+  - "narzędzia-AI"
+  - "prompt-engineering"
 ---
 
 

@@ -5,6 +5,9 @@ url: "https://paweltkaczyk.com/europejskie-alternatywy-oprogramowania"
 published: 2026-06-10
 created: 2026-06-18
 tags:
+  - "narzędzia-AI"
+  - "strategia-organizacji"
+  - "produkty-cyfrowe"
 ---
 
 

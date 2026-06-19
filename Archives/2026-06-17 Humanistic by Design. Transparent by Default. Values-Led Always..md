@@ -5,6 +5,9 @@ url: "https://www.linkedin.com/pulse/humanistic-design-transparent-default-value
 published: 2026-06-17
 created: 2026-06-18
 tags:
+  - "strategia-AI"
+  - "organizacje-społeczne"
+  - "szkolenia-AI"
 ---
 
 

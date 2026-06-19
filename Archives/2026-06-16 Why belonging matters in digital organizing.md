@@ -5,6 +5,9 @@ url: "https://www.centerfordigitalaction.eu/post/why-belonging-matters-in-digita
 published: 2026-06-16
 created: 2026-06-19
 tags:
+  - "organizacje-społeczne"
+  - "digital-campaigning"
+  - "strategia-organizacji"
 ---
 
 

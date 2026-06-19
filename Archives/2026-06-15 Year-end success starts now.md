@@ -5,6 +5,9 @@ url: "https://blog.rkdgroup.com/year-end-success-starts-now?utm_source=www.civic
 published: 2026-06-15
 created: 2026-06-18
 tags:
+  - "fundraising"
+  - "digital-campaigning"
+  - "strategia-organizacji"
 ---
 
 

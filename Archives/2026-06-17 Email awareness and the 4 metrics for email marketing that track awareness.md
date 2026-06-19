@@ -5,6 +5,9 @@ url: "https://weareastral.co.uk/thevault/email-is-an-awareness-channel?utm_mediu
 published: 2026-06-17
 created: 2026-06-18
 tags:
+  - "digital-campaigning"
+  - "fundraising"
+  - "content-marketing"
 ---
 
 

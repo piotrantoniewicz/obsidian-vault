@@ -5,6 +5,9 @@ url: "https://www.centerfordigitalaction.eu/3-digital-progress-magazine/the-new-
 published:
 created: 2026-06-19
 tags:
+  - "digital-campaigning"
+  - "organizacje-społeczne"
+  - "framing"
 ---
 
 

@@ -1,10 +1,14 @@
 ---
-type: "Web"
-authors: "[[Sofia Quintero]]"
-url: "https://personalaisafety.com/p/the-case-against-the-ai-thought-partner?utm_source=multiple-personal-recommendations-email&utm_medium=email&triedRedirect=true"
-published: 2026-05-28
-created: 2026-06-20
+type: Web
+authors: '[[Sofia Quintero]]'
+url: >-
+  https://personalaisafety.com/p/the-case-against-the-ai-thought-partner?utm_source=multiple-personal-recommendations-email&utm_medium=email&triedRedirect=true
+published: 2026-05-28T00:00:00.000Z
+created: 2026-06-20T00:00:00.000Z
 tags:
+  - strategia-AI
+  - szkolenia-AI
+  - LLM
 ---
 
 

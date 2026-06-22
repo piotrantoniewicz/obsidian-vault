@@ -5,7 +5,7 @@ tags:
   - LLM
   - narzędzia-AI
 created: 2026-06-15
-updated: 2026-06-15
+updated: 2026-06-22
 relevance: wysoka
 sources:
   - "[[2025-09-29 Effective context engineering for AI agents]]"
@@ -14,6 +14,8 @@ sources:
   - "[[2026-05-25 Harness, Scaffold, and the AI Agent Terms Worth Getting Right]]"
   - "[[2026-03-29 Przestań promptować... zacznij delegować]]"
   - "[[2026-02-01 🧠 czas na mózg agenta AI! 3-6]]"
+  - "[[2026-05-22 The One AI Writing Hack Nobody Talks About.]]"
+  - "[[2026-06-20 Piotr, zero razy tysiąc to dalej... zero]]"
 ---
 
 # Context engineering (projektowanie kontekstu)
@@ -48,6 +50,9 @@ Zamiast ładować wszystkie dane z góry, agent przechowuje **lekkie identyfikat
 **6. Miejsce w stosie agenta — co to NIE jest**
 Glosariusz [[HuggingFace]] precyzuje granice: context engineering to **projektowanie tego, co trafia do okna**, i jest częścią *scaffoldingu* (warstwa definiująca zachowanie: system prompt, opisy narzędzi, zarządzanie kontekstem między krokami) — w odróżnieniu od *harnessa* (warstwa wykonawcza: pętla wywołań, obsługa narzędzi, decyzja o zatrzymaniu). Wzór: `Agent = Model + Harness`. Ten sam model (np. [[Claude]]) zachowuje się zupełnie inaczej przy różnym kontekście i różnym harnessie — context engineering odpowiada za pierwszą z tych zmiennych.
 
+**7. Project Room / Data Room — przygotować środowisko, zanim agent napisze ([[Nate B Jones]])**
+Halucynacje w poważnej pracy z wiedzą są **strukturalne** — biorą się z chaotycznego środowiska plików, nie ze złego modelu ani promptu (kazus kancelarii Sullivan & Cromwell: dziesiątki sfabrykowanych cytatów w piśmie sądowym). Nie naprawi tego lepszy prompt — naprawia to przygotowanie kontekstu. Pierwsza instrukcja dla agenta zmienia się więc z „napisz dokument" na „zbuduj pokój roboczy": cztery artefakty generowane *przed* finałem — **Source Inventory** (tabela: ścieżka, typ, data, autorytatywność, aktualność, co źródło wspiera), **Conflict Log** (sprzeczności między źródłami do rozstrzygnięcia przez człowieka), **Missing Context List** (czego brakuje — bo brakujące dane są często ważniejsze niż dostępne; jeśli model nie wie, że czegoś brak, wynajduje odpowiedź) i **Duplicates Report** (rodziny wersji — w AI duplikat to problem z rozumowaniem, nie tylko porządkiem). Dopiero potem krótki prompt: które źródło jest autorytatywne dla liczb, które dla kontekstu, a które to tło — i napisz. Podział ról jak w [[2026-06-14 RAG|RAG]]: agent buduje canvas, człowiek decyduje, agent pisze.
+
 ---
 
 ## Frameworki-kotwice
@@ -56,6 +61,8 @@ Glosariusz [[HuggingFace]] precyzuje granice: context engineering to **projektow
 - **SCOPE (Gayle Roberts)** — operacyjny framework budowania trwałej bazy wiedzy organizacyjnej dla AI: **S**torage (centralizacja), **C**leaning (usunięcie bałaganu), **O**rganization (struktura, index files, relationship maps), **P**reparation (formaty AI-friendly + próbki tonu), **E**ngagement (połączenie AI z bazą). Efekt-kotwica: propozycja grantowa 20 godzin → 20 minut.
 - **Trzy poziomy delegowania (Robert Szewczyk)** — (1) lepszy Google (copy-paste, zero kontekstu), (2) pogaduszki z chatbotem (kontekst powtarzany za każdym razem), (3) asystent z „Twoim DNA" (kontekst dostarczony raz, działa zawsze). Większość użytkowników utknęła na poziomie 1 — nie z braku umiejętności, lecz świadomości.
 - **Analogia pracownika (Roberts)** — prompting = stażysta; Custom GPT = freelancer per projekt; context engineering = wieloletni pracownik znający organizację na wylot.
+- **Project/Data Room (Jones)** — 4 artefakty przed pisaniem: Source Inventory / Conflict Log / Missing Context List / Duplicates Report; „czy agent może przygotować warunki, w których dobra praca jest możliwa?".
+- **Prompt „5 decyzji" + Zero × Mnożnik (Woliński)** — przed dużym zadaniem zapytaj LLM: „wypisz 5 decyzji, których NIE powinienem Ci oddawać, bo wymagają wiedzy o mojej firmie/branży/kliencie"; AI mnoży to, co masz — mnożysz zero, dostajesz zero.
 - **Liczby-kotwice**: subagent zwraca 1000–2000 tokenów z dziesiątek tysięcy przeczytanych; „context layer" jako fosa konkurencyjna — [[Cursor]] osiągnął 1 mld USD ARR dzięki warstwie kontekstu (nie modelowi), [[Google]] zapłacił 2,4 mld USD za [[Windsurf]] zamiast konkurować.
 
 ---

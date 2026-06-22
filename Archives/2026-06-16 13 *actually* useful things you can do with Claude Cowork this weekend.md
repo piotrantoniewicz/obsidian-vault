@@ -1,10 +1,14 @@
 ---
-type: "Web"
-authors: "[[Tayla Burrell]]"
-url: "https://taylaburrell.substack.com/p/13-actually-useful-things-you-can?utm_source=multiple-personal-recommendations-email&utm_medium=email&triedRedirect=true"
-published: 2026-06-16
-created: 2026-06-20
+type: Web
+authors: '[[Tayla Burrell]]'
+url: >-
+  https://taylaburrell.substack.com/p/13-actually-useful-things-you-can?utm_source=multiple-personal-recommendations-email&utm_medium=email&triedRedirect=true
+published: 2026-06-16T00:00:00.000Z
+created: 2026-06-20T00:00:00.000Z
 tags:
+  - narzędzia-AI
+  - automatyzacja
+  - strategia-AI
 ---
 
 

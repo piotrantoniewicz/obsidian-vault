@@ -1,17 +1,19 @@
-# Strategia rozbudowy Galaxy/ — 2026-06-15
+# Strategia rozbudowy Galaxy/ — 2026-06-22
 
 *Konwencja: data w tytule H1 = data ostatniej istotnej aktualizacji tego pliku. Przy każdej zmianie (nowe pojęcia, zamknięta fala, korekta planu) zaktualizuj datę w tytule.*
 
 > **Reguła dziennika:** sekcja „Gdzie jesteśmy" to **jeden, nadpisywany** snapshot bieżącego stanu — **nie** rosnący log dopisków. Przy każdej sesji **nadpisz jej treść** (liczba stron, ostatnia operacja, następny krok, backlog), zamiast dopisywać kolejny akapit „Dopisek RRRR-MM-DD". Historię trzymają same notatki, `git` i `Galaxy/index.md`.
 
-## Gdzie jesteśmy (akt. 2026-06-15)
+## Gdzie jesteśmy (akt. 2026-06-22)
 
 **Galaxy/ = 18 stron** w trzech domkniętych, gęsto połączonych działach indeksu:
 - **Fundraising** — Tożsamość darczyńcy, Recurring giving, Stewardship, Peer-to-peer fundraising, Pledge program, Transparentność operacyjna, Major gifts, Pokolenia darczyńców
 - **AI w organizacjach** — Wdrażanie AI w organizacji społecznej, AI governance, Agentic AI, RAG, Context engineering, Prompt engineering
 - **Komunikacja i digital campaigning** — Email deliverability, Framing, Storytelling oparty na danych, Newsletter jako kanał
 
-**Ostatnia operacja — Lint 2026-06-15:** graf zdrowy, zero zerwanych linków, brak sierot (min. 2 linki przychodzące na stronę). Naprawiona 1 luka: Major gifts dolinkowany wstecz ze Stewardship i Pledge (1 → 3 incoming).
+**Ostatnia operacja — Ingest 2026-06-22:** przegląd 52 nowych notatek z Resources/ (birthtime ≥ 2026-06-16) → 21 nowych źródeł dopisanych do `sources` w 13 stronach + wpleciona treść (nowe mechanizmy / liczby-kotwice), `updated` ustawione na 2026-06-22. Najważniejsze dodatki: Email deliverability (proces naprawczy, per-odbiorca placement), Newsletter (4 mechanizmy awareness + ROI², 4 wymiary objętości), Pokolenia (intencje 2026, 94% przejrzystość), Tożsamość (belonging operacyjnie, test 30 dni), Stewardship/Transparentność (TEAMS, rezerwa 6M, modele finansowania), Wdrażanie AI (4 zasady Daya, kryzys gotowości), AI governance (Reguła Trzech, suwerenność/jurysdykcja), RAG (pipeline PIA, chunking, koszt polszczyzny), Context engineering (Data Room), Agentic AI (stos Anthropic mózg/ręce), Framing (Problem→Zmiana→Dowód→CTA, „zacznij od ty"). **Nie utworzono nowych stron** — czysty ingest do istniejących.
+
+**Klastry-kandydaci na nowe strony (z przeglądu 2026-06-22):** AI Search / widoczność NGO (GEO, zero-click) — 5+ źródeł, najsilniejszy; Ghostwriting / marka osobista; Suwerenność technologiczna / europejskie alternatywy. Do rozważenia przy następnej fali.
 
 **Następny krok (popyt):** Mobilizacja cyfrowa (gałąź digital campaigning, bez czerwonego linku), Owned vs rented audience lub Higiena listy (awansują przy 2. wystąpieniu), Transfer międzypokoleniowy majątku (czerwony link z Pokoleń).
 

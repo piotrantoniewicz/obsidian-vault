@@ -5,7 +5,7 @@ tags:
   - organizacje-społeczne
   - digital-campaigning
 created: 2026-06-13
-updated: 2026-06-13
+updated: 2026-06-22
 relevance: wysoka
 sources:
   - "[[2026-04-08 Społeczność Jako Twój Najlepszy Fundraiser Jak Wdrożyć Model Peer-to-Peer]]"
@@ -13,6 +13,7 @@ sources:
   - "[[2025-10-28 People-Powered Fundraising 5 Takeaways from NC State s Day of Giving for End-of-Year Fundraisers]]"
   - "[[2025-08-29 Best Ways To Recruit Peer-to-Peer Fundraisers For Your Giving Day]]"
   - "[[2025-08-28 7 Ideas to Motivate Peer-to-Peer Fundraisers to the Finish]]"
+  - "[[2023-01-03 Event Planning for Nonprofits A Complete Guide]]"
 ---
 
 # Peer-to-peer fundraising (fundraising rówieśniczy)
@@ -37,6 +38,8 @@ Ambasadorzy rezygnują, zanim zdążą działać, jeśli zbieranie jest trudne. 
 
 **5. Ekosystem zamiast sezonowej kampanii**
 Najczęstszy błąd strukturalny to model "zarejestruj → zbieraj → event → zniknij", który co roku zmusza do odbudowy społeczności od zera (Axelrad). Dojrzały P2P to **trwała infrastruktura**, do której zwolennicy wracają przy osobistych momentach: zbiórki urodzinowe, kampanie upamiętniające, wyzwania sportowe, workplace giving. Wymaga to [[2026-06-13 Stewardship|stewardshipu]] samych fundraiserów (podziękowania, dzielenie się efektem, uznanie) — traktowania ich jak major donorów. Utrzymanie motywacji w trakcie kampanii napędzają kamienie milowe, leaderboardy, matching z limitem czasu i widoczność (uznanie działa silniej niż nagrody materialne).
+
+Gdy P2P przyjmuje formę eventu (gala, bieg, wyzwanie sportowe), o powtarzalności decyduje **domknięcie pętli po wydarzeniu** (Charity Engine): podziękowania do wolontariuszy i darczyńców jeszcze tego samego wieczoru, telefony do kluczowych uczestników nazajutrz, komunikat o wyniku finansowym do wszystkich, krótka ankieta satysfakcji, publiczne wyróżnienie najaktywniejszych oraz podsumowanie budujące FOMO na kolejną edycję. Zasada zdrowego portfela: pojedynczy event to **≤50% przychodów** organizacji, a jego rentowność trzeba liczyć z kosztem pracy — inaczej godziny zespołu zjadają zysk; technologię (CRM, automatyzacja, mobile bidding) dobiera się **przed** kampanią, nie w jej trakcie.
 
 **6. De-influencing — transparentność jako warunek wiarygodności**
 P2P żywi się autentycznością, więc wspiera go "de-influencing organizacyjny": porzucenie wypolerowanego wizerunku na rzecz surowych filmów ze smartfona, relacji z zaplecza i przyznawania się do trudności. Darczyńca staje się współuczestnikiem procesu, nie konsumentem treści — co domyka pętlę zaufania, które ambasador przeniósł od siebie na organizację.

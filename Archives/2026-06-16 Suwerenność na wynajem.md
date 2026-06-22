@@ -1,10 +1,13 @@
 ---
-type: "Web"
-authors: "[[Dariusz Jemielniak]]"
-url: "https://haimagazine.com/pl/ai_branza/prawo_etyka/suwerennosc-na-wynajem/"
-published: 2026-06-16
-created: 2026-06-20
+type: Web
+authors: '[[Dariusz Jemielniak]]'
+url: 'https://haimagazine.com/pl/ai_branza/prawo_etyka/suwerennosc-na-wynajem/'
+published: 2026-06-16T00:00:00.000Z
+created: 2026-06-20T00:00:00.000Z
 tags:
+  - strategia-AI
+  - organizacje-społeczne
+  - trendy-AI
 ---
 
 

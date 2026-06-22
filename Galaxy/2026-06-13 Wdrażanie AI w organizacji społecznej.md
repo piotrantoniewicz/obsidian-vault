@@ -5,7 +5,7 @@ tags:
   - organizacje-społeczne
   - szkolenia-AI
 created: 2026-06-13
-updated: 2026-06-13
+updated: 2026-06-22
 relevance: wysoka
 sources:
   - "[[2026-02-20 Why Most Nonprofits Arent Using AI (Yet)]]"
@@ -13,6 +13,9 @@ sources:
   - "[[2026-05-18 Why relationships are the hidden infrastructure of AI transformation]]"
   - "[[2026-05-06 Human-Centered AI Unlocking Agency]]"
   - "[[2025-11-17 AI is about to have its Microsoft Office moment]]"
+  - "[[2026-06-05 If I were Chief AI Officer of My Human Rights Campaign This is how I'd approach AI with my campaigners < Sheila McKechnie Foundation]]"
+  - "[[2026-06-17 Humanistic by Design. Transparent by Default. Values-Led Always.]]"
+  - "[[2026-06-08 The Nonprofit of 2030 What It Takes to Get There]]"
 ---
 
 # Wdrażanie AI w organizacji społecznej (AI adoption in nonprofits)
@@ -24,7 +27,7 @@ Wdrażanie AI w organizacji społecznej to **świadomy proces wprowadzania narz�
 ## Kluczowe mechanizmy
 
 **1. Cztery filary gotowości — nie technologia, lecz fundamenty**
-Skuteczne wdrożenie stoi na czterech filarach (Gatmaitan, Benefactor Group): **governance i etyka** (nie 30-stronicowa polityka, lecz kilka jasnych zasad wpiętych w istniejące planowanie), **data readiness** (jakość [[CRM]] i integracja danych — wartość sama w sobie, niezależnie od AI), **capacity przez konkretne problemy** (punkty wejścia w codziennej pracy, nie abstrakcyjne "inicjatywy AI") i **cultural alignment** (automatyzacja uwalnia czas na relacje, nie zastępuje kontaktu).
+Skuteczne wdrożenie stoi na czterech filarach (Gatmaitan, Benefactor Group): **governance i etyka** (nie 30-stronicowa polityka, lecz kilka jasnych zasad wpiętych w istniejące planowanie), **data readiness** (jakość [[CRM]] i integracja danych — wartość sama w sobie, niezależnie od AI), **capacity przez konkretne problemy** (punkty wejścia w codziennej pracy, nie abstrakcyjne "inicjatywy AI") i **cultural alignment** (automatyzacja uwalnia czas na relacje, nie zastępuje kontaktu). To czyni adopcję AI **projektem kulturowym, nie technologicznym** ([[Bryan Neider]]): AI literacy ma być powszechna, a osąd rozproszony — organizacja, w której tylko dział IT rozumie, jak używa się AI, już abdykowała z odpowiedzialności zarządczej. Zasada *first principles*: nie kopiuj strategii AI innych organizacji — pytaj, czego wymaga twoja misja i co pozwalają twoje wartości.
 
 **2. AI nie tworzy bałaganu — odsłania istniejący**
 Najważniejsza zasada diagnostyczna: AI nałożone na chaotyczne dane, niejasne procesy i brak strategii nie naprawia ich, lecz uwidacznia i skaluje. Dlatego pierwszym krokiem wdrożenia jest porządkowanie danych operacyjnych i [[CRM]] — praca, która zwraca się niezależnie od tego, czy AI w ogóle ruszy. To odwraca kolejność: governance i higiena danych **poprzedzają** implementację, nie doganiają jej.
@@ -43,6 +46,9 @@ Organizacje AI-native skalują się jak firmy technologiczne — AI obsługuje o
 
 **7. Wartość = rozszerzanie sprawczości, nie automatyzacja back-office**
 Najgłębszy sens AI w sektorze społecznym to ekspansja autonomii odbiorców, nie tylko oszczędność administracji (Neider): nawigacja dla osób niewidomych, komunikacja wspomagana AI, wsparcie 24/7. Wdrożenie wymaga godności i jawności: pilotaże zorientowane na użytkownika, transparentność wobec klientów co do roli algorytmu, dostępność (ADA / EU AI Act) i wewnętrzna rola "Inclusion/AI Tech Lead" zamiast pełnej zależności od dostawców.
+
+**8. Kiedy AI pomaga, a kiedy szkodzi — 4 zasady przed sięgnięciem po narzędzie ([[Rasha Daya]])**
+Prawdziwym testem AI nie jest, ile zadań oddasz automatyzacji, lecz **wiedza, kiedy AI włączyć, a kiedy trzymać z daleka**. Cztery nienaruszalne zasady (Ground Rules): (1) jeśli AI nie jest potrzebne — nie używaj (koszt budżetowy i środowiskowy); (2) jeśli błędny wynik może kogoś skrzywdzić — nie używaj (ryzyko dyskryminacji); (3) jeśli nie możesz zweryfikować wyniku — nie używaj (ryzyko dezinformacji); (4) jeśli musisz ujawnić tajemnicę lub dane wrażliwe, by użyć — nie używaj. Tam, gdzie AI ma sens, jego realną przewagą jest **skala i wykrywanie wzorców, nie zastępowanie osądu**: lokalizacja i adaptacja treści (jeden zatwierdzony komunikat → wiele wersji), synteza dużych zbiorów danych, monitoring nastrojów i anomalii, wizualizacja koncepcyjna. Kampaner/fundraiser pozostaje odpowiedzialny za decyzję strategiczną.
 
 ---
 
@@ -65,6 +71,7 @@ Najgłębszy sens AI w sektorze społecznym to ekspansja autonomii odbiorców, n
 - **Pierwszy krok zawsze ten sam — dane:** zanim cokolwiek "AI", uporządkuj [[CRM]] i procesy; ta praca zwraca się niezależnie i jest najtańszym, najmniej ryzykownym wejściem.
 - **Lekka polityka AI na start:** kilka jasnych zasad (kiedy używamy, co ujawniamy darczyńcom/klientom, czego nie wpisujemy do narzędzi) wpiętych w istniejące planowanie — nie osobny 30-stronicowy dokument.
 - **Bank case'ów na szkolenia:** Sophia, CareNX, Farmer.Chat jako dowód, że "AI dla misji" to nie teoria — różne podsektory (prawa człowieka, zdrowie, rolnictwo).
+- **Argument pilności — „kryzys gotowości, nie hojności" (Fois, *Nonprofit of 2030*):** 85,6% NGO eksploruje AI, ale tylko **24% ma strategię** — luka = ryzyko, bo organizacje z zasobami danych kumulują przewagę. W tle: transfer majątkowy ~124 bln USD do 2045 (~18 bln na cele charytatywne) i retencja pierwszorazowych darczyńców na poziomie 19%. „Odległość do 2030 mierzy się w decyzjach, nie dolarach".
 
 ---
 

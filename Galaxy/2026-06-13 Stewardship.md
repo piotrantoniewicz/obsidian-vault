@@ -5,7 +5,7 @@ tags:
   - organizacje-społeczne
   - digital-campaigning
 created: 2026-06-13
-updated: 2026-06-13
+updated: 2026-06-22
 relevance: wysoka
 sources:
   - "[[2026-04-24 Beyond the Ask Donor Stewardship]]"
@@ -13,6 +13,8 @@ sources:
   - "[[2025-08-08 Donor Stewardship How to Convert Major Gifts]]"
   - "[[2026-04-21 First-Time Donor Retention 3 Best Practices for Nonprofits]]"
   - "[[2026-05-18 What Motivates Donors to Give in 2026]]"
+  - "[[2026-06-19 Fiscal Agility. Radical Transparency. The Discipline of Sustainability.]]"
+  - "[[2026-06-16 The post-donation ask you should try]]"
 ---
 
 # Stewardship (opieka nad darczyńcą)
@@ -38,6 +40,9 @@ Pierwsze 30–60 dni przesądza o retencji. Sprawdzony pakiet: **ankieta powital
 **5. Segmentacja ścieżek — różni darczyńcy, różna opieka**
 Stewardship nie jest jednolity. Major donorzy przechodzą [[2026-06-13 Major gifts|5-etapowy pipeline]] (identyfikacja → kwalifikacja → kultywacja → solicitacja → stewardship) wymagający [[CRM]] z widokiem pipeline'u, żeby zespół nie tracił kontaktów z oczu. Darczyńcy planowani (zapis w testamencie — już **23,7%** datków osobistych w 2025) zasługują na osobny "stewardship stack" — a 53% NGO wciąż traktuje ich jak jednorazowych. Darczyńcy cykliczni potrzebują dedykowanej opieki, która utrzymuje ich retencję na poziomie ~90% zamiast spadku do średniej.
 
+**6. Drugie znaczenie — stewardship organizacji, nie tylko darczyńcy (TEAMS, [[Bryan Neider]])**
+„Stewardship" to także piąty filar trwałości organizacji misyjnej (framework **TEAMS!**: Talent, Engagement, AI & Technology, Mission, Stewardship) — dyscyplina finansowa, bez której misja nie ma na czym stać. Składniki: **rezerwa operacyjna na 6 miesięcy** kosztów (nie luksus, lecz obowiązek — „gotówka to royalty, zbieraj ją, gdy możesz, nie czekaj aż będziesz jej desperacko potrzebować"), **agility finansowa** (śledzenie makrozmian: przesunięć finansowania, polityk, demografii i gotowość do korekt bez utraty jakości programów), **transparentność wobec zarządu** (wnoszenie prawdziwych problemów na agendę zamienia radę w partnera strategicznego) oraz przejście od relacji **transakcyjnych do transformacyjnych** — wieloletnich darowizn **nieograniczonych (unrestricted)**, które dają realną elastyczność operacyjną; nadmiar dotacji celowych (restricted) ją odbiera. To domyka pętlę z [[2026-06-13 Transparentność operacyjna|transparentnością operacyjną]].
+
 ---
 
 ## Powiązane pojęcia
@@ -61,6 +66,7 @@ Stewardship nie jest jednolity. Major donorzy przechodzą [[2026-06-13 Major gif
 - **Stewardship layering dla organizacji bez budżetu:** zamiast nowych kanałów — dodawanie spersonalizowanych elementów do istniejących materiałów (odręczny Post-It na raporcie rocznym wskazujący stronę o projekcie darczyńcy). Tani, wysokozaufany ruch.
 - **Kanał papierowy wraca:** darczyńcy spędzają **39% więcej czasu** z przesyłką papierową niż z emailem — w świecie przeciążonym mailem direct mail i odręczna notka to niskokonkurencyjny kanał wart przetestowania nawet w polskich NGO.
 - **Automatyzacja jako moduł kursu:** triggery w CRM (nowa wpłata → zadanie), 4-mailowa seria powitalna i segmentacja ankietowa to gotowe scenariusze do zbudowania w [[Make.com]] — model "automate the tired, humanize the inspired" jako oś modułu "Fundraising z AI" i konkretny przykład [[2026-06-13 Wdrażanie AI w organizacji społecznej|wdrażania AI]] (poziom *New*: automatyzacja uwalniająca czas na relacje).
+- **Najcieplejszy punkt styku — tuż po akcji:** strona potwierdzenia daru/podpisu to zwykle pusta „dziękujemy". Wykorzystaj ją na kolejny, łatwy krok (*two-way daisy chain*: petycja ↔ donacja, z usuniętymi już wypełnionymi polami, żeby nie tracić ludzi na formularzach). Born Free Foundation zebrało £22,5 tys. (12,7% powyżej celu), a ~2/3 darczyńców od razu podpisało petycję — to jeden z najniżej kosztowych dodatków do kampanii, którą już masz.
 
 ---
 

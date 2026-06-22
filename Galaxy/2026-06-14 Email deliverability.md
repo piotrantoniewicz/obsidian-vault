@@ -5,7 +5,7 @@ tags:
   - fundraising
   - automatyzacja
 created: 2026-06-14
-updated: 2026-06-14
+updated: 2026-06-22
 relevance: wysoka
 sources:
   - "[[2024-07-25 Email deliverability guide]]"
@@ -14,6 +14,9 @@ sources:
   - "[[2026-04-21 Email Deliverability for Infrequent and Seasonal Senders How to Land in the Inbox When It Actually Matters]]"
   - "[[2024-11-13 How to Catch and Lower Email Deliverability Red Flags]]"
   - "[[2025-04-09 Boost Your Nonprofit s Email Reach A Beginner s Guide to SPF, DKIM, DMARC, and BIMI]]"
+  - "[[2024-09-12 Why Your Emails Aren't Reaching The Inbox]]"
+  - "[[2026-06-16 Send It Right - What to Do When You Have a Deliverability Issue]]"
+  - "[[2026-06-18 Your email program is carrying more weight than ever]]"
 ---
 
 # Email deliverability (dostarczalność maili)
@@ -31,13 +34,16 @@ Od 2024 roku Gmail i Yahoo egzekwują obowiązkowo dla nadawców masowych: SPF, 
 Trzy protokoły grają różne role: **SPF** (Sender Policy Framework) wskazuje, które IP mogą wysyłać w imieniu domeny; **DKIM** podpisuje wiadomość kryptograficznie, by odbiorca sprawdził, że treść nie została zmieniona; **DMARC** spina oba i mówi serwerowi, co robić z mailem, który nie przeszedł weryfikacji. DMARC wdraża się fazowo: `p=none` (monitorowanie, zbieranie raportów) → `p=quarantine` (do spamu) → `p=reject` (odrzucenie). Kluczowe: reputacja jest powiązana z **domeną, nie z IP** — zmiana ESP nie naprawi złych praktyk wysyłkowych. Rekordy wymagają też okresowej konserwacji, bo migracje IT czy nowe integracje potrafią je niezauważenie uszkodzić.
 
 **3. Trzy metryki, które naprawdę coś mówią**
-Panel ESP pokazuje "delivered" — to za mało. Liczą się: **Inbox Placement Rate (IPR%)** — odsetek maili w skrzynce głównej, mierzalny tylko zewnętrznymi narzędziami (seed testing), niedostępny w ESP; **Spam Placement Rate (SPR%)** — rośnie odwrotnie do IPR (open rate jest tu zawodnym zamiennikiem, szczególnie w B2B przez image blocking); **Spam Complaint Count (SCC#)** — ważna jest liczba bezwzględna i *velocity* (nagły klaster skarg z jednej kampanii), nie sam statyczny próg. Paradoks: stałe 0,00% skarg to zły znak — maile lądują wprost w spamie, gdzie nikt nie klika "to spam".
+Panel ESP pokazuje "delivered" — to za mało. Liczą się: **Inbox Placement Rate (IPR%)** — odsetek maili w skrzynce głównej, mierzalny tylko zewnętrznymi narzędziami (seed testing), niedostępny w ESP; **Spam Placement Rate (SPR%)** — rośnie odwrotnie do IPR (open rate jest tu zawodnym zamiennikiem, szczególnie w B2B przez image blocking); **Spam Complaint Count (SCC#)** — ważna jest liczba bezwzględna i *velocity* (nagły klaster skarg z jednej kampanii), nie sam statyczny próg. Paradoks: stałe 0,00% skarg to zły znak — maile lądują wprost w spamie, gdzie nikt nie klika "to spam". Część sygnałów reputacyjnych (skargi, bounce, reputacja domeny w oczach Gmaila) daje za darmo **[[Google Postmaster Tools]]** — minimalny obowiązkowy monitoring dla każdego nadawcy masowego.
 
 **4. Reputacja to infrastruktura roczna, nie przedwysyłkowy checklist**
 Reputacji domeny nie da się zbudować w tydzień przed największą kampanią — buduje się przez cały rok. Sygnały pozytywne: otwarcia, kliknięcia, **odpowiedzi** (najsilniejszy), przeniesienie maila ze spamu do skrzynki. Negatywne: oznaczenie jako spam (najgroźniejsze), usuwanie bez otwierania, długotrwały brak zaangażowania. Stąd strategia dla **rzadkich/sezonowych nadawców** (NGO żyjące year-end appeals i GivingTuesday): (a) *inbox-first opt-in* — lead magnet dostarczany do skrzynki, nie na stronie, wymusza zaangażowany kontakt zaraz po zapisie; (b) *domain warming* uruchomiony min. 6 miesięcy przed szczytem; (c) wartościowy, niesprzedażowy content choćby raz w miesiącu, pod tym samym sender name. 20–100 zaangażowanych subskrybentów chroni reputację lepiej niż 5000 biernych kontaktów.
 
 **5. Higiena listy i wczesne sygnały ostrzegawcze**
 Nieaktywni subskrybenci aktywnie **szkodzą** reputacji — regularne wyciszanie to konieczność, nie opcja. Pięć czerwonych flag, które zaczynają się jako subtelne odchylenia, zanim staną się kryzysem: niskie delivery / wysokie bounce, spadające open rate, rosnące skargi spam, wzrost wypisów, niski CTR. Reakcja zaczyna się od diagnozy **per mailbox provider** (Gmail ≠ Microsoft ≠ Yahoo), nie od agregatu — bo problem z placementem u jednego dostawcy ginie w uśrednionym wyniku.
+
+**6. Gdy problem już wystąpił — proces naprawczy**
+Prewencja to jedno; gdy placement już spadł, Lauren Meyer proponuje trójstopniowy proces: (1) **zrozum skalę** — jak wykryto problem (spadek metryk, skargi odbiorców, alert ESP), czy dotyczy jednego providera czy wszystkich, czy to incydent izolowany; (2) **zdiagnozuj przyczynę** — ustal gdzie i kiedy się zaczął, przeanalizuj dane historyczne, sprawdź nagłówki i bounce'y (najlepiej z ESP/specjalistą); (3) **działaj** — napraw to, co w twojej mocy: autentykację, zbieranie listy, segmentację, treść. Większość przyczyn (niska jakość danych, źle zarządzana lista, ignorowane sygnały) leży po stronie nadawcy i jest w jego kontroli. Providerzy wybaczają jednorazowe błędy, ale długotrwałe zaniedbania wymagają **tygodni–miesięcy** naprawy. Budżet na naprawę argumentuj **w języku wpływu na wyniki finansowe**, nie technicznym — to działa na zarządy NGO.
 
 ---
 
@@ -47,6 +53,8 @@ Nieaktywni subskrybenci aktywnie **szkodzą** reputacji — regularne wyciszanie
 - Skargi spam: **>0,10%** = sygnał ostrzegawczy Google, **>0,30%** = poważny problem z placementem; cel stabilny ~0,03%
 - Brak uwierzytelnienia potrafi zbić open rate z ~55% do ~5% (przykład Gmail); Yahoo szacuje, że ~95% przychodzącej poczty to spam/malware — autentykacja wyróżnia z reszty
 - W B2B jeden pracownik klikający "spam" może wpłynąć na filtrowanie całej organizacji
+- Od 2025 inbox placement to wynik **per-odbiorca, nie per-program**: ten sam mail trafia do skrzynki głównej u zaangażowanych i do spamu/promocji u niezaangażowanych (Gmail/Yahoo/Microsoft, engagement prediction)
+- Przychody z e-maila NGO **+16% r/r w 2025** (M+R), ale wzrost w dużej mierze „awaryjny" — bez retencji darczyńcy jednorazowi odpadną; rosnąca liczba nadawców = agresywniejsze filtrowanie, więc higiena listy staje się czynnikiem różnicującym (CEP *State of Nonprofits 2026*)
 
 ---
 

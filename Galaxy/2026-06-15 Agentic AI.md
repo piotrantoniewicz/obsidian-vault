@@ -5,7 +5,7 @@ tags:
   - narzędzia-AI
   - organizacje-społeczne
 created: 2026-06-15
-updated: 2026-06-15
+updated: 2026-06-22
 relevance: wysoka
 sources:
   - "[[2026-05-01 Understanding Agentic AI What It Means for Not-for-Profits]]"
@@ -14,6 +14,7 @@ sources:
   - "[[2025-09-09 Busting Agentic AI Myths How AI Readiness Enables AI-First]]"
   - "[[2026-03-23 Przestałem pisać prompty. Buduję agentów AI i to zmienia zasady gry]]"
   - "[[2026-06-04 Autonomous Supply Chain Why Agentic AI Is Rewriting the Operating Model]]"
+  - "[[2026-06-10 The evolution of agentic surfaces building with Claude Managed Agents]]"
 ---
 
 # Agentic AI (AI agentowe / autonomiczne agenty)
@@ -42,6 +43,9 @@ Verna obala iluzję, że agenty same rozwiążą problem: **agenty czekają na i
 **6. Shadow AI i bezpieczna piaskownica**
 Skoro agenty działają autonomicznie, governance musi wyprzedzać wdrożenie. Tymczasem ~połowa pracowników używa AI bez wiedzy przełożonych (**shadow AI**) — brak polityki nie eliminuje AI, tylko dezorganizuje jej użycie (ryzyko RODO). Odpowiedź: **safe sandbox** — kontrolowane środowisko do eksperymentów na danych organizacji, które redukuje shadow AI i buduje kulturę innowacji zamiast strachu. Nagradzaj odkrywców użytecznych zastosowań, nie tylko sprawnych wykonawców.
 
+**7. Stos do budowania agentów — „mózg" vs „ręce" ([[Anthropic]])**
+Z perspektywy budującego agentów (np. pluginy [[Claude Code]]) wąskim gardłem produkcyjnym nie są możliwości modelu, lecz **infrastruktura**: hosting, sesje, bezpieczeństwo credentials, skalowanie, observability. Stąd ewolucja trzech warstw: **Messages API** (jedno żądanie/odpowiedź, własna pętla) → **Claude Agent SDK** (gotowa pętla, narzędzia, subagenci, zarządzanie kontekstem) → **Claude Managed Agents** (pełna infrastruktura zarządzana przez dostawcę: hosting, sandbox, sesje, credentials). Kluczowy wzorzec architektoniczny: rozdzielenie **„mózgu" (harness wywołujący model)** od **„rąk" (sandbox wykonujący kod)** — rozwiązuje naraz bezpieczeństwo (credentials poza sandboxem) i latencję (model zaczyna myśleć przed startem kontenera; mediana czasu do pierwszego tokenu skrócona ~60%). Praktyczny wniosek: dla prostych automatyzacji wystarczy SDK; produkcyjne, wieloagentowe, długotrwałe procesy to argument za platformą zarządzaną, zamiast budowania hostingu samemu.
+
 ---
 
 ## Frameworki-kotwice
@@ -52,6 +56,7 @@ Skoro agenty działają autonomicznie, governance musi wyprzedzać wdrożenie. T
 - **In the loop vs above the loop** — fragmentaryczny współudział vs osąd na poziomie meta nad procesem end-to-end.
 - **Agency > agents (Verna)** — dwa blokery prędkości: dostęp uzależniony od tytułu, decyzje tylko u bossów.
 - **3 zdolności autonomicznego procesu (SAP)**: organizational intelligence + contextual data + embedded execution; cykl cnoty: lepsze dane → decyzje → procesy → bogatsze dane.
+- **Stos agentowy (Anthropic)** — Messages API → Agent SDK → Managed Agents; „mózg" (harness) oddzielony od „rąk" (sandbox); bariera produkcyjna = infrastruktura, nie model.
 - **Liczby-kotwice**: >80% bez ROI, ~90% w pilotażu, 75% ról do redesignu, ~50% pracowników w shadow AI, agentic +20–30% efektywności zakupów (kontekst korporacyjny).
 
 ---

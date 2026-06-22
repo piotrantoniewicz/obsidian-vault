@@ -1,10 +1,14 @@
 ---
-type: "Web"
-authors: "[[Doan Winkel]]"
-url: "https://howtoteachwithai.substack.com/p/43-claude-skills-that-give-you-the?utm_source=multiple-personal-recommendations-email&utm_medium=email&triedRedirect=true"
-published: 2026-06-04
-created: 2026-06-20
+type: Web
+authors: '[[Doan Winkel]]'
+url: >-
+  https://howtoteachwithai.substack.com/p/43-claude-skills-that-give-you-the?utm_source=multiple-personal-recommendations-email&utm_medium=email&triedRedirect=true
+published: 2026-06-04T00:00:00.000Z
+created: 2026-06-20T00:00:00.000Z
 tags:
+  - narzędzia-AI
+  - szkolenia-AI
+  - prompt-engineering
 ---
 
 

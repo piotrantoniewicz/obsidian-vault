@@ -5,7 +5,7 @@ tags:
   - organizacje-społeczne
   - strategia-organizacji
 created: 2026-06-15
-updated: 2026-06-15
+updated: 2026-06-22
 relevance: wysoka
 sources:
   - "[[2024-08-12 AI Governance Framework for Nonprofits]]"
@@ -15,6 +15,8 @@ sources:
   - "[[2025-06-24 How to build an ethical AI culture From values to practice]]"
   - "[[2026-04-08 Who owns AI's mistake when no one signed off]]"
   - "[[2026-02-20 The business advantage of strong AI governance]]"
+  - "[[2026-06-17 Humanistic by Design. Transparent by Default. Values-Led Always.]]"
+  - "[[2026-06-16 Suwerenność na wynajem]]"
 ---
 
 # AI governance (zarządzanie AI w organizacji)
@@ -38,10 +40,13 @@ Polityka powstaje *razem z zespołem*, nie spuszczana z góry — inaczej nie dz
 Typowy błąd (Responsible AI Institute): definiowanie kontroli, zanim scharakteryzuje się ryzyko. Trzy luki governance ujawniają się szczególnie przy [[2026-06-15 Agentic AI|agentic AI]]: (a) **zrozumienie ryzyka** — najpierw charakterystyka, potem kontrole, nie równolegle; (b) **polityki zatwierdzania** — klasyczne procesy nie działają dla systemów zmieniających zachowanie *po* wdrożeniu; (c) **gotowość ludzi** — zespół musi być przygotowany *przed* uruchomieniem, nie po. Governance to także gotowość organizacyjna, nie tylko frameworki.
 
 **5. Wrażliwość na ryzyko zależy od misji**
-Nie ma jednej polityki dla wszystkich — każda organizacja ma inną wrażliwość (Sektor 3.0): ekologiczna na **koszt środowiskowy**, edukacyjna na **wiarygodność**, pomocowa na **bias w danych** uderzający w grupy wrażliwe. Trzy obszary ryzyka etycznego jako schemat audytu: **wiarygodność** (halucynacje podważają autorytet — wymagany cross-check każdej treści; kazus AI-generowanych obrazów protestów wycofanych po krytyce), **tożsamość** (uzależnienie od Big Techu → potrzebny „exit plan"), **zależność** (wartości wyznaczają granice: czy narzędzie nie wyklucza grup docelowych?).
+Nie ma jednej polityki dla wszystkich — każda organizacja ma inną wrażliwość (Sektor 3.0): ekologiczna na **koszt środowiskowy**, edukacyjna na **wiarygodność**, pomocowa na **bias w danych** uderzający w grupy wrażliwe. Trzy obszary ryzyka etycznego jako schemat audytu: **wiarygodność** (halucynacje podważają autorytet — wymagany cross-check każdej treści; kazus AI-generowanych obrazów protestów wycofanych po krytyce), **tożsamość** (uzależnienie od Big Techu → potrzebny „exit plan"), **zależność** (wartości wyznaczają granice: czy narzędzie nie wyklucza grup docelowych?). Wymiar geopolityczny zależności ([[Dariusz Jemielniak]], „Suwerenność na wynajem"): model AI w chmurze to **infrastruktura krytyczna pod jurysdykcją kraju serwera** — dostęp może zostać odcięty decyzją polityczną, nie techniczną (kazus wyłączenia modelu Fable 5 przez kontrolę eksportową USA „w piątek po południu, bez ostrzeżenia"). Dla polskich NGO uzależnienie kluczowych procesów od jednego dostawcy z USA to luka w planie ciągłości działania — stąd dywersyfikacja narzędzi i unikanie single-vendor lock-in jako konkretny element „exit planu".
 
 **6. Od deklaracji wartości do struktur — dojrzałość etyczna**
 Etyka AI zaczyna się od projektowania, nie od audytu po fakcie. Pięć etapów dojrzałości: **ewangelizacja → polityki → dokumentacja** (model cards) **→ systematyczne przeglądy** (Algorithm Review Boards) **→ realne działania** (modyfikacja lub wycofanie rozwiązań). Formalne struktury biją deklaracje — i nie wymagają korporacyjnych budżetów: mała organizacja zaczyna od regularnych spotkań i analizy konkretnych przypadków. Bariera to nie technologia, lecz **nawyk zadawania właściwych pytań**.
+
+**7. Filtr wartości przed adopcją — Reguła Trzech ([[Bryan Neider]])**
+Technologia nie jest neutralna: każdy system niesie wartości i ślepe punkty twórców. Dlatego każde narzędzie AI przechodzi przez trzy filtry, **zanim** dotknie klientów, danych lub workflow personelu: **Human Dignity** (jeśli kompromituje godność — odpada), **Algorithmic Transparency** (architektura danych i relacje z dostawcą muszą być zrozumiałe — żadnych „czarnych skrzynek" wobec grup wrażliwych), **Values-Based Governance** (narzędzia podlegają tym samym standardom etycznym co pracownicy — bez wyjątków dla technologii). Mechanizmem jest **AI Governance Working Group** — nie komitet spowalniający, lecz brama zachowująca tożsamość organizacji po adopcji. Pułapka do nazwania: **„human-in-the-loop paradox"** — ludzki podpis pod rekomendacją AI to nie to samo co ludzki osąd; governance musi to rozróżniać.
 
 ---
 
@@ -52,6 +57,7 @@ Etyka AI zaczyna się od projektowania, nie od audytu po fakcie. Pięć etapów 
 - **Trzy obszary ryzyka etycznego (Sektor 3.0)** — wiarygodność / tożsamość / zależność; gotowy schemat audytu bez technicznego żargonu.
 - **Trzy luki governance (Responsible AI Institute)** — zrozumienie ryzyka / polityki zatwierdzania / gotowość ludzi; „najpierw ryzyko, potem kontrole".
 - **Pięć etapów dojrzałości etycznej (Davenport)** — ewangelizacja → polityki → dokumentacja → przeglądy → działania.
+- **Reguła Trzech + AI Governance Working Group (Neider)** — Human Dignity / Algorithmic Transparency / Values-Based Governance; brama, przez którą przechodzi każde narzędzie przed kontaktem z danymi/klientami. Uwaga: „human-in-the-loop paradox".
 - **Liczby-kotwice**: <1% organizacji wdrożyło AI systemowo (Klon/Jawor + Sektor 3.0); ~99% organizacji społecznych nie ma polityki AI (Heyman); 53% pracowników nie wie, jak korzystać z AI, 22% to power users (Microsoft).
 - **Cytat-kotwica**: „Governance, które pojawia się zbyt późno, to jak wylewanie betonu, gdy mieszkańcy się już wprowadzili" (WEF).
 

@@ -5,6 +5,9 @@ url: "https://www.anthropic.com/news/claude-corps"
 published: 2026-06-11
 created: 2026-06-22
 tags:
+  - "organizacje-społeczne"
+  - "strategia-AI"
+  - "szkolenia-AI"
 ---
 
 

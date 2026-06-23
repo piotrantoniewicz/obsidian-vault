@@ -5,6 +5,9 @@ url: "https://www.techsoup.pl/blog/fio/co-dziala-w-cyfrowej-zmianie-ngo-wnioski-
 published: 2026-06-18
 created: 2026-06-22
 tags:
+  - "organizacje-społeczne"
+  - "automatyzacja"
+  - "strategia-organizacji"
 ---
 
 

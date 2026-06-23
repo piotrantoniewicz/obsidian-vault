@@ -5,6 +5,9 @@ url: "https://bloomerang.com/blog/are-we-sure-an-automated-email-welcome-series-
 published: 2026-04-20
 created: 2026-06-22
 tags:
+  - "fundraising"
+  - "digital-campaigning"
+  - "strategia-organizacji"
 ---
 
 

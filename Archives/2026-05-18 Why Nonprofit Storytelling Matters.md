@@ -5,6 +5,9 @@ url: "https://www.memoryfox.io/why-storytelling/"
 published: 2026-05-18
 created: 2026-06-22
 tags:
+  - "fundraising"
+  - "content-marketing"
+  - "organizacje-społeczne"
 ---
 
 

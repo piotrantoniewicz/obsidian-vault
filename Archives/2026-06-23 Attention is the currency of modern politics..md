@@ -5,6 +5,9 @@ url: "https://www.linkedin.com/pulse/attention-currency-modern-politics-jack-mil
 published: 2026-06-23
 created: 2026-06-23
 tags:
+  - "digital-campaigning"
+  - "framing"
+  - "strategia-organizacji"
 ---
 
 

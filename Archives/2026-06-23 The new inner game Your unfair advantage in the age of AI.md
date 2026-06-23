@@ -5,6 +5,9 @@ url: "https://www.lennysnewsletter.com/p/the-new-inner-game-your-unfair-advantag
 published: 2026-06-23
 created: 2026-06-23
 tags:
+  - "strategia-AI"
+  - "szkolenia-AI"
+  - "trendy-AI"
 ---
 
 

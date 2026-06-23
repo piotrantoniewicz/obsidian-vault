@@ -5,6 +5,9 @@ url: "https://www.lennysnewsletter.com/p/how-i-ai-how-to-write-ai-agent-loops?ut
 published: 2026-06-22
 created: 2026-06-23
 tags:
+  - "automatyzacja"
+  - "narzędzia-AI"
+  - "LLM"
 ---
 
 

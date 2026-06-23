@@ -1,21 +1,21 @@
-# Strategia rozbudowy Galaxy/ — 2026-06-22
+# Strategia rozbudowy Galaxy/ — 2026-06-23
 
 *Konwencja: data w tytule H1 = data ostatniej istotnej aktualizacji tego pliku. Przy każdej zmianie (nowe pojęcia, zamknięta fala, korekta planu) zaktualizuj datę w tytule.*
 
 > **Reguła dziennika:** sekcja „Gdzie jesteśmy" to **jeden, nadpisywany** snapshot bieżącego stanu — **nie** rosnący log dopisków. Przy każdej sesji **nadpisz jej treść** (liczba stron, ostatnia operacja, następny krok, backlog), zamiast dopisywać kolejny akapit „Dopisek RRRR-MM-DD". Historię trzymają same notatki, `git` i `Galaxy/index.md`.
 
-## Gdzie jesteśmy (akt. 2026-06-22)
+## Gdzie jesteśmy (akt. 2026-06-23)
 
-**Galaxy/ = 18 stron** w trzech domkniętych, gęsto połączonych działach indeksu:
+**Galaxy/ = 19 stron** w trzech domkniętych, gęsto połączonych działach indeksu:
 - **Fundraising** — Tożsamość darczyńcy, Recurring giving, Stewardship, Peer-to-peer fundraising, Pledge program, Transparentność operacyjna, Major gifts, Pokolenia darczyńców
 - **AI w organizacjach** — Wdrażanie AI w organizacji społecznej, AI governance, Agentic AI, RAG, Context engineering, Prompt engineering
-- **Komunikacja i digital campaigning** — Email deliverability, Framing, Storytelling oparty na danych, Newsletter jako kanał
+- **Komunikacja i digital campaigning** — Email deliverability, Framing, Storytelling oparty na danych, Newsletter jako kanał, **Widoczność w AI search (GEO/AEO)** ← nowa
 
-**Ostatnia operacja — Ingest 2026-06-22:** przegląd 52 nowych notatek z Resources/ (birthtime ≥ 2026-06-16) → 21 nowych źródeł dopisanych do `sources` w 13 stronach + wpleciona treść (nowe mechanizmy / liczby-kotwice), `updated` ustawione na 2026-06-22. Najważniejsze dodatki: Email deliverability (proces naprawczy, per-odbiorca placement), Newsletter (4 mechanizmy awareness + ROI², 4 wymiary objętości), Pokolenia (intencje 2026, 94% przejrzystość), Tożsamość (belonging operacyjnie, test 30 dni), Stewardship/Transparentność (TEAMS, rezerwa 6M, modele finansowania), Wdrażanie AI (4 zasady Daya, kryzys gotowości), AI governance (Reguła Trzech, suwerenność/jurysdykcja), RAG (pipeline PIA, chunking, koszt polszczyzny), Context engineering (Data Room), Agentic AI (stos Anthropic mózg/ręce), Framing (Problem→Zmiana→Dowód→CTA, „zacznij od ty"). **Nie utworzono nowych stron** — czysty ingest do istniejących.
+**Ostatnia operacja — Query/nowa strona 2026-06-23:** napisana **Widoczność w AI search (GEO / AEO)** — najsilniejszy klaster-kandydat z przeglądu 2026-06-22. 8 źródeł z Resources/ (qmd query, ~kilkanaście trafień ≥44%). Rdzeń: zero-click (93% Google AI Mode, 19,4% kliknięć utraconych w PL), cytowanie zamiast kliknięcia, query fan-out, SEO↔AI jako naczynia połączone, autorytet zewnętrzny 6,5× / 85% cytowań spoza strony (E-E-A-T, UGC), anatomia treści cytowanej (front-load 44%/30%, FAQ +40%, świeżość 3×), dryft narracyjny + AI Brand Footprint (pomiar). Linki zwrotne dodane z: Newsletter (bufor na zero-click), Transparentność operacyjna (sygnały E-E-A-T), AI governance (monitoring dryftu + polityka AI search). Indeks zaktualizowany, `qmd update` + `embed` wykonane.
 
-**Klastry-kandydaci na nowe strony (z przeglądu 2026-06-22):** AI Search / widoczność NGO (GEO, zero-click) — 5+ źródeł, najsilniejszy; Ghostwriting / marka osobista; Suwerenność technologiczna / europejskie alternatywy. Do rozważenia przy następnej fali.
+**Klastry-kandydaci na nowe strony (pozostałe z przeglądu 2026-06-22):** Ghostwriting / marka osobista; Suwerenność technologiczna / europejskie alternatywy. Do rozważenia przy następnej fali.
 
-**Następny krok (popyt):** Mobilizacja cyfrowa (gałąź digital campaigning, bez czerwonego linku), Owned vs rented audience lub Higiena listy (awansują przy 2. wystąpieniu), Transfer międzypokoleniowy majątku (czerwony link z Pokoleń).
+**Następny krok (popyt):** Mobilizacja cyfrowa (gałąź digital campaigning, bez czerwonego linku), Owned vs rented audience lub Higiena listy (awansują przy 2. wystąpieniu — uwaga: „Owned vs rented audience" linkowane teraz z 2 stron: Newsletter + nowa Widoczność, **osiągnęło próg ≥2 incoming → priorytet do napisania**), Transfer międzypokoleniowy majątku (czerwony link z Pokoleń).
 
 **Czerwone linki — backlog** (wszystkie ×1, próg napisania = **≥2 incoming**): Higiena listy, Owned vs rented audience, Transfer międzypokoleniowy majątku, Public Narrative, Sprawczość organizacyjna, RODO i dane wrażliwe, LLM Wiki, Wizualizacja danych, Harness i scaffolding. Narzędzia/organizacje (CRM, Make.com, LLM, Blackbaud, Ollama) świadomie poza Galaxy — to nie pojęcia.
 

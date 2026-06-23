@@ -5,6 +5,9 @@ url: "https://www.lennysnewsletter.com/p/building-the-most-ai-pilled-engineering
 published: 2026-06-21
 created: 2026-06-23
 tags:
+  - "automatyzacja"
+  - "strategia-AI"
+  - "narzędzia-AI"
 ---
 
 

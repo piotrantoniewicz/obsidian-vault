@@ -5,6 +5,8 @@ url: "https://thenonprofithive.com/ecosystems-are-not-nonprofit-programs/?utm_so
 published: 2026-06-17
 created: 2026-06-23
 tags:
+  - "organizacje-społeczne"
+  - "strategia-organizacji"
 ---
 
 

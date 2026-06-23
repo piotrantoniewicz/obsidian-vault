@@ -71,6 +71,7 @@ Technologia nie jest neutralna: każdy system niesie wartości i ślepe punkty t
 - [[2026-06-15 Prompt engineering]] — kompetencja, bez której polityka „weryfikuj wyniki" jest pusta: zespół musi umieć wymusić rolę krytyka i rozpoznać halucynację, by realnie kontrolować output.
 - [[RODO i dane wrażliwe]] — prawny rdzeń ryzyka (dane beneficjentów, AI Act, zgoda); osobna strona, gdy uzbiera się masa źródeł (czerwony link — backlog).
 - [[2026-06-15 Agentic AI]] — przesuwa governance z „rekomendacji" na „samodzielne działanie": klasyczne polityki zatwierdzania przestają wystarczać, gdy system zmienia zachowanie po wdrożeniu.
+- [[2026-06-23 Widoczność w AI search]] — governance ma drugą, zewnętrzną twarz: monitoring **dryftu narracyjnego** (jak AI opisuje organizację) i krótka **polityka wobec AI search** to element ładu — nie tylko *jak my używamy AI*, ale *jak AI reprezentuje nas*.
 
 ---
 

@@ -5,6 +5,9 @@ url: "https://hbr.org/2026/06/does-your-ai-have-a-personality-problem"
 published: 2026-06-24
 created: 2026-06-25
 tags:
+  - "strategia-AI"
+  - "narzędzia-AI"
+  - "szkolenia-AI"
 ---
 
 

@@ -5,6 +5,9 @@ url: "https://publicystyka.ngo.pl/oprogramowanie-open-source-jako-alternatywa-cz
 published: 2026-06-24
 created: 2026-06-25
 tags:
+  - "organizacje-społeczne"
+  - "strategia-organizacji"
+  - "automatyzacja"
 ---
 
 

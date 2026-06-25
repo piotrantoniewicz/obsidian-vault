@@ -61,7 +61,7 @@ Organizacja może być aktywna w mediach, a mimo to **niewidoczna** w systemach 
 
 ## Powiązane pojęcia
 
-- [[2026-06-15 Newsletter jako kanał]] / [[Owned vs rented audience]] — **lista mailingowa to bufor niezależny od AI search**: gdy ruch organiczny topnieje, e-mail pozostaje kanałem bezpośrednim, odpornym na zmiany algorytmów. Najczęstsza rekomendacja sektorowa (ECF, Jean O'Brien) na niepewność AI search. Czerwony link „Owned vs rented" — backlog.
+- [[2026-06-15 Newsletter jako kanał]] / [[2026-06-25 Owned vs rented audience]] — **lista mailingowa to bufor niezależny od AI search**: gdy ruch organiczny topnieje, e-mail pozostaje kanałem bezpośrednim, odpornym na zmiany algorytmów. Najczęstsza rekomendacja sektorowa (ECF, Jean O'Brien) na niepewność AI search. „Owned vs rented" — strona napisana.
 - [[2026-06-14 Framing]] / [[2026-06-14 Storytelling oparty na danych]] — *co* podnosi cytowalność: front-loading, konkret nad abstrakcją, **własne dane i oryginalne badania** (information gain). Storytelling oparty na danych to wprost paliwo GEO — unikalna liczba jest cytowalna.
 - [[2026-06-15 Context engineering]] — zaskakująco bliskie: rola **Context Librarian / System of Record** (strażnik „brand truth") to ten sam wzorzec co kurowanie kontekstu; semantyczna czytelność treści = projektowanie pod ekstrakcję, jak chunking w [[2026-06-14 RAG|RAG]].
 - [[2026-06-13 Transparentność operacyjna]] — sygnały zaufania (autor, data weryfikacji, źródła danych) to jednocześnie waluta E-E-A-T; **transparentność NGO jest strukturalną przewagą w AI search**.

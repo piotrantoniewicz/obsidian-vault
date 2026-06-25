@@ -73,7 +73,7 @@ Narzędzia różnią się modelem: **Substack** (blog+newsletter+podcast+społec
 - [[2026-06-13 Stewardship]] — newsletter to silnik **non-ask touchpointów**: regularny kontakt budujący relację między apelami; welcome series otwiera okno po pierwszym darze.
 - [[2026-06-12 Recurring giving]] — własny kanał podtrzymuje relację cykliczną; e-mail to medium odnowień i komunikacji „co zrobił twój dar".
 - [[2026-06-15 Pokolenia darczyńców]] — preferencja kanału różni się generacyjnie (Millenialsi: LinkedIn + całoroczny e-mail; Gen Z wchodzi przez social → newsletter); newsletter jako wspólny mianownik utrzymania relacji.
-- [[Owned vs rented audience]] — szersza zasada strategii cyfrowej (własne vs wynajęte kanały) wykraczająca poza e-mail; osobna strona, gdy uzbiera się masa źródeł (czerwony link — backlog).
+- [[2026-06-25 Owned vs rented audience]] — szersza zasada strategii cyfrowej (własne vs wynajęte kanały) wykraczająca poza e-mail; newsletter to jej najważniejsza realizacja. Strona napisana.
 - [[2026-06-23 Widoczność w AI search]] — *dlaczego* własny kanał staje się krytyczny: gdy ruch organiczny topnieje w erze zero-click, lista mailingowa to bufor niezależny od algorytmów AI search (najczęstsza rekomendacja sektorowa na tę niepewność).
 
 ---

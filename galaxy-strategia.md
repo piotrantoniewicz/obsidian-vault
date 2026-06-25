@@ -1,23 +1,23 @@
-# Strategia rozbudowy Galaxy/ — 2026-06-23
+# Strategia rozbudowy Galaxy/ — 2026-06-25
 
 *Konwencja: data w tytule H1 = data ostatniej istotnej aktualizacji tego pliku. Przy każdej zmianie (nowe pojęcia, zamknięta fala, korekta planu) zaktualizuj datę w tytule.*
 
 > **Reguła dziennika:** sekcja „Gdzie jesteśmy" to **jeden, nadpisywany** snapshot bieżącego stanu — **nie** rosnący log dopisków. Przy każdej sesji **nadpisz jej treść** (liczba stron, ostatnia operacja, następny krok, backlog), zamiast dopisywać kolejny akapit „Dopisek RRRR-MM-DD". Historię trzymają same notatki, `git` i `Galaxy/index.md`.
 
-## Gdzie jesteśmy (akt. 2026-06-23)
+## Gdzie jesteśmy (akt. 2026-06-25)
 
-**Galaxy/ = 19 stron** w trzech domkniętych, gęsto połączonych działach indeksu:
+**Galaxy/ = 20 stron** w trzech domkniętych, gęsto połączonych działach indeksu:
 - **Fundraising** — Tożsamość darczyńcy, Recurring giving, Stewardship, Peer-to-peer fundraising, Pledge program, Transparentność operacyjna, Major gifts, Pokolenia darczyńców
 - **AI w organizacjach** — Wdrażanie AI w organizacji społecznej, AI governance, Agentic AI, RAG, Context engineering, Prompt engineering
-- **Komunikacja i digital campaigning** — Email deliverability, Framing, Storytelling oparty na danych, Newsletter jako kanał, **Widoczność w AI search (GEO/AEO)** ← nowa
+- **Komunikacja i digital campaigning** — Email deliverability, Framing, Storytelling oparty na danych, Newsletter jako kanał, Widoczność w AI search (GEO/AEO), **Owned vs rented audience** ← nowa
 
-**Ostatnia operacja — Query/nowa strona 2026-06-23:** napisana **Widoczność w AI search (GEO / AEO)** — najsilniejszy klaster-kandydat z przeglądu 2026-06-22. 8 źródeł z Resources/ (qmd query, ~kilkanaście trafień ≥44%). Rdzeń: zero-click (93% Google AI Mode, 19,4% kliknięć utraconych w PL), cytowanie zamiast kliknięcia, query fan-out, SEO↔AI jako naczynia połączone, autorytet zewnętrzny 6,5× / 85% cytowań spoza strony (E-E-A-T, UGC), anatomia treści cytowanej (front-load 44%/30%, FAQ +40%, świeżość 3×), dryft narracyjny + AI Brand Footprint (pomiar). Linki zwrotne dodane z: Newsletter (bufor na zero-click), Transparentność operacyjna (sygnały E-E-A-T), AI governance (monitoring dryftu + polityka AI search). Indeks zaktualizowany, `qmd update` + `embed` wykonane.
+**Ostatnia operacja — Query/nowa strona 2026-06-25:** napisana **Owned vs rented audience** — pojęcie, które osiągnęło próg ≥2 incoming (Newsletter + Widoczność w AI search). 7 źródeł z Resources/ (qmd query/search). Rdzeń: kto kontroluje dostęp do relacji; trzy ryzyka kanału wynajętego (zmiana algorytmu — 7% IG / 17% FB to treści od obserwowanych; zmiana polityki/funkcji — koniec Communities na X, Meta wycofuje reklamy polityczne w UE, koniec fact-checkerów; ban/likwidacja); lista jako trwały, eksportowalny aktyw (4 powody PGA, $3–10K/mc); owned audiences = ubezpieczenie na fragmentację i „depth over breadth" (9 Trends 2026); funnel rented→owned (social = szczyt lejka, metryka = współczynnik migracji); pułapka metryki wynajętej. Linki zwrotne zaktualizowane: czerwone linki w Newsletterze i Widoczności w AI search → niebieskie. Pozostaje: `qmd update` + `embed`.
 
-**Klastry-kandydaci na nowe strony (pozostałe z przeglądu 2026-06-22):** Ghostwriting / marka osobista; Suwerenność technologiczna / europejskie alternatywy. Do rozważenia przy następnej fali.
+**Klastry-kandydaci na nowe strony (z przeglądu 2026-06-22):** Ghostwriting / marka osobista; Suwerenność technologiczna / europejskie alternatywy (teraz dodatkowo linkowana z Owned vs rented). Do rozważenia przy następnej fali.
 
-**Następny krok (popyt):** Mobilizacja cyfrowa (gałąź digital campaigning, bez czerwonego linku), Owned vs rented audience lub Higiena listy (awansują przy 2. wystąpieniu — uwaga: „Owned vs rented audience" linkowane teraz z 2 stron: Newsletter + nowa Widoczność, **osiągnęło próg ≥2 incoming → priorytet do napisania**), Transfer międzypokoleniowy majątku (czerwony link z Pokoleń).
+**Następny krok (popyt):** Mobilizacja cyfrowa i Higiena listy (obie ×2 po dodaniu linków z Owned vs rented — **sprawdzić, czy przekroczyły próg ≥2 incoming**), Transfer międzypokoleniowy majątku (czerwony link z Pokoleń).
 
-**Czerwone linki — backlog** (wszystkie ×1, próg napisania = **≥2 incoming**): Higiena listy, Owned vs rented audience, Transfer międzypokoleniowy majątku, Public Narrative, Sprawczość organizacyjna, RODO i dane wrażliwe, LLM Wiki, Wizualizacja danych, Harness i scaffolding. Narzędzia/organizacje (CRM, Make.com, LLM, Blackbaud, Ollama) świadomie poza Galaxy — to nie pojęcia.
+**Czerwone linki — backlog** (próg napisania = **≥2 incoming**): Higiena listy (×2: Newsletter? + Owned vs rented — zweryfikować), Mobilizacja cyfrowa (Owned vs rented), Suwerenność technologiczna (Owned vs rented), Transfer międzypokoleniowy majątku, Public Narrative, Sprawczość organizacyjna, RODO i dane wrażliwe, LLM Wiki, Wizualizacja danych, Harness i scaffolding. Narzędzia/organizacje (CRM, Make.com, LLM, Blackbaud, Ollama) świadomie poza Galaxy — to nie pojęcia.
 
 ## Zasada nadrzędna
 

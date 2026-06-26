@@ -7,6 +7,9 @@
     "labels": "multitext",
     "published": "date",
     "relevance": "multitext",
-    "authors": "multitext"
+    "authors": "multitext",
+    "updated": "date",
+    "source": "text",
+    "topics": "text"
   }
 }

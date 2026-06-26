@@ -10,8 +10,10 @@ Piotr/
 │   └── index.md  katalog wszystkich notatek — czytaj jako pierwsze przy wyszukiwaniu
 ├── Attachments/  pliki binarne (PDF, obrazy)
 ├── Galaxy/       encyklopedia pojęć — syntezy łączące wiele notatek z Resources/
+├── Projects/     przedsięwzięcia z celem i terminem — notatki-huby (MOC)
+├── Areas/        stałe odpowiedzialności i role — notatki-huby (MOC)
 ├── Templates/    szablony notatek
-└── Areas/  Projects/  References/  — w budowie
+└── References/   — w budowie
 ```
 
 ## Zasady
@@ -22,6 +24,7 @@ Piotr/
 - **Znak `#` jest zakazany w nazwach plików** — Obsidian traktuje `#` w wikilinku jako separator nagłówka, co łamie nawigację. Zamiast `#41` używaj `nr41`.
 - Po dodaniu notatki do `Resources/` dopisz wpis do `Resources/index.md` w formacie:
   `- [[YYYY-MM-DD Tytuł]] — jednozdaniowy opis co zawiera`
+- **Terminologia: zawsze pisz „organizacje społeczne" zamiast „NGO" / „organizacje pozarządowe"** — we wszystkich notatkach, syntezach, hubach i przy każdym zapisywaniu treści. **Wyjątki (oryginalne brzmienie zostaje):** (1) surowe pliki trafiające do `Inbox/` (webclipy, oryginały) — podmieniaj dopiero przy przetwarzaniu do `Resources/`, `Galaxy/`, `Projects/`, `Areas/`; (2) oryginalne tytuły maili, clipów, artykułów itp. — jeśli zawierają „NGO" / „organizacje pozarządowe", zostawiaj je bez zmian (nie przepisujemy cudzych tytułów).
 
 ## Praca z index.md
 
@@ -65,9 +68,9 @@ Wikilinki tylko dla: narzędzi (`[[Obsidian]]`), pojęć technicznych (`[[RAG]]`
 
 ## Relevance — zasady oceny
 
-Relevance oceniaj na podstawie profilu właściciela vaultu: freelance konsultant i trener NGO, specjalizacja w AI, automatyzacji, fundraisingu, digital campaigningu i ghostwritingu.
+Relevance oceniaj na podstawie profilu właściciela vaultu: freelance konsultant i trener organizacji społecznych, specjalizacja w AI, automatyzacji, fundraisingu, digital campaigningu i ghostwritingu.
 
-- `wysoka` — bezpośrednio przydatne w aktywnych projektach: NGO, fundraising, digital campaigning, AI dla organizacji, automatyzacja
+- `wysoka` — bezpośrednio przydatne w aktywnych projektach: organizacje społeczne, fundraising, digital campaigning, AI dla organizacji, automatyzacja
 - `średnia` — ogólnie użyteczne, może się przydać: marketing, strategia, komunikacja, narzędzia
 - `niska` — marginalne znaczenie dla profilu właściciela
 
@@ -95,7 +98,7 @@ Galaxy/ to wiki pojęć — kompilacja wiedzy z wielu notatek Resources/. Dział
 
 ```yaml
 ---
-type: concept
+categories: Concept
 tags:
   - tag1
 created: YYYY-MM-DD
@@ -108,7 +111,7 @@ sources:
 
 Nazwa pliku: `YYYY-MM-DD Tytuł pojęcia.md` (np. `2026-06-03 Uczenie transferowe.md`).
 
-Sekcje treści: definicja (2–4 zdania własnymi słowami) → kluczowe mechanizmy / zasady → powiązane pojęcia (wikilinki) → zastosowanie w kontekście NGO/AI/fundraising → otwarte pytania.
+Sekcje treści: definicja (2–4 zdania własnymi słowami) → kluczowe mechanizmy / zasady → powiązane pojęcia (wikilinki) → zastosowanie w kontekście organizacji społecznych/AI/fundraising → otwarte pytania.
 
 ### Trzy operacje (metoda Karpathy'ego)
 
@@ -117,6 +120,81 @@ Sekcje treści: definicja (2–4 zdania własnymi słowami) → kluczowe mechani
 **Query** — gdy odpowiedź na pytanie jest wartościowa i nowa (nie wynika wprost z jednej notatki), zapisz ją jako nową stronę Galaxy/ lub rozszerz istniejącą.
 
 **Lint** — okresowo: szukaj stron Galaxy/ bez linków przychodzących (sieroty), nieaktualnych twierdzeń, luk tematycznych. Zaproponuj uzupełnienia.
+
+## Areas i Projects — warstwa działań (PARA nad wiki)
+
+Vault łączy dwie logiki: **wiki** (wiedza — `Resources/` + `Galaxy/`) i **PARA** (działania — `Projects/` + `Areas/`). Resources i Galaxy są jedynym źródłem prawdy dla treści; Projects i Areas są **soczewką działania** — trzymają wyłącznie notatki-huby (MOC) linkujące do wiedzy, **nigdy nie duplikują treści**.
+
+### Reguła routingu — gdzie trafia notatka
+
+1. Czy to **treść/wiedza** (artykuł, raport, newsletter, pojęcie)? → `Resources/` (źródło) lub `Galaxy/` (synteza). Bez zmian.
+2. Czy to **przedsięwzięcie z konkretnym celem i momentem zakończenia** (data albo jasne „gotowe")? → `Projects/`.
+3. Czy to **trwała odpowiedzialność lub rola bez końca**, którą utrzymujesz na pewnym standardzie? → `Areas/`.
+
+Pytanie rozstrzygające Projects vs Areas: **„Czy to się kiedyś skończy?"** Tak, z metą → Project. Nie, trwa i wymaga utrzymania → Area.
+
+Przykłady (profil: konsultant/trener organizacji społecznych — AI, fundraising, digital campaigning, ghostwriting):
+- „Szkolenie AI dla Fundacji X — 12 maja" → **Project** (ma datę i metę)
+- „Kampania fundraisingowa 2026 — domknięcie do końca Q1" → **Project**
+- „Ghostwriting — klient Y" jako stała współpraca → **Area**
+- „Digital campaigning / własna marka" jako ciągła praktyka → **Area**
+- „Fundraising" jako stała dziedzina kompetencji → **Area**
+
+### Relacje między folderami
+
+- Każdy **Project** wskazuje nadrzędny **Area** (pole `area:`) i linkuje do potrzebnych `Resources/` i `Galaxy/`.
+- Każdy **Area** agreguje swoje aktywne **Projects** oraz kluczowe pojęcia z `Galaxy/` i źródła z `Resources/` (wikilinki).
+- Po zakończeniu projektu: ustaw `status: zakończony` i zostaw w `Projects/` (lub `Projects/Zakończone/`). **Nie** przenoś do `Archives/` — ten folder jest zarezerwowany na oryginały clipów (tylko-odczyt).
+- Tagi w Projects/ i Areas/ — z tej samej zamkniętej listy co Resources/ i Galaxy/, max 3.
+
+### Format notatki (Projects/)
+
+```yaml
+---
+type: project
+status: aktywny | wstrzymany | zakończony
+created: YYYY-MM-DD
+due: YYYY-MM-DD
+area: "[[Areas/Nazwa obszaru]]"
+tags:
+  - tag1
+---
+```
+
+Nazwa pliku: `YYYY-MM-DD Tytuł projektu.md`.
+Sekcje: cel i definicja sukcesu (1–2 zdania) → kolejne kroki / zadania → powiązane zasoby (wikilinki do `Resources/` i `Galaxy/`) → log decyzji.
+
+### Format notatki (Areas/)
+
+```yaml
+---
+type: area
+status: aktywny
+created: YYYY-MM-DD
+updated: YYYY-MM-DD
+tags:
+  - tag1
+---
+```
+
+Nazwa pliku: `Nazwa obszaru.md` (bez daty — obszar jest trwały).
+Sekcje: standard do utrzymania (co znaczy „w porządku") → aktywne projekty (wikilinki do `Projects/`) → kluczowe pojęcia i źródła (wikilinki do `Galaxy/`/`Resources/`) → kadencja przeglądu.
+
+## Szablony (`Templates/`)
+
+Frontmatter każdego szablonu ma puste pola dat — wypełnia je plugin przy tworzeniu notatki albo użytkownik ręcznie. Tokeny `{{title}}`/`{{date:YYYY-MM-DD}}` występują tylko w treści (nie w properties).
+
+| Szablon | `categories` | Folder docelowy | Do czego |
+|---|---|---|---|
+| `Clippings.md` | Clippings | `Resources/` | webclip z artykułu (plugin `/clippings-to-notes:clip`) |
+| `Emails.md` | Emails | `Resources/` | newsletter / mail (plugin `/emails-to-notes:process`) |
+| `Reports.md` | Reports | `Resources/` | raport PDF (plugin `/pdfs-to-notes:extract`) |
+| `LinkedIn.md` | LinkedIn | `Resources/` | post LinkedIn (plugin `/linkedin-to-notes:save`) |
+| `Concepts.md` | Concept | `Galaxy/` | nota pojęciowa (synteza z wielu źródeł) |
+| `Projects.md` | Project | `Projects/` | przedsięwzięcie z celem i terminem (hub/MOC) |
+| `Areas.md` | Area | `Areas/` | stała odpowiedzialność / rola (hub/MOC) |
+
+Cztery pierwsze (Clippings/Emails/Reports/LinkedIn) to wzory referencyjne — pluginy `*-to-notes` generują treść własnym promptem i wpisują realne wartości frontmatteru. Trzy pozostałe (Concepts/Projects/Areas) są do ręcznego wstawiania.
 
 ## Pluginy
 

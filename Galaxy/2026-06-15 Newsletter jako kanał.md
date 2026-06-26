@@ -1,5 +1,5 @@
 ---
-type: concept
+categories: Concept
 tags:
   - digital-campaigning
   - content-marketing

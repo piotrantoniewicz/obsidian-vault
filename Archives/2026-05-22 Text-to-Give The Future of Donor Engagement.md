@@ -5,6 +5,8 @@ url: "https://www.engagingnetworks.net/blog/text-to-give/?utm_campaign=136965333
 published: 2026-05-22
 created: 2026-06-26
 tags:
+  - fundraising
+  - digital-campaigning
 ---
 
 

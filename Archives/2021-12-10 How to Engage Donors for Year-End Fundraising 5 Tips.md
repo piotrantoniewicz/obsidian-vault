@@ -5,6 +5,8 @@ url: "https://www.engagingnetworks.net/blog/engage-donors-for-year-end-fundraisi
 published: 2021-12-10
 created: 2026-06-26
 tags:
+  - fundraising
+  - organizacje-społeczne
 ---
 
 

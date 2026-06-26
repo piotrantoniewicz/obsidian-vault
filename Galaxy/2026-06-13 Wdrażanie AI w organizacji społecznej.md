@@ -5,7 +5,7 @@ tags:
   - organizacje-społeczne
   - szkolenia-AI
 created: 2026-06-13
-updated: 2026-06-22
+updated: 2026-06-26
 relevance: wysoka
 sources:
   - "[[2026-02-20 Why Most Nonprofits Arent Using AI (Yet)]]"
@@ -16,6 +16,7 @@ sources:
   - "[[2026-06-05 If I were Chief AI Officer of My Human Rights Campaign This is how I'd approach AI with my campaigners < Sheila McKechnie Foundation]]"
   - "[[2026-06-17 Humanistic by Design. Transparent by Default. Values-Led Always.]]"
   - "[[2026-06-08 The Nonprofit of 2030 What It Takes to Get There]]"
+  - "[[2026-06-24 How a Former NYU Professor Uses Claude Code]]"
 ---
 
 # Wdrażanie AI w organizacji społecznej (AI adoption in nonprofits)
@@ -49,6 +50,11 @@ Najgłębszy sens AI w sektorze społecznym to ekspansja autonomii odbiorców, n
 
 **8. Kiedy AI pomaga, a kiedy szkodzi — 4 zasady przed sięgnięciem po narzędzie ([[Rasha Daya]])**
 Prawdziwym testem AI nie jest, ile zadań oddasz automatyzacji, lecz **wiedza, kiedy AI włączyć, a kiedy trzymać z daleka**. Cztery nienaruszalne zasady (Ground Rules): (1) jeśli AI nie jest potrzebne — nie używaj (koszt budżetowy i środowiskowy); (2) jeśli błędny wynik może kogoś skrzywdzić — nie używaj (ryzyko dyskryminacji); (3) jeśli nie możesz zweryfikować wyniku — nie używaj (ryzyko dezinformacji); (4) jeśli musisz ujawnić tajemnicę lub dane wrażliwe, by użyć — nie używaj. Tam, gdzie AI ma sens, jego realną przewagą jest **skala i wykrywanie wzorców, nie zastępowanie osądu**: lokalizacja i adaptacja treści (jeden zatwierdzony komunikat → wiele wersji), synteza dużych zbiorów danych, monitoring nastrojów i anomalii, wizualizacja koncepcyjna. Kampaner/fundraiser pozostaje odpowiedzialny za decyzję strategiczną.
+
+**9. Bariera adopcji jest psychologiczna, nie techniczna ([[Andrea Jones-Rooy]])**
+Najczęstszy hamulec wejścia w AI to nie brak umiejętności, lecz **samonarzucone przekonanie „to nie dla mnie"** wzmacniane przez branżę technologiczną, która „przesadza z hype'em do poziomu zastraszenia". Nawet ekspertka z PhD i doświadczeniem w NLP latami unikała agentów, bo „nie mam dyplomu z AI". Wniosek dydaktyczny dla szkoleń: on-ramp jest łagodniejszy, niż uczestnicy zakładają (analogia: „otwórz arkusz i zacznij klikać"); zadaniem trenera jest rozbroić lęk i wpuścić ludzi do „walled garden", a nie dokładać żargonu. To samo, co [[Allie K Miller]] nazywa porzuceniem perfekcjonizmu — bariera w głowie, nie w narzędziu. Dwie powiązane zasady operacyjne stąd:
+- **„Urgency is poison"** — im wyższa stawka zadania, tym bardziej trzeba *zwolnić*: wygenerować pomysły, ocenić je, dopiero potem działać. Organizacje z dłuższym horyzontem (wliczające koszt złych decyzji pod presją) wygrywają z tymi optymalizującymi krótkoterminową produktywność. Produktywność sama w sobie to „pułapka" — mierzona w oderwaniu od jakości pomija wzrost, wpływ i sens.
+- **Evale — „nie obchodzi mnie liczba, obchodzi mnie, czy liczba jest dobra"** — bez zdefiniowania, co znaczy „dobrze" (benchmark, kontekst, porównanie), AI tylko *szybciej* realizuje niewłaściwy cel. Mierz outcomes (konwersja, zadowolenie, morale), nie outputs (liczba PR-ów, postów, tokenów); token maxing to powrót „mentalności fabryki" — premiowanie inputów zamiast efektów.
 
 ---
 

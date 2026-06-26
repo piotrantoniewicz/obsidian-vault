@@ -5,7 +5,7 @@ tags:
   - LLM
   - narzędzia-AI
 created: 2026-06-15
-updated: 2026-06-22
+updated: 2026-06-26
 relevance: wysoka
 sources:
   - "[[2025-09-29 Effective context engineering for AI agents]]"
@@ -16,6 +16,7 @@ sources:
   - "[[2026-02-01 🧠 czas na mózg agenta AI! 3-6]]"
   - "[[2026-05-22 The One AI Writing Hack Nobody Talks About.]]"
   - "[[2026-06-20 Piotr, zero razy tysiąc to dalej... zero]]"
+  - "[[2026-06-24 How a Former NYU Professor Uses Claude Code]]"
 ---
 
 # Context engineering (projektowanie kontekstu)
@@ -52,6 +53,9 @@ Glosariusz [[HuggingFace]] precyzuje granice: context engineering to **projektow
 
 **7. Project Room / Data Room — przygotować środowisko, zanim agent napisze ([[Nate B Jones]])**
 Halucynacje w poważnej pracy z wiedzą są **strukturalne** — biorą się z chaotycznego środowiska plików, nie ze złego modelu ani promptu (kazus kancelarii Sullivan & Cromwell: dziesiątki sfabrykowanych cytatów w piśmie sądowym). Nie naprawi tego lepszy prompt — naprawia to przygotowanie kontekstu. Pierwsza instrukcja dla agenta zmienia się więc z „napisz dokument" na „zbuduj pokój roboczy": cztery artefakty generowane *przed* finałem — **Source Inventory** (tabela: ścieżka, typ, data, autorytatywność, aktualność, co źródło wspiera), **Conflict Log** (sprzeczności między źródłami do rozstrzygnięcia przez człowieka), **Missing Context List** (czego brakuje — bo brakujące dane są często ważniejsze niż dostępne; jeśli model nie wie, że czegoś brak, wynajduje odpowiedź) i **Duplicates Report** (rodziny wersji — w AI duplikat to problem z rozumowaniem, nie tylko porządkiem). Dopiero potem krótki prompt: które źródło jest autorytatywne dla liczb, które dla kontekstu, a które to tło — i napisz. Podział ról jak w [[2026-06-14 RAG|RAG]]: agent buduje canvas, człowiek decyduje, agent pisze.
+
+**8. Context layer organizacji — „boil the ocean" zamiast kuracji ([[Andrea Jones-Rooy]])**
+Obok minimalistycznego okna pojedynczego wywołania istnieje druga, makro-warstwa: **trwała baza kontekstu całej organizacji**, z której agent czerpie. Tu reguła jest odwrotna do minimalności na poziomie okna — Jones-Rooy i [[Allie K Miller]] radzą **nagrywać i archiwizować wszystko** (transkrypty spotkań, tickety, maile, support), bez perfekcyjnej kuracji „bo to spotkanie było za słabej jakości". Argument: modele są dziś dużo lepsze w przeszukiwaniu wielkich, surowych zbiorów niż 5 lat temu, gdy trzeba było ręcznie szukać igły w stogu; a porażki i nieudane spotkania mają wartość diagnostyczną (analogia ze stand-upem — uczysz się na złych występach). Surowiec zamienia się w wartość przez *odpytywanie* tego archiwum („jakie 5 skarg klientów wraca?", „jakie 3 błędy powtarzam?", „jak zmieniły się moje wzorce w 3 miesiące?"). Mikro-wariant osobisty: codzienne 5–40 min voice memo gromadzone miesiącami i przepuszczane przez [[Claude Code]]. To uzasadnia rozdzielenie ról: just-in-time retrieval (mechanizm 5) pobiera z tej warstwy tylko to, co potrzebne do danego okna — a sam vault [[Obsidian]] + `qmd` jest dokładnie taką warstwą kontekstu.
 
 ---
 

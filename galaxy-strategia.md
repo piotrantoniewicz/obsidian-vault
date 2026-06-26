@@ -1,19 +1,26 @@
-# Strategia rozbudowy Galaxy/ — 2026-06-25
+# Strategia rozbudowy Galaxy/ — 2026-06-26
 
 *Konwencja: data w tytule H1 = data ostatniej istotnej aktualizacji tego pliku. Przy każdej zmianie (nowe pojęcia, zamknięta fala, korekta planu) zaktualizuj datę w tytule.*
 
 > **Reguła dziennika:** sekcja „Gdzie jesteśmy" to **jeden, nadpisywany** snapshot bieżącego stanu — **nie** rosnący log dopisków. Przy każdej sesji **nadpisz jej treść** (liczba stron, ostatnia operacja, następny krok, backlog), zamiast dopisywać kolejny akapit „Dopisek RRRR-MM-DD". Historię trzymają same notatki, `git` i `Galaxy/index.md`.
 
-## Gdzie jesteśmy (akt. 2026-06-25)
+## Gdzie jesteśmy (akt. 2026-06-26)
 
 **Galaxy/ = 20 stron** w trzech domkniętych, gęsto połączonych działach indeksu:
 - **Fundraising** — Tożsamość darczyńcy, Recurring giving, Stewardship, Peer-to-peer fundraising, Pledge program, Transparentność operacyjna, Major gifts, Pokolenia darczyńców
 - **AI w organizacjach** — Wdrażanie AI w organizacji społecznej, AI governance, Agentic AI, RAG, Context engineering, Prompt engineering
 - **Komunikacja i digital campaigning** — Email deliverability, Framing, Storytelling oparty na danych, Newsletter jako kanał, Widoczność w AI search (GEO/AEO), **Owned vs rented audience** ← nowa
 
-**Ostatnia operacja — Query/nowa strona 2026-06-25:** napisana **Owned vs rented audience** — pojęcie, które osiągnęło próg ≥2 incoming (Newsletter + Widoczność w AI search). 7 źródeł z Resources/ (qmd query/search). Rdzeń: kto kontroluje dostęp do relacji; trzy ryzyka kanału wynajętego (zmiana algorytmu — 7% IG / 17% FB to treści od obserwowanych; zmiana polityki/funkcji — koniec Communities na X, Meta wycofuje reklamy polityczne w UE, koniec fact-checkerów; ban/likwidacja); lista jako trwały, eksportowalny aktyw (4 powody PGA, $3–10K/mc); owned audiences = ubezpieczenie na fragmentację i „depth over breadth" (9 Trends 2026); funnel rented→owned (social = szczyt lejka, metryka = współczynnik migracji); pułapka metryki wynajętej. Linki zwrotne zaktualizowane: czerwone linki w Newsletterze i Widoczności w AI search → niebieskie. Pozostaje: `qmd update` + `embed`.
+**Ostatnia operacja — Ingest 2026-06-26:** przetworzony transkrypt rozmowy [[Allie K Miller]] × [[Andrea Jones-Rooy]] *How a Former NYU Professor Uses Claude Code* → notatka `Resources/2026-06-24 How a Former NYU Professor Uses Claude Code.md` (relevance wysoka). Zasilone 3 strony Galaxy/ (nowe źródło + `updated: 2026-06-26`):
+- **Context engineering** — nowy mechanizm 8 „Context layer organizacji — boil the ocean zamiast kuracji": makro-warstwa trwałej bazy kontekstu (nagrywaj wszystko, wartość przez odpytywanie); wariant osobisty = codzienne voice memo.
+- **Agentic AI** — nowy mechanizm 8 „Digital workforce — agent jako plik, watchdog jako sensor": hierarchia agentów-plików, agent builder / meta-prompting, watchdog/sensor jako agent obserwujący wzorce (mierzy problem, zanim go rozwiąże).
+- **Wdrażanie AI w organizacji społecznej** — nowy mechanizm 9 „Bariera adopcji jest psychologiczna": intimidation > brak umiejętności; „urgency is poison"; evale („czy liczba jest dobra", outcomes > outputs, krytyka token maxingu).
+Pozostaje: `qmd update` + `embed`.
 
-**Klastry-kandydaci na nowe strony (z przeglądu 2026-06-22):** Ghostwriting / marka osobista; Suwerenność technologiczna / europejskie alternatywy (teraz dodatkowo linkowana z Owned vs rented). Do rozważenia przy następnej fali.
+**Klastry-kandydaci na nowe strony (z przeglądu 2026-06-22, akt. 2026-06-26):** Ghostwriting / marka osobista; Suwerenność technologiczna / europejskie alternatywy (linkowana z Owned vs rented). **Nowe propozycje z transkryptu Jones-Rooy — punkt wyjścia: `Resources/2026-06-24 How a Former NYU Professor Uses Claude Code.md`:**
+- **Evale / „skąd wiesz, że jest dobrze"** — definiowanie kryteriów jakości outputu AI (benchmark, kontekst, outcomes > outputs); najmocniejszy kandydat. Naturalne incoming: Wdrażanie AI (mech. 9), Agentic AI (nadzór above the loop / rubber-stamping), Context engineering (otwarte pytanie „jak zmierzyć jakość kontekstu"), AI governance. Domykać, gdy uzbiera się ≥4 źródła (eval/„co znaczy dobrze"/pomiar jakości) — transkrypt to źródło #1.
+- **Context layer organizacji** — kandydat na *wydzielenie* z Context engineering, jeśli dorośnie: organizacyjna baza kontekstu (transkrypty, voice memo, archiwum) jako fosa i paliwo samouczącego się systemu. Na razie żyje jako mechanizm 8 Context engineering; wydzielić przy ≥2 incoming + osobnych źródłach.
+- **AI jako współpracownik / digital workforce** — wielo­agentowa struktura org (chief of staff → dyrektorzy → specjaliści → watchdog), agent-jako-plik, meta-prompting. Na razie mechanizm 8 Agentic AI; osobna strona dopiero, gdy będzie ≥4 źródła o *organizacji* agentów (nie samej technologii).
 
 **Następny krok (popyt):** Mobilizacja cyfrowa i Higiena listy (obie ×2 po dodaniu linków z Owned vs rented — **sprawdzić, czy przekroczyły próg ≥2 incoming**), Transfer międzypokoleniowy majątku (czerwony link z Pokoleń).
 

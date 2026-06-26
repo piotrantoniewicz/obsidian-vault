@@ -5,7 +5,7 @@ tags:
   - narzędzia-AI
   - organizacje-społeczne
 created: 2026-06-15
-updated: 2026-06-22
+updated: 2026-06-26
 relevance: wysoka
 sources:
   - "[[2026-05-01 Understanding Agentic AI What It Means for Not-for-Profits]]"
@@ -15,6 +15,7 @@ sources:
   - "[[2026-03-23 Przestałem pisać prompty. Buduję agentów AI i to zmienia zasady gry]]"
   - "[[2026-06-04 Autonomous Supply Chain Why Agentic AI Is Rewriting the Operating Model]]"
   - "[[2026-06-10 The evolution of agentic surfaces building with Claude Managed Agents]]"
+  - "[[2026-06-24 How a Former NYU Professor Uses Claude Code]]"
 ---
 
 # Agentic AI (AI agentowe / autonomiczne agenty)
@@ -45,6 +46,11 @@ Skoro agenty działają autonomicznie, governance musi wyprzedzać wdrożenie. T
 
 **7. Stos do budowania agentów — „mózg" vs „ręce" ([[Anthropic]])**
 Z perspektywy budującego agentów (np. pluginy [[Claude Code]]) wąskim gardłem produkcyjnym nie są możliwości modelu, lecz **infrastruktura**: hosting, sesje, bezpieczeństwo credentials, skalowanie, observability. Stąd ewolucja trzech warstw: **Messages API** (jedno żądanie/odpowiedź, własna pętla) → **Claude Agent SDK** (gotowa pętla, narzędzia, subagenci, zarządzanie kontekstem) → **Claude Managed Agents** (pełna infrastruktura zarządzana przez dostawcę: hosting, sandbox, sesje, credentials). Kluczowy wzorzec architektoniczny: rozdzielenie **„mózgu" (harness wywołujący model)** od **„rąk" (sandbox wykonujący kod)** — rozwiązuje naraz bezpieczeństwo (credentials poza sandboxem) i latencję (model zaczyna myśleć przed startem kontenera; mediana czasu do pierwszego tokenu skrócona ~60%). Praktyczny wniosek: dla prostych automatyzacji wystarczy SDK; produkcyjne, wieloagentowe, długotrwałe procesy to argument za platformą zarządzaną, zamiast budowania hostingu samemu.
+
+**8. Digital workforce — agent jako plik, watchdog jako „sensor" ([[Allie K Miller]], [[Andrea Jones-Rooy]])**
+Praktyczny wzorzec organizacji wielu agentów u jednej osoby: **każdy agent to plik tekstowy** (markdown z celem, dostępem do narzędzi, modelem, opisem podwładnych), a całość układa się w *hierarchię* — chief of staff deleguje do dyrektorów, ci do specjalistów, którzy mogą spawnować tymczasowych pod-agentów. Dwa niuanse warte przeniesienia:
+- **Agent builder / meta-prompting** — nie buduje się 34 agentów ręcznie; najpierw powstaje agent, który *pisze prompty/JD dla pozostałych* („życzenie do dżina: więcej życzeń"). Skraca to onboarding nowego agenta, który „w dniu pierwszym jest w 60% gotowy".
+- **Watchdog / „sensor"** — osobny agent, który **nie wykonuje pracy, tylko obserwuje** wzorce w całym systemie (np. dwa zespoły robiące to samo) i flaguje je człowiekowi powyżej progu ryzyka. Jones-Rooy uogólnia to do pojęcia *sensorów*: AI jako narzędzie do **mierzenia problemu, zanim zacznie się go rozwiązywać** (token usage, jakość spotkań, duplikacja pracy to różne sensory). Bliski krewny „agenta-rodzica" z mechanizmu 5 i note-takera z [[2026-06-15 Context engineering|context engineeringu]] — element pamięci i samouczenia systemu, nie produkcji.
 
 ---
 

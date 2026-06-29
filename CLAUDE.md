@@ -37,13 +37,21 @@ Uwagi techniczne przy każdej operacji na index.md:
 
 ## Wyszukiwanie w vaultcie (qmd)
 
-Vault jest zaindeksowany w qmd (kolekcja `obsidian`, `**/*.md`). Zasady:
+Vault jest zaindeksowany w qmd (kolekcja `obsidian`, `**/*.md`, obejmuje całość). Zasady:
 
-- **Domyślnie `qmd query "<fraza>" -n 15`** — 15 wyników daje szeroki kontekst do syntezy.
+- **Domyślnie `qmd query "<fraza>" -n 15`** — 15 wyników daje szeroki kontekst do syntezy. Do szerokiego zbierania źródeł podnoś: `-n 25 -C 120` (większa pula kandydatów do rerankingu).
 - Wyszukiwania zawężaj do vaultu: `-c obsidian` (druga kolekcja `Ghostwriting` jest osobna).
-- `qmd query` = hybryda (expansion + BM25 + wektory + reranking); `qmd search` = szybki BM25 bez LLM.
-- Źródła cytuj z `Resources/`, nie z `Archives/` (qmd zwraca oba — duplikaty treści).
-- Po sesji pisania w `Galaxy/`: `qmd update` + `qmd embed`, żeby nowe strony były wyszukiwalne następnym razem.
+- `qmd query` = hybryda (expansion + BM25 + wektory + reranking); `qmd search` = szybki BM25 bez LLM; `qmd vsearch` = czysto semantyczny (łapie notatki o tym samym znaczeniu, innym słownictwie).
+
+### Archives vs Resources — oryginał (głębia) vs synteza (cytowanie)
+
+`Archives/` i `Resources/` **nie są duplikatami**: Archives to pełny oryginał artykułu (dłuższy, w języku oryginału — często angielskim, surowe dane i cytaty), Resources to skondensowana polska synteza. Dzielą tytuł/nazwę pliku, ale różnią się treścią. Dlatego:
+
+- **Nie wykluczaj Archives z wyszukiwania** — pełny tekst i język oryginału zwiększają recall (łapią to, co synteza wycięła; jedyna warstwa anglojęzycznego dopasowania).
+- **Reguła dedupu po tytule:** gdy qmd zwróci tę samą nazwę z `Archives/` i `Resources/`, traktuj je jako **jeden temat**. Do `sources`/cytowania bierz **wersję z Resources/**; oryginał z Archives/ otwieraj po detale, dane i dosłowne cytaty przy pisaniu.
+- Dwuwarstwowo: **Resources = szerokość + cytowanie, Archives = głębia.**
+
+Po sesji pisania w `Galaxy/`: `qmd update` + `qmd embed`, żeby nowe strony były wyszukiwalne następnym razem.
 
 ## Format notatki (Resources/)
 
@@ -112,6 +120,17 @@ sources:
 Nazwa pliku: `YYYY-MM-DD Tytuł pojęcia.md` (np. `2026-06-03 Uczenie transferowe.md`).
 
 Sekcje treści: definicja (2–4 zdania własnymi słowami) → kluczowe mechanizmy / zasady → powiązane pojęcia (wikilinki) → zastosowanie w kontekście organizacji społecznych/AI/fundraising → otwarte pytania.
+
+### Uzgadnianie liczników czerwonych linków (obowiązkowe po każdej zmianie w Galaxy/)
+
+Backlog czerwonych linków w `galaxy-strategia.md` (próg napisania = **≥2 incoming z różnych stron Galaxy/**) musi być **przeliczany, nie dopisywany**. Za każdym razem, gdy tworzysz lub edytujesz stronę Galaxy/ i zmieniasz sekcję „Powiązane pojęcia" (dodajesz/usuwasz czerwony link), **w tej samej sesji** uzgodnij liczniki:
+
+1. Przelicz incoming dla każdego dotkniętego pojęcia (faktyczny stan, nie pamięć):
+   `grep -rl "\[\[<pojęcie>" Galaxy/ --include="*.md" | grep -v index.md`
+2. Zaktualizuj liczniki w backlogu **oraz** zdanie zbiorcze w „Następny krok" (np. „żaden link nie ma ≥2" jest prawdziwe tylko do pierwszego przekroczenia progu).
+3. Jeśli pojęcie osiągnęło **≥2** — oznacz je jako kandydata do napisania (nie zostawiaj jako „(1)").
+
+Typowa pułapka: napisanie nowej strony dorzuca drugi incoming istniejącemu czerwonemu linkowi (przez własną sekcję „Powiązane pojęcia"), ale licznik tamtego pojęcia nie zostaje podbity → backlog kłamie. Po sesji liczniki w `galaxy-strategia.md` muszą zgadzać się z `grep`.
 
 ### Trzy operacje (metoda Karpathy'ego)
 

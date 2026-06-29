@@ -11,16 +11,16 @@
 - **AI w organizacjach** — Wdrażanie AI w organizacji społecznej, AI governance, Agentic AI, RAG, Context engineering, Prompt engineering
 - **Komunikacja i digital campaigning** — Email deliverability, Framing, Storytelling oparty na danych, Newsletter jako kanał, Widoczność w AI search (GEO/AEO), Owned vs rented audience, **Higiena listy** ← nowa
 
-**Ostatnia operacja — Query/backlog 2026-06-29:** domknięty czerwony link **Higiena listy** (jedyny kandydat z potwierdzonym progiem ≥2 incoming: Email deliverability + Owned vs rented audience). Nowa strona `Galaxy/2026-06-29 Higiena listy.md` (9 źródeł z Resources/, relevance wysoka): suppression-first, segmentacja wg zaangażowania (3 warstwy sygnałów + macierz 5 poziomów), re-engagement przez wartość, sunset/breakup automation, unsubscribe „dial not a switch", integralność danych na wejściu (4 typy spamtrapów), zastrzeżenie higiena vs. awareness. Zamieniono czerwone linki na realne w obu notach źródłowych + wpis do indeksu. Pozostaje: `qmd update` + `embed`.
+**Ostatnia operacja — Ingest 2026-06-29:** sesja wzbogacania 3 istniejących stron nowymi źródłami (bez nowych stron — Galaxy = 21). **Tożsamość darczyńcy** (+5 źródeł): atrybucja statystyk do *Giving Signals Report*, ugruntowanie „belonging before belief" u [[Hahrie Han]], nowy mechanizm 6 — trzy persony (transakcyjny→tożsamościowy→ambasador, *Fundraising Fallacy*), case Chive 98% w zastosowaniu. **Pokolenia darczyńców** (+Pulse of the Donor 2026): niuans TikToka jako najlepszego kanału akwizycji recurring (18,7% vs 5,8% e-mail). **Stewardship** (+4 źródła): uzupełniono brakujący cytat Giving Signals, case Chive (98% retencji, welcome series budująca tożsamość, kartki, odzyskiwanie nieudanych płatności, tiering Platinum), stat 53% braku podziękowań cyklicznym. `qmd update` + `embed` wykonane. Liczniki czerwonych linków przeliczone — bez zmian (nie dodano nowych pojęć-konceptów do „Powiązane pojęcia"). Wcześniej tego samego dnia: domknięto stronę **Higiena listy** (próg ≥2: Email deliverability + Owned vs rented).
 
 **Klastry-kandydaci na nowe strony (z przeglądu 2026-06-22, akt. 2026-06-26):** Ghostwriting / marka osobista; Suwerenność technologiczna / europejskie alternatywy (linkowana z Owned vs rented). **Nowe propozycje z transkryptu Jones-Rooy — punkt wyjścia: `Resources/2026-06-24 How a Former NYU Professor Uses Claude Code.md`:**
 - **Evale / „skąd wiesz, że jest dobrze"** — definiowanie kryteriów jakości outputu AI (benchmark, kontekst, outcomes > outputs); najmocniejszy kandydat. Naturalne incoming: Wdrażanie AI (mech. 9), Agentic AI (nadzór above the loop / rubber-stamping), Context engineering (otwarte pytanie „jak zmierzyć jakość kontekstu"), AI governance. Domykać, gdy uzbiera się ≥4 źródła (eval/„co znaczy dobrze"/pomiar jakości) — transkrypt to źródło #1.
 - **Context layer organizacji** — kandydat na *wydzielenie* z Context engineering, jeśli dorośnie: organizacyjna baza kontekstu (transkrypty, voice memo, archiwum) jako fosa i paliwo samouczącego się systemu. Na razie żyje jako mechanizm 8 Context engineering; wydzielić przy ≥2 incoming + osobnych źródłach.
 - **AI jako współpracownik / digital workforce** — wielo­agentowa struktura org (chief of staff → dyrektorzy → specjaliści → watchdog), agent-jako-plik, meta-prompting. Na razie mechanizm 8 Agentic AI; osobna strona dopiero, gdy będzie ≥4 źródła o *organizacji* agentów (nie samej technologii).
 
-**Następny krok (popyt):** żaden czerwony link nie ma jeszcze potwierdzonego progu ≥2 incoming (przegląd 2026-06-29 — wszystkie kandydatury wiszą na 1). Najmocniejsze do dociągnięcia: **Mobilizacja cyfrowa** (1: Owned vs rented — dorzucić drugi incoming, naturalnie z Higieny listy lub Newslettera), **RODO i dane wrażliwe** (1: AI governance — naturalny drugi incoming z Higieny listy, gdzie provenance/suppression/double opt-in to praktyki zgodności), **Transfer międzypokoleniowy majątku** (1: Pokolenia). Z klastrów AI nadal najmocniejszy **Evale / „skąd wiesz, że jest dobrze"** (zbierać ≥4 źródła).
+**Następny krok (popyt):** **RODO i dane wrażliwe** osiągnęło próg **≥2 incoming** (AI governance + Higiena listy — provenance/suppression/double opt-in jako praktyki zgodności) → **pierwszy kandydat do napisania**; zebrać ≥4 źródła (RODO, dane beneficjentów, zgoda, AI Act) i domknąć. Pozostałe wiszą na 1: **Mobilizacja cyfrowa** (Owned vs rented — dorzucić drugi incoming, naturalnie z Higieny listy lub Newslettera), **Transfer międzypokoleniowy majątku** (Pokolenia). Z klastrów AI nadal najmocniejszy **Evale / „skąd wiesz, że jest dobrze"** (zbierać ≥4 źródła).
 
-**Czerwone linki — backlog** (próg napisania = **≥2 incoming**, aktualne liczniki z 2026-06-29): Mobilizacja cyfrowa (1), RODO i dane wrażliwe (1), Suwerenność technologiczna (1), Transfer międzypokoleniowy majątku (1), Public Narrative (1), Sprawczość organizacyjna (1), Wizualizacja danych (1), LLM Wiki, Harness i scaffolding. ~~Higiena listy~~ — domknięta 2026-06-29. Narzędzia/organizacje (CRM, Make.com, LLM, Blackbaud, Ollama) świadomie poza Galaxy — to nie pojęcia.
+**Czerwone linki — backlog** (próg napisania = **≥2 incoming**, aktualne liczniki z 2026-06-29): **RODO i dane wrażliwe (2 ← próg osiągnięty, do napisania)**, Mobilizacja cyfrowa (1), Suwerenność technologiczna (1), Transfer międzypokoleniowy majątku (1), Public Narrative (1), Sprawczość organizacyjna (1), Wizualizacja danych (1), LLM Wiki (1), Harness i scaffolding (1). ~~Higiena listy~~ — domknięta 2026-06-29. Narzędzia/organizacje (CRM, Make.com, LLM, Blackbaud, Ollama) świadomie poza Galaxy — to nie pojęcia.
 
 ## Zasada nadrzędna
 
@@ -35,19 +35,28 @@ Galaxy/ rośnie **od popytu, nie od podaży**. Nie przerabiamy Resources/ hurtow
 
 ## Workflow tworzenia notatki konceptowej (przepis qmd)
 
+Cel zbierania: **jak najszersza pula kandydatów**, potem ręczna kuracja do ≥4–5 źródeł. Jedno zapytanie ciąży ku dominującej frazeologii klastra i gubi tematyczne outliery — dlatego trzy niezależne kanały recall + kilka sformułowań pojęcia.
+
 ```bash
-# 1. Zbierz kandydatów na źródła (hybrydowo, z rerankingiem)
-qmd query "<pojęcie + kontekst>" -n 15
+# 1. Hybryda, szeroka pula (expansion + BM25 + wektory + reranking)
+qmd query "<pojęcie + kontekst>" -c obsidian -n 25 -C 120
 
-# 2. Doprecyzuj lukę lub wątek (czysty BM25, szybko, bez LLM)
-qmd search "<frazy kluczowe>" -c obsidian
+# 2. Czysto semantyczny — łapie inne notatki niż hybryda (to samo znaczenie, inne słowa)
+qmd vsearch "<pojęcie>" -c obsidian -n 30
 
-# 3. Pobierz treść wybranych notatek
+# 3. Recall niezależny od embeddingów — Twoje własne opisy 2600+ notatek
+grep -iE "<słowa kluczowe|synonimy>" Resources/index.md
+
+# 4. Powtórz 1–2 dla 2–3 różnych sformułowań pojęcia (synonimy, węższe/szersze ujęcia)
+#    np. "tożsamość darczyńcy" / "przynależność wspólnota" / "lojalność darczyńcy"
+
+# 5. Pobierz treść wybranych notatek
 qmd get qmd://obsidian/resources/<plik>.md
 ```
 
 Zasady:
-- **Źródła cytuj z `Resources/`, nie z `Archives/`** — qmd zwraca oba (duplikaty treści); w frontmatter `sources` zawsze wersja z Resources/
+- **Dedup po tytule:** Archives/ i Resources/ to ten sam temat (oryginał vs synteza), nie dwa źródła. W `sources` wpisuj **wersję z Resources/**; oryginał z Archives/ otwieraj po pełne dane, kontekst i dosłowne cytaty (Archives = głębia, Resources = cytowanie). **Nie wykluczaj Archives z wyszukiwania** — pełny tekst i język oryginału zwiększają recall.
+- Resources są po polsku — zapytania formułuj po polsku (oryginał angielski siedzi w Archives i tak wpada przez pełnotekstowe dopasowanie).
 - Po napisaniu notatki: dopisz wpis do `Galaxy/index.md` + sprawdź, czy inne strony Galaxy/ powinny dostać wikilink do nowego pojęcia
 - Czerwone linki w sekcji "Powiązane pojęcia" zostawiaj świadomie — to backlog następnych stron
 - Po sesji pisania: `qmd update` + `qmd embed`, żeby nowe strony były wyszukiwalne następnym razem

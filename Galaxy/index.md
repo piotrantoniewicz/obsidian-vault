@@ -2,14 +2,14 @@
 
 ## Fundraising
 
-- [[2026-06-03 Tożsamość darczyńcy]] — dawanie jako akt wyrazu tożsamości: przynależność przed przekonaniem, proxy trust, różnice pokoleniowe.
+- [[2026-06-03 Tożsamość darczyńcy]] — dawanie jako akt wyrazu tożsamości: przynależność przed przekonaniem (Hahrie Han), proxy trust, trzy persony (transakcyjny→tożsamościowy→ambasador), różnice pokoleniowe.
 - [[2026-06-12 Recurring giving]] — dawanie cykliczne: retencja 79% vs 32%, inicjatywa własna darczyńcy (58,6% bez prośby), trade-off zobowiązania i luki w komunikacji organizacji.
-- [[2026-06-13 Stewardship]] — opieka nad darczyńcą po wpłacie: 2% szansy na odzyskanie utraconego, 80→90% retencji = 2x przychodu w 10 lat, triggery w CRM, "automate the tired, humanize the inspired".
+- [[2026-06-13 Stewardship]] — opieka nad darczyńcą po wpłacie: 2% szansy na odzyskanie utraconego, 80→90% retencji = 2x przychodu w 10 lat, case Chive 98% (welcome series budująca tożsamość, kartki, odzyskiwanie płatności, tiering), triggery w CRM, "automate the tired, humanize the inspired".
 - [[2026-06-13 Peer-to-peer fundraising]] — fundraising rówieśniczy: proxy trust (88% vs 20% zaufania), nano-ambasadorzy (Key Opinion Neighbors), konwersja >50%, model ekosystemu zamiast sezonowej kampanii.
 - [[2026-06-13 Pledge program]] — wieloletnie zobowiązanie darczyńcy: duża darowizna na raty (unlock majority givers), retencja ~90%, okno odnowienia 60–90 dni przed końcem, most do planned giving.
 - [[2026-06-13 Transparentność operacyjna]] — pokazywanie realnej pracy, kosztów i efektów zamiast fasady PR: brak dowodu wpływu = brak drugiego daru, "brzydka transparentność", cykl głodzenia organizacji społecznych.
 - [[2026-06-13 Major gifts]] — duże darowizny: "grown, not given", pipeline 5 etapów, kwalifikacja 3C, portfolio 125–150 prospektów, non-cash 6× szybszy wzrost, AI scoring ability+affinity i "the right ask".
-- [[2026-06-15 Pokolenia darczyńców]] — różnice generacyjne w dawaniu (Gen Z / Millenialsi / Gen X / Boomers): mediana daru, retencja, kanał i próg asku per kohorta; młodzi dają czas nie pieniądze (P2P), wspólny rdzeń to tożsamość i przynależność; Gen Z = filtr autentyczności (story-doing), apel konkretny bije ogólny o 88 pkt proc.
+- [[2026-06-15 Pokolenia darczyńców]] — różnice generacyjne w dawaniu (Gen Z / Millenialsi / Gen X / Boomers): mediana daru, retencja, kanał i próg asku per kohorta; młodzi dają czas nie pieniądze (P2P) — ale TikTok daje najwyższy wskaźnik zapisów cyklicznych (Pulse of the Donor), więc akwizycja przez social to inwestycja w recurring; wspólny rdzeń to tożsamość i przynależność; Gen Z = filtr autentyczności (story-doing), apel konkretny bije ogólny o 88 pkt proc.
 
 ## AI w organizacjach
 

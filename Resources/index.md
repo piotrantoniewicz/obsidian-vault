@@ -93,6 +93,7 @@
 - [[2023-09-21 Computational Agents Exhibit Believable Humanlike Behavior Stanford HAI]] — Stanford 2023: architektura generative agents (pamięć → refleksja → planowanie) i social prototyping dla kampanii.
 - [[2023-10-04 Nie masz pomysłu na kampanię storytellingową organizacji Skorzystaj z pomocy sztucznej inteligencji]] — ChatGPT, DALL-E i Midjourney jako narzędzia do kampanii storytellingowych i generowania grafik dla NGO.
 - [[2023-10-17 Jak ocenić etyczne i ekologiczne koszty AI dla organizacji pozarządowej?]] — Etyczne i ekologiczne koszty AI (ślad węglowy, warunki pracy) i konkretne działania mitygujące dla NGO.
+- [[2023-10-24 Jak rozmawiać, edukować i dbać o bezpieczeństwo młodych ludzi w Internecie?]] — Porady eksperta FDDS o edukacji cyfrowej dzieci: rozmowa, cyberhigiena, mechanizm dopaminowy mediów społecznościowych.
 - [[2023-10-31 Zamiana mowy w tekst. Automatyczna transkrypcja i triki w edytorach tekstu]] — Przegląd narzędzi do transkrypcji: Good Tape, Riverside.fm i trick z dyktowaniem do Word/Google Docs.
 - [[2023-11-01 The Emerging Digital Development Officer Role]] — CASE: Digital Gift Officer jako nowy zawód fundraisera operującego przez Zoom i email z 14 kontaktami na kwartał.
 - [[2023-11-07 Muzyka do pracy. Gdzie szukać dźwięków wspierających skupienie]] — Mechanizm działania muzyki na skupienie i przegląd narzędzi: Mubert (AI), Earth.fm, dźwięki binauralne.
@@ -1638,6 +1639,7 @@
 - [[2026-02-27 Day 5 - Build Your First Personal Software with Claude—No Experience, No Problem]] — Allie Miller: tworzenie aplikacji z Claude bez kodowania w 10 minut — Artifacts, Projects i Lovable.
 - [[2026-02-27 How Smaller Nonprofits Can Use AI to Raise More Major Gifts]] — Blackbaud: ML identyfikuje major donors w małych NGO — zarządzanie portfolio i targeting kwoty prośby.
 - [[2026-02-27 How to Build Your AI Second Brain Using Obsidian + Claude Code]] — Noah Vincent: setup Obsidian + Claude Code jako AI second brain — CLAUDE.md i memory.md dla ciągłości sesji.
+- [[2026-02-24 Jak dobrze wyjść z mediów społecznościowych?]] — Praktyczny przewodnik po świadomym ograniczaniu lub porzucaniu social mediów: collective action problem, techniki friction, alternatywne kanały (RSS, newslettery, Fediverse).
 - [[2026-02-27 Nagranie konferencji AI_Managers już dostępne - kluczowe wnioski]] — AI_Managers 2026: 7% organizacji skaluje AI, 67% w "dolinie śmierci" — programy ambasadorskie zamiast zakazów.
 - [[2026-02-28 14 Job Boards for Nonprofit Professionals Worldwide]] — Mansfield: 14 portali z ofertami pracy dla sektora NGO — USA i globalne (Idealist, Devex, CharityJob).
 - [[2026-02-28 Day 6 - You're Just Getting Started—Take Action to Really Become AI-First]] — Allie Miller: podsumowanie kursu AI Fast Track i 4 poziomy AI-first Academy — podstawy po agentic workflows.
@@ -1816,6 +1818,7 @@
 - [[2026-03-19 What 81,000 people told AI about their deepest fears]] — Anthropic: 80K rozmów Claude w 159 krajach — nadzieje i lęki wobec AI współistnieją jako napięcie wewnątrz jednej osoby.
 - [[2026-03-19 What a gluten-free pancake stack taught me about hope]] — Kutcher: masterclass storytellingu emocjonalnego — autentyczność o osobistej stracie buduje głębszą więź z czytelnikami.
 - [[2026-03-19 [30 Day Growth Challenge] Day 4- Grow Your Email List With Online Petitions]] — Jess Campbell dzień 4: petycje online przez Action Network lub Civic Shout jako magnes setek subskrybentów.
+- [[2026-03-19 Poza feedem. Jak mikrospołeczności i newslettery zmieniają sposób bycia w Internecie?]] — Trendy: mikrowersy i cozy Internet jako odpowiedź na zmęczenie algorytmami; newslettery i kurator treści jako strategia dla organizacji społecznych.
 - [[2026-03-20 Człowiek wartością premium. Jak nie wpaść w mit taniego AI]] — Debata Okulska/Holoubek: AI jako narzędzie cięcia kosztów to pułapka — realna transformacja chroni kompetencje ludzkie.
 - [[2026-03-20 The Center for Humane Technology s New Website]] — Tectonica: strona CHT jako infrastruktura ruchu — architektura dla wielu typów odbiorców: decydenci, rodzice, media, donatorzy.
 - [[2026-03-20 Where Does Your Foundation Stand on AI Introducing the AI Journey Map for Philanthropy]] — Project Evident: AI Journey Map dla filantropii — framework oceny dojrzałości AI fundacji od eksploracji do zarządzania.

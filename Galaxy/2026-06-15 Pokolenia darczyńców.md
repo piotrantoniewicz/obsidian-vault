@@ -5,7 +5,7 @@ tags:
   - digital-campaigning
   - organizacje-społeczne
 created: 2026-06-15
-updated: 2026-06-22
+updated: 2026-06-29
 relevance: wysoka
 sources:
   - "[[2025-10-21 GivingTuesday x Blackbaud Institute Special Report]]"
@@ -15,6 +15,7 @@ sources:
   - "[[2024-08-09 Jak pozyskiwać pieniądze od darczyńców prywatnych z pomocą technologii]]"
   - "[[2025-11-14 Jak tworzyć treści, które naprawdę angażują Gen Z?]]"
   - "[[2026-06-12 The Generational Remix What the 2026 Giving Signals Report Reveals]]"
+  - "[[2026-06-29 Pulse of the Donor 2026 Fundraising Benchmarks & Giving Trends]]"
 ---
 
 # Pokolenia darczyńców (Donor Generations)
@@ -35,7 +36,7 @@ Każda generacja ma inny profil — kwotę, retencję, kanał, próg „asku":
 Sygnały intencji na 2026 (*Giving Signals*, n=1000 darczyńców + 400 fundraiserów): Millenialsi w szczytowych latach dawania — **75% planuje dać więcej** (Gen X 49%, Boomers 36%), **42% używa DAF** (donor-advised funds — najwięcej ze wszystkich pokoleń), 80% chce wesprzeć nową sprawę; Gen X (52%) i Boomers również aktywnie szukają nowych spraw, ale chcą faktów i konkretnego wpływu, nie emocji; Boomers: **70%** uznaje przejrzyste raportowanie finansowe za główny sygnał skuteczności.
 
 **2. Młodzi dają czas, nie pieniądze (jeszcze)**
-„Jak skłonić osoby poniżej 30 lat do datku? Poczekaj, aż skończą 30" — żart, który jest prawdą. Pod-30 angażują się energią i czasem, nie portfelem; strategia dla nich to **wolontariat i peer-to-peer sharing**, nie apel o darowiznę. To nie strata — to inny etap ścieżki: dziś ambasador, za dekadę darczyńca. Workplace giving i wolontariat to brama wciągająca Gen Z i Millenialsów w relację, która dojrzewa finansowo później.
+„Jak skłonić osoby poniżej 30 lat do datku? Poczekaj, aż skończą 30" — żart, który jest prawdą. Pod-30 angażują się energią i czasem, nie portfelem; strategia dla nich to **wolontariat i peer-to-peer sharing**, nie apel o darowiznę. To nie strata — to inny etap ścieżki: dziś ambasador, za dekadę darczyńca. Workplace giving i wolontariat to brama wciągająca Gen Z i Millenialsów w relację, która dojrzewa finansowo później. Niuans kanałowy łamiący prostą wersję tej tezy (*Pulse of the Donor 2026*, FundraiseUp): **TikTok** — najmłodszy kanał — daje najwyższy w sektorze wskaźnik **zapisów na dawanie cykliczne** w ciągu 60 dni (18,7% w USA, 22,2% w Australii — vs 5,8% z e-maila). Mierzenie kanału społecznościowego po pierwszym darze jest więc błędem: młody darczyńca rzadziej daje *teraz*, ale pozyskany przez social konwertuje się na recurring 3–4× częściej niż z e-maila. Akwizycja przez kanały młodych to inwestycja w cykliczność, nie strata.
 
 **3. Pod różnicami — wspólny rdzeń: tożsamość i przynależność**
 Raport *Giving Signals 2026* obala mit finansowy: **97%** podaje troskę o społeczność, **92%** traktuje dawanie jako część tożsamości, **87%** motywuje przynależność „do czegoś większego" — a tylko **68%** wskazuje „posiadanie pieniędzy" (najniżej). Przynależność jest szczególnie silna u **nowych** darczyńców (top-3 motywacja, +20 pkt proc. vs powracający) — onboarding ma włączać do wspólnoty, nie domykać transakcję. To uniwersalne ponad pokoleniami, choć język dopasowuje się do generacji. Drugi sygnał uniwersalny obok przynależności: **przejrzystość wydatkowania — 94%** darczyńców daje chętniej, wiedząc dokładnie, na co idą pieniądze. Wniosek operacyjny *Giving Signals 2026*: nie cztery osobne strategie, lecz **jeden framework z generacyjnym dostrojeniem** kanału i tonu — a dla milenialsów reframe przekazu „potrzebujemy pomocy" → **„tu jest twoje miejsce"**.
@@ -59,6 +60,7 @@ Darczyńcy coraz częściej **koncentrują** dary w organizacjach, którym ufaj�
 - **Prosta segmentacja na start (Sektor 3.0)** — dwa wymiary wystarczą: czy dał już darowiznę (tak/nie) + czy jest cykliczny; potem warstwa zainteresowań (temat petycji). Donor journey jako maraton: petycja → edukacja → dopiero ask.
 - **Liczby-kotwice motywacji**: 97% troska o społeczność, 92% tożsamość, 87% przynależność, 68% „mam pieniądze"; konkret bije ogólnik o 88 pkt proc. Sygnały uniwersalne: **94% przejrzystość + 87% przynależność**. Intencje 2026: Millenialsi 75% dać więcej / 42% DAF (vs Gen X 49% / Boomers 36%).
 - **Liczby-kotwice retencji**: 31,9% retencja ogółem, 25,84% konwersja first-to-second; Gen X 68% vs Millenialsi 48%; Boomers = 41% darczyńców i największy rezerwuar nowych.
+- **Liczby-kotwice kanału (Pulse of the Donor 2026)**: TikTok = 18,7% (US) / 22,2% (AU) zapisów cyklicznych w 60 dni vs 5,8% e-mail; mobile 51–64% darowizn; funkcje AI (sugerowane kwoty, auto-częstotliwość) +10–15% przychodu — argument za akwizycją młodych przez social jako inwestycją w recurring.
 
 ---
 

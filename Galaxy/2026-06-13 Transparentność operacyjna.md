@@ -5,7 +5,7 @@ tags:
   - organizacje-społeczne
   - strategia-organizacji
 created: 2026-06-13
-updated: 2026-06-22
+updated: 2026-06-29
 relevance: wysoka
 sources:
   - "[[2026-05-27 Transparentność boli. Dlaczego większość liderów woli kłamać?]]"
@@ -15,6 +15,7 @@ sources:
   - "[[2026-04-24 Beyond the Ask Donor Stewardship]]"
   - "[[2026-06-19 Fiscal Agility. Radical Transparency. The Discipline of Sustainability.]]"
   - "[[2026-06-17 Zamiast grantozy. Trzy alternatywne modele finansowania organizacji społecznych]]"
+  - "[[2026-05-29 What Donors Are Actually Telling You Giving Motivations From the 2026 Giving Signals Report]]"
 ---
 
 # Transparentność operacyjna (operational transparency)
@@ -26,7 +27,7 @@ Transparentność operacyjna to **pokazywanie darczyńcy realnej pracy, kosztów
 ## Kluczowe mechanizmy
 
 **1. Brak dowodu wpływu = brak drugiego daru**
-Najtańsza i najsilniejsza dźwignia retencji to potwierdzenie, że dar zrobił różnicę. Działają proste, regularne komunikaty bez prośby o pieniądze: SMS ze zdjęciem z programu, krótkie wideo, wiadomość "to mi cię przypomniało". Organizacje, które kontaktują się z darczyńcą tylko przy zbiórce, systematycznie tracą zaufanie — transparentność wpływu to ciągły strumień, nie raport roczny.
+Najtańsza i najsilniejsza dźwignia retencji to potwierdzenie, że dar zrobił różnicę. Działają proste, regularne komunikaty bez prośby o pieniądze: SMS ze zdjęciem z programu, krótkie wideo, wiadomość "to mi cię przypomniało". Organizacje, które kontaktują się z darczyńcą tylko przy zbiórce, systematycznie tracą zaufanie — transparentność wpływu to ciągły strumień, nie raport roczny. To nie nisza, lecz oczekiwanie większości: przejrzystość wydatkowania jest jednym z **dwóch sygnałów uniwersalnych** ponad pokoleniami — **94% darczyńców** daje chętniej, wiedząc dokładnie, na co idą pieniądze (Bloomerang, *Giving Signals 2026*), a dla Baby Boomers przejrzyste raportowanie finansowe jest **głównym** sygnałem skuteczności organizacji (70%).
 
 **2. "Brzydka transparentność" buduje wiarygodność**
 Surowe wideo nagrane telefonem, uczciwy raport o trudnościach, przyznanie się do błędu, tłumaczenie kosztów administracyjnych językiem ludzkich historii — to sygnały: *"po drugiej stronie jest prawdziwy człowiek, nie korporacyjna maszyna"*. **38% Polaków przestało pomagać z powodu niejasności finansowych** (Pomagam.pl) — niejasność niszczy nie tylko zaufanie, lecz narrację darczyńcy o własnej sprawczości. De-influencing organizacyjny (porzucenie wypolerowanego wizerunku) jest świadomą strategią, nie wpadką.

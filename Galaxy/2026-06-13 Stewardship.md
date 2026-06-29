@@ -18,7 +18,7 @@ sources:
   - "[[2026-05-29 What Donors Are Actually Telling You Giving Motivations From the 2026 Giving Signals Report]]"
   - "[[2026-01-29 How Chive Charities hit 98% donor retention]]"
   - "[[2026-06-25 dlaczego organizacje tracą darczyńców po pierwszej wpłacie]]"
-  - "[[2026-03-23 What nonprofits taught us about saying thank you]]"
+  - "[[2026-03-23 What nonprofits taught us about saying -thank you-]]"
 ---
 
 # Stewardship (opieka nad darczyńcą)
@@ -59,7 +59,7 @@ Stewardship nie jest jednolity. Major donorzy przechodzą [[2026-06-13 Major gif
 - [[2026-06-13 Peer-to-peer fundraising|Peer-to-peer fundraising]] — zadowolony, dobrze "zaopiekowany" darczyńca staje się ambasadorem, który rekrutuje kolejnych przez sieć społeczną
 - [[2026-06-14 Email deliverability|Email deliverability]] — "momenty pomiędzy" (kontakt bez prośby) to nie tylko taktyka relacyjna: każda angażująca, niesprzedażowa wysyłka karmi reputację domeny i decyduje o tym, czy mail z apelem w ogóle trafi do skrzynki
 - [[2026-06-14 Framing|Framing]] (ramy narracyjne) — każdy kontakt stewardshipowy musi być rozdziałem tej samej historii co apel: spójność narracyjna (zamiast middlingu) decyduje, czy „moment pomiędzy" buduje relację, czy tylko dokłada szumu
-- [[2026-06-15 Newsletter jako kanał]] — newsletter to silnik „momentów pomiędzy": regularny, non-ask kontakt budujący relację między apelami; welcome series otwiera okno po pierwszym darze
+- [[2026-06-15 Newsletter jako kanał|Newsletter jako kanał]] — newsletter to silnik „momentów pomiędzy": regularny, non-ask kontakt budujący relację między apelami; welcome series otwiera okno po pierwszym darze
 
 ---
 

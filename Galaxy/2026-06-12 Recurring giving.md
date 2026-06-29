@@ -5,7 +5,7 @@ tags:
   - organizacje-społeczne
   - digital-campaigning
 created: 2026-06-12
-updated: 2026-06-12
+updated: 2026-06-29
 relevance: wysoka
 sources:
   - "[[2026-04-28 Neon One s 2026 Recurring Donor Report Key Findings]]"
@@ -17,6 +17,8 @@ sources:
   - "[[2026-03-24 How Does a Monthly Ask Influence Recurring Donor Conversion]]"
   - "[[2025-11-24 NextAfter Minute 20 The Slide-Up Test That Boosted Monthly Giving by 122.7%]]"
   - "[[2026-05-04 How using community-oriented value proposition language impacts monthly donor increases via email]]"
+  - "[[2026-04-09 The latest monthly donor research]]"
+  - "[[2026-01-29 How Chive Charities hit 98% donor retention]]"
 ---
 
 # Recurring giving (dawanie cykliczne)
@@ -40,7 +42,10 @@ Eksperyment NextAfter: prominentny "monthly ask" na stronie donacji **podwoił k
 Ten sam komunikat, inny sposób wyświetlenia, radykalnie różny wynik: slide-up z pre-selekcją kwot zwiększył konwersję na datki miesięczne o **122,7%** względem sticky bara (NextAfter, ufność 95,9%). Inne dźwignie formularza: cykliczność jako opcja domyślna, osobne tiery kwotowe dla jednorazowych i miesięcznych (3–6 tierów, każdy opisany konkretnym wpływem), matching (84% darczyńców chętniej daje przy ofercie podwojenia).
 
 **5. Luka systemowa — organizacje nie proszą**
-Benchmark NextAfter (138 organizacji): tylko **36%** prosi jednorazowych darczyńców o przejście na datek miesięczny w ciągu 30 dni, a zaledwie **27%** prosi aktywnych darczyńców cyklicznych o podniesienie kwoty — mimo że darczyńcy po upgrade mają retencję **83% vs 44%** i o 36% wyższą wartość życiową. 65% organizacji nigdy nie zaprasza darczyńców cyklicznych do dialogu. Największy potencjał wzrostu leży więc nie w nowych taktykach, lecz w domknięciu podstawowych sekwencji komunikacji.
+Benchmark NextAfter (138 organizacji): tylko **36%** prosi jednorazowych darczyńców o przejście na datek miesięczny w ciągu 30 dni, a zaledwie **27%** prosi aktywnych darczyńców cyklicznych o podniesienie kwoty — mimo że darczyńcy po upgrade mają retencję **83% vs 44%** i o 36% wyższą wartość życiową. 65% organizacji nigdy nie zaprasza darczyńców cyklicznych do dialogu. Największy potencjał wzrostu leży więc nie w nowych taktykach, lecz w domknięciu podstawowych sekwencji komunikacji. Ilustruje to [[Chive Charities]]: dodanie **nowego tieru** (Platinum, $200+/mies.) odblokowało ukryty potencjał — darczyńcy ograniczeni dotąd do $100 przeszli na $500; tier daje dziś 20% przychodów. Sufit, jaki ta dyscyplina wyznacza, to **98% retencji miesięcznej** przy 70%+ przychodu z cyklicznych.
+
+**6. Kanał akwizycji przesądza o retencji**
+Nie każdy cykliczny darczyńca jest wart tyle samo — decyduje, *skąd* przyszedł. Retencja monthly donorów wg kanału (dane CRM, *The latest monthly donor research*): **earned media 70–100%, e-mail ~70%, reklamy płatne 38–50%**; pozyskani e-mailem zostają aktywni **5–7× dłużej** niż z reklam. Zarazem social konwertuje na cyklicznych **2× szybciej** niż e-mail w ciągu 60 dni — czyli kanały młodych są świetne do *pozyskania* recurring, ale lojalność buduje wartościowy content i lista mailowa. Niuans churnu: utraceni z CPC (Google/Bing) odchodzą głównie przez **rezygnacje**, z Meta — przez **nieudane płatności** (stąd proaktywne odzyskiwanie karty ratuje recurring tam, gdzie sama treść nie pomoże). Wniosek budżetowy: alokuj akwizycję wg retencji per kanał, nie wg kosztu pierwszego daru.
 
 ---
 

@@ -132,6 +132,50 @@ Backlog czerwonych linków w `galaxy-strategia.md` (próg napisania = **≥2 inc
 
 Typowa pułapka: napisanie nowej strony dorzuca drugi incoming istniejącemu czerwonemu linkowi (przez własną sekcję „Powiązane pojęcia"), ale licznik tamtego pojęcia nie zostaje podbity → backlog kłamie. Po sesji liczniki w `galaxy-strategia.md` muszą zgadzać się z `grep`.
 
+### Walidacja wikilinków (obowiązkowa po każdej edycji Galaxy/)
+
+Każdy nowy wikilink (w `sources`, „Powiązane pojęcia" i w treści) musi celować w **dosłowny basename pliku**, nie w tytuł H1 ani z pamięci. Po sesji pisania zweryfikuj, że nowe linki do Resources/ trafiają w realne pliki:
+
+```bash
+find . -name "<dokładny tytuł>.md" -not -path '*/.claude/*'
+```
+
+Dwie powtarzalne pułapki:
+- **Sanityzacja znaków w nazwie pliku** — cudzysłowy, `?`, `:` itp. z oryginalnego tytułu bywają w nazwie pliku zamienione na myślniki (`"thank you"` → `-thank you-`). Nie odtwarzaj nazwy z H1 — sprawdź realny plik (`find`/`qmd get` zwraca ścieżkę). To samo dotyczy znaków `&`, `$`, curly apostrofów (').
+- **Konwencja aliasu w „Powiązane pojęcia"** — linki do innych stron Galaxy/ pisz zawsze jako `[[YYYY-MM-DD Tytuł|Tytuł]]` (alias ukrywa datę). Pojedynczy link bez `|` wyświetli się z datą i złamie spójność sekcji.
+
+### ⏳ Status jednorazowego przeglądu re-source Galaxy/ (sekcja tymczasowa)
+
+Jednorazowy przegląd **wszystkich** istniejących stron Galaxy/ nowym workflow zbierania źródeł (3 kanały recall z `galaxy-strategia.md`): dla każdej strony przelicz źródła, dorzuć nowe/świeższe i zaktualizuj treść + `updated`. Po każdej turze: `qmd update` + `embed`, walidacja wikilinków, uzgodnienie liczników.
+
+**REGUŁA SAMO-USUNIĘCIA:** gdy wszystkie strony poniżej osiągną ✅, **usuń całą tę sekcję** („Status jednorazowego przeglądu…") z `CLAUDE.md` — to rusztowanie zadania, nie trwała reguła. Sekcje „Uzgadnianie liczników…" i „Walidacja wikilinków…" **zostają** (są trwałe).
+
+Zrobione (✅ 7/21):
+- ✅ Tożsamość darczyńcy
+- ✅ Pokolenia darczyńców
+- ✅ Stewardship
+- ✅ Recurring giving
+- ✅ Pledge program
+- ✅ Major gifts
+- ✅ Transparentność operacyjna
+
+Do zrobienia (⬜ 13):
+- ⬜ Peer-to-peer fundraising
+- ⬜ Wdrażanie AI w organizacji społecznej
+- ⬜ Email deliverability
+- ⬜ Framing
+- ⬜ Storytelling oparty na danych
+- ⬜ Newsletter jako kanał
+- ⬜ Widoczność w AI search
+- ⬜ Owned vs rented audience
+- ⬜ RAG
+- ⬜ Agentic AI
+- ⬜ AI governance
+- ⬜ Context engineering
+- ⬜ Prompt engineering
+
+Pominięte (➖): Higiena listy — utworzona 2026-06-29 z pełną kuracją źródeł, nie wymaga przeglądu.
+
 ### Trzy operacje (metoda Karpathy'ego)
 
 **Ingest** — po dodaniu notatki do Resources/ sprawdź, które strony Galaxy/ dotyczą tego tematu i zaktualizuj je o nowe wnioski. Jedno źródło może zaktualizować kilka stron Galaxy/. Jeśli pojęcie nie istnieje w Galaxy/ a zasługuje na własną stronę — utwórz ją.

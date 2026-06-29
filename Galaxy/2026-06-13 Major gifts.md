@@ -5,13 +5,15 @@ tags:
   - strategia-organizacji
   - organizacje-społeczne
 created: 2026-06-13
-updated: 2026-06-13
+updated: 2026-06-29
 relevance: wysoka
 sources:
   - "[[2025-02-11 Best Practices for Major Gift Fundraising What You Need to Know to Raise More]]"
   - "[[2025-08-08 Donor Stewardship How to Convert Major Gifts]]"
   - "[[2026-02-27 How Smaller Nonprofits Can Use AI to Raise More Major Gifts]]"
   - "[[2025-07-29 7 Fundraising Reports Every Nonprofit Should Utilize + How to Actually Use Them]]"
+  - "[[2026-06-23 Donors gave U.S. charities $617 billion in 2025, according to the new Giving USA report]]"
+  - "[[2026-04-22 Build a Donor Pipeline Before You Need It]]"
 ---
 
 # Major gifts (duże darowizny)
@@ -32,10 +34,13 @@ Prospekta ocenia się przez trzy wymiary (Bloomerang): **connection** (głęboko
 Duży dar wymaga długiego horyzontu: średni wiek pierwszorazowego major donora wzrósł z **55 do 66 lat** w ciągu dwóch dekad — to relacja budowana latami, nie kampania na kwartał. Dlatego program major gifts jest niekompatybilny z myśleniem akwizycyjnym; działa na tej samej logice retencji co [[2026-06-13 Stewardship|stewardship]], tyle że zagęszczonej do garstki najważniejszych relacji.
 
 **4. Dywersyfikacja formy daru — non-cash bije gotówkę**
-Organizacje przyjmujące dary niegotówkowe (akcje, [[DAF|Donor-Advised Funds]], zapisy planowane) odnotowały **66% wzrostu przychodów w 5 lat** wobec **11%** dla przyjmujących wyłącznie gotówkę — sześciokrotnie szybciej. Major donor często ma majątek nie w gotówce, lecz w aktywach; organizacja, która umie przyjąć tylko przelew, zostawia największe dary na stole. Mega-gifts wyniosły w 2023 r. **8,07 mld USD** (Giving USA 2024).
+Organizacje przyjmujące dary niegotówkowe (akcje, [[DAF|Donor-Advised Funds]], zapisy planowane) odnotowały **66% wzrostu przychodów w 5 lat** wobec **11%** dla przyjmujących wyłącznie gotówkę — sześciokrotnie szybciej. Major donor często ma majątek nie w gotówce, lecz w aktywach; organizacja, która umie przyjąć tylko przelew, zostawia największe dary na stole. Skala koncentracji rośnie: mega-gifts (>0,1% całego giving) wyniosły w 2025 r. **19,2 mld USD** — sama trójka MacKenzie Scott (6,65 mld), Bloomberg (4,3 mld) i Gates (3,7 mld) to ponad 14 mld (Giving USA 2026). Zarazem **giełda stała się głównym predyktorem** poziomu dawania, a udział darczyńców indywidualnych w puli spadł do **64%** (z 80% w 1985 r.) — duże dary są coraz bardziej skoncentrowane i wrażliwe na rynek, co czyni dywersyfikację portfela darczyńców kwestią zarządzania ryzykiem.
 
 **5. Dane wyprzedzają intuicję — raporty i AI jako filtr**
 Prospektów nie szuka się „na czuja". Raporty z [[CRM]] typują ich z istniejącej bazy: **LYBUNT/SYBUNT** (darczyńcy, którzy dali rok lub kilka lat temu), **RFM** (recency, frequency, monetary) i raport prospektów major gifts (CauseVox). Warstwę wyżej działa uczenie maszynowe: narzędzia jak [[Blackbaud]] Prospect Insights łączą **ability** (zdolność) z **affinity** (skłonność do dania akurat tej organizacji), zarządzają churnem portfolio (usuwają słabe leady) i sugerują *the right ask* — docelową kwotę prośby. Kwalifikacja prospekta skraca się do ~6 minut, a AI działa tu jako doradca, nie zastępca relacji.
+
+**6. Pipeline jako ciągła dyscyplina, nie projekt — „buduj relacje, zanim ich potrzebujesz"**
+Większość organizacji wpada w kryzys nie przez słabą misję, lecz przez zaniedbanie pipeline'u, dopóki nie zrobi się pilnie (Tom Iselin, Bloomerang). Organizacja oparta na **tych samych 12 major donorach przez 10 lat jest o jedno–dwa odejścia od paniki budżetowej**; pipeline, który się stale uzupełnia, *absorbuje* utratę darczyńcy zamiast jej doświadczać — to zarządzanie ryzykiem, nie luksus. Najtańsze źródło prospektów jest wewnątrz bazy: regularne pytanie do wolontariuszy, zespołu i długoletnich darczyńców „kto jeszcze powinien znać tę pracę?", **donor-to-donor introductions** (jedna przemyślana rekomendacja rocznie, ton „kto byłby zainspirowany?", nie „kto wypisze czek?"), reconnect z alumni programów. Kluczowy wniosek o capacity: math doesn't lie — 200 darczyńców × $100 = 1 major × $20 000, ale to **mały darczyńca bywa ukrytym major donorem**, więc jakość stewardshipu drobnych datków decyduje, czy w ogóle odkryjesz jego potencjał. Praktyka: pipeline-review jako stały punkt agendy zarządu (mierzony, raportowany), nie jednorazowa akcja.
 
 ---
 

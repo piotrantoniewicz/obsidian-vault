@@ -65,7 +65,7 @@ Uzależnienie od kanału wynajętego deformuje też pomiar: organizacje **mierz�
 - [[2026-06-13 Peer-to-peer fundraising]] — ciekawy kontrapunkt: P2P celowo *pożycza* publiczność ambasadora (proxy trust), ale przez własny system, nie przez platformę — pożyczasz zaufanie, nie tracąc kontroli nad kanałem.
 - [[2026-06-15 Pokolenia darczyńców]] — napięcie funnela: młodsze kohorty żyją w kanałach wynajętych; pytanie strategiczne brzmi, jak je stamtąd „przeprowadzić" do własnej bazy.
 - [[Suwerenność technologiczna]] — szersza rama: niezależność od big techu i własność infrastruktury cyfrowej organizacji (czerwony link — backlog).
-- [[Higiena listy]] — własny kanał trzeba utrzymywać, by pozostał aktywem, a nie kosztem reputacji (czerwony link — backlog).
+- [[2026-06-29 Higiena listy]] — własny kanał trzeba utrzymywać, by pozostał aktywem, a nie kosztem reputacji: suppression, segmentacja zaangażowania i świadome zarządzanie wypisaniami.
 - [[Mobilizacja cyfrowa]] — owned audience jako baza, z której uruchamia się działanie, nie tylko komunikację (czerwony link — backlog).
 
 ---

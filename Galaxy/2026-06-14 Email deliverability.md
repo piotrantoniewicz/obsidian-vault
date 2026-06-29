@@ -63,7 +63,7 @@ Prewencja to jedno; gdy placement już spadł, Lauren Meyer proponuje trójstopn
 - [[2026-06-13 Stewardship]] — "momenty pomiędzy" (kontakt bez prośby) to nie tylko taktyka relacyjna, ale i mechanizm deliverability: każda angażująca, niesprzedażowa wysyłka karmi reputację domeny.
 - [[2026-06-12 Recurring giving]] — regularny, przewidywalny kontakt z darczyńcą cyklicznym to zarazem sygnał spójności wolumenu dla filtrów.
 - [[2026-06-03 Tożsamość darczyńcy]] — zaangażowanie (odpowiedzi, kliknięcia) jako najsilniejszy sygnał reputacji łączy się z poczuciem przynależności: ludzie otwierają maile od nadawcy, z którym się utożsamiają.
-- [[Higiena listy]] — wyciszanie nieaktywnych, walidacja adresów, re-permission (czerwony link — kandydat na osobną stronę).
+- [[2026-06-29 Higiena listy]] — operacyjna warstwa pod deliverability: suppression-first, segmentacja zaangażowania, sunset, unsubscribe jako pokrętło i integralność danych na wejściu.
 - [[2026-06-15 Newsletter jako kanał]] — deliverability to warstwa techniczna pod strategią newslettera: kanał własny (owned vs rented), billboard effect, rytm i wzrost bazy stoją na fundamencie dostarczalności.
 
 ---

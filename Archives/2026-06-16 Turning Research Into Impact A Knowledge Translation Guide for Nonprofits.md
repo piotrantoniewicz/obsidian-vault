@@ -5,6 +5,9 @@ url: "https://www.nptechforgood.com/2026/06/16/turning-research-into-impact-a-kn
 published: 2026-06-16
 created: 2026-06-29
 tags:
+  - organizacje-społeczne
+  - strategia-organizacji
+  - content-marketing
 ---
 
 

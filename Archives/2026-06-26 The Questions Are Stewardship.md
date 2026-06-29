@@ -1,10 +1,13 @@
 ---
-type: "Web"
-authors: "[[Bryan Neider]]"
-url: "https://www.linkedin.com/pulse/questions-stewardship-bryan-neider-7d15e/"
-published: 2026-06-26
-created: 2026-06-26
+type: Web
+authors: '[[Bryan Neider]]'
+url: 'https://www.linkedin.com/pulse/questions-stewardship-bryan-neider-7d15e/'
+published: 2026-06-26T00:00:00.000Z
+created: 2026-06-26T00:00:00.000Z
 tags:
+  - organizacje-społeczne
+  - strategia-organizacji
+  - fundraising
 ---
 
 

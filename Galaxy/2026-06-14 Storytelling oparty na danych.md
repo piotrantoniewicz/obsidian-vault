@@ -5,7 +5,7 @@ tags:
   - digital-campaigning
   - fundraising
 created: 2026-06-14
-updated: 2026-06-14
+updated: 2026-06-30
 relevance: wysoka
 sources:
   - "[[2025-06-17 Jak wizualizacja danych wspiera komunikację organizacji społecznej Sprawdź na przykładzie Fundacji Gajusz]]"
@@ -15,6 +15,8 @@ sources:
   - "[[2026-02-04 Support with a storytelling concept — narzędzia multimedialne]]"
   - "[[2025-10-15 Stwórz mapę dla Twojej organizacji – bez grafika i dewelopera. Poznaj Datawrapper!]]"
   - "[[2025-10-28 Middling is a Losing Strategy Why Nonprofit Storytelling Needs Stronger Narratives]]"
+  - "[[2026-04-29 Nie lubisz robić wykresów w Excelu? Wypróbuj Canvę do wizualizacji danych film]]"
+  - "[[2025-12-04 Turn your content into a shareable infographic]]"
 ---
 
 # Storytelling oparty na danych (data storytelling)
@@ -48,7 +50,7 @@ Data storytelling na zewnątrz wymaga pracy na danych wewnątrz. Mechanizm: **wd
 Data storytelling pada, gdy organizacja ma liczby, ale nie ma historii do ich obudowania. SMS to niedoceniony silnik pozyskiwania historii (7 kroków, [[Mobile Commons]]): wysoka otwieralność i niski próg odpowiedzi sprawiają, że ludzie odpisują. Zasada: pierwsze pytanie identyczne dla wszystkich (wielokrotny wybór, niski próg), drugie **spersonalizowane** na podstawie odpowiedzi → poczucie autentycznej rozmowy; zawsze odpisz (auto-response zamyka pętlę); zrób z tego nawyk — jedno regularne pytanie, nie więcej wiadomości. Zebrane historie należą do **całej organizacji** i zasilają maile, social media, raporty roczne, granty, spotkania z dużymi darczyńcami.
 
 **5. Narzędzia bez budżetu i bez grafika — niski próg wejścia**
-Próg techniczny data storytellingu jest dużo niższy, niż organizacje zakładają. Bezpłatne lub tanie narzędzia: [[Looker Studio]] (dashboardy zintegrowane z Google Analytics/arkuszami), [[Datawrapper]] (interaktywne mapy i wykresy w kilkanaście minut, bez kodu), [[Flourish]], [[Canva]] / [[Canva Pro]] i [[Shorthand Pro]] (scrollingowe, interaktywne historie). Dwa zastrzeżenia: (a) **AI generuje wizualizacje gorzej niż narzędzia dedykowane** — błędy lokalizacji map, niższa estetyka; (b) projektuj **wielokrotne użycie materiałów od początku** (multi-platform), inaczej nawet najlepszy film „zostaje sierotą na YouTube".
+Próg techniczny data storytellingu jest dużo niższy, niż organizacje zakładają. Bezpłatne lub tanie narzędzia: [[Looker Studio]] (dashboardy zintegrowane z Google Analytics/arkuszami), [[Datawrapper]] (interaktywne mapy i wykresy w kilkanaście minut, bez kodu), [[Flourish]], [[Canva]] / [[Canva Pro]] i [[Shorthand Pro]] (scrollingowe, interaktywne historie). Praktyczny podział pracy (Stano, ngo.pl): proste, estetyczne wykresy spójne z resztą materiałów rób **wprost w [[Canva]]** (cztery typy: słupkowy, liniowy, powierzchniowy, kołowy; zmiana typu jednym kliknięciem) — ale do analizy surowych danych i zaawansowanych typów (kaskadowy, przestawny) zostań w arkuszu, a interaktywne mapy/wykresy oddaj [[Datawrapper]]/[[Flourish]]. Dwa zastrzeżenia: (a) **AI generuje wizualizacje gorzej niż narzędzia dedykowane** — błędy lokalizacji map, niższa estetyka; nowsze modele to jednak skracają — *Nano Banana Pro* ([[Gemini]]) potrafi już dobrać **layout do struktury narracyjnej** treści (zasada „content dictates structure": transformacja / proces / system / porównanie) i podciągnąć brand assets, więc repurposing raportu w infografikę bywa kwestią jednego promptu — z zachowaniem ludzkiej walidacji formy; (b) projektuj **wielokrotne użycie materiałów od początku** (multi-platform), inaczej nawet najlepszy film „zostaje sierotą na YouTube".
 
 ---
 
@@ -86,5 +88,5 @@ Próg techniczny data storytellingu jest dużo niższy, niż organizacje zakład
 
 - Gdzie leży granica między uczłowieczeniem liczby a jej zniekształceniem — kiedy analogia życiowa pomaga zrozumieć skalę, a kiedy manipuluje emocją kosztem wierności danym?
 - Jak uczyć organizacje dyscypliny mediany/rozkładu, skoro narzędzia (arkusze, dashboardy) domyślnie pokazują średnią — czy da się to „wbudować" w szablon raportu, zamiast liczyć na czujność analityka?
-- Czy AI-asystent potrafi rzetelnie dobrać formę wizualizacji do typu danych (a nie tylko ją wygenerować), i jak walidować jego propozycje bez kompetencji analitycznych w zespole?
+- Czy AI-asystent potrafi rzetelnie dobrać formę wizualizacji do typu danych (a nie tylko ją wygenerować), i jak walidować jego propozycje bez kompetencji analitycznych w zespole? Kierunek „content dictates structure" (Nano Banana Pro) pokazuje, że model coraz lepiej dobiera *layout narracyjny* — ale dobór *formy wykresu do typu danych* (czy te dane to słupki, czy linia? czy mapa nie zafałszuje skali?) to wciąż osobna kompetencja, której AI nie zastępuje, tylko przyspiesza.
 - Jak zaprojektować jeden workflow „historia → dane → wizualizacja → dystrybucja wielokanałowa", żeby materiał nie zostawał sierotą — i które elementy realnie da się zautomatyzować?

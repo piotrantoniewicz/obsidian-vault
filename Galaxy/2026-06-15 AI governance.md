@@ -5,7 +5,7 @@ tags:
   - organizacje-społeczne
   - strategia-organizacji
 created: 2026-06-15
-updated: 2026-06-22
+updated: 2026-06-30
 relevance: wysoka
 sources:
   - "[[2024-08-12 AI Governance Framework for Nonprofits]]"
@@ -17,6 +17,8 @@ sources:
   - "[[2026-02-20 The business advantage of strong AI governance]]"
   - "[[2026-06-17 Humanistic by Design. Transparent by Default. Values-Led Always.]]"
   - "[[2026-06-16 Suwerenność na wynajem]]"
+  - "[[2025-12-08 Guidance for using artificial intelligence in fundraising]]"
+  - "[[2026-05-20 EU AI Act Update Timeline Relief, Targeted Simplification, and New Prohibitions]]"
 ---
 
 # AI governance (zarządzanie AI w organizacji)
@@ -58,6 +60,8 @@ Technologia nie jest neutralna: każdy system niesie wartości i ślepe punkty t
 - **Trzy luki governance (Responsible AI Institute)** — zrozumienie ryzyka / polityki zatwierdzania / gotowość ludzi; „najpierw ryzyko, potem kontrole".
 - **Pięć etapów dojrzałości etycznej (Davenport)** — ewangelizacja → polityki → dokumentacja → przeglądy → działania.
 - **Reguła Trzech + AI Governance Working Group (Neider)** — Human Dignity / Algorithmic Transparency / Values-Based Governance; brama, przez którą przechodzi każde narzędzie przed kontaktem z danymi/klientami. Uwaga: „human-in-the-loop paradox".
+- **Proces wdrożenia AI w fundraisingu (Fundraising Regulator UK)** — trzy etapy: *eksploracja* (ocena ryzyka i zaangażowanie zarządu przed użyciem narzędzia) → *przygotowanie* (polityka AI, kompetencje, pilotaż w zamkniętym środowisku, audyt danych) → *użycie* (transparentność wobec darczyńców *proporcjonalna do ryzyka wprowadzenia w błąd*, nadzór ludzki nad każdym outputem, dokumentacja kontroli). Reguła nadrzędna: **organizacja ponosi pełną odpowiedzialność za każdy output AI — także halucynacje i bias narzędzia zewnętrznego, którego nie wygenerowała sama.**
+- **EU AI Act — stan regulacji (Digital Omnibus, 7 maja 2026)** — pierwsza nowelizacja od 2024: termin compliance dla systemów wysokiego ryzyka (Annex III) przesunięty na **2 grudnia 2027**; nowe zakazy (niekonsensualny content intymny, CSAM przez AI) od 2 grudnia 2026; **Art. 25** nakłada obowiązki informacyjne na *każdego, kto integruje lub modyfikuje modele* (kara do 3% obrotu / 15 mln EUR); nadzór nad GPAI centralizuje **AI Office**. Praktycznie: organizacja budująca narzędzia na zewnętrznych LLM-ach wchodzi w łańcuch obowiązków, nie tylko dostawca.
 - **Liczby-kotwice**: <1% organizacji wdrożyło AI systemowo (Klon/Jawor + Sektor 3.0); ~99% organizacji społecznych nie ma polityki AI (Heyman); 53% pracowników nie wie, jak korzystać z AI, 22% to power users (Microsoft).
 - **Cytat-kotwica**: „Governance, które pojawia się zbyt późno, to jak wylewanie betonu, gdy mieszkańcy się już wprowadzili" (WEF).
 
@@ -81,6 +85,7 @@ Technologia nie jest neutralna: każdy system niesie wartości i ślepe punkty t
 - **Audyt etyczny przez schemat 3 obszarów ryzyka** (wiarygodność / tożsamość / zależność) — struktura rozmowy o etyce bez żargonu, dopasowana do wrażliwości konkretnej organizacji (ekologiczna, edukacyjna, pomocowa).
 - **Argument sprzedażowy oparty na danych**: <1% systemowych wdrożeń i ~99% bez polityki to gotowa nisza; do tego rosnąca presja grantodawców (szczególnie zagranicznych), którzy pytają o podejście do AI i ochrony danych — polityka AI buduje zaufanie wobec fundratorów.
 - **Argument RODO dla sceptyków**: „wklejanie danych beneficjentów do zewnętrznego AI może być incydentem wymagającym zgłoszenia do UODO" — najskuteczniej przekonuje oporne organizacje do podjęcia tematu.
+- **Compliance-check przy doradztwie (EU AI Act)**: sprawdź, czy używane przez organizację systemy nie wpadają w kategorię wysokiego ryzyka (Annex III, termin 2 grudnia 2027) i czy budując narzędzie na zewnętrznym LLM-ie nie przejmujesz obowiązków informacyjnych z Art. 25 — element do wpisania w umowy z dostawcami modeli. „Organizacja odpowiada za każdy output AI" (Fundraising Regulator) to mocny argument za polityką, szczególnie wobec grantodawców zagranicznych.
 - **Governance dla zarządu**: zasada „low touch, high value" + dashboard misji (zielony/żółty/czerwony) jako sposób, by rada nadzorcza ogarnęła AI bez wchodzenia w szczegóły techniczne; „najpierw ryzyko, potem kontrole" jako reguła kolejności dla organizacji bez zasobów na kosztowne błędy.
 - **Element kursu „Fundraising z AI"**: moduł o odpowiedzialnym wdrożeniu — pięć etapów dojrzałości + szablon polityki jako praca domowa uczestników.
 

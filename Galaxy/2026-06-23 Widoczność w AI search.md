@@ -5,7 +5,7 @@ tags:
   - content-marketing
   - digital-campaigning
 created: 2026-06-23
-updated: 2026-06-23
+updated: 2026-06-30
 relevance: wysoka
 sources:
   - "[[2025-07-30 Generative engine optimisation query]]"
@@ -16,6 +16,8 @@ sources:
   - "[[2026-03-10 We Analyzed 89K LinkedIn URLs Cited in AI Search Here's What Drives Visibility]]"
   - "[[2026-06-01 How Generative AI Is Redefining Visibility—And What Sales, Marketing, and Communications Leaders Must Do Now]]"
   - '[[2025-08-21 What is "AI Brand Footprint" How you show up in AI conversations]]'
+  - "[[2026-02-15 Generative AI Is Becoming the New Front Door — What That Means for Brands and Mission-Driven Organizations LinkedIn]]"
+  - "[[2026-01-20 SEO i AI w praktyce - case Big Star i LLMwatcher]]"
 ---
 
 # Widoczność w AI search (GEO / AEO)
@@ -42,13 +44,14 @@ Najmocniejszy pojedynczy mechanizm: **AI ufa zewnętrznym źródłom 6,5× bardz
 Co konkretnie zwiększa cytowalność: **front-loading faktów** (44% cytowań pochodzi z pierwszych 30% tekstu — najważniejsze wnioski na początku); **struktura nad laniem wody** (listy, tabele, FAQ — FAQ +40% szans na cytowanie, czytelna hierarchia nagłówków 2,8×); **gęstość faktów** (strony cytowane mają ~29% więcej konkretnych danych); **świeżość** (treść odświeżona w ostatnich 3 mies. cytowana 3× częściej; rekomendacja: refresh co 60–90 dni); **information gain** (unikalność, własne dane — nie masowa produkcja contentu). Zasada GEO w jednym zdaniu: ***„write for humans, structure for LLMs"***.
 
 **6. Dryft narracyjny i AI Brand Footprint — pomiar niewidzialnego**
-Organizacja może być aktywna w mediach, a mimo to **niewidoczna** w systemach AI kształtujących wczesny etap odkrywania. Gorzej — AI może opisywać ją **nieaktualnie lub niezamierzenie** (*dryft narracyjny*), wpływając na reputację, zanim ktokolwiek trafi na stronę. Tej ekspozycji nie łapią GA4 ani Search Console. Stąd pojęcie **AI Brand Footprint** (Whole Whale): miara, jak często i jak prominentnie marka pojawia się w odpowiedziach AI, szacowana reverse-engineeringiem (`Estimated AI Impressions = ruch z domen AI ÷ ~2% CTR`). Tylko 22% marketerów w ogóle monitoruje swoją widoczność w LLM — kto zacznie teraz, zyska przewagę jak we wczesnym SEO.
+Organizacja może być aktywna w mediach, a mimo to **niewidoczna** w systemach AI kształtujących wczesny etap odkrywania. Gorzej — AI może opisywać ją **nieaktualnie lub niezamierzenie** (*dryft narracyjny*), wpływając na reputację, zanim ktokolwiek trafi na stronę. AI to dziś **„nowa brama wejściowa"** (Wheeler, Save the Children US): pierwszy kontakt z organizacją coraz częściej zachodzi przez odpowiedź chatbota, nie przez stronę — a **luki narracyjne „zapełniają się same"**, bo model skonstruuje opis z dostępnych (często nieaktualnych) źródeł niezależnie od tego, czy organizacja aktywnie zarządza narracją. To czyni AI **kanałem reputacyjnym**, nie tylko kanałem ruchu. Tej ekspozycji nie łapią GA4 ani Search Console. Stąd pojęcie **AI Brand Footprint** (Whole Whale): miara, jak często i jak prominentnie marka pojawia się w odpowiedziach AI, szacowana reverse-engineeringiem (`Estimated AI Impressions = ruch z domen AI ÷ ~2% CTR`). Tylko 22% marketerów w ogóle monitoruje swoją widoczność w LLM — kto zacznie teraz, zyska przewagę jak we wczesnym SEO.
 
 ---
 
 ## Frameworki-kotwice
 
 - **GEO / AEO / „Search Everywhere Optimization"** — trzy nazwy tej samej dyscypliny: optymalizacja pod cytowanie przez LLM. Search Everywhere = widoczność w SERP + odpowiedziach AI + social search (TikTok, IG, YouTube).
+- **3 filary GEO (Wheeler)** — *Be the Source* (autorytatywny content własny pod realne pytania) → *Be in the Source* (earned media, partnerstwa, wzmianki jako materiał źródłowy modeli) → *Shape the Narrative* (fora, badania, publiczne wyjaśnienia kształtujące środowisko informacyjne AI). Zwięzła operacjonalizacja „85% cytowań spoza strony".
 - **Query fan-out** — model rozbija pytanie na mikro-zapytania; treść musi pokrywać każde; tytuł dopasowany semantycznie do podpytań decyduje o cytowaniu.
 - **AEO Framework (4 kroki, Bryan Neider)** — (1) priorytetyzacja inwestycji wg danych o zapytaniach, (2) precyzyjne tworzenie + odświeżanie (triggery co 60–90 dni, H1-H2-H3), (3) nowe KPI, (4) **System of Record** (jedno źródło prawdy o marce).
 - **Nowe KPI widoczności** — **Brand Visibility** (obecność w odpowiedziach), **Citation Rate** (częstość cytowań), **Share of Voice** (widoczność vs konkurencja) — zastępują pozycję w Google.
@@ -84,7 +87,7 @@ Organizacja może być aktywna w mediach, a mimo to **niewidoczna** w systemach 
 
 ## Otwarte pytania
 
-- Specyfika polskiego rynku: które silniki AI realnie dominują wczesne odkrywanie w PL i jak wygląda ich zachowanie cytowania treści po polsku (koszt polszczyzny, mniejszy korpus) — czy zachodnie benchmarki GEO się przenoszą?
+- Specyfika polskiego rynku: które silniki AI realnie dominują wczesne odkrywanie w PL i jak wygląda ich zachowanie cytowania treści po polsku (koszt polszczyzny, mniejszy korpus) — czy zachodnie benchmarki GEO się przenoszą? Pierwsze polskie sygnały, że GEO działa lokalnie: case [[Big Star]] regularnie cytowany przez ChatGPT/Claude/Gemini/Perplexity dzięki treści odpowiadającej na realne pytania (nie pod słowa kluczowe), a polski [[LLMwatcher]] daje monitoring widoczności marki w AI Overview i LLM — gotowe narzędzie audytu dla NGO, choć wciąż brakuje twardych benchmarków cytowalności po polsku.
 - Jak mierzyć AI Brand Footprint przy małym ruchu, gdzie formuła `ruch ÷ 2% CTR` rozsypuje się statystycznie — jaki proxy widoczności dla organizacji o kilkuset odbiorcach?
 - Gdzie leży punkt równowagi między „buduj własną stronę" a „85% cytowań i tak jest zewnętrzne" — w co NGO o ograniczonych zasobach powinno inwestować najpierw?
 - Trwałość vs taktyka: które zasady GEO są fundamentalne (autorytet, struktura, świeżość), a które znikną z kolejną zmianą silników (konkretne progi, formaty)?

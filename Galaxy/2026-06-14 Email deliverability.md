@@ -5,7 +5,7 @@ tags:
   - fundraising
   - automatyzacja
 created: 2026-06-14
-updated: 2026-06-22
+updated: 2026-06-30
 relevance: wysoka
 sources:
   - "[[2024-07-25 Email deliverability guide]]"
@@ -17,6 +17,8 @@ sources:
   - "[[2024-09-12 Why Your Emails Aren't Reaching The Inbox]]"
   - "[[2026-06-16 Send It Right - What to Do When You Have a Deliverability Issue]]"
   - "[[2026-06-18 Your email program is carrying more weight than ever]]"
+  - "[[2026-03-14 Inbox Placement Rates Aren t What You Think]]"
+  - "[[2026-02-24 Email Deliverability Trends 2026 Expert Insights and Predictions]]"
 ---
 
 # Email deliverability (dostarczalność maili)
@@ -33,8 +35,10 @@ Od 2024 roku Gmail i Yahoo egzekwują obowiązkowo dla nadawców masowych: SPF, 
 **2. Uwierzytelnianie — techniczny warunek wstępny**
 Trzy protokoły grają różne role: **SPF** (Sender Policy Framework) wskazuje, które IP mogą wysyłać w imieniu domeny; **DKIM** podpisuje wiadomość kryptograficznie, by odbiorca sprawdził, że treść nie została zmieniona; **DMARC** spina oba i mówi serwerowi, co robić z mailem, który nie przeszedł weryfikacji. DMARC wdraża się fazowo: `p=none` (monitorowanie, zbieranie raportów) → `p=quarantine` (do spamu) → `p=reject` (odrzucenie). Kluczowe: reputacja jest powiązana z **domeną, nie z IP** — zmiana ESP nie naprawi złych praktyk wysyłkowych. Rekordy wymagają też okresowej konserwacji, bo migracje IT czy nowe integracje potrafią je niezauważenie uszkodzić.
 
-**3. Trzy metryki, które naprawdę coś mówią**
+**3. Trzy metryki, które naprawdę coś mówią — ale rozróżnij sygnał bezpośredni od pochodnego**
 Panel ESP pokazuje "delivered" — to za mało. Liczą się: **Inbox Placement Rate (IPR%)** — odsetek maili w skrzynce głównej, mierzalny tylko zewnętrznymi narzędziami (seed testing), niedostępny w ESP; **Spam Placement Rate (SPR%)** — rośnie odwrotnie do IPR (open rate jest tu zawodnym zamiennikiem, szczególnie w B2B przez image blocking); **Spam Complaint Count (SCC#)** — ważna jest liczba bezwzględna i *velocity* (nagły klaster skarg z jednej kampanii), nie sam statyczny próg. Paradoks: stałe 0,00% skarg to zły znak — maile lądują wprost w spamie, gdzie nikt nie klika "to spam". Część sygnałów reputacyjnych (skargi, bounce, reputacja domeny w oczach Gmaila) daje za darmo **[[Google Postmaster Tools]]** — minimalny obowiązkowy monitoring dla każdego nadawcy masowego.
+
+Krytyczne dopowiedzenie (Meyer): IPR i SPR to **sygnały pochodne** ("prognoza pogody") — estymaty z seed-testów, nie odczyt rzeczywistości; adresy seed nie otwierają, nie klikają i nie zgłaszają spamu, więc estymata bywa fałszywie pozytywna lub negatywna, a Microsoft wręcz wrzuca część poczty do "czarnej dziury" bez sygnału. Wiarygodniejsze są **sygnały bezpośrednie** ("termometry"): bounce i kody odrzucenia, skargi przez feedback loops, reply/CTR/konwersje realnych odbiorców oraz darmowe dane reputacyjne z **[[Google Postmaster Tools]]** i **[[Microsoft SNDS]]**. Najmocniejsza tania diagnoza to **rozjazd open rate między dostawcami** (np. Gmail 32% vs Microsoft 4% przy tej samej kampanii = mail ląduje w spamie u Microsoftu) — czytelniejszy niż jakikolwiek seed-test. Zasada: żaden pojedynczy wskaźnik nie opowie całej historii — czytaj skargi, bounce, open-per-provider i reputację razem.
 
 **4. Reputacja to infrastruktura roczna, nie przedwysyłkowy checklist**
 Reputacji domeny nie da się zbudować w tydzień przed największą kampanią — buduje się przez cały rok. Sygnały pozytywne: otwarcia, kliknięcia, **odpowiedzi** (najsilniejszy), przeniesienie maila ze spamu do skrzynki. Negatywne: oznaczenie jako spam (najgroźniejsze), usuwanie bez otwierania, długotrwały brak zaangażowania. Stąd strategia dla **rzadkich/sezonowych nadawców** (NGO żyjące year-end appeals i GivingTuesday): (a) *inbox-first opt-in* — lead magnet dostarczany do skrzynki, nie na stronie, wymusza zaangażowany kontakt zaraz po zapisie; (b) *domain warming* uruchomiony min. 6 miesięcy przed szczytem; (c) wartościowy, niesprzedażowy content choćby raz w miesiącu, pod tym samym sender name. 20–100 zaangażowanych subskrybentów chroni reputację lepiej niż 5000 biernych kontaktów.
@@ -44,6 +48,9 @@ Nieaktywni subskrybenci aktywnie **szkodzą** reputacji — regularne wyciszanie
 
 **6. Gdy problem już wystąpił — proces naprawczy**
 Prewencja to jedno; gdy placement już spadł, Lauren Meyer proponuje trójstopniowy proces: (1) **zrozum skalę** — jak wykryto problem (spadek metryk, skargi odbiorców, alert ESP), czy dotyczy jednego providera czy wszystkich, czy to incydent izolowany; (2) **zdiagnozuj przyczynę** — ustal gdzie i kiedy się zaczął, przeanalizuj dane historyczne, sprawdź nagłówki i bounce'y (najlepiej z ESP/specjalistą); (3) **działaj** — napraw to, co w twojej mocy: autentykację, zbieranie listy, segmentację, treść. Większość przyczyn (niska jakość danych, źle zarządzana lista, ignorowane sygnały) leży po stronie nadawcy i jest w jego kontroli. Providerzy wybaczają jednorazowe błędy, ale długotrwałe zaniedbania wymagają **tygodni–miesięcy** naprawy. Budżet na naprawę argumentuj **w języku wpływu na wyniki finansowe**, nie technicznym — to działa na zarządy NGO.
+
+**7. Trajektoria 2026 — skrzynka rankowana przez AI i kara za generyczny AI-content**
+Prognoza 12 ekspertów (Bouncer, 2026) domyka kierunek: deliverability to **ciągła dyscyplina oparta na zaufaniu i zachowaniu**, nie jednorazowy setup. Trzy przesunięcia istotne operacyjnie: (a) **inbox rankowany przez AI** — o pozycji decydują trafność i czas, a tradycyjne metryki (open, CTR) tracą wartość jako sygnał jakości na rzecz głębszych wzorców (odpowiedzi, kliknięcia po przeczytaniu AI-streszczenia, długoterminowe zaangażowanie); (b) **„niewidzialny rozkład" listy** — baza starzeje się i eroduje reputację nawet przy zachowaniu wszystkich standardów technicznych i bez kupowania list, co czyni pruning i walidację obowiązkiem, nie opcją; (c) **kara za generyczny AI-messaging** — automatyzacja bez osądu produkuje treść generującą słabsze sygnały zaangażowania, więc *aktywnie szkodzi* reputacji. Wniosek dla NGO masowo wdrażających AI do pisania maili: generyczny output to nie tylko gorszy ton, ale realne ryzyko dostarczalności.
 
 ---
 
@@ -82,4 +89,4 @@ Prewencja to jedno; gdy placement już spadł, Lauren Meyer proponuje trójstopn
 
 - Jak praktycznie mierzyć IPR/SPR dla polskich providerów (Onet, WP, Orange), skoro większość narzędzi seed-testingowych celuje w Gmail/Outlook/Yahoo?
 - Gdzie leży granica opłacalności *domain warming* dla małej organizacji — kiedy taniej i bezpieczniej jest zbudować zaangażowanie organicznie niż płacić za platformę symulującą zachowania?
-- Jak AI zmieni filtrowanie po stronie odbiorcy (np. automatyczne kategoryzowanie i podsumowania w skrzynce) i co to znaczy dla "otwarcia" jako sygnału?
+- Jak AI zmieni filtrowanie po stronie odbiorcy (np. automatyczne kategoryzowanie i podsumowania w skrzynce) i co to znaczy dla "otwarcia" jako sygnału? Kierunek już widać (mechanizm 7): skrzynka rankowana przez AI degraduje open/CTR na rzecz trafności i interakcji po AI-streszczeniu — otwarte zostaje, jakie *zastępcze* sygnały zaangażowania staną się mierzalne dla nadawcy, skoro open rate się rozjeżdża, a IPR to tylko estymata.

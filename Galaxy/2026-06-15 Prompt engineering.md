@@ -5,7 +5,7 @@ tags:
   - narzędzia-AI
   - szkolenia-AI
 created: 2026-06-15
-updated: 2026-06-15
+updated: 2026-06-30
 relevance: wysoka
 sources:
   - "[[2025-06-22 9 ChatGPT & Claude Writing Tips (to get CRAZY GOOD outputs)]]"
@@ -14,6 +14,8 @@ sources:
   - "[[2025-10-19 An Opinionated Guide to Using AI Right Now]]"
   - "[[2025-09-29 Effective context engineering for AI agents]]"
   - "[[2025-07-28 Beyond Prompts How Context Engineering Could Revolutionize Your Nonprofit AI Workflows]]"
+  - "[[2025-12-02 AI, która doskonali twoją pracę z AI]]"
+  - "[[2025-07-31 A prompt that builds your landing page (by asking the right questions)]]"
 ---
 
 # Prompt engineering (projektowanie promptów)
@@ -43,7 +45,10 @@ Nie łącz 8 zadań w jednym prompcie. Złożone zadanie rozbij na **sekwencję 
 - **Wyraźna instrukcja formatu na końcu** — dokładnie opisz oczekiwaną strukturę, kolejność, liczbę elementów.
 
 **5. Iteracja promptu *razem z* modelem (meta-prompting)**
-Gdy output jest słaby, nie zgaduj — zapytaj model: „Zauważyłem [konkretny problem]. Co dodać do promptu, by to wyeliminować?". AI potrafi zdiagnozować własne błędy i zaproponować poprawki, które wbudowujesz z powrotem. Narzędziowo: **meta-prompter w [[Anthropic Console]]** generuje zoptymalizowany prompt XML z opisu w prostym języku i ma tryb „improve existing prompt". To zamienia kiepski prompt w niezawodny system.
+Gdy output jest słaby, nie zgaduj — zapytaj model: „Zauważyłem [konkretny problem]. Co dodać do promptu, by to wyeliminować?". AI potrafi zdiagnozować własne błędy i zaproponować poprawki, które wbudowujesz z powrotem. Narzędziowo: **meta-prompter w [[Anthropic Console]]** generuje zoptymalizowany prompt XML z opisu w prostym języku i ma tryb „improve existing prompt"; analogicznie działają **Claude Prompt Improver** i **ChatGPT Prompt Optimizer**. Lekcja nadrzędna (Śliwowski): śledzenie list „100 najlepszych promptów" to zbędna praca — zamiast kolekcjonować cudze prompty, zrozum dwa procesy (instrukcja + [[2026-06-15 Context engineering|kontekst]]) i **używaj AI do poprawiania własnych**. To zamienia kiepski prompt w niezawodny system.
+
+**7. Meta-prompt procesowy — najpierw wywiad, potem generacja (Carr)**
+Odwrotność „jednego wielkiego promptu": zamiast wrzucać wszystkie wymagania naraz, każ modelowi **przeprowadzić ustrukturyzowany wywiad** — AI zadaje 5–6 pytań pojedynczo (co, dla kogo, korzyści, USP, cena, CTA), a dopiero na końcu składa gotowy prompt/efekt. Sekwencja wymusza klarowność i eliminuje generyczne copy, bo model pracuje na konkretach, nie na domysłach. Wzorzec jest przenośny (ten sam meta-prompt działa dla różnych klientów/produktów) i łączy się z singular/modular: pytania to dekompozycja *przed* wykonaniem. Voice-to-text przyspiesza odpowiadanie w trybie wywiadu — rozmowa naturalniejsza niż pisanie.
 
 **6. Framing delegowania i role — w tym walka z sycophancy**
 Skuteczny framing: „deleguj jak bardzo zdolnemu członkowi zespołu — im jaśniejsze instrukcje i więcej tła, tym lepszy wynik". Przypisanie modelowi **roli** kieruje zachowaniem. Ważne nowe ryzyko ([[Ethan Mollick]]): **sycophancy** — model potakuje użytkownikowi zamiast krytykować, co szczególnie szkodzi przy recenzji dokumentów. Antidotum jest promptowe: *wprost* poproś AI o rolę krytyka.
@@ -84,6 +89,6 @@ Skuteczny framing: „deleguj jak bardzo zdolnemu członkowi zespołu — im ja�
 ## Otwarte pytania
 
 - Gdzie przebiega granica, za którą doszlifowywanie promptu przestaje się opłacać i trzeba przejść do context engineeringu (stały kontekst, retrieval) albo zmiany modelu — jak rozpoznać ją zawczasu?
-- Czy prompt engineering to trwała kompetencja, czy umiejętność przejściowa, którą modele „zjedzą", coraz lepiej domyślając się intencji z lakonicznego polecenia?
+- Czy prompt engineering to trwała kompetencja, czy umiejętność przejściowa, którą modele „zjedzą", coraz lepiej domyślając się intencji z lakonicznego polecenia? Sygnał kierunku (Śliwowski): w modelach rozumujących sama instrukcja jest „coraz mniej decydująca", a ciężar przesuwa się na [[2026-06-15 Context engineering|kontekst]] i grounding — co sugeruje, że *werbalizacja zadania* zostaje, ale *mikrooptymalizacja sformułowań* faktycznie się dewaluuje.
 - Jak nauczyć pracownika NGO „werbalizować własny proces", skoro wiele zadań wykonuje się wiedzą milczącą (tacit) — od czego zacząć dekompozycję?
 - Jak odróżnić prompt, który *naprawdę* poprawił wynik, od złudzenia poprawy wzmocnionego przez sycophancy modelu chwalącego każdą zmianę?

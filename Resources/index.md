@@ -1818,7 +1818,6 @@
 - [[2026-03-19 What 81,000 people told AI about their deepest fears]] — Anthropic: 80K rozmów Claude w 159 krajach — nadzieje i lęki wobec AI współistnieją jako napięcie wewnątrz jednej osoby.
 - [[2026-03-19 What a gluten-free pancake stack taught me about hope]] — Kutcher: masterclass storytellingu emocjonalnego — autentyczność o osobistej stracie buduje głębszą więź z czytelnikami.
 - [[2026-03-19 [30 Day Growth Challenge] Day 4- Grow Your Email List With Online Petitions]] — Jess Campbell dzień 4: petycje online przez Action Network lub Civic Shout jako magnes setek subskrybentów.
-- [[2026-03-19 Poza feedem. Jak mikrospołeczności i newslettery zmieniają sposób bycia w Internecie?]] — Trendy: mikrowersy i cozy Internet jako odpowiedź na zmęczenie algorytmami; newslettery i kurator treści jako strategia dla organizacji społecznych.
 - [[2026-03-20 Człowiek wartością premium. Jak nie wpaść w mit taniego AI]] — Debata Okulska/Holoubek: AI jako narzędzie cięcia kosztów to pułapka — realna transformacja chroni kompetencje ludzkie.
 - [[2026-03-20 The Center for Humane Technology s New Website]] — Tectonica: strona CHT jako infrastruktura ruchu — architektura dla wielu typów odbiorców: decydenci, rodzice, media, donatorzy.
 - [[2026-03-20 Where Does Your Foundation Stand on AI Introducing the AI Journey Map for Philanthropy]] — Project Evident: AI Journey Map dla filantropii — framework oceny dojrzałości AI fundacji od eksploracji do zarządzania.
@@ -2622,3 +2621,4 @@
 - [[2026-06-24 How a Former NYU Professor Uses Claude Code]] — Allie K Miller × Andrea Jones-Rooy: bariera adopcji agentów jest psychologiczna, nie techniczna; context layer i evale jako dwa filary samouczącej się organizacji; AI jako sensor mierzący problem; „urgency is poison" i ciekawość jako umiejętność przetrwania.
 - [[2026-06-25 Major Donor Stewardship on Just 10 Hours a Week]] — Rob Burke: 6-krokowy system pracy z darczyńcami kluczowymi w 10 godzin tygodniowo — lista top 30, stały slot, multi-touch cadence i CRM jako fundament pipeline major gifts.
 - [[2026-06-29 Pulse of the Donor 2026 Fundraising Benchmarks & Giving Trends]] — FundraiseUp: benchmarki fundraisingowe 2025 (4 rynki) — TikTok liderem cyklicznych, Facebook konwersją, AI +10-15% przychód, mobile >50% w 3 rynkach.
+- [[2026-06-30 She didn't expect THAT to happen]] — Jess Campbell: case study Virtual Impact Gathering — niskozasobowe spotkanie Zoom z darczyńcami jako taktyk budowania relacji i fundraisingu; 50 RSVP, 17 live, 27 replay, $500 darowizny.

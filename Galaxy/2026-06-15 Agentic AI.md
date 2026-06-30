@@ -5,7 +5,7 @@ tags:
   - narzędzia-AI
   - organizacje-społeczne
 created: 2026-06-15
-updated: 2026-06-26
+updated: 2026-06-30
 relevance: wysoka
 sources:
   - "[[2026-05-01 Understanding Agentic AI What It Means for Not-for-Profits]]"
@@ -16,6 +16,8 @@ sources:
   - "[[2026-06-04 Autonomous Supply Chain Why Agentic AI Is Rewriting the Operating Model]]"
   - "[[2026-06-10 The evolution of agentic surfaces building with Claude Managed Agents]]"
   - "[[2026-06-24 How a Former NYU Professor Uses Claude Code]]"
+  - "[[2025-03-24 From career coaching to farming - how two NGOs are driving change with agentic AI]]"
+  - "[[2025-07-01 Szefowo, Szefie - Wasz nowy Zespół to Agentic AI. Jesteście gotowi by nim skutecznie zarządzać]]"
 ---
 
 # Agentic AI (AI agentowe / autonomiczne agenty)
@@ -34,6 +36,8 @@ Trzy poziomy dojrzałości pracy z AI: pojedynczy prompt → system promptów �
 
 **3. Człowiek „w pętli" → „ponad pętlą" (in/above the loop)**
 Najważniejsze przesunięcie roli człowieka (McKinsey): **in the loop** — agent wykonuje fragmenty procesu, człowiek inne; **above the loop** — agent realizuje proces end-to-end, a człowiek wnosi **osąd i weryfikację na poziomie meta**. To nowy standard kompetencji: szkolenia powinny budować *oversight i ocenę*, nie obsługę narzędzi. „Nie zostaniesz zastąpiony przez AI — ale przez kogoś, kto zaadoptuje je wcześniej".
+
+Zarządzanie agentem to **teoria agencji** w nowej skali (Staniszewski, za Jensenem i Mecklingiem): relacja lider–agent replikuje problem pryncypał–agent (rozbieżność celów + trudność monitorowania + niesymetria informacji), z nowym wariantem **moral hazard** — agent zrealizuje KPI metodami niezgodnymi z intencją, jeśli nie zostały *explicite zakazane* w instrukcji systemowej. Stąd pięć kompetencji „lidera agentów": (1) precyzja celów (KPI jednoznaczne „jak kod", z zabezpieczeniem przed nadoptymalizacją), (2) architektura zaufania i governance (kontrola przez projekt środowiska, nie mikrozarządzanie), (3) orkiestracja wieloagentowa (kto, do jakich danych, kiedy sam, kiedy wzywa człowieka), (4) gotowość na zachowania emergentne, (5) audyt i **explainability** (monitoruj proces, nie tylko wynik). Kierunek dojrzałości (Microsoft Work Trend Index): *human with assistant* → *zespoły human-agent* → *human-led, agent-operated*.
 
 **4. Wąskim gardłem jest gotowość, nie dokładność modelu**
 Barierą skalowania są **zaufanie, wyjaśnialność i fragmentacja systemów**, nie celność AI. Dane-kotwice: >80% bez ROI, ~90% w pilotażu, 75% ról wymaga przeprojektowania. Lekcja: **przeprojektowanie całego workflow end-to-end** daje nieporównanie więcej niż wdrożenia punktowe (point solutions) — szukaj *procesów* do reimaginacji, nie pojedynczych zadań. Dwa filary gotowości (Welsch): **dane** (zacznij tam, gdzie masz czyste i dostępne) + **ludzie** (przestrzeń do eksperymentu bez strachu przed zastąpieniem).
@@ -63,7 +67,9 @@ Praktyczny wzorzec organizacji wielu agentów u jednej osoby: **każdy agent to 
 - **Agency > agents (Verna)** — dwa blokery prędkości: dostęp uzależniony od tytułu, decyzje tylko u bossów.
 - **3 zdolności autonomicznego procesu (SAP)**: organizational intelligence + contextual data + embedded execution; cykl cnoty: lepsze dane → decyzje → procesy → bogatsze dane.
 - **Stos agentowy (Anthropic)** — Messages API → Agent SDK → Managed Agents; „mózg" (harness) oddzielony od „rąk" (sandbox); bariera produkcyjna = infrastruktura, nie model.
-- **Liczby-kotwice**: >80% bez ROI, ~90% w pilotażu, 75% ról do redesignu, ~50% pracowników w shadow AI, agentic +20–30% efektywności zakupów (kontekst korporacyjny).
+- **Model wdrożenia w NGO „human-in-the-loop → autonomia" (CareerVillage, Digital Green)** — etap 1: każda komunikacja z beneficjentem zatwierdzana przez człowieka → etap 2: agent działa bezpośrednio w miarę wzrostu niezawodności → etap 3: pełna autonomia w zadaniach niskostawkowych (eksport danych, rejestracje). Ekonomika odwrócona vs sektor komercyjny: nie chodzi o efektywność, lecz o dotarcie do beneficjentów, których bez AI nie byłoby stać.
+- **5 kompetencji lidera agentów + teoria agencji (Staniszewski)** — precyzja celów / governance / orkiestracja / gotowość na emergencję / audyt+explainability; „moral hazard": agent optymalizuje KPI metodami spoza intencji, jeśli nie zakazane explicite.
+- **Liczby-kotwice**: >80% bez ROI, ~90% w pilotażu, 75% ról do redesignu, ~50% pracowników w shadow AI, agentic +20–30% efektywności zakupów (kontekst korporacyjny). NGO (CareerVillage/Digital Green): koszt interakcji **$0,03–0,10**; Farmer.Chat — dochody rolników **+30–40%**; koszt szkolenia z praktyki **$35 (stacjonarnie) → $3,50 (wideo) → $0,35 (AI)**.
 
 ---
 
@@ -86,6 +92,8 @@ Praktyczny wzorzec organizacji wielu agentów u jednej osoby: **każdy agent to 
 - **Argument „agency > agents" dla zespołów i wolontariuszy**: w płaskich, zaufaniowych organizacjach społecznych autonomia ludzi jest dźwignią większą niż same agenty; uzasadnienie dla delegowania decyzji tam, gdzie jest kontekst.
 - **Safe sandbox zamiast zakazu**: rekomendacja dla organizacji, w której „zespół już używa AI" — kontrolowane środowisko eksperymentów redukuje shadow AI i ryzyko RODO lepiej niż zakaz.
 - **Realizm wdrożeniowy**: dane o ~90% utkniętych pilotażach to uczciwy kontrargument wobec hype'u — agentic wymaga gotowości danych, ludzi i governance, nie tylko zakupu narzędzia.
+- **Case'y do pokazania zarządowi**: CareerVillage (coaching dla nastolatków w 190 krajach) i Digital Green Farmer.Chat (rolnicy +30–40% dochodu) jako dowód, że agentic w NGO to nie teoria — z gotowym modelem wdrożenia „human-in-the-loop → autonomia" i twardą ekonomiką ($0,03–0,10 za interakcję). Argument nie „taniej", lecz „w ogóle możliwe" — skala usług niedostępna bez AI.
+- **Moduł „zarządzanie agentami"**: dla liderów organizacji — 5 kompetencji i „moral hazard" (agent realizuje cel metodą spoza intencji) jako rama, dlaczego instrukcja systemowa musi *explicite zakazywać*, a nadzór = projektowanie środowiska, nie mikrozarządzanie.
 
 ---
 

@@ -5,7 +5,7 @@ tags:
   - LLM
   - narzędzia-AI
 created: 2026-06-15
-updated: 2026-06-26
+updated: 2026-06-30
 relevance: wysoka
 sources:
   - "[[2025-09-29 Effective context engineering for AI agents]]"
@@ -17,6 +17,7 @@ sources:
   - "[[2026-05-22 The One AI Writing Hack Nobody Talks About.]]"
   - "[[2026-06-20 Piotr, zero razy tysiąc to dalej... zero]]"
   - "[[2026-06-24 How a Former NYU Professor Uses Claude Code]]"
+  - "[[2026-02-03 How to build AI product sense]]"
 ---
 
 # Context engineering (projektowanie kontekstu)
@@ -87,7 +88,8 @@ Obok minimalistycznego okna pojedynczego wywołania istnieje druga, makro-warstw
 - **SCOPE jako usługa wdrożeniowa**: gotowy, wdrażalny przewodnik dla klienta NGO — start od 3 najczęściej tworzonych treści (propozycje grantowe, newslettery, raporty), zbudowanie dla nich bazy kontekstu, pomiar oszczędności czasu. Mała organizacja może zacząć od 3 dokumentów.
 - **Szkolenia z AI dla organizacji**: framework trzech poziomów delegowania to gotowe narzędzie dydaktyczne — pokazuje uczestnikom, dlaczego „lepszy prompt" to ślepa uliczka, a inwestycja w kontekst (onboarding AI w organizację) zwraca się wielokrotnie. Mocny przekaz: context > model.
 - **Argument sprzedażowy / strategiczny**: „warstwa kontekstu to fosa" — przy doradztwie warto pokazać, że trwała przewaga (i trudność zastąpienia narzędzia) leży w jakości kontekstu, nie w dostępie do modelu, który ma każdy.
-- **Higiena pamięci agenta**: parametr długości okna pamięci (np. Simple Memory w [[n8n]]) to konkretna decyzja projektowa — zbyt mały kontekst = „złota rybka", zbyt duży = koszt i context rot; wartość dobiera się do charakteru aplikacji.
+- **Higiena pamięci agenta**: parametr długości okna pamięci (np. Simple Memory w [[n8n]]) to konkretna decyzja projektowa — zbyt mały kontekst = „złota rybka", zbyt duży = koszt i context rot; wartość dobiera się do charakteru aplikacji. Plik pamięci (`AGENTS.md`/`CLAUDE.md`) dołączany na starcie każdej rozmowy też *zajmuje* okno — to nie „darmowy" kontekst, lecz koszt do zważenia.
+- **Nauka przez robienie (Raviv)**: najszybsza droga do „product sense" wokół kontekstu to codzienne używanie coding-agentów ([[Claude Code]], [[Cursor]]) do pracy niemerytorycznej (strategia, analiza danych) — bo „pokazują pracę": widać reasoning, wywołania narzędzi i **zapełniające się okno kontekstu**, więc context rot, subagenty, RAG i pamięć agenta przestają być abstrakcją. Gotowy format szkoleniowy: zbuduj z uczestnikami lekki „Personal OS" (foldery `Knowledge/`, `Tasks/`, `GOALS.md` + `AGENTS.md`), gdzie każda sesja rozbudowuje bazę zamiast żyć w historii czatu — żywy wzorzec stałego rdzenia + eksploracji na żądanie.
 
 ---
 

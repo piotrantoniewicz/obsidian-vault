@@ -5,6 +5,9 @@ url: "https://blog.charityengine.net/psychology-of-giving?utm_campaign=Weekly%20
 published: 2023-01-31
 created: 2026-06-30
 tags:
+  - "fundraising"
+  - "framing"
+  - "organizacje-społeczne"
 ---
 
 

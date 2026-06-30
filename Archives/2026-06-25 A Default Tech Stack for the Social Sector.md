@@ -5,6 +5,9 @@ url: "https://theagencyfund.substack.com/p/a-default-tech-stack-for-the-social?r
 published: 2026-06-25
 created: 2026-06-30
 tags:
+  - "strategia-AI"
+  - "narzędzia-AI"
+  - "organizacje-społeczne"
 ---
 
 

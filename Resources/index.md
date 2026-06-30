@@ -61,6 +61,7 @@
 - [[2022-07-20 Grow your podcast audience from scratch 15 practical strategies to get you started]] — 15 strategii budowania widowni podcastu: dystrybucja wieloformatowa, wymiana odcinków, budowanie społeczności.
 - [[2022-08-09 Darmowe banki wideo i animacji - skąd brać zasoby do filmów, prezentacji, stron WWW]] — Przegląd darmowych serwisów z klipami wideo i animacjami (Pexels, Lottie Files) z wyjaśnieniem licencji.
 - [[2022-08-25 Notion - jeden notatnik by rządzić wszystkimi]] — Notion jako all-in-one dla NGO: bazy danych, Kanban, porównanie z Obsidianem i rady dotyczące wdrożenia.
+- [[2022-09-13 8 Tips to Get Started with Nonprofit Storytelling]] — Pamela Grow: 8 technik storytellingu dla NGO — repurposing, serializacja, historia założyciela, bank historii i darczyńca jako narrator.
 - [[2022-09-19 Mentimeter - jak tworzyć interaktywne prezentacje i quizy]] — Mentimeter do interaktywnych warsztatów: rodzaje interakcji, integracje z Zoom i porównanie z konkurencją.
 - [[2022-09-30 10 sposobów na usprawnienie marketingu w NGO]] — 10 zasad efektywnego marketingu NGO: SMART, recykling treści, archetypy marki i LinkedIn dla fundraiserów.
 - [[2022-10-18 Mission → Vision → Strategy → Goals → Roadmap → Task]] — Lenny Rachitsky wyjaśnia hierarchię planowania strategicznego od misji po zadania na przykładach Tesli i Ubera.
@@ -72,6 +73,7 @@
 - [[2023-01-03 Event Planning for Nonprofits A Complete Guide]] — Charity Engine: kompleksowy przewodnik po eventach NGO — typologia wydarzeń, P2P, zarządzanie wolontariuszami i lista kontrolna po evencie.
 - [[2022-12-14 Cyfrowe odgracanie, czyli jak okiełznać nowe technologie bez przechodzenia na cyfrowy detoks]] — 30-dniowa metoda Cala Newporta: świadomy przegląd stosu narzędzi zamiast radykalnego detoksu cyfrowego.
 - [[2023-01-12 Po co właściwie wrzucasz ten post Wyznaczanie celów czyli marketing społeczny od wizji do realizacji]] — Framework Wizja → Misja → Cele SMART i lejek konwersji jako struktura strategii marketingowej NGO.
+- [[2023-01-31 Leverage The Psychology of Giving to Increase Donations]] — Aloma (CharityEngine): psychologia darczyńcy — System 1/2, Story of One, donor-centric i retencja jako priorytet nad akwizycją.
 - [[2023-02-07 Podcast Listeners Continue To Be Action-Focused When It Comes To The Ads They Hear]] — Acast 2023: 95% słuchaczy podcastów podejmuje działanie po reklamie; pre-recorded dogania host-read ads.
 - [[2023-02-13 Email Design Best Practices for 2026]] — GetResponse / Leszczynski: 18 praktyk projektowania emaili obejmujących kopertę, układ, responsywność mobilną, dostępność i tryb ciemny jako narzędzia konwersji.
 - [[2023-02-21 Sztuczna Inteligencja – gra o edukacyjny tron]] — AI w edukacji: personalizacja, automatyzacja i nowa rola trenera jako projektanta promptów i kuratora procesu.
@@ -730,6 +732,7 @@
 - [[2025-09-02 Is your IP helping...or hurting]] — Civic Shout: shared IP dla NGO poniżej 100k wysyłek; DoSomething.org: 4x wyższy CTR po migracji na dedicated.
 - [[2025-09-02 Moje TOP narzędzia AI na wrzesień 2025]] — Stack AI Burnejki: Claude Opus + Manus + multi-model Deep Research i technika mapowania scenariuszy decyzyjnych.
 - [[2025-09-02 Nonprofit Marketing Agency]] — Kultura eksperymentowania NGO: 365% wzrost sustainerów przez domyślne ustawienie monthly giving na formularzu.
+- [[2025-09-02 Nonprofits face a tough funding landscape. They hope better storytelling will bring more donations]] — AP/Gamboa: Elevate Studios i case study Brilliant Cities (7k → 100k USD) jako dowód na ROI video storytellingu dla NGO.
 - [[2025-09-03 Equimundo]] — Case study Equimundo: mniejsza lista + 2x więcej emaili = +31,3% click rate; obalenie mitu rzadkiego wysyłania.
 - [[2025-09-03 Event coming up - How to de-dupe spreadsheets]] — Usuwanie duplikatów w Google Sheets przed eventem jako fundament czystej bazy danych i sprawnego check-inu.
 - [[2025-09-03 Instagram 2025 co nowego i jak Twoja organizacja może na tym skorzystać]] — Nowości Instagrama 2025: Instagram Edits faworyzowany przez algorytm, indeksacja przez Google, pionowa siatka.
@@ -2620,5 +2623,9 @@
 - [[2026-06-24 Be Unique What Young Artists Taught Me About Leading People in the Age of AI]] — Bryan Neider: refleksja z wystawy młodych artystów jako argument za przywództwem opartym na cura personalis — AI jako narzędzie do eliminacji drudgery, nie zamiennik ludzkiej obecności i sensu.
 - [[2026-06-24 How a Former NYU Professor Uses Claude Code]] — Allie K Miller × Andrea Jones-Rooy: bariera adopcji agentów jest psychologiczna, nie techniczna; context layer i evale jako dwa filary samouczącej się organizacji; AI jako sensor mierzący problem; „urgency is poison" i ciekawość jako umiejętność przetrwania.
 - [[2026-06-25 Major Donor Stewardship on Just 10 Hours a Week]] — Rob Burke: 6-krokowy system pracy z darczyńcami kluczowymi w 10 godzin tygodniowo — lista top 30, stały slot, multi-touch cadence i CRM jako fundament pipeline major gifts.
+- [[2026-06-25 A Default Tech Stack for the Social Sector]] — The Agency Fund: zweryfikowany stack AI dla NGO z małymi zespołami IT — n8n, Langfuse, OpenRouter, Glific i Claude Code jako domyślne narzędzia sektora.
 - [[2026-06-29 Pulse of the Donor 2026 Fundraising Benchmarks & Giving Trends]] — FundraiseUp: benchmarki fundraisingowe 2025 (4 rynki) — TikTok liderem cyklicznych, Facebook konwersją, AI +10-15% przychód, mobile >50% w 3 rynkach.
+- [[2026-06-29 Jak zacząć automatyzację w firmie? Które procesy warto usprawnić? Brunka&Aniserowicz Procesy Jutra]] — Mikołaj Brunka (Procesy Jutra): framework lejka wyboru — cel → dział → proces → narzędzie; cztery kryteria selekcji procesu i cztery poziomy automatyzacji.
 - [[2026-06-30 She didn't expect THAT to happen]] — Jess Campbell: case study Virtual Impact Gathering — niskozasobowe spotkanie Zoom z darczyńcami jako taktyk budowania relacji i fundraisingu; 50 RSVP, 17 live, 27 replay, $500 darowizny.
+- [[2026-06-30 What happens when a recurring charge fails]] — Civic Shout: dlaczego wygasłe karty cicho drenują darczyńców cyklicznych (71% retencji rocznej, LTV $594) i czteropunktowy checklist (retry, e-mail recovery, card updater, elastyczność daru) do wdrożenia w jeden dzień.
+- [[2026-06-30 5 Wniosków o AI w MŚP Po 300+ Konsultacjach]] — wPraktyce.AI: wnioski z 300+ konsultacji wdrożeniowych AI — dlaczego brak fundamentu (uporządkowanych danych i zmapowanych procesów) zabija wdrożenia, framework MVP i ćwiczenie mapowania procesów.

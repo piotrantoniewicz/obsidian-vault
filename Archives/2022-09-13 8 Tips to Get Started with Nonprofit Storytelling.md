@@ -5,6 +5,9 @@ url: "https://blog.charityengine.net/nonprofit-storytelling?utm_campaign=Weekly%
 published: 2022-09-13
 created: 2026-06-30
 tags:
+  - "fundraising"
+  - "content-marketing"
+  - "organizacje-społeczne"
 ---
 
 

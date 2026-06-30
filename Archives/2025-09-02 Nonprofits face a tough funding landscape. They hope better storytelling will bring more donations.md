@@ -5,6 +5,9 @@ url: "https://apnews.com/article/elevate-studios-brilliant-cities-eggleton-nonpr
 published: 2025-09-02
 created: 2026-06-30
 tags:
+  - "fundraising"
+  - "content-marketing"
+  - "organizacje-społeczne"
 ---
 
 

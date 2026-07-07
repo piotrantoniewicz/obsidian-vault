@@ -5,7 +5,7 @@ tags:
   - organizacje-społeczne
   - strategia-organizacji
 created: 2026-07-06
-updated: 2026-07-06
+updated: 2026-07-07
 relevance: wysoka
 sources:
   - "[[2025-09-02 AI Act & RODO 2025 Przewodnik po regulacjach UE karach i compliance]]"
@@ -53,6 +53,7 @@ Ponad **60% pracowników używa narzędzi AI bez wiedzy przełożonych** (Shadow
 - [[2026-06-14 RAG|RAG]] — architektoniczna odpowiedź na dylemat prywatności: wiedza organizacji w bazie u klienta, model za DPA, opcjonalnie całość offline; „bezpieczniejsza ścieżka" dla danych beneficjentów.
 - [[2026-06-15 Agentic AI|Agentic AI]] — im więcej autonomii, tym ostrzejsze pytania o podstawę prawną i nadzór: human-in-the-loop przy danych wrażliwych to wymóg, nie opcja.
 - [[AI Act]] — europejska regulacja systemów AI wg poziomów ryzyka (zakazy, systemy wysokiego ryzyka, obowiązki podmiotu stosującego); kandydat na osobną stronę (czerwony link — backlog).
+- [[2026-07-07 Suwerenność technologiczna|Suwerenność technologiczna]] — modele lokalne i architektura „model vs wiedza" to nie tylko compliance, lecz element szerszej niezależności od dostawców, których warunki (i dostępność) mogą się zmienić z dnia na dzień.
 
 ---
 

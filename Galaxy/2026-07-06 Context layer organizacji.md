@@ -5,7 +5,7 @@ tags:
   - strategia-AI
   - strategia-organizacji
 created: 2026-07-06
-updated: 2026-07-06
+updated: 2026-07-07
 relevance: wysoka
 sources:
   - "[[2026-06-24 How a Former NYU Professor Uses Claude Code]]"
@@ -53,6 +53,7 @@ Warstwa kontekstu zawiera najcenniejsze (i najwrażliwsze) dane organizacji, wi�
 - [[2026-07-06 RODO i dane wrażliwe|RODO i dane wrażliwe]] — warstwa pełna danych osobowych i wrażliwych: „nagrywaj wszystko" wymaga protokołów zgody, minimalizacji na wejściu do modeli i architektury „model vs wiedza".
 - [[2026-06-13 Wdrażanie AI w organizacji społecznej|Wdrażanie AI w organizacji społecznej]] — filar gotowości danych w praktyce: „AI odsłania istniejące słabości", a warstwa kontekstu to systemowa odpowiedź zamiast łatania per narzędzie.
 - [[2026-07-06 LLM Wiki|LLM Wiki]] — treściowa realizacja warstwy po stronie wiedzy syntetycznej: encyklopedia pojęć budowana przez LLM-bibliotekarza (metoda Karpathy'ego) nad surowym archiwum.
+- [[2026-07-07 Suwerenność technologiczna|Suwerenność technologiczna]] — rama infrastrukturalna decyzji „gdzie leży warstwa": jurysdykcja bije geografię (CLOUD Act), a suwerenność modelu (wymienialność bez utraty eksperta w warstwie) to argument za trzymaniem kontekstu u siebie.
 
 ---
 

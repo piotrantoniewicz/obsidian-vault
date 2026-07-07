@@ -5,7 +5,7 @@ tags:
   - strategia-organizacji
   - content-marketing
 created: 2026-06-25
-updated: 2026-06-30
+updated: 2026-07-07
 relevance: wysoka
 sources:
   - "[[2026-05-12 why newsletter ghostwriting (time to forget LinkedIn)]]"
@@ -34,7 +34,7 @@ Zasób wynajęty znika na trzy sposoby, niezależne od jakości treści:
 - **Ban / likwidacja platformy** — całkowita utrata relacji z dnia na dzień, bez prawa do eksportu.
 
 **2. Asymetria zasobu: trwałość i przenośność**
-Lista to **aktyw biznesowy** — trwały, eksportowalny (CSV), niezależny od pośrednika. Stąd w ghostwritingu klient z listą jest „inherently more stable, more long-term, more reliable", a newsletter ghostwriting wycenia się wyżej ($3–10K/mc) niż social. Operacyjna konsekwencja: **zawsze wybieraj narzędzie z eksportem listy**; przy każdej obecności na platformie planuj „drogę wyjścia" — eksport kontaktów i treści *zanim* będą potrzebne ([[Kamil Śliwowski]]: dane należą do użytkownika niezależnie od decyzji o pozostaniu).
+Lista to **aktyw biznesowy** — trwały, eksportowalny (CSV), niezależny od pośrednika. Stąd w [[2026-07-07 Ghostwriting|ghostwritingu]] klient z listą jest „inherently more stable, more long-term, more reliable", a newsletter ghostwriting wycenia się wyżej ($3–10K/mc) niż social. Operacyjna konsekwencja: **zawsze wybieraj narzędzie z eksportem listy**; przy każdej obecności na platformie planuj „drogę wyjścia" — eksport kontaktów i treści *zanim* będą potrzebne ([[Kamil Śliwowski]]: dane należą do użytkownika niezależnie od decyzji o pozostaniu).
 
 Ta sama logika rozciąga się z *publiczności* na *technologię i dane*: pytanie „najemca czy właściciel?" (Krikorian, CTO [[Mozilla]]) ma trzy kryteria oceny dowolnego narzędzia AI/platformy — **(1) po czyjej stronie jest ta technologia? (2) czy masz „exit ramp", czyli możliwość zabrania tego, co zbudujesz? (3) kto odpowiada, gdy coś się psuje?** Postawa pragmatyczna, nie purystyczna: *„nie bądź męczennikiem — używaj najlepszych narzędzi teraz, ale świadomie i z zachowaną możliwością zmiany kursu"*. „Decyzje są podejmowane za nas, a nie z nami — i tak właśnie stajemy się najemcami, jeśli nie działamy celowo".
 
@@ -68,7 +68,7 @@ Uzależnienie od kanału wynajętego deformuje też pomiar: organizacje **mierz�
 - [[2026-06-13 Stewardship]] / [[2026-06-12 Recurring giving]] — relacja długoterminowa z darczyńcą wymaga kanału, którego nikt nie może odciąć; owned audience to warunek infrastrukturalny retencji.
 - [[2026-06-13 Peer-to-peer fundraising]] — ciekawy kontrapunkt: P2P celowo *pożycza* publiczność ambasadora (proxy trust), ale przez własny system, nie przez platformę — pożyczasz zaufanie, nie tracąc kontroli nad kanałem.
 - [[2026-06-15 Pokolenia darczyńców]] — napięcie funnela: młodsze kohorty żyją w kanałach wynajętych; pytanie strategiczne brzmi, jak je stamtąd „przeprowadzić" do własnej bazy.
-- [[Suwerenność technologiczna]] — szersza rama: niezależność od big techu i własność infrastruktury cyfrowej organizacji (czerwony link — backlog).
+- [[2026-07-07 Suwerenność technologiczna|Suwerenność technologiczna]] — szersza rama: niezależność od big techu i własność infrastruktury cyfrowej organizacji. Czerwony link zrealizowany.
 - [[2026-06-29 Higiena listy]] — własny kanał trzeba utrzymywać, by pozostał aktywem, a nie kosztem reputacji: suppression, segmentacja zaangażowania i świadome zarządzanie wypisaniami.
 - [[Mobilizacja cyfrowa]] — owned audience jako baza, z której uruchamia się działanie, nie tylko komunikację (czerwony link — backlog).
 

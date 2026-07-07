@@ -73,9 +73,10 @@ Technologia nie jest neutralna: każdy system niesie wartości i ślepe punkty t
 - [[2026-06-13 Transparentność operacyjna]] — bliźniaczy filar zaufania: governance wymaga informowania o użyciu AI (92% darczyńców tego oczekuje), a transparentność operacyjna to szersza zasada, której polityka AI jest konkretnym przypadkiem.
 - [[2026-06-14 RAG]] — techniczna realizacja jednej z reguł governance: lokalny/hybrydowy RAG trzyma dane beneficjentów na własnej infrastrukturze, odpowiadając na ryzyko wycieku do zewnętrznych modeli (podział Admin/Program Zone to operacyjny język governance).
 - [[2026-06-15 Prompt engineering]] — kompetencja, bez której polityka „weryfikuj wyniki" jest pusta: zespół musi umieć wymusić rolę krytyka i rozpoznać halucynację, by realnie kontrolować output.
-- [[RODO i dane wrażliwe]] — prawny rdzeń ryzyka (dane beneficjentów, AI Act, zgoda); osobna strona, gdy uzbiera się masa źródeł (czerwony link — backlog).
+- [[2026-07-06 RODO i dane wrażliwe|RODO i dane wrażliwe]] — prawny rdzeń ryzyka (dane beneficjentów, AI Act, zgoda): governance to procesy i role, RODO/AI Act wyznaczają twarde minimum, którego te procesy pilnują.
 - [[2026-06-15 Agentic AI]] — przesuwa governance z „rekomendacji" na „samodzielne działanie": klasyczne polityki zatwierdzania przestają wystarczać, gdy system zmienia zachowanie po wdrożeniu.
 - [[2026-06-23 Widoczność w AI search]] — governance ma drugą, zewnętrzną twarz: monitoring **dryftu narracyjnego** (jak AI opisuje organizację) i krótka **polityka wobec AI search** to element ładu — nie tylko *jak my używamy AI*, ale *jak AI reprezentuje nas*.
+- [[2026-07-06 Evale|Evale]] — operacjonalizacja zasady „weryfikuj wyniki": governance definiuje odpowiedzialność za output AI, evale dają mierzalny proces, którym tę odpowiedzialność się wykonuje.
 
 ---
 

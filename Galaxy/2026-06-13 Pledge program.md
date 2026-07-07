@@ -40,7 +40,7 @@ To, co kiedyś czyniło pledge kosztownym (ręczne pilnowanie rat, wezwania, pok
 Najczęściej przegapiany moment w całym cyklu: rozmowę o odnowieniu pledga planuje się **60–90 dni przed** wygaśnięciem, nie po. To okno decyduje o tym, czy zobowiązanie przejdzie w kolejny cykl, czy darczyńca cicho wypadnie. Wymaga osobnej segmentacji pledge donors w CRM — komunikują się postępem zobowiązania, nie ogólnymi apelami.
 
 **6. Most do planned giving i Legacy Society**
-Pledge donors to ciepli kandydaci do najwyższego piętra zaangażowania — zapisu w testamencie, beneficiary designation, Legacy Society. Najlepsi kandydaci na major i legacy donorów już są w bazie: regularni darczyńcy 3+ lata, wolontariusze, osoby otwierające każdy mail. Pledge jest naturalnym etapem pośrednim między jednorazową wpłatą a darowizną dożywotnią. Makro-sygnał, który czyni to pilnym: w raporcie *Giving USA 2026* **zapisy testamentowe wzrosły o 17% r/r** (trzeci dwucyfrowy wzrost w ciągu czterech lat) — prawdopodobny początek **Wielkiego Transferu Bogactwa** od Boomersów ([[Transfer międzypokoleniowy majątku]]). Wniosek: relacje budowane *dziś* z mid-level darczyńcami przez pledge przekładają się za lata na wielomilionowe legaty — inwestować w planned giving trzeba zanim transfer ruszy pełną parą, nie po.
+Pledge donors to ciepli kandydaci do najwyższego piętra zaangażowania — zapisu w testamencie, beneficiary designation, Legacy Society. Najlepsi kandydaci na major i legacy donorów już są w bazie: regularni darczyńcy 3+ lata, wolontariusze, osoby otwierające każdy mail. Pledge jest naturalnym etapem pośrednim między jednorazową wpłatą a darowizną dożywotnią. Makro-sygnał, który czyni to pilnym: w raporcie *Giving USA 2026* **zapisy testamentowe wzrosły o 17% r/r** (trzeci dwucyfrowy wzrost w ciągu czterech lat) — prawdopodobny początek **Wielkiego Transferu Bogactwa** od Boomersów ([[2026-07-06 Transfer międzypokoleniowy majątku|Transfer międzypokoleniowy majątku]]). Wniosek: relacje budowane *dziś* z mid-level darczyńcami przez pledge przekładają się za lata na wielomilionowe legaty — inwestować w planned giving trzeba zanim transfer ruszy pełną parą, nie po.
 
 ---
 
@@ -52,7 +52,7 @@ Pledge donors to ciepli kandydaci do najwyższego piętra zaangażowania — zap
 - [[2026-06-13 Transparentność operacyjna|Transparentność operacyjna]] (operational transparency) — wieloletnie zobowiązanie wymaga wieloletniego zaufania: darczyńca musi widzieć, że jego raty robią różnicę
 - [[2026-06-13 Peer-to-peer fundraising|Peer-to-peer fundraising]] — sposób na zamianę jednorazowych darczyńców z akcji P2P w trwałe zobowiązania
 - [[2026-06-13 Major gifts|Major gifts]] (duże darowizny) — pledge to winda do rejestru major giverów: rozłożenie kwoty na raty otwiera duże dawanie tym, których nie stać na jednorazowy major gift, i buduje most do planned giving
-- [[Transfer międzypokoleniowy majątku]] — Wielki Transfer Bogactwa (zapisy testamentowe +17% r/r, Giving USA 2026) czyni pledge i planned giving strategicznie pilnymi: pledge to etap pośredni, który zamienia dzisiejszego mid-level darczyńcę w jutrzejszego legatariusza (czerwony link — backlog)
+- [[2026-07-06 Transfer międzypokoleniowy majątku|Transfer międzypokoleniowy majątku]] — Wielki Transfer Bogactwa (zapisy testamentowe +17% r/r, Giving USA 2026) czyni pledge i planned giving strategicznie pilnymi: pledge to etap pośredni, który zamienia dzisiejszego mid-level darczyńcę w jutrzejszego legatariusza
 
 ---
 

@@ -68,7 +68,7 @@ Email działa też jako kanał świadomości — sama obecność nazwy nadawcy w
 - [[2026-06-25 Owned vs rented audience]] — lista jest aktywem tylko wtedy, gdy jest żywa; zaniedbana baza zamienia się z aktywa w koszt reputacyjny.
 - [[2026-06-13 Stewardship]] — sunset i re-engagement to "opieka nad darczyńcą" przeniesiona na poziom listy: automate the tired (czyszczenie), humanize the inspired (eskalacja darczyńcy do kontaktu osobistego).
 - [[2026-06-15 Pokolenia darczyńców]] — definicja "nieaktywności" i okno cyklu zależą od kohorty; generyczny próg czasowy karze inaczej młodych (P2P, rzadki kontakt) niż Boomersów.
-- [[RODO i dane wrażliwe]] — suppression zamiast kasowania, audytowalna ścieżka źródła (provenance) i double opt-in to zarazem praktyki higieny i zgodności (czerwony link — backlog).
+- [[2026-07-06 RODO i dane wrażliwe|RODO i dane wrażliwe]] — suppression zamiast kasowania, audytowalna ścieżka źródła (provenance) i double opt-in to zarazem praktyki higieny i zgodności; „no lineage, no send" to RODO w przebraniu operacyjnym.
 
 ---
 

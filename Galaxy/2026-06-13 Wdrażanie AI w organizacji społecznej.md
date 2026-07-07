@@ -70,6 +70,7 @@ Najczęstszy hamulec wejścia w AI to nie brak umiejętności, lecz **samonarzuc
 - [[2026-06-14 RAG|RAG]] (retrieval-augmented generation) — bezpieczniejsza ścieżka użycia AI w sektorze społecznym: odpowiedzi oparte na własnej, kontrolowanej bazie wiedzy organizacji (Admin/Program Zone, RAG lokalny)
 - [[2026-06-15 Prompt engineering]] — kompetencja operacyjna warunkująca poziom *Better/New*; bez niej zespół utyka na *Faster*
 - [[2026-06-15 AI governance]] — filar etyki i zasad: lekka polityka AI jako warunek wstępny, nie formalność po fakcie
+- [[2026-07-06 Evale|Evale]] — „skąd wiesz, że jest dobrze": pilotaż bez zdefiniowanych kryteriów jakości nie jest testem, tylko teatrem wdrożenia; evale domykają drogę od pilotażu do skalowania
 - [[Automatyzacja]] / [[Make.com]] — konkretna realizacja poziomu *New* dla organizacji bez budżetu na rozwiązania szyte na miarę
 
 ---

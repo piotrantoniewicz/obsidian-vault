@@ -80,6 +80,7 @@ Praktyczny wzorzec organizacji wielu agentów u jednej osoby: **każdy agent to 
 - [[2026-06-15 Prompt engineering]] — agent „wchłania" pojedynczy prompt: „przestałem pisać prompty, buduję agentów". Prompt to atom, agent to cały proces w pętli.
 - [[2026-06-14 RAG]] — **Agentic RAG** to retrieval-owy przypadek agentic AI: agent sam decyduje o metodzie wyszukiwania, scala wiele źródeł i buduje prompt, zanim odda go modelowi.
 - [[2026-06-13 Wdrażanie AI w organizacji społecznej]] — agentic to daleki kraniec modelu AI-native i poziomu *New*; filary gotowości (dane, ludzie, governance) są warunkiem wstępnym, a „AI odsłania słabości" obowiązuje tu podwójnie.
+- [[2026-07-06 Evale|Evale]] — warunek realnego „above the loop": bez zdefiniowanych kryteriów i testów jakości nadzór na poziomie meta degeneruje się w rubber-stamping.
 - [[Sprawczość organizacyjna]] — szersze pojęcie z Verny (agency jako kultura, nie narzędzie); osobna strona, gdy uzbiera się masa źródeł (czerwony link — backlog).
 
 ---

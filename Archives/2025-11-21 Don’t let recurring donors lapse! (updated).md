@@ -1,10 +1,13 @@
 ---
-type: "Web"
-authors: "[[Mark Ristaino]]"
-url: "https://blog.actionkit.com/dont-let-recurring-donors-lapse-updated/?utm_source=www.civicshoutnewsletter.com&utm_medium=newsletter&utm_campaign=what-happens-when-a-recurring-charge-fails&_bhlid=f7fdb2e7d6a6b921c214d184574cb76b04f71e78"
-published: 2025-11-21
-created: 2026-06-30
+type: Web
+authors: '[[Mark Ristaino]]'
+url: >-
+  https://blog.actionkit.com/dont-let-recurring-donors-lapse-updated/?utm_source=www.civicshoutnewsletter.com&utm_medium=newsletter&utm_campaign=what-happens-when-a-recurring-charge-fails&_bhlid=f7fdb2e7d6a6b921c214d184574cb76b04f71e78
+published: 2025-11-21T00:00:00.000Z
+created: 2026-06-30T00:00:00.000Z
 tags:
+  - fundraising
+  - narzędzia-AI
 ---
 
 

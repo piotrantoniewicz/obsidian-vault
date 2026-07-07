@@ -19,16 +19,16 @@ Materiały źródłowe: `~/LGD` (umowa, diagnoza, ankieta CAWI, prezentacje, res
 
 ## Etapy (wg umowy §2)
 - [x] 1. Desk research i diagnoza ilościowa — gotowy dokument (`diagnoza.md`)
-- [ ] 2. Badania ankietowe CAWI — [formularz Google](https://docs.google.com/forms/d/1dBLzTnPqyE6GHmJ8TmW5VlFXVXINZSY8TAd2Gt7FYZw/edit) gotowy, do dystrybucji (uczestnicy projektu + NGO z obszarów wiejskich DS)
+- [x] 2. Badania ankietowe CAWI — [formularz Google](https://docs.google.com/forms/d/1dBLzTnPqyE6GHmJ8TmW5VlFXVXINZSY8TAd2Gt7FYZw/edit) gotowy, do dystrybucji (uczestnicy projektu + NGO z obszarów wiejskich DS)
 - [~] 3. Warsztaty strategiczne — spotkanie 1 odbyło się 31.03 (SWOT, megatrendy); kolejne do zaplanowania
 - [ ] 4. Panel ekspertów (DSP LGD) — do zaplanowania
 - [ ] 5. Opracowanie dokumentu strategii
 - [ ] 6. Prezentacja multimedialna
 
 ## Kolejne kroki
-- [ ] Zrealizować i rozdystrybuować ankietę CAWI
+- [x] Zrealizować i rozdystrybuować ankietę CAWI
 - [ ] Zaplanować kolejne warsztaty strategiczne (cele, scenariusze)
-- [ ] Zorganizować panel ekspertów DSP LGD
+- [x] Zorganizować panel ekspertów DSP LGD
 - [ ] Pogłębić nowe wątki z warsztatu 31.03 (patrz niżej) w dokumencie strategii
 
 ## Kluczowe ustalenia diagnostyczne

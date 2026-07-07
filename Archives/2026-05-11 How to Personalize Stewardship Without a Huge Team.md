@@ -1,10 +1,13 @@
 ---
-type: "Web"
-authors: "[[Rob Burke]]"
-url: "https://www.donordock.com/articles/how-to-personalize-stewardship-without-a-huge-team?utm_campaign=21239977-The%20Focused%20Fundraiser&utm_medium=email&_hsenc=p2ANqtz-9MAxsZ2rGUlSzzIVJ6GfEWeTC4sIs9cpCrfhtXalkrvNpP4SlJpLoIr1KilpdYrp3_j_-M02mPmwAecMsTw9VaEU19DvMjjD2Krs8RqP0C58oT6AM&_hsmi=427173884&utm_content=423514413&utm_source=hs_email"
-published: 2026-05-11
-created: 2026-07-07
+type: Web
+authors: '[[Rob Burke]]'
+url: >-
+  https://www.donordock.com/articles/how-to-personalize-stewardship-without-a-huge-team?utm_campaign=21239977-The%20Focused%20Fundraiser&utm_medium=email&_hsenc=p2ANqtz-9MAxsZ2rGUlSzzIVJ6GfEWeTC4sIs9cpCrfhtXalkrvNpP4SlJpLoIr1KilpdYrp3_j_-M02mPmwAecMsTw9VaEU19DvMjjD2Krs8RqP0C58oT6AM&_hsmi=427173884&utm_content=423514413&utm_source=hs_email
+published: 2026-05-11T00:00:00.000Z
+created: 2026-07-07T00:00:00.000Z
 tags:
+  - fundraising
+  - automatyzacja
 ---
 
 

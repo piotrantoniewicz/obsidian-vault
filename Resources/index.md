@@ -1081,6 +1081,7 @@
 - [[2025-11-20 Kasumi Quinlan Is Using AI to Reimagine Food Security]] — Lemontree: AI rekomendujące zasoby żywnościowe dla 21K rodzin dziennie przez SMS bez specjalnych aplikacji.
 - [[2025-11-20 Osiągnęłam sukces, bo nigdy więcej nie chcę poczuć…]] — Pawłowska: motywacja "od" (ucieczka przed bólem) vs. "do" (cel aspiracyjny) jako fundamenty trwałego biznesu.
 - [[2025-11-20 Planning for a Stronger Fundraising Year in 2026]] — 4 obszary planowania fundraisingu: stewardship przed apelami, rekalibracja danych, wczesne planowanie i własny rozwój.
+- [[2025-11-21 Don’t let recurring donors lapse! (updated)]] — 8-krokowy workflow ActionKit do odzyskiwania recurring donorów z wygasającymi kartami.
 - [[2025-11-21 (HOT TIP) When to send your fundraising emails]] — Jess Campbell: piątek to optymalny dzień wysyłki apeli EOY — 90% przewaga nad czwartkiem wg danych 2022.
 - [[2025-11-21 AI Will Replace Nonprofit, Advocacy, Labor, and Campaigning Jobs — And That s Not a Tech Problem. It s a Power Problem]] — Caldana: AI wypiera "wejściowe" role NGO bez sprawiedliwego podziału oszczędności — problem władzy, nie technologii.
 - [[2025-11-21 Czy ADHD zjadło już twój mózg i biznes]] — DWA SŁOWA: "biznesowe ADHD" to głównie brak systemu — automatyzacja procesów eliminuje objawy reaktywnego działania.
@@ -2306,6 +2307,7 @@
 - [[2026-05-08 The AI Mood Swing What Public Opinion Really Says About Tech, Risk and Democracy]] — YouGov w 12 krajach: tygodniowe użycie AI to 20–33% dorosłych; obywatele akceptują AI-narzędzie, odrzucają AI-władzę.
 - [[2026-05-08 the most underrated writing service right now]] — PGA: newsletter ghostwriting z AI jako SaaS-podobny model — wyższe marże, powtarzalne procesy, natychmiastowy ROI dla klientów.
 - [[2026-05-09 AI Populism is Coming, But Not the Way Progressives Think]] — Joseph Gelfer: AI populizm to polityczne zagospodarowanie lęku przed AI — progresyści zostawiają tę przestrzeń wolną.
+- [[2026-05-11 How to Personalize Stewardship Without a Huge Team]] — 5 kategorii preferencji donora i lekkie CRM-owe journeys do personalizacji stewardship bez dużego zespołu.
 - [[2026-05-11 Invisible layer of AI Experience Why a great model is not enough for product success]] — RIFT Framework: projektowanie „niewidzialnej warstwy" AI chroniącej autonomię użytkownika i kalibrującej zaufanie.
 - [[2026-05-11 Politics is not a dirty word]] — Jack Milroy: depolityzacja NGO to błąd strategiczny; organizacje advocacy muszą nazywać relacje władzy, by być wiarygodne.
 - [[2026-05-11 Send It Right - Why Your Emails Aren't Reaching the Inbox]] — 4 przyczyny trafiania do spamu: zapis bez zgody, podejrzane zachowanie nadawcy, niska reakcja odbiorców, brak monitoringu.
@@ -2537,6 +2539,7 @@
 - [[2026-06-10 GiveCon 2026 Recap Purpose, People, and What's Possible]] — Melaina Chromy / Bloomerang: relacja z GiveCon 2026 (700 uczestników) — partnerstwo Bloomerang+Dataro z predykcyjnym scoringiem donorów i wizja platformy bezprzyciskowej.
 - [[2026-06-10 The Three AI principles Bloomerang Won't Compromise On]] — Dennis Fois / Bloomerang: trzy zasady AI dla nonprofit CRM — misja jako metryka, relacja pozostaje ludzka, dane należą do organizacji.
 - [[2026-06-10 Europejskie alternatywy dla amerykańskiego oprogramowania]] — Paweł Tkaczyk: praktyczny przewodnik po europejskich alternatywach dla narzędzi US (mail, dysk, analityka, AI) z czterokrokowym planem migracji i argumentem zarządzania ryzykiem zamiast ideologii.
+- [[2026-06-11 What getting AI wrong means for us]] — scenariusz o tym, jak Europa może stracić pozycję w wyścigu AI, jeśli źle odczyta tempo i skalę zmian.
 - [[2026-06-11 CIWF mailing — wzorce kampanii (marzec–czerwiec 2026)]] — 19 maili CIWF PL (marzec–czerwiec 2026): nazwane zwierzę jako protagonista, hak WOAH (183 kraje, 2027), celebrity endorsement (Joaquin Phoenix), cel liczbowy 85 darczyńców regularnych.
 - [[2026-06-11 Greenpeace mailing — nowe wzorce (marzec–czerwiec 2026)]] — 18 maili GP Polska (marzec–czerwiec 2026): kampania bajek dla dzieci z crowdfundingiem, seria Arktyczna, personalizacja tematu, kampania legislacyjna ochrony przyrody.
 - [[2026-06-11 Avaaz mailing — nowe wzorce (marzec–czerwiec 2026)]] — 15 maili Avaaz (marzec–czerwiec 2026): ankieta strategiczna bez petycji, Re: follow-up do fundraisingu, mail-sukces jako re-engagement, kampania Masajów z Avaaz jako funduszem prawnym.
@@ -2625,6 +2628,8 @@
 - [[2026-06-25 A Default Tech Stack for the Social Sector]] — The Agency Fund: zweryfikowany stack AI dla NGO z małymi zespołami IT — n8n, Langfuse, OpenRouter, Glific i Claude Code jako domyślne narzędzia sektora.
 - [[2026-06-29 Pulse of the Donor 2026 Fundraising Benchmarks & Giving Trends]] — FundraiseUp: benchmarki fundraisingowe 2025 (4 rynki) — TikTok liderem cyklicznych, Facebook konwersją, AI +10-15% przychód, mobile >50% w 3 rynkach.
 - [[2026-06-29 Jak zacząć automatyzację w firmie? Które procesy warto usprawnić? Brunka&Aniserowicz Procesy Jutra]] — Mikołaj Brunka (Procesy Jutra): framework lejka wyboru — cel → dział → proces → narzędzie; cztery kryteria selekcji procesu i cztery poziomy automatyzacji.
+- [[2026-06-30 How to Maximize AI Visibility for Your LinkedIn Posts]] — checklist strukturyzowania postów LinkedIn pod kątem cytowania przez AI search.
+- [[2026-06-30 Stop Chasing New Donors. Pick Up the Phone.  Patrick Kirby]] — dlaczego retencja darczyńców bije pozyskiwanie nowych i jak budować stewardship przez telefon bez prośby o pieniądze.
 - [[2026-06-30 She didn't expect THAT to happen]] — Jess Campbell: case study Virtual Impact Gathering — niskozasobowe spotkanie Zoom z darczyńcami jako taktyk budowania relacji i fundraisingu; 50 RSVP, 17 live, 27 replay, $500 darowizny.
 - [[2026-06-30 What happens when a recurring charge fails]] — Civic Shout: dlaczego wygasłe karty cicho drenują darczyńców cyklicznych (71% retencji rocznej, LTV $594) i czteropunktowy checklist (retry, e-mail recovery, card updater, elastyczność daru) do wdrożenia w jeden dzień.
 - [[2026-06-30 5 Wniosków o AI w MŚP Po 300+ Konsultacjach]] — wPraktyce.AI: wnioski z 300+ konsultacji wdrożeniowych AI — dlaczego brak fundamentu (uporządkowanych danych i zmapowanych procesów) zabija wdrożenia, framework MVP i ćwiczenie mapowania procesów.

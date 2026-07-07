@@ -5,7 +5,7 @@ tags:
   - strategia-organizacji
   - content-marketing
 created: 2026-06-25
-updated: 2026-06-30
+updated: 2026-07-07
 relevance: wysoka
 sources:
   - "[[2026-05-12 why newsletter ghostwriting (time to forget LinkedIn)]]"
@@ -34,7 +34,7 @@ Zasób wynajęty znika na trzy sposoby, niezależne od jakości treści:
 - **Ban / likwidacja platformy** — całkowita utrata relacji z dnia na dzień, bez prawa do eksportu.
 
 **2. Asymetria zasobu: trwałość i przenośność**
-Lista to **aktyw biznesowy** — trwały, eksportowalny (CSV), niezależny od pośrednika. Stąd w ghostwritingu klient z listą jest „inherently more stable, more long-term, more reliable", a newsletter ghostwriting wycenia się wyżej ($3–10K/mc) niż social. Operacyjna konsekwencja: **zawsze wybieraj narzędzie z eksportem listy**; przy każdej obecności na platformie planuj „drogę wyjścia" — eksport kontaktów i treści *zanim* będą potrzebne ([[Kamil Śliwowski]]: dane należą do użytkownika niezależnie od decyzji o pozostaniu).
+Lista to **aktyw biznesowy** — trwały, eksportowalny (CSV), niezależny od pośrednika. Stąd w [[2026-07-07 Ghostwriting|ghostwritingu]] klient z listą jest „inherently more stable, more long-term, more reliable", a newsletter ghostwriting wycenia się wyżej ($3–10K/mc) niż social. Operacyjna konsekwencja: **zawsze wybieraj narzędzie z eksportem listy**; przy każdej obecności na platformie planuj „drogę wyjścia" — eksport kontaktów i treści *zanim* będą potrzebne ([[Kamil Śliwowski]]: dane należą do użytkownika niezależnie od decyzji o pozostaniu).
 
 Ta sama logika rozciąga się z *publiczności* na *technologię i dane*: pytanie „najemca czy właściciel?" (Krikorian, CTO [[Mozilla]]) ma trzy kryteria oceny dowolnego narzędzia AI/platformy — **(1) po czyjej stronie jest ta technologia? (2) czy masz „exit ramp", czyli możliwość zabrania tego, co zbudujesz? (3) kto odpowiada, gdy coś się psuje?** Postawa pragmatyczna, nie purystyczna: *„nie bądź męczennikiem — używaj najlepszych narzędzi teraz, ale świadomie i z zachowaną możliwością zmiany kursu"*. „Decyzje są podejmowane za nas, a nie z nami — i tak właśnie stajemy się najemcami, jeśli nie działamy celowo".
 

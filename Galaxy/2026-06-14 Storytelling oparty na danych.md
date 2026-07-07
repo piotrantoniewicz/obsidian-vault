@@ -5,7 +5,7 @@ tags:
   - digital-campaigning
   - fundraising
 created: 2026-06-14
-updated: 2026-06-30
+updated: 2026-07-07
 relevance: wysoka
 sources:
   - "[[2025-06-17 Jak wizualizacja danych wspiera komunikację organizacji społecznej Sprawdź na przykładzie Fundacji Gajusz]]"
@@ -79,7 +79,7 @@ Próg techniczny data storytellingu jest dużo niższy, niż organizacje zakład
 - **Kurs „Fundraising z AI"**: moduł o komunikacji impactu — gotowe ćwiczenia z technik przekładu liczby (analogia, jednostka czasu, dane względne) na materiałach uczestnika; osobny blok o 5 pułapkach analizy darowizn (mediana vs średnia jako pierwszy przykład).
 - **Konsultacje fundraisingowe**: audyt, jak organizacja raportuje wyniki — błędne uśrednianie i brak punktu odniesienia są powszechne; rekomendacja [[Looker Studio]] / [[Datawrapper]] jako bezkosztowy pierwszy krok ku pracy na danych.
 - **Pozyskiwanie historii**: wdrożenie SMS storytelling engine (7 kroków) jako niskokosztowej metody zbierania surowca narracyjnego, opcjonalnie z automatyzacją odpowiedzi przez [[Make.com]].
-- **Ghostwriting**: każdą liczbę w apelu obuduj historią i ramą; każdą historię zakotwicz w danej — z zachowaniem uczciwości statystycznej (nie uśredniaj skośnych rozkładów dla efektu).
+- **[[2026-07-07 Ghostwriting|Ghostwriting]]**: każdą liczbę w apelu obuduj historią i ramą; każdą historię zakotwicz w danej — z zachowaniem uczciwości statystycznej (nie uśredniaj skośnych rozkładów dla efektu).
 - **Wolontariat kompetencji**: model BI_NGO (analitycy + graficy pro bono) jako sposób na profesjonalizację komunikacji organizacji bez budżetu — wart przetestowania w sieci LGD.
 
 ---

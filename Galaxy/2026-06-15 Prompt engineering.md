@@ -5,7 +5,7 @@ tags:
   - narzędzia-AI
   - szkolenia-AI
 created: 2026-06-15
-updated: 2026-06-30
+updated: 2026-07-07
 relevance: wysoka
 sources:
   - "[[2025-06-22 9 ChatGPT & Claude Writing Tips (to get CRAZY GOOD outputs)]]"
@@ -79,7 +79,7 @@ Skuteczny framing: „deleguj jak bardzo zdolnemu członkowi zespołu — im ja�
 ## Zastosowanie w kontekście NGO
 
 - **Szkolenia z AI dla organizacji**: schemat XML jako konkretny *deliverable* warsztatu — uczestnik wychodzi z gotowym templatem promptów dla swoich zadań (komunikacja, fundraising, raportowanie). Trzy tryby promptowania porządkują „dlaczego ten sam prompt raz działa, raz nie".
-- **Ghostwriting**: singular/modular prompts + [[Claude Projects]] jako biblioteka stylu klienta + automation prompting to gotowy system powtarzalnego pisania; bezpośrednio przekładalne na własne pluginy [[Claude Code]].
+- **[[2026-07-07 Ghostwriting|Ghostwriting]]**: singular/modular prompts + [[Claude Projects]] jako biblioteka stylu klienta + automation prompting to gotowy system powtarzalnego pisania; bezpośrednio przekładalne na własne pluginy [[Claude Code]].
 - **Ćwiczenie meta-promptingu**: na warsztacie pokaż meta-prompter w [[Anthropic Console]] (darmowe kredyty) i tryb „improve existing prompt" — uczestnicy poprawiają własne, realne prompty.
 - **Recenzja dokumentów (granty, strategie)**: naucz zespół promptu „bądź krytykiem, wskaż 3 najsłabsze miejsca" jako antidotum na sycophancy — inaczej AI potwierdzi słaby wniosek grantowy.
 - **Próg wejścia**: prompt engineering to najtańsza dźwignia („lepszy output bez dodatkowych narzędzi") — idealny pierwszy moduł, zanim organizacja sięgnie po RAG czy automatyzacje.

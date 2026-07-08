@@ -3,7 +3,7 @@ categories:
   - Area
 status: Aktywny
 created: 2026-07-07
-updated: 2026-07-07
+updated: 2026-07-08
 tags:
   - content-marketing
   - digital-campaigning
@@ -14,12 +14,15 @@ tags:
 Trwała rola: budowanie rozpoznawalności wśród osób decyzyjnych w organizacjach społecznych i biznesach z misją (persona: prezeska „Marta"), tak żeby generować zapytania o usługi z dobryai.pl — szkolenia AI, automatyzację, strategię cyfrową, ghostwriting, framing i fundraising. Kanał główny: LinkedIn (3 posty/tydz. z pluginu `content-linkedin` + codzienna rutyna SSI); kanały wspierające: dobryai.pl i artykuły na publicystyka.ngo.pl (posty linkują do artykułów — sygnał dla AI search). „W porządku" = 2–3 posty tygodniowo publikowane regularnie, codzienna rutyna 15 min (pogłębione komentarze, 2–3 zaproszenia, 1 wiadomość do starego kontaktu), profil spójny z pozycjonowaniem „AI + organizacje społeczne + komunikacja", a `insights-miesiac.md` w pluginie nadpisany po każdej miesięcznej analizie wyników w Notion.
 
 ## Projekty
-_Aktywne: brak. Kandydaci do założenia w `Projects/` (po utworzeniu zamienić na wikilinki):_
+Aktywne:
+- [[2026-07-01 Sprint SSI 35 na 50]] — miesiąc codziennej rutyny z pomiarem SSI i kontaktów (due 2026-08-01)
+- [[2026-07-08 Lead magnet Narzędzia AI — rotacja i pierwszy mailing]] — rotacja w postach + narzędzie mailingowe + pierwszy mailing (due 2026-08-31)
+- [[2026-07-08 Pierwszy case study pilotażu automatyzacji]] — rekrutacja organizacji + wdrożenie + case na dobryai.pl (due 2026-09-30)
 
-- **Optymalizacja profilu LinkedIn** — wdrożenie części 1 z `plan-linkedin.md`: stanowisko zamiast „troublemaker", opisy 5 ról (w tym most UWr → obecna praca). Meta: profil zaktualizowany. Gotowe do zrobienia od 2026-06-18 — najszybsza wygrana.
-- **Sprint SSI: 35 → 50 i 500+ kontaktów** — miesiąc codziennej rutyny (komentarze, zaproszenia, wiadomości) z pomiarem na końcu. Meta: wynik SSI po miesiącu.
-- **Pierwszy case study pilotażu automatyzacji** — strona wprost szuka organizacji do pilotażu, a persona Marty pyta o polskie przykłady. Meta: opublikowany case na dobryai.pl + post.
-- **Promocja lead magnetu „Narzędzia AI"** — landing z formularzem zapisu jest **opublikowany pod dobryai.pl/narzedzia/** i podlinkowany z głównej strony. Do zrobienia: regularne linkowanie z postów LinkedIn, pomiar zapisów, sekwencja follow-up do zebranych maili. Meta: lead magnet obecny w rotacji postów + pierwszy mailing do zapisanych.
+Zakończone:
+- [[2026-06-30 Optymalizacja profilu LinkedIn]] — część 1 planu wdrożona (stanowisko + opisy 5 ról), koniec czerwca 2026
+
+Kandydaci do założenia w `Projects/`:
 - **Wystąpienie na evencie sektora** (Sektor 3.0, Kongres Trzeciego Sektora) — eventy i rekomendacje to najsilniejsze kanały wg persony. Meta: wygłoszone wystąpienie.
 
 ## Kluczowe pojęcia i źródła

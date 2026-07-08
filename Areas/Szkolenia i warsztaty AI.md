@@ -3,7 +3,7 @@ categories:
   - Area
 status: Aktywny
 created: 2026-06-26
-updated: 2026-06-26
+updated: 2026-07-08
 tags:
   - szkolenia-AI
   - organizacje-społeczne
@@ -14,6 +14,7 @@ tags:
 Trwała rola: projektowanie i prowadzenie szkoleń oraz warsztatów z generatywnej AI dla organizacji społecznych i ich odbiorców (m.in. przedsiębiorczyń) — interfejs narzędzi → prompting → budowanie asystentów/Projects → praktyczne workflow (research, brand voice, prospecting, CRM) → bezpieczeństwo i etyka. „W porządku" = każde zlecenie ma scenariusz, materiały dla uczestników i wymagania techniczne dopięte przed terminem, a powtarzalne moduły (program, ćwiczenia, szablony promptów) są wersjonowane i gotowe do ponownego użycia.
 
 ## Projekty
+- [[2026-07-04 Szkolenie AI dla przedsiębiorczyń — Fundacja Ukrainka w Polsce (Warszawa)]] — warsztat live demo, Warszawa (04.07.2026) — zrealizowane
 - [[2026-06-24 Warsztat GenAI dla organizacji społecznych — Prusice]] — warsztat stacjonarny, Prusice (24.06.2026) — zrealizowane
 - [[2026-06-16 Warsztat GenAI dla organizacji społecznych — Strzelin]] — warsztat stacjonarny, Strzelin (16.06.2026) — zrealizowane
 - [[2026-05-16 Szkolenie AI dla przedsiębiorczyń — Fundacja Ukrainka w Polsce]] — warsztat live demo, Wrocław (16.05.2026) — zrealizowane

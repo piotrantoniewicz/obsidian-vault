@@ -18,6 +18,7 @@ Aktywne:
 - [[2026-07-01 Sprint SSI 35 na 50]] — miesiąc codziennej rutyny z pomiarem SSI i kontaktów (due 2026-08-01)
 - [[2026-07-08 Lead magnet Narzędzia AI — rotacja i pierwszy mailing]] — rotacja w postach + narzędzie mailingowe + pierwszy mailing (due 2026-08-31)
 - [[2026-07-08 Pierwszy case study pilotażu automatyzacji]] — rekrutacja organizacji + wdrożenie + case na dobryai.pl (due 2026-09-30)
+- [[2026-07-08 Cykl artykułów ngo.pl — GEO i widoczność w sektorze]] — uruchomienie i utrwalenie cyklu co 2 tyg. (górny lejek); retrospektywa po 2–3 cyklach (due 2026-08-15)
 
 Zakończone:
 - [[2026-06-30 Optymalizacja profilu LinkedIn]] — część 1 planu wdrożona (stanowisko + opisy 5 ról), koniec czerwca 2026

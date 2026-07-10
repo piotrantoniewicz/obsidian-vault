@@ -5,6 +5,8 @@ url: "https://www.donordock.com/articles/how-to-ask-donors-how-they-want-to-be-t
 published: 2026-07-02
 created: 2026-07-10
 tags:
+  - "fundraising"
+  - "strategia-organizacji"
 ---
 
 

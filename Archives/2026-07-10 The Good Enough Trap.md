@@ -5,6 +5,9 @@ url: "https://www.linkedin.com/pulse/good-enough-trap-bryan-neider-5iojc/"
 published: 2026-07-10
 created: 2026-07-10
 tags:
+  - "strategia-AI"
+  - "organizacje-społeczne"
+  - "szkolenia-AI"
 ---
 
 

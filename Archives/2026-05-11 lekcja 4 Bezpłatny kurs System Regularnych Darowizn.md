@@ -5,6 +5,9 @@ url: "https://www.youtube.com/watch?v=Mi7S3F4Ukv8&list=PLGH25KrjnPcbgPU-3jpNC3XS
 published: 2026-05-11
 created: 2026-07-10
 tags:
+  - "fundraising"
+  - "strategia-organizacji"
+  - "framing"
 ---
 
 

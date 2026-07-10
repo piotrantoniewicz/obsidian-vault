@@ -5,6 +5,9 @@ url: "https://www.youtube.com/watch?v=-7XW3nZPggk"
 published: 2026-05-11
 created: 2026-07-10
 tags:
+  - "fundraising"
+  - "strategia-organizacji"
+  - "organizacje-społeczne"
 ---
 
 

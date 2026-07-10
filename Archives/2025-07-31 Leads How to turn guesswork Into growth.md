@@ -5,6 +5,9 @@ url: "https://www.civicshoutnewsletter.com/p/leads-how-to-turn-guesswork-into-gr
 published: 2025-07-31
 created: 2026-07-10
 tags:
+  - "fundraising"
+  - "digital-campaigning"
+  - "strategia-organizacji"
 ---
 
 

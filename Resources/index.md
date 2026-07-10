@@ -599,6 +599,7 @@
 - [[2025-07-31 A prompt that builds your landing page (by asking the right questions)]] — Meta-prompt procesowy: AI przeprowadza 5-pytaniowy wywiad, potem generuje gotowy prompt dla no-code buildera.
 - [[2025-07-31 Are you ready for soft opt-ins?]] — Nowelizacja PECR UK: soft opt-in dla charities — £58 dodatkowego przychodu na 1000 emaili, ale wymaga gotowego CRM.
 - [[2025-07-31 Feed your mind and recharge your batteries with our top picks for summer]] — ECDA letnie podsumowanie: ManyChat za $318 jako model konwersji Instagrama w listę emailową.
+- [[2025-07-31 Leads How to turn guesswork Into growth]] — Wywiad ze Stagecoach Digital: message-driven targeting, małe piloty płatnej akwizycji i source dictionary jako fundament lead generation dla NGO.
 - [[2025-07-31 Online Advocacy Platforms]] — ECF: rekomendacje platform e-advocacy (Action Network, Movement) z oceną suwerenności danych i etyki.
 - [[2025-07-31 Prompting 101 Code w Claude]] — Anthropic: 10-elementowa struktura promptu z przykładem systemu ubezpieczeniowego i extended thinking do debugowania.
 - [[2025-07-31 Steal our prompt for building landing pages]] — Meta-prompt z wywiadem AI (5-6 pytań jednorazowo) jako alternatywa dla tradycyjnego briefu copywriterskiego dla NGO.
@@ -2325,6 +2326,10 @@
 - [[2026-05-11 The sneaky rise of shadow AI in the workplace]] — 71% pracowników używa nieautoryzowanych narzędzi AI; rozwiązaniem governance i szkolenia, nie blokowanie.
 - [[2026-05-11 🎙️ This week on How I AI Sendbird s elite AI-adoption playbook & Notion s spec-driven development]] — Sendbird: gamifikowany rynek automatyzacji wewnątrz firmy; Notion: spec-driven development z Markdown jako źródłem prawdy.
 - [[2026-05-11 The complete guide to LinkedIn for nonprofits Fundraising, networking, and growth strategies]] — GoFundMe Pro: praktyczny przewodnik po LinkedIn dla NGO — optymalizacja strony, budowanie zasięgu, konwersja w donacje i corporate partnerships.
+- [[2026-05-11 lekcja 1 System Stabilnych Darowizn w NGO]] — Instytut Fundraisingu: czterokrokowy system stabilnych darowizn (strategia → kampania → lojalność → klub regularnych darczyńców) i pytania diagnostyczne dla organizacji.
+- [[2026-05-11 lekcja 2 Bezpłatny kurs System Stabilnych Darowizn]] — Instytut Fundraisingu: dlaczego dobra kampania sama nie daje stabilizacji, donor persona i testowanie kanałów na wskaźnikach.
+- [[2026-05-11 lekcja 3 Bezpłatny kurs System Stabilnych Darowizn]] — Instytut Fundraisingu: retencja jako miara lojalności darczyńców, ścieżka darczyńcy i segmentacja bazy.
+- [[2026-05-11 lekcja 4 Bezpłatny kurs System Regularnych Darowizn]] — Instytut Fundraisingu: budowa „klubu regularnych darczyńców" jako dedykowanego produktu konwertującego jednorazowych darczyńców na regularnych.
 - [[2026-05-12 5 Findings From 6sense's BDR Report That Every Sales Leader Should See]] — Raport 6sense: adopcja AI wśród BDR-ów wzrosła do 99%, ale wyniki rosną tylko gdy AI służy nauce umiejętności.
 - [[2026-05-12 A Quiet Uprising Against Chatbots]] — Badania i NGO (Empower Work, UPchieve): chatboty skuteczniejsze jako wsparcie pracowników niż bezpośredni kontakt z beneficjentem.
 - [[2026-05-12 Does the addition of a premium on an offer donation page impact donor conversion?]] — Jeff Giddens (NextAfter): test A/B pokazuje, że premia na stronie donacyjnej podwaja konwersję i zwiększa dary cykliczne o 102,9%.
@@ -2672,6 +2677,7 @@
 - [[2026-07-02 I'm so guilty of this]] — Splendid: dlaczego darczyńcy odkładają rejestrację na wydarzenia do ostatniej chwili — dwie dźwignie konwersji: ease (brak tarcia) i urgency (jasny termin).
 - [[2026-07-02 skąd naprawdę przychodzą darczyńcy i dlaczego większość NGO tego nie wie]] — Social Movers Hub: diagnoza źródeł darczyńców przed komunikacją — 80% energii idzie w kanały bez wpływu na wynik, 1-2 źródła generują większość wpłat.
 - [[2026-07-02 Food & Water Watch's 60-day advocacy win]] — Civic Shout: kampania advocacy przeciw uchyleniu zasady EPA ws. ołowianych rur — rozgrzewająca ankieta przed startem i wbudowana prośba o darowiznę przy okazji Dnia Wody.
+- [[2026-07-02 How to Ask Donors How They Want to Be Thanked]] — Rob Burke/Patrick Kirby: skrypt pytania o preferowaną formę podziękowania, pięć pól do CRM i kwartalny rytm „no-ask touches" dla top 25 darczyńców.
 - [[2026-07-06 75 Nonprofit Event Ideas for Fundraising and Community Building]] — Neon One: 75 pomysłów na wydarzenia fundraisingowe P2P w 6 kategoriach; case study Chicago Run — 4x wzrost zbiórki dzięki narzędziom peer-to-peer.
 - [[2026-07-06 What We Get Wrong About Why Good People Leave]] — Bryan Neider: rotacja personelu pierwszej linii to problem zaufania i przynależności, nie tylko płac — pięć filarów retencji i pięć profili motywacyjnych pracowników.
 - [[2026-07-06 Transparency by Design The Quiet Revolution in Digital Governance]] — Partisan: nieprzejrzystość systemów politycznej technologii jako centralny problem demokracji, „democracy stack", suwerenność cyfrowa UE i blended model finansowania civic tech.
@@ -2693,3 +2699,4 @@
 - [[2026-07-09 Czy sztuczna inteligencja może działać dla dobra (ludzi)?]] — Zuza Karcz: relacja z AI for Good Global Summit 2026 — mechanizmy PR-owego washingu na konferencjach, reżyseria paneli i marginalizacja krytycznych głosów w dyskursie o AI.
 - [[2026-07-09 A new approach to reactivation before year-end]] — Civic Shout: reaktywacja uśpionych darczyńców przez pytanie zamiast apelu o darowiznę — case study Second Harvest Food Bank i Humane World for Animals przed kampanią końcoworoczną.
 - [[2026-07-10 Restoration of Claude Fable 5, Gemini's Video Dev Engine, DeepSeek Speeds Up Speculative Decoding]] — Andrew Ng/The Batch: pętla kodowania agentowego 0-to-1 — tanie tokeny AI vs. cenne tokeny ludzkie, SPEC.md jako pamięć projektu chroniąca decyzje przed zapomnieniem.
+- [[2026-07-10 The Good Enough Trap]] — Bryan Neider: paradoks AI podnoszącego jakość indywidualnej pracy, ale spłaszczającego kreatywność zespołów — pięć praktyk "human first" chroniących krytyczne myślenie w organizacjach społecznych.

@@ -1,10 +1,13 @@
 ---
-type: "Web"
-authors: "[[Marc Zao-Sanders]]"
-url: "https://hbr.org/2026/06/how-people-are-really-using-ai-in-2026"
-published: 2026-06-01
-created: 2026-07-10
+type: Web
+authors: '[[Marc Zao-Sanders]]'
+url: 'https://hbr.org/2026/06/how-people-are-really-using-ai-in-2026'
+published: 2026-06-01T00:00:00.000Z
+created: 2026-07-10T00:00:00.000Z
 tags:
+  - trendy-AI
+  - strategia-AI
+  - szkolenia-AI
 ---
 
 

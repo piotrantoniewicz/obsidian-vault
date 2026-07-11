@@ -5,6 +5,9 @@ url: "https://www.wearerally.co.uk/blog/2026/6/13/how-praxis-amp-rally-delivered
 published: 2026-06-16
 created: 2026-07-10
 tags:
+  - "digital-campaigning"
+  - "strategia-organizacji"
+  - "fundraising"
 ---
 
 

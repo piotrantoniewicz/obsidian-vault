@@ -1,10 +1,14 @@
 ---
-type: "Web"
-authors: "[[Instytut Fundraisingu]]"
-url: "https://www.youtube.com/watch?v=j0LkOxZWNg0&list=PLGH25KrjnPcbgPU-3jpNC3XS7DrJoeLGR&index=2"
-published: 2026-05-11
-created: 2026-07-10
+type: Web
+authors: '[[Instytut Fundraisingu]]'
+url: >-
+  https://www.youtube.com/watch?v=j0LkOxZWNg0&list=PLGH25KrjnPcbgPU-3jpNC3XS7DrJoeLGR&index=2
+published: 2026-05-11T00:00:00.000Z
+created: 2026-07-10T00:00:00.000Z
 tags:
+  - fundraising
+  - organizacje-społeczne
+  - strategia-organizacji
 ---
 
 

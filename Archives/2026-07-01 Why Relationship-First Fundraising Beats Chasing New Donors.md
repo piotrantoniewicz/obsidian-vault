@@ -5,6 +5,8 @@ url: "https://www.donordock.com/articles/relationship-first-fundraising-donor-re
 published: 2026-07-01
 created: 2026-07-10
 tags:
+  - "fundraising"
+  - "strategia-organizacji"
 ---
 
 

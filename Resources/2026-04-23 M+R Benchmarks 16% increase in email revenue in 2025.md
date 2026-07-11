@@ -1,43 +1,32 @@
 ---
-categories: Clippings
-authors:
-  - '[[Sara Cederberg]]'
-url: >-
-  https://www.civicshoutnewsletter.com/p/m-r-benchmarks-16-increase-in-email-revenue-in-2025
-source: >-
-  [[Archives/2026-04-23 M+R Benchmarks 16% increase in email revenue in
-  2025|2026-04-23 M+R Benchmarks 16% increase in email revenue in 2025]]
-published: '2026-04-23'
-created: '2026-04-30'
+categories:
+  - Clippings
+authors: ["[[Sara Cederberg]]"]
+url: "https://www.civicshoutnewsletter.com/p/m-r-benchmarks-16-increase-in-email-revenue-in-2025?utm_source=www.civicshoutnewsletter.com&utm_medium=newsletter&utm_campaign=a-new-approach-to-reactivation-before-year-end&_bhlid=33a60e5fe4f61f138017062f8e0e171b50c5a5eb"
+source: "[[Archives/2026-04-23 M+R Benchmarks 16% increase in email revenue in 2025|2026-04-23 M+R Benchmarks 16% increase in email revenue in 2025]]"
+published: 2026-04-23
+created: 2026-07-10
 relevance: wysoka
 tags:
-  - fundraising
-  - digital-campaigning
-  - content-marketing
+  - "fundraising"
+  - "digital-campaigning"
+  - "organizacje-społeczne"
 ---
-# M+R Benchmarks: 16% Increase in Email Revenue in 2025
 
-[[Sara Cederberg]] omawia najważniejsze wnioski z raportu [[M+R Benchmarks]] 2026 — corocznego zestawienia danych o wynikach email marketingu i fundraisingu organizacji non-profit w USA. Przychody z emaila wzrosły o 16%, a przychód na subskrybenta wzrósł z 1,87 do 2,40 USD — co potwierdza, że email pozostaje kluczowym kanałem fundraisingowym. Raport wskazuje trzy strategiczne ruchy: traktowanie akcji advocacy jako drivera darowizn, priorytetowe pozyskiwanie nowych kontaktów już wiosną oraz aktywną konwersję jednorazowych darczyńców z 2025 roku na darczyńców regularnych przed końcem roku.
+# M+R Benchmarks 16% increase in email revenue in 2025
 
-## Frameworki i metody
-- **Advocacy jako lejek fundraisingowy** — akcja rzecznicza (email-to-target, petycja) angażuje łatwiejszym pierwszym „tak" niż darowizna; 0,34% osób, które wzięły udział w akcji advocacy, donuje na stronie po-akcji; warto budować kalendarz advocacy równolegle z kalendarzem fundraisingowym
-- **Zarządzanie listą mailingową** — brutto lista traci 16% rocznie (12% wypisy + 4% odbicia), więc wzrost netto o 5% wymaga wzrostu brutto o 20%; kluczowe jest wczesne pozyskiwanie nowych kontaktów, żeby zdążyć je „ogrzać" przed kampaniami końcorocznymi
-- **Sekwencje triggerowane dla jednorazowych darczyńców** — welcome series ma CTR 1,6% (vs. 0,59% dla standardowych emaili); sekwencja tuż po pierwszej darowiźnie to najlepsza chwila na zapytanie o przejście na regularne wsparcie
+Sara Cederberg omawia raport M+R Benchmarks 2026, według którego przychody z e-maila wzrosły w 2025 r. o 16%, a przychód na subskrybenta wzrósł z 1,87 do 2,40 USD. Artykuł wyciąga trzy praktyczne wnioski spoza nagłówka: e-maile advocacy skuteczniej budują zaangażowanie i konwertują na darowizny niż bezpośrednie apele fundraisingowe, listy mailingowe rosną netto tylko dzięki agresywnej akwizycji (bo jednocześnie mocno "przeciekają"), a jednorazowi darczyńcy z 2025 r. wymagają natychmiastowego działania konwertującego ich na stałych wspierających, zanim wygasną. Tekst łączy dane liczbowe z konkretnymi rekomendacjami na Q4 2025/2026.
 
 ## Kluczowe dane
-- +16% przychodów z emaila w 2025 r.
-- Przychód na subskrybenta: $1,87 → $2,40
-- Advocacy email: CTR 2,3%, response rate 1,4% vs. fundraising: CTR 0,59%, response 0,05%
-- Welcome series CTR: 1,6% (prawie 3× wyższy niż standardowe emaile)
-- Organizacje konwertujące jednorazowych na regularnych: +40% wzrost monthly giving
+- Przychód z e-maila wzrósł w 2025 r. o 16%, przychód na subskrybenta z 1,87 do 2,40 USD.
+- E-maile advocacy: CTR 2,3%, response rate 1,4% — wobec 0,59% i 0,05% dla e-maili fundraisingowych; 0,34% osób podejmujących akcję advocacy dokonuje darowizny na stronie potwierdzenia.
+- Roczna utrata listy mailingowej (unsubskrypcje + odbicia) sięga 16% — przy 5% wzroście netto organizacja musi urosnąć o 20%, by go osiągnąć.
+- Jednorazowe darowizny wzrosły w 2025 r. o 17% (szybciej niż darowizny miesięczne — 12%); sektory, które aktywnie konwertowały jednorazowych darczyńców na stałych, odnotowały 40% wzrostu darowizn miesięcznych.
 
 ## Wnioski
-- Advocacy i fundraising to dwa koła jednego mechanizmu — organizacje, które traktują akcje rzecznicze jako etap lejka, osiągają lepsze wyniki fundraisingowe niż te, które rozdzielają te działania.
-- Zdrowie listy mailingowej to priorytet strategiczny — 16% rocznego odpływu oznacza, że bez aktywnego pozyskiwania lista kurczy się, a nie rośnie.
-- Czas na konwersję jednorazowych darczyńców na regularnych jest ograniczony — II kwartał to ostatni dobry moment przed kampanią końcoroczną.
-
-## Cytat
-> „Email nie idzie nigdzie — kanał znów rośnie, wartość na subskrybenta wzrasta, a wygrywają organizacje, które aktywniej pracują ze swoją istniejącą listą."
+- Kampanie advocacy warto traktować jako narzędzie fundraisingowe, nie tylko rzeczniczy — łatwiejsze "pierwsze tak" buduje zaangażowanie prowadzące do darowizny.
+- Wzrost listy mailingowej wymaga stałej, agresywnej akwizycji ze względu na naturalny odpływ (unsubskrypcje, bounce) — planowanie akwizycji "na zapas" przed szczytem sezonu (np. #GivingTuesday) daje czas na rozgrzanie nowych kontaktów.
+- Jednorazowi darczyńcy z 2025 r. (często "emergency donors") są trudniejsi do utrzymania niż stali wspierający — triggered welcome series wysłane zaraz po pierwszym darze radykalnie zwiększają szansę konwersji na regularne wsparcie.
 
 ## Zastosowanie
-Dane z raportu to gotowy argument dla NGO, które zastanawiają się, czy inwestować w email — można je wykorzystać bezpośrednio w kursie „Fundraising z AI" jako benchmark do porównania wyników. Strategia konwersji jednorazowych darczyńców przez triggerowane sekwencje to konkretny workflow do zautomatyzowania w [[Make.com]]. Schemat „advocacy → post-action donation" warto wdrożyć u klientów korzystających z [[Impact Stack]].
+Benchmarki (CTR, revenue per subscriber, retencja) to gotowe punkty odniesienia przy audycie kampanii mailowych klientów NGO. Rekomendacja triggered welcome series po pierwszej darowiźnie to konkretny element do wdrożenia w automatyzacjach e-mail (np. przez Make.com) w ramach doradztwa digital fundraisingowego.

@@ -704,6 +704,7 @@
 - [[2025-08-26 Moja armia asystentów AI]] — System kilkunastu asystentów AI z rolami CEO/CMO/CSO/COO i plikami kontekstowymi; ROAS 468%.
 - [[2025-08-26 Ready for the future of digital political advertising]] — NationBuilder: dane + email + ankiety zaangażowały 850 mieszkańców w 5 miesięcy; przyszłość reklamy politycznej.
 - [[2025-08-26 The reactivation test that paid off]] — Jeden ciepły email reaktywacyjny przed kampanią: +34% odpowiedzi i +14% wyższa darowizna.
+- [[2025-08-26 The reactivation test that paid off (webclip)]] — wersja webclip tego samego artykułu Civic Shout (Sara Cederberg) — case study Second Harvest/M+R, playbook 5 kroków reaktywacji uśpionych darczyńców.
 - [[2025-08-27 Don't wait for December]] — Wczesne emaile generują ok. 60% przychodów zimowej kampanii; cztery powody planowania z wyprzedzeniem.
 - [[2025-08-27 No one sees the everyday slog]] — Rachel Bearbower o izolacji i emocjonalnym ciężarze codziennej pracy liderów małych organizacji NGO.
 - [[2025-08-27 Seeking advice on insurance renewal for campaigning organisations]] — "Efekt XR": ubezpieczyciele odmawiają polis NGO-aktywistom; reframing języka i etyczni brokerzy jako wyjście.

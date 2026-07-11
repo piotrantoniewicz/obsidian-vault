@@ -102,3 +102,7 @@ Cztery pierwsze (Clippings/Emails/Reports/LinkedIn) to wzory referencyjne — pl
 | `/pdfs-to-notes:extract [podfolder]` | `~/Documents/Email/` | raporty PDF → `Resources/` |
 | `/linkedin-to-notes:save` | wklejony post LinkedIn | post → `Resources/` |
 | `/index:update vault` | `Resources/` | weryfikacja i naprawa `Resources/index.md` |
+| `/galaxy:ingest [notatka\|dni]` | nowe notatki w `Resources/` | aktualizacja istniejących stron `Galaxy/` + flagowanie sprzeczności |
+| `/galaxy:query <pytanie>` | `Galaxy/` + `Resources/` | odpowiedź z cytowaniami; wartościowa synteza → propozycja utrwalenia |
+| `/galaxy:pisz <pojęcie>` | `Resources/` (3 kanały recall) | nowa strona pojęciowa `Galaxy/` + indeks + liczniki |
+| `/galaxy:lint` | `Galaxy/` | miesięczny health-check: sieroty, czerwone linki, zepsute wikilinki, format |

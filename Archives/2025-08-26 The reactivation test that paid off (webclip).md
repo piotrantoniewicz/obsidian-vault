@@ -5,6 +5,9 @@ url: "https://www.civicshoutnewsletter.com/p/the-reactivation-test-that-paid-off
 published: 2025-08-26
 created: 2026-07-10
 tags:
+  - "fundraising"
+  - "digital-campaigning"
+  - "organizacje-społeczne"
 ---
 
 

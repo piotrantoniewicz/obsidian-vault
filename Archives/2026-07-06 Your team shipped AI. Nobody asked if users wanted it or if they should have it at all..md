@@ -5,6 +5,9 @@ url: "https://behavioralinsight.substack.com/p/your-team-shipped-ai-nobody-asked
 published: 2026-07-06
 created: 2026-07-11
 tags:
+  - "strategia-AI"
+  - "narzędzia-AI"
+  - "context-engineering"
 ---
 
 

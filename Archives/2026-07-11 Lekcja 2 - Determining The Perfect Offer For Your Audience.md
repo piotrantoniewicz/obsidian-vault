@@ -6,6 +6,8 @@ url: https://jenna-kutcher.mykajabi.com/products/the-email-list-building-mini-co
 published:
 created: 2026-07-11
 tags:
+  - "content-marketing"
+  - "digital-campaigning"
 ---
 
 # Lekcja 2 - Determining The Perfect Offer For Your Audience

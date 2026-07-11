@@ -5,6 +5,9 @@ url: "https://www.elenaverna.com/p/please-stop-the-ai-confidence-theater?utm_sou
 published: 2026-07-02
 created: 2026-07-11
 tags:
+  - "strategia-AI"
+  - "szkolenia-AI"
+  - "trendy-AI"
 ---
 
 

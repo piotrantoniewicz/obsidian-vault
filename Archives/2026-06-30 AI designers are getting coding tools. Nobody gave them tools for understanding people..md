@@ -5,6 +5,9 @@ url: "https://behavioralinsight.substack.com/p/ai-designers-are-getting-coding-t
 published: 2026-06-30
 created: 2026-07-11
 tags:
+  - "narzędzia-AI"
+  - "strategia-AI"
+  - "trendy-AI"
 ---
 
 

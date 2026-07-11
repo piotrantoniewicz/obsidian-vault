@@ -7,6 +7,9 @@ url:
 published:
 created: 2026-07-11
 tags:
+  - "szkolenia-AI"
+  - "strategia-AI"
+  - "automatyzacja"
 ---
 
 # Copilot w Firmie: Sprawdzony Plan, Jak w 90 Dni Odzyskać 20h Miesięcznie na Innowacje

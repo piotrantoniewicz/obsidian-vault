@@ -28,7 +28,7 @@ Wprowadzić lead magnet „Narzędzia AI dla organizacji społecznych" ([dobryai
 - [ ] Przygotować i wysłać pierwszy mailing do zapisanych
 
 ## Powiązane zasoby
-- `~/dobryai/_public_html/narzedzia/` — kopia produkcyjna landingu z formularzem
+- `~/Projekty/dobryai/_public_html/narzedzia/` — kopia produkcyjna landingu z formularzem
 - `~/Documents/Plugins/content-linkedin/` — plugin generujący 3 drafty/tydz. (miejsce na rotację CTA)
 - [[Marka osobista LinkedIn]] — obszar nadrzędny
 - [[content-marketing]] — domena tematyczna
@@ -36,3 +36,4 @@ Wprowadzić lead magnet „Narzędzia AI dla organizacji społecznych" ([dobryai
 ## Log decyzji
 - 2026-07-08 — utworzenie notatki; zakres obejmuje mailing (nie tylko promocję w postach): wybór narzędzia + pierwszy mailing to warunek zamknięcia projektu
 - 2026-07-12 — 6 zapisów po 2 postach; wybrano Hostinger Email Marketing jako narzędzie mailingowe
+- 2026-07-12 — folder roboczy projektu przeniesiony do `~/Projekty/dobryai` (reorganizacja: wszystkie projekty w `~/Projekty`); ścieżki w notatce zaktualizowane

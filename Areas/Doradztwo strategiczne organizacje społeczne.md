@@ -17,7 +17,7 @@ Trwała dziedzina kompetencji: doradztwo i opracowywanie strategii dla organizac
 - [[2026-06-26 Strategia DSP LGD — Dolnośląska Kuźnia III Sektora]] — strategia współpracy NGO na obszarach wiejskich Dolnego Śląska (due 2026-11-25)
 
 ## Kluczowe pojęcia i źródła
-- `~/LGD/Budowanie Strategii Organizacyjnej...md` — metodologia scenario-based strategic planning
+- `~/Projekty/LGD/Budowanie Strategii Organizacyjnej...md` — metodologia scenario-based strategic planning
 - [[strategia-organizacji]] · [[organizacje-społeczne]] — domeny tematyczne
 - Powiązane pojęcia z `Galaxy/` do podlinkowania w miarę rozbudowy (np. sprawczość organizacyjna)
 

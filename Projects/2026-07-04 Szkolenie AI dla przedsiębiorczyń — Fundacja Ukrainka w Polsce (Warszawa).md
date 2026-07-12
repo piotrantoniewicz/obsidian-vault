@@ -35,12 +35,13 @@ Przeprowadzić warsztat „AI dla przedsiębiorczyń: otwórz i rozwiń własny 
 - [ ] Zebrać feedback i zapisać wnioski metodyczne do [[Szkolenia i warsztaty AI]]
 
 ## Powiązane zasoby
-- `~/Documents/Szkolenia/UwP/AI dla przedsiębiorczyń.pdf` — prezentacja prowadzona
-- `~/Documents/Szkolenia/UwP/program-szkolenia-AI-dla-przedsiebiorczyni.md` — pełny scenariusz (bloki, prompty, cele)
-- `~/Documents/Szkolenia/UwP/index.html` · `wstep-szkolenie-AI.html` — strona z materiałami dla uczestniczek
-- `~/Documents/Szkolenia/UwP/prompty-szkolenie-AI-przedsiebiorczyn-v2.html` — biblioteka promptów
-- `~/Documents/Szkolenia/UwP/icp.md` — profil idealnej klientki (materiał warsztatowy)
-- `~/Documents/Szkolenia/UwP/design.md` — system wizualny prezentacji (DobryAI)
+- `~/Projekty/Szkolenia/UwP/AI dla przedsiębiorczyń.pdf` — prezentacja prowadzona
+- `~/Projekty/Szkolenia/UwP/program-szkolenia-AI-dla-przedsiebiorczyni.md` — pełny scenariusz (bloki, prompty, cele)
+- `~/Projekty/Szkolenia/UwP/index.html` · `wstep-szkolenie-AI.html` — strona z materiałami dla uczestniczek
+- `~/Projekty/Szkolenia/UwP/prompty-szkolenie-AI-przedsiebiorczyn-v2.html` — biblioteka promptów
+- `~/Projekty/Szkolenia/UwP/icp.md` — profil idealnej klientki (materiał warsztatowy)
+- `~/Projekty/Szkolenia/UwP/design.md` — system wizualny prezentacji (DobryAI)
 
 ## Log decyzji
 - 2026-07-08 — utworzenie notatki-huba projektu w vaultcie po realizacji warsztatu w Warszawie (04.07.2026), na wzór edycji wrocławskiej z 16.05.2026
+- 2026-07-12 — folder roboczy projektu przeniesiony do `~/Projekty/Szkolenia/UwP` (reorganizacja: wszystkie projekty w `~/Projekty`); ścieżki w notatce zaktualizowane

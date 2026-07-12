@@ -32,7 +32,7 @@ Uruchomić i utrwalić regularny cykl artykułów na publicystyka.ngo.pl (rytm: 
 - [ ] GEO — pierwszy pomiar ~2026-09: zapytać kilka modeli o tematy artykułów, notować w `PUBLIKACJE.md`, czy zaczynają wskazywać nazwisko/teksty
 
 ## Powiązane zasoby
-- `~/Artykuly/` — folder roboczy: `WORKFLOW.md` (pełny opis systemu), `PUBLIKACJE.md` (log publikacji + data następnego cyklu), `glos.md`, analiza struktury Kariny Janus, `radar/`, `briefy/`, `artykuly/`
+- `~/Projekty/Artykuly/` — folder roboczy: `WORKFLOW.md` (pełny opis systemu), `PUBLIKACJE.md` (log publikacji + data następnego cyklu), `glos.md`, analiza struktury Kariny Janus, `radar/`, `briefy/`, `artykuly/`
 - `~/Documents/Plugins/artykuly-ngo/` — plugin Cowork (5 komend, wspólna wiedza: głos, struktura, GEO, reguły)
 - Artykuł nr 1: [Połowa Twojego zespołu już używa AI. Czas to zauważyć](https://publicystyka.ngo.pl/polowa-twojego-zespolu-juz-uzywa-ai-czas-to-zauwazyc) (2026-06-23) · [post LinkedIn](https://app.notion.com/p/347e4dd29ba88053a29bc6c8c0e11439?v=347e4dd29ba880e29c00000ce4c9f096) (2026-06-26 13:20)
 - Artykuł nr 2: [Luka governance w AI: dlaczego 92% organizacji korzysta z AI, a tylko 7% coś dzięki temu zyskuje](https://publicystyka.ngo.pl/luka-governance-w-ai-dlaczego-92-organizacji-korzysta-z-ai-a-tylko-7-cos-dzieki-temu-zyskuje) (2026-07-09)
@@ -40,5 +40,6 @@ Uruchomić i utrwalić regularny cykl artykułów na publicystyka.ngo.pl (rytm: 
 - [[content-marketing]] · [[digital-campaigning]] — domeny tematyczne
 
 ## Log decyzji
-- 2026-07-08 — utworzenie notatki-huba projektu w vaultcie (źródło prawdy treści i systemu pozostaje w `~/Artykuly`). Routing: praktyka powracająca, ale z metą projektową (uruchomienie systemu + retrospektywa po 2–3 cyklach), więc Project pod obszarem [[Marka osobista LinkedIn]], nie osobny Area — obszar już wskazuje artykuły jako swój górny lejek.
+- 2026-07-08 — utworzenie notatki-huba projektu w vaultcie (źródło prawdy treści i systemu pozostaje w `~/Projekty/Artykuly`). Routing: praktyka powracająca, ale z metą projektową (uruchomienie systemu + retrospektywa po 2–3 cyklach), więc Project pod obszarem [[Marka osobista LinkedIn]], nie osobny Area — obszar już wskazuje artykuły jako swój górny lejek.
 - 2026-07-11 — Obsidian Web Clipper przestał działać na stronie ngo.pl; treść artykułów nr 1 i nr 2 wstawiona ręcznie do `Inbox/` (Tavily extract + format zgodny z konwencją Web Clippera), czeka na standardowe przetworzenie `/clippings-to-notes:clip`. Potwierdzone: post LinkedIn dla artykułu nr 1 już opublikowany 2026-06-26 13:20 (Notion), więc z checklisty domknięcia cyklu nr 1 zostaje tylko ingest do vaultu.
+- 2026-07-12 — folder roboczy projektu przeniesiony do `~/Projekty/Artykuly` (reorganizacja: wszystkie projekty w `~/Projekty`); ścieżki w notatce zaktualizowane

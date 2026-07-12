@@ -1,0 +1,29 @@
+{
+  "hooks": {
+    "PreToolUse": [
+      {
+        "matcher": "Write|Edit",
+        "hooks": [
+          {
+            "type": "command",
+            "command": "f=$(jq -r \".tool_input.file_path // empty\"); [ -z \"$f\" ] && exit 0; case \"$f\" in */Archives/*|*/Attachments/*) printf \"%s\" \"{\\\"hookSpecificOutput\\\":{\\\"hookEventName\\\":\\\"PreToolUse\\\",\\\"permissionDecision\\\":\\\"deny\\\",\\\"permissionDecisionReason\\\":\\\"Archives/ i Attachments/ są tylko do odczytu — reguła vaulta (CLAUDE.md)\\\"}}\"; exit 0;; esac; case \"$(basename \"$f\")\" in *\"#\"*) printf \"%s\" \"{\\\"hookSpecificOutput\\\":{\\\"hookEventName\\\":\\\"PreToolUse\\\",\\\"permissionDecision\\\":\\\"deny\\\",\\\"permissionDecisionReason\\\":\\\"Znak # jest zakazany w nazwach plików vaulta — użyj np. nr41 zamiast #41\\\"}}\";; esac",
+            "statusMessage": "Strażnik vaulta: Archives/Attachments read-only, zakaz # w nazwach"
+          }
+        ]
+      }
+    ],
+    "Stop": [
+      {
+        "hooks": [
+          {
+            "type": "command",
+            "command": "cd /Users/piotr_air/Obsidian/Piotr && /Users/piotr_air/.bun/bin/qmd update >/dev/null 2>&1 && /Users/piotr_air/.bun/bin/qmd embed >/dev/null 2>&1 || true",
+            "async": true,
+            "timeout": 600,
+            "statusMessage": "qmd update + embed (indeks vaulta w tle)"
+          }
+        ]
+      }
+    ]
+  }
+}

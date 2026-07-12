@@ -26,10 +26,11 @@ Przeprowadzić pilotaż automatyzacji w organizacji społecznej — wg oferty do
 - [ ] Post LinkedIn promujący case (+ link z artykułów ngo.pl, jeśli temat pasuje)
 
 ## Powiązane zasoby
-- `~/dobryai/` — strona ofertowa (drafty w `robocze/`, lustro serwera w `_public_html/`, zasady w `CLAUDE.md`)
-- `~/Documents/Linkedin/persona.md` — Marta: dowód społeczny i polskie przykłady jako kluczowy argument
+- `~/Projekty/dobryai/` — strona ofertowa (drafty w `robocze/`, lustro serwera w `_public_html/`, zasady w `CLAUDE.md`)
+- `~/Projekty/Linkedin/persona.md` — Marta: dowód społeczny i polskie przykłady jako kluczowy argument
 - [[Marka osobista LinkedIn]] — obszar nadrzędny
 - [[automatyzacja]] — domena tematyczna
 
 ## Log decyzji
 - 2026-07-08 — utworzenie notatki; rekrutacja organizacji wpisana w zakres projektu; warunki finansowe pozostawione jako otwarta decyzja do momentu rozmowy z konkretną organizacją
+- 2026-07-12 — folder roboczy projektu przeniesiony do `~/Projekty/dobryai` (reorganizacja: wszystkie projekty w `~/Projekty`); ścieżki w notatce zaktualizowane

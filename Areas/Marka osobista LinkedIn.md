@@ -27,10 +27,10 @@ Kandydaci do założenia w `Projects/`:
 - **Wystąpienie na evencie sektora** (Sektor 3.0, Kongres Trzeciego Sektora) — eventy i rekomendacje to najsilniejsze kanały wg persony. Meta: wygłoszone wystąpienie.
 
 ## Kluczowe pojęcia i źródła
-- `~/Documents/Linkedin/` — centrum operacyjne: `plan-linkedin.md` (SSI 35→50-55, rutyna dzienna, zasady algorytmu i AI search), `persona.md` (Marta / Tomek / Agnieszka), `optymalizacja_profilu.md`, `instrukcje_drafty.md`, `Profil_Komunikacji.md`, `styl.md`
+- `~/Projekty/Linkedin/` — centrum operacyjne: `plan-linkedin.md` (SSI 35→50-55, rutyna dzienna, zasady algorytmu i AI search), `persona.md` (Marta / Tomek / Agnieszka), `optymalizacja_profilu.md`, `instrukcje_drafty.md`, `Profil_Komunikacji.md`, `styl.md`
 - `~/Documents/Plugins/content-linkedin/` — plugin Cowork: 3 drafty/tydz. (Ghostwriting / Kategoria / Fundraising), rotacja 55 par hook×styl, miesięczne insights, zapis do Notion (baza „Posty")
-- dobryai.pl — strona ofertowa (konsultant AI dla organizacji społecznych); folder projektu strony: `~/dobryai/` — lustro serwera w `_public_html/`, drafty w `robocze/`, zasady w `~/dobryai/CLAUDE.md`
-- dobryai.pl/narzedzia/ — opublikowany lead magnet „Narzędzia AI dla organizacji społecznych" z formularzem zapisu e-mail (kopia produkcyjna: `~/dobryai/_public_html/narzedzia/`)
+- dobryai.pl — strona ofertowa (konsultant AI dla organizacji społecznych); folder projektu strony: `~/Projekty/dobryai/` — lustro serwera w `_public_html/`, drafty w `robocze/`, zasady w `~/Projekty/dobryai/CLAUDE.md`
+- dobryai.pl/narzedzia/ — opublikowany lead magnet „Narzędzia AI dla organizacji społecznych" z formularzem zapisu e-mail (kopia produkcyjna: `~/Projekty/dobryai/_public_html/narzedzia/`)
 - [[content-marketing]] · [[digital-campaigning]] — domeny tematyczne
 - Powiązane działania: artykuły publicystyka.ngo.pl (plugin `artykuly-ngo`, CTA → LinkedIn i konsultacje) — górny lejek tego obszaru
 

@@ -27,11 +27,12 @@ Wdrożyć część 1 planu z `plan-linkedin.md` (2026-06-18): nazwa stanowiska z
 - [ ] Sprawdzić wpływ zmian przy pomiarze SSI 2026-08-01 (filar „Establish your professional brand") — w ramach [[2026-07-01 Sprint SSI 35 na 50]]
 
 ## Powiązane zasoby
-- `~/Documents/Linkedin/plan-linkedin.md` — plan źródłowy (część 1 = zakres tego projektu)
-- `~/Documents/Linkedin/optymalizacja_profilu.md` · `omnie.md` — materiały pomocnicze profilu
+- `~/Projekty/Linkedin/plan-linkedin.md` — plan źródłowy (część 1 = zakres tego projektu)
+- `~/Projekty/Linkedin/optymalizacja_profilu.md` · `omnie.md` — materiały pomocnicze profilu
 - [[Marka osobista LinkedIn]] — obszar nadrzędny
 
 ## Log decyzji
 - 2026-06-18 — powstał plan (analiza SSI 35/100 + artykuł o algorytmie LinkedIn)
 - ~2026-06-30 — wdrożenie zmian w profilu zakończone (data orientacyjna)
 - 2026-07-08 — utworzenie notatki-huba w vaultcie po realizacji
+- 2026-07-12 — folder roboczy projektu przeniesiony do `~/Projekty/Linkedin` (reorganizacja: wszystkie projekty w `~/Projekty`); ścieżki w notatce zaktualizowane

@@ -20,7 +20,7 @@ Trwała rola: projektowanie i prowadzenie szkoleń oraz warsztatów z generatywn
 - [[2026-05-16 Szkolenie AI dla przedsiębiorczyń — Fundacja Ukrainka w Polsce]] — warsztat live demo, Wrocław (16.05.2026) — zrealizowane
 
 ## Kluczowe pojęcia i źródła
-- `~/Documents/Szkolenia/` — scenariusze, materiały i prezentacje wszystkich warsztatów (`LGD/`, `UwP/`, `Moversi/`)
+- `~/Projekty/Szkolenia/` — scenariusze, materiały i prezentacje wszystkich warsztatów (`LGD/`, `UwP/`, `Moversi/`)
 - [[szkolenia-AI]] · [[prompt-engineering]] · [[narzędzia-AI]] · [[organizacje-społeczne]] — domeny tematyczne
 - Powtarzalne moduły: anatomia promptu (R–K–Z–F), techniki (Chain of Thought, Few-Shot, Prompt Nesting), Projects jako asystent, workflow narzędziowe (Perplexity, Manus, Claude Cowork + Notion), Zasada zero (bezpieczeństwo danych)
 

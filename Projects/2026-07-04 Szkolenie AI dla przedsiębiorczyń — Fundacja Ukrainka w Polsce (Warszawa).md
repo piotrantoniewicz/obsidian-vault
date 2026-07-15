@@ -29,6 +29,9 @@ Przeprowadzić warsztat „AI dla przedsiębiorczyń: otwórz i rozwiń własny 
 6. Notion jako CRM — **Notion + Claude Cowork**
 7. Zamknięcie i plan na tydzień
 
+## Finanse
+- Wynagrodzenie: **1000 zł brutto** (4 h × 250 zł brutto)
+
 ## Kolejne kroki (domknięcie)
 - [ ] Rozesłać uczestniczkom listę promptów, szablon Notion (prospekty + CRM) i listę narzędzi z cenami
 - [ ] Wystawić dokumenty rozliczeniowe (jeśli w zakresie)

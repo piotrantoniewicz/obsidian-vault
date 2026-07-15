@@ -19,6 +19,9 @@ Przeprowadzić warsztat „GenAI dla organizacji społecznych — interfejs, pro
 **Tematyka:** popularne chatboty i pojęcia GenAI · anatomia skutecznego promptu · techniki (Chain of Thought, Few-Shot, Prompt Nesting) · zastosowania w organizacjach społecznych (maile, treści marketingowe, streszczanie, tłumaczenia) · Projects jako asystent organizacji · bezpieczeństwo, ryzyka i etyka (Zasada zero).
 Materiały źródłowe: `~/Projekty/Szkolenia/LGD/`.
 
+## Finanse
+- Wynagrodzenie: **1840 zł brutto** (8 h × 230 zł brutto)
+
 ## Kolejne kroki (domknięcie)
 - [ ] Rozesłać uczestnikom materiały i prompty online (strona z zasobami)
 - [x] Wystawić dokumenty rozliczeniowe / zaświadczenia (jeśli w zakresie)

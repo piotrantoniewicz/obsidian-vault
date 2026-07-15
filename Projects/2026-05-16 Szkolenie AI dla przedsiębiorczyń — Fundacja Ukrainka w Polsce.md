@@ -34,6 +34,9 @@ Przeprowadzić warsztat „AI dla przedsiębiorczyń: otwórz i rozwiń własny 
 - [x] Wystawić dokumenty rozliczeniowe (jeśli w zakresie)
 - [ ] Zebrać feedback i zapisać wnioski metodyczne do [[Szkolenia i warsztaty AI]]
 
+## Finanse
+- Wynagrodzenie: **1000 zł brutto** (4 h × 250 zł brutto)
+
 ## Powiązane zasoby
 - `~/Projekty/Szkolenia/UwP/AI dla przedsiębiorczyń.pdf` — prezentacja prowadzona
 - `~/Projekty/Szkolenia/UwP/program-szkolenia-AI-dla-przedsiebiorczyni.md` — pełny scenariusz (bloki, prompty, cele)

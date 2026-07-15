@@ -15,6 +15,7 @@ Trwała dziedzina kompetencji: doradztwo i opracowywanie strategii dla organizac
 
 ## Aktywne projekty
 - [[2026-06-26 Strategia DSP LGD — Dolnośląska Kuźnia III Sektora]] — strategia współpracy NGO na obszarach wiejskich Dolnego Śląska (due 2026-11-25)
+- [[2026-07-15 Strategia fundraisingowa dla Fundacji Rodzice dla Klimatu]] — strategia fundraisingowa dla ruchu rzeczniczego rodziców (due 2026-09-30, proces skrócony bez pełnego cyklu diagnoza→warsztaty→wdrożenie)
 
 ## Kluczowe pojęcia i źródła
 - `~/Projekty/LGD/Budowanie Strategii Organizacyjnej...md` — metodologia scenario-based strategic planning

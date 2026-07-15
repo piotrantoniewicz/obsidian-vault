@@ -27,6 +27,7 @@ Szczegółowe formaty notatek i procedury poszczególnych folderów ładują si�
 - Po dodaniu notatki do `Resources/` dopisz wpis do `Resources/index.md` w formacie:
   `- [[YYYY-MM-DD Tytuł]] — jednozdaniowy opis co zawiera`
 - **Terminologia: zawsze pisz „organizacje społeczne" zamiast „NGO" / „organizacje pozarządowe"** — we wszystkich notatkach, syntezach, hubach i przy każdym zapisywaniu treści. **Wyjątki (oryginalne brzmienie zostaje):** (1) surowe pliki trafiające do `Inbox/` (webclipy, oryginały) — podmieniaj dopiero przy przetwarzaniu do `Resources/`, `Galaxy/`, `Projects/`, `Areas/`; (2) oryginalne tytuły maili, clipów, artykułów itp. — jeśli zawierają „NGO" / „organizacje pozarządowe", zostawiaj je bez zmian (nie przepisujemy cudzych tytułów).
+- **Strategia LinkedIn / marka osobista:** źródło prawdy to `~/Projekty/Linkedin/system-linkedin.md` (instrukcja operacyjna + rozstrzygnięcia z 2026-07-13), hub w vaultcie: `Areas/Marka osobista LinkedIn.md`. Przy pracy nad treściami lub projektami LinkedIn czytaj je przed vaultowymi notatkami historycznymi.
 
 ## Reguła routingu — gdzie trafia notatka
 

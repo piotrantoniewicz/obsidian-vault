@@ -5,6 +5,8 @@ url: "https://joshspector.com/newsletter-audit-checklist/"
 published: 2026-07-05
 created: 2026-07-12
 tags:
+  - "content-marketing"
+  - "digital-campaigning"
 ---
 
 

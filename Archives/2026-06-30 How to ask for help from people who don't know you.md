@@ -5,6 +5,9 @@ url: "https://pradyuprasad.com/writings/how-to-ask-for-help/?utm_source=JoshSpec
 published: 2026-06-30
 created: 2026-07-12
 tags:
+  - "framing"
+  - "fundraising"
+  - "ghostwriting"
 ---
 
 

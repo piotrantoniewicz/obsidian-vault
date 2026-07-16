@@ -5,6 +5,8 @@ url: "https://www.linkedin.com/pulse/beyond-paycheck-culture-keeps-people-bryan-
 published: 2026-07-13
 created: 2026-07-15
 tags:
+  - "organizacje-społeczne"
+  - "strategia-organizacji"
 ---
 
 

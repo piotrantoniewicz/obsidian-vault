@@ -5,6 +5,9 @@ url: "https://www.linkedin.com/pulse/from-selling-belonging-bryan-neider-kdq0c/"
 published: 2026-07-14
 created: 2026-07-15
 tags:
+  - "framing"
+  - "organizacje-społeczne"
+  - "content-marketing"
 ---
 
 

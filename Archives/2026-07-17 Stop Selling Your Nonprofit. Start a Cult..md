@@ -5,6 +5,9 @@ url: "https://www.linkedin.com/pulse/stop-selling-your-nonprofit-start-cult-rhea
 published: 2026-07-17
 created: 2026-07-17
 tags:
+  - "fundraising"
+  - "framing"
+  - "organizacje-społeczne"
 ---
 
 

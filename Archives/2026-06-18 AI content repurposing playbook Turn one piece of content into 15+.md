@@ -5,6 +5,9 @@ url: "https://www.hostinger.com/blog/ai-content-repurposing-playbook/"
 published: 2026-06-18
 created: 2026-07-17
 tags:
+  - "content-marketing"
+  - "ghostwriting"
+  - "prompt-engineering"
 ---
 
 

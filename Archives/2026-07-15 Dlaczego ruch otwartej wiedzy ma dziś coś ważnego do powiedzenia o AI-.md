@@ -5,6 +5,9 @@ url: "https://www.linkedin.com/pulse/dlaczego-ruch-otwartej-wiedzy-ma-dzi%C5%9B-
 published: 2026-07-15
 created: 2026-07-17
 tags:
+  - "strategia-AI"
+  - "organizacje-społeczne"
+  - "trendy-AI"
 ---
 
 

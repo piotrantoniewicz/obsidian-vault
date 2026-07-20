@@ -5,6 +5,9 @@ url: "https://www.linkedin.com/pulse/opportunity-knocks-forster-ptlte/"
 published: 2026-07-08
 created: 2026-07-18
 tags:
+  - "framing"
+  - "organizacje-społeczne"
+  - "digital-campaigning"
 ---
 
 

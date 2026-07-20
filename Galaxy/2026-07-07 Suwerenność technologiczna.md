@@ -5,7 +5,7 @@ tags:
   - strategia-AI
   - narzędzia-AI
 created: 2026-07-07
-updated: 2026-07-07
+updated: 2026-07-20
 relevance: wysoka
 sources:
   - "[[2026-06-16 Suwerenność na wynajem]]"
@@ -71,7 +71,7 @@ Foale: jeśli misją organizacji jest dobro społeczne, a subskrypcje finansują
 - [[2026-07-06 RODO i dane wrażliwe|RODO i dane wrażliwe]] — prawna strona tego samego medalu: modele lokalne, architektura „model vs wiedza" i DPA to techniczne realizacje suwerenności danych beneficjentów.
 - [[2026-06-13 Wdrażanie AI w organizacji społecznej|Wdrażanie AI w organizacji społecznej]] — audyt zależności od dostawców powinien być filarem gotowości obok danych, ludzi i procesów.
 - [[2026-06-15 AI governance|AI governance]] — miejsce, gdzie suwerenność staje się procedurą: polityka doboru narzędzi, vendor due diligence, plan ciągłości działania.
-- [[AI Act]] — Europa reguluje maszyny, których nie buduje (Jemielniak): regulacja bez własnej infrastruktury daje suwerenność nominalną (czerwony link — backlog, 2. incoming).
+- [[2026-07-20 AI Act|AI Act]] — Europa reguluje maszyny, których nie buduje (Jemielniak): regulacja bez własnej infrastruktury daje suwerenność nominalną. Czerwony link zrealizowany 2026-07-20.
 - [[Sprawczość organizacyjna]] — suwerenność to infrastrukturalny warunek sprawczości: organizacja, która nie kontroluje swoich narzędzi, nie kontroluje swojego działania (czerwony link — backlog, 2. incoming).
 
 ---

@@ -5,6 +5,8 @@ url: "https://bloomerang.com/blog/donor-retention-math-made-simple?utm_medium=em
 published: 2025-09-02
 created: 2026-07-18
 tags:
+  - "fundraising"
+  - "strategia-organizacji"
 ---
 
 

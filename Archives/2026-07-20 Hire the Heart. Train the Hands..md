@@ -5,6 +5,7 @@ url: "https://www.linkedin.com/pulse/hire-heart-train-hands-bryan-neider-zkjhc/"
 published: 2026-07-20
 created: 2026-07-20
 tags:
+  - "strategia-organizacji"
 ---
 
 

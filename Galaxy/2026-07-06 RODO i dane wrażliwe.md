@@ -5,7 +5,7 @@ tags:
   - organizacje-społeczne
   - strategia-organizacji
 created: 2026-07-06
-updated: 2026-07-07
+updated: 2026-07-20
 relevance: wysoka
 sources:
   - "[[2025-09-02 AI Act & RODO 2025 Przewodnik po regulacjach UE karach i compliance]]"
@@ -26,7 +26,7 @@ RODO to prawny fundament każdej pracy organizacji społecznej z danymi osobowym
 ## Kluczowe mechanizmy
 
 **1. Organizacje społeczne grają o najwyższą stawkę**
-Opisanie przypadku beneficjenta w prompcie darmowego chatbota to potencjalne przekazanie danych szczególnych kategorii Big Techowi — bezpośrednie ryzyko naruszenia RODO i, co gorsze, bezpowrotnej utraty zaufania beneficjentów, darczyńców i partnerów ([[Wayan Vota]]). Do tego dochodzi warstwa regulacyjna: RODO i [[AI Act]] obowiązują **jednocześnie i eksterytorialnie**, a większość organizacji używających chatbotów, systemów rekomendacji czy CRM z AI jest już „podmiotem stosującym" w rozumieniu AI Act — z konkretnymi obowiązkami, niezależnie od tego, że niczego nie tworzy ([[Kasia Krzywicka]]).
+Opisanie przypadku beneficjenta w prompcie darmowego chatbota to potencjalne przekazanie danych szczególnych kategorii Big Techowi — bezpośrednie ryzyko naruszenia RODO i, co gorsze, bezpowrotnej utraty zaufania beneficjentów, darczyńców i partnerów ([[Wayan Vota]]). Do tego dochodzi warstwa regulacyjna: RODO i [[2026-07-20 AI Act|AI Act]] obowiązują **jednocześnie i eksterytorialnie**, a większość organizacji używających chatbotów, systemów rekomendacji czy CRM z AI jest już „podmiotem stosującym" w rozumieniu AI Act — z konkretnymi obowiązkami, niezależnie od tego, że niczego nie tworzy ([[Kasia Krzywicka]]).
 
 **2. Obowiązki, nie zakazy — mapa zgodności**
 Rdzeń RODO przy AI to cztery pytania: **podstawa prawna** przetwarzania, **zasada minimalizacji** (tylko niezbędne dane), **DPIA** (ocena skutków dla ochrony danych — przy AI często obowiązkowa) i **obowiązki informacyjne** (osoba musi wiedzieć jasno i przystępnie, że jej dane przetwarza AI). Nad tym mapa 8 kroków compliance (Krzywicka): rejestr systemów AI → analiza RODO każdego → weryfikacja AI Act (zakazy, wysokie ryzyko) → plan naprawczy → aktualizacja polityk i klauzul → analiza biasu w procesach → transparentność wobec użytkowników → **compliance jako proces ciągły**, nie jednorazowy projekt. Dla decyzji wrażliwych minimum dobrej praktyki to human-in-the-loop — AI nigdy nie decyduje w pełni automatycznie o sprawach beneficjentów (Maciejewicz).
@@ -52,7 +52,7 @@ Ponad **60% pracowników używa narzędzi AI bez wiedzy przełożonych** (Shadow
 - [[2026-06-13 Wdrażanie AI w organizacji społecznej|Wdrażanie AI w organizacji społecznej]] — audyt wrażliwości danych i mapa ich przepływu to obowiązkowy krok gotowości przed jakimkolwiek pilotażem („nie nurkuj tam, gdzie twój mózg jeszcze nie był").
 - [[2026-06-14 RAG|RAG]] — architektoniczna odpowiedź na dylemat prywatności: wiedza organizacji w bazie u klienta, model za DPA, opcjonalnie całość offline; „bezpieczniejsza ścieżka" dla danych beneficjentów.
 - [[2026-06-15 Agentic AI|Agentic AI]] — im więcej autonomii, tym ostrzejsze pytania o podstawę prawną i nadzór: human-in-the-loop przy danych wrażliwych to wymóg, nie opcja.
-- [[AI Act]] — europejska regulacja systemów AI wg poziomów ryzyka (zakazy, systemy wysokiego ryzyka, obowiązki podmiotu stosującego); kandydat na osobną stronę (czerwony link — backlog).
+- [[2026-07-20 AI Act|AI Act]] — europejska regulacja systemów AI wg poziomów ryzyka (zakazy, systemy wysokiego ryzyka, obowiązki podmiotu stosującego). Czerwony link zrealizowany 2026-07-20.
 - [[2026-07-07 Suwerenność technologiczna|Suwerenność technologiczna]] — modele lokalne i architektura „model vs wiedza" to nie tylko compliance, lecz element szerszej niezależności od dostawców, których warunki (i dostępność) mogą się zmienić z dnia na dzień.
 
 ---

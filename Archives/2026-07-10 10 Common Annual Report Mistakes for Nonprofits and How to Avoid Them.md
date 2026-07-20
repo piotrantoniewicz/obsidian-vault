@@ -5,6 +5,9 @@ url: "https://www.nptechforgood.com/2026/07/10/10-common-annual-report-mistakes-
 published: 2026-07-10
 created: 2026-07-20
 tags:
+  - "organizacje-społeczne"
+  - "content-marketing"
+  - "fundraising"
 ---
 
 

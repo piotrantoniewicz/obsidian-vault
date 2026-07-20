@@ -5,6 +5,9 @@ url: "https://www.donordock.com/articles/how-to-use-ai-in-fundraising-responsibl
 published: 2026-07-16
 created: 2026-07-18
 tags:
+  - "fundraising"
+  - "narzędzia-AI"
+  - "strategia-AI"
 ---
 
 

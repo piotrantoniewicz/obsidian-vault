@@ -5,6 +5,8 @@ url: "https://www.outintheboons.me/blog/2024/6/11/6-things-to-do-to-this-summer-
 published: 2024-06-11
 created: 2026-07-18
 tags:
+  - "fundraising"
+  - "content-marketing"
 ---
 
 

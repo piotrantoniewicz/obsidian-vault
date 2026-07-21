@@ -5,6 +5,8 @@ url: "https://www.donordock.com/articles/nonprofit-fundraising-operations-system
 published: 2026-07-15
 created: 2026-07-18
 tags:
+  - "fundraising"
+  - "strategia-organizacji"
 ---
 
 

@@ -1,6 +1,6 @@
 ---
 type: "Web"
-authors: "[[Nitasha Tiku, Ian Duncan, Gerrit De Vynck]]"
+authors: ["[[Nitasha Tiku]]", "[[Ian Duncan]]", "[[Gerrit De Vynck]]"]
 url: "https://www.washingtonpost.com/technology/2026/05/23/ai-industry-super-pacs-are-intervening-midterm-congressional-races/?utm_medium=email&_hsenc=p2ANqtz-8csBFfolGXH8Gaflh89qC2P6l7jHuw0bPQUm5sXYW8nfocEQ7DwsXYl91vRKRyw3O_jfTXkcZ-F_7RkxaOljhKllSCropIiFOgImoUEjg-d8qFWg0&_hsmi=140856036&utm_content=140856036&utm_source=hs_email"
 published: 2026-05-23
 created: 2026-07-20

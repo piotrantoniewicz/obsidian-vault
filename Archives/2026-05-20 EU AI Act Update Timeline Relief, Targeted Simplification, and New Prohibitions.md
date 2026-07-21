@@ -1,6 +1,6 @@
 ---
 type: "Web"
-authors: "[[Dan Cooper, Marty Hansen, Jadzia Pierce, Anna Sophia Oberschelp de Meneses, Madelaine Harrington, Marianna Drake]]"
+authors: ["[[Dan Cooper]]", "[[Marty Hansen]]", "[[Jadzia Pierce]]", "[[Anna Sophia Oberschelp de Meneses]]", "[[Madelaine Harrington]]", "[[Marianna Drake]]"]
 url: "https://www.globalpolicywatch.com/2026/05/eu-ai-act-update-timeline-relief-targeted-simplification-and-new-prohibitions/?utm_campaign=6496059-2025%20Newsletters&utm_medium=email&_hsenc=p2ANqtz--sS344H6zR69u6HVPdnOOJrSZZcpAPXcPPayYG3t2Ap2198ewPoPjMgwuMptU0d-63NyASGZrdE5g4UYITvvcDYbnJ9Q&_hsmi=421732966&utm_content=421734462&utm_source=hs_email"
 published: 2026-05-20
 created: 2026-06-02

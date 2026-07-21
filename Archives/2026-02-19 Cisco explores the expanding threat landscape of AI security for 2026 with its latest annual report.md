@@ -1,6 +1,6 @@
 ---
 type: "Web"
-authors: "[[Emile Antone, Amy Chang]]"
+authors: ["[[Emile Antone]]", "[[Amy Chang]]"]
 url: "https://blogs.cisco.com/ai/cisco-state-of-ai-security-2026-report?utm_campaign=6496059-2025%20Newsletters&utm_medium=email&_hsenc=p2ANqtz-9mOTXuw1m7ade1g20WbJCdj_3IRJDafmCdJwSLetIDqAWmuhOgW3uILFQjlxpQx6kZUEnI4UP3V5RQtE64s_T9IjREEA&_hsmi=421732966&utm_content=421734462&utm_source=hs_email"
 published: 2026-02-19
 created: 2026-06-02

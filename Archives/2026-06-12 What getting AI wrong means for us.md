@@ -1,6 +1,6 @@
 ---
 type: "Web"
-authors: "[[Daan Juijn, Stan van Baarsen, Judith Dada, Lily Stelling, Philip Fox, Alex Petropoulos, Michiel Bakker]]"
+authors: ["[[Daan Juijn]]", "[[Stan van Baarsen]]", "[[Judith Dada]]", "[[Lily Stelling]]", "[[Philip Fox]]", "[[Alex Petropoulos]]", "[[Michiel Bakker]]"]
 url: "https://europe2031.ai/"
 published:
 created: 2026-06-12

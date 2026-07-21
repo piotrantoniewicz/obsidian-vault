@@ -1,6 +1,6 @@
 ---
 type: "Web"
-authors: "[[Barbara Horváth, Holly Dawson]]"
+authors: ["[[Barbara Horváth]]", "[[Holly Dawson]]"]
 url: "https://www.centerfordigitalaction.eu/3-digital-progress-magazine/how-crowdfunding-solidarity-saved-budapest-pride?link_id=17&can_id=32cae499f95a9349c734a72403321b9c&source=email-something-has-changed-top-picks-from-digital-progressive-3-2&email_referrer=email_3314092&email_subject=something-has-changed-top-picks-from-digital-progressive-3&&"
 published:
 created: 2026-07-11

@@ -5,6 +5,8 @@ url: "https://bloomerang.com/blog/dataro-partners-with-bloomerang?utm_medium=ema
 published: 2026-07-01
 created: 2026-07-18
 tags:
+  - "fundraising"
+  - "narzędzia-AI"
 ---
 
 

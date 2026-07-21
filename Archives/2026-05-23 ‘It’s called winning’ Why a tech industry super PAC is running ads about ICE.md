@@ -5,6 +5,9 @@ url: "https://www.washingtonpost.com/technology/2026/05/23/ai-industry-super-pac
 published: 2026-05-23
 created: 2026-07-20
 tags:
+  - "digital-campaigning"
+  - "trendy-AI"
+  - "framing"
 ---
 
 

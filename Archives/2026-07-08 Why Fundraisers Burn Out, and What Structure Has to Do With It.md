@@ -5,6 +5,8 @@ url: "https://www.donordock.com/articles/why-fundraisers-burn-out-organizational
 published: 2026-07-08
 created: 2026-07-18
 tags:
+  - "fundraising"
+  - "strategia-organizacji"
 ---
 
 

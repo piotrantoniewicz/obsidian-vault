@@ -5,6 +5,8 @@ url: "https://thenonprofithive.com/nonprofit-board-governance-executive-director
 published: 2026-07-01
 created: 2026-07-18
 tags:
+  - "strategia-organizacji"
+  - "fundraising"
 ---
 
 

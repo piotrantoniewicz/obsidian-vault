@@ -5,6 +5,9 @@ url: "https://www.theguardian.com/technology/2026/jul/08/ai-ads-political-campai
 published: 2026-07-08
 created: 2026-07-20
 tags:
+  - "digital-campaigning"
+  - "trendy-AI"
+  - "narzędzia-AI"
 ---
 
 

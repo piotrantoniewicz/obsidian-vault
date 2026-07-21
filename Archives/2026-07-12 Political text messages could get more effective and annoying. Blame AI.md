@@ -5,6 +5,9 @@ url: "https://www.npr.org/2026/07/12/nx-s1-5867763/ai-artificial-intelligence-da
 published: 2026-07-12
 created: 2026-07-20
 tags:
+  - "digital-campaigning"
+  - "narzędzia-AI"
+  - "automatyzacja"
 ---
 
 

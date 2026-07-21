@@ -5,6 +5,8 @@ url: "https://www.brafton.com/blog/content-marketing/ai-in-marketing-what-market
 published: 2026-06-23
 created: 2026-07-20
 tags:
+  - "trendy-AI"
+  - "content-marketing"
 ---
 
 

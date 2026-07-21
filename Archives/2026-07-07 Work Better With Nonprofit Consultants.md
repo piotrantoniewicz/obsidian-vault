@@ -5,6 +5,8 @@ url: "https://thenonprofithive.com/work-better-with-nonprofit-consultants/?utm_s
 published: 2026-07-07
 created: 2026-07-18
 tags:
+  - "strategia-organizacji"
+  - "organizacje-społeczne"
 ---
 
 

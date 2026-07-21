@@ -5,6 +5,8 @@ url: "https://campaignsandelections.com/industry-news/dnc-rolls-out-new-organizi
 published: 2026-03-30
 created: 2026-07-20
 tags:
+  - "digital-campaigning"
+  - "strategia-organizacji"
 ---
 
 

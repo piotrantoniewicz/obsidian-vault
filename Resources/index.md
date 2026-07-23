@@ -135,6 +135,7 @@
 - [[2024-05-20 AI in Fundraising]] — CCS Fundraising: AI uwalnia czas na relacje z darczyńcami przez predykcję zachowań i automatyzację treści.
 - [[2024-05-23 Email Performance Red Flags High Unsubscribe Rate]] — Diagnoza wysokich wypisów emailowych: analiza kohortowa, welcome series i preference center.
 - [[2024-05-24 Jak dobrze wybrać, napisać i rozliczyć grant z pomocą sztucznej inteligencji]] — AI w procesie grantowym: 4-krokowa symulacja oceny wniosku i gotowe prompty dla fundraiserów.
+- [[2024-05-28 Want opens, clicks & replies to your emails- Do this.]] — Przykłady skutecznych, prostych maili nonprofitowych: tekstowe, osobiste, z jednym CTA zamiast rozbudowanej grafiki.
 - [[2024-05-29 14 Exceptional Nonprofit Peer-to-Peer Fundraising Platforms]] — Przegląd 14 platform peer-to-peer fundraisingu: ceny, funkcje i rekomendowane zastosowania dla NGO.
 - [[2024-05-30 AI Experimentation canvas]] — CAST: kanwa eksperymentów z AI dla NGO zamiast gotowych polityk, z zasadą transparentności.
 - [[2024-05-30 Weak Links, Stronger Sector Why Nonprofit Networking Is Not Optional]] — Słabe więzi zawodowe jako niedoceniane źródło rezyliencji i nowych idei w sektorze NGO.
@@ -188,6 +189,7 @@
 - [[2024-10-29 Designing a Monthly Giving Program Quick Tips and Examples]] — Praktyczny przewodnik monthly giving z case studies charity:water, WWF i Doctors Without Borders.
 - [[2024-10-30 5 things we learnt about public opinion on active travel]] — Climate Outreach: framing aktywnego transportu i zasada "nadziei i sprawczości bez pasywnej pozytywności" w komunikacji klimatycznej.
 - [[2024-10-30 Niepowodzenia AI Nauka na błędach i zagrożenia etyczne]] — Rami Al Naib/Univio: 85% projektów AI zawodzi z powodu złych danych; case studies halucynacji, bias i chatbotów jako materiał szkoleniowy dla NGO.
+- [[2024-11-04 Innovation amnesia Technology as a substitute for politics]] — Nathan Schneider: teoria „amnezji innowacyjnej" — jak narracja o innowacyjności technologii usypia czujność wobec norm prawnych i podważa władzę zbiorową słabszych grup.
 - [[2024-11-06 Najlepsze podcasty dla aktywistów aktywistek i organizacji społecznych część II]] — Ranking 10 polskich podcastów dla NGO: fundraising, strategia, technologie i zarządzanie organizacją.
 - [[2024-11-08 Our COP29- Advocating for more and better public engagement]] — Climate Outreach na COP29: jak komunikować przekroczenie celu 1,5°C bez niszczenia poczucia sprawczości odbiorców.
 - [[2024-11-12 19 funkcji Google Docs. Jak lepiej wykorzystywać Dokumenty Google w swojej organizacji]] — 19 zaawansowanych funkcji Google Docs dla NGO: tryb sugerowania, smart chips i pisanie głosowe.
@@ -239,6 +241,7 @@
 - [[2025-02-05 Mierzenie czasu pracy. Wnioski po pięciu latach]] — Toggl Track i RescueTime: 5 lat mierzenia czasu — zadania trwają 2x dłużej niż zakładamy, "praca wokół pracy" to 2h/dzień.
 - [[2025-02-05 Recykling treści Jak zautomatyzować tworzenie transkrypcji postów do mediów społecznościowych i wpisów na bloga]] — Make.com + OpenAI: automatyzacja recyklingu webinaru na transkrypcję, posty Facebook i wpis bloga.
 - [[2025-02-05 Your Open Rates Are Wrong Here s Why]] — Open rate jako proxy inbox placement, nie miara zaangażowania; diagnoza per mailbox provider i alternatywne metryki.
+- [[2025-02-06 How to Create a Free Fundraising Site in 7 Steps]] — CauseVox: 7 kroków budowy darmowej strony zbiórkowej — od konkretnego celu i wyboru strategii po donation tiers i test użyteczności.
 - [[2025-02-08 How You Can Leverage AI for Big Decisions – Insights from Geoff Woods]] — Geoff Woods: framework CRIT (Kontekst-Rola-Wywiad-Zadanie) i AI Board do strategicznych decyzji z AI.
 - [[2025-02-10 AI-Empowered Politics How Artificial Intelligence is Transforming Governance and Political Organizations]] — AI w kampaniach politycznych: bariery adopcji (brak ekspertyzy, EU AI Act) analogiczne do wdrożeń w NGO.
 - [[2025-02-10 Global Survey shows Rejection of Unrestricted Freedom of Expression]] — Badanie 13 500 osób: większość popiera moderację treści, ale 59% uważa agresję online za nieuniknioną.
@@ -916,6 +919,7 @@
 - [[2025-10-20 Human-centered AI Practical insights for nonprofit boards]] — Heyman: BYO AI vs intencjonalne wdrożenie — polityka AI, bezpieczne środowisko i szkolenia zarządu jako trzy priorytety.
 - [[2025-10-20 Just Fix It – The electoral map of Europe s cost of living crisis]] — ECDA (8 krajów): kryzys kosztów życia jako niezagospodarowany teren progresywnych NGO — problem w wizji, nie komunikacji.
 - [[2025-10-20 Mapping the UK migration justice movement]] — ECF/NEON: mapowanie przeciążonego ruchu sprawiedliwości migracyjnej UK i jego powiązań z innymi ruchami sprawiedliwości.
+- [[2025-10-20 NextAfter Minute 15 The Email Placement Trick That Boosted Conversions 97%]] — Moody Radio: przeniesienie CTA wyżej na stronie podniosło zapisy na listę mailingową o 97,3%.
 - [[2025-10-20 Pierwszy e-mail do klienta - Sprawdź jak zrobić to dobrze]] — Ecomail: welcome email jako "mapa relacji" — 74% subskrybentów oczekuje natychmiastowego powitania po zapisie.
 - [[2025-10-20 Who influenced Labour the most in their first year of office]] — ECF: analiza 10 000 spotkań ministerialnych Labour jako kampania transparentności opublikowana w Guardianie.
 - [[2025-10-21 3 powody, dlaczego jeszcze nie zarabiasz 100.000 zł na swojej wiedzy]] — Pawłowska: trzy blokady sprzedaży kursów — niejasna oferta, niewidoczny marketing i niezręczny proces sprzedaży.
@@ -2765,13 +2769,22 @@
 - [[2026-07-11 A team effort how Germany's Green party broke small-donor fundraising records]] — Sophia Lüneburg: jak niemieccy Zieloni zebrali 7 mln euro od 100 000 darczyńców w 4 miesiące — przygotowanie między kampaniami, lista jako centrum strategii, osobista komunikacja zespołu.
 - [[2026-07-11 Lekcja 5 - Sending Your First Email and Creating Your Plan]] — Jenna Kutcher: piąta lekcja kursu budowy listy mailingowej — zasada 90/10, welcome sequence i plan komunikacji na pierwsze 30 dni.
 - [[2026-07-11 Email deliverability guide]] — ECDA: techniczny przewodnik deliverability e-maili — konfiguracja SPF/DKIM/DMARC, proces rozgrzewania listy przy migracji narzędzia i 6 dobrych praktyk utrzymania zdrowej listy.
+- [[2026-07-23 Co chce wiedzieć...darczyńca-]] — Anna Jadwiga Orzech adaptuje metodę TAYA Marcusa Sheridana na komunikację NGO: 5 kategorii pytań darczyńców jako źródło treści na FAQ, bloga i social media.
+- [[2026-07-23 Why Children's Wisconsin built its own giving day]] — case study Civic Shout: własny dzień dobroczynności jako poligon testowy treści przed appelem na koniec roku, plus taktyka e-maila o porzuconym koszyku.
+- [[2026-07-23 Kandydat, który uczy się na pamięć przez chatbota]] — jak kampanie polityczne i władza próbują kształtować to, co chatboty "wiedzą" o kandydatach, z wnioskami dla framingu i digital campaigningu.
+- [[2026-07-23 najważniejsza zmiana w kampanii fundraisingowej]] — Social Movers Hub o przesunięciu komunikacji fundraisingowej z opisu działań organizacji na konkretny wpływ wpłaty darczyńcy.
 - [[2026-07-22 The link building mistake tanking your rankings]] — Matt Diggity: cztery zasady trafności linków w SEO (dopasowanie tematyczne, kontekst, docelowe strony, naturalny anchor text) zamiast pogoni za liczbą linków.
+- [[2026-07-22 The Year-End Appeal That Doesn't Treat Every Donor the Same]] — Wendy Clow: 5-krokowy workflow AI do segmentacji darczyńców i draftowania spersonalizowanych apeli końcworocznych, zaczynany już w lipcu.
+- [[2026-07-22 Zaufanie w erze AI]] — ProLetter: zaufanie jako oś Social Media Marketingu 2026 — regulacje chroniące nieletnich, zalew treści AI i dane o rozjeździe między odkrywaniem a kupowaniem w social commerce.
+- [[2026-07-22 The one outreach hack I wish every writer knew]] — Premium Ghostwriting Academy: zasada nieustannego follow-upu w sprzedaży usług ghostwritingowych wraz z gotowymi frazami na różne etapy kontaktu.
+- [[2026-07-22 The Runway Before the Flight]] — Bryan Neider (AbilityPath): governance AI dla organizacji społecznych jako „pas startowy" przed wdrożeniem — trzy pytania do dostawcy, playbook na kwartał i zasada, że ostateczna decyzja o usłudze zawsze należy do człowieka.
 - [[2026-07-13 Beyond the Paycheck Culture That Keeps People]] — Bryan Neider: pięć filarów kultury retencji w human services — superwizja jako najsilniejsza dźwignia, ścieżka kariery i przyzwolenie na bycie człowiekiem ważniejsze niż podwyżka.
 - [[2026-07-13 Stop renting audience]] — Laura Blake: dlaczego lista mailingowa i first-party relacje są cenniejsze niż zasięg wynajmowany od platform, zwłaszcza w erze AI odpowiadającego bez przekierowania do źródła.
 - [[2026-07-13 🎙️ How I AI GPT-5.6 review, How a solo builder runs 247 local AI, and What an agent harness is and how to build one]] — Lenny Rachitsky (podcast): czym jest agentowy "harness" na przykładzie triażu Sentry, jak solo-builder łączy lokalne modele z Claude Code w pętli budowa-recenzja, oraz recenzja GPT-5.6 Sol vs. Claude Fable.
 - [[2026-07-13 Control the ideas, not the code]] — antirez: teza, że w erze LLM wartość programisty przesuwa się z czytania/pisania kodu na kontrolowanie idei i architektury, z rekomendacją dokumentacji projektowej zamiast recenzji kodu.
 - [[2026-07-13 10 LinkedIn post formats that generate clients]] — Josh Spector: dziesięć gotowych formatów postów LinkedIn opartych na zasadzie "zapisz, opublikuj" — bez tworzenia treści od zera.
 - [[2026-07-13 How Interrupting the Browsing Experience with a Gift Selection Slide-up Impacts Online Donations]] — NextAfter: eksperyment A/B pokazujący 100% wzrost konwersji darowizn dzięki natrętnemu elementowi slide-up z gotowymi kwotami.
+- [[2026-07-13 Proof Of Care in the Age of A.I.]] — Jacob Filipp: satyryczny esej o eskalującej "wojnie o dowody troski" w świecie zalanym treścią AI, od ręcznego pisania po rytuały fizyczne.
 - [[2026-07-14 From Selling to Belonging]] — Bryan Neider: cztery filary Engagement Playbook dla NGO — pierwsze pięć minut kontaktu, kotwicząca historia, spójny głos i każdy touchpoint jako wpłata na konto zaufania.
 - [[2026-07-14 Send It Right - Setting Recipient Expectations]] — Lauren Meyer: jak ustalać i dotrzymywać oczekiwań przy zapisie na newsletter, żeby ograniczyć skargi spamowe i przedwczesne wypisy — plus audyt procesu zapisu.
 - [[2026-07-14 5 things blowing up client businesses right now]] — Tribe Digital (Matthew Brown): 4 filary skutecznej sprzedaży z contentu i 5 dźwigni konwersji leadów, na przykładzie klienta ghostwritera.
@@ -2800,6 +2813,7 @@
 - [[2026-07-16 o kampaniach fundrasingowych]] — Social Movers Hub: system kampanii fundraisingowej (cel, grupa, komunikat, kanały, momenty decyzji) i trzy najczęstsze błędy organizacji przy projektowaniu zbiórek.
 - [[2026-07-16 I don't care about reach]] — Josh Spector: krytyka pogoni za zasięgiem w marketingu osobistym — liczy się dotarcie do kilku właściwych odbiorców, nie do tysięcy followersów.
 - [[2026-07-16 How to Use AI in Fundraising Responsibly (A Practical Playbook)]] — Rob Burke (DonorDock): pięcioetapowy playbook odpowiedzialnego AI w fundraisingu (polityka, dane, kontekst, granice, weryfikacja) i szablon jednostronicowej polityki AI dla organizacji.
+- [[2026-07-16 Technology Solutions for Nonprofits Building a Smarter Tech Stack]] — Engaging Networks: 4-krokowa strategia technologiczna i checklista wyboru narzędzi dla organizacji z rozproszonym stackiem (CRM, e-mail, eventy).
 - [[2026-07-17 Are You AI-First Get the Truth With My Free Assessment]] — Allie K. Miller: dane Pew Research i KPMG o adopcji AI w USA — rozbieżność między postrzeganą a rzeczywistą gotowością AI, korelacja odpowiedzialności za AI z ROI (3x).
 - [[2026-07-17 Should I charge for my newsletter]] — Josh Spector: sześć potencjalnych korzyści przeniesienia newslettera do płatnego członkostwa (przychód, retencja, uproszczenie, wartość, relacja, nieprzewidziane).
 - [[2026-07-17 6 dobrych praktyk tworzenia lepszych skills]] — Robert Szewczyk: sześć zasad pisania skuteczniejszych skilli dla agentów AI (description, progressive disclosure, skrypty, przykłady, minimalizm, kontrola uruchamiania).
@@ -2810,3 +2824,4 @@
 - [[2026-07-21 Giving USA 2026 - what emailers should know]] — Civic Shout: raport Giving USA 2026 zestawiony z M+R Benchmarks — wzrost zapisów testamentowych, stagnacja darowizn korporacyjnych i rozbieżności wzrostu między podsektorami, z wnioskami dla segmentacji apeli końcoworocznych.
 - [[2026-07-21 How to build a newsletter funnel]] — Ryan Carr (Moodboard) o trzech elementach newsletter funnela: wzrost listy, częsta treść, segmentacja leadów pod konwersję.
 - [[2026-07-21 Masowe zwolnienia przez AI już się zaczęły. -Wszyscy czytają Engelsa-]] — analiza fali zwolnień technologicznych uzasadnianych AI (Oracle, Amazon, Dell) i prognoz utraty miejsc pracy w Polsce (3,7-5,5 mln), z odniesieniem do „pauzy Engelsa" i szans/ryzyk makroekonomicznych.
+- [[2026-07-21 Every Employee a Narrator  Scaling Your Story]] — Bryan Neider (AbilityPath): jak skalować storytelling z jednego marketingowca na całą organizację — trening „narratorów" z pierwszej linii, dane Stanford o przewadze pamięciowej historii nad statystyką i arc Context-Challenge-Big Idea-Strategy-Execution zastosowany szerzej niż w apelach.

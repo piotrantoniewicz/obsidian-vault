@@ -5,6 +5,8 @@ url: "https://www.outintheboons.me/blog/2024/5/28/want-opens-clicks-amp-replies-
 published: 2024-05-28
 created: 2026-07-21
 tags:
+  - "fundraising"
+  - "content-marketing"
 ---
 
 

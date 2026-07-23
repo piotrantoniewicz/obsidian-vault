@@ -5,6 +5,9 @@ url: "https://firstmonday.org/ojs/index.php/fm/article/view/13668"
 published: 2024-11-04
 created: 2026-07-21
 tags:
+  - "framing"
+  - "organizacje-społeczne"
+  - "strategia-organizacji"
 ---
 
 This paper outlines a theory of amnesia in the face of innovation: when apparent technological innovations occasion the disregard of preexisting cultural, legal, and infrastructural norms. Innovation amnesia depends on cultural patterns that appear to be increasingly widespread: the valorization of technological innovation and the sensation of limited political space for reforming social arrangements. The resulting amnesia is by default an extension of existing structural inequalities. If innovations arise through deploying concentrated private wealth, the amnesia will likely target institutions that facilitate collective power among less powerful people. Up and down social hierarchies, however, achieving amnesia through innovation can bear irresistible allure. When other paths for structural change become mired in inertia or gridlock, amnesia may appear to be the only available pathway to reform. The purpose of a theory of amnesia is to assist affected communities in noticing it when it occurs and wielding it to their advantage, particularly through mobilizing self-governance around moments of innovation.

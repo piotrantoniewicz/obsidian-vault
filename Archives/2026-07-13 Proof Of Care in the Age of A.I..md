@@ -5,6 +5,9 @@ url: "https://jacobfilipp.com/care"
 published: 2026-07-13
 created: 2026-07-21
 tags:
+  - "content-marketing"
+  - "framing"
+  - "trendy-AI"
 ---
 
 ## Introduction

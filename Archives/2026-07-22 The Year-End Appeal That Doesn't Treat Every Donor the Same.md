@@ -5,6 +5,9 @@ url: "https://www.linkedin.com/pulse/year-end-appeal-doesnt-treat-every-donor-sa
 published: 2026-07-22
 created: 2026-07-22
 tags:
+  - "fundraising"
+  - "automatyzacja"
+  - "digital-campaigning"
 ---
 
 

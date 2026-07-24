@@ -5,7 +5,7 @@ tags:
   - organizacje-społeczne
   - strategia-organizacji
 created: 2026-06-15
-updated: 2026-06-30
+updated: 2026-07-24
 relevance: wysoka
 sources:
   - "[[2024-08-12 AI Governance Framework for Nonprofits]]"
@@ -19,6 +19,8 @@ sources:
   - "[[2026-06-16 Suwerenność na wynajem]]"
   - "[[2025-12-08 Guidance for using artificial intelligence in fundraising]]"
   - "[[2026-05-20 EU AI Act Update Timeline Relief, Targeted Simplification, and New Prohibitions]]"
+  - "[[2026-07-22 The Runway Before the Flight]]"
+  - "[[2026-07-24 Still In Control]]"
 ---
 
 # AI governance (zarządzanie AI w organizacji)
@@ -49,6 +51,12 @@ Etyka AI zaczyna się od projektowania, nie od audytu po fakcie. Pięć etapów 
 
 **7. Filtr wartości przed adopcją — Reguła Trzech ([[Bryan Neider]])**
 Technologia nie jest neutralna: każdy system niesie wartości i ślepe punkty twórców. Dlatego każde narzędzie AI przechodzi przez trzy filtry, **zanim** dotknie klientów, danych lub workflow personelu: **Human Dignity** (jeśli kompromituje godność — odpada), **Algorithmic Transparency** (architektura danych i relacje z dostawcą muszą być zrozumiałe — żadnych „czarnych skrzynek" wobec grup wrażliwych), **Values-Based Governance** (narzędzia podlegają tym samym standardom etycznym co pracownicy — bez wyjątków dla technologii). Mechanizmem jest **AI Governance Working Group** — nie komitet spowalniający, lecz brama zachowująca tożsamość organizacji po adopcji. Pułapka do nazwania: **„human-in-the-loop paradox"** — ludzki podpis pod rekomendacją AI to nie to samo co ludzki osąd; governance musi to rozróżniać.
+
+**8. „Pas startowy" zamiast zakazu — odpowiedź na shadow AI ([[Bryan Neider]])**
+Domyślny stan z mechanizmu 1 ma już nazwę operacyjną: **shadow AI** — pracownicy wklejający dane klientów i darczyńców do darmowych narzędzi. Odpowiedzią nie jest zakaz (nieegzekwowalny), lecz zbudowanie pasa startowego przed startem: (a) **opublikowanie granicy danych** — darmowe narzędzia AI nigdy nie dotykają nazwiska klienta, diagnozy ani danych darczyńcy; (b) **bezstresowy, anonimowy audyt użycia** — zapytaj zespół, czego już używa, bez konsekwencji; (c) **przejście na licencje enterprise z umową** — IT formalnie podpisuje umowę o ochronie danych i wyłącza trenowanie na modelach publicznych; (d) interdyscyplinarny **zespół przeglądowy** (program, IT, compliance, przedstawiciel zarządu) zatwierdzający każde nowe zastosowanie; (e) test biasu na realnych przypadkach; (f) jawna komunikacja zasad zarządowi i społeczności. **Trzy pytania przed podpisaniem umowy z dostawcą AI:** czy nasze dane będą trenować wasze publiczne modele, czy podpiszecie formalną umowę o ochronie danych obejmującą dane zdrowotne/klienckie, czy nasze IT będzie widzieć i kontrolować, kto używa narzędzia i jak. Teza mocniejsza niż sama procedura: **poziom licencji (darmowa vs enterprise) to sygnał tego, jak bardzo organizacja szanuje dane osób, którym służy** — strategia AI wymaga budżetu na wersje enterprise, nie tylko na eksperymenty.
+
+**9. Zatwierdzenie to początek, nie meta — Tri-Pillar i HITL jako praktyka stała**
+Domknięcie luki z mechanizmu 4 (polityki zatwierdzania nie działają dla systemów zmieniających zachowanie po wdrożeniu): akceptacja narzędzia przez zarząd otwiera odpowiedzialność, a nie ją zamyka — zwłaszcza przy systemach agentowych, które po uruchomieniu działają samodzielnie, bez przerwy sprawdzającej, czy warunki się zmieniły. **Tri-Pillar Governance Framework** kotwiczy każde wdrożenie w trzech filarach: **Etyka / Koszt / Nadzór**. **Human-in-the-Loop** przestaje być jednorazowym zabezpieczeniem, a staje się praktyką stałą: przy każdym zadaniu krytycznym lub dotykającym darczyńcy/podopiecznego wykwalifikowana osoba przegląda i zatwierdza output, zanim cokolwiek się wydarzy. Najczęstszy błąd to system, który dalej działa, gdy nikt już go nie obserwuje. Do tego decyzja **build vs buy** jako element governance, nie tylko IT: własny system = pełna kontrola nad danymi przy koszcie kapitału i kompetencji; gotowa platforma = szybkość przy ograniczonej kontroli nad praktykami prywatnościowymi dostawcy. Uwaga: to mechanizm-lustro dla „human-in-the-loop paradox" z mechanizmu 7 — HITL działa tylko wtedy, gdy człowiek realnie osądza, a nie podpisuje.
 
 ---
 
@@ -88,6 +96,8 @@ Technologia nie jest neutralna: każdy system niesie wartości i ślepe punkty t
 - **Argument RODO dla sceptyków**: „wklejanie danych beneficjentów do zewnętrznego AI może być incydentem wymagającym zgłoszenia do UODO" — najskuteczniej przekonuje oporne organizacje do podjęcia tematu.
 - **Compliance-check przy doradztwie (EU AI Act)**: sprawdź, czy używane przez organizację systemy nie wpadają w kategorię wysokiego ryzyka (Annex III, termin 2 grudnia 2027) i czy budując narzędzie na zewnętrznym LLM-ie nie przejmujesz obowiązków informacyjnych z Art. 25 — element do wpisania w umowy z dostawcami modeli. „Organizacja odpowiada za każdy output AI" (Fundraising Regulator) to mocny argument za polityką, szczególnie wobec grantodawców zagranicznych.
 - **Governance dla zarządu**: zasada „low touch, high value" + dashboard misji (zielony/żółty/czerwony) jako sposób, by rada nadzorcza ogarnęła AI bez wchodzenia w szczegóły techniczne; „najpierw ryzyko, potem kontrole" jako reguła kolejności dla organizacji bez zasobów na kosztowne błędy.
+- **Playbook pierwszego kwartału (Neider)**: granica danych opublikowana w tym tygodniu → anonimowy audyt użycia → migracja na licencje enterprise z umową → zespół przeglądowy → test biasu → komunikat do zarządu i społeczności. Gotowa checklista do sprzedania jako pakiet wdrożeniowy — konkretniejsza niż „napiszmy politykę".
+- **Trzy pytania do dostawcy AI** jako załącznik do każdej umowy: trenowanie na naszych danych, formalna umowa o ochronie danych, widoczność i kontrola po stronie IT. Krótkie, zrozumiałe dla zarządu, weryfikowalne.
 - **Element kursu „Fundraising z AI"**: moduł o odpowiedzialnym wdrożeniu — pięć etapów dojrzałości + szablon polityki jako praca domowa uczestników.
 
 ---

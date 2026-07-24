@@ -5,7 +5,7 @@ tags:
   - content-marketing
   - digital-campaigning
 created: 2026-06-23
-updated: 2026-06-30
+updated: 2026-07-24
 relevance: wysoka
 sources:
   - "[[2025-07-30 Generative engine optimisation query]]"
@@ -18,6 +18,8 @@ sources:
   - '[[2025-08-21 What is "AI Brand Footprint" How you show up in AI conversations]]'
   - "[[2026-02-15 Generative AI Is Becoming the New Front Door — What That Means for Brands and Mission-Driven Organizations LinkedIn]]"
   - "[[2026-01-20 SEO i AI w praktyce - case Big Star i LLMwatcher]]"
+  - "[[2026-07-23 Kandydat, który uczy się na pamięć przez chatbota]]"
+  - "[[2026-07-23 Co chce wiedzieć...darczyńca-]]"
 ---
 
 # Widoczność w AI search (GEO / AEO)
@@ -47,6 +49,12 @@ Co konkretnie zwiększa cytowalność: **front-loading faktów** (44% cytowań p
 Organizacja może być aktywna w mediach, a mimo to **niewidoczna** w systemach AI kształtujących wczesny etap odkrywania. Gorzej — AI może opisywać ją **nieaktualnie lub niezamierzenie** (*dryft narracyjny*), wpływając na reputację, zanim ktokolwiek trafi na stronę. AI to dziś **„nowa brama wejściowa"** (Wheeler, Save the Children US): pierwszy kontakt z organizacją coraz częściej zachodzi przez odpowiedź chatbota, nie przez stronę — a **luki narracyjne „zapełniają się same"**, bo model skonstruuje opis z dostępnych (często nieaktualnych) źródeł niezależnie od tego, czy organizacja aktywnie zarządza narracją. To czyni AI **kanałem reputacyjnym**, nie tylko kanałem ruchu. Tej ekspozycji nie łapią GA4 ani Search Console. Stąd pojęcie **AI Brand Footprint** (Whole Whale): miara, jak często i jak prominentnie marka pojawia się w odpowiedziach AI, szacowana reverse-engineeringiem (`Estimated AI Impressions = ruch z domen AI ÷ ~2% CTR`). Tylko 22% marketerów w ogóle monitoruje swoją widoczność w LLM — kto zacznie teraz, zyska przewagę jak we wczesnym SEO.
 
 ---
+
+**7. Ustrukturyzowane Q&A jako najtańsza dźwignia — i jej ciemna strona**
+Najmocniejszy dotąd dowód, że GEO działa w obie strony, przychodzi z polityki: kandydat w prawyborach w Missouri (Dustin Lloyd) opublikował obszerne **Q&A o sobie**, po czym chatboty zaczęły poprawnie łączyć jego życiorys z postulatami i powtarzać to **tonem obiektywnego faktu**. Mechanizm jest tani i dostępny dla każdej organizacji: model uczy się z tego, co publicznie dostępne, więc ustrukturyzowane odpowiedzi na przewidywalne pytania kształtują to, co LLM „wie". Ta sama metoda pozwala jednak **zaszkodzić konkurentowi** — model nie odróżnia prawdy od manipulacji, tylko dopasowuje wzorce, a wokół tego wyrosła płatna branża ustawiania narracji w modelach („NYT"). Trzecia warstwa to presja instytucjonalna: prokurator generalny Missouri wysłał formalne pisma do Google'a, Microsoftu, OpenAI i Mety, żądając zmiany odpowiedzi chatbotów o prezydentach. Chatbot różni się od wyszukiwarki tym, że **nie wskazuje źródeł do sprawdzenia, tylko wygłasza gotowy sąd** — co czyni go narzędziem [[2026-06-14 Framing|framingu]], a nie neutralnym indeksem. Dla organizacji społecznych: dryft narracyjny (mechanizm 6) przestaje być ryzykiem przypadkowym i staje się polem, na którym ktoś może działać celowo.
+
+**8. TAYA jako generator treści cytowanych — pytania odbiorcy, nie język ekspercki**
+Metoda **They Ask, You Answer** ([[Marcus Sheridan]], w adaptacji Anny Jadwigi Orzech) dostarcza brakującego wsadu do mechanizmu 5: treść cytowana przez AI to treść odpowiadająca na **realne pytania w formie, w jakiej odbiorca je zadaje**. Pięć kategorii pytań przełożonych na sektor społeczny: (1) **ceny i koszty** — ile z każdej złotówki idzie na cel, a ile na administrację; (2) **problemy i wady** — dla kogo dane działanie nie jest, jakie są bariery wejścia; (3) **porównania** — czym różnimy się od innych organizacji w tym samym temacie; (4) **recenzje** — świadectwa beneficjentów, wolontariuszy, partnerów; (5) **najlepsze w klasie** — jak wybrać organizację, której przekazać pieniądze. Gdzie szukać surowca: skrzynka mailowa, notatki z rozmów telefonicznych, zapisy czatu z webinarów, wyszukiwanie wewnętrzne na stronie i ruch organiczny w GA4. Zbieżność z GEO jest bezpośrednia — pytania odbiorców to naturalne query, a odpowiedzi w ich języku to gotowe fragmenty do cytowania. Warunek, którego nie da się obejść: trzeba odpowiadać także na pytania **niewygodne** (koszty administracyjne), bo to one budują zaufanie — i to one padają najczęściej.
 
 ## Frameworki-kotwice
 

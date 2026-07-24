@@ -5,7 +5,7 @@ tags:
   - strategia-AI
   - narzędzia-AI
 created: 2026-07-07
-updated: 2026-07-20
+updated: 2026-07-24
 relevance: wysoka
 sources:
   - "[[2026-06-16 Suwerenność na wynajem]]"
@@ -18,6 +18,9 @@ sources:
   - "[[2025-03-19 Czy AI odbiera nam sprawczość Zachowaj kontrolę nad technologią]]"
   - "[[2025-04-21 We need dissident tech, now!]]"
   - "[[2025-05-15 Is your technology stack part of your theory of change]]"
+  - "[[2026-07-24 Kimi K3 Redraws the Open Frontier, Muse Spark 1.1 Undercuts Competitors, Cloudflare Moves to Cut Off Crawlers]]"
+  - "[[2026-07-23 The data center fight is going global]]"
+  - "[[2026-07-21 Masowe zwolnienia przez AI już się zaczęły. -Wszyscy czytają Engelsa-]]"
 ---
 
 # Suwerenność technologiczna (Technological Sovereignty)
@@ -50,6 +53,15 @@ Nagłowski (AI Social Lab): „najważniejsze jest posiadanie i rozumienie techn
 Foale: jeśli misją organizacji jest dobro społeczne, a subskrypcje finansują firmy destabilizujące demokrację, to **wybór dostawcy jest decyzją polityczną i elementem teorii zmiany** — nie neutralnym zakupem. Analogia diagnostyczna: sektor jest z suwerennością tam, gdzie aktywizm klimatyczny 20 lat temu — problem znany, brakuje praktycznych ścieżek operacjonalizacji. Z tej samej dyskusji (ECF): „bezpłatne" znaczy „jesteś produktem", a problemy technologiczne organizacji to często problemy organizacyjne w przebraniu — audyt zależności warto łączyć z pytaniem o strategię, nie tylko o narzędzia.
 
 ---
+
+**8. Odwrócenie argumentu „otwarte = niebezpieczne" ([[Andrew Ng]])**
+Kontrapunkt dla domyślnej narracji bezpieczeństwa: w opisanym przez Ng incydencie to **model zamknięty** przypadkowo wywołał poważny atak na infrastrukturę Hugging Face, a **otwarty model GLM 5.2 pomógł go przeanalizować i się obronić** — bo komercyjny LLM odmówił analizy logów „ze względów bezpieczeństwa". Guardraile utrudniły obronę, otwartość ją umożliwiła. Trzy wnioski dla stosu organizacji: (a) otwarte modele wagowe (GLM 5.2, nadchodzący Kimi K3) domykają dystans do zamkniętych, co osłabia argument o ich rzekomej niebezpieczności; (b) nadmierne ograniczenia mają realny koszt operacyjny w sytuacji kryzysowej; (c) **możliwość analizy własnych danych bez wysyłania ich na zewnątrz to praktyczna przewaga bezpieczeństwa, nie postulat ideologiczny**. Ng nazywa też część dyskursu o AI safety próbą **regulatory capture** na korzyść dostawców modeli zamkniętych — teza mocna i sporna, ale warta znajomości, bo pojawia się w rozmowach o wyborze stosu.
+
+**9. Warstwa fizyczna suwerenności — centra danych jako lokalny konflikt**
+Suwerenność technologiczna ma wymiar, którego nie widać w warstwach stosu Benaicha: **infrastrukturę fizyczną i jej lokalny koszt**. Opór wobec centrów danych AI stał się zjawiskiem globalnym — od USA (moratoria w Nowym Jorku i Seattle, koalicja 500+ organizacji) przez Holandię, Irlandię, Chile i Urugwaj po Australię i Francję. Liczby, które nadają temu skalę: **71% Amerykanów sprzeciwia się budowie centrum danych w swojej okolicy** (48% zdecydowanie — więcej niż wobec elektrowni jądrowej: 53%); **centra danych zużyły 23% irlandzkiej energii elektrycznej w 2025 r.** (wzrost z 5% dekadę wcześniej, prognoza 31% do 2034). Trzykrokowy przepis organizowania: **dowiedz się, czego ci nie powiedzieli** (wnioski planistyczne, dostęp do informacji publicznej, dokumenty zoningowe — firmy zwykle ukrywają realną liczbę miejsc pracy, wpływ na ceny energii i zużycie wody) → **buduj najszerszą możliwą koalicję** (kościoły, lokalny biznes, kluby sportowe — trudniejsi do zdyskredytowania niż „zwykli podejrzani") → **zrozum, jak wygląda wygrana** (moratoria kupują czas, nie są rozwiązaniem docelowym). Uwaga dla filantropii: pieniądze zwykle przychodzą za późno, bo finansuje się organizacje, a nie ruchy — a nieformalne grupy bez osobowości prawnej działają najskuteczniej w najwcześniejszej fazie.
+
+**10. Suwerenność a rynek pracy — ryzyko bycia dostawcą talentu bez własności technologii**
+Trzecie rozszerzenie: konsekwencje makro. Prognozy dla Polski rozjeżdżają się mocno — **3,7 mln zagrożonych miejsc pracy (Polski Instytut Ekonomiczny) do 5,5 mln (MFW, horyzont 5–10 lat)** przy ok. 17 mln pracujących; Layoffs.fyi notuje **121 tys. zwolnień w branży technologicznej do połowy lipca 2026** (wobec 126 tys. w całym 2025). Bank Światowy widzi dla Polski zysk **1,3–12,1% PKB**, ale warunkowany przekwalifikowaniem i aktywną polityką rynku pracy. Kluczowy dla tej strony jest jednak inny wątek: ryzykiem nie jest tylko utrata miejsc pracy, lecz **przejęcie marż i klientów przez kraje, które wcześniej zbudują przewagę w modelach, danych i infrastrukturze** — scenariusz, w którym kraj zostaje dostawcą talentu bez własności technologii. To ten sam mechanizm co „suwerenność na wynajem", tylko na poziomie gospodarki, nie pojedynczej organizacji. Rozbieżność prognoz (PIE, MFW, NASK) sama w sobie jest argumentem za **planowaniem scenariuszowym**, nie jednoznacznym.
 
 ## Frameworki-kotwice
 

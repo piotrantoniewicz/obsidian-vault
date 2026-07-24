@@ -5,7 +5,7 @@ tags:
   - strategia-organizacji
   - organizacje-społeczne
 created: 2026-07-06
-updated: 2026-07-06
+updated: 2026-07-24
 relevance: wysoka
 sources:
   - "[[2026-06-23 Donors gave U.S. charities $617 billion in 2025, according to the new Giving USA report]]"
@@ -13,6 +13,7 @@ sources:
   - "[[2026-04-15 Developing Major Donors and Planned Giving for Long-Term Sustainability]]"
   - "[[2026-04-24 Beyond the Ask Donor Stewardship]]"
   - "[[2026-06-12 The Generational Remix What the 2026 Giving Signals Report Reveals]]"
+  - "[[2026-07-21 Giving USA 2026 - what emailers should know]]"
 ---
 
 # Transfer międzypokoleniowy majątku (Great Wealth Transfer)
@@ -42,6 +43,9 @@ Transfer zmienia nie tylko *skąd* płyną pieniądze, ale *jak* się je daje. M
 Giełda stała się głównym predyktorem poziomu dawania, megadarczyńcy koncentrują pulę (19,2 mld USD megagifts), a udział darczyńców indywidualnych spadł do 64% (z 80% w 1985 r.) — filantropia oparta na bieżącej gotówce jest coraz bardziej cykliczna i skoncentrowana (Giving USA 2026). Strategia na transfer jest dwutorowa: **legaty od Boomersów** (najlojalniejsze pokolenie, 70% ceni przejrzyste raportowanie finansowe) plus **relacje z dziedzicami budowane równolegle, już teraz** — zwycięzcy transferu zaczynają przed jego kulminacją. Jak ujmuje to Fois: *„odległość do 2030 nie jest mierzona w dolarach — mierzona jest w decyzjach"*.
 
 ---
+
+**7. Giving USA 2026: zapisy testamentowe najszybciej rosnącym źródłem — a programy mailowe tego nie widzą**
+Twarde potwierdzenie mechanizmu 1 z nowego rocznika danych: przy całkowitych darowiznach w USA na poziomie **617,20 mld USD (+5,7% nominalnie, +3,0% realnie)** zapisy testamentowe urosły o **16,6% realnie, do 62,19 mld USD — najszybciej ze wszystkich źródeł**. W tym samym czasie darowizny korporacyjne praktycznie stanęły: **+0,5% realnie**. Podsektory rozjeżdżają się mocno (środowisko i prawa zwierząt +8,2%, dobro publiczne +8,7%, religia −0,2%, sprawy międzynarodowe +1,4%), więc tempo własnego podsektora kształtuje zachowania darczyńców niezależnie od tego, czy organizacja to śledzi. Trzy konsekwencje operacyjne (Civic Shout): (a) **legacy giving można zacząć od jednego cyklicznego maila rocznie** do najbardziej lojalnych darczyńców — tak [[Cornell Lab of Ornithology]] zbudowało program wart 4 mln USD; (b) stagnacja matchingu korporacyjnego oznacza przesunięcie potwierdzania partnerstw z października na **III kwartał**, zanim budżety firm zostaną rozdysponowane; (c) apele końcoworoczne segmentować wg stażu i zachowania — [[Equimundo]] przy **50% mniejszej, lepiej dobranej liście** uzyskało **31% więcej kliknięć**. Luka do wykorzystania pozostaje ta sama co w mechanizmie 4: źródło rośnie najszybciej, a programy mailowe wciąż go nie obsługują.
 
 ## Powiązane pojęcia
 

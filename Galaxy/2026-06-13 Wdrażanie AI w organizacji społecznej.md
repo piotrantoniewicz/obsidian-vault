@@ -5,7 +5,7 @@ tags:
   - organizacje-społeczne
   - szkolenia-AI
 created: 2026-06-13
-updated: 2026-06-30
+updated: 2026-07-24
 relevance: wysoka
 sources:
   - "[[2026-02-20 Why Most Nonprofits Arent Using AI (Yet)]]"
@@ -20,6 +20,7 @@ sources:
   - "[[2026-05-21 Before We Fund AI Adoption, We Need to Fund AI Readiness.]]"
   - "[[2025-10-28 The Crawl-Walk-Run Approach to Nonprofit AI Adoption]]"
   - "[[2026-02-24 Strach przed AI = strach przed zmianą]]"
+  - "[[2026-07-22 The Year-End Appeal That Doesn't Treat Every Donor the Same]]"
 ---
 
 # Wdrażanie AI w organizacji społecznej (AI adoption in nonprofits)
@@ -62,6 +63,9 @@ Najczęstszy hamulec wejścia w AI to nie brak umiejętności, lecz **samonarzuc
 - **Evale — „nie obchodzi mnie liczba, obchodzi mnie, czy liczba jest dobra"** — bez zdefiniowania, co znaczy „dobrze" (benchmark, kontekst, porównanie), AI tylko *szybciej* realizuje niewłaściwy cel. Mierz outcomes (konwersja, zadowolenie, morale), nie outputs (liczba PR-ów, postów, tokenów); token maxing to powrót „mentalności fabryki" — premiowanie inputów zamiast efektów.
 
 ---
+
+**10. Wzorcowy „Tuesday problem": segmentacja apelu, której nikt nie robi z braku czasu**
+Najczystsza dotąd ilustracja mechanizmu 3. Ręczna segmentacja darczyńców i napisanie osobnej wersji apelu dla każdej grupy to około tydzień pracy — czasu, którego mały zespół nie ma, więc wysyła **jeden, niedopasowany list do wszystkich**. AI usuwa dokładnie tę barierę: sortowanie i pierwsze wersje tekstu mieszczą się w popołudnie. Pięciokrokowy workflow (Wendy Clow): (1) **eksport listy z realną historią wpłat** z CRM — imię, suma roczna, data pierwszej i ostatniej wpłaty, częstotliwość; dane trzymane lokalnie, wrażliwe pola usunięte; (2) **segmentacja wg zachowania, nie wielkości darowizny** — nowi, uśpieni, regularni, średni gotowi na większy wkład, główni; granice grup weryfikuje człowiek; (3) **nazwij jedną rzecz, którą każda grupa musi usłyszeć** — jedno zdanie na segment, część strategiczna należąca do człowieka, nie do narzędzia; (4) **wygeneruj wersję apelu per segment we własnym głosie** — bazowy list plus komunikaty segmentowe jako input; (5) **redakcja pod autentyczność** — czytanie na głos, weryfikacja każdej liczby, osobisty detal. Granica odpowiedzialności jest ostra: **AI nigdy nie wymyśla historii wpłat darczyńcy i żadna liczba nie idzie do odbiorcy bez sprawdzenia w realnych danych**. Dodatkowa korzyść to timing — praca wykonana w lipcu odciąża jesień. Rama pojęciowa warta zapamiętania: segmentacja to **„szacunek w skali"**, a nie optymalizacja konwersji.
 
 ## Powiązane pojęcia
 

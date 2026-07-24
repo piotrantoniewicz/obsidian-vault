@@ -5,7 +5,7 @@ tags:
   - strategia-organizacji
   - content-marketing
 created: 2026-06-25
-updated: 2026-07-07
+updated: 2026-07-24
 relevance: wysoka
 sources:
   - "[[2026-05-12 why newsletter ghostwriting (time to forget LinkedIn)]]"
@@ -17,6 +17,9 @@ sources:
   - "[[2025-01-28 Meta rezygnuje z fact-checkerów na Facebooku i Instagramie Co to oznacza dla organizacji społecznych]]"
   - "[[2026-02-23 Are You a Renter or an Owner]]"
   - "[[2026-03-19 Poza feedem. Jak mikrospołeczności i newslettery zmieniają sposób bycia w Internecie]]"
+  - "[[2026-07-24 The new civic media marketplace – and what it means for progressive messaging]]"
+  - "[[2026-07-24 The new normal The rising power of influencers]]"
+  - "[[2026-07-22 Zaufanie w erze AI]]"
 ---
 
 # Owned vs rented audience (publiczność własna vs wynajęta)
@@ -48,6 +51,15 @@ Pułapką jest czytanie tej zasady jako „rzuć social media". Publiczność (z
 Uzależnienie od kanału wynajętego deformuje też pomiar: organizacje **mierzą sukces liczbą followersów, nie jakością zaangażowania**, i pozwalają, by „algorytm był wyznacznikiem misji" (jedna z 5 pułapek NGO wg The Nonprofit Hive). Przejście na owned audience to także przejście na **własne reguły i własne dane** zamiast korporacyjnych benchmarków i logiki „postuj więcej".
 
 ---
+
+**6. Rynek uwagi odwrócił się: nieograniczone miejsce, rzadka uwaga**
+Strukturalne tło całego rozróżnienia (Laura Quinn, Catalist): w XX wieku przestrzeń nadawcza była zasobem deficytowym, a uwaga tania — polityka i sprawy publiczne zajmowały mniej niż 10% zawartości mediów, o dostępie decydowała garstka kuratorów (model **top-down**). Dziś jest odwrotnie: miejsca jest nieskończenie wiele, a **deficytowym zasobem jest uwaga**, i to twórcy indywidualni generują treść, którą dopiero potem podchwytują **„amplifierzy"** (agencje twórców, sieci memowe, markety kulturowe) i rozprowadzają do niszowych, ale licznych publiczności (model **bottom-up**). Konsekwencja dla organizacji: klasyczne kampanie reklamowe tracą skuteczność wśród odbiorców poniżej 40 lat — **44% osób 18–24 i 38% osób 25–34 wskazuje media społecznościowe/wideo jako główne źródło wiadomości** (Reuters Institute), a **59% Europejczyków korzysta codziennie z cyfrowych źródeł spoza mainstreamu** (Eurobarometr 2025). Potrzebna jest stała obecność w codziennej kulturze cyfrowej, nie okresowy zakup zasięgu. Prawica zbudowała tu przewagę pierwszego ruchu przez wyspecjalizowanych amplifierów i sieci twórców o „trwałej publiczności".
+
+**7. Twórca jako partner i źródło wiedzy, nie kanał dystrybucji**
+Praktyczne domknięcie mechanizmu 6 (Júlia Salander): organizacje traktują influencerów jak media buy, a powinny jak **dziennikarzy** — śledzić ich, rozumieć język, budować relacje publicznie i prywatnie. Trzy rozstrzygnięcia: (a) przewaga prawicy w mediach społecznościowych nie wynika z demografii (młodsi są bardziej progresywni), lecz z **lepszego opanowania języka platform** i emocji napędzających wiralowość; (b) **zaangażowanie ≠ wpływ** — wiralowość nie przekłada się wprost na zachowanie (głos, wpłatę), więc mierz wpływ, nie zasięg; (c) prawdziwym wyzwaniem jest dotarcie do **twórców niepolitycznych** (rozrywka, sport, gaming) i zaproszenie ich do prostych działań obywatelskich, a nie kolejne wzmacnianie już przekonanych. To dokłada trzecią kategorię do podziału owned/rented: publiczność **pożyczona od twórcy**, którą buduje się relacją, nie budżetem.
+
+**8. Erozja zaufania jako nowe ryzyko kanału wynajętego**
+Do trzech ryzyk z mechanizmu 1 dochodzi czwarte: **spadek wiarygodności samego środowiska**. **41% długich postów na LinkedInie i ok. 1/3 postów na X nosi ślady wygenerowania przez AI** (Pangram), platformy zaczynają karać „AI slop" (YouTube ogranicza monetyzację, LinkedIn i Pinterest filtrują), a rozjazd między odkrywaniem a kupowaniem jest drastyczny: **62% konsumentów deklaruje, że social media wpływają na decyzje zakupowe, ale sfinalizować transakcję tam chce tylko 6%** (ESW, n=23 000, 18 rynków). Wniosek strategiczny: sama skala produkcji treści w kanale wynajętym przestaje się opłacać — różnicuje zaufanie i ludzka inwencja, a ścieżkę odbiorcy trzeba projektować pod przeskoki między platformami, z kanałem własnym jako punktem domknięcia.
 
 ## Frameworki-kotwice
 

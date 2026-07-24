@@ -5,7 +5,7 @@ tags:
   - content-marketing
   - fundraising
 created: 2026-06-15
-updated: 2026-07-07
+updated: 2026-07-24
 relevance: wysoka
 sources:
   - "[[2026-05-12 why newsletter ghostwriting (time to forget LinkedIn)]]"
@@ -20,6 +20,8 @@ sources:
   - "[[2026-06-17 10 things I stopped doing with email that most marketers still do]]"
   - "[[2025-07-10 Zrobiłem analizę 150+ wysłanych newsletterów]]"
   - "[[2026-05-21 Own the inbox]]"
+  - "[[2026-07-21 How to build a newsletter funnel]]"
+  - "[[2026-07-22 Email Accessibility and the European Accessibility Act What It Is, Who It Affects, and What to Do About It]]"
 ---
 
 # Newsletter jako kanał (Newsletter as a Channel)
@@ -55,6 +57,12 @@ Lista nie rośnie sama: **opt-in na każdej stronie** (nawigacja + footer), pop-
 Narzędzia różnią się modelem: **Substack** (blog+newsletter+podcast+społeczność, 10% prowizji, opt-out z AI), **Ghost** (open source, self-host), **WordPress** (wtyczki), **Patronite** (polski, 6,5%). Pod spodem — fundament dostarczalności: **SPF/DKIM/DMARC/BIMI** to konieczność, nie opcja, oraz **higiena listy** (usuwanie nieaktywnych: 62% organizacji tego nie robi i traci ~20% przychodów na filtrach spamu). Kanał bez tej infrastruktury nie dociera, niezależnie od jakości treści.
 
 ---
+
+**7. Newsletter to nie kanał, tylko lejek — trzy elementy funnela**
+Domknięcie mechanizmu 5 (silnik wzrostu) o warstwę konwersji: sam newsletter bez lejka zapis → zaufanie → sprzedaż nie realizuje potencjału kanału (Ryan Carr, Moodboard, na bazie 50+ wdrożeń w 3,5 roku). Trzy elementy: (a) **niezawodny wzrost listy** — organiczna publiczność, lead magnety, repurposing treści na LinkedIn i X, płatne reklamy kierujące kwalifikowanych subskrybentów; (b) **częste, angażujące treści** — rekomendacja **3× w tygodniu zamiast typowego 1×**, krótko i pod konwersję; (c) **kwalifikacja i segmentacja** — automatyzacja kierująca bardziej bezpośrednie komunikaty do czytelników, którzy sami zasygnalizowali dopasowanie do oferty. **Zastrzeżenie i napięcie:** rekomendacja 3×/tydzień pochodzi z kontekstu komercyjnego (produkt, infoprodukt) i wprost zderza się z mechanizmem 4 tej strony („konsekwencja bije perfekcję" przy realistycznym rytmie) oraz z tolerancją bazy darczyńców — dla organizacji społecznej istotny jest kierunek (regularność wzmacnia relację i reputację domeny), nie liczba.
+
+**8. Dostępność jako wymóg prawny, nie dobra praktyka — EAA i WCAG 2.1 AA**
+Nowa warstwa infrastruktury kanału (mechanizm 6): **Europejski Akt o Dostępności** wymaga od 28 czerwca 2025, by komunikacja elektroniczna — w tym maile marketingowe — spełniała **WCAG 2.1 na poziomie AA**. Obejmuje firmy i organizacje oferujące usługi w UE, z wyjątkiem mikroprzedsiębiorstw (poniżej 10 pracowników i 2 mln EUR obrotu), a także podmioty spoza UE mające subskrybentów w krajach unijnych. Osiem wymogów: **alt text** na każdym obrazie (dekoracyjne z pustym `alt=""`), **kontrast** min. 4,5:1 dla tekstu głównego i 3:1 dla dużego, **czcionka** min. 14px (16px lepsza na mobile), **prawdziwe tagi H1/H2** zamiast wizualnego pogrubienia, **czytelność bez obrazów i w plain text**, **opisowy tekst linków** („przeczytaj pełny przewodnik", nie „kliknij tutaj"), **mobile-first** (jedna kolumna, obszary klikalne min. 44×44 px, bez opierania się na hover), **kompatybilność z trybem ciemnym** jako element QA. Dwa argumenty operacyjne: ok. **1 na 5 osób** ma jakąś formę niepełnosprawności (ślepota barw: ok. 8% mężczyzn), a większość wymogów to zmiany **na poziomie szablonu, nie kampanii** — jednorazowy audyt daje trwałą zgodność. Zbieżność z jakością: „dostępny projekt e-maila to w dużej mierze po prostu dobry projekt e-maila".
 
 ## Frameworki-kotwice
 

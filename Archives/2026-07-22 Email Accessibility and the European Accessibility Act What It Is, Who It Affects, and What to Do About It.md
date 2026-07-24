@@ -1,10 +1,14 @@
 ---
-type: "Web"
-authors: "[[Beth O'Malley]]"
-url: "https://weareastral.co.uk/thevault/email-accessibility-and-the-european-accessibility-act-what-it-is-who-it-affects-and-what-to-do-about-it?utm_medium=email&_hsenc=p2ANqtz-8WlrBqdovC-pdLUOBntW_JG9DBpDIO5eWNYJlkxQtenvoBNe5C6qa_L6_zj06OdmHJE3QZv-IpogtOLU3toEcXplEOHsLUGr34EiidOIVR0hL9gxE&_hsmi=141442980&utm_content=141381565&utm_source=hs_email"
-published: 2026-07-22
-created: 2026-07-24
+type: Web
+authors: '[[Beth O''Malley]]'
+url: >-
+  https://weareastral.co.uk/thevault/email-accessibility-and-the-european-accessibility-act-what-it-is-who-it-affects-and-what-to-do-about-it?utm_medium=email&_hsenc=p2ANqtz-8WlrBqdovC-pdLUOBntW_JG9DBpDIO5eWNYJlkxQtenvoBNe5C6qa_L6_zj06OdmHJE3QZv-IpogtOLU3toEcXplEOHsLUGr34EiidOIVR0hL9gxE&_hsmi=141442980&utm_content=141381565&utm_source=hs_email
+published: 2026-07-22T00:00:00.000Z
+created: 2026-07-24T00:00:00.000Z
 tags:
+  - fundraising
+  - digital-campaigning
+  - organizacje-społeczne
 ---
 
 

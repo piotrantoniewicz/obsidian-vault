@@ -5,7 +5,7 @@ tags:
   - organizacje-społeczne
   - strategia-organizacji
 created: 2026-06-13
-updated: 2026-06-29
+updated: 2026-07-24
 relevance: wysoka
 sources:
   - "[[2026-05-27 Transparentność boli. Dlaczego większość liderów woli kłamać?]]"
@@ -16,6 +16,8 @@ sources:
   - "[[2026-06-19 Fiscal Agility. Radical Transparency. The Discipline of Sustainability.]]"
   - "[[2026-06-17 Zamiast grantozy. Trzy alternatywne modele finansowania organizacji społecznych]]"
   - "[[2026-05-29 What Donors Are Actually Telling You Giving Motivations From the 2026 Giving Signals Report]]"
+  - "[[2026-07-23 Co chce wiedzieć...darczyńca-]]"
+  - "[[2026-07-22 The Runway Before the Flight]]"
 ---
 
 # Transparentność operacyjna (operational transparency)
@@ -45,6 +47,12 @@ Transparentność, której darczyńca nie zauważy, nie istnieje. Stąd: aktuali
 Transparentność jest łatwiejsza, gdy organizacja nie jest zakładnikiem jednego źródła. Uzależnienie od grantów publicznych („grantoza") to ryzyko strukturalne — model dominujący, ale nie jedyny. Raport „Kondycja organizacji 2024" wyróżnia trzy alternatywy jako **świadomy wybór strategiczny**: **zbilansowany** (mozaika źródeł — 22% sektora, najodporniejszy na kryzysy), **usługowy** (odpłatne usługi/działalność gospodarcza — 9%, najwyższe budżety i profesjonalizacja, ale ryzyko rynkowe i napięcie misja–komercja) oraz **filantropijny** (darowizny od osób prywatnych — 7%, najmniej zasobny budżetowo, ale najbardziej niezależny; wymaga inwestycji w [[2026-06-13 Stewardship|fundraising relacyjny]], nie w pisanie wniosków). Wieloletnie środki **nieograniczone (unrestricted)** dają największą elastyczność; nadmiar dotacji celowych ją odbiera (TEAMS, [[Bryan Neider]]).
 
 ---
+
+**7. Niewygodne pytanie jako format treści — TAYA w sektorze społecznym**
+Mechanizm 2 („brzydka transparentność") zyskuje wykonalny format: zamiast czekać, aż ktoś zapyta o koszty administracyjne, organizacja **sama publikuje odpowiedź** w kategorii treści, w której odbiorca jej szuka. Metoda **They Ask, You Answer** ([[Marcus Sheridan]], adaptacja Anny Jadwigi Orzech) porządkuje to w pięć kategorii pytań: ceny i koszty (ile z każdej złotówki idzie na cel), problemy i wady (dla kogo to nie jest, jakie są bariery), porównania (czym różnimy się od innych organizacji w tym samym temacie), recenzje (świadectwa beneficjentów i wolontariuszy), najlepsze w klasie (jak wybrać organizację, której przekazać pieniądze). Teza ostra i użyteczna w rozmowie z zarządem: **„nikogo nie obchodzi Twoja misja"** — liczy się to, co interesuje odbiorcę, nie to, co organizacja chce powiedzieć o sobie. Konsekwencja operacyjna: darczyńcy, beneficjenci i wolontariusze wymagają **osobnych zestawów pytań** — jeden komunikat nie obsłuży trzech grup.
+
+**8. Nowy przedmiot transparentności: gdzie w organizacji działa AI**
+Rozszerzenie zakresu pojęcia. Do transparentności kosztów, wyników i porażek dochodzi **jawność użycia AI** wobec darczyńców, rodzin i beneficjentów ([[Bryan Neider]]): gdzie AI jest używane, na jakich danych i kto podejmuje ostateczną decyzję. Zobowiązanie działa najlepiej jako jedno zdanie opublikowane tam, gdzie odbiorcy mogą je znaleźć — „**człowiek podejmuje ostateczną decyzję dotyczącą usług, mieszkania lub szansy**". Logika jest ta sama co w mechanizmie 1: automatyzacja bez ujawnienia eroduje zaufanie, którego organizacja nie odbuduje komunikatem po fakcie. Napięcie do rozstrzygnięcia (wspólne ze stroną [[2026-06-15 AI governance|AI governance]]): część organizacji obawia się, że samo ujawnienie użycia AI podkopie wiarygodność — dowodów w jedną lub drugą stronę na razie brak.
 
 ## Powiązane pojęcia
 

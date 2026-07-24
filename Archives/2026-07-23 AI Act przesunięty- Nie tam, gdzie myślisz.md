@@ -1,10 +1,13 @@
 ---
-type: "Web"
-authors: "[[Piotr Antoniewicz]]"
-url: "https://publicystyka.ngo.pl/ai-act-przesuniety-nie-tam-gdzie-myslisz-543722"
-published: 2026-07-23
-created: 2026-07-24
+type: Web
+authors: '[[Piotr Antoniewicz]]'
+url: 'https://publicystyka.ngo.pl/ai-act-przesuniety-nie-tam-gdzie-myslisz-543722'
+published: 2026-07-23T00:00:00.000Z
+created: 2026-07-24T00:00:00.000Z
 tags:
+  - organizacje-społeczne
+  - strategia-AI
+  - trendy-AI
 ---
 
 # AI Act przesunięty? Nie tam, gdzie myślisz

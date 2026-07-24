@@ -1,10 +1,13 @@
 ---
-type: "Web"
-authors: "[[Beth O'Malley]]"
-url: "https://weareastral.co.uk/thevault/what-is-bimi-how-to-get-it-what-it-costs-and-does-it-help-email-deliverability?utm_medium=email&_hsenc=p2ANqtz-_Ep7CmOpP2CovoYTRtr1KIITgqU25EIOsujHfq4-KlyQviJtSMY0O-Sk_TXmYmtRqVKgcvvb4prEDEjAwW4D9PHZupQQr-KqMjB_RCroyV659Rwio&_hsmi=141442980&utm_content=141381565&utm_source=hs_email"
-published: 2026-07-22
-created: 2026-07-24
+type: Web
+authors: '[[Beth O''Malley]]'
+url: >-
+  https://weareastral.co.uk/thevault/what-is-bimi-how-to-get-it-what-it-costs-and-does-it-help-email-deliverability?utm_medium=email&_hsenc=p2ANqtz-_Ep7CmOpP2CovoYTRtr1KIITgqU25EIOsujHfq4-KlyQviJtSMY0O-Sk_TXmYmtRqVKgcvvb4prEDEjAwW4D9PHZupQQr-KqMjB_RCroyV659Rwio&_hsmi=141442980&utm_content=141381565&utm_source=hs_email
+published: 2026-07-22T00:00:00.000Z
+created: 2026-07-24T00:00:00.000Z
 tags:
+  - digital-campaigning
+  - fundraising
 ---
 
 

@@ -5,7 +5,7 @@ tags:
   - fundraising
   - automatyzacja
 created: 2026-06-29
-updated: 2026-06-29
+updated: 2026-07-24
 relevance: wysoka
 sources:
   - "[[2025-08-13 Why I deleted 786 subscribers from my list]]"
@@ -17,6 +17,8 @@ sources:
   - "[[2021-08-06 Email Sender Reputation]]"
   - "[[2026-04-21 Is a shared IP secretly harming your deliverability]]"
   - "[[2025-08-07 Gmail just made unsubscribing easier]]"
+  - "[[2026-07-22 Not Sending Enough Email Is a Deliverability Problem Too]]"
+  - "[[2026-07-21 Giving USA 2026 - what emailers should know]]"
 ---
 
 # Higiena listy (list hygiene)
@@ -49,6 +51,12 @@ Najtrwalsze problemy biorą się z tego, *jak* adres trafił na listę. Spamtrap
 Email działa też jako kanał świadomości — sama obecność nazwy nadawcy w skrzynce buduje kapitał marki niezależnie od open rate (efekt samej ekspozycji, mental availability). Dlatego decyzja o suppressionie nie może opierać się **wyłącznie** na braku otwarć: usunięcie osoby, która nie otwiera maili, ale regularnie odwiedza stronę lub wpłaca, niszczy realną wartość. Higiena to odcinanie *martwych*, nie *cichych ale obecnych* — granicę wyznacza własny model zaangażowania (mechanizm 1–2), nie generyczny próg "90 dni bez otwarcia".
 
 ---
+
+**8. Kontrapunkt: nadgorliwe czyszczenie też szkodzi — wygaszaj po działaniu, nie po otwarciu**
+Do zastrzeżenia z mechanizmu 7 dochodzi mocniejszy zarzut ([[Beth O'Malley]]): sam **open rate przestał być wiarygodną podstawą sunsetu** po Apple Mail Privacy Protection i integracji Gemini w Gmailu, więc automaty rekomendujące wygaszanie po otwarciach (np. Klaviyo Deliverability Hub) potrafią odciąć realnie zaangażowane kontakty. Kryterium powinno się przesunąć na **meaningful actions**: wpłata, wizyta na stronie, kliknięcie, odpowiedź. Drugi zarzut dotyczy samej logiki „mniej wysyłki = lepsza reputacja": zbyt rzadka wysyłka **także** psuje deliverability — Gmail po ok. 30 dniach bez otwarć sam podpowiada subskrybentowi wypisanie, a długa cisza przerwana nagłym dużym wolumenem wygląda jak wzorzec spamerski. Higiena listy nie jest więc synonimem kurczenia bazy: to utrzymanie **stałego rytmu wysyłki plus flows wyzwalane działaniem** (welcome, nurture, post-donation), które generują wiarygodne sygnały niezależnie od newslettera. **Rozstrzygnięcie należy do Piotra** — patrz raport ingestu 2026-07-24.
+
+**9. Mniejsza, celniejsza lista bije masowy mailing — dowód liczbowy**
+Segmentacja wg stażu i zachowania darczyńcy daje mierzalny efekt: [[Equimundo]] wysyłając do **50% mniejszej, lepiej dobranej listy** uzyskało **31% więcej kliknięć** (Civic Shout / Giving USA 2026). To argument, który zamyka typowy opór organizacji przed wyciszaniem („ale stracimy zasięg") — mniejszy wolumen z lepszym dopasowaniem podnosi bezwzględną liczbę interakcji, nie tylko wskaźniki procentowe.
 
 ## Liczby-kotwice
 

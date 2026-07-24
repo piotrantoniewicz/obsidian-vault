@@ -5,7 +5,7 @@ tags:
   - narzędzia-AI
   - organizacje-społeczne
 created: 2026-06-15
-updated: 2026-06-30
+updated: 2026-07-24
 relevance: wysoka
 sources:
   - "[[2026-05-01 Understanding Agentic AI What It Means for Not-for-Profits]]"
@@ -18,6 +18,7 @@ sources:
   - "[[2026-06-24 How a Former NYU Professor Uses Claude Code]]"
   - "[[2025-03-24 From career coaching to farming - how two NGOs are driving change with agentic AI]]"
   - "[[2025-07-01 Szefowo, Szefie - Wasz nowy Zespół to Agentic AI. Jesteście gotowi by nim skutecznie zarządzać]]"
+  - "[[2026-07-24 Still In Control]]"
 ---
 
 # Agentic AI (AI agentowe / autonomiczne agenty)
@@ -57,6 +58,9 @@ Praktyczny wzorzec organizacji wielu agentów u jednej osoby: **każdy agent to 
 - **Watchdog / „sensor"** — osobny agent, który **nie wykonuje pracy, tylko obserwuje** wzorce w całym systemie (np. dwa zespoły robiące to samo) i flaguje je człowiekowi powyżej progu ryzyka. Jones-Rooy uogólnia to do pojęcia *sensorów*: AI jako narzędzie do **mierzenia problemu, zanim zacznie się go rozwiązywać** (token usage, jakość spotkań, duplikacja pracy to różne sensory). Bliski krewny „agenta-rodzica" z mechanizmu 5 i note-takera z [[2026-06-15 Context engineering|context engineeringu]] — element pamięci i samouczenia systemu, nie produkcji.
 
 ---
+
+**9. Brak „przerwy sprawdzającej" — dlaczego agent wymaga innego nadzoru niż narzędzie ([[Bryan Neider]])**
+Najostrzejsze sformułowanie różnicy z mechanizmu 1 od strony ryzyka: system agentowy po uruchomieniu wykonuje zadania samodzielnie, **bez przerwy sprawdzającej, czy warunki się zmieniły**. Zatwierdzenie narzędzia przez zarząd nie zamyka więc odpowiedzialności, tylko ją otwiera. Odpowiedź to **Tri-Pillar Governance Framework** — każde wdrożenie zakotwiczone w trzech filarach: **Etyka / Koszt / Nadzór** — plus **Human-in-the-Loop jako praktyka stała, nie jednorazowe zabezpieczenie**: przy każdym zadaniu krytycznym lub dotykającym darczyńcy/podopiecznego wykwalifikowana osoba przegląda output, zanim cokolwiek się wydarzy. Najczęstszy błąd nazwany wprost: **system, który dalej działa, gdy nikt już go nie obserwuje**. Do tego decyzja **build vs buy** jako wybór governance'owy (własny system = kontrola nad danymi przy koszcie kompetencji; gotowa platforma = szybkość przy zależności od praktyk dostawcy) oraz lista działań na tydzień: przegląd faktycznego użycia AI w zespole, polityka governance, policzenie TCO, pilotaż wewnętrznego „AI-specjalisty" w jednym obszarze, stały punkt AI w agendzie zarządu, komunikacja zasad darczyńcom i rodzinom. Uwaga krytyczna, którą trzeba czytać razem z mechanizmem 3: HITL nie jest tożsamy z ludzkim osądem — podpis pod rekomendacją agenta to nadal „human-in-the-loop paradox".
 
 ## Frameworki-kotwice
 

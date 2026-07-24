@@ -1,10 +1,14 @@
 ---
-type: "Web"
-authors: "[[Julia Salander]]"
-url: "https://www.centerfordigitalaction.eu/3-digital-progress-magazine/the-rising-power-of-influencers?source=DPmailing2&email_referrer=email_3309255&email_subject=the-new-normal-top-picks-from-digital-progressive-3&can_id=32cae499f95a9349c734a72403321b9c&link_id=5"
-published:
-created: 2026-07-24
+type: Web
+authors: '[[Julia Salander]]'
+url: >-
+  https://www.centerfordigitalaction.eu/3-digital-progress-magazine/the-rising-power-of-influencers?source=DPmailing2&email_referrer=email_3309255&email_subject=the-new-normal-top-picks-from-digital-progressive-3&can_id=32cae499f95a9349c734a72403321b9c&link_id=5
+published: null
+created: 2026-07-24T00:00:00.000Z
 tags:
+  - digital-campaigning
+  - framing
+  - organizacje-społeczne
 ---
 
 

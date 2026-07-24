@@ -5,7 +5,7 @@ tags:
   - fundraising
   - automatyzacja
 created: 2026-06-14
-updated: 2026-06-30
+updated: 2026-07-24
 relevance: wysoka
 sources:
   - "[[2024-07-25 Email deliverability guide]]"
@@ -19,6 +19,8 @@ sources:
   - "[[2026-06-18 Your email program is carrying more weight than ever]]"
   - "[[2026-03-14 Inbox Placement Rates Aren t What You Think]]"
   - "[[2026-02-24 Email Deliverability Trends 2026 Expert Insights and Predictions]]"
+  - "[[2026-07-22 Not Sending Enough Email Is a Deliverability Problem Too]]"
+  - "[[2026-07-22 What is BIMI, How to Get It, What It Costs, and Does it Help Email Deliverability-]]"
 ---
 
 # Email deliverability (dostarczalność maili)
@@ -52,6 +54,12 @@ Prewencja to jedno; gdy placement już spadł, Lauren Meyer proponuje trójstopn
 **7. Trajektoria 2026 — skrzynka rankowana przez AI i kara za generyczny AI-content**
 Prognoza 12 ekspertów (Bouncer, 2026) domyka kierunek: deliverability to **ciągła dyscyplina oparta na zaufaniu i zachowaniu**, nie jednorazowy setup. Trzy przesunięcia istotne operacyjnie: (a) **inbox rankowany przez AI** — o pozycji decydują trafność i czas, a tradycyjne metryki (open, CTR) tracą wartość jako sygnał jakości na rzecz głębszych wzorców (odpowiedzi, kliknięcia po przeczytaniu AI-streszczenia, długoterminowe zaangażowanie); (b) **„niewidzialny rozkład" listy** — baza starzeje się i eroduje reputację nawet przy zachowaniu wszystkich standardów technicznych i bez kupowania list, co czyni pruning i walidację obowiązkiem, nie opcją; (c) **kara za generyczny AI-messaging** — automatyzacja bez osądu produkuje treść generującą słabsze sygnały zaangażowania, więc *aktywnie szkodzi* reputacji. Wniosek dla NGO masowo wdrażających AI do pisania maili: generyczny output to nie tylko gorszy ton, ale realne ryzyko dostarczalności.
 
+**8. Za rzadka wysyłka to też problem deliverability — deliverability jako balans, nie próg**
+Kontrapunkt dla dominującego nurtu porad („wysyłaj mniej, czyść agresywniej", O'Malley): **brak wysyłki przechyla szalę tak samo jak nadmiar**. Gmail aktywnie proponuje nieaktywnym subskrybentom wypisanie się po ok. **30 dniach bez otwarć** (i usuwa nieaktywne konta osobiste po 2 latach), a nieregularny wzorzec wysyłki — długa cisza, potem nagły duży wolumen — przypomina filtrom zachowanie spamera. Stąd cztery reguły: (a) wysyłaj **konsekwentnie, nawet przy niskim wolumenie**; (b) **buduj flows** (welcome, lead nurture, post-donation) zanim staną się ratunkiem — automatyzacje wyzwalane działaniem odbiorcy generują silniejsze i wiarygodniejsze sygnały niż broadcasty; (c) **restart po przerwie traktuj jak warm-up** — zacznij od najbardziej zaangażowanych i buduj wolumen stopniowo; (d) mierz inbox placement ([[GlockApps]], [[Litmus]]), nie dashboard ESP. **Napięcie do rozstrzygnięcia:** mechanizm 5 i strona [[2026-06-29 Higiena listy|Higiena listy]] traktują wyciszanie nieaktywnych jako konieczność — O'Malley pokazuje drugą stronę: **wygaszanie oparte na samych otwarciach jest zawodne** (Apple MPP, integracja Gemini w Gmailu) i potrafi odciąć realnie zaangażowane kontakty. Rozstrzygnięcie kierunkowe: wygaszaj po *meaningful actions* (wpłaty, wizyty na stronie, kliknięcia), nie po open rate — narzędzia typu Klaviyo Deliverability Hub rekomendujące sunset po otwarciach mogą szkodzić.
+
+**9. BIMI — efekt uboczny porządku, nie dźwignia deliverability**
+BIMI (Brand Indicators for Message Identification) wyświetla zweryfikowane logo obok nadawcy w skrzynce; wymaga **DMARC na poziomie egzekwowania** (`p=quarantine` lub `p=reject`) plus działających SPF i DKIM, logo w formacie SVG Tiny 1.2 Portable/Secure (PNG nie zadziała), certyfikatu u autoryzowanego CA i rekordu DNS. Dwa typy certyfikatu: **VMC** (wymaga zarejestrowanego znaku towarowego, daje niebieski znacznik w Gmailu, ok. £1 100–1 400/rok) i **CMC** (bez znaku towarowego, taniej — ok. £770–990/rok — ale bez wsparcia Apple Mail). Kluczowe rozstrzygnięcie: **BIMI nie poprawia deliverability bezpośrednio**; cytowane wzrosty open rate (np. +38%) pochodzą z niekontrolowanych wdrożeń, w których jednocześnie porządkowano autentykację i reputację, więc efektu nie da się przypisać logo. Najsilniejszy, najmniej dyskusyjny argument to **ochrona marki przed phishingiem** — istotny dla organizacji z dużą bazą darczyńców. Reguła kolejności: BIMI ma sens dopiero po domknięciu autentykacji i higieny listy; wcześniej to „malowanie elewacji domu z problemami konstrukcyjnymi".
+
 ---
 
 ## Liczby-kotwice
@@ -81,6 +89,8 @@ Prognoza 12 ekspertów (Bouncer, 2026) domyka kierunek: deliverability to **cią
 - **Polska specyfika**: Onet, Wirtualna Polska i Orange mają własne systemy filtrowania, odmienne od Gmail — kampanie do polskich darczyńców wymagają monitorowania inbox placement *per provider*, nie tylko globalnie. To czyni anglojęzyczne przewodniki niepełnymi dla polskich NGO.
 - **Year-end / GivingTuesday**: plan deliverability buduje się z 6-miesięcznym wyprzedzeniem — argument do rozmowy z organizacją, dlaczego warto emailować przez cały rok, nie tylko w grudniu.
 - **Kurs "Fundraising z AI"**: deliverability jako moduł obok higieny listy i sekwencji onboardingowych; domain warming i walidacja list jako kroki do zautomatyzowania w workflow [[Make.com]].
+- **Odpowiedź na pytanie klienta „czy warto w BIMI?"**: najpierw sprawdź, czy DMARC jest na poziomie egzekwowania i czy lista jest zaangażowana — jeśli nie, koszt certyfikatu (£770–1 400/rok) jest przedwczesny. Jeśli tak, sprzedawaj to jako ochronę przed phishingiem, nie jako wzrost open rate.
+- **Argument „wysyłaj przez cały rok" wzmocniony**: organizacji, która maila tylko w grudniu, nie grozi tylko zimna reputacja — Gmail w międzyczasie sam zachęca jej subskrybentów do wypisania się. Restart po przerwie zaplanuj jako warm-up od najbardziej zaangażowanych.
 - **DMARC `p=none`** to bezpieczny pierwszy krok dla organizacji, które nigdy nie uwierzytelniały poczty — zero ryzyka odrzucenia, pełna widoczność problemów.
 
 ---

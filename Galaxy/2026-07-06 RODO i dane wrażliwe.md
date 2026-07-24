@@ -5,7 +5,7 @@ tags:
   - organizacje-społeczne
   - strategia-organizacji
 created: 2026-07-06
-updated: 2026-07-20
+updated: 2026-07-24
 relevance: wysoka
 sources:
   - "[[2025-09-02 AI Act & RODO 2025 Przewodnik po regulacjach UE karach i compliance]]"
@@ -15,6 +15,7 @@ sources:
   - "[[2025-11-12 Hidden Privacy Trap AI That s Silently Compromising Your Nonprofit s Mission LinkedIn]]"
   - "[[2026-01-27 Uważaj, co mówisz chatbotowi. Jak Big Tech trenuje AI na naszych rozmowach]]"
   - "[[2026-06-23 A to nie wycieknie - na ile ufasz AI]]"
+  - "[[2026-07-22 The Runway Before the Flight]]"
 ---
 
 # RODO i dane wrażliwe (GDPR & Sensitive Data)
@@ -44,6 +45,9 @@ Pięć pytań do każdego dostawcy AI (Chrobok/Porembiński): Czy dane trenują 
 Ponad **60% pracowników używa narzędzi AI bez wiedzy przełożonych** (Shadow AI) — dane wyciekają nie przez formalne wdrożenia, lecz przez „ciche" wklejanie do publicznego [[ChatGPT]] i rozproszenie danych po skrzynkach byłych pracowników i prywatnych dyskach. Odpowiedź to nie zakaz (zakazy ukrywają problem), lecz: inwentaryzacja → prosta polityka (jedna strona, 3 pytania: czego nie wklejać, których narzędzi używamy, kto odpowiada) → dobór narzędzi wg 4 poziomów bezpieczeństwa (darmowe → Pro → Enterprise/DPA → lokalne) → edukacja jak BHP, z **just culture**: nie karać za przyznanie się do incydentu, bo przestaną być zgłaszane. Od strony bazy kontaktów te same zasady przybierają formę praktyk [[2026-06-29 Higiena listy|higieny listy]]: audytowalna ścieżka pochodzenia rekordu (provenance), suppression zamiast kasowania, double opt-in — zgodność i jakość danych to jedna dyscyplina.
 
 ---
+
+**7. Granica danych jako pierwszy, publikowalny artefakt ([[Bryan Neider]])**
+Praktyczne domknięcie mechanizmów 4 i 5: zanim powstanie architektura i zanim skończy się due diligence, organizacja może opublikować **jedno zdanie granicy danych** — darmowe narzędzia AI nigdy nie mają dostępu do nazwiska klienta, diagnozy ani danych darczyńcy. To najtańszy możliwy krok wobec shadow AI (pracownicy już wklejają dane do darmowych czatów), bo nie wymaga budżetu ani decyzji technologicznej. Do tego **trzy pytania kontraktowe do dostawcy**, uzupełniające listę due diligence z mechanizmu 5: (a) czy nasze dane będą trenować wasze publiczne modele, (b) czy podpiszecie **formalną umowę o ochronie danych obejmującą dane zdrowotne i klienckie**, (c) czy nasze IT będzie widzieć i kontrolować, kto używa narzędzia i jak. Teza spinająca to z pieniędzmi: **poziom licencji (darmowa vs enterprise) jest sygnałem tego, jak organizacja traktuje dane osób, którym służy** — wersja enterprise z wyłączonym trenowaniem to pozycja budżetowa, nie luksus.
 
 ## Powiązane pojęcia
 

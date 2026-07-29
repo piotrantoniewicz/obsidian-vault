@@ -5,6 +5,9 @@ url: "https://www.donordock.com/articles/how-nonprofits-use-ai-without-losing-hu
 published: 2026-07-23
 created: 2026-07-29
 tags:
+  - "automatyzacja"
+  - "organizacje-społeczne"
+  - "fundraising"
 ---
 
 

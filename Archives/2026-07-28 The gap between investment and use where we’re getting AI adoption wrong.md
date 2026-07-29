@@ -5,6 +5,9 @@ url: "https://behavioralinsight.substack.com/p/the-gap-between-investment-and-us
 published: 2026-07-28
 created: 2026-07-29
 tags:
+  - "strategia-AI"
+  - "szkolenia-AI"
+  - "trendy-AI"
 ---
 
 

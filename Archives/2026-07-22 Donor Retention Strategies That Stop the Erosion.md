@@ -5,6 +5,8 @@ url: "https://www.donordock.com/articles/donor-retention-strategies?utm_campaign
 published: 2026-07-22
 created: 2026-07-29
 tags:
+  - "fundraising"
+  - "strategia-organizacji"
 ---
 
 

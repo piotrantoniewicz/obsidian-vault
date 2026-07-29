@@ -5,6 +5,9 @@ url: "https://www.linkedin.com/pulse/how-i-use-ai-research-funders-before-write-
 published: 2026-07-29
 created: 2026-07-29
 tags:
+  - "fundraising"
+  - "narzędzia-AI"
+  - "automatyzacja"
 ---
 
 

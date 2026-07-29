@@ -5,6 +5,9 @@ url: "https://behavioralinsight.substack.com/p/nowe-zasady-transparentnosci-ai-z
 published: 2026-07-22
 created: 2026-07-26
 tags:
+  - "strategia-AI"
+  - "framing"
+  - "trendy-AI"
 ---
 
 

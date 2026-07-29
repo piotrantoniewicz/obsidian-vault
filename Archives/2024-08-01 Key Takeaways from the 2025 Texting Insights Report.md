@@ -5,6 +5,8 @@ url: "https://www.momogood.com/blog/texting-insights-report?utm_source=www.civic
 published: 2024-08-01
 created: 2026-07-29
 tags:
+  - "fundraising"
+  - "digital-campaigning"
 ---
 
 

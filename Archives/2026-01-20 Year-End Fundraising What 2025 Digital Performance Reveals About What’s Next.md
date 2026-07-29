@@ -5,6 +5,8 @@ url: "https://avalonconsulting.net/year-end-fundraising-2025/?utm_source=www.civ
 published: 2026-01-20
 created: 2026-07-29
 tags:
+  - "fundraising"
+  - "digital-campaigning"
 ---
 
 

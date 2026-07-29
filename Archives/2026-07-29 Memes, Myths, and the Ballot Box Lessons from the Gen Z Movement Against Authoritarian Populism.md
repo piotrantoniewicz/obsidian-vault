@@ -5,6 +5,9 @@ url: "https://hub.partisan.community/m/news/memes-myths-and-the-ballot-box-lesso
 published:
 created: 2026-07-29
 tags:
+  - "digital-campaigning"
+  - "framing"
+  - "organizacje-społeczne"
 ---
 
 

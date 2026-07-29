@@ -5,6 +5,8 @@ url: "https://www.nextafter.com/experiments/how-changing-the-tribute-widget-to-b
 published: 2026-07-06
 created: 2026-07-27
 tags:
+  - "fundraising"
+  - "digital-campaigning"
 ---
 
 

@@ -5,6 +5,8 @@ url: "https://www.galabid.com/blog/promote-fundraising-event-social-media-pre-ev
 published: 2026-07-22
 created: 2026-07-29
 tags:
+  - "fundraising"
+  - "digital-campaigning"
 ---
 
 

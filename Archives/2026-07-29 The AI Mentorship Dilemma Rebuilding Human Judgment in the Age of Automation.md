@@ -5,6 +5,9 @@ url: "https://www.linkedin.com/pulse/ai-mentorship-dilemma-rebuilding-human-judg
 published: 2026-07-29
 created: 2026-07-29
 tags:
+  - "organizacje-społeczne"
+  - "strategia-AI"
+  - "strategia-organizacji"
 ---
 
 

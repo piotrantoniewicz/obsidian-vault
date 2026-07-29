@@ -5,6 +5,9 @@ url: "https://www.youtube.com/watch?v=HNrkTMa-5x0"
 published: 2026-06-29
 created: 2026-07-27
 tags:
+  - "szkolenia-AI"
+  - "narzędzia-AI"
+  - "organizacje-społeczne"
 ---
 
 

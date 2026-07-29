@@ -5,6 +5,8 @@ url: "https://bloomerang.com/blog/next-generation-donor?utm_medium=email&utm_sou
 published: 2026-07-13
 created: 2026-07-29
 tags:
+  - "fundraising"
+  - "strategia-organizacji"
 ---
 
 

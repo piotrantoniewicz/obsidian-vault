@@ -5,6 +5,9 @@ url: "https://avidai.com/blog/preserving-humanity-in-ai-powered-fundraising-key-
 published: 2026-07-29
 created: 2026-07-29
 tags:
+  - "fundraising"
+  - "narzędzia-AI"
+  - "strategia-AI"
 ---
 
 

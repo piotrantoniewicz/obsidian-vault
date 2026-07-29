@@ -5,6 +5,9 @@ url: "https://www.donordock.com/articles/lead-with-why-how-story-beats-stats-in-
 published: 2026-05-05
 created: 2026-07-29
 tags:
+  - "fundraising"
+  - "framing"
+  - "ghostwriting"
 ---
 
 

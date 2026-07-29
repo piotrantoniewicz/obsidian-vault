@@ -5,6 +5,8 @@ url: "https://www.linkedin.com/pulse/passion-needs-system-bryan-neider-bkfrc/"
 published: 2026-07-28
 created: 2026-07-29
 tags:
+  - "strategia-organizacji"
+  - "organizacje-społeczne"
 ---
 
 

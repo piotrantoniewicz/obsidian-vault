@@ -5,6 +5,9 @@ url: "https://www.youtube.com/watch?v=vXq-IXuN4JI"
 published: 2026-02-10
 created: 2026-07-29
 tags:
+  - "fundraising"
+  - "framing"
+  - "content-marketing"
 ---
 
 

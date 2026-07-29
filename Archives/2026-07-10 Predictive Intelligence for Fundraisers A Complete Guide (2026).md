@@ -5,6 +5,9 @@ url: "https://bloomerang.com/blog/predictive-intelligence-for-fundraisers?utm_me
 published: 2026-07-10
 created: 2026-07-29
 tags:
+  - "fundraising"
+  - "narzędzia-AI"
+  - "automatyzacja"
 ---
 
 

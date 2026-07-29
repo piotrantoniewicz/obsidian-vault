@@ -5,6 +5,8 @@ url: "https://www.abc.net.au/news/2026-07-19/china-cracks-down-on-artificial-int
 published: 2026-07-19
 created: 2026-07-26
 tags:
+  - "trendy-AI"
+  - "LLM"
 ---
 
 

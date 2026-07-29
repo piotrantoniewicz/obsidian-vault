@@ -5,6 +5,9 @@ url: "https://hub.partisan.community/m/news/meet-the-campaign-ai-engineer/fbc643
 published:
 created: 2026-07-29
 tags:
+  - "digital-campaigning"
+  - "strategia-AI"
+  - "LLM"
 ---
 
 

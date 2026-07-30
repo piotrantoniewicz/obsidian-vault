@@ -2880,3 +2880,4 @@
 - [[2026-07-28 Passion Needs a System]] — Bryan Neider: formuła Pasja + System = Wpływ dla organizacji społecznych — pięć filarów zaangażowania opartego na celu (alignment, ugruntowany optymizm, Brain Trust pierwszej linii, szczera informacja zwrotna, ciągłe uczenie się) i checklista wdrożeniowa.
 - [[2026-07-28 So, you want to be a content creator-]] — Elena Verna o drodze do bycia twórcą treści: reguła publikowania, kontrarianizm vs wzorzec, creator-market fit oraz psychiczne koszty widoczności w sieci.
 - [[2026-07-29 Model Behavior Taylor Lorenz]] — wywiad z Taylor Lorenz o AI w dziennikarstwie: pełny workflow produkcji treści z wieloma modelami AI, utrata dochodów przez konkurencję AI i postulat transparentności wobec czytelników.
+- [[2026-07-30 dlaczego kampanie tracą ludzi]] — Social Movers Hub: framework spójności kampanii fundraisingowych — trzy pytania (problem, zmiana, moment decyzji) i test „czy każdy element prowadzi do tej samej decyzji?".

@@ -5,6 +5,9 @@ url: "https://on.substack.com/p/model-behavior-taylor-lorenz?utm_source=substack
 published: 2026-07-29
 created: 2026-07-29
 tags:
+  - "narzędzia-AI"
+  - "trendy-AI"
+  - "automatyzacja"
 ---
 
 

@@ -5,6 +5,9 @@ url: "https://www.elenaverna.com/p/so-you-want-to-be-a-content-creator?utm_sourc
 published: 2026-07-28
 created: 2026-07-29
 tags:
+  - "ghostwriting"
+  - "content-marketing"
+  - "framing"
 ---
 
 

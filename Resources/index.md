@@ -2881,3 +2881,4 @@
 - [[2026-07-28 So, you want to be a content creator-]] — Elena Verna o drodze do bycia twórcą treści: reguła publikowania, kontrarianizm vs wzorzec, creator-market fit oraz psychiczne koszty widoczności w sieci.
 - [[2026-07-29 Model Behavior Taylor Lorenz]] — wywiad z Taylor Lorenz o AI w dziennikarstwie: pełny workflow produkcji treści z wieloma modelami AI, utrata dochodów przez konkurencję AI i postulat transparentności wobec czytelników.
 - [[2026-07-30 dlaczego kampanie tracą ludzi]] — Social Movers Hub: framework spójności kampanii fundraisingowych — trzy pytania (problem, zmiana, moment decyzji) i test „czy każdy element prowadzi do tej samej decyzji?".
+- [[2026-07-30 Znalazłam tę ofertę przed chwilą! Bierzemy pod lupę rynek pracy AI!]] — Kasia Krzywicka: rynek pracy zaczyna szukać "Koordynatorów ds. AI" łączących biznes, bezpieczeństwo danych i szkolenie zespołu — luka kompetencyjna, przykładowa oferta pracy i trik z NotebookLM do researchu raportów.

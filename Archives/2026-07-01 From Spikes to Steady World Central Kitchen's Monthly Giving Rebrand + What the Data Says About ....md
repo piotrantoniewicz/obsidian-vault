@@ -1,10 +1,12 @@
 ---
-type: "Web"
-authors: "[[Dana Snyder]]"
-url: "https://www.youtube.com/watch?v=zfhfpB4YKO0"
-published: 2026-07-01
-created: 2026-07-31
+type: Web
+authors: '[[Dana Snyder]]'
+url: 'https://www.youtube.com/watch?v=zfhfpB4YKO0'
+published: 2026-07-01T00:00:00.000Z
+created: 2026-07-31T00:00:00.000Z
 tags:
+  - fundraising
+  - organizacje-społeczne
 ---
 
 

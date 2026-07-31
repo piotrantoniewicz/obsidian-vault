@@ -5,6 +5,9 @@ url: "https://au.civic.ai/p/mission-not-race"
 published: 2026-07-25
 created: 2026-07-30
 tags:
+  - "strategia-AI"
+  - "framing"
+  - "organizacje-społeczne"
 ---
 
 

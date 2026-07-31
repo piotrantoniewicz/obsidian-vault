@@ -5,6 +5,9 @@ url: "https://www.linkedin.com/pulse/transformation-asks-you-dragon-meenakshi-me
 published: 2026-07-30
 created: 2026-07-30
 tags:
+  - "strategia-organizacji"
+  - "strategia-AI"
+  - "organizacje-społeczne"
 ---
 
 

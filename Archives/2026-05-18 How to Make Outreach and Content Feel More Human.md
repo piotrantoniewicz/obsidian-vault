@@ -5,6 +5,9 @@ url: "https://www.youtube.com/watch?v=U21ZYn5d5s0"
 published: 2026-05-18
 created: 2026-07-31
 tags:
+  - "content-marketing"
+  - "ghostwriting"
+  - "framing"
 ---
 
 

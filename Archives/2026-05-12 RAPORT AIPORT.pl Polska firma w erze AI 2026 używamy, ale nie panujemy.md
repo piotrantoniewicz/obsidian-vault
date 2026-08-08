@@ -5,6 +5,9 @@ url: "https://aiport.pl/co-nowego-w-ai/raport-aiport-pl-polska-firma-w-erze-ai-2
 published: 2026-05-12
 created: 2026-07-31
 tags:
+  - "strategia-AI"
+  - "szkolenia-AI"
+  - "narzędzia-AI"
 ---
 
 

@@ -19,8 +19,8 @@ Proces nie opiera się na metodyce z [[Doradztwo strategiczne organizacje społe
 **Profil organizacji (ważny dla strategii):** ruch obywatelski/rzeczniczy, nie fundacja usługowa — donor identity pokrywa się z tożsamością odbiorcy (rodzic troszczący się o przyszłość dziecka). Widoczne kanały na stronie: 1,5% podatku, strona "Wspieram!" — brak widocznego klubu regularnych darczyńców czy P2P.
 
 ## Kolejne kroki
-- [ ] Spotkanie startowe z Zarządem — agenda: `~/Projekty/Fundraising_RdK/agenda_spotkanie_1.md`
-- [ ] Zebranie danych finansowych i bazy kontaktów (do końca lipca)
+- [x] Spotkanie startowe z Zarządem — odbyło się 2026-07-21, agenda: `~/Projekty/Fundraising_RdK/agenda_spotkanie_1.md`
+- [x] Zebranie danych finansowych i bazy kontaktów — dane otrzymane 2026-08-07
 - [ ] Krótkie rozmowy (30 min) z osobami prowadzącymi programy
 - [ ] Szkic strategii — model finansowania, segmentacja "rodziców-darczyńców", plan P2P/Key Opinion Neighbors (sierpień)
 - [ ] Checkpoint z Zarządem — prezentacja szkicu (data do ustalenia na spotkaniu startowym)
@@ -35,3 +35,4 @@ Proces nie opiera się na metodyce z [[Doradztwo strategiczne organizacje społe
 
 ## Log decyzji
 - 2026-07-15 — utworzenie notatki-huba projektu; ustalono zakres (tylko dokument strategii, termin koniec września) i przygotowano agendę pierwszego spotkania z Zarządem
+- 2026-08-08 — spotkanie startowe z Zarządem odbyło się 21.07 (opóźnienie względem statusu w vaultcie); dane finansowe i baza kontaktów otrzymane 07.08 — kolejny krok: rozmowy z osobami prowadzącymi programy, potem szkic strategii

@@ -5,6 +5,8 @@ url: "https://www.youtube.com/watch?v=jS09mtGl89E"
 published: 2025-10-27
 created: 2026-07-31
 tags:
+  - "fundraising"
+  - "digital-campaigning"
 ---
 
 

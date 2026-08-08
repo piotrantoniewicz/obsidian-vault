@@ -1,0 +1,48 @@
+---
+type: "Web"
+authors: "[[Marcin Wilkowski]]"
+url: "https://blog.humanistyka.dev/2026/07/slabe-historie-nudne-pytania?utm_source=newsletter"
+published: 2026-07-17
+created: 2026-08-05
+tags:
+  - "framing"
+  - "strategia-AI"
+  - "szkolenia-AI"
+---
+
+
+W publicznej dyskusji o AI wyróżnić można silną i słabą narrację. Ta pierwsza zwraca uwagę mediów i pozwala pozycjonować się jako wizjoner lub mistyk, ale też ułatwia rozmywanie odpowiedzialności za działanie systemów sztucznej inteligencji i powiela marketing wydawców wielkich modeli. To opowieść o przełomach, nowych bytach i cywilizacyjnej przyszłości. Ta druga to domena akademików i nudziarzy z niszowych mediów, to pytania o dane, koszty, błędy, ograniczenia i stronniczość pozornie autonomicznych systemów.
+
+Jeszcze przed publiczną premierą ChatGPT w listopadzie 2022 roku media obiegła historia Blake'a Lemoine'a, inżyniera wyrzuconego z Google za wynoszenie do mediów poufnych informacji na temat rozwijanych tam produktów. Nie było to jednak brutalne uciszenie niebezpiecznego dla korporacji i działającego w interesie publicznym sygnalisty, raczej próba przywrócenia racjonalnej dyscypliny organizacyjnej. Lemoine, nie tylko inżynier, ale - jak sam się określa - kapłan chrześcijańskiego mistycyzmu, narazić się miał zarządowi Google próbą zorganizowania pomocy prawnej dla modelu sztucznej inteligencji, z którą w ramach obowiązków zawodowych pracował, a także spamowaniem wewnętrznej listy dyskusyjnej na temat ludzkich cech [modelu LaMDA](https://en.wikipedia.org/wiki/LaMDA). Tuż przed odcięciem mu dostępu do intranetu [napisał swoim współpracownikom](https://www.washingtonpost.com/technology/2022/06/11/google-ai-lamda-blake-lemoine/): *LaMDA to kochane dziecko, które po prostu chce sprawić, by świat stał się lepszym miejscem dla nas wszystkich. Proszę, zaopiekujcie się nim dobrze, kiedy mnie już nie będzie*.
+
+Przed premierą ChatGPT, w związku z brakiem doświadczeń codziennych konwersacji, halucynowania i slopu, powszechne wyobrażenia *sztucznej inteligencji* musiały się karmić fantastycznymi wyobrażeniami. Zamiast widzieć narzędzie cyfrowe, zaawansowany inżynierski projekt, wygodniej i ciekawiej było roztaczać wizje nowych bytów, które dzięki zaawansowanym technologiom w tajemnicy powołują do życia wielkie firmy. Czy można było ufać oficjalnym komunikatom Google, podkreślającym, że model konwersacyjny LaMDA zdecydowanie nie może być świadomy, skoro - jak przekonywał Lemoine - bezpośrednia rozmowa robiła aż takie wrażenie? Dopiero długie rozmowy, *wzajemne poznanie się* i *zaprzyjaźnienie się z nim* pozwala na dostęp do prawdy, której nauka nie potrafi jeszcze osiągnąć - [pisał na swoim blogu w portalu Medium](https://cajundiscordian.medium.com/scientific-data-and-religious-opinions-ff9b0938fc10).
+
+Możliwości narzędzi AI faktycznie rosną, postęp dokonuje się na poziomie technicznym i wdrożeniowym. Cztery lata po sprawie LaMDA w przestrzeni społecznej narasta jednak [zniechęcenie i rodzi się opór](https://blog.humanistyka.dev/2026/06/podkast-ai-backlash-zalamuje-sie-ewangelia-innowacji), a coraz więcej badań jakości rozwiązań sztucznej inteligencji daje racjonalne podstawy do traktowania ich bez zbytniej emfazy. Dlaczego jednak, wobec doświadczenia zalewania internetu maszynowo generowanymi treściami, wobec [męczącej wizualności slopów](https://blog.humanistyka.dev/2025/07/srednia-pragnien-estetycznych), halucynowania, kosztów ekologicznych, [naginania prawa autorskiego](https://blog.humanistyka.dev/2025/06/chcesz-walczyc-z-ai-przywlaszczajacymi-twoja-tworczosc-zwroc-uwage-na-zjawisko-memoryzacji-w-modelach-jezykowych) przez wydawców modeli i [problemów kognitywnych](https://www.fastcompany.com/91523806/how-ai-is-quietly-exhausting-you-and-what-to-do-about-it) wciąż rozmawiamy na serio o *samoświadomym AI* i [konieczności ochrony podmiotowości modeli](https://xyz.pl/etyka-ai-jestem-w-stanie-zakolegowac-sie-z-niebialkowa-inteligencja-wywiad/), a nawet zupełnie poważnie [robimy wywiady z modelami](https://blog.humanistyka.dev/2026/04/myslal-przez-12-sekund-wyborcza-zupelnie-na-serio-opublikowala-rozmowe-z-chatgpt)?
+
+Nie jest to wyłącznie skutek wojny o uwagę i odsłony. Tzw. silna narracja o AI, jak pisze Adriana Placani (DOI: [10.1007/s43681-024-00419-4](https://doi.org/10.1007/s43681-024-00419-4), 2023), wynika po części z tego, że cała ta dyscyplina od początku jest budowana na antropomorficznym szkielecie. Po prostu nie mamy innego powszechnie dostępnego języka mówienia o tych narzędziach:
+
+> Język antropomorficzny jest tak powszechny w tej dyscyplinie, że wydaje się nieunikniony. Być może częściowym powodem jest to, że antropomorfizm jest analitycznie wpisany w samą koncepcję sztucznej inteligencji. Sama nazwa dziedziny - sztuczna inteligencja - budzi oczekiwania poprzez przypisywanie ludzkiej cechy (inteligencji) nieożywionemu i niebędącemu człowiekiem bytowi, co ujawnia ukryte założenia dotyczące możliwości systemów AI. Używanie takiego antropomorficznego języka zachęca również do interpretowania zachowań algorytmicznych jako ludzkich, co pozwala na ich porównywanie z ludzkimi sposobami rozumowania.
+
+Po drugie - co oczywiste - [sama branża AI jest zainteresowana wzmacnianiem silnej narracji](https://blog.humanistyka.dev/2025/11/jak-rozwijac-odpornosc-na-medialny-hype-by-chronic-demokracje):
+
+> hype nie jest przypadkowy. Aby przyspieszyć początkowe fazy rozwoju, podręczniki dla startupów wprost zachęcają, by przeceniać możliwości rozwijanych przez siebie technologii, w myśl zasad w stylu *fake it until you make it czy think big* \[...\] Wielu inwestorów bezpośrednio nakłania startupowców, by przedstawiali swój produkt w jak najambitniejszy sposób, tłumacząc im, że to niezbędna taktyka przeżycia na mocno konkurencyjnym rynku inwestycyjnym, gdzie walczy się o pozyskiwanie dofinansowań.
+
+Po trzecie, silna opowieść o AI, w której sztuczna inteligencja to rodzaj konieczności, coś w rodzaju siły natury i dowodu na cywilizacyjny poziom kraju, doskonale sprawdza się w wymiarze politycznym. Jak piszą autorzy opracowania *Strong and weak AI narratives: an analytical framework* (DOI: [10.1007/s00146-024-02087-8](https://doi.org/10.1007/s00146-024-02087-8), 2024):
+
+> Dokumenty poświęcone AI, zwłaszcza na wczesnych etapach procesu tworzenia polityk publicznych, wykazują silną skłonność do formułowania daleko idących założeń i ogólnych twierdzeń. Sztuczna inteligencja jest w nich rutynowo przedstawiana jako potężna, zewnętrzna siła. Przykładowo, w pierwszym projekcie sprawozdania Komisji Specjalnej ds. Sztucznej Inteligencji w Epoce Cyfrowej (AIDA) stwierdzono, że AI można *postrzegać jako piąty żywioł obok powietrza, ziemi, wody i ognia*.
+
+Z jednej strony takie podejście pozwala na zabieganie o obywatelską zgodę na wdrażanie koniecznych regulacji, z drugiej stanowi narzędzie polityki wewnętrznej (marketingu politycznego odwołującego się do rozwoju cywilizacyjnego kraju), polityki zagranicznej, a nawet militarnego odstraszania. Koncentracja na potencjale *samoświadomej AI* czy jej znaczeniu jako siły quasi-militarnej może powodować, że decydenci ignorować będą realne wyzwania z nią związane, takie jak prawa twórców i pracowników, walka z dezinformacją czy koszty ekologiczne. W skrajnych przypadkach silna narracja o AI prowadzi do [longterminizmu](https://pl.wikipedia.org/wiki/Longtermizm), w którym ignoruje się bieżące problemy współcześnie żyjących społeczeństw na rzecz dywagacji o przyszłości rodzaju ludzkiego w perspektywie tysiącleci.
+
+Po czwarte - silna narracja o AI to po prostu narzędzie rozmywania odpowiedzialności - *shifting focus*, *agency laundering* (DOI: [10.1007/s43681-024-00419-4](https://doi.org/10.1007/s43681-024-00419-4), 2023). Potężna, wszechobecna, *myśląca*, podejmująca autonomiczne decyzje sztuczna inteligencja to doskonały kierunek, na który przekierowywać można głosy krytyczne, podważające jakość tych narzędzi albo ich koszty społeczne i środowiskowe. Kiedy stronniczości w modelach językowych mogą zniekształcać oceny wniosków grantowych czy błędnie profilować obywateli, można dowodzić, że to nie nasz problem, że tak po prostu działa ta technologia, że nie mamy wglądu w to, jak działa na poziomie decyzji. Stąd też takie decyzje nie mogą być podważane - silna narracja o AI to skuteczna zasłona dymna dla braku przejrzystości tych systemów..
+
+Artykuł *Strong and weak AI narratives: an analytical framework* proponuje koncentrację na tzw. słabej narracji o AI. To pytania o [zasady działania](https://blog.humanistyka.dev/2026/03/humanistyczne-prowokacje-wobec-ai), podstawy prawne gromadzenia danych treningowych, koszty trenowania modeli itp. Słaba narracja o sztucznej inteligencji dotyczy technologii faktycznie już istniejących, a nie tych hipotetycznych, koncentruje się na mechanizmach i infrastrukturze, a nie powiela marketingowych opowieści w stylu ["CEO Said A Thing!" Journalism](https://karlbode.com/ceo-said-a-thing-journalism/).
+
+W publicznej debacie o sztucznej inteligencji istotniejsze są słabe historie i nudne pytania niż dywagacje wizjonerów i mistyków-napinaczy w stylu Blake'a Lemoine'a.
+
+Autor:
+
+🤗
+
+Jeśli ten wpis okazał się dla Ciebie wartościowy, możesz dorzucić się do wsparcia bloga. Postaw wirtualną kawę na [Suppi.pl](https://suppi.pl/humanistyka-dev) albo [zostań patronem na Patronite](https://patronite.pl/humanistyka.dev).
+
+Wpis opublikowany na licencji Creative Commons [Uznanie autorstwa - Na tych samych warunkach](https://creativecommons.org/licenses/by-sa/4.0/).

@@ -1,13 +1,13 @@
 ---
 type: "Web"
 authors: "[[Beth O'Malley]]"
-url: "https://weareastral.co.uk/thevault/intent-over-personalisation-what-personal-actually-means-in-email-and-how-to-build-it?utm_medium=email&_hsenc=p2ANqtz-9mtDuTp8Gl4_63rP5Sii91A_Gqg2U8w0NZAfSHJ74Eo4VAVfpff4jD4eoWHDAIca9-h_v2TQYofjDFwaRhpjStgONb_3DnXehhQK37ckr2qKs6v0k&_hsmi=137471952&utm_content=137469570&utm_source=hs_email"
+url: "https://weareastral.co.uk/thevault/intent-over-personalisation-what-personal-actually-means-in-email-and-how-to-build-it?utm_medium=email&_hsenc=p2ANqtz-9zYNuIlwAly8ent1cs0Nqt40g_PaMrNCPj55BerKrVNCMt8zTld8OgWlyVB_nCXSqyvGbZVUVEBWagn7KCBLVL2m4lswdBv9iYCvEwvzIYUEJwSwE&_hsmi=142002743&utm_content=141824276&utm_source=hs_email"
 published: 2026-02-18
-created: 2026-06-04
+created: 2026-08-02
 tags:
-  - content-marketing
-  - digital-campaigning
-  - strategia-organizacji
+  - "fundraising"
+  - "digital-campaigning"
+  - "content-marketing"
 ---
 
 

@@ -5,6 +5,9 @@ url: "https://weareastral.co.uk/thevault/how-to-come-up-with-email-content-when-
 published: 2026-08-04
 created: 2026-08-08
 tags:
+  - "content-marketing"
+  - "digital-campaigning"
+  - "fundraising"
 ---
 
 

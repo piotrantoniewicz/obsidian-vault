@@ -5,6 +5,9 @@ url: "https://weareastral.co.uk/thevault/inheriting-a-bad-email-strategy-approac
 published: 2026-08-04
 created: 2026-08-08
 tags:
+  - "strategia-organizacji"
+  - "digital-campaigning"
+  - "fundraising"
 ---
 
 

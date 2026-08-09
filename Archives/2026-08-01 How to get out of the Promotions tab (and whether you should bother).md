@@ -5,6 +5,8 @@ url: "https://weareastral.co.uk/thevault/how-to-get-out-of-the-promotions-tab-an
 published: 2026-08-01
 created: 2026-08-08
 tags:
+  - "digital-campaigning"
+  - "fundraising"
 ---
 
 

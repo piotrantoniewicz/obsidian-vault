@@ -5,6 +5,9 @@ url: "https://www.linkedin.com/pulse/crew-makes-stars-look-good-bryan-neider-hxc
 published: 2026-08-06
 created: 2026-08-08
 tags:
+  - "organizacje-społeczne"
+  - "strategia-organizacji"
+  - "framing"
 ---
 
 

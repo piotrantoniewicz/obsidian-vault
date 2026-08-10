@@ -5,6 +5,9 @@ url: "https://www.dojiggy.com/blog/google-analytics-for-nonprofits/"
 published: 2026-06-09
 created: 2026-08-10
 tags:
+  - "fundraising"
+  - "digital-campaigning"
+  - "organizacje-społeczne"
 ---
 
 

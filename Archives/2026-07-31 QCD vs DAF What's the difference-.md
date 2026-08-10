@@ -5,6 +5,8 @@ url: "https://www.fidelity.com/learning-center/wealth-management-insights/QCD-or
 published: 2026-07-31
 created: 2026-08-10
 tags:
+  - "fundraising"
+  - "strategia-organizacji"
 ---
 
 

@@ -5,6 +5,9 @@ url: "https://bloomerang.com/blog/nonprofit-ai-glossary?utm_medium=email&utm_sou
 published: 2026-07-29
 created: 2026-08-10
 tags:
+  - "fundraising"
+  - "narzędzia-AI"
+  - "szkolenia-AI"
 ---
 
 

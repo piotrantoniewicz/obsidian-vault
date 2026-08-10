@@ -5,6 +5,9 @@ url: "https://ecomail.pl/blog/pl/marketing-automation-nie-jest-dla-malych-firm-o
 published: 2026-08-10
 created: 2026-08-10
 tags:
+  - "automatyzacja"
+  - "narzędzia-AI"
+  - "content-marketing"
 ---
 
 

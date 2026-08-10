@@ -5,6 +5,9 @@ url: "https://blog.everraise.com/blog/giving-tuesday-strategy"
 published: 2026-07-13
 created: 2026-08-10
 tags:
+  - "fundraising"
+  - "digital-campaigning"
+  - "strategia-organizacji"
 ---
 
 

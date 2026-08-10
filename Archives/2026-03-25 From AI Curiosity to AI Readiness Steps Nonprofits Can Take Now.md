@@ -5,6 +5,9 @@ url: "https://www.blackbaud.co.uk/industry-insights/resources/from-ai-curiosity-
 published: 2026-03-25
 created: 2026-08-10
 tags:
+  - "strategia-AI"
+  - "organizacje-społeczne"
+  - "szkolenia-AI"
 ---
 
 

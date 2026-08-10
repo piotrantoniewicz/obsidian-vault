@@ -5,6 +5,9 @@ url: "https://bloomerang.com/blog/annual-appeal?utm_medium=email&utm_source=mark
 published: 2026-07-29
 created: 2026-08-10
 tags:
+  - "fundraising"
+  - "framing"
+  - "content-marketing"
 ---
 
 

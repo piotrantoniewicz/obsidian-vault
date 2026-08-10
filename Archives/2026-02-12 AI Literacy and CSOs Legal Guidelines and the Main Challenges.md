@@ -5,6 +5,9 @@ url: "https://en.hive-mind.community/blog/1170,ai-literacy-and-csos-legal-guidel
 published: 2026-02-12
 created: 2026-08-10
 tags:
+  - "szkolenia-AI"
+  - "strategia-AI"
+  - "organizacje-społeczne"
 ---
 
 

@@ -1,10 +1,14 @@
 ---
-type: "Web"
-authors: "[[Asmita Ghosh]]"
-url: "https://www.nten.org/blog/eight-essential-tech-readiness-questions?ck_subscriber_id=3412528627&utm_source=convertkit&utm_medium=email&utm_campaign=%F0%9F%92%BB%20open%20tabs%20%7C%208%20questions%20to%20ask%20before%20investing%20in%20another%20tool%20-%2022847181&sh_kit=ebb8f2fb51f8b6f5b192f8b07d9aae25086a45840059610b97f734dbb8655eb6"
-published: 2026-07-22
-created: 2026-08-10
+type: Web
+authors: '[[Asmita Ghosh]]'
+url: >-
+  https://www.nten.org/blog/eight-essential-tech-readiness-questions?ck_subscriber_id=3412528627&utm_source=convertkit&utm_medium=email&utm_campaign=%F0%9F%92%BB%20open%20tabs%20%7C%208%20questions%20to%20ask%20before%20investing%20in%20another%20tool%20-%2022847181&sh_kit=ebb8f2fb51f8b6f5b192f8b07d9aae25086a45840059610b97f734dbb8655eb6
+published: 2026-07-22T00:00:00.000Z
+created: 2026-08-10T00:00:00.000Z
 tags:
+  - strategia-organizacji
+  - organizacje-społeczne
+  - strategia-AI
 ---
 
 

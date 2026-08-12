@@ -1,10 +1,14 @@
 ---
-type: "Web"
-authors: "[[Bryan Funk]]"
-url: "https://fundraiseup.com/blog/spreadsheets-arent-made-for-your-donors-largest-commitments-pledges-now-available-in-fundraise-up/?ck_subscriber_id=3412528627&utm_source=convertkit&utm_medium=email&utm_campaign=%F0%9F%92%BB%20open%20tabs%20%7C%208%20questions%20to%20ask%20before%20investing%20in%20another%20tool%20-%2022847181&sh_kit=ebb8f2fb51f8b6f5b192f8b07d9aae25086a45840059610b97f734dbb8655eb6"
-published: 2026-07-20
-created: 2026-08-10
+type: Web
+authors: '[[Bryan Funk]]'
+url: >-
+  https://fundraiseup.com/blog/spreadsheets-arent-made-for-your-donors-largest-commitments-pledges-now-available-in-fundraise-up/?ck_subscriber_id=3412528627&utm_source=convertkit&utm_medium=email&utm_campaign=%F0%9F%92%BB%20open%20tabs%20%7C%208%20questions%20to%20ask%20before%20investing%20in%20another%20tool%20-%2022847181&sh_kit=ebb8f2fb51f8b6f5b192f8b07d9aae25086a45840059610b97f734dbb8655eb6
+published: 2026-07-20T00:00:00.000Z
+created: 2026-08-10T00:00:00.000Z
 tags:
+  - fundraising
+  - automatyzacja
+  - organizacje-społeczne
 ---
 
 

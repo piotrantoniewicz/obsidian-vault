@@ -1,10 +1,14 @@
 ---
-type: "Web"
-authors: "[[FundraiseUp]]"
-url: "https://fundraiseup.com/reports/pulse-check-2026-q1/?utm_campaign=47278734-202606_Cmp_Pulse_Check&utm_medium=email&_hsenc=p2ANqtz--6rl9q8glvwbUpU6qKX2N1UnwFCCVA0WRnKwgkJLY53E2tLKilTjR_MFBMMMPpr2n11wrgJP3bDl6BuO7vNsr1rpEpnw&_hsmi=426473593&utm_content=426473593&utm_source=hs_email"
-published:
-created: 2026-08-12
+type: Web
+authors: '[[FundraiseUp]]'
+url: >-
+  https://fundraiseup.com/reports/pulse-check-2026-q1/?utm_campaign=47278734-202606_Cmp_Pulse_Check&utm_medium=email&_hsenc=p2ANqtz--6rl9q8glvwbUpU6qKX2N1UnwFCCVA0WRnKwgkJLY53E2tLKilTjR_MFBMMMPpr2n11wrgJP3bDl6BuO7vNsr1rpEpnw&_hsmi=426473593&utm_content=426473593&utm_source=hs_email
+published: null
+created: 2026-08-12T00:00:00.000Z
 tags:
+  - fundraising
+  - digital-campaigning
+  - narzędzia-AI
 ---
 
 

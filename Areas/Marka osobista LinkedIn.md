@@ -2,8 +2,8 @@
 categories:
   - Area
 status: Aktywny
-created: 2026-07-07
-updated: 2026-07-13
+created: 2026-07-07T00:00:00.000Z
+updated: '2026-08-12'
 tags:
   - content-marketing
   - digital-campaigning
@@ -19,6 +19,7 @@ Aktywne:
 - [[2026-07-08 Lead magnet Narzędzia AI — rotacja i pierwszy mailing]] — rotacja w postach + narzędzie mailingowe + pierwszy mailing (due 2026-08-31)
 - [[2026-07-08 Pierwszy case study pilotażu automatyzacji]] — rekrutacja organizacji + wdrożenie + case na dobryai.pl (due 2026-09-30)
 - [[2026-07-08 Cykl artykułów ngo.pl — GEO i widoczność w sektorze]] — uruchomienie i utrwalenie cyklu co 2 tyg. (górny lejek); retrospektywa po 2–3 cyklach (due 2026-08-15)
+- [[2026-07-20 Dowód troski — seria Substack o AI i zaufaniu]] — pięcioodcinkowa seria newslettera co 2 tyg.; odcinek 0 opublikowany 20.07, retrospektywa po zamknięciu serii (due 2026-10-15)
 
 Zakończone:
 - [[2026-06-30 Optymalizacja profilu LinkedIn]] — część 1 planu wdrożona (stanowisko + opisy 5 ról), koniec czerwca 2026

@@ -1,10 +1,14 @@
 ---
-type: "Web"
-authors: "[[Partisan]]"
-url: "https://hub.partisan.community/m/news/the-math-of-manipulation-measuring-the-true-cost-of-cheap-engagement/1f3c94e3-23c0-44a1-9772-c8ad816cb9de"
-published:
-created: 2026-08-12
+type: Web
+authors: '[[Partisan]]'
+url: >-
+  https://hub.partisan.community/m/news/the-math-of-manipulation-measuring-the-true-cost-of-cheap-engagement/1f3c94e3-23c0-44a1-9772-c8ad816cb9de
+published: null
+created: 2026-08-12T00:00:00.000Z
 tags:
+  - digital-campaigning
+  - framing
+  - organizacje-społeczne
 ---
 
 

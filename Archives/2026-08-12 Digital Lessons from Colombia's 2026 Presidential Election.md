@@ -5,6 +5,9 @@ url: "https://hub.partisan.community/m/news/digital-lessons-from-colombias-2026-
 published:
 created: 2026-08-12
 tags:
+  - "digital-campaigning"
+  - "framing"
+  - "narzędzia-AI"
 ---
 
 

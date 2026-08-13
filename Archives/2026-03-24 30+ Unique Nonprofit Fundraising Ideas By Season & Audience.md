@@ -5,6 +5,8 @@ url: "https://www.eventgroove.com/blog/fundraising-ideas-for-nonprofits/?utm_sou
 published: 2026-03-24
 created: 2026-08-13
 tags:
+  - "fundraising"
+  - "organizacje-społeczne"
 ---
 
 

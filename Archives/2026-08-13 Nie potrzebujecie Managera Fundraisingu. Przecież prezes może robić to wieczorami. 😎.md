@@ -1,10 +1,14 @@
 ---
-type: "Web"
-authors: "[[Katarzyna Konefał]]"
-url: "https://www.linkedin.com/pulse/nie-potrzebujecie-managera-fundraisingu-przecie%C5%BC-mo%C5%BCe-0o3yf/"
-published: 2026-08-13
-created: 2026-08-13
+type: Web
+authors: '[[Katarzyna Konefał]]'
+url: >-
+  https://www.linkedin.com/pulse/nie-potrzebujecie-managera-fundraisingu-przecie%C5%BC-mo%C5%BCe-0o3yf/
+published: 2026-08-13T00:00:00.000Z
+created: 2026-08-13T00:00:00.000Z
 tags:
+  - fundraising
+  - organizacje-społeczne
+  - strategia-organizacji
 ---
 
 

@@ -1,10 +1,14 @@
 ---
-type: "Web"
-authors: "[[Rob Burke]]"
-url: "https://www.donordock.com/articles/when-federal-grants-shift-you-pivot?utm_campaign=21239977-The%20Focused%20Fundraiser&utm_medium=email&_hsenc=p2ANqtz-9JnPKU_Wv8x5xR9jgA7esO4zMM8PMhqHuEymUD2a5BsCOkGPmqtCLwY-M3xRocECEeqWY8cVifVvDBAsTLL9CgzSKn3yd1O42SuEmvG87roVNK7y8&_hsmi=432466074&utm_content=428365171&utm_source=hs_email"
-published: 2026-05-11
-created: 2026-08-13
+type: Web
+authors: '[[Rob Burke]]'
+url: >-
+  https://www.donordock.com/articles/when-federal-grants-shift-you-pivot?utm_campaign=21239977-The%20Focused%20Fundraiser&utm_medium=email&_hsenc=p2ANqtz-9JnPKU_Wv8x5xR9jgA7esO4zMM8PMhqHuEymUD2a5BsCOkGPmqtCLwY-M3xRocECEeqWY8cVifVvDBAsTLL9CgzSKn3yd1O42SuEmvG87roVNK7y8&_hsmi=432466074&utm_content=428365171&utm_source=hs_email
+published: 2026-05-11T00:00:00.000Z
+created: 2026-08-13T00:00:00.000Z
 tags:
+  - fundraising
+  - strategia-organizacji
+  - organizacje-społeczne
 ---
 
 

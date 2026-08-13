@@ -1,10 +1,10 @@
 ---
-type: "Web"
-authors: "[[NextAfter]]"
-url: "https://www.youtube.com/watch?v=l0uACWeY9ck"
-published: 2025-11-03
-created: 2026-08-13
-tags:
+type: Web
+authors: '[[NextAfter]]'
+url: 'https://www.youtube.com/watch?v=l0uACWeY9ck'
+published: 2025-11-03T00:00:00.000Z
+created: 2026-08-13T00:00:00.000Z
+tags: null
 ---
 
 

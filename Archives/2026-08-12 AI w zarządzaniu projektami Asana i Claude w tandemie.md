@@ -1,10 +1,14 @@
 ---
-type: "Web"
-authors: "[[Michał Serwiński]]"
-url: "https://sektor3-0.pl/aktualnosci/ai-w-zarzadzaniu-projektami-ngo-asana-i-claude-w-tandemie/?utm_source=newsletter&utm_medium=email&utm_term=2026-08-13&utm_campaign=+Jak+wdro%C5%BCy%C4%87+narz%C4%99dzie+na+lata+"
-published: 2026-08-12
-created: 2026-08-13
+type: Web
+authors: '[[Michał Serwiński]]'
+url: >-
+  https://sektor3-0.pl/aktualnosci/ai-w-zarzadzaniu-projektami-ngo-asana-i-claude-w-tandemie/?utm_source=newsletter&utm_medium=email&utm_term=2026-08-13&utm_campaign=+Jak+wdro%C5%BCy%C4%87+narz%C4%99dzie+na+lata+
+published: 2026-08-12T00:00:00.000Z
+created: 2026-08-13T00:00:00.000Z
 tags:
+  - narzędzia-AI
+  - automatyzacja
+  - organizacje-społeczne
 ---
 
 

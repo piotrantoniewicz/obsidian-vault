@@ -1,10 +1,14 @@
 ---
-type: "Web"
-authors: "[[ai-leaders]]"
-url: "https://aileaders.pl/artykuly/nowe-przepisy-i-pozwy-dotyczace-ai/?ref=aileaders-pl-newsletter"
-published: 2026-08-12
-created: 2026-08-13
+type: Web
+authors: '[[ai-leaders]]'
+url: >-
+  https://aileaders.pl/artykuly/nowe-przepisy-i-pozwy-dotyczace-ai/?ref=aileaders-pl-newsletter
+published: 2026-08-12T00:00:00.000Z
+created: 2026-08-13T00:00:00.000Z
 tags:
+  - strategia-AI
+  - trendy-AI
+  - LLM
 ---
 
 

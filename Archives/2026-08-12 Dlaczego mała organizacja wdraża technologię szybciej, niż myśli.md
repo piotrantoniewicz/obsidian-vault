@@ -1,10 +1,14 @@
 ---
-type: "Web"
-authors: "[[Karina Janus]]"
-url: "https://publicystyka.ngo.pl/dlaczego-mala-organizacja-wdraza-technologie-szybciej-niz-mysli-taup"
-published: 2026-08-12
-created: 2026-08-13
+type: Web
+authors: '[[Karina Janus]]'
+url: >-
+  https://publicystyka.ngo.pl/dlaczego-mala-organizacja-wdraza-technologie-szybciej-niz-mysli-taup
+published: 2026-08-12T00:00:00.000Z
+created: 2026-08-13T00:00:00.000Z
 tags:
+  - strategia-organizacji
+  - organizacje-społeczne
+  - automatyzacja
 ---
 
 

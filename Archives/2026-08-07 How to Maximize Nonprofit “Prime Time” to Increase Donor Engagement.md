@@ -1,10 +1,14 @@
 ---
-type: "Web"
-authors: "[[Caroline Griffin]]"
-url: "https://www.the-purpose-collective.com/blog/nonprofit-donor-engagement-prime-time"
-published: 2026-08-07
-created: 2026-08-13
+type: Web
+authors: '[[Caroline Griffin]]'
+url: >-
+  https://www.the-purpose-collective.com/blog/nonprofit-donor-engagement-prime-time
+published: 2026-08-07T00:00:00.000Z
+created: 2026-08-13T00:00:00.000Z
 tags:
+  - fundraising
+  - digital-campaigning
+  - content-marketing
 ---
 
 

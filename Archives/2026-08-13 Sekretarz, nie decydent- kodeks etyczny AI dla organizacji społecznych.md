@@ -1,10 +1,13 @@
 ---
-type: "Web"
-authors: "[[Piotr Antoniewicz]]"
-url: "https://publicystyka.ngo.pl/sekretarz-nie-decydent-kodeks-etyczny-ai-dla-organizacji-spolecznych"
-published: 2026-08-13
-created: 2026-08-13
+type: Web
+authors: '[[Piotr Antoniewicz]]'
+url: >-
+  https://publicystyka.ngo.pl/sekretarz-nie-decydent-kodeks-etyczny-ai-dla-organizacji-spolecznych
+published: 2026-08-13T00:00:00.000Z
+created: 2026-08-13T00:00:00.000Z
 tags:
+  - strategia-AI
+  - organizacje-społeczne
 ---
 
 ## Sekretarz, nie decydent: kodeks etyczny AI dla organizacji społecznych

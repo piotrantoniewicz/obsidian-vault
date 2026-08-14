@@ -1,10 +1,14 @@
 ---
-type: "Web"
-authors: "[[Julia Molinaro]]"
-url: "https://www.the-purpose-collective.com/blog/best-nonprofit-donor-communications?utm_source=www.civicshoutnewsletter.com&utm_medium=newsletter&utm_campaign=what-emailers-can-learn-from-a-10-envelope&_bhlid=c0aeec17c6af4f01daa23a3f13b09a0a7e941d57"
-published: 2026-07-16
-created: 2026-08-13
+type: Web
+authors: '[[Julia Molinaro]]'
+url: >-
+  https://www.the-purpose-collective.com/blog/best-nonprofit-donor-communications?utm_source=www.civicshoutnewsletter.com&utm_medium=newsletter&utm_campaign=what-emailers-can-learn-from-a-10-envelope&_bhlid=c0aeec17c6af4f01daa23a3f13b09a0a7e941d57
+published: 2026-07-16T00:00:00.000Z
+created: 2026-08-13T00:00:00.000Z
 tags:
+  - ghostwriting
+  - framing
+  - fundraising
 ---
 
 

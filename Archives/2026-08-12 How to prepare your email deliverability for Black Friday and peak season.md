@@ -5,6 +5,8 @@ url: "https://weareastral.co.uk/thevault/how-to-prepare-for-black-friday-and-pea
 published: 2026-08-12
 created: 2026-08-13
 tags:
+  - "digital-campaigning"
+  - "fundraising"
 ---
 
 

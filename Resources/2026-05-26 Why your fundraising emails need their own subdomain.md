@@ -1,17 +1,16 @@
 ---
 categories:
-  - "Emails"
-published: 2026-05-26
-created: 2026-05-27
+  - Emails
+created: '2026-05-27'
 labels:
-  - "Civic Shout"
+  - Civic Shout
+published: '2026-05-26'
 relevance: wysoka
 tags:
-  - "fundraising"
-  - "digital-campaigning"
-  - "organizacje-społeczne"
+  - fundraising
+  - digital-campaigning
+  - organizacje-społeczne
 ---
-
 # Why your fundraising emails need their own subdomain
 
 Newsletter Civic Shout autorstwa Sary Cederberg wyjaśnia, dlaczego organizacje non-profit powinny oddzielić swoje subdomeny mailowe dla kampanii fundraisingowych i wiadomości transakcyjnych. Gmail i Yahoo coraz silniej opierają decyzje o dostarczaniu na reputacji domeny — nie IP — co sprawia, że jedna nieudana wysyłka może zablokować potwierdzenia darowizn. Subdomena tworzy warstwę ochrony: problemy z kampanią marketingową nie uderzają bezpośrednio w reputację transakcyjną. To konkretna rekomendacja infrastrukturalna dla organizacji prowadzących regularny email marketing.

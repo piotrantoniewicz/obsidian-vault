@@ -1,10 +1,14 @@
 ---
-type: "Web"
-authors: "[[Beth O'Malley]]"
-url: "https://weareastral.co.uk/thevault/email-list-churn-whats-normal-and-what-isnt-and-when-should-you-stop-emailing-someone?utm_medium=email&_hsenc=p2ANqtz-8kLSrX6n7S0HBv5kfPs_2L3Dz6athSuNdLSZNyfsj0gWM_b_tDWNbh90lcbsqGFLKps9XiOxYszXPv3P2fBuC7d-kCyYtjvoS3bCp7YXkhdn73O9c&_hsmi=143123921&utm_content=143130518&utm_source=hs_email"
-published: 2026-08-12
-created: 2026-08-13
+type: Web
+authors: '[[Beth O''Malley]]'
+url: >-
+  https://weareastral.co.uk/thevault/email-list-churn-whats-normal-and-what-isnt-and-when-should-you-stop-emailing-someone?utm_medium=email&_hsenc=p2ANqtz-8kLSrX6n7S0HBv5kfPs_2L3Dz6athSuNdLSZNyfsj0gWM_b_tDWNbh90lcbsqGFLKps9XiOxYszXPv3P2fBuC7d-kCyYtjvoS3bCp7YXkhdn73O9c&_hsmi=143123921&utm_content=143130518&utm_source=hs_email
+published: 2026-08-12T00:00:00.000Z
+created: 2026-08-13T00:00:00.000Z
 tags:
+  - fundraising
+  - digital-campaigning
+  - content-marketing
 ---
 
 

@@ -5,6 +5,8 @@ url: "https://givingusa.org/giving-usa-charitable-giving-rose-to-617-20-billion-
 published:
 created: 2026-08-13
 tags:
+  - "fundraising"
+  - "organizacje-społeczne"
 ---
 
 

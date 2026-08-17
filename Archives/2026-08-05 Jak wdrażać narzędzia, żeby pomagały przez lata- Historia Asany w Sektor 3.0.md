@@ -1,10 +1,14 @@
 ---
-type: "Web"
-authors: "[[Barbara Ciach]]"
-url: "https://publicystyka.ngo.pl/jak-wdrazac-narzedzia-zeby-pomagaly-przez-lata-historia-asany-w-sektor-3-0-taup?utm_source=newsletter&utm_medium=email&utm_term=2026-08-13&utm_campaign=+Jak+wdro%C5%BCy%C4%87+narz%C4%99dzie+na+lata+"
-published: 2026-08-05
-created: 2026-08-13
+type: Web
+authors: '[[Barbara Ciach]]'
+url: >-
+  https://publicystyka.ngo.pl/jak-wdrazac-narzedzia-zeby-pomagaly-przez-lata-historia-asany-w-sektor-3-0-taup?utm_source=newsletter&utm_medium=email&utm_term=2026-08-13&utm_campaign=+Jak+wdro%C5%BCy%C4%87+narz%C4%99dzie+na+lata+
+published: 2026-08-05T00:00:00.000Z
+created: 2026-08-13T00:00:00.000Z
 tags:
+  - organizacje-społeczne
+  - automatyzacja
+  - strategia-organizacji
 ---
 
 

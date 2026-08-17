@@ -5,7 +5,7 @@ tags:
   - strategia-organizacji
   - organizacje-społeczne
 created: 2026-06-13
-updated: 2026-06-29
+updated: 2026-08-14
 relevance: wysoka
 sources:
   - "[[2025-02-11 Best Practices for Major Gift Fundraising What You Need to Know to Raise More]]"
@@ -14,6 +14,8 @@ sources:
   - "[[2025-07-29 7 Fundraising Reports Every Nonprofit Should Utilize + How to Actually Use Them]]"
   - "[[2026-06-23 Donors gave U.S. charities $617 billion in 2025, according to the new Giving USA report]]"
   - "[[2026-04-22 Build a Donor Pipeline Before You Need It]]"
+  - "[[2026-08-04 Fewer Donors, More Dollars, New Methodology At FEP]]"
+  - "[[2026-07-30 Fewer Donors, More Dollars, and Methodology Changes At FEP]]"
 ---
 
 # Major gifts (duże darowizny)
@@ -43,6 +45,9 @@ Prospektów nie szuka się „na czuja". Raporty z [[CRM]] typują ich z istniej
 Większość organizacji wpada w kryzys nie przez słabą misję, lecz przez zaniedbanie pipeline'u, dopóki nie zrobi się pilnie (Tom Iselin, Bloomerang). Organizacja oparta na **tych samych 12 major donorach przez 10 lat jest o jedno–dwa odejścia od paniki budżetowej**; pipeline, który się stale uzupełnia, *absorbuje* utratę darczyńcy zamiast jej doświadczać — to zarządzanie ryzykiem, nie luksus. Najtańsze źródło prospektów jest wewnątrz bazy: regularne pytanie do wolontariuszy, zespołu i długoletnich darczyńców „kto jeszcze powinien znać tę pracę?", **donor-to-donor introductions** (jedna przemyślana rekomendacja rocznie, ton „kto byłby zainspirowany?", nie „kto wypisze czek?"), reconnect z alumni programów. Kluczowy wniosek o capacity: math doesn't lie — 200 darczyńców × $100 = 1 major × $20 000, ale to **mały darczyńca bywa ukrytym major donorem**, więc jakość stewardshipu drobnych datków decyduje, czy w ogóle odkryjesz jego potencjał. Praktyka: pipeline-review jako stały punkt agendy zarządu (mierzony, raportowany), nie jednorazowa akcja.
 
 ---
+
+**7. Koncentracja w liczbach: 2,3% darczyńców daje 74,4% pieniędzy (FEP Q1 2026)**
+Najostrzejsza dostępna miara zjawiska opisanego w mechanizmie 4: darczyńcy **„major" (5 000–50 000 USD) i „supersize" (powyżej 50 000 USD)** odpowiadają łącznie za **74,4% wszystkich wpłat, stanowiąc zaledwie 2,3% bazy darczyńców** (Fundraising Effectiveness Project, Q1 2026). W tym samym kwartale wartość darowizn rosła o **4,3% r/r** (ledwie powyżej inflacji), przy spadku liczby darczyńców o **0,8%** — trend „mniej darczyńców, więcej dolarów" utrzymuje się, choć wyhamował. Wniosek strategiczny jest dwustronny i warto trzymać obie strony naraz: segmentacja pod dużych darczyńców zyskuje na znaczeniu względem masowego fundraisingu (to argument za pipeline'em z mech. 6), ale rekomendacja AFP idzie w drugą stronę — **poszerzanie bazy i budowanie ścieżek długoterminowego zaangażowania poza gronem największych darczyńców**, bo portfel oparty na 2,3% bazy jest maksymalnie wrażliwy na pojedynczą stratę (spina się z „giełdą jako predyktorem" z mech. 4). **Zastrzeżenie przy cytowaniu:** FEP wdrożył w 2026 pierwszą od pięciu lat gruntowną zmianę metodologii (panel organizacji, rozliczanie późnych wpłat, ważenie próby, kategoryzacja wg obszaru działania zamiast wielkości) — porównania z wcześniejszymi rocznikami wymagają ostrożności.
 
 ## Powiązane pojęcia
 

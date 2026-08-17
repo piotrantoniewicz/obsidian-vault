@@ -5,7 +5,7 @@ tags:
   - organizacje-społeczne
   - strategia-organizacji
 created: 2026-07-06
-updated: 2026-07-24
+updated: 2026-08-17
 relevance: wysoka
 sources:
   - "[[2025-09-02 AI Act & RODO 2025 Przewodnik po regulacjach UE karach i compliance]]"
@@ -16,6 +16,10 @@ sources:
   - "[[2026-01-27 Uważaj, co mówisz chatbotowi. Jak Big Tech trenuje AI na naszych rozmowach]]"
   - "[[2026-06-23 A to nie wycieknie - na ile ufasz AI]]"
   - "[[2026-07-22 The Runway Before the Flight]]"
+  - "[[2026-08-06 Wdrożenie AI w firmie UODO daje listę do odhaczenia]]"
+  - "[[2026-08-11 The AI Policy We Approved Last Week]]"
+  - "[[2026-06-23 How AI is Reshaping Europe's Digital Sovereignty Debate]]"
+  - "[[2026-05-12 RAPORT AIPORT.pl Polska firma w erze AI 2026 używamy, ale nie panujemy]]"
 ---
 
 # RODO i dane wrażliwe (GDPR & Sensitive Data)
@@ -48,6 +52,15 @@ Ponad **60% pracowników używa narzędzi AI bez wiedzy przełożonych** (Shadow
 
 **7. Granica danych jako pierwszy, publikowalny artefakt ([[Bryan Neider]])**
 Praktyczne domknięcie mechanizmów 4 i 5: zanim powstanie architektura i zanim skończy się due diligence, organizacja może opublikować **jedno zdanie granicy danych** — darmowe narzędzia AI nigdy nie mają dostępu do nazwiska klienta, diagnozy ani danych darczyńcy. To najtańszy możliwy krok wobec shadow AI (pracownicy już wklejają dane do darmowych czatów), bo nie wymaga budżetu ani decyzji technologicznej. Do tego **trzy pytania kontraktowe do dostawcy**, uzupełniające listę due diligence z mechanizmu 5: (a) czy nasze dane będą trenować wasze publiczne modele, (b) czy podpiszecie **formalną umowę o ochronie danych obejmującą dane zdrowotne i klienckie**, (c) czy nasze IT będzie widzieć i kontrolować, kto używa narzędzia i jak. Teza spinająca to z pieniędzmi: **poziom licencji (darmowa vs enterprise) jest sygnałem tego, jak organizacja traktuje dane osób, którym służy** — wersja enterprise z wyłączonym trenowaniem to pozycja budżetowa, nie luksus.
+
+**8. Pytania inicjalne UODO — polski, darmowy punkt wejścia *przed* zakupem narzędzia**
+6 sierpnia 2026 UODO udostępnił **cztery zestawy „pytań inicjalnych"** do przejścia przed uruchomieniem systemu AI: wersja dla **MŚP** (gotowe narzędzia, bez trenowania modelu i bez zaplecza prawnego — najbliższa realiom organizacji społecznej), wersja dla **sektora publicznego** (zasada legalizmu, reguły postępowania administracyjnego), **wersja 0** dla budujących lub dotrenowujących własne modele i **wersja rozszerzona**, która dokłada klasyfikację ryzyka i ocenę wpływu na prawa podstawowe z [[2026-07-20 AI Act|AI Act]] — wypełniana, gdy lista podstawowa wykaże przesłanki wysokiego ryzyka. Teza, która czyni to narzędziem wdrożeniowym, a nie prawniczym: **pytanie o zgodność z RODO pada zwykle wtedy, gdy narzędzie już działa, a decyzje o dostawcy i danych zapadły** — zmiana kosztuje wtedy migrację i renegocjację umowy zamiast godziny rozmowy. Kolejność działań: pobierz zestaw pasujący do sytuacji → **przejdź listę razem z osobą kupującą oprogramowanie, przed podpisaniem umowy** → osobno ustal, jakie dane trafią do dostawcy i na jakiej podstawie prawnej → rozstrzygnij, czy potrzebna jest [[DPIA]] (art. 35 RODO). Trzy zastrzeżenia: listy **nie są wiążącą wykładnią ani gwarancją zgodności**, nie trzeba ich przedstawiać organowi nadzorczemu, i **nie zastępują DPIA** — ich wartość jest organizacyjna: dają pretekst do rozmowy o danych, zanim zmiana zdania przestanie być darmowa. Skala problemu, który mają adresować: **41–58,5% organizacji nie dostrzega związku między narzędziami AI a przetwarzaniem danych osobowych**, a **95,9% badanych podmiotów nie uważa się za przygotowane** do wdrażania AI zgodnie z RODO (Społeczny Zespół Ekspertów przy Prezesie UODO); uwagi z korzystania z list UODO zbiera **do 30 września 2026**. Adresat jest podwójny: **równie mocno osoba zamawiająca narzędzie, co inspektor ochrony danych** — bo decyzja zapada w dziale kupującym oprogramowanie. Luka, której żadna lista nie zamyka (potwierdzenie mechanizmu 6): **dane wkładane do narzędzi przez pracowników na własną rękę, bez decyzji zakupowej** — tę ścieżkę zamyka dopiero konkretna polityka typu zielony/żółty/czerwony z [[2026-06-15 AI governance|AI governance]] (mech. 10), a nie kwestionariusz przed zakupem.
+
+**9. Poziom kontroli dopasowany do wrażliwości obciążenia, nie jednolity dla organizacji**
+Reguła projektowa domykająca mech. 4 (anonimizacja → architektura → lokalność) po stronie decyzji o dostawcy (Mark Reinhardt, [[Capgemini]]; suwerenność AI w *e-government benchmark* Komisji Europejskiej). Teza: poziom suwerenności i kontroli ma odzwierciedlać **wrażliwość konkretnego obciążenia**, a nie być ustawiony jednolicie dla całej organizacji — inaczej traktuje się dane rejestrowe, inaczej dokumentację medyczną, a w sektorze społecznym: inaczej listę mailingową, inaczej kartotekę beneficjenta. **Cztery pytania przed wyborem poziomu:** czy chodzi o dostęp do danych, o odporność, o zgodność regulacyjną, czy o bezpieczeństwo? Odpowiedź wyznacza rozwiązanie — od chmury komercyjnej po wdrożenie lokalne — i pozwala uniknąć obu błędów naraz: paraliżu („skoro dane wrażliwe, to nic nie wolno") i beztroski („skoro jedno narzędzie przeszło, przejdzie wszędzie"). Przesunięcie w samym pytaniu regulacyjnym: z **„gdzie są dane"** na **„jakich modeli używamy, kto je zbudował i czy rozumiemy, jak podejmują decyzje"** — istotne wszędzie tam, gdzie AI dotyka rozstrzygnięć o człowieku (świadczenia, kwalifikacja do programu). *(Źródło: [[2026-06-23 How AI is Reshaping Europe's Digital Sovereignty Debate]])*
+
+**10. Polska skala ekspozycji: 45,4% pracowników używa AI bez wiedzy pracodawcy**
+Twarda kotwica krajowa pod mech. 6 („paradoks bezpieczeństwa"), dotąd argumentowany danymi zagranicznymi (raport AIPORT.pl, N=479, marzec–maj 2026): **88,1% używa AI w pracy**, ale **tylko 20,3% firm ma formalną politykę AI**, a **45,4% pracowników korzysta z narzędzi bez wiedzy pracodawcy**. Dla organizacji przetwarzającej dane beneficjentów to nie jest statystyka o produktywności, tylko **oszacowanie powierzchni ryzyka**: w organizacji bez polityki domyślnym stanem jest wklejanie danych do narzędzia, którego DPA nikt nie czytał. Praktyczne użycie liczby w rozmowie z zarządem: nie jako oskarżenie zespołu, lecz jako opis fazy rynku — „to dzieje się u czterech na dziesięciu pracowników w Polsce, więc pytanie nie brzmi *czy u nas*, tylko *co z tym robimy*". *(Źródło: [[2026-05-12 RAPORT AIPORT.pl Polska firma w erze AI 2026 używamy, ale nie panujemy]])*
 
 ## Powiązane pojęcia
 

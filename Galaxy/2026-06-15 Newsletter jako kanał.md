@@ -134,6 +134,7 @@ Formalizacja testu Pot A / Pot B z mech. 3 do metody pomiarowej z gotową arytme
 - [[2026-06-15 Pokolenia darczyńców|Pokolenia darczyńców]] — preferencja kanału różni się generacyjnie (Millenialsi: LinkedIn + całoroczny e-mail; Gen Z wchodzi przez social → newsletter); newsletter jako wspólny mianownik utrzymania relacji.
 - [[2026-06-25 Owned vs rented audience|Owned vs rented audience]] — szersza zasada strategii cyfrowej (własne vs wynajęte kanały) wykraczająca poza e-mail; newsletter to jej najważniejsza realizacja. Strona napisana.
 - [[2026-06-23 Widoczność w AI search|Widoczność w AI search]] — *dlaczego* własny kanał staje się krytyczny: gdy ruch organiczny topnieje w erze zero-click, lista mailingowa to bufor niezależny od algorytmów AI search (najczęstsza rekomendacja sektorowa na tę niepewność).
+- [[2026-08-17 Marka osobista|Marka osobista]] — newsletter to jedno z „czterech miejsc styku" zasady 7-11-4 i jedyne, którego nie odbiera algorytm; mech. 16 tej strony (pełny lejek bez maila) i marka osobista jako kanał pozyskania opisują ten sam spór o rolę listy z dwóch stron.
 
 ---
 

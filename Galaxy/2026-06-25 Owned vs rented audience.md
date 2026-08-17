@@ -122,7 +122,7 @@ Aktualizacja mech. 1 (trzy ryzyka kanału wynajętego) i mech. 8 (erozja zaufani
 - [[Mobilizacja cyfrowa]] — owned audience jako baza, z której uruchamia się działanie, nie tylko komunikację (czerwony link — backlog).
 
 ---
-- [[Marka osobista]] — kanał wynajęty klasyfikuje nadawcę tematycznie (mech. 9), więc pozycjonowanie osoby przestaje być kwestią deklaracji, a staje się kwestią konsekwentnego miksu treści; osobne pojęcie warte strony (czerwony link — backlog).
+- [[2026-08-17 Marka osobista|Marka osobista]] — kanał wynajęty klasyfikuje nadawcę tematycznie (mech. 9), więc pozycjonowanie osoby przestaje być kwestią deklaracji, a staje się kwestią konsekwentnego miksu treści; strona napisana 2026-08-17 — jej mech. 7 dokłada argument odwrotny do intuicji: profil osobisty na kanale wynajętym jest dziś głównym źródłem cytowań w LLM-ach.
 
 ## Zastosowanie w kontekście organizacji społecznych
 

@@ -5,7 +5,7 @@ tags:
   - strategia-organizacji
   - organizacje-społeczne
 created: 2026-06-13
-updated: 2026-08-14
+updated: 2026-08-17
 relevance: wysoka
 sources:
   - "[[2025-02-11 Best Practices for Major Gift Fundraising What You Need to Know to Raise More]]"
@@ -16,6 +16,7 @@ sources:
   - "[[2026-04-22 Build a Donor Pipeline Before You Need It]]"
   - "[[2026-08-04 Fewer Donors, More Dollars, New Methodology At FEP]]"
   - "[[2026-07-30 Fewer Donors, More Dollars, and Methodology Changes At FEP]]"
+  - "[[2026-07-29 Preserving Humanity in AI-Powered Fundraising Key Insights from Nonprofit Tech Leaders » Avid]]"
 ---
 
 # Major gifts (duże darowizny)
@@ -48,6 +49,9 @@ Większość organizacji wpada w kryzys nie przez słabą misję, lecz przez zan
 
 **7. Koncentracja w liczbach: 2,3% darczyńców daje 74,4% pieniędzy (FEP Q1 2026)**
 Najostrzejsza dostępna miara zjawiska opisanego w mechanizmie 4: darczyńcy **„major" (5 000–50 000 USD) i „supersize" (powyżej 50 000 USD)** odpowiadają łącznie za **74,4% wszystkich wpłat, stanowiąc zaledwie 2,3% bazy darczyńców** (Fundraising Effectiveness Project, Q1 2026). W tym samym kwartale wartość darowizn rosła o **4,3% r/r** (ledwie powyżej inflacji), przy spadku liczby darczyńców o **0,8%** — trend „mniej darczyńców, więcej dolarów" utrzymuje się, choć wyhamował. Wniosek strategiczny jest dwustronny i warto trzymać obie strony naraz: segmentacja pod dużych darczyńców zyskuje na znaczeniu względem masowego fundraisingu (to argument za pipeline'em z mech. 6), ale rekomendacja AFP idzie w drugą stronę — **poszerzanie bazy i budowanie ścieżek długoterminowego zaangażowania poza gronem największych darczyńców**, bo portfel oparty na 2,3% bazy jest maksymalnie wrażliwy na pojedynczą stratę (spina się z „giełdą jako predyktorem" z mech. 4). **Zastrzeżenie przy cytowaniu:** FEP wdrożył w 2026 pierwszą od pięciu lat gruntowną zmianę metodologii (panel organizacji, rozliczanie późnych wpłat, ważenie próby, kategoryzacja wg obszaru działania zamiast wielkości) — porównania z wcześniejszymi rocznikami wymagają ostrożności.
+
+**8. Majątek prawie nie przewiduje hojności — koniec prospectingu opartego na wealth screeningu**
+Najostrzejsza korekta mechanizmu 5 („dane wyprzedzają intuicję") i zarazem kwestionowanie domyślnej praktyki całego pola (webinar Avid: Kevin Peters, Nathan Chappell / Virtuous): **bogactwo koreluje z hojnością w mniej niż 10% przypadków**, a mimo to większość organizacji nadal używa **majątku jako głównego sygnału prospectingu**. Rekomendowana zamiana: **predykcyjne modelowanie skłonności do dawania** (kto zachowuje się jak darczyńca) zamiast **wealth screeningu** (kto ma pieniądze) — co przesuwa punkt ciężkości kwalifikacji 3C z mech. 2 z *capacity* na *connection* i *concern*, i jest bezpośrednio spójne z kryterium „affinity" opisanym w mech. 5. Praktycznie oznacza to inne dane wejściowe: historia zachowań (częstotliwość, reakcja na apel, wolontariat, otwarcia, udział w wydarzeniach) bije zewnętrzne bazy majątkowe. **Napięcie warte odnotowania:** mech. 5 tej strony traktuje AI-scoring **ability + affinity** jako parę równorzędną; to źródło mówi, że pierwszy człon jest wart mniej niż 10% predykcji — czyli para nie jest równorzędna, tylko silnie asymetryczna. Żadne z dwóch źródeł nie podaje, jak ważyć oba sygnały w praktyce. *(Źródło: [[2026-07-29 Preserving Humanity in AI-Powered Fundraising Key Insights from Nonprofit Tech Leaders » Avid]])*
 
 ## Powiązane pojęcia
 

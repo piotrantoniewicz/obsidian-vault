@@ -21,6 +21,7 @@ sources:
   - "[[2026-06-18 Answers to your FAQ on funding AI]]"
   - "[[2026-08-04 5 hacks I used to build a profitable app]]"
   - "[[2026-07-27 Robots Dating Robots]]"
+  - "[[2026-07-29 How I Use AI to Research Funders Before I Write the Grant]]"
 ---
 
 # Prompt engineering (projektowanie promptów)
@@ -73,6 +74,11 @@ Dwie techniki interakcji z modelem, które nie są promptowaniem w klasycznym se
 
 **11. „Nudge, don't judge" — prompt, który generuje pytania, nie werdykty**
 Wzorzec projektowy dla promptów wspierających **decyzje o ludziach i pieniądzach** (Kevin Barenblat i Scott J. Kleper, Fast Forward — narzędzia do oceny wniosków grantowych). Punkt wyjścia to ryzyko nazwane *„roboty randkujące z robotami"*: gdy AI pisze wniosek, a AI go ocenia, obie strony zaczynają grać w system, a ludzie tylko udają, że czytają i piszą. Odpowiedź projektowa: **nie proś modelu o werdykt** (czerwony/żółty/zielony, „czy zespół jest adekwatny"), tylko o **konkretne obszary do omówienia** — np. „warto omówić relację z kontraktorami i czy tę kompetencję rozwijać wewnętrznie". Najciekawsze rozstrzygnięcie iteracji: dążenie do **zgodności ocen między modelami** (Claude, Gemini, ChatGPT) było błędem — modele różniły się werdyktami, ale **zgadzały się w rozumowaniu i argumentach**; rozbieżność jest wadą tylko wtedy, gdy oczekujesz oceny, a zaletą, gdy oczekujesz **pokrycia tematu** (różne modele wychwytują różne aspekty). To rozszerza mech. 9 („prompt, który zwraca pytania, nie odpowiedzi") z pracy własnej na sytuacje, w których output promptu wpływa na cudze finansowanie. Zasada nadrzędna: **AI ma prowadzić do refleksji człowieka, nie zastępować jego osąd**. *(Źródło: [[2026-07-27 Robots Dating Robots]])*
+
+**12. Prompt adwersaryjny — „załóż odmowę i argumentuj przeciwko mnie"**
+Najmocniejsza operacyjna postać antidotum na sycophancy z mech. 6, sprawdzona na researchu funderów przed pisaniem wniosku ([[Wendy Clow]]). Ten sam funder i ten sam materiał źródłowy dają **przeciwne rekomendacje** zależnie od tego, czy model ma szukać dopasowania, czy powodów odmowy — więc sformułowanie polecenia, a nie jakość danych, przesądza o decyzji. Instrukcja wzorcowa: *„Załóż, że będę aplikować, i argumentuj przeciwko mnie. Podaj trzy najbardziej prawdopodobne powody, dla których ten funder nas odrzuci"*. Trzy elementy obudowy, bez których prompt adwersaryjny nie działa: **(a) profil własnej organizacji napisany raz** (nazwa, status, budżet, geografia, populacje, obszary programowe) — bez punktu odniesienia model jest bezkrytycznie entuzjastyczny; **(b) stała lista siedmiu faktów** wyciąganych dla każdego fundera (priorytety, geografia, kwalifikowalność, zakres grantu, terminy, czego nie finansują, zasady ponownej aplikacji) — porównywalność zamiast eseju; **(c) wymuszone „nie podano"** tam, gdzie danych brak, jako bezpiecznik przeciw halucynowanym terminom. Argument ekonomiczny dla organizacji: poważny wniosek to **15–40 godzin** pracy, więc przy liście 30 funderów cztery nietrafione aplikacje to **~100 godzin** włożonych w budżety, których własne wytyczne wykluczyły organizację na starcie — dwudziestominutowy research adwersaryjny jest tu najtańszą możliwą inwestycją. Granica pozostaje ta sama co w mech. 9 i 11: model czyta i porządkuje długie, nudne dokumenty (wytyczne, FAQ, listy wykluczeń), ale **każdy fakt gatekeepingowy trzeba zweryfikować u źródła** — halucynowany termin jest gorszy niż brak researchu. *(Źródło: [[2026-07-29 How I Use AI to Research Funders Before I Write the Grant]])*
+
+---
 
 ## Frameworki-kotwice
 

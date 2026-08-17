@@ -20,6 +20,7 @@ sources:
   - "[[2026-08-11 The AI Policy We Approved Last Week]]"
   - "[[2026-06-23 How AI is Reshaping Europe's Digital Sovereignty Debate]]"
   - "[[2026-05-12 RAPORT AIPORT.pl Polska firma w erze AI 2026 używamy, ale nie panujemy]]"
+  - "[[2026-07-29 Preserving Humanity in AI-Powered Fundraising Key Insights from Nonprofit Tech Leaders » Avid]]"
 ---
 
 # RODO i dane wrażliwe (GDPR & Sensitive Data)
@@ -61,6 +62,11 @@ Reguła projektowa domykająca mech. 4 (anonimizacja → architektura → lokaln
 
 **10. Polska skala ekspozycji: 45,4% pracowników używa AI bez wiedzy pracodawcy**
 Twarda kotwica krajowa pod mech. 6 („paradoks bezpieczeństwa"), dotąd argumentowany danymi zagranicznymi (raport AIPORT.pl, N=479, marzec–maj 2026): **88,1% używa AI w pracy**, ale **tylko 20,3% firm ma formalną politykę AI**, a **45,4% pracowników korzysta z narzędzi bez wiedzy pracodawcy**. Dla organizacji przetwarzającej dane beneficjentów to nie jest statystyka o produktywności, tylko **oszacowanie powierzchni ryzyka**: w organizacji bez polityki domyślnym stanem jest wklejanie danych do narzędzia, którego DPA nikt nie czytał. Praktyczne użycie liczby w rozmowie z zarządem: nie jako oskarżenie zespołu, lecz jako opis fazy rynku — „to dzieje się u czterech na dziesięciu pracowników w Polsce, więc pytanie nie brzmi *czy u nas*, tylko *co z tym robimy*". *(Źródło: [[2026-05-12 RAPORT AIPORT.pl Polska firma w erze AI 2026 używamy, ale nie panujemy]])*
+
+**11. Cena prywatności spadła o cztery rzędy wielkości — argument „nas na to nie stać" wygasł**
+Domknięcie mechanizmu 3 (domyślne trenowanie) i 6 (paradoks bezpieczeństwa) od strony kosztu. Rozróżnienie pozostaje twarde: **darmowe konsumenckie wersje ([[ChatGPT]] free, [[Claude]] free, [[Gemini]]) wykorzystują dane wejściowe do trenowania modeli — dane osobowe darczyńców i beneficjentów nigdy nie powinny tam trafiać**; wersje enterprise dają izolowane środowisko bez treningu na danych klienta. Nowa jest liczba: **prywatność AI klasy enterprise, która dwa lata temu kosztowała blisko milion dolarów, dziś kosztuje ok. 30 dolarów miesięcznie** (za stanowisko). Konsekwencja dla rozmowy z zarządem organizacji jest jednoznaczna: **bariera kosztowa zniknęła, więc „shadow AI" (mech. 6, mech. 10) przestał być problemem budżetowym i stał się wyłącznie problemem decyzji i wdrożenia**. Praktycznie: jeśli organizacja stać na jedno płatne narzędzie, powinno to być narzędzie z umową powierzenia i wyłączonym treningiem — a nie kolejna licencja na coś, co darmowa wersja robi prawie tak samo. *(Źródło: [[2026-07-29 Preserving Humanity in AI-Powered Fundraising Key Insights from Nonprofit Tech Leaders » Avid]])*
+
+---
 
 ## Powiązane pojęcia
 

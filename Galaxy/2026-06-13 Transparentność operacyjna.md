@@ -24,6 +24,7 @@ sources:
   - "[[2026-08-06 The Crew That Makes the Stars Look Good]]"
   - "[[2026-07-26 Is Your Nonprofit Stuck on Financial Autopilot-]]"
   - "[[2026-07-17 The Non-Ask Email That Outperforms Your Appeal]]"
+  - "[[2026-08-05 Nonprofit Revenue Diversification Don't Bet on One Stream]]"
 ---
 
 # Transparentność operacyjna (operational transparency)
@@ -74,6 +75,9 @@ Rozwinięcie mech. 3 („transparentność jako mechanizm, także wewnątrz") o 
 
 **13. Skala luki w raportowaniu wpływu: ponad 80% darczyńców nigdy nie dowiaduje się, co zmienił ich dar**
 Twarda kotwica pod mech. 1 („brak dowodu wpływu = brak drugiego daru"), która zamienia tezę jakościową w mierzalny deficyt sektora: **ponad 80% darczyńców nigdy nie poznaje efektu swojej darowizny** (Lynne Wester, *The 4 Pillars of the Donor Experience*), przy czym **90% uznaje podziękowanie za najważniejszą wiadomość** otrzymywaną od organizacji (Penelope Burk). Transparentność ma tu konkretny nośnik i konkretne okno: aktualizacja o wpływie **1–4 tygodnie po darowiźnie, przed kolejnym apelem, bez prośby o dar** — procedura opisana w [[2026-06-13 Stewardship|Stewardshipie]] (mech. 13). Wniosek dla oferty doradczej: to nie jest luka budżetowa, tylko proceduralna — koszt domknięcia jest bliski zeru, a jest to najtańszy dostępny dowód wiarygodności. *(Źródło: [[2026-07-17 The Non-Ask Email That Outperforms Your Appeal]])*
+
+**14. Dywersyfikacja to niezależność źródeł, nie ich liczba — i próg 30%**
+Rozwinięcie mech. 6 („niezależność finansowa jako warunek transparentności”) o twardy rachunek ryzyka (Rob Burke, DonorDock). Definicja robocza: dywersyfikacja **nie polega na zbieraniu każdej możliwej złotówki**, lecz na budowie kilku strumieni, które **nie zawodzą z tego samego powodu w tym samym czasie** — trzy granty z tej samej agencji publicznej to jeden strumień, bo jedna zmiana polityki zamraża wszystkie naraz. Skala zjawiska: na początku 2025 r. **1 na 3 organizacje w USA** doświadczyła zaburzenia finansowania rządowego (Urban Institute) — **21% straciło grant lub kontrakt całkowicie, 27% miało opóźnienie albo zamrożenie** — a organizacje dotknięte zaburzeniem były zależne od środków publicznych średnio w **42% budżetu**, wobec **28%** średniej sektorowej. Stąd operacyjny próg audytu: **policz udział największego pojedynczego źródła w przychodach z ostatnich trzech lat; powyżej 30% to sygnał koncentracji**. Metoda, którą źródło proponuje, jest przy tym odwrotna do intuicji „porzuć grantozę”: **nie porzucaj najsilniejszego strumienia, buduj wokół niego** strumienie oparte na **tych samych kompetencjach organizacji** — trzy pytania warsztatowe: jaka jest nasza mocna kompetencja, jakie strumienie ją wykorzystują, które z nich zawiodą z innego powodu niż nasz filar. **Zastrzeżenie, które trzeba cytować razem z tezą:** badania pokazują, że dywersyfikacja obniża zmienność przychodów **w normalnych warunkach**, ale **nie chroni przy wstrząsach obejmujących całą gospodarkę** (jak Wielka Recesja) — czyli jest narzędziem odporności na ryzyko idiosynkratyczne, nie polisą na kryzys systemowy. Warstwę „co z tym zrobić najtaniej” opisuje [[2026-06-13 Stewardship|Stewardship]] mech. 18. *(Źródło: [[2026-08-05 Nonprofit Revenue Diversification Don't Bet on One Stream]])*
 
 ## Powiązane pojęcia
 

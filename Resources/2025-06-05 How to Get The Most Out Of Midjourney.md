@@ -20,7 +20,7 @@ tags:
 
 **Workflow personalizacji Midjourney:**
 
-1. **Meta-prompting** — wrzuć luźny opis wizji do [[Claude]] lub [[ChatGPT]] z gotowym promptem-szablonem, żeby otrzymać 5 zoptymalizowanych promptów Midjourney z parametrami
+1. **Meta-prompting** — wrzuć luźny opis wizji do [[Claude AI|Claude]] lub [[ChatGPT]] z gotowym promptem-szablonem, żeby otrzymać 5 zoptymalizowanych promptów Midjourney z parametrami
 2. **Global Profile** — przejdź do zakładki „Personalize" → „Ranked Profiles" i przez 7–8 minut wybieraj, które z par obrazów bardziej lubisz (minimum 200 rankingów); Midjourney uczy się twojej podświadomej estetyki
 3. **Moodboard** — utwórz kolekcję obrazów dopasowanych do konkretnego projektu/marki (upload, link lub wybór z galerii); stosuj jako styl referencyjny do generowania spójnych assetów
 4. **Kombinowanie** — włącz jednocześnie Global Profile i moodboard dla najlepszych rezultatów; można też łączyć kilka moodboardów naraz

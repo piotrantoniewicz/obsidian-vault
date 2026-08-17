@@ -36,4 +36,4 @@ Artykuł [[Sektor 3.0]] autorstwa Marzeny Kacprowicz to praktyczny tutorial krok
 - Artykuł może być podstawą ćwiczenia praktycznego na warsztatach z automatyzacji dla NGO — prosty, konkretny problem + gotowe rozwiązanie krok po kroku.
 
 ## Zastosowanie
-Automatyzacja faktur to dobry punkt wejścia do rozmowy o [[Make.com]] z organizacjami, które boją się „automatyzacji" jako czegoś technicznego — konkretny, bliski życiu przykład. Warto zbudować na tym module bibliotekę szablonów automatyzacji dla NGO jako produkt/usługę w ramach dobryai.pl. Schemat Gmail → Dysk → Arkusz można rozszerzyć o AI (np. wyciąganie danych z faktury przez [[Claude]]) jako kolejny krok w bardziej zaawansowanym wariancie.
+Automatyzacja faktur to dobry punkt wejścia do rozmowy o [[Make.com]] z organizacjami, które boją się „automatyzacji" jako czegoś technicznego — konkretny, bliski życiu przykład. Warto zbudować na tym module bibliotekę szablonów automatyzacji dla NGO jako produkt/usługę w ramach dobryai.pl. Schemat Gmail → Dysk → Arkusz można rozszerzyć o AI (np. wyciąganie danych z faktury przez [[Claude AI|Claude]]) jako kolejny krok w bardziej zaawansowanym wariancie.

@@ -17,7 +17,7 @@ Newsletter Moodboard opisuje „Persona Discovery Wizard" — wizard prompt prze
 
 ## Wnioski
 - Dokument persony klienta stworzony przez AI-wywiad jest wielokrotnie cenniejszy niż tradycyjny brief: AI wyciąga konkretne szczegóły (co próbowali, dlaczego nie zadziałało, jak wygląda ich dzień), których sami często nie opisalibyśmy.
-- Strategia „stwórz raz, używaj wszędzie" — persona jako plik uploadowany do [[Claude]] Skills lub dołączany do promptów — eliminuje konieczność tłumaczenia grupy docelowej przy każdym zadaniu marketingowym.
+- Strategia „stwórz raz, używaj wszędzie" — persona jako plik uploadowany do [[Claude AI|Claude]] Skills lub dołączany do promptów — eliminuje konieczność tłumaczenia grupy docelowej przy każdym zadaniu marketingowym.
 - Ten wzorzec można zastosować dla NGO: wywiad o darczyńcach/beneficjentach jako fundament pod wszystkie komunikaty fundraisingowe, opisy projektów i treści kampanijne.
 
 ## Cytat

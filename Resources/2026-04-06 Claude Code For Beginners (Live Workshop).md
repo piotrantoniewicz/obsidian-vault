@@ -17,7 +17,7 @@ tags:
 Ponad godzinny warsztat live prowadzony przez [[The Sousa Brothers]], skierowany do osób bez doświadczenia w programowaniu — od instalacji [[Claude Code]] po budowanie realnych projektów z pomocą AI. Autorzy demonstrują na żywo tworzenie generatora treści na [[LinkedIn]] oraz dashboardu webowego, pokazując jak rozmawiać z modelem, obsługiwać błędy i zarządzać limitami API. Kluczowe przesłanie: nie trzeba umieć kodować, żeby korzystać z [[Claude Code]] — wystarczy umieć opisywać problemy.
 
 ## Frameworki i metody
-- **Workflow przed Claude Code** — zanim zaczniesz projekt w [[Claude Code]], użyj zwykłego [[Claude]] (np. na telefonie), żeby omówić pomysł i wygenerować instrukcje startowe, które potem wklejasz do terminala
+- **Workflow przed Claude Code** — zanim zaczniesz projekt w [[Claude Code]], użyj zwykłego [[Claude AI|Claude]] (np. na telefonie), żeby omówić pomysł i wygenerować instrukcje startowe, które potem wklejasz do terminala
 - **Reference folder + skills folder** — prowadzący zalecają tworzenie w projekcie dedykowanego folderu ze szkieletem projektu i folderu `skills/` z zapisanymi instrukcjami do wielokrotnego użytku; [[Claude Code]] dostaje polecenie zapisywania tam nowych umiejętności automatycznie
 - **Obsługa błędów i limitów** — przy błędach model sam wskazuje co jest nie tak; przy wyczerpaniu limitu ($20 plan) wystarczy poczekać ~2 godziny i sesja się odnawia bez utraty miesiąca
 

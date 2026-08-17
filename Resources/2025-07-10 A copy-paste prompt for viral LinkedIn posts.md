@@ -21,7 +21,7 @@ Newsletter Moodboard opisuje strategię „comment-to-get" na LinkedIn — forma
 - Ten schemat tworzenia treści można zastosować do promocji kursów, raportów i materiałów edukacyjnych NGO na LinkedIn — zamiast wklejać link do strony, teasujemy treść i wysyłamy ją w DM zainteresowanym.
 
 ## Cytat
-> „[[Claude]] doprowadza nas od 0% do 80% w trzy sekundy — ostatnie 20% wciąż należy do nas."
+> „[[Claude AI|Claude]] doprowadza nas od 0% do 80% w trzy sekundy — ostatnie 20% wciąż należy do nas."
 
 ## Zastosowanie
 Prompt można wykorzystać do promocji kursu mailowego „Fundraising z AI" lub materiałów [[dobryai.pl]] na LinkedIn, zwiększając zasięg bez inwestycji w reklamy.

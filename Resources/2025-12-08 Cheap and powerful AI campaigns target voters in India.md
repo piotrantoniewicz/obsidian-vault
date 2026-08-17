@@ -24,7 +24,7 @@ Artykuł z Rest of World dokumentuje, jak AI stała się integralnym elementem k
 ## Wnioski
 - AI w kampaniach politycznych radykalnie obniża koszty produkcji contentu, ale jednocześnie pogłębia nierówności – duże, zamożne partie z przeszkolonymi wolontariuszami mają przewagę, którą trudno zniwelować małym kandydatom.
 - Chatboty wysyłające spersonalizowane wiadomości przez [[WhatsApp]] i [[Telegram]] działały nawet w „ciszę wyborczą" – luki w regulacjach kampanijnych tworzą szarą strefę do wypełnienia nowym prawem.
-- Narzędzia jak [[ElevenLabs]], [[ChatGPT]] i [[Claude]] zmieniają digital campaigning: klonowanie głosu w lokalnych dialektach to nowy standard dotarcia do trudno dostępnych społeczności.
+- Narzędzia jak [[ElevenLabs]], [[ChatGPT]] i [[Claude AI|Claude]] zmieniają digital campaigning: klonowanie głosu w lokalnych dialektach to nowy standard dotarcia do trudno dostępnych społeczności.
 
 ## Cytat
 > „Cisza wyborcza, która miała dawać wyborcom czas na refleksję i podjęcie świadomej decyzji, już nie jest cicha."

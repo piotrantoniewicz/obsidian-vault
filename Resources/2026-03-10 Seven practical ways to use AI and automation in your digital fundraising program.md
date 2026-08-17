@@ -14,7 +14,7 @@ tags:
 
 # Seven practical ways to use AI and automation in your digital fundraising program
 
-Jordan Harp, założyciel Shift Cooperative i wieloletni ekspert digital fundraisingu (Obama White House, DCCC, Harris Walz), przedstawia siedem konkretnych obszarów, w których AI i automatyzacja mogą podnieść skuteczność cyfrowych kampanii fundraisingowych. Artykuł nie traktuje AI jako zastępstwa dla fundraiserów, lecz jako współpracownika — narzędzie do szybszego uczenia się, testowania i obsługi segmentów, na które małe zespoły zwykle nie mają zasobów. Kluczowe rozróżnienie: AI (modele językowe jak [[Claude]]) pomaga generować i analizować treści, a automatyzacja (np. w [[CRM]] czy [[n8n]]) tworzy powtarzalne sekwencje działań bez manualnej interwencji. Dla małych organizacji połączenie obu daje szansę na bardziej spójny, strategiczny i skalowalny fundraising.
+Jordan Harp, założyciel Shift Cooperative i wieloletni ekspert digital fundraisingu (Obama White House, DCCC, Harris Walz), przedstawia siedem konkretnych obszarów, w których AI i automatyzacja mogą podnieść skuteczność cyfrowych kampanii fundraisingowych. Artykuł nie traktuje AI jako zastępstwa dla fundraiserów, lecz jako współpracownika — narzędzie do szybszego uczenia się, testowania i obsługi segmentów, na które małe zespoły zwykle nie mają zasobów. Kluczowe rozróżnienie: AI (modele językowe jak [[Claude AI|Claude]]) pomaga generować i analizować treści, a automatyzacja (np. w [[CRM]] czy [[n8n]]) tworzy powtarzalne sekwencje działań bez manualnej interwencji. Dla małych organizacji połączenie obu daje szansę na bardziej spójny, strategiczny i skalowalny fundraising.
 
 ## Frameworki i metody
 

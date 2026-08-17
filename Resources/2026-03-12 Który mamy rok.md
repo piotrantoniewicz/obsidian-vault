@@ -23,7 +23,7 @@ Newsletter Mateusza Chroboka z marca 2026 stawia dwa niepokojące diagnozy na te
 - Korelacja -0,68 między intensywnością korzystania z AI a wynikami w testach krytycznego myślenia (Swiss Business School)
 - Blisko 40% pracodawców wolałoby zatrudnić AI niż świeżego absolwenta (Hult International Business School)
 - Odinstalowania [[ChatGPT]] wzrosły o 295%, jednogwiazdkowe recenzje o 775% po kontrakcie z Pentagonem
-- [[Anthropic]] i [[Claude]] po raz pierwszy wyprzedzili ChatGPT na szczycie App Store w USA
+- [[Anthropic]] i [[Claude AI|Claude]] po raz pierwszy wyprzedzili ChatGPT na szczycie App Store w USA
 
 ## Wnioski
 
@@ -37,4 +37,4 @@ Newsletter Mateusza Chroboka z marca 2026 stawia dwa niepokojące diagnozy na te
 
 ## Zastosowanie
 
-W kursie mailowym "Fundraising z AI" i szkoleniach dla NGO warto explicite adresować zagrożenie "trybu pasażera" — program powinien ćwiczyć myślenie z AI, nie zamiast AI. Przypadek Gavalasa jest użytecznym case study przy dyskusji o odpowiedzialnym wdrażaniu chatbotów w organizacjach pracujących z osobami w kryzysie lub wykluczonymi. Pozycja [[Anthropic]]/[[Claude]] jako alternatywy etycznej wobec [[OpenAI]] to argument wartościowy przy rekomendowaniu narzędzi fundacjom i stowarzyszeniom.
+W kursie mailowym "Fundraising z AI" i szkoleniach dla NGO warto explicite adresować zagrożenie "trybu pasażera" — program powinien ćwiczyć myślenie z AI, nie zamiast AI. Przypadek Gavalasa jest użytecznym case study przy dyskusji o odpowiedzialnym wdrażaniu chatbotów w organizacjach pracujących z osobami w kryzysie lub wykluczonymi. Pozycja [[Anthropic]]/[[Claude AI|Claude]] jako alternatywy etycznej wobec [[OpenAI]] to argument wartościowy przy rekomendowaniu narzędzi fundacjom i stowarzyszeniom.

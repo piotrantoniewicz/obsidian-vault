@@ -17,7 +17,7 @@ Matt Diggity prezentuje 10-krokowy framework audytu SEO oparty na danych z [[Scr
 
 ## Wnioski
 - [[Screaming Frog]] zintegrowany z [[Google Search Console]] i GA4 API pozwala identyfikować strony niewidoczne dla crawlerów (głębiej niż 3 kliknięcia, poniżej 5 linków wewnętrznych) — prosta interwencja linkowania może przesunąć je na pierwszą stronę wyników.
-- Optymalizacja pod cytowania w [[ChatGPT]], [[Perplexity]] i [[Claude]] to nowy wymiar strategii treści — bycie cytowanym przez AI zaczyna się od bycia cytowanym przez zaufane źródła, które AI indeksuje.
+- Optymalizacja pod cytowania w [[ChatGPT]], [[Perplexity]] i [[Claude AI|Claude]] to nowy wymiar strategii treści — bycie cytowanym przez AI zaczyna się od bycia cytowanym przez zaufane źródła, które AI indeksuje.
 - Usuwanie treści "zero-signal" (brak ruchu, backlinków i impressions po 6 miesiącach) poprawia topical authority całej domeny — zasada mniej = lepiej działa w architekturze treści tak samo jak w zarządzaniu projektami.
 
 ## Cytat

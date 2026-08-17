@@ -21,7 +21,7 @@ Newsletter tłumaczy, dlaczego użytkownicy Claude szybko wyczerpują limit uży
 - **Prompt do spersonalizowanej ściągawki** — mail zawiera gotowy prompt: wklejany do dowolnego modelu, generuje mapę własnych powtarzalnych zadań na konkretne modele na podstawie odpowiedzi na kilka pytań
 
 ## Wnioski
-- Dobór modelu do zadania (nie zawsze najmocniejszy) to nawyk, który bezpośrednio wydłuża użyteczny czas pracy z [[Claude]] w ramach limitu — istotne przy prowadzeniu szkoleń z AI dla zespołów organizacji społecznych
+- Dobór modelu do zadania (nie zawsze najmocniejszy) to nawyk, który bezpośrednio wydłuża użyteczny czas pracy z [[Claude AI|Claude]] w ramach limitu — istotne przy prowadzeniu szkoleń z AI dla zespołów organizacji społecznych
 - Zasada "Sonnet jako baza, eskalacja tylko gdy trzeba" upraszcza wdrażanie AI w zespołach, które nie mają czasu uczyć się niuansów każdego modelu
 - Gotowy prompt do budowy osobistej ściągawki modeli to konkretne narzędzie do wykorzystania na własnych szkoleniach z AI
 

@@ -28,7 +28,7 @@ Administracja Trumpa opublikowała długo oczekiwany projekt federalnych ram reg
 ## Wnioski
 
 - Kontrast między podejściem USA (deregulacja i preempcja stanowa) a europejskim [[EU AI Act]] (twarde wymogi i certyfikacja) będzie coraz wyraźniejszy — to ważny kontekst dla organizacji i firm działających transgranicznie lub korzystających z modeli amerykańskich dostawców.
-- Brak nowej agencji regulacyjnej i nacisk na innowację bez barier sugeruje, że w krótkim terminie modele AI pozostaną praktycznie nieregulowane na poziomie federalnym w USA — dla NGO używających narzędzi jak [[ChatGPT]] czy [[Claude]] kwestie odpowiedzialności za błędy AI pozostają niejasne.
+- Brak nowej agencji regulacyjnej i nacisk na innowację bez barier sugeruje, że w krótkim terminie modele AI pozostaną praktycznie nieregulowane na poziomie federalnym w USA — dla NGO używających narzędzi jak [[ChatGPT]] czy [[Claude AI|Claude]] kwestie odpowiedzialności za błędy AI pozostają niejasne.
 - Wymóg zbierania danych o wpływie AI na rynek pracy (job disruption data collection) to rzadki element regulacyjny, który może generować użyteczne dane dla organizacji zajmujących się rynkiem pracy i szkoleniami.
 
 ## Zastosowanie

@@ -13,11 +13,11 @@ tags:
 ---
 # What 81,000 people told AI about their deepest fears
 
-[[Anthropic]] opublikował wyniki badania, w którym wersja [[Claude]] przeprowadziła indywidualne rozmowy z 80 508 osobami z 159 krajów na temat nadziei i obaw związanych z AI. Kluczowe odkrycie: nadzieje i lęki nie dzielą ludzi na obozy — u większości respondentów współistnieją jako napięcie wewnątrz tej samej osoby, jak dwie strony jednej monety. Największa grupa (19%) chciała, by AI przejmowała rutynowe zadania, a jednocześnie bała się, że przez to utraci kompetencje będące fundamentem mistrzostwa. MacNeil komentuje to badanie przez pryzmat osobistych refleksji o dojrzałości emocjonalnej w relacji z technologią. Dario Amodei, współzałożyciel [[Anthropic]], opisuje ten moment jako „technologiczne dojrzewanie" — zdobywamy ogromną moc, zanim jako społeczeństwo wypracujemy mądrość do jej zarządzania.
+[[Anthropic]] opublikował wyniki badania, w którym wersja [[Claude AI|Claude]] przeprowadziła indywidualne rozmowy z 80 508 osobami z 159 krajów na temat nadziei i obaw związanych z AI. Kluczowe odkrycie: nadzieje i lęki nie dzielą ludzi na obozy — u większości respondentów współistnieją jako napięcie wewnątrz tej samej osoby, jak dwie strony jednej monety. Największa grupa (19%) chciała, by AI przejmowała rutynowe zadania, a jednocześnie bała się, że przez to utraci kompetencje będące fundamentem mistrzostwa. MacNeil komentuje to badanie przez pryzmat osobistych refleksji o dojrzałości emocjonalnej w relacji z technologią. Dario Amodei, współzałożyciel [[Anthropic]], opisuje ten moment jako „technologiczne dojrzewanie" — zdobywamy ogromną moc, zanim jako społeczeństwo wypracujemy mądrość do jej zarządzania.
 
 ## Kluczowe dane
 
-- 80 508 osób z 159 krajów wzięło udział w badaniu przeprowadzonym przez [[Claude]] ([[Anthropic]])
+- 80 508 osób z 159 krajów wzięło udział w badaniu przeprowadzonym przez [[Claude AI|Claude]] ([[Anthropic]])
 - 19% respondentów jako główna nadzieja: AI przejmie rutynowe zadania, by mogli skupić się na pracy wyższego rzędu i rozwijaniu mistrzostwa
 - Współtowarzysząca obawa: oddając „nudną" pracę AI, tracą umiejętności (pisanie, krytyczne myślenie, głoka koncentracja), które to mistrzostwo budują
 

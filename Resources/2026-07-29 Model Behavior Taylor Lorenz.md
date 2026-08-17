@@ -21,15 +21,15 @@ Wywiad z serii "Model Behavior" (Substack) z [[Taylor Lorenz]], założycielką 
 
 **Pełny workflow produkcji treści Taylor Lorenz, etap po etapie:**
 
-1. **Research** — agregacja wypowiedzi eksperta przez AI, krzyżowe sprawdzanie w kilku modelach ([[Gemini]], [[Grok]], [[Claude]]).
+1. **Research** — agregacja wypowiedzi eksperta przez AI, krzyżowe sprawdzanie w kilku modelach ([[Gemini]], [[Grok]], [[Claude AI|Claude]]).
 2. **Nagranie** — rozmowa 100% bez AI, bez wcześniej spisanych pytań (naturalność).
 3. **Montaż** — częściowo AI do przetwarzania audio, cięcie ręczne w Adobe Premiere.
 4. **Transkrypcja** — automatyczny skrypt zbudowany w [[Claude Code]], który sam kopiuje i transkrybuje plik wideo.
-5. **Tytuł i opis** — ten sam prompt uruchamiany na 5 modelach ([[Claude]], [[Gemini]], [[Grok]], DeepSeek, [[ChatGPT]]) — wybór najlepszego i ręczna korekta.
+5. **Tytuł i opis** — ten sam prompt uruchamiany na 5 modelach ([[Claude AI|Claude]], [[Gemini]], [[Grok]], DeepSeek, [[ChatGPT]]) — wybór najlepszego i ręczna korekta.
 6. **Miniatura** — generowanie pomysłów + Canva + VidIQ do optymalizacji tytułu i miniatury.
 7. **Publikacja** — YouTube, Patreon, Spotify.
 8. **Cięcie na klipy** — Spotify auto-clipper, CapCut, VidIQ, OpusClip.
-9. **Newsletter** — nagłówek z opisu wideo, sekcja lektur bez AI, przegląd newsów kategoryzowany przez [[Claude]].
+9. **Newsletter** — nagłówek z opisu wideo, sekcja lektur bez AI, przegląd newsów kategoryzowany przez [[Claude AI|Claude]].
 
 **Zasada transparentności** — każdy fragment newslettera jasno oznaczony jako ludzki lub wspomagany AI; czytelnik zawsze wie, co czyta i skąd pochodzi informacja (link do źródła przy każdej pozycji).
 
@@ -42,7 +42,7 @@ Wywiad z serii "Model Behavior" (Substack) z [[Taylor Lorenz]], założycielką 
 ## Wnioski
 
 - AI realnie podważa model biznesowy niezależnego dziennikarstwa — czytelnicy coraz częściej wybierają darmowe podsumowania AI zamiast płatnych treści od konkretnej osoby, co wymusza przesunięcie w stronę oryginalnego reportażu i śledztw, których AI nie potrafi zastąpić.
-- Transparentność użycia AI buduje zaufanie czytelników skuteczniej niż jej ukrywanie — otwarte mówienie o narzędziach ([[Claude]], [[Claude Code]], [[Gemini]], [[Grok]], [[ChatGPT]]) i granicach ich zastosowania jest częścią wiarygodności twórcy.
+- Transparentność użycia AI buduje zaufanie czytelników skuteczniej niż jej ukrywanie — otwarte mówienie o narzędziach ([[Claude AI|Claude]], [[Claude Code]], [[Gemini]], [[Grok]], [[ChatGPT]]) i granicach ich zastosowania jest częścią wiarygodności twórcy.
 - Skuteczny workflow AI w produkcji treści polega na łączeniu wielu modeli równolegle (cross-checking) i rezerwowaniu AI dla zadań odtwarzalnych (transkrypcja, tytuły, kategoryzacja), przy zachowaniu w 100% ludzkich elementów tam, gdzie liczy się autentyczność i unikalna perspektywa (rozmowy, opinie, śledztwa).
 
 ## Cytat

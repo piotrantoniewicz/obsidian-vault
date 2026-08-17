@@ -18,7 +18,7 @@ Newsletter TRIBE Digital w formacie cotygodniowego zestawu pięciu krótkich wsk
 
 ## Frameworki i metody
 - **Cotygodniowy format 5 sekcji** — Traffic, Revenue, Inbound, Brand, Email: stała struktura newslettera ułatwiająca regularne dostarczanie krótkich, praktycznych wskazówek subskrybentom
-- **Personalizacja e-maili z pomocą AI** — trzy poziomy: (1) analiza istniejącej listy przez [[Claude]] w poszukiwaniu idealnie dopasowanych kontaktów do wysyłki 1:1, (2) automatyczne sprawdzanie domeny nowego subskrybenta i generowanie spersonalizowanego maila powitalnego, (3) tagowanie odbiorców na podstawie klikniętych linków w regularnych mailach, by z czasem coraz precyzyjniej dopasowywać treść
+- **Personalizacja e-maili z pomocą AI** — trzy poziomy: (1) analiza istniejącej listy przez [[Claude AI|Claude]] w poszukiwaniu idealnie dopasowanych kontaktów do wysyłki 1:1, (2) automatyczne sprawdzanie domeny nowego subskrybenta i generowanie spersonalizowanego maila powitalnego, (3) tagowanie odbiorców na podstawie klikniętych linków w regularnych mailach, by z czasem coraz precyzyjniej dopasowywać treść
 
 ## Kluczowe dane
 - Konta z 6-30 tys. followersów generujące 50-500 tys. wyświetleń miesięcznie i przychody rzędu 7 cyfr rocznie dzięki marce osobistej
@@ -26,7 +26,7 @@ Newsletter TRIBE Digital w formacie cotygodniowego zestawu pięciu krótkich wsk
 
 ## Wnioski
 - Budowanie marki osobistej opartej na edukacyjnym, trafnym contencie może obniżyć koszt pozyskania klienta niemal do zera — mechanizm bezpośrednio przekładalny na promocję [[dobryai.pl]] i pozycjonowanie eksperckie w sektorze NGO
-- Narzędzia takie jak [[Claude]] czy ChatGPT znoszą barierę techniczną w personalizacji e-maili (np. składnia Liquid w Kit) — warto to wykorzystać przy budowie kursu mailowego „Fundraising z AI”
+- Narzędzia takie jak [[Claude AI|Claude]] czy ChatGPT znoszą barierę techniczną w personalizacji e-maili (np. składnia Liquid w Kit) — warto to wykorzystać przy budowie kursu mailowego „Fundraising z AI”
 - Podział na leady inbound/outbound jest umowny i zależy od perspektywy w łańcuchu pozyskania — istotniejsze niż etykieta jest to, czy lead jest zakwalifikowany i ma realny problem do rozwiązania
 
 ## Cytat

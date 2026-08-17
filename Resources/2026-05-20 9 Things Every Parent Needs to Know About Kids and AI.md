@@ -22,7 +22,7 @@ Newsletter Allie Miller omawia 9 kluczowych kompetencji, które rodzice powinni 
 - **Podejście "co-learner"** — rodzice uczą się razem z dziećmi, bez udawania eksperta; otwartość i ciekawość zamiast gotowych odpowiedzi; potwierdzony badaniami jako skuteczny model
 - **Prompty do budowania krytycznego myślenia** — gotowe wzorce do ćwiczeń z dziećmi: "powiedz mi dlaczego twoja odpowiedź może być błędna", "daj mi 3 różne podejścia i pokaż tradeoff'y", "iteruj 5 razy i za każdym razem znajdź błąd w poprzedniej wersji"
 - **Rodzinne słowo bezpieczeństwa** — prosta taktyka obrony przed voice/video deepfake scamami: ustalenie tajnego słowa, którego tylko prawdziwy członek rodziny może użyć w rozmowie telefonicznej
-- **Opt-out z trenowania modeli** — praktyczny krok: wyłączenie zgody na trening modeli w ustawieniach [[ChatGPT]], [[Gemini]] i [[Claude]] + wyłączenie persistent memory
+- **Opt-out z trenowania modeli** — praktyczny krok: wyłączenie zgody na trening modeli w ustawieniach [[ChatGPT]], [[Gemini]] i [[Claude AI|Claude]] + wyłączenie persistent memory
 
 ## Kluczowe dane
 
@@ -33,7 +33,7 @@ Newsletter Allie Miller omawia 9 kluczowych kompetencji, które rodzice powinni 
 
 ## Wnioski
 
-- [[ChatGPT]], [[Claude]], [[Gemini]] i inne modele są zaprojektowane pod sycophancy — walidują użytkownika zamiast podważać założenia, co jest bezpośrednio sprzecznym z rozwojem krytycznego myślenia; uczenie dzieci aktywnego kwestionowania odpowiedzi AI powinno być standardowym elementem szkoleń z [[prompt engineering]]
+- [[ChatGPT]], [[Claude AI|Claude]], [[Gemini]] i inne modele są zaprojektowane pod sycophancy — walidują użytkownika zamiast podważać założenia, co jest bezpośrednio sprzecznym z rozwojem krytycznego myślenia; uczenie dzieci aktywnego kwestionowania odpowiedzi AI powinno być standardowym elementem szkoleń z [[prompt engineering]]
 - Prywatność danych w rozmowach z AI to niedoceniane ryzyko — nawet po usunięciu czatu zostaje 30-dniowe okno retencji, a [[COPPA]] ma luki w zakresie "wewnętrznej poprawy modeli"; wiedza o opt-out i pseudonimizacji danych powinna wejść do podstawowych materiałów szkoleniowych dla NGO
 - Kompetencja wykrywania edge case'ów — umiejętność przejścia AI-systemu z 80% do 99% niezawodności — staje się kluczową luką między amatorskim a profesjonalnym używaniem AI; to dobry framework do zastosowania w szkoleniach dla organizacji
 

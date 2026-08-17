@@ -16,7 +16,7 @@ tags:
 ---
 # How We Built Our Agentic AI News Briefings
 
-[[Allie K Miller]] prezentuje szczegółową architekturę zautomatyzowanego systemu codziennych briefingów z AI, zbudowanego w [[GumLoop]] przy użyciu [[Claude]] 3.5 Sonnet i [[Gemini]] 1.5 Pro. System pobiera artykuły przez RSS, filtruje je słowami kluczowymi, skrobie i czyści HTML, podsumowuje i ocenia każdy artykuł, deduplikuje i rankinuje, a następnie generuje gotowy post z komentarzem w stylu autorki — cały workflow kosztuje poniżej 1 dolara dziennie i zajmuje 10 minut. Kluczowa lekcja: budowanie systemów agentowych wymaga myślenia o mikroserwisach, ludzkim przeglądzie i testowaniu wielu modeli — start simple, iterate fast.
+[[Allie K Miller]] prezentuje szczegółową architekturę zautomatyzowanego systemu codziennych briefingów z AI, zbudowanego w [[GumLoop]] przy użyciu [[Claude AI|Claude]] 3.5 Sonnet i [[Gemini]] 1.5 Pro. System pobiera artykuły przez RSS, filtruje je słowami kluczowymi, skrobie i czyści HTML, podsumowuje i ocenia każdy artykuł, deduplikuje i rankinuje, a następnie generuje gotowy post z komentarzem w stylu autorki — cały workflow kosztuje poniżej 1 dolara dziennie i zajmuje 10 minut. Kluczowa lekcja: budowanie systemów agentowych wymaga myślenia o mikroserwisach, ludzkim przeglądzie i testowaniu wielu modeli — start simple, iterate fast.
 
 ## Frameworki i metody
 

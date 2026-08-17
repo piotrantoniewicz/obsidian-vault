@@ -32,7 +32,7 @@ Artykuł z [[ngo.pl]] (autorstwa pracowników [[FRSI]]) pokazuje, jak używać w
 > Wyrażenie regularne pozwala określić wzorzec tekstu, a Formularze Google zweryfikują, czy wpis użytkownika pasuje do określonego schematu — a jeśli nie będzie pasował, nie pozwoli na jego wpisanie.
 
 ## Wnioski
-- Chatboty AI (w tym [[Claude]]) generują wyrażenia regularne na żądanie i od razu pokazują, jakie ciągi przyjmą lub odrzucą — bariera wdrożenia RegEx jest dziś minimalna nawet dla niekoderów.
+- Chatboty AI (w tym [[Claude AI|Claude]]) generują wyrażenia regularne na żądanie i od razu pokazują, jakie ciągi przyjmą lub odrzucą — bariera wdrożenia RegEx jest dziś minimalna nawet dla niekoderów.
 - Walidacja formularzy rejestracyjnych za pomocą RegEx oszczędza godziny czyszczenia danych po wydarzeniu — szczególnie ważne przy projektach z dużą liczbą uczestników.
 - Ten sam mechanizm działa retroaktywnie w [[Google Sheets]] do wyszukiwania błędnych wpisów w istniejących bazach danych — np. przy czyszczeniu baz darczyńców NGO.
 

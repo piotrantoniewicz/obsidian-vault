@@ -19,13 +19,13 @@ Newsletter Five Prompts (Tuck Ross) stawia tezę: soloprzedsiębiorcy, którzy b
 ## Frameworki i metody
 
 - **Weekly Operating Rhythm** — tygodniowy harmonogram Mon-Fri podzielony na bloki: content, engagement, delivery, business development; kluczowe ograniczenie: <10h/tydzień i zero codziennych decyzji o tym, co robić
-- **Content Multiplication Engine** — jeden kawałek treści tygodniowo → min. 10 formatów na różne platformy; sekwencja tworzenia, czas każdej adaptacji, całość w <90 minut; [[automatyzacja]] przez [[Claude]]
+- **Content Multiplication Engine** — jeden kawałek treści tygodniowo → min. 10 formatów na różne platformy; sekwencja tworzenia, czas każdej adaptacji, całość w <90 minut; [[automatyzacja]] przez [[Claude AI|Claude]]
 - **Decision Automation Filter** — 5 pytań tak/nie; jeśli okazja przejdzie wszystkie 5 → działasz; jeśli nie → odpuszczasz; filtr budowany wokół 3 priorytetów biznesowych na 90 dni; eliminuje decision fatigue
 
 ## Wnioski
 
 - Weekly Operating Rhythm jest bezpośrednio implementowalny w projektach dobryai.pl — prompt generuje harmonogram dostosowany do konkretnego soloprzedsiębiorcy lub lidera NGO, gotowy do uruchomienia od poniedziałku.
-- Content Multiplication Engine to wzorzec dla szkoleń z AI: pokazuje, jak [[Claude]] zamienia jedną sesję tworzenia treści w pipeline dla wielu platform, co jest silnym argumentem ROI przy sprzedaży usług szkoleniowych.
+- Content Multiplication Engine to wzorzec dla szkoleń z AI: pokazuje, jak [[Claude AI|Claude]] zamienia jedną sesję tworzenia treści w pipeline dla wielu platform, co jest silnym argumentem ROI przy sprzedaży usług szkoleniowych.
 - Decision Filter oparty na 5 pytaniach to narzędzie, które warto wbudować w warsztaty strategii dla NGO — organizacje społeczne często cierpią na "opportunity overwhelm" i potrzebują prostego systemu selekcji inicjatyw.
 
 ## Cytat

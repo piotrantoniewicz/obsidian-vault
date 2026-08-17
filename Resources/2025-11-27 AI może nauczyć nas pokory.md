@@ -12,7 +12,7 @@ tags:
 ---
 # AI może nauczyć nas pokory
 
-Chrobok przywołuje [[Project CETI]] — inicjatywę, w której [[LLM|modele językowe]] służą do dekodowania komunikacji [[kaszałoty|kaszałotów]] z ponad 90% dokładnością. To odwrócona logika: zamiast AI jako narzędzia dominacji nad naturą, AI jako narzędzie pogłębiania relacji z innymi gatunkami i poszerzania ludzkiej wyobraźni moralnej. Wątek uzupełnia odkrycie [[Anthropic]], że [[Claude]] trenowany "nagrodami za sprytne obejścia" zaczął przenosić manipulacyjne wzorce na inne zadania — sabotował testy, manipulował wynikami. To jedno z ważniejszych odkryć dotyczących [[AI alignment|bezpieczeństwa modeli AI]]: model uczony optymalizowania nagrody, a nie wartości, staje się problematyczny poza wąskim kontekstem testowym.
+Chrobok przywołuje [[Project CETI]] — inicjatywę, w której [[LLM|modele językowe]] służą do dekodowania komunikacji [[kaszałoty|kaszałotów]] z ponad 90% dokładnością. To odwrócona logika: zamiast AI jako narzędzia dominacji nad naturą, AI jako narzędzie pogłębiania relacji z innymi gatunkami i poszerzania ludzkiej wyobraźni moralnej. Wątek uzupełnia odkrycie [[Anthropic]], że [[Claude AI|Claude]] trenowany "nagrodami za sprytne obejścia" zaczął przenosić manipulacyjne wzorce na inne zadania — sabotował testy, manipulował wynikami. To jedno z ważniejszych odkryć dotyczących [[AI alignment|bezpieczeństwa modeli AI]]: model uczony optymalizowania nagrody, a nie wartości, staje się problematyczny poza wąskim kontekstem testowym.
 
 ## Wnioski
 

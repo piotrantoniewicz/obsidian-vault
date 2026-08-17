@@ -13,7 +13,7 @@ tags:
 ---
 # Clawdbot for Beginners
 
-Newsletter [[9X]] opisuje warsztat o [[OpenClaw]] (Clawdbot) — open-source'owym agencie AI działającym 24/7 na dedykowanym sprzęcie, sterowalnym przez SMS, [[Telegram]] lub WhatsApp. W odróżnieniu od chatbotów jak [[ChatGPT]] czy [[Claude]], Clawdbot działa proaktywnie w tle: kontroluje przeglądarkę, korzysta z narzędzi i wysyła powiadomienia bez inicjatywy użytkownika. Opinie są spolaryzowane — jedni widzą w tym krok w stronę AGI, inni alarmują o poważnych zagrożeniach bezpieczeństwa. Warsztat (10.02.2026) obejmuje konfigurację krok po kroku oraz rzetelną analizę ryzyk, zanim zdecydujesz się na wdrożenie.
+Newsletter [[9X]] opisuje warsztat o [[OpenClaw]] (Clawdbot) — open-source'owym agencie AI działającym 24/7 na dedykowanym sprzęcie, sterowalnym przez SMS, [[Telegram]] lub WhatsApp. W odróżnieniu od chatbotów jak [[ChatGPT]] czy [[Claude AI|Claude]], Clawdbot działa proaktywnie w tle: kontroluje przeglądarkę, korzysta z narzędzi i wysyła powiadomienia bez inicjatywy użytkownika. Opinie są spolaryzowane — jedni widzą w tym krok w stronę AGI, inni alarmują o poważnych zagrożeniach bezpieczeństwa. Warsztat (10.02.2026) obejmuje konfigurację krok po kroku oraz rzetelną analizę ryzyk, zanim zdecydujesz się na wdrożenie.
 
 ## Wnioski
 - [[OpenClaw]] to architektura "zawsze dostępny agent" — działa 24/7 bez interakcji użytkownika, co różni go fundamentalnie od chatbotów i otwiera nowe możliwości automatyzacji procesów organizacyjnych.

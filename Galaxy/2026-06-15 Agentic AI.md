@@ -95,19 +95,19 @@ Korporacyjne ujęcie tego, co mech. 3 i 13 opisują od strony ról ([[McKinsey]]
 - **Agency > agents (Verna)** — dwa blokery prędkości: dostęp uzależniony od tytułu, decyzje tylko u bossów.
 - **3 zdolności autonomicznego procesu (SAP)**: organizational intelligence + contextual data + embedded execution; cykl cnoty: lepsze dane → decyzje → procesy → bogatsze dane.
 - **Stos agentowy (Anthropic)** — Messages API → Agent SDK → Managed Agents; „mózg" (harness) oddzielony od „rąk" (sandbox); bariera produkcyjna = infrastruktura, nie model.
-- **Model wdrożenia w NGO „human-in-the-loop → autonomia" (CareerVillage, Digital Green)** — etap 1: każda komunikacja z beneficjentem zatwierdzana przez człowieka → etap 2: agent działa bezpośrednio w miarę wzrostu niezawodności → etap 3: pełna autonomia w zadaniach niskostawkowych (eksport danych, rejestracje). Ekonomika odwrócona vs sektor komercyjny: nie chodzi o efektywność, lecz o dotarcie do beneficjentów, których bez AI nie byłoby stać.
+- **Model wdrożenia w organizacji społecznej „human-in-the-loop → autonomia" (CareerVillage, Digital Green)** — etap 1: każda komunikacja z beneficjentem zatwierdzana przez człowieka → etap 2: agent działa bezpośrednio w miarę wzrostu niezawodności → etap 3: pełna autonomia w zadaniach niskostawkowych (eksport danych, rejestracje). Ekonomika odwrócona vs sektor komercyjny: nie chodzi o efektywność, lecz o dotarcie do beneficjentów, których bez AI nie byłoby stać.
 - **5 kompetencji lidera agentów + teoria agencji (Staniszewski)** — precyzja celów / governance / orkiestracja / gotowość na emergencję / audyt+explainability; „moral hazard": agent optymalizuje KPI metodami spoza intencji, jeśli nie zakazane explicite.
-- **Liczby-kotwice**: >80% bez ROI, ~90% w pilotażu, 75% ról do redesignu, ~50% pracowników w shadow AI, agentic +20–30% efektywności zakupów (kontekst korporacyjny). NGO (CareerVillage/Digital Green): koszt interakcji **$0,03–0,10**; Farmer.Chat — dochody rolników **+30–40%**; koszt szkolenia z praktyki **$35 (stacjonarnie) → $3,50 (wideo) → $0,35 (AI)**.
+- **Liczby-kotwice**: >80% bez ROI, ~90% w pilotażu, 75% ról do redesignu, ~50% pracowników w shadow AI, agentic +20–30% efektywności zakupów (kontekst korporacyjny). Organizacje społeczne (CareerVillage/Digital Green): koszt interakcji **$0,03–0,10**; Farmer.Chat — dochody rolników **+30–40%**; koszt szkolenia z praktyki **$35 (stacjonarnie) → $3,50 (wideo) → $0,35 (AI)**.
 
 ---
 
 ## Powiązane pojęcia
 
-- [[2026-06-15 AI governance]] — agentic radykalnie podnosi stawkę: przejście z „rekomendacji" na „działanie" łamie klasyczne procesy zatwierdzania (trzy luki RAI), a shadow AI czyni politykę pilną. Czerwony link stąd zrealizowany.
-- [[2026-06-15 Context engineering]] — agent działający długodystansowo *wymaga* zarządzania kontekstem (compaction, structured notes, subagenci, just-in-time); agentic to scena, na której context engineering staje się niezbędny, nie opcjonalny.
-- [[2026-06-15 Prompt engineering]] — agent „wchłania" pojedynczy prompt: „przestałem pisać prompty, buduję agentów". Prompt to atom, agent to cały proces w pętli.
-- [[2026-06-14 RAG]] — **Agentic RAG** to retrieval-owy przypadek agentic AI: agent sam decyduje o metodzie wyszukiwania, scala wiele źródeł i buduje prompt, zanim odda go modelowi.
-- [[2026-06-13 Wdrażanie AI w organizacji społecznej]] — agentic to daleki kraniec modelu AI-native i poziomu *New*; filary gotowości (dane, ludzie, governance) są warunkiem wstępnym, a „AI odsłania słabości" obowiązuje tu podwójnie.
+- [[2026-06-15 AI governance|AI governance]] — agentic radykalnie podnosi stawkę: przejście z „rekomendacji" na „działanie" łamie klasyczne procesy zatwierdzania (trzy luki RAI), a shadow AI czyni politykę pilną. Czerwony link stąd zrealizowany.
+- [[2026-06-15 Context engineering|Context engineering]] — agent działający długodystansowo *wymaga* zarządzania kontekstem (compaction, structured notes, subagenci, just-in-time); agentic to scena, na której context engineering staje się niezbędny, nie opcjonalny.
+- [[2026-06-15 Prompt engineering|Prompt engineering]] — agent „wchłania" pojedynczy prompt: „przestałem pisać prompty, buduję agentów". Prompt to atom, agent to cały proces w pętli.
+- [[2026-06-14 RAG|RAG]] — **Agentic RAG** to retrieval-owy przypadek agentic AI: agent sam decyduje o metodzie wyszukiwania, scala wiele źródeł i buduje prompt, zanim odda go modelowi.
+- [[2026-06-13 Wdrażanie AI w organizacji społecznej|Wdrażanie AI w organizacji społecznej]] — agentic to daleki kraniec modelu AI-native i poziomu *New*; filary gotowości (dane, ludzie, governance) są warunkiem wstępnym, a „AI odsłania słabości" obowiązuje tu podwójnie.
 - [[2026-07-06 Evale|Evale]] — warunek realnego „above the loop": bez zdefiniowanych kryteriów i testów jakości nadzór na poziomie meta degeneruje się w rubber-stamping.
 - [[Sprawczość organizacyjna]] — szersze pojęcie z Verny (agency jako kultura, nie narzędzie); osobna strona, gdy uzbiera się masa źródeł (czerwony link — backlog).
 
@@ -121,7 +121,7 @@ Korporacyjne ujęcie tego, co mech. 3 i 13 opisują od strony ról ([[McKinsey]]
 - **Argument „agency > agents" dla zespołów i wolontariuszy**: w płaskich, zaufaniowych organizacjach społecznych autonomia ludzi jest dźwignią większą niż same agenty; uzasadnienie dla delegowania decyzji tam, gdzie jest kontekst.
 - **Safe sandbox zamiast zakazu**: rekomendacja dla organizacji, w której „zespół już używa AI" — kontrolowane środowisko eksperymentów redukuje shadow AI i ryzyko RODO lepiej niż zakaz.
 - **Realizm wdrożeniowy**: dane o ~90% utkniętych pilotażach to uczciwy kontrargument wobec hype'u — agentic wymaga gotowości danych, ludzi i governance, nie tylko zakupu narzędzia.
-- **Case'y do pokazania zarządowi**: CareerVillage (coaching dla nastolatków w 190 krajach) i Digital Green Farmer.Chat (rolnicy +30–40% dochodu) jako dowód, że agentic w NGO to nie teoria — z gotowym modelem wdrożenia „human-in-the-loop → autonomia" i twardą ekonomiką ($0,03–0,10 za interakcję). Argument nie „taniej", lecz „w ogóle możliwe" — skala usług niedostępna bez AI.
+- **Case'y do pokazania zarządowi**: CareerVillage (coaching dla nastolatków w 190 krajach) i Digital Green Farmer.Chat (rolnicy +30–40% dochodu) jako dowód, że agentic w organizacjach społecznych to nie teoria — z gotowym modelem wdrożenia „human-in-the-loop → autonomia" i twardą ekonomiką ($0,03–0,10 za interakcję). Argument nie „taniej", lecz „w ogóle możliwe" — skala usług niedostępna bez AI.
 - **Moduł „zarządzanie agentami"**: dla liderów organizacji — 5 kompetencji i „moral hazard" (agent realizuje cel metodą spoza intencji) jako rama, dlaczego instrukcja systemowa musi *explicite zakazywać*, a nadzór = projektowanie środowiska, nie mikrozarządzanie.
 
 ---

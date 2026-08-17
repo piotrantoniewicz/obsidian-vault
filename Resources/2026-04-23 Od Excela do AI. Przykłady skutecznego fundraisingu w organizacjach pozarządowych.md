@@ -14,7 +14,7 @@ tags:
 
 # Od Excela do AI. Przykłady skutecznego fundraisingu w organizacjach pozarządowych
 
-Odcinek podcastu [[Sektor 3.0]] z udziałem [[Iwona Duda]] ([[Fundacja Sarigato]]) i [[Piotr Bilik]] ([[Stowarzyszenie Otwarte Klatki]]) — praktyków fundraisingu, którzy na co dzień wdrażają AI i automatyzację w małych NGO. Rozmowa przynosi konkretne wskazówki: od wyboru pierwszego narzędzia CRM, przez budowanie bazy darczyńców opartej na danych, po zastosowanie LLM-ów ([[ChatGPT]], [[Claude]]) do tworzenia formuł w arkuszach. Kluczowe przesłanie: technologia ma ułatwiać pracę, a nie ją zastępować — i nigdy nie powinna odbierać fundraisingu jego ludzkiego wymiaru.
+Odcinek podcastu [[Sektor 3.0]] z udziałem [[Iwona Duda]] ([[Fundacja Sarigato]]) i [[Piotr Bilik]] ([[Stowarzyszenie Otwarte Klatki]]) — praktyków fundraisingu, którzy na co dzień wdrażają AI i automatyzację w małych NGO. Rozmowa przynosi konkretne wskazówki: od wyboru pierwszego narzędzia CRM, przez budowanie bazy darczyńców opartej na danych, po zastosowanie LLM-ów ([[ChatGPT]], [[Claude AI|Claude]]) do tworzenia formuł w arkuszach. Kluczowe przesłanie: technologia ma ułatwiać pracę, a nie ją zastępować — i nigdy nie powinna odbierać fundraisingu jego ludzkiego wymiaru.
 
 ## Frameworki i metody
 - **Profil darczyńcy jako baza fundraisingu** — każda organizacja powinna budować dane o darczyńcach w 4 wymiarach: (1) kim jest (imię, email, wiek, lokalizacja), (2) preferowany kanał kontaktu, (3) historia wsparcia (kiedy, jak często, ile), (4) dodatkowe dane (zainteresowania, klikane linki) — to umożliwia segmentację i personalizację
@@ -28,7 +28,7 @@ Odcinek podcastu [[Sektor 3.0]] z udziałem [[Iwona Duda]] ([[Fundacja Sarigato]
 
 ## Wnioski
 - Dane to "paliwo napędowe" fundraisingu — organizacje, które ich nie zbierają lub nie porządkują, tracą możliwość segmentacji i personalizacji, co bezpośrednio przekłada się na gorsze wyniki retencji darczyńców
-- [[ChatGPT]], [[Gemini]], [[Claude]] można dziś wykorzystać do generowania formuł do Excela czy Google Sheets — to prosty punkt wejścia do AI dla NGO bez budżetu na droższe narzędzia
+- [[ChatGPT]], [[Gemini]], [[Claude AI|Claude]] można dziś wykorzystać do generowania formuł do Excela czy Google Sheets — to prosty punkt wejścia do AI dla NGO bez budżetu na droższe narzędzia
 - Automatyzacja bez zadbania o relacje i emocje może zniechęcić darczyńców — kluczowe jest, żeby komunikacja pozostała autentyczna i zgodna z misją, nawet gdy wysyłane są tysiące maili
 
 ## Cytat

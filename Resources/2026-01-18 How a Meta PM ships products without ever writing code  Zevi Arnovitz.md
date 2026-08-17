@@ -20,7 +20,7 @@ tags:
 
 - **Workflow 6-fazowy** — Arnovitz stworzył sekwencję /komend w [[Claude Code]] uruchamianych kolejno: (1) `/create-issue` — szybkie przechwycenie pomysłu/buga do [[Linear]] mid-development, (2) `/explore` — eksploracja problemu z pytaniami doprecyzowującymi, bez pisania kodu, (3) `/create-plan` — generowanie pliku markdown z planem implementacji, (4) `/execute-plan` — wykonanie planu, (5) `/review` — Claude Code recenzuje własny kod, (6) `/peer-review` — różne modele wzajemnie recenzują kod (np. [[Codex]] + [[Cursor]]), (7) `/update-docs` — aktualizacja dokumentacji po zmianach.
 
-- **"CTO jako projekt AI"** — tworzenie dedykowanego projektu w [[ChatGPT]]/[[Claude]] z promptem systemowym definiującym rolę technicznego współzałożyciela. Projekt utrzymuje kontekst przez wiele sesji i wymusza niebycie "people pleaserem" — AI ma kwestionować decyzje, nie potakiwać.
+- **"CTO jako projekt AI"** — tworzenie dedykowanego projektu w [[ChatGPT]]/[[Claude AI|Claude]] z promptem systemowym definiującym rolę technicznego współzałożyciela. Projekt utrzymuje kontekst przez wiele sesji i wymusza niebycie "people pleaserem" — AI ma kwestionować decyzje, nie potakiwać.
 
 - **Ścieżka graduacji narzędzi** — rekomendowana kolejność nauki: projekt ChatGPT → Bolt/Lovable → [[Cursor]] w light mode → [[Claude Code]] w terminalu. Każde narzędzie oswaja z kodem przed przejściem do bardziej zaawansowanego.
 

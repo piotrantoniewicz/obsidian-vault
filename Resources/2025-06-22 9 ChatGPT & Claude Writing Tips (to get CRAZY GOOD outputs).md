@@ -25,7 +25,7 @@ Nicolas Cole — autor i współzałożyciel [[Ship 30 for 30]] — dzieli się 
    - *Brainstorming Prompting* — AI jako partner do testowania pomysłów; wymaga dużo kontekstu o projekcie, firmie, odbiorcy
    - *Automation Prompting* — odwrotna inżynieria opanowanego procesu w powtarzalny prompt; największa dźwignia, największy nakład pracy na start
 
-2. **Używaj [[Claude]] Projects** — projekt to "kontener kontekstu"; zamiast zaczynać od nowa każdą rozmowę, wrzuć wszystkie materiały (dokumenty, profile, mapy) do jednego miejsca, by model miał pełen kontekst przy każdej sesji.
+2. **Używaj [[Claude AI|Claude]] Projects** — projekt to "kontener kontekstu"; zamiast zaczynać od nowa każdą rozmowę, wrzuć wszystkie materiały (dokumenty, profile, mapy) do jednego miejsca, by model miał pełen kontekst przy każdej sesji.
 
 3. **Singular vs. Modular Prompts** — nie łącz 8 zadań w jednym prompcie. Rozbij duże zadania na sekwencję małych, osobnych promptów (research → tytuł → outline → moduły → styl).
 
@@ -43,7 +43,7 @@ Nicolas Cole — autor i współzałożyciel [[Ship 30 for 30]] — dzieli się 
 
 ## Wnioski
 - Automatyzacja pracy twórczej z AI wymaga najpierw głębokiego rozumienia własnego procesu — nie można zdelegować do modelu tego, czego samemu nie umie się opisać.
-- [[Claude]] Projects rozwiązuje problem utraty kontekstu między sesjami — to szczególnie przydatne przy długich projektach ghostwritingowych lub szkoleniach rozpisanych na moduły.
+- [[Claude AI|Claude]] Projects rozwiązuje problem utraty kontekstu między sesjami — to szczególnie przydatne przy długich projektach ghostwritingowych lub szkoleniach rozpisanych na moduły.
 - Precyzja języka w promptach (obiektywne instrukcje + nazwane formaty + zgodne przykłady) to różnica między przeciętnym a profesjonalnym outputem.
 
 ## Cytat

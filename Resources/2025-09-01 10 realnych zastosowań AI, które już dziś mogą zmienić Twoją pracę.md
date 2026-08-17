@@ -22,7 +22,7 @@ Krzysztof Wojewodzic prezentuje zestawienie 10 kategorii narzędzi AI, które �
   - **Klienci e-mail i asystenci skrzynki** — pisanie wiadomości, streszczenia wątków, priorytetyzacja; narzędzia: [[Superhuman]], Outlook Copilot
   - **Note takers — automatyczne notatki ze spotkań** — transkrypcja calli, action items; narzędzia: Fireflies, Otter.ai, [[Fathom]], Sembly
   - **Generowanie wideo przez awatary** — nagrania bez kamery i studia; narzędzia: Synthesia, HeyGen — autor zaznacza, że awatary jeszcze nie zastępują autentycznego wideo
-  - **Modele konwersacyjne** — obsługa klienta, Q&A, wewnętrzna baza wiedzy; narzędzia: [[ChatGPT]], [[Claude]], Gemini, Microsoft Copilot
+  - **Modele konwersacyjne** — obsługa klienta, Q&A, wewnętrzna baza wiedzy; narzędzia: [[ChatGPT]], [[Claude AI|Claude]], Gemini, Microsoft Copilot
   - **AI do edycji i repurposingu wideo** — klipy z długich nagrań, napisy, montaż; narzędzia: OpusClip (rekomendowane), Descript, Runway
   - **Vertical agents — agenci branżowi** — AI wyspecjalizowane w prawie, sprzedaży, HR, edukacji; narzędzia: Harvey (legal), Jasper (marketing), Klarity (kontrakty)
   - **Orkiestracja i workflows AI** — łączenie modeli w procesy: dane → streszczenie → CRM; narzędzia: [[Make.com]], [[n8n]], Zapier AI, [[LangChain]]

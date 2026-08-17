@@ -22,7 +22,7 @@ sources:
 
 # Major gifts (duże darowizny)
 
-Major gift to największa darowizna w portfolio danej organizacji — próg jest względny (dla jednego NGO to 1 000 zł, dla innego 100 000 zł), a wyznacza go analiza historycznych datków, nie sztywna kwota. Choć pochodzą od garstki darczyńców, stanowią **lwią część rocznych przychodów**. Najważniejsza zasada brzmi: takie dary nie pojawiają się przez przypadek — *major donors are grown, not given*. Niemal zawsze są wynikiem systematycznie budowanej relacji w czasie, prowadzonej przez ustrukturyzowany pipeline od identyfikacji prospekta po stewardship.
+Major gift to największa darowizna w portfolio danej organizacji — próg jest względny (dla jednej organizacji to 1 000 zł, dla innego 100 000 zł), a wyznacza go analiza historycznych datków, nie sztywna kwota. Choć pochodzą od garstki darczyńców, stanowią **lwią część rocznych przychodów**. Najważniejsza zasada brzmi: takie dary nie pojawiają się przez przypadek — *major donors are grown, not given*. Niemal zawsze są wynikiem systematycznie budowanej relacji w czasie, prowadzonej przez ustrukturyzowany pipeline od identyfikacji prospekta po stewardship.
 
 ---
 
@@ -67,13 +67,13 @@ Kalibracja mech. 4 („non-cash bije gotówkę") danymi makro z rocznika Giving 
 
 ---
 
-## Zastosowanie w kontekście NGO
+## Zastosowanie w kontekście organizacji społecznych
 
 - **Moduł kursowy „Fundraising z AI":** pięcioetapowy pipeline to gotowa struktura modułu o dużych darczyńcach, a 3C i „8 dotknięć" — konkretne, przyswajalne narzędzia dla organizacji bez doświadczenia w major gifts.
 - **Argument przeciw myśleniu „nie mamy bogatych darczyńców":** próg major gift jest względny — chodzi o największe dary *w tej konkretnej bazie*. Raport LYBUNT/RFM z istniejącego [[CRM]] niemal zawsze ujawnia kilkunastu kandydatów, których nikt nie kultywuje.
-- **Minimalny program dla małego NGO bez budżetu:** prosty [[CRM]] z widokiem pipeline'u (Kanban) + lista 25 prospektów + comiesięczny rytm kontaktów. Nie potrzeba wealth screeningu, żeby zacząć — wystarczy nie gubić relacji.
-- **Wejście AI do oferty doradczej:** prospect scoring (ability + affinity, *the right ask*) to mierzalny, łatwy do zademonstrowania przykład AI w fundraisingu — dobry punkt sprzedażowy, bo >60% małych NGO już eksperymentuje z AI, więc opór jest niższy niż dawniej.
-- **Sprawdzić polski rynek narzędzi:** odpowiedniki [[Blackbaud]] Prospect Insights — czy polskie CRM-y dla NGO (Asari, Salesforce NPE) oferują scoring lub choćby raporty LYBUNT/RFM; możliwość zbudowania prostego scoringu prospektów w [[Make.com]] na danych z CRM.
+- **Minimalny program dla małej organizacji bez budżetu:** prosty [[CRM]] z widokiem pipeline'u (Kanban) + lista 25 prospektów + comiesięczny rytm kontaktów. Nie potrzeba wealth screeningu, żeby zacząć — wystarczy nie gubić relacji.
+- **Wejście AI do oferty doradczej:** prospect scoring (ability + affinity, *the right ask*) to mierzalny, łatwy do zademonstrowania przykład AI w fundraisingu — dobry punkt sprzedażowy, bo >60% małych organizacji społecznych już eksperymentuje z AI, więc opór jest niższy niż dawniej.
+- **Sprawdzić polski rynek narzędzi:** odpowiedniki [[Blackbaud]] Prospect Insights — czy polskie CRM-y dla organizacji społecznych (Asari, Salesforce NPE) oferują scoring lub choćby raporty LYBUNT/RFM; możliwość zbudowania prostego scoringu prospektów w [[Make.com]] na danych z CRM.
 
 ---
 

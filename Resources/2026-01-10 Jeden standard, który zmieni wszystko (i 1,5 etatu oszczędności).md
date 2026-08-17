@@ -17,11 +17,11 @@ tags:
 
 ## Wnioski
 - [[MCP]] jako standard integracji AI przyjęty przez wszystkich głównych graczy to bezpieczny fundament do budowania automatyzacji w 2026 — warto planować nowe wdrożenia z myślą o tym protokole, nie o proprietary rozwiązaniach.
-- Najdroższy błąd wdrożeń AI to brak mapowania procesów: bez wiedzy CO automatyzować, żadna platforma nie przyniesie ROI — warsztat mapowania (z dołączonym promptem do [[Claude]]/GPT) powinien poprzedzać każde wdrożenie.
+- Najdroższy błąd wdrożeń AI to brak mapowania procesów: bez wiedzy CO automatyzować, żadna platforma nie przyniesie ROI — warsztat mapowania (z dołączonym promptem do [[Claude AI|Claude]]/GPT) powinien poprzedzać każde wdrożenie.
 - [[n8n]] 2.0 (separacja Save/Publish, SQLite 10x szybszy) usuwa kluczową barierę adopcji — argument dla organizacji, które dotąd bały się przypadkowych deployów na produkcję.
 
 ## Cytat
 > Najdroższy błąd to nie brak AI. To brak mapowania procesów. Nie wiedzieli CO automatyzować, więc nie automatyzowali NIC.
 
 ## Zastosowanie
-Warsztat mapowania procesów (z promptem do [[Claude]]/GPT) to konkretny element, który Piotr może wbudować w ofertę doradczą dla NGO przed każdym wdrożeniem — gotowy argument dla klientów, że narzędzia są wtórne względem diagnozy procesów.
+Warsztat mapowania procesów (z promptem do [[Claude AI|Claude]]/GPT) to konkretny element, który Piotr może wbudować w ofertę doradczą dla NGO przed każdym wdrożeniem — gotowy argument dla klientów, że narzędzia są wtórne względem diagnozy procesów.

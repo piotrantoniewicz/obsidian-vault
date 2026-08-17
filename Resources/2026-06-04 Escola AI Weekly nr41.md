@@ -19,7 +19,7 @@ Tygodniowy przegląd Krzysztofa Wojewodzica obejmuje siedem tematów, które ł�
 ## Frameworki i metody
 
 - **Token maxing** — wdrażanie [[AI]] do wszystkiego bez analizy opłacalności; antidotum to mierzenie zużycia tokenów per use case i eliminacja agentów bez mierzalnego ROI
-- **Effort control w [[Claude]]** — mechanizm pozwalający użytkownikowi określić poziom wysiłku modelu (oszczędny vs maksymalny); model szacuje zużycie tokenów i pyta o zgodę przy dużych zadaniach
+- **Effort control w [[Claude AI|Claude]]** — mechanizm pozwalający użytkownikowi określić poziom wysiłku modelu (oszczędny vs maksymalny); model szacuje zużycie tokenów i pyta o zgodę przy dużych zadaniach
 - **Kompresja kontekstu** — zamiast trzymania pełnych dokumentów model ekstrahuje najważniejsze ~10% informacji podtrzymujących wątek; sprawdzalne przez eksport pamięci z Claude, ChatGPT lub Gemini
 - **Lokalny deployment modeli** — [[Plum]] (70B parametrów) można uruchomić lokalnie na 16 GB RAM bez wysyłania danych do zewnętrznych serwerów; ważne dla instytucji przetwarzających wrażliwe dane
 
@@ -27,7 +27,7 @@ Tygodniowy przegląd Krzysztofa Wojewodzica obejmuje siedem tematów, które ł�
 
 - 25% polskich firm ma dostęp do wykwalifikowanych ekspertów AI (raport PARP/UJ, edycja 3)
 - 60% zużycia tokenów na [[OpenRouter]] to modele chińskie (Kimi, DeepSeek, GLM, Qwen)
-- [[Anthropic]] rośnie 130% kwartał do kwartału; zużycie tokenów przez płacących użytkowników [[Claude]] ponad 10× wyższe niż [[ChatGPT]]
+- [[Anthropic]] rośnie 130% kwartał do kwartału; zużycie tokenów przez płacących użytkowników [[Claude AI|Claude]] ponad 10× wyższe niż [[ChatGPT]]
 
 ## Wnioski
 
@@ -41,4 +41,4 @@ Tygodniowy przegląd Krzysztofa Wojewodzica obejmuje siedem tematów, które ł�
 
 ## Zastosowanie
 
-Luka kompetencji AI w Polsce (tylko 25% firm z dostępem do ekspertów) to konkretny argument w rozmowach z NGO o wartości szkoleń z AI — organizacje, które zbudują wewnętrzne kompetencje teraz, zyskają trudną do nadrobienia przewagę. Zjawisko token maxingu i effort control w [[Claude]] są bezpośrednio przydatne przy projektowaniu automatyzacji dla klientów: warto od razu mierzyć koszty tokenów i unikać wdrożeń bez mierzalnego efektu. [[Plum]] warto monitorować jako opcję dla NGO z wymogami RODO, które nie chcą wysyłać danych do zewnętrznych dostawców.
+Luka kompetencji AI w Polsce (tylko 25% firm z dostępem do ekspertów) to konkretny argument w rozmowach z NGO o wartości szkoleń z AI — organizacje, które zbudują wewnętrzne kompetencje teraz, zyskają trudną do nadrobienia przewagę. Zjawisko token maxingu i effort control w [[Claude AI|Claude]] są bezpośrednio przydatne przy projektowaniu automatyzacji dla klientów: warto od razu mierzyć koszty tokenów i unikać wdrożeń bez mierzalnego efektu. [[Plum]] warto monitorować jako opcję dla NGO z wymogami RODO, które nie chcą wysyłać danych do zewnętrznych dostawców.

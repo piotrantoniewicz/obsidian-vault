@@ -34,4 +34,4 @@ Tygodniowy przegląd AI Krzysztofa Wojewodzica obejmuje siedem tematów ukazują
 
 ## Zastosowanie
 
-Dla Piotra prowadzącego szkolenia z AI dla NGO — konkretne przykłady (Dove, Meta, Coinbase, StarCloud) to gotowy materiał edukacyjny o etyce AI i praktykach wdrożeniowych, który można wprost wykorzystać na warsztatach. Temat agentów CEO do zarządzania organizacją jest ważnym punktem odniesienia przy doradzaniu NGO rozważającym AI w nadzorze procesów i komunikacji wewnętrznej. Wyciek Anthropic i odkrycie mechanizmu Self-Healing Memory warto śledzić w kontekście rozwijania własnych narzędzi opartych na [[Claude]] (dobryai.pl).
+Dla Piotra prowadzącego szkolenia z AI dla NGO — konkretne przykłady (Dove, Meta, Coinbase, StarCloud) to gotowy materiał edukacyjny o etyce AI i praktykach wdrożeniowych, który można wprost wykorzystać na warsztatach. Temat agentów CEO do zarządzania organizacją jest ważnym punktem odniesienia przy doradzaniu NGO rozważającym AI w nadzorze procesów i komunikacji wewnętrznej. Wyciek Anthropic i odkrycie mechanizmu Self-Healing Memory warto śledzić w kontekście rozwijania własnych narzędzi opartych na [[Claude AI|Claude]] (dobryai.pl).

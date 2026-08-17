@@ -24,7 +24,7 @@ Natalie MacNeil dzieli się trzema obserwacjami z intensywnego okresu w świecie
 ## Wnioski
 
 - Nie możesz zautomatyzować tego, czego nie masz udokumentowanego — SOPs są fundamentem efektywnych systemów agentowych i powinny powstać zanim zaczniesz budować [[AI agenci|agenty AI]].
-- Zaawansowane modele [[Claude]], [[Gemini]] i [[ChatGPT]] są wstrzymywane przez producentów z powodu poważnych zagrożeń bezpieczeństwa — rząd USA angażuje się w testowanie protokołów wdrożeniowych, co pokazuje skalę ryzyka.
+- Zaawansowane modele [[Claude AI|Claude]], [[Gemini]] i [[ChatGPT]] są wstrzymywane przez producentów z powodu poważnych zagrożeń bezpieczeństwa — rząd USA angażuje się w testowanie protokołów wdrożeniowych, co pokazuje skalę ryzyka.
 - Gdy AI staje się wszechobecne i działa w tle naszych systemów, wypełni próżnię braku klarowności — bez jasno zdefiniowanych wartości i celów systemy będą nas optymalizować według cudzej wizji i metryk.
 
 ## Cytat

@@ -20,7 +20,7 @@ tags:
 
 Słownik kluczowych pojęć ekosystemu agentów AI:
 
-- **Model** — samo [[LLM]]: przyjmuje tekst, generuje tekst (np. [[Claude]], Qwen, GPT). Bez scaffoldingu i harnesa nie ma pętli ani pamięci między wywołaniami.
+- **Model** — samo [[LLM]]: przyjmuje tekst, generuje tekst (np. [[Claude AI|Claude]], Qwen, GPT). Bez scaffoldingu i harnesa nie ma pętli ani pamięci między wywołaniami.
 
 - **Scaffolding** — warstwa definiująca zachowanie modelu: system prompt, opisy narzędzi, sposób parsowania odpowiedzi, zarządzanie kontekstem między krokami. To scaffolding kształtuje, jak model „widzi świat" i działa w nim.
 
@@ -49,9 +49,9 @@ Słownik kluczowych pojęć ekosystemu agentów AI:
 ## Wnioski
 
 - Rozróżnienie harness/scaffold jest kluczowe przy rozmowie o wdrożeniach agentów — te dwa pojęcia nie są synonimami, choć wiele produktów używa ich zamiennie
-- [[Claude Code]] jest harnesem wokół [[Claude]] — scaffolding to CLAUDE.md, opisy narzędzi i system prompt; harness to pętla wywołań i obsługa narzędzi
+- [[Claude Code]] jest harnesem wokół [[Claude AI|Claude]] — scaffolding to CLAUDE.md, opisy narzędzi i system prompt; harness to pętla wywołań i obsługa narzędzi
 - [[MCP]] (Model Context Protocol) to standaryzacja połączenia Tool Use → Harness — robi tę warstwę interoperacyjną między różnymi dostawcami i implementacjami
 
 ## Zastosowanie
 
-Dla Piotra budującego pluginy do [[Claude Code]] i wdrażającego AI w NGO, ten słownik to niezbędna baza terminologiczna. Przy rozmowach z klientami o „agentach AI" warto używać precyzyjnej nomenklatury: czym jest harness, czym scaffold, i dlaczego ten sam model (np. [[Claude]]) może zachowywać się zupełnie inaczej w różnych harnesach. Przy budowaniu własnych narzędzi AI (np. automatyzacje w [[Make.com]] lub pluginy) zrozumienie warstwy harnesa i scaffoldingu pomaga projektować bardziej niezawodne systemy.
+Dla Piotra budującego pluginy do [[Claude Code]] i wdrażającego AI w NGO, ten słownik to niezbędna baza terminologiczna. Przy rozmowach z klientami o „agentach AI" warto używać precyzyjnej nomenklatury: czym jest harness, czym scaffold, i dlaczego ten sam model (np. [[Claude AI|Claude]]) może zachowywać się zupełnie inaczej w różnych harnesach. Przy budowaniu własnych narzędzi AI (np. automatyzacje w [[Make.com]] lub pluginy) zrozumienie warstwy harnesa i scaffoldingu pomaga projektować bardziej niezawodne systemy.

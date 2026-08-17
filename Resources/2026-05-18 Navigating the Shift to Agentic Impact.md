@@ -26,7 +26,7 @@ Newsletter TEAMS! z maja 2026 kierowany do liderów organizacji non-profit omawi
 - **Dyrektywa cyfrowa (Role–Context–Task–Format)** — struktura zaawansowanego promptowania: zdefiniuj rolę AI, podaj kontekst organizacyjny, opisz zadanie, określ format odpowiedzi
 - **Podejście "AI Intern"** — onboarding AI jak nowego pracownika: precyzyjne instrukcje, jasne oczekiwania co do stylu i tonu, obowiązkowy ludzki przegląd outputu
 - **Human-in-the-Loop** — każda treść generowana przez AI przed kontaktem z uczestnikiem lub darczyńcą musi być zweryfikowana i zatwierdzona przez człowieka
-- **Platform Specialization (Tool-Persona Alignment)** — dopasowanie narzędzi AI do konkretnych potrzeb: [[Claude]] do autentycznej komunikacji z darczyńcami, Gemini do badań, Perplexity do fact-checkingu, NotebookLM do syntezowania dokumentów
+- **Platform Specialization (Tool-Persona Alignment)** — dopasowanie narzędzi AI do konkretnych potrzeb: [[Claude AI|Claude]] do autentycznej komunikacji z darczyńcami, Gemini do badań, Perplexity do fact-checkingu, NotebookLM do syntezowania dokumentów
 
 ## Kluczowe dane
 
@@ -36,7 +36,7 @@ Newsletter TEAMS! z maja 2026 kierowany do liderów organizacji non-profit omawi
 ## Wnioski
 
 - Efektywne organizacje 2026 stają się "mistrzami kontekstu" w promptowaniu — framework Role–Context–Task–Format jest gotowym standardem do wdrożenia jako organizacyjny protokół AI
-- [[Claude]] jest wskazywany jako narzędzie pierwszego wyboru do autentycznej komunikacji z darczyńcami i wrażliwych treści dla personelu — to gotowy argument przy rekomendacji narzędzi klientom
+- [[Claude AI|Claude]] jest wskazywany jako narzędzie pierwszego wyboru do autentycznej komunikacji z darczyńcami i wrażliwych treści dla personelu — to gotowy argument przy rekomendacji narzędzi klientom
 - Transparentność w użyciu AI staje się nowym standardem stewardshipu wobec darczyńców — organizacje powinny aktywnie komunikować, jak AI wspiera misję, nie zastępuje człowieka
 
 ## Zastosowanie

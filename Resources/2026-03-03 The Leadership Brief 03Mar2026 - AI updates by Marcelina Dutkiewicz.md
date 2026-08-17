@@ -19,7 +19,7 @@ Newsletter Marceliny Dutkiewicz (CEO [[EfficiencyTactics]]) koncentruje się na 
 ## Frameworki i metody
 
 - **Budowanie głosu w AI — metoda deskryptywna** — Opisz swój ton komunikacji (ciepły/formalny, zwięzły/rozbudowany) i zapisz jako reużywalne polecenie w prompcie. Stosuj przy każdym drafcie komunikacji.
-- **Budowanie głosu w AI — metoda przykładów** — Prześlij kilka własnych maili do AI (np. [[Claude]] lub [[ChatGPT]]) z poleceniem: *„Jestem [imię], [rola] w [firma]. Przeanalizuj moje maile i opisz mój ton, styl i sposób wyrażania się w wysokiej jakości akapicie, który będę dołączać do promptów lub Custom GPTs."*
+- **Budowanie głosu w AI — metoda przykładów** — Prześlij kilka własnych maili do AI (np. [[Claude AI|Claude]] lub [[ChatGPT]]) z poleceniem: *„Jestem [imię], [rola] w [firma]. Przeanalizuj moje maile i opisz mój ton, styl i sposób wyrażania się w wysokiej jakości akapicie, który będę dołączać do promptów lub Custom GPTs."*
 - **Custom Communication Assistants** — Tworzenie 2–3 dedykowanych asystentów ([[Custom GPT]] lub [[Copilot 365]] Agent) dla różnych typów komunikacji (np. wewnętrzna vs. inwestorska). Minimalizuje konieczność powtarzania kontekstu w każdym prompcie.
 - **Diagnoza wdrożeń champion-led** — 3 typowe problemy: (1) brak szkolenia championów z Generative AI — bariera w dzieleniu się wiedzą; (2) brak jasnej ścieżki eskalacji gdy champion nie może pomóc; (3) brak opisu roli i jasnych oczekiwań co do czasu. Championi to wzmacniacze w jednostkach biznesowych — nie zastępstwo strategii AI.
 

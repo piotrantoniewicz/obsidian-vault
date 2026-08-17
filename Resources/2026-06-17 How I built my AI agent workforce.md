@@ -36,4 +36,4 @@ Allie Miller opisuje, jak zbudowała zespół 34 agentów AI zarządzający jej 
 
 ## Zastosowanie
 
-Schemat hierarchii agentów (Chief of Staff → dyrektorzy → specjaliści + agent pamięci) można bezpośrednio zaadaptować w pracy konsultanta: Simon jako koordynator projektów NGO, Toby jako agent budujący bazę wiedzy o klientach i skutecznych interwencjach. Podejście JD-first (cel + kryteria sukcesu/porażki) to gotowy szablon do onboardingu własnych agentów w [[Claude]] i [[Make.com]]. Dla kursów szkoleniowych (dobryai.pl) — ewolucja 2022–2026 to gotowa oś narracyjna pokazująca, gdzie uczestnik jest dziś i dokąd zmierza.
+Schemat hierarchii agentów (Chief of Staff → dyrektorzy → specjaliści + agent pamięci) można bezpośrednio zaadaptować w pracy konsultanta: Simon jako koordynator projektów NGO, Toby jako agent budujący bazę wiedzy o klientach i skutecznych interwencjach. Podejście JD-first (cel + kryteria sukcesu/porażki) to gotowy szablon do onboardingu własnych agentów w [[Claude AI|Claude]] i [[Make.com]]. Dla kursów szkoleniowych (dobryai.pl) — ewolucja 2022–2026 to gotowa oś narracyjna pokazująca, gdzie uczestnik jest dziś i dokąd zmierza.

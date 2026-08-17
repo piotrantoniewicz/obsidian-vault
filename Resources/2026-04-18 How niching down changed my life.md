@@ -36,7 +36,7 @@ Nicolas Cole (współzałożyciel [[Premium Ghostwriting Academy]]) opowiada his
 
 ## Cytat
 
-> W świecie, gdzie każdy z [[Claude]] lub [[ChatGPT]] może wygenerować przyzwoity post na [[LinkedIn]] w 30 sekund, bycie „pisarzem, który pisze o wszystkim" to najszybsza droga do utraty klientów.
+> W świecie, gdzie każdy z [[Claude AI|Claude]] lub [[ChatGPT]] może wygenerować przyzwoity post na [[LinkedIn]] w 30 sekund, bycie „pisarzem, który pisze o wszystkim" to najszybsza droga do utraty klientów.
 
 ## Zastosowanie
 

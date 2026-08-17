@@ -26,7 +26,7 @@ MacNeil opisuje konkretny wynik biznesowy: launch prowadzony przez 2-osobowy zes
 > Istnieje ogromna różnica między używaniem [[ChatGPT]] jak wyszukiwarki a faktycznym budowaniem systemów — i właśnie to budowanie systemów daje ci z powrotem twoje życie.
 
 ## Zastosowanie
-Piotr może użyć poniższego promptu w pracy z [[Claude]], by wychodzić poza własne przekonania przy projektowaniu strategii AI dla NGO lub planowaniu wdrożeń:
+Piotr może użyć poniższego promptu w pracy z [[Claude AI|Claude]], by wychodzić poza własne przekonania przy projektowaniu strategii AI dla NGO lub planowaniu wdrożeń:
 
 ---
 

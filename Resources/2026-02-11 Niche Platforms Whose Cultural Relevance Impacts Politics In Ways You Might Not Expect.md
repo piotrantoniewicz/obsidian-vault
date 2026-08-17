@@ -14,7 +14,7 @@ tags:
 
 # Niche Platforms Whose Cultural Relevance Impacts Politics In Ways You Might Not Expect
 
-[[Katie Harbath]] analizuje rolę niszowych platform cyfrowych — Snap, Pinterest, [[LinkedIn]], Microsoft, Reddit i Discord — w cyklu wyborczym 2026 w USA. Główna teza: platformy te nie zdominują budżetów kampanijnych ani nie decydują o wyniku wyborów, ale zawierają sygnały kulturowe i taktyczne, które kampanie ignorują na własne ryzyko. Pinterest ujawnia estetyczne i emocjonalne nastroje społeczne jeszcze zanim trafią na mainstream, Snap dociera do Gen Z kanałami pomijanymi przez duże platformy, a [[Microsoft]] cicho buduje infrastrukturę bezpieczeństwa wyborczego, o której mało kto mówi. Artykuł jest częścią serii "The AI x Election Tech Forecast" i napisany został we współpracy z [[Claude]] od [[Anthropic]] — co autorka transparentnie ujawnia.
+[[Katie Harbath]] analizuje rolę niszowych platform cyfrowych — Snap, Pinterest, [[LinkedIn]], Microsoft, Reddit i Discord — w cyklu wyborczym 2026 w USA. Główna teza: platformy te nie zdominują budżetów kampanijnych ani nie decydują o wyniku wyborów, ale zawierają sygnały kulturowe i taktyczne, które kampanie ignorują na własne ryzyko. Pinterest ujawnia estetyczne i emocjonalne nastroje społeczne jeszcze zanim trafią na mainstream, Snap dociera do Gen Z kanałami pomijanymi przez duże platformy, a [[Microsoft]] cicho buduje infrastrukturę bezpieczeństwa wyborczego, o której mało kto mówi. Artykuł jest częścią serii "The AI x Election Tech Forecast" i napisany został we współpracy z [[Claude AI|Claude]] od [[Anthropic]] — co autorka transparentnie ujawnia.
 
 ## Frameworki i metody
 

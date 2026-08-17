@@ -14,7 +14,7 @@ tags:
 
 # Brutalna prawda o Agentach AI
 
-Mirek Burnejko stawia kluczowe rozróżnienie: budowanie prawdziwego agenta AI (systemu samo-decyzyjnego, działającego 24/7) to projekt na 6+ miesięcy nawet dla prostego Customer Support — podczas gdy asystenci AI (prompty z dostępem do danych w [[Claude]], [[ChatGPT]] lub [[Gemini]]) dają natychmiastowe rezultaty i są tym, czego firmy i organizacje faktycznie potrzebują na start. Opisuje też zastosowanie AI jako „rady doradców" do trudnych decyzji biznesowych — przyznaje, że od kiedy konsultuje każdy problem z asystentami, przestał reagować emocjonalnie na kryzysy: AI patrzy na fakty, nie emocje. Zapowiada start [[GASB]].AI z trzema poziomami certyfikacji ([[CAIBA]], [[CAIBP]], [[CAIBE]]) i poszukiwaniem partnerów edukacyjnych z 30% prowizją od egzaminów.
+Mirek Burnejko stawia kluczowe rozróżnienie: budowanie prawdziwego agenta AI (systemu samo-decyzyjnego, działającego 24/7) to projekt na 6+ miesięcy nawet dla prostego Customer Support — podczas gdy asystenci AI (prompty z dostępem do danych w [[Claude AI|Claude]], [[ChatGPT]] lub [[Gemini]]) dają natychmiastowe rezultaty i są tym, czego firmy i organizacje faktycznie potrzebują na start. Opisuje też zastosowanie AI jako „rady doradców" do trudnych decyzji biznesowych — przyznaje, że od kiedy konsultuje każdy problem z asystentami, przestał reagować emocjonalnie na kryzysy: AI patrzy na fakty, nie emocje. Zapowiada start [[GASB]].AI z trzema poziomami certyfikacji ([[CAIBA]], [[CAIBP]], [[CAIBE]]) i poszukiwaniem partnerów edukacyjnych z 30% prowizją od egzaminów.
 
 ## Wnioski
 

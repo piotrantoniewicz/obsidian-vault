@@ -23,7 +23,7 @@ tags:
 
 ## Wnioski
 - Bariera dostępu do [[AI]] w NGO to przede wszystkim brak czasu i wypalenie, nie koszt — co oznacza, że samo obniżenie ceny szkoleń nie rozwiąże problemu wdrożenia
-- Zmiana wymaga podejścia dwutorowego: top-down (strategia, polityka AI, zaangażowanie zarządu) i bottom-up (indywidualne nawyki, proste narzędzia jak [[ChatGPT]] czy [[Claude]])
+- Zmiana wymaga podejścia dwutorowego: top-down (strategia, polityka AI, zaangażowanie zarządu) i bottom-up (indywidualne nawyki, proste narzędzia jak [[ChatGPT]] czy [[Claude AI|Claude]])
 - Mniejsze, zwinne organizacje mogą wyprzedzić duże NGO właśnie dlatego, że szybciej znajdą punkt dźwigni — to ważna perspektywa dla [[Fundusz Sektor 3.0]] i podobnych inkubatorów
 
 ## Cytat

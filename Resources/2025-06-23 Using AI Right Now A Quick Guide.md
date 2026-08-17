@@ -14,7 +14,7 @@ tags:
 
 # Using AI Right Now: A Quick Guide
 
-Ethan Mollick aktualizuje swój cykliczny przewodnik po AI, wskazując na zasadniczą zmianę: wybór konkretnego narzędzia przestał być kluczowy — wszystkie trzy główne systemy ([[Claude]], [[Gemini]], [[ChatGPT]]) są na porównywalnym poziomie i wymagają ok. 20$/mies. za pełen dostęp. Ważniejsze jest zrozumienie, jak korzystać z zaawansowanych funkcji: Deep Research, trybu głosowego z kamerą i świadomego wyboru modelu do zadania. Autor obala część mitów o prompt engineeringu — nowoczesne modele rozumieją kontekst bez skomplikowanych formuł — ale wskazuje kilka trwałych zasad skutecznej pracy z AI. Dla trenera i konsultanta AI artykuł to gotowy materiał do wprowadzenia uczestników szkoleń w ekosystem narzędzi.
+Ethan Mollick aktualizuje swój cykliczny przewodnik po AI, wskazując na zasadniczą zmianę: wybór konkretnego narzędzia przestał być kluczowy — wszystkie trzy główne systemy ([[Claude AI|Claude]], [[Gemini]], [[ChatGPT]]) są na porównywalnym poziomie i wymagają ok. 20$/mies. za pełen dostęp. Ważniejsze jest zrozumienie, jak korzystać z zaawansowanych funkcji: Deep Research, trybu głosowego z kamerą i świadomego wyboru modelu do zadania. Autor obala część mitów o prompt engineeringu — nowoczesne modele rozumieją kontekst bez skomplikowanych formuł — ale wskazuje kilka trwałych zasad skutecznej pracy z AI. Dla trenera i konsultanta AI artykuł to gotowy materiał do wprowadzenia uczestników szkoleń w ekosystem narzędzi.
 
 ## Frameworki i metody
 
@@ -32,7 +32,7 @@ Ethan Mollick aktualizuje swój cykliczny przewodnik po AI, wskazując na zasadn
 ## Wnioski
 
 - Różnica między casual a power userami to nie biegłość w promptach, lecz znajomość funkcji (Deep Research, branching, tryb głosowy) i stosowanie ich do realnej pracy — bezpośrednio przekładalne na program szkoleniowy.
-- [[Claude]] jako jedyny spośród trzech głównych systemów domyślnie nie trenuje na danych użytkownika — istotny argument przy rozmowach z organizacjami NGO o bezpiecznym wdrożeniu AI.
+- [[Claude AI|Claude]] jako jedyny spośród trzech głównych systemów domyślnie nie trenuje na danych użytkownika — istotny argument przy rozmowach z organizacjami NGO o bezpiecznym wdrożeniu AI.
 - Prompt engineering traci znaczenie w prostych zastosowaniach, ale nadal wymaga umiejętności przy budowaniu promptów wielokrotnego użytku — ważne rozróżnienie dla uczestników kursów.
 
 ## Cytat
@@ -41,4 +41,4 @@ Ethan Mollick aktualizuje swój cykliczny przewodnik po AI, wskazując na zasadn
 
 ## Zastosowanie
 
-Artykuł może posłużyć jako materiał bazowy do modułu wprowadzającego w kursie "Fundraising z AI" lub szkoleniu dla organizacji — gotowy przegląd narzędzi z praktycznymi rekomendacjami. Zestawienie trzech systemów (Deep Research, Voice, Image, prywatność) to gotowy materiał do prezentacji. Argument o prywatności [[Claude]] vs. [[ChatGPT]]/[[Gemini]] jest bezpośrednio użyteczny w rozmowach z NGO o bezpiecznym wdrożeniu AI.
+Artykuł może posłużyć jako materiał bazowy do modułu wprowadzającego w kursie "Fundraising z AI" lub szkoleniu dla organizacji — gotowy przegląd narzędzi z praktycznymi rekomendacjami. Zestawienie trzech systemów (Deep Research, Voice, Image, prywatność) to gotowy materiał do prezentacji. Argument o prywatności [[Claude AI|Claude]] vs. [[ChatGPT]]/[[Gemini]] jest bezpośrednio użyteczny w rozmowach z NGO o bezpiecznym wdrożeniu AI.

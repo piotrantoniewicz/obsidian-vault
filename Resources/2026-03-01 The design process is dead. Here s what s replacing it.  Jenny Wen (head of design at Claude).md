@@ -14,7 +14,7 @@ tags:
 
 # The design process is dead. Here's what's replacing it. — Jenny Wen (head of design at Claude)
 
-[[Jenny Wen]], head of design w [[Anthropic]] ([[Claude]] i Cowork), ogłasza koniec klasycznego procesu designu — odkrywanie → dywergencja → konwergencja → makiety — i opisuje co go zastępuje. Centralny argument: inżynierowie zdolni do superszybkiego shipowania (z pomocą kilku równoległych agentów AI) wymuszają na designerach zmianę roli — z "twórców pięknych makiet" na konsultantów i partnerów wykonawczych, którzy pracują bezpośrednio z kodem. Modele AI są niedeterministyczne, więc nie można ich projektować przez mockupy — trzeba testować z prawdziwymi użytkownikami na żywych prototypach.
+[[Jenny Wen]], head of design w [[Anthropic]] ([[Claude AI|Claude]] i Cowork), ogłasza koniec klasycznego procesu designu — odkrywanie → dywergencja → konwergencja → makiety — i opisuje co go zastępuje. Centralny argument: inżynierowie zdolni do superszybkiego shipowania (z pomocą kilku równoległych agentów AI) wymuszają na designerach zmianę roli — z "twórców pięknych makiet" na konsultantów i partnerów wykonawczych, którzy pracują bezpośrednio z kodem. Modele AI są niedeterministyczne, więc nie można ich projektować przez mockupy — trzeba testować z prawdziwymi użytkownikami na żywych prototypach.
 
 ## Frameworki i metody
 

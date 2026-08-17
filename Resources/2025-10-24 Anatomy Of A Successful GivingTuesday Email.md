@@ -47,4 +47,4 @@ Artykuł opisuje trójpodział maili potrzebnych do kampanii GivingTuesday: info
 
 ## Zastosowanie
 
-Harmonogram 3 typów maili i framework 5 elementów to gotowy materiał do modułu email campaigning w kursie "Fundraising z AI" — można na tym oprzeć ćwiczenie generowania maili kampanijnych z pomocą AI. Przy konsultacjach z NGO warto używać tej struktury jako checklista przygotowania kampanii GivingTuesday lub analogicznych kampanii jednego dnia. Framework świetnie nadaje się też jako brief do tworzenia szablonów emailowych z użyciem [[Claude]].
+Harmonogram 3 typów maili i framework 5 elementów to gotowy materiał do modułu email campaigning w kursie "Fundraising z AI" — można na tym oprzeć ćwiczenie generowania maili kampanijnych z pomocą AI. Przy konsultacjach z NGO warto używać tej struktury jako checklista przygotowania kampanii GivingTuesday lub analogicznych kampanii jednego dnia. Framework świetnie nadaje się też jako brief do tworzenia szablonów emailowych z użyciem [[Claude AI|Claude]].

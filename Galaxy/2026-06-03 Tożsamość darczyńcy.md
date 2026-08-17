@@ -43,7 +43,7 @@ Pojęcie pochodzi od [[Hahrie Han]]: najtrwalsze ruchy najpierw budują poczucie
 Zobowiązanie wieloletnie (pledge) działa, bo przenosi ciężar decyzji z kwoty na czas trwania relacji. Dla Gen Z — dopiero budujących nawyki filantropijne — pledge przekształca jednorazowy gest w narrację: *"jestem wieloletnim wspierającym tej organizacji"*. Cykliczne dawanie jest silniej powiązane z tożsamością społeczną niż z częstotliwością próśb (GivingPulse 2025). Osoby poniżej 35 roku życia dają miesięcznie w **36% przypadków** — więcej niż jakikolwiek starszy segment.
 
 **3. Proxy Trust (zaufanie przeniesione) — zaufanie jako transfer tożsamości**
-Edelman Trust Barometer 2025: młodsze pokolenia ufają instytucjom na poziomie **20%**, ale znajomym — **88%**. Gdy osoba z kręgu kontaktów ręczy za organizację, nie przekazuje tylko informacji — transferuje swoje zaufanie i tożsamość ("ja jestem kimś, kto wspiera X, więc ty też możesz"). Peer-to-peer fundraising (fundraising rówieśniczy) to nie taktyka dystrybucji — to mechanizm tożsamościowy. Wiadomość od znajomego osiąga **ponad 50% konwersji** vs kilka procent dla emaila instytucjonalnego.
+Edelman Trust Barometer 2025: młodsze pokolenia ufają instytucjom na poziomie **20%**, ale znajomym — **88%**. Gdy osoba z kręgu kontaktów ręczy za organizację, nie przekazuje tylko informacji — transferuje swoje zaufanie i tożsamość ("ja jestem kimś, kto wspiera X, więc ty też możesz"). Peer-to-peer fundraising (fundraising rówieśniczy) to nie taktyka dystrybucji — to mechanizm tożsamościowy. Wiadomość od znajomego osiąga **ponad 50% konwersji** vs kilka procent dla emaila instytucjonalnego. *Akt. 2026-08-17 (edycja 2026 Barometru):* kierunek potwierdzony i zaostrzony — zaufanie przesuwa się ku „bliskim kręgom" (sąsiedzi, rodzina, znajomi, współpracownicy), przy najgłębszym spadku zaufania do liderów rządowych (**–16 pkt**); **7 na 10** badanych deklaruje niechęć do ufania osobom o innych wartościach, pochodzeniu lub źródłach informacji, a **tylko 32%** wierzy, że następnemu pokoleniu będzie się żyło lepiej. Dla mechanizmu tożsamościowego to zastrzeżenie, nie wzmocnienie: rekomendacja rówieśnicza działa **wewnątrz** zamykającego się kręgu, więc P2P coraz skuteczniej pogłębia istniejącą bazę, a coraz słabiej wychodzi poza nią.
 
 **4. "Brzydka transparentność" jako potwierdzenie tożsamości**
 W epoce perfekcyjnego contentu AI, niedoskonałość buduje wiarygodność. Darczyńca, który czuje się częścią misji, potrzebuje potwierdzenia, że organizacja jest *prawdziwa*. Surowe wideo nagrane telefonem, uczciwy raport o trudnościach, tłumaczenie kosztów administracyjnych językiem ludzkich historii — to sygnały, które mówią: *"twoje wsparcie trafia do prawdziwych ludzi, nie do korporacyjnej maszyny"*. **38% Polaków** przestało pomagać z powodu niejasności finansowych (Pomagam.pl 2026) — ale za tym kryje się coś głębszego: niejasność niszczy narrację darczyńcy o własnej sprawczości.
@@ -85,7 +85,7 @@ Pełne rozwinięcie tych różnic — z danymi o medianie daru, retencji, kanał
 
 ## Powiązane pojęcia
 
-- [[2026-06-15 Pokolenia darczyńców]] — rozkład tożsamości dawania na konkretne kohorty (Gen Z / Millenialsi / Gen X / Boomers) z danymi o kwocie, retencji i kanale; różnice generacyjne jako wymiar tej samej mechaniki
+- [[2026-06-15 Pokolenia darczyńców|Pokolenia darczyńców]] — rozkład tożsamości dawania na konkretne kohorty (Gen Z / Millenialsi / Gen X / Boomers) z danymi o kwocie, retencji i kanale; różnice generacyjne jako wymiar tej samej mechaniki
 - [[2026-06-12 Recurring giving|Recurring giving]] (dawanie cykliczne) — mechanizm finansowy, który wzmacnia tożsamość darczyńcy przez regularność
 - [[2026-06-13 Peer-to-peer fundraising|Peer-to-peer fundraising]] (fundraising rówieśniczy) — kanał, w którym tożsamość transferuje się przez sieć społeczną
 - [[2026-06-13 Pledge program|Pledge program]] (program zobowiązań) — narzędzie formalizacji tożsamości filantropicznej
@@ -94,14 +94,14 @@ Pełne rozwinięcie tych różnic — z danymi o medianie daru, retencji, kanał
 
 ---
 
-## Zastosowanie w kontekście NGO
+## Zastosowanie w kontekście organizacji społecznych
 
 - **Komunikaty powinny wzmacniać tożsamość, nie prosić o pieniądze.** Zamiast "pomóż nam", ramy: "jesteś częścią wspólnoty, która zmienia X" — a darowizna to naturalny wyraz tej tożsamości.
 - **Pierwsze podziękowanie jest krytyczne.** To moment, w którym jednorazowy darczyńca staje się (lub nie) częścią narracji o sobie. Szansa na odzyskanie utraconego darczyńcy wynosi tylko **2%** — bo utrata relacji to utrata tożsamości.
 - **Welcome series jako budowa tożsamości, nie powitanie.** [[Chive Charities]] osiągnęło **98% retencji** miesięcznej (vs. branżowe 40–45%) trzy­mailową serią, której pierwszy mail nie dziękuje, lecz *wzmacnia tożsamość darczyńcy cyklicznego* („witaj w świętej przestrzeni"), oraz odręcznymi kartkami przy każdej zmianie poziomu daru (z imieniem, łączną kwotą, liczbą wspartych spraw). Wniosek: retencja zależy od jakości relacji, nie od częstotliwości apeli.
 - **Reframe komunikatu otwierającego.** Zamiast *„potrzebujemy pomocy"* → *„tu jest twoje miejsce"*; przy upgrade'cie roli formuła *„Would you consider…?"* jako nieagresywne otwarcie rozmowy o większym darze z długoletnim darczyńcą.
 - **Segmentacja przez wartości, nie demografię.** Pytanie nie brzmi "ile ma lat", lecz "przez co buduje poczucie przynależności". Boomers przez lojalność i rytual, Gen Z przez rekomendacje i sprawczość.
-- **58,6% stałych darczyńców zaczęło bez prośby NGO** (Neon One 2026) — to darczyńcy, którzy sami uznali darowizny za część tożsamości. To właśnie powinna pielęgnować organizacja.
+- **58,6% stałych darczyńców zaczęło bez prośby organizacji** (Neon One 2026) — to darczyńcy, którzy sami uznali darowizny za część tożsamości. To właśnie powinna pielęgnować organizacja.
 
 ---
 
@@ -110,4 +110,4 @@ Pełne rozwinięcie tych różnic — z danymi o medianie daru, retencji, kanał
 - Gdzie jest granica między wzmacnianiem tożsamości a manipulacją tożsamością darczyńcy?
 - Jak mierzyć siłę identyfikacji darczyńcy z organizacją poza retencją i LTV?
 - Czy "purpose fatigue" to zmęczenie sprawami czy zmęczenie fałszywą tożsamością, którą organizacje próbują narzucić?
-- Jak AI w komunikacji NGO wpłynie na wiarygodność tożsamościową — jeśli darczyńca wie, że dostał automat, czy tożsamość wciąż się buduje?
+- Jak AI w komunikacji organizacji społecznych wpłynie na wiarygodność tożsamościową — jeśli darczyńca wie, że dostał automat, czy tożsamość wciąż się buduje?

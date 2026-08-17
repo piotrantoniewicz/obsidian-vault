@@ -24,4 +24,4 @@ Newsletter Moodboard prezentuje gotowy „AI-ism Elimination Add-on" — checkli
 > „Stawiaj na jasność i rytm ponad pomysłowością — czyste, pewne zdania, które brzmią ludzko, a nie nadmiernie wypolerowane."
 
 ## Zastosowanie
-Checklist można wbudować jako standardowy element promptów systemowych w projektach [[Claude]] dla klientów kursów i szkoleń — eliminuje konieczność każdorazowego sprawdzania stylu wygenerowanych materiałów edukacyjnych.
+Checklist można wbudować jako standardowy element promptów systemowych w projektach [[Claude AI|Claude]] dla klientów kursów i szkoleń — eliminuje konieczność każdorazowego sprawdzania stylu wygenerowanych materiałów edukacyjnych.

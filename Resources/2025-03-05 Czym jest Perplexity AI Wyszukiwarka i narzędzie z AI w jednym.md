@@ -17,7 +17,7 @@ tags:
 ---
 # Czym jest Perplexity AI? Wyszukiwarka i narzędzie z AI w jednym
 
-[[Perplexity AI]] to narzędzie łączące wyszukiwarkę internetową z możliwościami dużych modeli językowych ([[LLM]]), które zamiast klasycznej listy wyników oferuje tekstowe odpowiedzi z przypisami do źródeł. W odróżnieniu od [[ChatGPT]] skupia się przede wszystkim na wyszukiwaniu i przetwarzaniu informacji, a nie na szerokich zastosowaniach konwersacyjnych. Narzędzie umożliwia filtrowanie źródeł według typu (web, naukowe, społeczności) i oferuje funkcję Deep Research do autonomicznego generowania kompleksowych raportów ze źródeł. Bezpłatna wersja ma ograniczone limity dzienne, wersja Pro (20$/mies.) daje dostęp do większej liczby modeli, w tym [[Claude]] i GPT-4o.
+[[Perplexity AI]] to narzędzie łączące wyszukiwarkę internetową z możliwościami dużych modeli językowych ([[LLM]]), które zamiast klasycznej listy wyników oferuje tekstowe odpowiedzi z przypisami do źródeł. W odróżnieniu od [[ChatGPT]] skupia się przede wszystkim na wyszukiwaniu i przetwarzaniu informacji, a nie na szerokich zastosowaniach konwersacyjnych. Narzędzie umożliwia filtrowanie źródeł według typu (web, naukowe, społeczności) i oferuje funkcję Deep Research do autonomicznego generowania kompleksowych raportów ze źródeł. Bezpłatna wersja ma ograniczone limity dzienne, wersja Pro (20$/mies.) daje dostęp do większej liczby modeli, w tym [[Claude AI|Claude]] i GPT-4o.
 
 ## Frameworki i metody
 - **Tryby wyszukiwania (Focus)** — filtry zawężające wyniki do wybranych źródeł: Web (cały internet), Naukowe (otwarte bazy danych), Społeczności (Reddit i fora). Każdy tryb generuje podsumowanie z przypisami zamiast listy linków.

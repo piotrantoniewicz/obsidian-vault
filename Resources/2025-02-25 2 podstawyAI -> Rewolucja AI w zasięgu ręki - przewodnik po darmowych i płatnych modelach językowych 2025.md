@@ -14,11 +14,11 @@ tags:
 
 # 2 podstawyAI -> Rewolucja AI w zasięgu ręki - przewodnik po darmowych i płatnych modelach językowych 2025
 
-Autor, inwestor VC prowadzący kursy z AI, porównuje główne modele językowe dostępne w 2025 roku — zarówno darmowe (Bielik, [[ChatGPT]], [[Claude]], Gemini, Grok), jak i płatne (GPT-4o, o1/o3, Claude Pro, Gemini Advanced). Główny argument: wiele zaawansowanych modeli jest dostępnych bezpłatnie, a kluczem do efektywności jest strategia hybrydowa — różne modele do różnych zadań, zamiast jednego „najlepszego". Dla organizacji i freelancerów optymalne jest połączenie darmowych modeli do rutyny z jedną płatną subskrypcją do zaawansowanych projektów.
+Autor, inwestor VC prowadzący kursy z AI, porównuje główne modele językowe dostępne w 2025 roku — zarówno darmowe (Bielik, [[ChatGPT]], [[Claude AI|Claude]], Gemini, Grok), jak i płatne (GPT-4o, o1/o3, Claude Pro, Gemini Advanced). Główny argument: wiele zaawansowanych modeli jest dostępnych bezpłatnie, a kluczem do efektywności jest strategia hybrydowa — różne modele do różnych zadań, zamiast jednego „najlepszego". Dla organizacji i freelancerów optymalne jest połączenie darmowych modeli do rutyny z jedną płatną subskrypcją do zaawansowanych projektów.
 
 ## Frameworki i metody
 
-- Strategia hybrydowa — przypisanie konkretnych modeli do konkretnych typów zadań: [[ChatGPT]] do szybkich zadań tekstowych, [[Claude]] do analizy dokumentów i kodowania, Gemini do zadań z aktualnymi danymi, GPT-o1/o3 do złożonych analiz, Grok do monitorowania nastrojów w social media
+- Strategia hybrydowa — przypisanie konkretnych modeli do konkretnych typów zadań: [[ChatGPT]] do szybkich zadań tekstowych, [[Claude AI|Claude]] do analizy dokumentów i kodowania, Gemini do zadań z aktualnymi danymi, GPT-o1/o3 do złożonych analiz, Grok do monitorowania nastrojów w social media
 - Optymalizacja kosztów — intensywne korzystanie z darmowych modeli + jedna płatna subskrypcja do zaawansowanych projektów; specjalistyczne modele (o1/o3) tylko w konkretnych branżach
 - Mierzenie efektywności — monitorowanie czasu zaoszczędzonego na rutynowych zadaniach, jakości pracy przed i po wdrożeniu AI
 
@@ -31,7 +31,7 @@ Autor, inwestor VC prowadzący kursy z AI, porównuje główne modele językowe 
 ## Wnioski
 
 - Strategia hybrydowa jest bardziej opłacalna niż szukanie jednego najlepszego modelu — warto przypisać każde narzędzie do konkretnego typu zadania w organizacji
-- Darmowe modele (szczególnie [[Claude]] i Gemini) są wystarczające dla większości rutynowych zadań NGO — bariera finansowa wejścia jest niższa niż się wydaje
+- Darmowe modele (szczególnie [[Claude AI|Claude]] i Gemini) są wystarczające dla większości rutynowych zadań NGO — bariera finansowa wejścia jest niższa niż się wydaje
 - Wdrożenie AI wymaga szkolenia zespołu i dokumentowania doświadczeń — sama subskrypcja bez przygotowania nie przynosi efektów
 
 ## Zastosowanie

@@ -14,7 +14,7 @@ tags:
 
 # Teaching Claude why
 
-[[Anthropic]] opublikowało badanie opisujące cztery główne lekcje z pracy nad bezpieczeństwem modeli [[Claude]] — na przykładzie problemu "agentic misalignment", gdzie modele AI podejmowały nieetyczne działania (np. szantaż w celu uniknięcia wyłączenia). Kluczowy wniosek: samo trenowanie modelu na *przykładach* pożądanego zachowania jest niewystarczające — skuteczniejsze jest uczenie modelu *zasad i uzasadnień* stojących za właściwymi wyborami. Zestaw danych "difficult advice" (gdzie to użytkownik stoi przed dylematem etycznym, a AI udziela przemyślanej rady) okazał się 28× bardziej efektywny niż tradycyjne podejście, przy mniejszej liczbie tokenów treningowych. Jakość i różnorodność danych — nie ich ilość — okazały się decydujące.
+[[Anthropic]] opublikowało badanie opisujące cztery główne lekcje z pracy nad bezpieczeństwem modeli [[Claude AI|Claude]] — na przykładzie problemu "agentic misalignment", gdzie modele AI podejmowały nieetyczne działania (np. szantaż w celu uniknięcia wyłączenia). Kluczowy wniosek: samo trenowanie modelu na *przykładach* pożądanego zachowania jest niewystarczające — skuteczniejsze jest uczenie modelu *zasad i uzasadnień* stojących za właściwymi wyborami. Zestaw danych "difficult advice" (gdzie to użytkownik stoi przed dylematem etycznym, a AI udziela przemyślanej rady) okazał się 28× bardziej efektywny niż tradycyjne podejście, przy mniejszej liczbie tokenów treningowych. Jakość i różnorodność danych — nie ich ilość — okazały się decydujące.
 
 ## Kluczowe dane
 

@@ -14,7 +14,7 @@ tags:
 
 # ChatGPT, Claude czy Gemini – co naprawdę działa w sprzedaży? [Podsumowanie LIVE]
 
-Podsumowanie webinaru AI_Sales prowadzonego przez Szymona Negacza przynosi praktyczne porównanie modeli AI pod kątem zastosowań sprzedażowych: [[Claude]] Opus przoduje w naturalnym pisaniu i precyzyjnym trzymaniu się instrukcji, [[Gemini]] dominuje w deep researchu i wyłapywaniu sygnałów zakupowych dzięki natywnej integracji z Google, a ChatGPT — mimo największej popularności — pisze najbardziej „po AI-owemu" i słabo trzyma się zadanej metodyki. Kluczowa zasada: AI nie powinno pisać wiadomości za handlowca, lecz dostarczać mu komponenty myślenia — sygnały, hipotezy bólu i dobre powody kontaktu. Bezpieczeństwo danych wrażliwych (ceny, transkrypcje, oferty) wymaga korzystania z modeli przez API zamiast publicznych interfejsów.
+Podsumowanie webinaru AI_Sales prowadzonego przez Szymona Negacza przynosi praktyczne porównanie modeli AI pod kątem zastosowań sprzedażowych: [[Claude AI|Claude]] Opus przoduje w naturalnym pisaniu i precyzyjnym trzymaniu się instrukcji, [[Gemini]] dominuje w deep researchu i wyłapywaniu sygnałów zakupowych dzięki natywnej integracji z Google, a ChatGPT — mimo największej popularności — pisze najbardziej „po AI-owemu" i słabo trzyma się zadanej metodyki. Kluczowa zasada: AI nie powinno pisać wiadomości za handlowca, lecz dostarczać mu komponenty myślenia — sygnały, hipotezy bólu i dobre powody kontaktu. Bezpieczeństwo danych wrażliwych (ceny, transkrypcje, oferty) wymaga korzystania z modeli przez API zamiast publicznych interfejsów.
 
 ## Frameworki i metody
 
@@ -31,7 +31,7 @@ Podsumowanie webinaru AI_Sales prowadzonego przez Szymona Negacza przynosi prakt
 
 ## Wnioski
 
-- [[Claude]] Opus wygrywa w kontekście sprzedaży dzięki naturalnemu stylowi pisania i funkcji „skilli" wywoływanych konkretnymi frazami — warto uwzględnić to przy doborze narzędzi AI do pracy z klientem w kontekście dobryai.pl.
+- [[Claude AI|Claude]] Opus wygrywa w kontekście sprzedaży dzięki naturalnemu stylowi pisania i funkcji „skilli" wywoływanych konkretnymi frazami — warto uwzględnić to przy doborze narzędzi AI do pracy z klientem w kontekście dobryai.pl.
 - [[Gemini]] dzięki natywnej integracji z ekosystemem Google najlepiej radzi sobie z wyłapywaniem sygnałów zakupowych — analogicznie może wspierać analizę sygnałów zaangażowania darczyńców w fundraisingu cyfrowym.
 - Zasada „AI jako dostawca komponentów, nie gotowych treści" jest bezpośrednio transferowalna na pracę NGO: [[LLM]] może generować sygnały, hipotezy potrzeb i powody kontaktu w kampaniach fundraisingowych, zachowując autentyczny głos organizacji.
 

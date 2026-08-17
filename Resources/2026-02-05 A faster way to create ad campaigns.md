@@ -18,7 +18,7 @@ Ryan Carr opisuje 4-krokowy workflow do generowania całej kampanii reklamowej w
 
 ## Wnioski
 - Meta-prompt jako „creative director" generuje 8 spójnych konceptów reklamowych naraz, każdy z innym angle'em wartości — zamiast chaotycznej kolekcji jednorazowych prób.
-- Pętla iteracji działa na poziomie całej kampanii: jedna uwaga w [[Claude]] aktualizuje wszystkie 8 promptów jednocześnie, [[Flora]] generuje nową partię w kilka sekund.
+- Pętla iteracji działa na poziomie całej kampanii: jedna uwaga w [[Claude AI|Claude]] aktualizuje wszystkie 8 promptów jednocześnie, [[Flora]] generuje nową partię w kilka sekund.
 - Pro tip: Claude może sam wypełnić pola kontekstu produktu i stylu, jeśli wcześniej nad nim pracowałeś — eliminuje to konieczność pisania briefa od zera.
 
 ## Cytat

@@ -20,7 +20,7 @@ Marcin Wilkowski omawia preprint *Same question, different history: language, na
 ## Kluczowe dane
 - Pytanie o wynalazcę ruchomej czcionki po chińsku: 98% odpowiedzi wskazuje Bi Shenga vs 79% w innych językach (różnica 19 p.p.)
 - Aleksandr Popow jako wynalazca radia: 85% wskazań po rosyjsku vs 48% w innych językach
-- Badanie objęło 11 modeli (m.in. [[GPT-4o]], [[Claude]], [[Gemini]], [[DeepSeek]], [[Qwen]], [[Mistral]]) z trzech regionów (USA, Chiny, Europa), 21 wynalazków i 12 języków
+- Badanie objęło 11 modeli (m.in. [[GPT-4o]], [[Claude AI|Claude]], [[Gemini]], [[DeepSeek]], [[Qwen]], [[Mistral]]) z trzech regionów (USA, Chiny, Europa), 21 wynalazków i 12 języków
 
 ## Wnioski
 - Stronniczość językowa LLM-ów nie jest przypadkowa — odzwierciedla nierównomierną obecność postaci historycznych w tekstach narodowych, co można wykorzystać jako wskaźnik kulturowej pamięci, a nie tylko jako wadę do usunięcia.

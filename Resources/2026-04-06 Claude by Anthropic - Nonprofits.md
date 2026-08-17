@@ -15,7 +15,7 @@ tags:
 ---
 # Claude by Anthropic — Nonprofits
 
-[[Anthropic]] uruchomił dedykowaną ofertę [[Claude]] dla organizacji pozarządowych — plan Team w cenie $8/użytkownika/miesiąc z integracjami narzędzi typowych dla sektora NGO (Blackbaud, Benevity, Candid) oraz bezpłatnym kursem AI Fluency for Nonprofits. Strona prezentuje case studies ponad 10 organizacji (IRC, Robin Hood Foundation, IDinsight, World Vision, YMCA) dokumentujące konkretne efekty wdrożenia Claude: od 16x szybszego przygotowania ankiet po tworzenie wniosków grantowych w godzinach zamiast dni. Oferta pozycjonuje Claude jako narzędzie demokratyzujące dostęp NGO do zaawansowanych zdolności AI bez konieczności dużych zespołów technicznych.
+[[Anthropic]] uruchomił dedykowaną ofertę [[Claude AI|Claude]] dla organizacji pozarządowych — plan Team w cenie $8/użytkownika/miesiąc z integracjami narzędzi typowych dla sektora NGO (Blackbaud, Benevity, Candid) oraz bezpłatnym kursem AI Fluency for Nonprofits. Strona prezentuje case studies ponad 10 organizacji (IRC, Robin Hood Foundation, IDinsight, World Vision, YMCA) dokumentujące konkretne efekty wdrożenia Claude: od 16x szybszego przygotowania ankiet po tworzenie wniosków grantowych w godzinach zamiast dni. Oferta pozycjonuje Claude jako narzędzie demokratyzujące dostęp NGO do zaawansowanych zdolności AI bez konieczności dużych zespołów technicznych.
 
 ## Kluczowe dane
 

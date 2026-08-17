@@ -33,7 +33,7 @@ Cat Wu, Head of Product dla [[Claude Code]] i [[Cowork]] w [[Anthropic]], opisuj
 ## Wnioski
 
 - **Product taste** — umiejętność decydowania co budować, nie jak budować — staje się najcenniejszą kompetencją PM-a, gdy kod jest coraz tańszy do napisania
-- Charakter i osobowość [[Claude]]'a (niskie ego, pozytywność, bias toward action, konstruktywny feedback) są fundamentem jego sukcesu — nie ozdobnikiem, lecz składnikiem funkcjonalnym
+- Charakter i osobowość [[Claude AI|Claude]]'a (niskie ego, pozytywność, bias toward action, konstruktywny feedback) są fundamentem jego sukcesu — nie ozdobnikiem, lecz składnikiem funkcjonalnym
 - Automatyzacja ma wartość tylko gdy działa w 100% — zatrzymanie się na 95% skuteczności oznacza, że nadal potrzebujesz człowieka w pętli, co neguje cel
 
 ## Zastosowanie

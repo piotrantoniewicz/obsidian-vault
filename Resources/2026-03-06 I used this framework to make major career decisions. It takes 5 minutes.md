@@ -14,7 +14,7 @@ tags:
 
 # I used this framework to make major career decisions. It takes 5 minutes.
 
-Newsletter Five Prompts prezentuje dwa frameworki ułatwiające podejmowanie decyzji — prompt oparty na oczekiwanej wartości oraz model "one-way/two-way door" wywodzący się z praktyki korporacyjnej (Disney, Bank of America). Centralną tezą jest rozróżnienie między decyzjami odwracalnymi, które wymagają szybkości działania, a nieodwracalnymi, które zasługują na głębszą analizę. Autor pokazuje też, jak [[Claude]] wypiera [[ChatGPT]] w jego własnym workflow jako narzędzie bardziej nastawione na rozumowanie strategiczne.
+Newsletter Five Prompts prezentuje dwa frameworki ułatwiające podejmowanie decyzji — prompt oparty na oczekiwanej wartości oraz model "one-way/two-way door" wywodzący się z praktyki korporacyjnej (Disney, Bank of America). Centralną tezą jest rozróżnienie między decyzjami odwracalnymi, które wymagają szybkości działania, a nieodwracalnymi, które zasługują na głębszą analizę. Autor pokazuje też, jak [[Claude AI|Claude]] wypiera [[ChatGPT]] w jego własnym workflow jako narzędzie bardziej nastawione na rozumowanie strategiczne.
 
 ## Frameworki i metody
 
@@ -25,7 +25,7 @@ Newsletter Five Prompts prezentuje dwa frameworki ułatwiające podejmowanie dec
 
 - [[Prompt engineering]] w służbie decyzji strategicznych pozwala skrócić czas agonizowania z miesięcy do minut — warto wbudować podobne prompty w standardowy proces planowania projektów z organizacjami pozarządowymi.
 - Framework two-way/one-way door bezpośrednio przekłada się na pracę z organizacjami: większość decyzji w [[fundraising]]u (nowy kanał, format kampanii, CTA) to two-way doors — warto to uświadamiać klientom, by nie blokowali testowania.
-- Migracja autora z [[ChatGPT]] do [[Claude]] i opis różnicy ("Claude reasons through strategy, not just generates content") to dobry argument w szkoleniach z AI dla NGO pokazujący, dlaczego dobór narzędzia ma znaczenie.
+- Migracja autora z [[ChatGPT]] do [[Claude AI|Claude]] i opis różnicy ("Claude reasons through strategy, not just generates content") to dobry argument w szkoleniach z AI dla NGO pokazujący, dlaczego dobór narzędzia ma znaczenie.
 
 ## Cytat
 

@@ -14,11 +14,11 @@ tags:
 
 # How to write emails people actually read
 
-Ryan Carr (Moodboard) przekonuje, że newsletter nie musi być za każdym razem 2000-słowowym opracowaniem — taki styl jest niezrównoważony i tak czy inaczej mało kto go przeczyta. Proponuje prostszy standard każdej wysyłki: maksimum wartości przy minimum słów, prowadzące do jednego wezwania do działania. Do wdrożenia tej zasady udostępnia gotowy prompt/skill do [[Claude]], który z pięciominutowego nagranego „rambla" i wskazanego produktu/oferty tworzy krótki mail poniżej 250 słów wraz z propozycjami tematów.
+Ryan Carr (Moodboard) przekonuje, że newsletter nie musi być za każdym razem 2000-słowowym opracowaniem — taki styl jest niezrównoważony i tak czy inaczej mało kto go przeczyta. Proponuje prostszy standard każdej wysyłki: maksimum wartości przy minimum słów, prowadzące do jednego wezwania do działania. Do wdrożenia tej zasady udostępnia gotowy prompt/skill do [[Claude AI|Claude]], który z pięciominutowego nagranego „rambla" i wskazanego produktu/oferty tworzy krótki mail poniżej 250 słów wraz z propozycjami tematów.
 
 ## Frameworki i metody
 - **Zasada prostego newslettera** — każda wysyłka ma dostarczyć jak najwięcej wartości jak najzwięźlej i prowadzić do jednego CTA, zamiast być wielodniowym projektem researchowym
-- **Bulletproof Email Skill** — prompt do [[Claude]] przyjmujący dwa wejścia: (1) transkrypcję 5-minutowego swobodnego nagrania na jeden konkretny temat (np. z [[Wispr Flow]]), (2) produkt/ofertę docelową; w efekcie generuje mail <250 słów, 3 warianty tematu maila i tekst podglądu (preview text)
+- **Bulletproof Email Skill** — prompt do [[Claude AI|Claude]] przyjmujący dwa wejścia: (1) transkrypcję 5-minutowego swobodnego nagrania na jeden konkretny temat (np. z [[Wispr Flow]]), (2) produkt/ofertę docelową; w efekcie generuje mail <250 słów, 3 warianty tematu maila i tekst podglądu (preview text)
 
 ## Kluczowe dane
 - Docelowa długość maila: poniżej 250 słów
@@ -26,7 +26,7 @@ Ryan Carr (Moodboard) przekonuje, że newsletter nie musi być za każdym razem 
 
 ## Wnioski
 - Krótsza, zwięzła forma newslettera zwiększa szansę na przeczytanie i jest bardziej zrównoważona niż długie, rzadkie „opracowania" — istotne przy prowadzeniu kursu mailowego dla organizacji społecznych
-- Narzędzia do transkrypcji mowy jak [[Wispr Flow]] w połączeniu z promptem do [[Claude]] pozwalają szybko zamienić luźny pomysł w gotowy do wysyłki mail — użyteczne w pracy ghostwriterskiej
+- Narzędzia do transkrypcji mowy jak [[Wispr Flow]] w połączeniu z promptem do [[Claude AI|Claude]] pozwalają szybko zamienić luźny pomysł w gotowy do wysyłki mail — użyteczne w pracy ghostwriterskiej
 - Format „wartość + jedno CTA" sprawdza się też jako wzorzec dla e-maili fundraisingowych czy komunikacji digital campaigning, gdzie liczy się konkretne wezwanie do działania
 
 ## Cytat

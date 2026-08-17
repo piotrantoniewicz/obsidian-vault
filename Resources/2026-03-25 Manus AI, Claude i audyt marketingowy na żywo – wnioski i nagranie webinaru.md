@@ -14,7 +14,7 @@ tags:
 
 # Manus AI, Claude i audyt marketingowy na żywo – wnioski i nagranie webinaru
 
-Newsletter podsumowujący live audyt marketingowy przeprowadzony przez Artura Jabłońskiego z AI Marketers. Prezentuje konkretne wnioski dotyczące efektywnego stosowania narzędzi AI w marketingu — ze szczególnym uwzględnieniem [[Claude]] Cowork i Manus AI. Kluczowym przesłaniem jest, że AI powinno amplifikować proces myślowy, nie zastępować go, a właściwe frameworki są warunkiem koniecznym do uzyskania wartościowych wyników. Newsletter zawiera też praktyczne wskazówki dotyczące strategii contentowej i SEO.
+Newsletter podsumowujący live audyt marketingowy przeprowadzony przez Artura Jabłońskiego z AI Marketers. Prezentuje konkretne wnioski dotyczące efektywnego stosowania narzędzi AI w marketingu — ze szczególnym uwzględnieniem [[Claude Cowork]] i Manus AI. Kluczowym przesłaniem jest, że AI powinno amplifikować proces myślowy, nie zastępować go, a właściwe frameworki są warunkiem koniecznym do uzyskania wartościowych wyników. Newsletter zawiera też praktyczne wskazówki dotyczące strategii contentowej i SEO.
 
 ## Frameworki i metody
 
@@ -32,7 +32,7 @@ Newsletter podsumowujący live audyt marketingowy przeprowadzony przez Artura Ja
 
 ## Wnioski
 
-- [[Claude]] Cowork z połączeniami [[MCP]] do narzędzi takich jak [[Ahrefs]] pochłania mniej tokenów niż agent przeglądarkowy — to ważna przewaga przy zaawansowanej pracy strategicznej i audytach SEO dla klientów NGO
+- [[Claude Cowork]] z połączeniami [[MCP]] do narzędzi takich jak [[Ahrefs]] pochłania mniej tokenów niż agent przeglądarkowy — to ważna przewaga przy zaawansowanej pracy strategicznej i audytach SEO dla klientów NGO
 - Budowanie własnych Skilli pozwala "nagrać" indywidualną metodologię do maszyny i uruchamiać całe procesy (np. audyt marketingowy) jednym poleceniem — bezpośrednio użyteczne przy pracy z [[dobryai.pl]] i szkoleniach AI
 - [[Manus AI]] sprawdza się przy zadaniach wymagających samodzielnego "wyklikania" działań w przeglądarce (np. przeszukiwanie Biblioteki Reklam Mety, zbieranie case studies) — uzupełnia możliwości Claude przy bardziej operacyjnym researchu
 

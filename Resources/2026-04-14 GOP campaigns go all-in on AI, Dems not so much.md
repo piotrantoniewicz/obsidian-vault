@@ -14,11 +14,11 @@ tags:
 
 # GOP campaigns go all-in on AI, Dems not so much
 
-Artykuł Axios opisuje przepaść w adopcji AI między kampaniami republikańskimi a demokratycznymi w wyborach midterm 2026 w USA. Republikanie korzystają z narzędzi takich jak Aaru (symulacja postaw wyborców), MiroFish (prognozowanie opinii publicznej) i EyesOver (skanowanie mediów społecznościowych), podczas gdy Demokraci pozostają sceptyczni — DNC zakazał używania [[ChatGPT]] i [[Claude]], zezwalając jedynie na [[Gemini]] do kodowania i analizy danych. Artykuł wskazuje też na ryzyko AI w kampaniach: deepfaki i "AI slop" mogą wywołać efekt odwrotny do zamierzonego, podważając zaufanie wyborców.
+Artykuł Axios opisuje przepaść w adopcji AI między kampaniami republikańskimi a demokratycznymi w wyborach midterm 2026 w USA. Republikanie korzystają z narzędzi takich jak Aaru (symulacja postaw wyborców), MiroFish (prognozowanie opinii publicznej) i EyesOver (skanowanie mediów społecznościowych), podczas gdy Demokraci pozostają sceptyczni — DNC zakazał używania [[ChatGPT]] i [[Claude AI|Claude]], zezwalając jedynie na [[Gemini]] do kodowania i analizy danych. Artykuł wskazuje też na ryzyko AI w kampaniach: deepfaki i "AI slop" mogą wywołać efekt odwrotny do zamierzonego, podważając zaufanie wyborców.
 
 ## Kluczowe dane
 - 64% konsultantów republikańskich używa AI codziennie w pracy vs. 49% demokratycznych (AAPC, 2026)
-- DNC zakazał pracownikom używania [[ChatGPT]] i [[Claude]]; zezwala na [[Gemini]] do kodowania i analizy
+- DNC zakazał pracownikom używania [[ChatGPT]] i [[Claude AI|Claude]]; zezwala na [[Gemini]] do kodowania i analizy
 
 ## Wnioski
 - Adopcja AI w kampaniach politycznych staje się czynnikiem przewagi strategicznej — narzędzia do symulacji postaw wyborców i monitorowania trendów są szybsze i tańsze niż tradycyjne badania.

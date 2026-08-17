@@ -43,7 +43,7 @@ sources:
 **1. Trzy ryzyka kanału wynajętego**
 Zasób wynajęty znika na trzy sposoby, niezależne od jakości treści:
 - **Zmiana algorytmu** — zasięg organiczny topnieje bez decyzji organizacji. Tylko **7% czasu na Instagramie i 17% na Facebooku** to dziś treści od znajomych/obserwowanych; reszta to algorytmiczne wideo. Followers ≠ dotarcie.
-- **Zmiana polityki/funkcji** — platforma wycofuje to, na czym oparłeś komunikację: X likwiduje **Communities** (zarządzane grupy) na rzecz algorytmicznych Custom Timelines Groka; Meta **kończy reklamy polityczne, wyborcze i „social issue" w UE** (uderza wprost w advocacy NGO); Meta **rezygnuje z fact-checkerów**, zmieniając środowisko informacyjne pod nogami organizacji.
+- **Zmiana polityki/funkcji** — platforma wycofuje to, na czym oparłeś komunikację: X likwiduje **Communities** (zarządzane grupy) na rzecz algorytmicznych Custom Timelines Groka; Meta **kończy reklamy polityczne, wyborcze i „social issue" w UE** (uderza wprost w advocacy organizacji społecznych); Meta **rezygnuje z fact-checkerów**, zmieniając środowisko informacyjne pod nogami organizacji.
 - **Ban / likwidacja platformy** — całkowita utrata relacji z dnia na dzień, bez prawa do eksportu.
 
 **2. Asymetria zasobu: trwałość i przenośność**
@@ -58,7 +58,7 @@ Niezależnie od fundraisingu, owned audience to **strukturalne zabezpieczenie** 
 Pułapką jest czytanie tej zasady jako „rzuć social media". Publiczność (zwłaszcza młodsza) realnie *jest* na platformach — kanał wynajęty pełni funkcję **szczytu lejka** (odkrycie, zasięg, pierwszy kontakt), którego zadaniem jest **migracja relacji do kanału własnego**. Social media działa jako narzędzie pozyskania, nie jako miejsce przechowywania relacji. Stąd kryterium oceny platformy nie brzmi „ile mamy followersów", lecz „ilu z nich przeprowadziliśmy na listę".
 
 **5. Pułapka metryki wynajętej**
-Uzależnienie od kanału wynajętego deformuje też pomiar: organizacje **mierzą sukces liczbą followersów, nie jakością zaangażowania**, i pozwalają, by „algorytm był wyznacznikiem misji" (jedna z 5 pułapek NGO wg The Nonprofit Hive). Przejście na owned audience to także przejście na **własne reguły i własne dane** zamiast korporacyjnych benchmarków i logiki „postuj więcej".
+Uzależnienie od kanału wynajętego deformuje też pomiar: organizacje **mierzą sukces liczbą followersów, nie jakością zaangażowania**, i pozwalają, by „algorytm był wyznacznikiem misji" (jedna z 5 pułapek organizacji społecznych wg The Nonprofit Hive). Przejście na owned audience to także przejście na **własne reguły i własne dane** zamiast korporacyjnych benchmarków i logiki „postuj więcej".
 
 ---
 
@@ -111,14 +111,14 @@ Aktualizacja mech. 1 (trzy ryzyka kanału wynajętego) i mech. 8 (erozja zaufani
 
 ## Powiązane pojęcia
 
-- [[2026-06-15 Newsletter jako kanał]] — najważniejsza realizacja zasady: e-mail jako kanał własny. Ta strona to *dlaczego* (zarządzanie ryzykiem platform), tamta to *jak* (rzemiosło kanału). Czerwony link z Newslettera zrealizowany.
-- [[2026-06-14 Email deliverability]] — własny kanał ma wartość tylko, jeśli realnie dociera; posiadanie listy bez dostarczalności to aktyw martwy.
-- [[2026-06-23 Widoczność w AI search]] — drugie oblicze tej samej zależności: w erze zero-click ruch organiczny i z wyszukiwarek staje się jeszcze bardziej „wynajęty"; lista mailingowa to bufor niezależny od AI search.
-- [[2026-06-13 Stewardship]] / [[2026-06-12 Recurring giving]] — relacja długoterminowa z darczyńcą wymaga kanału, którego nikt nie może odciąć; owned audience to warunek infrastrukturalny retencji.
-- [[2026-06-13 Peer-to-peer fundraising]] — ciekawy kontrapunkt: P2P celowo *pożycza* publiczność ambasadora (proxy trust), ale przez własny system, nie przez platformę — pożyczasz zaufanie, nie tracąc kontroli nad kanałem.
-- [[2026-06-15 Pokolenia darczyńców]] — napięcie funnela: młodsze kohorty żyją w kanałach wynajętych; pytanie strategiczne brzmi, jak je stamtąd „przeprowadzić" do własnej bazy.
+- [[2026-06-15 Newsletter jako kanał|Newsletter jako kanał]] — najważniejsza realizacja zasady: e-mail jako kanał własny. Ta strona to *dlaczego* (zarządzanie ryzykiem platform), tamta to *jak* (rzemiosło kanału). Czerwony link z Newslettera zrealizowany.
+- [[2026-06-14 Email deliverability|Email deliverability]] — własny kanał ma wartość tylko, jeśli realnie dociera; posiadanie listy bez dostarczalności to aktyw martwy.
+- [[2026-06-23 Widoczność w AI search|Widoczność w AI search]] — drugie oblicze tej samej zależności: w erze zero-click ruch organiczny i z wyszukiwarek staje się jeszcze bardziej „wynajęty"; lista mailingowa to bufor niezależny od AI search.
+- [[2026-06-13 Stewardship|Stewardship]] / [[2026-06-12 Recurring giving|Recurring giving]] — relacja długoterminowa z darczyńcą wymaga kanału, którego nikt nie może odciąć; owned audience to warunek infrastrukturalny retencji.
+- [[2026-06-13 Peer-to-peer fundraising|Peer-to-peer fundraising]] — ciekawy kontrapunkt: P2P celowo *pożycza* publiczność ambasadora (proxy trust), ale przez własny system, nie przez platformę — pożyczasz zaufanie, nie tracąc kontroli nad kanałem.
+- [[2026-06-15 Pokolenia darczyńców|Pokolenia darczyńców]] — napięcie funnela: młodsze kohorty żyją w kanałach wynajętych; pytanie strategiczne brzmi, jak je stamtąd „przeprowadzić" do własnej bazy.
 - [[2026-07-07 Suwerenność technologiczna|Suwerenność technologiczna]] — szersza rama: niezależność od big techu i własność infrastruktury cyfrowej organizacji. Czerwony link zrealizowany.
-- [[2026-06-29 Higiena listy]] — własny kanał trzeba utrzymywać, by pozostał aktywem, a nie kosztem reputacji: suppression, segmentacja zaangażowania i świadome zarządzanie wypisaniami.
+- [[2026-06-29 Higiena listy|Higiena listy]] — własny kanał trzeba utrzymywać, by pozostał aktywem, a nie kosztem reputacji: suppression, segmentacja zaangażowania i świadome zarządzanie wypisaniami.
 - [[Mobilizacja cyfrowa]] — owned audience jako baza, z której uruchamia się działanie, nie tylko komunikację (czerwony link — backlog).
 
 ---
@@ -131,7 +131,7 @@ Aktualizacja mech. 1 (trzy ryzyka kanału wynajętego) i mech. 8 (erozja zaufani
 - **Funnel zamiast porzucenia**: nie odradzaj social media — zaprojektuj migrację (lead magnet, link do zapisu w bio/poście, welcome series). Metryką kampanii social staje się liczba nowych subskrybentów, nie zasięg.
 - **Plan wyjścia jako standard**: przy każdym narzędziu/platformie wymagaj eksportu listy i okresowego backupu kontaktów — zanim platforma zmieni reguły (procedura Śliwowskiego jako gotowy checklist).
 - **Moduł szkolenia / „Fundraising z AI"**: owned vs rented jako rama otwierająca strategię digital — od argumentu „lista to twój jedyny niezbywalny aktyw" po praktyczny wybór narzędzia z eksportem i pierwszy lead magnet dla konkretnej organizacji.
-- **Audyt klasyfikacji reklam Meta przed migracją kanałów (TTPA)**: gdy zakaz Meta w UE (rozporządzenie TTPA, 2025) dotyczy organizacji, pierwszym krokiem jest weryfikacja, czy reklamy rzeczywiście spełniają definicję „politycznych" wg Meta — wiele NGO nad-deklarowało status polityczny i może legalnie kontynuować po korekcie sformułowań. Dla reklam definitywnie objętych zakazem (odwołania do polityków, rządów, wyborów): reklamy petycji → [[Google Ads]]; organiczne FB/IG = nie stracone (algorytm TikTok-style daje nieznacznie wyższe zasięgi organiczne); alternatywy płatne: reklamy programatyczne (display), Acast (podcasty), Snapchat. Kluczowy wniosek: czekanie, że reklamy „nie zostaną wychwycone przez filtr", to nie strategia — plan awaryjny przygotowuj wyprzedzająco, nie w kryzysie. ([[2025-07-28 Meta Ads - Social Issues and political ads banned with EU Policy change]])
+- **Audyt klasyfikacji reklam Meta przed migracją kanałów (TTPA)**: gdy zakaz Meta w UE (rozporządzenie TTPA, 2025) dotyczy organizacji, pierwszym krokiem jest weryfikacja, czy reklamy rzeczywiście spełniają definicję „politycznych" wg Meta — wiele organizacji społecznych nad-deklarowało status polityczny i może legalnie kontynuować po korekcie sformułowań. Dla reklam definitywnie objętych zakazem (odwołania do polityków, rządów, wyborów): reklamy petycji → [[Google Ads]]; organiczne FB/IG = nie stracone (algorytm TikTok-style daje nieznacznie wyższe zasięgi organiczne); alternatywy płatne: reklamy programatyczne (display), Acast (podcasty), Snapchat. Kluczowy wniosek: czekanie, że reklamy „nie zostaną wychwycone przez filtr", to nie strategia — plan awaryjny przygotowuj wyprzedzająco, nie w kryzysie. ([[2025-07-28 Meta Ads - Social Issues and political ads banned with EU Policy change]])
 
 ---
 

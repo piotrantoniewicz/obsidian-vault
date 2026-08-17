@@ -39,4 +39,4 @@ tags:
 
 ## Zastosowanie
 
-Dla Piotra najbardziej użyteczna jest technika PLANS.md — analogicznie można ją stosować przy promptowaniu [[Claude]] do złożonych zadań automatyzacyjnych lub pisaniu skryptów [[Make.com]]. Workflow równoległych sesji jest inspiracją dla budowania własnych pluginów i narzędzi AI. Rozróżnienie vibe coding vs. produkcja pomaga decydować, kiedy warto poświęcić czas na planowanie przed wdrożeniem.
+Dla Piotra najbardziej użyteczna jest technika PLANS.md — analogicznie można ją stosować przy promptowaniu [[Claude AI|Claude]] do złożonych zadań automatyzacyjnych lub pisaniu skryptów [[Make.com]]. Workflow równoległych sesji jest inspiracją dla budowania własnych pluginów i narzędzi AI. Rozróżnienie vibe coding vs. produkcja pomaga decydować, kiedy warto poświęcić czas na planowanie przed wdrożeniem.

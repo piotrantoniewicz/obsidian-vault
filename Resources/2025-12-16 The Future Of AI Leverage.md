@@ -34,7 +34,7 @@ Zamiast jednego asystenta AI — sieć wyspecjalizowanych agentów działającyc
 
 **Stack techniczny (bez kodu):**
 - [[n8n]], [[Make.com]] lub Zapier — łączenie modeli AI ze źródłami danych i outputami
-- Modele AI (GPT-5.1, [[Claude]] Opus 4.5) zdolne do wykonywania workflow 10+ kroków bez błędów
+- Modele AI (GPT-5.1, [[Claude AI|Claude]] Opus 4.5) zdolne do wykonywania workflow 10+ kroków bez błędów
 - Koszt całości: $20–50/miesiąc
 
 **Przykład: Trend Jacking Content Agent:**

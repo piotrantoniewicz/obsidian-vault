@@ -13,7 +13,7 @@ tags:
 ---
 # The Entire 2025 AI Year in Review
 
-Rok 2025 był przełomowy dla AI: DeepSeek R1 pokazał, że chińskie modele mogą dorównać zachodnim przy ułamku kosztów, a [[Claude]] zdominował rynek narzędzi developerskich — szczególnie [[Claude Code]], który stał się symbolem automatyzacji pracy programistów. Wydatki enterprise na AI osiągnęły 1,5 bln dolarów, choć 80% trafiło do hardware, a nie oprogramowania. Zachowania wyszukiwawcze zmieniają się: 66% Gen Z korzysta z ChatGPT, 69% z Google — era wyłączności wyszukiwarek dobiega końca. Pojawiły się też nowe kategorie ryzyka: 72% nastolatków i 28% dorosłych korzystało z romantycznych AI companions.
+Rok 2025 był przełomowy dla AI: DeepSeek R1 pokazał, że chińskie modele mogą dorównać zachodnim przy ułamku kosztów, a [[Claude AI|Claude]] zdominował rynek narzędzi developerskich — szczególnie [[Claude Code]], który stał się symbolem automatyzacji pracy programistów. Wydatki enterprise na AI osiągnęły 1,5 bln dolarów, choć 80% trafiło do hardware, a nie oprogramowania. Zachowania wyszukiwawcze zmieniają się: 66% Gen Z korzysta z ChatGPT, 69% z Google — era wyłączności wyszukiwarek dobiega końca. Pojawiły się też nowe kategorie ryzyka: 72% nastolatków i 28% dorosłych korzystało z romantycznych AI companions.
 
 ## Wnioski
 - [[DeepSeek]] R1 zdemokratyzował dostęp do zaawansowanych modeli, obniżając koszty — organizacje NGO mogą teraz wdrażać własne rozwiązania AI bez gigantycznych budżetów, korzystając z tańszych alternatyw dla [[GPT-4]] czy [[Claude Opus 4.5]].

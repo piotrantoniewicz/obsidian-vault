@@ -20,7 +20,7 @@ Newsletter Mirka Burnejki z [[AI Biznes Lab]] porusza trzy tematy: metodologię 
 
 ### 6-krokowy proces tworzenia skutecznego promptu
 - **Krok 1: Znajdź działający prompt** — zbierasz prompty z sieci, wybierasz taki który pasuje do Twojego zadania, firmy i stylu pracy
-- **Krok 2: Poproś AI o dopasowanie** — wrzucasz prompt do [[ChatGPT]] lub [[Claude]] z konkretnym celem (nie ogólnym „ulepsz"); pomocny jest długi wywód głosowy np. przez [[SuperWhisper]]
+- **Krok 2: Poproś AI o dopasowanie** — wrzucasz prompt do [[ChatGPT]] lub [[Claude AI|Claude]] z konkretnym celem (nie ogólnym „ulepsz"); pomocny jest długi wywód głosowy np. przez [[SuperWhisper]]
 - **Krok 3: Testuj** — sprawdzasz w kilku scenariuszach; jeśli nie działa — wracasz do kroku 2 z feedbackiem
 - **Krok 4: Zrób research** — prosisz AI o pytania do Deep Research, sprawdzasz dokumentację dostawców AI i wiedzę domenową; wykonujesz research w ChatGPT Deep Research, Claude Research lub Gemini Deep Research
 - **Krok 5: Wróć z wynikami** — łączysz przetestowany prompt z wynikami researchu i prosisz AI o nową wersję

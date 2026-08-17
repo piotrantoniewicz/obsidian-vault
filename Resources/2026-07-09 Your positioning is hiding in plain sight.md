@@ -14,10 +14,10 @@ tags:
 
 # Your positioning is hiding in plain sight
 
-Newsletter podaje gotowy zestaw pięciu promptów do [[Claude]], które prowadzą krok po kroku od chaotycznego opisu własnej działalności do jednej, prostej linii pozycjonującej — kogo się pomaga i co klient wynosi ze współpracy. Kluczowa zasada: pozycjonowanie odkrywa się przez odejmowanie zbędnych warstw, nie przez dodawanie efektownych sformułowań.
+Newsletter podaje gotowy zestaw pięciu promptów do [[Claude AI|Claude]], które prowadzą krok po kroku od chaotycznego opisu własnej działalności do jednej, prostej linii pozycjonującej — kogo się pomaga i co klient wynosi ze współpracy. Kluczowa zasada: pozycjonowanie odkrywa się przez odejmowanie zbędnych warstw, nie przez dodawanie efektownych sformułowań.
 
 ## Frameworki i metody
-- **Pięć promptów do wypracowania linii pozycjonującej** — uruchamiane po kolei w [[Claude]], każdy zasila kolejny: (1) *Brain Dump* — model zadaje 10 pytań o konkretne problemy, które się rozwiązało, i momenty podziękowań; (2) *Pattern* — znalezienie powtarzającego się problemu, nazwanego językiem zrozumiałym dla dwunastolatka; (3) *The One Person* — opis jednej konkretnej osoby w konkretnej sytuacji zamiast grupy docelowej; (4) *The Walk-Away* — dokończenie zdania „po współpracy ta osoba wychodzi zbudowawszy ___" na pięć sposobów, jako coś widocznego, nie uczucia; (5) *The One Line* — złożenie wszystkiego w jedno zdanie „pomagam [osobie] zbudować [efekt]" możliwe do powiedzenia na jednym oddechu
+- **Pięć promptów do wypracowania linii pozycjonującej** — uruchamiane po kolei w [[Claude AI|Claude]], każdy zasila kolejny: (1) *Brain Dump* — model zadaje 10 pytań o konkretne problemy, które się rozwiązało, i momenty podziękowań; (2) *Pattern* — znalezienie powtarzającego się problemu, nazwanego językiem zrozumiałym dla dwunastolatka; (3) *The One Person* — opis jednej konkretnej osoby w konkretnej sytuacji zamiast grupy docelowej; (4) *The Walk-Away* — dokończenie zdania „po współpracy ta osoba wychodzi zbudowawszy ___" na pięć sposobów, jako coś widocznego, nie uczucia; (5) *The One Line* — złożenie wszystkiego w jedno zdanie „pomagam [osobie] zbudować [efekt]" możliwe do powiedzenia na jednym oddechu
 - **Test końcowy** — wybierz linię, która wydaje się „zbyt prosta", nie najbardziej efektowną; sprawdź, wypowiadając ją na głos realnej osobie — reakcja „pochylenia się" oznacza trafienie, grzeczne skinięcie głową oznacza porażkę
 
 ## Wnioski

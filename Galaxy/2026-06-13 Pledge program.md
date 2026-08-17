@@ -5,7 +5,7 @@ tags:
   - organizacje-społeczne
   - automatyzacja
 created: 2026-06-13
-updated: 2026-08-14
+updated: 2026-08-17
 relevance: wysoka
 sources:
   - "[[2026-04-15 How To Get More Donation Pledges For Your Nonprofit]]"
@@ -61,12 +61,12 @@ Domknięcie mechanizmu 4 (automatyzacja znosi barierę administracyjną) konkret
 
 ---
 
-## Zastosowanie w kontekście NGO
+## Zastosowanie w kontekście organizacji społecznych
 
 - **Duża zbiórka = okazja do bazy, nie tylko do gotówki:** każda kampania kapitałowa (budowa, remont, inwestycja) to niepowtarzalna szansa zaprojektowania *równolegle* ścieżki lojalnościowej zamieniającej jednorazowych darczyńców kampanii w wieloletnich (polski case hospicjum). Bez tego organizacja co kampanię odbudowuje relacje od zera.
 - **Argument dla niestabilnego finansowania projektowego:** pledge daje przewidywalny, wieloletni przychód — szczególnie cenny dla organizacji żyjących od grantu do grantu.
 - **Audyt minimum:** (1) czy formularz oferuje opcję rozłożenia darowizny na raty, jest mobile-first (Apple/Google Pay, minimum pól, bez przekierowania), (2) czy pledge donors są segmentowani w CRM osobno, (3) czy istnieje proces rozmowy o odnowieniu na 60–90 dni przed końcem.
-- **Automatyzacja jako moduł kursu:** auto-charge, auto-receipt, flagowanie nieudanych płatności i przypomnienia o odnowieniu to konkretne scenariusze w [[CRM]] + [[Make.com]] — „automatyzacja procesów w NGO" dla kursu „Fundraising z AI".
+- **Automatyzacja jako moduł kursu:** auto-charge, auto-receipt, flagowanie nieudanych płatności i przypomnienia o odnowieniu to konkretne scenariusze w [[CRM]] + [[Make.com]] — „automatyzacja procesów w organizacji społecznej" dla kursu „Fundraising z AI".
 - **AI do typowania kandydatów na upgrade:** identyfikacja darczyńców gotowych przejść na pledge na podstawie historii wpłat i zaangażowania to wysokowartościowe, realistyczne zastosowanie AI w małym zespole — nie chatbot, lecz predykcja i personalizacja outreachu.
 
 ---

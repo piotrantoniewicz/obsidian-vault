@@ -24,7 +24,7 @@ Badanie przeprowadzone na 1750 respondentach (PM-owie, inżynierowie, designerzy
 
 ## Wnioski
 - Największą wartość z AI czerpią ci, którzy używają go jako partnera do myślenia, a nie tylko generatora tekstu — to wzorzec wart wdrożenia przy planowaniu strategii i kampanii w NGO.
-- Rynek narzędzi AI bifurkuje się: ogólne modele ([[ChatGPT]], [[Claude]]) kontra specjalistyczne narzędzia (np. [[Cursor]] dla inżynierów, [[n8n]] dla automatyzacji) — wybór narzędzia powinien być dopasowany do konkretnego zadania.
+- Rynek narzędzi AI bifurkuje się: ogólne modele ([[ChatGPT]], [[Claude AI|Claude]]) kontra specjalistyczne narzędzia (np. [[Cursor]] dla inżynierów, [[n8n]] dla automatyzacji) — wybór narzędzia powinien być dopasowany do konkretnego zadania.
 - Największe możliwości wzrostu leżą w zastosowaniach „upstream" — badaniach, analizie i strategii — a nie tylko w produkcji treści.
 
 ## Cytat

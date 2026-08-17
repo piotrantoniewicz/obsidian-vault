@@ -14,7 +14,7 @@ tags:
 
 # Is Reddit REALLY The KEY to AI Search? Let's Find Out…
 
-[[Matt Diggity]] z agencji The Search Initiative prezentuje strategię wykorzystania [[Reddit]]a do budowania widoczności w wynikach AI Search (np. [[ChatGPT]], [[Claude]], Perplexity). Systemy AI ufają [[Reddit]]owi bardziej niż innym źródłom — dlatego obecność w odpowiednich subredditach przekłada się bezpośrednio na cytowania przez modele językowe. Kluczowa teza: skuteczna obecność na Reddicie wymaga budowania autentycznego profilu i realnego wkładu w społeczność — marketing w stylu "sales mode" prowadzi do bana. Autor podaje konkretny case: klient z branży real estate zwiększył ruch z AI o 2814% i pojawił się w 136 AI overview keywords.
+[[Matt Diggity]] z agencji The Search Initiative prezentuje strategię wykorzystania [[Reddit]]a do budowania widoczności w wynikach AI Search (np. [[ChatGPT]], [[Claude AI|Claude]], Perplexity). Systemy AI ufają [[Reddit]]owi bardziej niż innym źródłom — dlatego obecność w odpowiednich subredditach przekłada się bezpośrednio na cytowania przez modele językowe. Kluczowa teza: skuteczna obecność na Reddicie wymaga budowania autentycznego profilu i realnego wkładu w społeczność — marketing w stylu "sales mode" prowadzi do bana. Autor podaje konkretny case: klient z branży real estate zwiększył ruch z AI o 2814% i pojawił się w 136 AI overview keywords.
 
 ## Frameworki i metody
 - Krok 1: Zbuduj autentyczny profil Reddit — bez korporacyjnego tonu, bez linków, neutralny avatar

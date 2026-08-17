@@ -30,4 +30,4 @@ Artykuł [[Karina Janus|Kariny Janus]] z [[TechSoup Polska]] prezentuje trzy spr
 
 ## Zastosowanie
 
-Techniki BLUF i TL;DR warto wdrożyć jako standard komunikacji wewnętrznej w NGO — szczególnie przy mailach do zarządu, wolontariuszy lub partnerów, gdzie liczy się szybkie przejęcie akcji. Przy szkoleniach z AI dla organizacji można pokazać, jak [[Claude]] lub inne narzędzia AI pomagają stosować te struktury w praktyce przy minimalnym nakładzie czasu. SCQA przydaje się natomiast w ghostwritingu — buduje narrację, która angażuje odbiorcę i logicznie prowadzi do sedna propozycji.
+Techniki BLUF i TL;DR warto wdrożyć jako standard komunikacji wewnętrznej w NGO — szczególnie przy mailach do zarządu, wolontariuszy lub partnerów, gdzie liczy się szybkie przejęcie akcji. Przy szkoleniach z AI dla organizacji można pokazać, jak [[Claude AI|Claude]] lub inne narzędzia AI pomagają stosować te struktury w praktyce przy minimalnym nakładzie czasu. SCQA przydaje się natomiast w ghostwritingu — buduje narrację, która angażuje odbiorcę i logicznie prowadzi do sedna propozycji.

@@ -36,7 +36,7 @@ tags:
 
 - Dawanie informacji zwrotnej zorientowanej na cel i korzyść (nie na krytykę zachowania) zmienia dynamikę rozmowy z defensywnej na otwartą — ma to bezpośrednie zastosowanie w pracy Piotra z liderami [[organizacje-społeczne|organizacji społecznych]]
 - Obserwacje konkretnych działań i ich skutków są skuteczniejsze niż oceny — to ważna zasada przy szkoleniu zespołów NGO i budowaniu kultury feedbacku w organizacjach
-- [[Claude]] i inne narzędzia [[LLM]] mogą pomagać w przygotowaniu trudnych rozmów — artykuł opisuje konkretne prompty do ćwiczenia rozróżniania obserwacji od osądów
+- [[Claude AI|Claude]] i inne narzędzia [[LLM]] mogą pomagać w przygotowaniu trudnych rozmów — artykuł opisuje konkretne prompty do ćwiczenia rozróżniania obserwacji od osądów
 
 ## Zastosowanie
 

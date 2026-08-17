@@ -34,7 +34,7 @@ Sformatuj prompt jako blok kodu, aby był przejrzysty i łatwy do skopiowania.
 
 **Automatyczne narzędzia optymalizacji:**
 - **ChatGPT Prompt Optimizer** (OpenAI) — dostępny na platform.openai.com; przerabia prompt w ustrukturyzowaną instrukcję i udziela informacji zwrotnej; obsługuje GPT-5, 5.1, 4, o3
-- **Prompt Improver** ([[Claude]] / [[Anthropic]]) — bardziej zaawansowany, wymaga konta developerskiego; optymalizuje zarówno system prompt, jak i user prompt; wielostopniowe poprawki; skierowany do deweloperów
+- **Prompt Improver** ([[Claude AI|Claude]] / [[Anthropic]]) — bardziej zaawansowany, wymaga konta developerskiego; optymalizuje zarówno system prompt, jak i user prompt; wielostopniowe poprawki; skierowany do deweloperów
 
 ## Wnioski
 
@@ -44,4 +44,4 @@ Sformatuj prompt jako blok kodu, aby był przejrzysty i łatwy do skopiowania.
 
 ## Zastosowanie
 
-Meta-prompt do optymalizacji jest gotowym, praktycznym ćwiczeniem do wykorzystania na szkoleniach z AI dla NGO — uczestnicy mogą od razu poprawić prompty, których używają w codziennej pracy. Rozróżnienie prompt engineering / context engineering warto wprowadzić jako podstawowy framework na początku szkoleń — pozwala zrozumieć, dlaczego „ten sam prompt u mnie nie działa". Artykuł jest też dobrym źródłem do modułu o zaawansowanej pracy z [[Claude]] i jego Prompt Improverem w kursie Fundraising z AI.
+Meta-prompt do optymalizacji jest gotowym, praktycznym ćwiczeniem do wykorzystania na szkoleniach z AI dla NGO — uczestnicy mogą od razu poprawić prompty, których używają w codziennej pracy. Rozróżnienie prompt engineering / context engineering warto wprowadzić jako podstawowy framework na początku szkoleń — pozwala zrozumieć, dlaczego „ten sam prompt u mnie nie działa". Artykuł jest też dobrym źródłem do modułu o zaawansowanej pracy z [[Claude AI|Claude]] i jego Prompt Improverem w kursie Fundraising z AI.

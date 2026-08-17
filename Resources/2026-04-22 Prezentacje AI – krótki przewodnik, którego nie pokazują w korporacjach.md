@@ -25,7 +25,7 @@ Newsletter to podsumowanie webinaru z [[Krzysztof Wojewodzic|Krzysztofem Wojewod
 - **Proces karteczkowy** — analogowa technika tworzenia scenariusza: wypisz pomysły na karteczki, przyklej na ścianę, omów narrację na głos, ułóż kolejność, iteruj kilkukrotnie — w 15–20 minut do sensownego przekazu.
 - **Nagranie i transkrypcja** — nagraj wstępną narrację, przetwórz na transkrypt i używaj go jako surowca do dalszej pracy z [[LLM]]-em (czyszczenie → struktura → storytelling → styl).
 - **Technika mikroskoków** — zamiast przeskakiwać od zera do gotowej narracji jednym promptem, bierz wynik każdego etapu, traktuj go kolejnym promptem i iteruj krok po kroku: czysty transkrypt → bazowa struktura → storytelling (np. sytuacja-komplikacja-pytanie-odpowiedź) → styl autora → własny styl.
-- **Własny styl z [[LLM]]-em** — wgraj do [[Claude|Claude'a]] swoje najlepsze teksty i maile; efektem jest narzędzie piszące dowolny tekst w Twoim stylu.
+- **Własny styl z [[LLM]]-em** — wgraj do [[Claude AI|Claude'a]] swoje najlepsze teksty i maile; efektem jest narzędzie piszące dowolny tekst w Twoim stylu.
 - **Gamma** — najszybsze i najtańsze narzędzie AI do tworzenia slajdów; gorsza jakość w języku polskim.
 - **Claude dla PowerPointa** — dodatek dający pełną kontrolę nad edytowalną prezentacją w PowerPoint (15–20 min, więcej tokenów).
 - **Claude Design** — tworzenie prezentacji zgodnych z design systemem zapisanym w pliku `.md`; eksport do PowerPoint.

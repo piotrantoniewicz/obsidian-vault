@@ -29,14 +29,14 @@ Caitlin Sullivan, ekspertka od badań użytkowników, opisuje cztery tryby błę
 4. **Sprzeczne insighty** — AI nie robi drugiego przeglądu własnej pracy. Naprawa: weryfikacja końcowa — poproś LLM o audyt: sprawdź cytaty, znajdź sprzeczności w wypowiedziach uczestników, oceń pewność twierdzeń
 
 **Porównanie modeli do analizy jakościowej:**
-- [[Claude]] — najlepszy do dogłębnej analizy z szerokim pokryciem danych; mniej hallucynacji
+- [[Claude AI|Claude]] — najlepszy do dogłębnej analizy z szerokim pokryciem danych; mniej hallucynacji
 - [[Gemini]]/NotebookLM — najlepszy do dobrze ugruntowanych, dobrze udokumentowanych motywów; mocniejsze cytowanie
 - [[ChatGPT]] — najlepszy do finalnego framowania dla odbiorców; najmniej wiarygodny w dosłownych cytatach
 
 ## Wnioski
 - Błędy AI w analizie są niewidoczne z definicji — dlatego wymagają aktywnej weryfikacji, nie pasywnego "ufania outputowi"
 - Jakość analizy [[LLM]] zależy głównie od jakości kontekstu w prompcie — ogólny prompt = ogólny wynik; precyzyjny kontekst decyzyjny = precyzyjne insighty
-- [[Claude]] jest rekomendowany jako najlepsza baza do analizy jakościowej — szersze pokrycie danych i mniej hallucynacji niż [[ChatGPT]]
+- [[Claude AI|Claude]] jest rekomendowany jako najlepsza baza do analizy jakościowej — szersze pokrycie danych i mniej hallucynacji niż [[ChatGPT]]
 
 ## Zastosowanie
 Piotr może wykorzystać te techniki do analizy feedbacku darczyńców, wyników ankiet ewaluacyjnych i treści wywiadów z beneficjentami NGO. Technika few-shot calibration i weryfikacja cytatów to konkretne elementy gotowe do włączenia w moduł [[prompt-engineering|prompt engineeringu]] w szkoleniach dla organizacji społecznych — jako przykład jak robić rzetelną analizę jakościową z AI.

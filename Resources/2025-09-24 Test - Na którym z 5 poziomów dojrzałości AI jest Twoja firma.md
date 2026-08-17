@@ -17,7 +17,7 @@ Newsletter [[AI Managers]] (autorzy: [[Bartek Pucek]], [[Krzysztof Wojewodzic]])
 
 ## Frameworki i metody
 
-- **Poziom 1 — Pierwsze kroki (faza świadomości)** — zespół ma dostęp do narzędzi takich jak [[ChatGPT]], [[Gemini]] czy [[Claude]] i używa ich do prostych zadań i researchu; etap nieskoordynowanych eksperymentów
+- **Poziom 1 — Pierwsze kroki (faza świadomości)** — zespół ma dostęp do narzędzi takich jak [[ChatGPT]], [[Gemini]] czy [[Claude AI|Claude]] i używa ich do prostych zadań i researchu; etap nieskoordynowanych eksperymentów
 - **Poziom 2 — Podstawowa automatyzacja (pierwsze procesy)** — pojawiają się pierwsze konkretne automatyzacje rozwiązujące jeden problem (chatbot na stronie, preselekcja CV, układanie grafików); przejście od indywidualnych narzędzi do usprawniania procesu w zespole
 - **Poziom 3 — Integracja AI (procesy End-to-End)** — AI staje się częścią istniejących systemów, reaguje i uczy się; przykłady: system grafików reagujący na nieobecności, analiza sentymentu z rozmów z klientami dostarczająca feedback do działu produktu
 - **Poziom 4 — Zaawansowane wdrożenia (własne modele i produkty)** — firma trenuje własne specjalistyczne modele na firmowych danych i tworzy produkty z AI jako rdzeniem (np. system spersonalizowanych metod pracy dla nauczycieli, analiza emocji klientów)

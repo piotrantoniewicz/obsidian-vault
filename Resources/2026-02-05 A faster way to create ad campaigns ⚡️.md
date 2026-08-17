@@ -14,7 +14,7 @@ tags:
 
 # A faster way to create ad campaigns ⚡️
 
-Artykuł opisuje workflow do tworzenia całych kampanii reklamowych w kilka minut przy użyciu [[Claude]] i [[Flora]]. Zamiast generować obrazy jeden po jeden, meta-prompt w Claude produkuje 8 spójnych konceptów reklamowych naraz — każdy z unikalnym kątem przekazu, ale w tej samej estetyce wizualnej. Kluczową wartością jest możliwość iteracji całej kampanii jedną uwagą: jedna korekta stylu lub treści zmienia wszystkie 8 reklam jednocześnie. Workflow łączy Claude jako stratega kreatywnego z Flora jako narzędziem do równoległego generowania obrazów.
+Artykuł opisuje workflow do tworzenia całych kampanii reklamowych w kilka minut przy użyciu [[Claude AI|Claude]] i [[Flora]]. Zamiast generować obrazy jeden po jeden, meta-prompt w Claude produkuje 8 spójnych konceptów reklamowych naraz — każdy z unikalnym kątem przekazu, ale w tej samej estetyce wizualnej. Kluczową wartością jest możliwość iteracji całej kampanii jedną uwagą: jedna korekta stylu lub treści zmienia wszystkie 8 reklam jednocześnie. Workflow łączy Claude jako stratega kreatywnego z Flora jako narzędziem do równoległego generowania obrazów.
 
 ## Frameworki i metody
 
@@ -32,7 +32,7 @@ Workflow kampanii reklamowej AI — 4 kroki:
 ## Wnioski
 
 - Batch processing w kampaniach reklamowych zapewnia spójność wizualną i oszczędza czas w porównaniu do generowania jeden po jeden
-- Tandem [[Claude]] (strategia + copy) i [[Flora]] (generowanie obrazów) to efektywny pipeline content marketingowy
+- Tandem [[Claude AI|Claude]] (strategia + copy) i [[Flora]] (generowanie obrazów) to efektywny pipeline content marketingowy
 - Pętla iteracji "Claude → aktualizacja wszystkich promptów → regeneracja w Flora" to kluczowa przewaga tego podejścia nad klasycznym workflow
 
 ## Zastosowanie

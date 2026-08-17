@@ -32,7 +32,7 @@ tags:
 - Max Schrems dwukrotnie doprowadził przed TSUE do unieważnienia umów o przepływie danych EU–USA
 
 ## Wnioski
-- Model AI w chmurze to infrastruktura krytyczna podlegająca prawu kraju, w którym stoi serwer — europejskie organizacje korzystające z [[Claude]], [[GPT-4]] czy innych modeli muszą liczyć się z tym, że dostęp może zostać odcięty decyzją polityczną, nie techniczną.
+- Model AI w chmurze to infrastruktura krytyczna podlegająca prawu kraju, w którym stoi serwer — europejskie organizacje korzystające z [[Claude AI|Claude]], [[GPT-4]] czy innych modeli muszą liczyć się z tym, że dostęp może zostać odcięty decyzją polityczną, nie techniczną.
 - Europa ma dobre regulacje i słabą infrastrukturę — [[AI Act]] to niezbędny, ale niewystarczający warunek autonomii; bez własnych modeli (choć [[Mistral]] i [[Bielik]] istnieją) suwerenność pozostaje nominalna.
 - Dla organizacji pozarządowych w Polsce to realne ryzyko operacyjne: uzależnienie kluczowych procesów od jednego dostawcy AI z jurysdykcji USA jest luką w planie ciągłości działania.
 

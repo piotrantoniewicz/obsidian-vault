@@ -13,7 +13,7 @@ tags:
 ---
 # I unified my inbox mess into one Alice command
 
-Newsletter opisuje use case unifikacji wielu skrzynek komunikacyjnych ([[Slack]], [[Discord]], [[WhatsApp]], Instagram DMs) w jeden interfejs AI — jedno polecenie skanuje wszystkie kanały, priorytetyzuje wiadomości i szkicuje odpowiedzi w stylu użytkownika. Setup zajmuje ~5 minut, ale wymaga jednorazowego „nauczenia" Alice stylu komunikacji. Autor informuje też o nowych funkcjach: natywna obsługa [[LM Studio]], tryb offline (Ollama), wsparcie MCPB dla łatwej instalacji MCP serverów. Plany zespołowe za $10/os./mies. pozycjonowane jako tańsza i potężniejsza alternatywa dla [[ChatGPT]] i [[Claude]].
+Newsletter opisuje use case unifikacji wielu skrzynek komunikacyjnych ([[Slack]], [[Discord]], [[WhatsApp]], Instagram DMs) w jeden interfejs AI — jedno polecenie skanuje wszystkie kanały, priorytetyzuje wiadomości i szkicuje odpowiedzi w stylu użytkownika. Setup zajmuje ~5 minut, ale wymaga jednorazowego „nauczenia" Alice stylu komunikacji. Autor informuje też o nowych funkcjach: natywna obsługa [[LM Studio]], tryb offline (Ollama), wsparcie MCPB dla łatwej instalacji MCP serverów. Plany zespołowe za $10/os./mies. pozycjonowane jako tańsza i potężniejsza alternatywa dla [[ChatGPT]] i [[Claude AI|Claude]].
 
 ## Wnioski
 

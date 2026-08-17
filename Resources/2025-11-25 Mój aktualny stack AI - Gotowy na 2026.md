@@ -18,7 +18,7 @@ Na przełomie listopada 2025 Mirek Burnejko aktualizuje swój stack: do kodowani
 
 ## Wnioski
 
-- Powrót [[Gemini]] na czoło stacku (asystenci, pisanie, Deep Research) to ważna aktualizacja dla NGO advicework — Gemini 3 Pro warto rekomendować obok [[Claude]] jako alternatywę, szczególnie dla organizacji z istniejącą infrastrukturą Google Workspace.
+- Powrót [[Gemini]] na czoło stacku (asystenci, pisanie, Deep Research) to ważna aktualizacja dla NGO advicework — Gemini 3 Pro warto rekomendować obok [[Claude AI|Claude]] jako alternatywę, szczególnie dla organizacji z istniejącą infrastrukturą Google Workspace.
 - Wizja "1 dzień pracy w 10–20 minut" przez asystentów obsługujących maile, social i support jest konkretnym benchmarkiem do komunikowania potencjału AI w NGO — nie jako science-fiction, lecz jako kierunek wdrożeń testowany przez praktyków.
 - Argument "warsztaty > kursy" (zawsze aktualne, łatwo modyfikować, możliwość sprzedaży nagrań) waliduje model szkoleniowy Piotra i dostarcza gotowego uzasadnienia wyboru formy warsztatowej dla organizacji NGO.
 

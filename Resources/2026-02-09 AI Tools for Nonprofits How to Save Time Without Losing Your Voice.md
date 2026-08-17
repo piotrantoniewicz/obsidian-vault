@@ -14,7 +14,7 @@ tags:
 
 # AI Tools for Nonprofits: How to Save Time Without Losing Your Voice
 
-Artykuł omawia praktyczne zastosowanie narzędzi AI ([[ChatGPT]], [[Claude]]) w pracy NGO — z naciskiem na odciążenie małych zespołów od pracy administracyjnej, nie na zastępowanie ludzkich relacji z darczyńcami. Kluczowa zmiana mentalna: AI to kolaborant, nie copywriter — jego rola to szkielet, draft i analiza, nie finalna komunikacja. Artykuł zawiera konkretny framework budowania promptów w 4 krokach, który pozwala uzyskać treści brzmiące jak głos organizacji. Porusza też kwestie etyczne: ochronę danych darczyńców i obowiązek ludzkiej weryfikacji każdej wygenerowanej treści.
+Artykuł omawia praktyczne zastosowanie narzędzi AI ([[ChatGPT]], [[Claude AI|Claude]]) w pracy NGO — z naciskiem na odciążenie małych zespołów od pracy administracyjnej, nie na zastępowanie ludzkich relacji z darczyńcami. Kluczowa zmiana mentalna: AI to kolaborant, nie copywriter — jego rola to szkielet, draft i analiza, nie finalna komunikacja. Artykuł zawiera konkretny framework budowania promptów w 4 krokach, który pozwala uzyskać treści brzmiące jak głos organizacji. Porusza też kwestie etyczne: ochronę danych darczyńców i obowiązek ludzkiej weryfikacji każdej wygenerowanej treści.
 
 ## Frameworki i metody
 
@@ -37,7 +37,7 @@ Artykuł omawia praktyczne zastosowanie narzędzi AI ([[ChatGPT]], [[Claude]]) w
 
 ## Wnioski
 
-- Jakość promptu decyduje o jakości wyjścia — im więcej kontekstu (organizacja, zadanie, ton, ograniczenia), tym mniej edycji po wygenerowaniu draftu przez [[ChatGPT]] lub [[Claude]]
+- Jakość promptu decyduje o jakości wyjścia — im więcej kontekstu (organizacja, zadanie, ton, ograniczenia), tym mniej edycji po wygenerowaniu draftu przez [[ChatGPT]] lub [[Claude AI|Claude]]
 - AI w NGO najlepiej służy do odciążenia z pracy administracyjnej (drafty, raporty, segmentacja danych) — próba automatyzowania relacji z darczyńcami daje efekt odwrotny i podważa zaufanie
 - Etyczne zasady używania AI to nie opcja — ochrona danych darczyńców i ludzka weryfikacja każdej komunikacji są warunkiem koniecznym zaufania do wdrożeń AI w organizacji
 

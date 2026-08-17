@@ -14,11 +14,11 @@ tags:
 
 # How this PM uses MCPs to automate his meeting prep, CRM updates, and customer feedback synthesis
 
-[[Reid Robinson]] z [[Zapier]] prezentuje praktyczne podejście do automatyzacji pracy z użyciem [[MCP]] — protokołu, który pozwala podłączyć narzędzia AI (jak [[Claude]]) do ponad 8 000 aplikacji jednocześnie. Kluczowy argument: MCP to nie magia, lecz „integracje aplikacji dla narzędzi AI" — metafora, która demistyfikuje technologię i pokazuje jej praktyczny potencjał. Robinson proponuje ramę myślenia: „co mógłby robić AI, gdy śpisz?" — jako punkt wyjścia do identyfikacji wartościowych przypadków automatyzacji.
+[[Reid Robinson]] z [[Zapier]] prezentuje praktyczne podejście do automatyzacji pracy z użyciem [[MCP]] — protokołu, który pozwala podłączyć narzędzia AI (jak [[Claude AI|Claude]]) do ponad 8 000 aplikacji jednocześnie. Kluczowy argument: MCP to nie magia, lecz „integracje aplikacji dla narzędzi AI" — metafora, która demistyfikuje technologię i pokazuje jej praktyczny potencjał. Robinson proponuje ramę myślenia: „co mógłby robić AI, gdy śpisz?" — jako punkt wyjścia do identyfikacji wartościowych przypadków automatyzacji.
 
 ## Frameworki i metody
 
-- **Zapier MCP** — platforma tworząca zestawy narzędzi z 8 000+ aplikacji, dostępne dla [[Claude]], ChatGPT i innych klientów MCP; możliwość tworzenia osobnych serwerów dla różnych kontekstów (CRM, spotkania, feedback)
+- **Zapier MCP** — platforma tworząca zestawy narzędzi z 8 000+ aplikacji, dostępne dla [[Claude AI|Claude]], ChatGPT i innych klientów MCP; możliwość tworzenia osobnych serwerów dla różnych kontekstów (CRM, spotkania, feedback)
 - **Claude Projects do instrukcji narzędzi** — zamiast liczyć na to, że model „odgadnie" kolejność wywołań, Reid zapisuje szczegółowe instrukcje w projektach Claude: które narzędzia wywoływać, w jakiej kolejności, dokąd zapisywać dane
 - **Virtuous cycle of customer feedback** — automatyczne przetwarzanie ticketów supportowych: analiza → propozycja wpisu do bazy wiedzy → zatwierdzenie przez człowieka → aktualizacja chatbota; zamknięta pętla poprawy jakości bez ręcznej pracy
 - **Framework „gdybyś miał idealny, nieskończony zespół"** — pytanie pomocnicze do identyfikacji zadań do automatyzacji: co robiłby perfekcyjny zespół wsparcia, gdyby miał nieograniczony czas?

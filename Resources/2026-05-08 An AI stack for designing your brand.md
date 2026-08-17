@@ -17,14 +17,14 @@ Newsletter Moodboard prezentuje kompletny workflow "vibe-designu" marki z użyci
 
 ## Frameworki i metody
 
-- **Logo Ideation Prompt** — Meta-prompt dla [[Claude]] lub ChatGPT generujący 8 szczegółowych promptów do konceptów logo, uruchamianych równolegle w [[Flora]] z modelami Nano Banana Pro. Makro-edycja (zmiana kierunku całego batch'a) odbywa się w [[Claude]], mikro-edycja (pojedynczy koncept) bezpośrednio w [[Flora]].
+- **Logo Ideation Prompt** — Meta-prompt dla [[Claude AI|Claude]] lub ChatGPT generujący 8 szczegółowych promptów do konceptów logo, uruchamianych równolegle w [[Flora]] z modelami Nano Banana Pro. Makro-edycja (zmiana kierunku całego batch'a) odbywa się w [[Claude AI|Claude]], mikro-edycja (pojedynczy koncept) bezpośrednio w [[Flora]].
 - **Midjourney Moodboards** — Upload zestawu referencyjnych zdjęć do funkcji moodboard w [[Midjourney]] V8; model referuje połączony styl tych obrazów przy każdej kolejnej generacji, zapewniając spójność wizualną całej marki (hero images, landing page assets, ilustracje).
-- **Landing Page Wizard** — Prompt prowadzący wywiad z użytkownikiem (brand, assets, styl), prezentujący zatwierdzany plan strony, a następnie budujący kompletny HTML jako artifact bezpośrednio w [[Claude]] lub ChatGPT — bez potrzeby eksportu do Lovable czy innych zewnętrznych narzędzi.
+- **Landing Page Wizard** — Prompt prowadzący wywiad z użytkownikiem (brand, assets, styl), prezentujący zatwierdzany plan strony, a następnie budujący kompletny HTML jako artifact bezpośrednio w [[Claude AI|Claude]] lub ChatGPT — bez potrzeby eksportu do Lovable czy innych zewnętrznych narzędzi.
 
 ## Wnioski
 
-- Stackowanie [[Claude]] + [[Midjourney]] + [[Flora]] pozwala przejść od zera do pełnej marki (logo, moodboard, landing page) bez grafika — w ciągu kilku skoncentrowanych godzin.
-- Kluczowa zasada workflow: makro-korekty całego batch'a promptów w [[Claude]], mikro-korekty pojedynczych konceptów bezpośrednio w [[Flora]] — to minimalizuje liczbę iteracji i zachowuje spójność projektu.
+- Stackowanie [[Claude AI|Claude]] + [[Midjourney]] + [[Flora]] pozwala przejść od zera do pełnej marki (logo, moodboard, landing page) bez grafika — w ciągu kilku skoncentrowanych godzin.
+- Kluczowa zasada workflow: makro-korekty całego batch'a promptów w [[Claude AI|Claude]], mikro-korekty pojedynczych konceptów bezpośrednio w [[Flora]] — to minimalizuje liczbę iteracji i zachowuje spójność projektu.
 - Funkcja moodboard w [[Midjourney]] V8 to najprostszy sposób na wizualną spójność marki — godzina konfiguracji zwraca się przy każdej kolejnej generacji asset'ów.
 
 ## Cytat
@@ -33,4 +33,4 @@ Newsletter Moodboard prezentuje kompletny workflow "vibe-designu" marki z użyci
 
 ## Zastosowanie
 
-Ten workflow można wdrożyć przy tworzeniu lub odświeżaniu brandingu dla dobryai.pl, gdzie spójna tożsamość wizualna buduje wiarygodność oferty szkoleniowej. Landing Page Wizard jest szczególnie przydatny przy wsparciu NGO, które potrzebują szybkiego i taniego wdrożenia strony bez zatrudniania grafika — gotowy HTML artifact z [[Claude]] można oddać do hostingu niemal natychmiast.
+Ten workflow można wdrożyć przy tworzeniu lub odświeżaniu brandingu dla dobryai.pl, gdzie spójna tożsamość wizualna buduje wiarygodność oferty szkoleniowej. Landing Page Wizard jest szczególnie przydatny przy wsparciu NGO, które potrzebują szybkiego i taniego wdrożenia strony bez zatrudniania grafika — gotowy HTML artifact z [[Claude AI|Claude]] można oddać do hostingu niemal natychmiast.

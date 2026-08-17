@@ -13,13 +13,13 @@ tags:
 ---
 # Works smarter with AI - save prompts for later
 
-Newsletter opisuje mechanizm Skills w [[Alice]] — zapisanych promptów uruchamianych skrótem `/` lub ikoną ✨, które eliminują konieczność powtarzania kontekstu przy każdym zadaniu. To bezpośrednia odpowiedź na ograniczenie [[ChatGPT]] i [[Claude]], gdzie nie ma prostego sposobu na re-używanie gotowych promptów poza projektami. Skills można przypisywać do konkretnych asystentów (ogólne do wszystkich, specjalistyczne tylko tam gdzie potrzebne) i do konkretnych modeli — [[GPT]]-4 do ogólnych zadań, [[Claude]] do formatowania treści, [[Groq]] do szybkich i tanich operacji. To w praktyce micro-automatyzacja bez kodu.
+Newsletter opisuje mechanizm Skills w [[Alice]] — zapisanych promptów uruchamianych skrótem `/` lub ikoną ✨, które eliminują konieczność powtarzania kontekstu przy każdym zadaniu. To bezpośrednia odpowiedź na ograniczenie [[ChatGPT]] i [[Claude AI|Claude]], gdzie nie ma prostego sposobu na re-używanie gotowych promptów poza projektami. Skills można przypisywać do konkretnych asystentów (ogólne do wszystkich, specjalistyczne tylko tam gdzie potrzebne) i do konkretnych modeli — [[GPT]]-4 do ogólnych zadań, [[Claude AI|Claude]] do formatowania treści, [[Groq]] do szybkich i tanich operacji. To w praktyce micro-automatyzacja bez kodu.
 
 ## Wnioski
 
 - Skills to wzorzec „prompt jako narzędzie" — zamiast pisać ten sam prompt za każdym razem, zapisujesz go raz i uruchamiasz skrótem; ta koncepcja jest wprost przenoszalna na budowanie biblioteki promptów dla NGO.
-- Przypisywanie modelu do konkretnego Skill ([[Claude]] do treści, [[Groq]] do szybkich zadań) to praktyczny przykład świadomego dobierania modelu do zadania — wzorzec wart pokazywania na szkoleniach AI.
-- Re-używalne prompty z kontekstem organizacji to fundament skutecznego AI workflow w NGO — Skills są implementacją tego pomysłu, ale tę samą logikę można wdrożyć w [[Claude]] Projects czy własnych narzędziach.
+- Przypisywanie modelu do konkretnego Skill ([[Claude AI|Claude]] do treści, [[Groq]] do szybkich zadań) to praktyczny przykład świadomego dobierania modelu do zadania — wzorzec wart pokazywania na szkoleniach AI.
+- Re-używalne prompty z kontekstem organizacji to fundament skutecznego AI workflow w NGO — Skills są implementacją tego pomysłu, ale tę samą logikę można wdrożyć w [[Claude AI|Claude]] Projects czy własnych narzędziach.
 
 ## Cytat
 

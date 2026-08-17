@@ -14,7 +14,7 @@ tags:
 
 # 10 praktycznych kroków, aby rozwinąć skill AI
 
-Mirek Burnejko daje 10 konkretnych zasad budowania umiejętności AI: otwarte okno [[Claude]]/[[ChatGPT]]/[[Gemini]] cały czas + dzień zaczynany od przegadania planu z AI; budowanie czegoś prawdziwego (nie ćwiczenie na promptach); dawanie AI kontekstu o sobie zanim o cokolwiek poprosisz; zadawanie konkretnych pytań z liczbami i terminem zamiast ogólnych ("mam 129 użytkowników, cel to 200 do 28 lutego, co wysłać dziś?"); budowanie systemu odpowiadającego za Ciebie na maile; uruchamianie wielu agentów naraz na tym samym problemie ([[Claude Code]] Agent Team); budowanie narzędzi pod siebie, nie pod wszystkich; jeden zautomatyzowany proces co tydzień; niedelegowanie AI tego, co lubisz robić; mierzenie czasu odzyskanego, nie jakości odpowiedzi.
+Mirek Burnejko daje 10 konkretnych zasad budowania umiejętności AI: otwarte okno [[Claude AI|Claude]]/[[ChatGPT]]/[[Gemini]] cały czas + dzień zaczynany od przegadania planu z AI; budowanie czegoś prawdziwego (nie ćwiczenie na promptach); dawanie AI kontekstu o sobie zanim o cokolwiek poprosisz; zadawanie konkretnych pytań z liczbami i terminem zamiast ogólnych ("mam 129 użytkowników, cel to 200 do 28 lutego, co wysłać dziś?"); budowanie systemu odpowiadającego za Ciebie na maile; uruchamianie wielu agentów naraz na tym samym problemie ([[Claude Code]] Agent Team); budowanie narzędzi pod siebie, nie pod wszystkich; jeden zautomatyzowany proces co tydzień; niedelegowanie AI tego, co lubisz robić; mierzenie czasu odzyskanego, nie jakości odpowiedzi.
 
 ## Wnioski
 
@@ -28,4 +28,4 @@ Mirek Burnejko daje 10 konkretnych zasad budowania umiejętności AI: otwarte ok
 
 ## Zastosowanie
 
-Lista 10 kroków można użyć jako agenda pierwszego warsztatu AI dla zespołu NGO — każdy krok to jedno ćwiczenie praktyczne, od otwarcia okna [[Claude]] po zautomatyzowanie pierwszego procesu organizacyjnego w ciągu 90 minut.
+Lista 10 kroków można użyć jako agenda pierwszego warsztatu AI dla zespołu NGO — każdy krok to jedno ćwiczenie praktyczne, od otwarcia okna [[Claude AI|Claude]] po zautomatyzowanie pierwszego procesu organizacyjnego w ciągu 90 minut.

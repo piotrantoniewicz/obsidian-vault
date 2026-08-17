@@ -30,8 +30,8 @@ Przegląd najważniejszych wydarzeń w AI za dwa tygodnie — autor identyfikuje
 
 ## Wnioski
 
-- Koncepcja skilla jako workflow agenta to bezpośrednio stosowalny framework dla własnej pracy z [[Claude]] i [[Make.com]] — warto systematycznie opisywać obszary zadań jako skille, nie jako pojedyncze prompty
-- [[Claude]] Design (slajdy z brandingiem wgranym jako skill) to sygnał, że specjalizowane skille z kontekstem organizacji będą wartościowsze niż generyczne prompty — wzorzec do zastosowania w pracy z NGO
+- Koncepcja skilla jako workflow agenta to bezpośrednio stosowalny framework dla własnej pracy z [[Claude AI|Claude]] i [[Make.com]] — warto systematycznie opisywać obszary zadań jako skille, nie jako pojedyncze prompty
+- [[Claude AI|Claude]] Design (slajdy z brandingiem wgranym jako skill) to sygnał, że specjalizowane skille z kontekstem organizacji będą wartościowsze niż generyczne prompty — wzorzec do zastosowania w pracy z NGO
 - AI Act przesuwa się, ale wyjaśnialność AI stanie się wymogiem — organizacje, które zaczną myśleć o tym teraz, będą lepiej przygotowane
 
 ## Cytat

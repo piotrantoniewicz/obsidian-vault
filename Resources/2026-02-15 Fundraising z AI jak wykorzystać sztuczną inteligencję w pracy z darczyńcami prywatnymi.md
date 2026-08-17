@@ -14,12 +14,12 @@ tags:
 
 # Fundraising z AI jak wykorzystać sztuczną inteligencję w pracy z darczyńcami prywatnymi
 
-Artykuł relacjonuje wystąpienie Piotra Bilika ze Stowarzyszenia Otwarte Klatki na lutowym Śniadaniu z AI organizowanym przez [[Sektor 3.0]]. Bilik pokazuje konkretne zastosowania [[Claude]] w fundraisingu prywatnym — bez znajomości programowania i bez zespołu IT: wizualizacja danych kampanii, personalizacja podziękowań, automatyczne generowanie PDF z potwierdzeniami darowizn, walidacja baz danych. Artykuł porusza też ryzyka: złudzenie efektywności (badania pokazują, że programiści korzystający z AI kończyli zadania o 19% wolniej, choć czuli się o 20% szybciej), zatracenie głosu organizacji i granicę między automatyzacją procesów a automatyzacją relacji.
+Artykuł relacjonuje wystąpienie Piotra Bilika ze Stowarzyszenia Otwarte Klatki na lutowym Śniadaniu z AI organizowanym przez [[Sektor 3.0]]. Bilik pokazuje konkretne zastosowania [[Claude AI|Claude]] w fundraisingu prywatnym — bez znajomości programowania i bez zespołu IT: wizualizacja danych kampanii, personalizacja podziękowań, automatyczne generowanie PDF z potwierdzeniami darowizn, walidacja baz danych. Artykuł porusza też ryzyka: złudzenie efektywności (badania pokazują, że programiści korzystający z AI kończyli zadania o 19% wolniej, choć czuli się o 20% szybciej), zatracenie głosu organizacji i granicę między automatyzacją procesów a automatyzacją relacji.
 
 ## Frameworki i metody
 
 **Praktyczne zastosowania AI w fundraisingu wg Piotra Bilika:**
-- **Analiza danych** — wgranie pliku CSV do [[Claude]] + pytanie w naturalnym języku = wykres, heatmapa, segmentacja darczyńców; bez arkusza, bez makr
+- **Analiza danych** — wgranie pliku CSV do [[Claude AI|Claude]] + pytanie w naturalnym języku = wykres, heatmapa, segmentacja darczyńców; bez arkusza, bez makr
 - **Generowanie potwierdzeń darowizn** — skrypt tworzący pliki PDF na żądanie, bez ręcznego przeszukiwania wyciągów
 - **Walidacja baz danych** — czyszczenie numerów telefonów i adresów e-mail z literówek i błędów formatowania
 - **Personalizacja podziękowań** — formuły w arkuszu generują spersonalizowane wiadomości na bazie historii wpłat; unikalny kod zastępowany dedykowaną treścią w e-mailu

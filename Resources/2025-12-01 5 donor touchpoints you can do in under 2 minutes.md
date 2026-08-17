@@ -26,4 +26,4 @@ Rachel Bearbower proponuje pięć prostych punktów kontaktu z darczyńcami, kt�
 > "To twój przycisk 'chcę być uważny, ale mój mózg jest offline' — gotowe skrypty, prompty i opcje dopasowane do czasu, typu darczyńcy lub pilności."
 
 ## Zastosowanie
-Piotr może wykorzystać te 5 schematów jako gotowe prompty AI (np. w [[ChatGPT]] lub [[Claude]]) dla klientów NGO, którzy chcą utrzymać relacje z darczyńcami bez dużego nakładu czasu.
+Piotr może wykorzystać te 5 schematów jako gotowe prompty AI (np. w [[ChatGPT]] lub [[Claude AI|Claude]]) dla klientów NGO, którzy chcą utrzymać relacje z darczyńcami bez dużego nakładu czasu.

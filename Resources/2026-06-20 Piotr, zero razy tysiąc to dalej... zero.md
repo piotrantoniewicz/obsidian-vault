@@ -18,7 +18,7 @@ Newsletter Tomasza Wolińskiego (stormit.pl) zawiera praktyczny prompt diagnosty
 
 ## Frameworki i metody
 
-- **Prompt diagnostyczny „5 decyzji"** — przed większym zadaniem wklej do [[Claude]] lub innego [[LLM]]: *„Wypisz 5 decyzji w tym zadaniu, których NIE powinienem Ci oddawać, bo wymagają wiedzy o mojej firmie, branży albo kliencie."* Wynik pokazuje dokładnie, gdzie ryzykujesz oddanie kontroli tam, gdzie potrzebna jest Twoja ekspertyza.
+- **Prompt diagnostyczny „5 decyzji"** — przed większym zadaniem wklej do [[Claude AI|Claude]] lub innego [[LLM]]: *„Wypisz 5 decyzji w tym zadaniu, których NIE powinienem Ci oddawać, bo wymagają wiedzy o mojej firmie, branży albo kliencie."* Wynik pokazuje dokładnie, gdzie ryzykujesz oddanie kontroli tam, gdzie potrzebna jest Twoja ekspertyza.
 - **Reguła Zero × Mnożnik** — AI mnoży to, co już masz; jeśli masz zero (brak procesu, brak wiedzy), mnożysz zero. Fundament musi istnieć przed zastosowaniem dźwigni AI.
 
 ## Wnioski

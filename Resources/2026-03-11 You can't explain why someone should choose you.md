@@ -18,7 +18,7 @@ Newsletter Five Prompts poświęcony pozycjonowaniu i różnicowaniu oferty — 
 
 ## Frameworki i metody
 
-- **Find Your Actual Edge** — prompt, który prosi AI o spojrzenie oczami potencjalnego klienta: *"What do I know, believe, or see that most people in my space don't? What's my actual edge? If you can't find one from my description, tell me that too."* Kluczowy jest ostatni fragment — zmusza AI do uczciwości zamiast polerowania słabej propozycji. Jeśli [[Claude]] nie znajdzie wyróżnika: problem leży w ofercie, nie w komunikacji.
+- **Find Your Actual Edge** — prompt, który prosi AI o spojrzenie oczami potencjalnego klienta: *"What do I know, believe, or see that most people in my space don't? What's my actual edge? If you can't find one from my description, tell me that too."* Kluczowy jest ostatni fragment — zmusza AI do uczciwości zamiast polerowania słabej propozycji. Jeśli [[Claude AI|Claude]] nie znajdzie wyróżnika: problem leży w ofercie, nie w komunikacji.
 - **The Disappearance Test** — *"If my website disappeared tomorrow, would anyone actually notice?"* Oryginalnie metoda wywiadów z klientami stosowana przez autora przy każdym onboardingu. Wersja AI pokazuje lukę między tym, za co uważasz się za znany/a, a tym, czego ktoś faktycznie by ci brakowało.
 - **Write Your Value Statement** — uzupełnij zdanie: *"People choose me because I help them _____ in a way that _____."* Drugi blank ("in a way that") jest miejscem faktycznej dyferencjacji — to tam żyje pozycjonowanie. Trzy wersje rankowane według klarowności i siły; wybraną wersję testuje się jako bio, nagłówek emaila, subject line.
 

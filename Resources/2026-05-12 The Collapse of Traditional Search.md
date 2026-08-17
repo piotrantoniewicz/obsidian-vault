@@ -14,7 +14,7 @@ tags:
 
 # The Collapse of Traditional Search
 
-Tradycyjne SEO oparte na klikach i rankingach zastępuje Answer Engine Optimization (AEO) — optymalizacja pod kątem cytowania przez AI w bezpośrednich odpowiedziach [[ChatGPT]], [[Claude]] i Gemini. Artykuł przedstawia, jak marki takie jak Webflow, Carta i Ramp dostosowały strategię contentową: zamiast masowej produkcji treści inwestują w unikalność (Information Gain), aktualność (odświeżanie co 60-90 dni) i zewnętrzne walidacje (85% cytowań AI pochodzi ze źródeł zewnętrznych, nie z własnej strony). Efekt: Webflow odnotował 6-krotnie wyższy współczynnik konwersji z ruchu generowanego przez AI.
+Tradycyjne SEO oparte na klikach i rankingach zastępuje Answer Engine Optimization (AEO) — optymalizacja pod kątem cytowania przez AI w bezpośrednich odpowiedziach [[ChatGPT]], [[Claude AI|Claude]] i Gemini. Artykuł przedstawia, jak marki takie jak Webflow, Carta i Ramp dostosowały strategię contentową: zamiast masowej produkcji treści inwestują w unikalność (Information Gain), aktualność (odświeżanie co 60-90 dni) i zewnętrzne walidacje (85% cytowań AI pochodzi ze źródeł zewnętrznych, nie z własnej strony). Efekt: Webflow odnotował 6-krotnie wyższy współczynnik konwersji z ruchu generowanego przez AI.
 
 ## Frameworki i metody
 - **AEO Framework (4 kroki)**:

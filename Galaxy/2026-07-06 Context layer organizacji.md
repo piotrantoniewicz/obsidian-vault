@@ -75,7 +75,7 @@ Zasada architektoniczna domykająca rozstrzygnięcie z mech. 4 („archiwum jako
 
 - **Własny wzorzec do pokazywania klientom**: vault Obsidian + `qmd` + indeksy to działająca warstwa kontekstu (surowe Archives + syntetyczne Resources + Galaxy jako wiki) — żywe demo zamiast slajdów.
 - **Start dla organizacji — SCOPE na 3 treściach**: wybierz trzy najczęściej tworzone materiały (wnioski grantowe, newsletter, raporty) i zbuduj warstwę tylko dla nich; mierz efekt czasowy (20h → 20min to argument, który zarząd rozumie bez tłumaczenia).
-- **Wersja zerowa: 8 dokumentów NGO** — teoria zmiany + persony darczyńców/beneficjentów + programy + kanały + zespół + narzędzia + biblioteka najlepszych treści z wzorcem głosu; jedna sesja warsztatowa, jeden projekt w Claude.
+- **Wersja zerowa: 8 dokumentów organizacji społecznej** — teoria zmiany + persony darczyńców/beneficjentów + programy + kanały + zespół + narzędzia + biblioteka najlepszych treści z wzorcem głosu; jedna sesja warsztatowa, jeden projekt w Claude.
 - **Rytuał zasilania i odpytywania**: transkrypcje spotkań (z protokołami zgody!), notatki z decyzji, retro — plus kwartalne pytania do archiwum: „jakie skargi wracają?", „które apele działały?", „co obiecaliśmy i czego nie zrobiliśmy?".
 - **Audyt strategii danych jako usługa** — przed wdrożeniem jakiegokolwiek narzędzia AI: czystość / połączenie / kontekst danych operacyjnych + decyzja o lokalizacji warstwy (suwerenność) — checklist z Tectonica + 5 filarów Neidera.
 - **Argument fosy dla zarządu**: narzędzia AI są u wszystkich te same — przewagą organizacji jest to, czego nikt inny nie ma: jej własna, skumulowana, odpytywalna wiedza; inwestycja w warstwę kontekstu procentuje przy *każdym* przyszłym modelu.

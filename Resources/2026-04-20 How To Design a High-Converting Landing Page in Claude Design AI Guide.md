@@ -14,7 +14,7 @@ tags:
 
 # How To Design a High-Converting Landing Page in Claude Design
 
-Przewodnik pokazuje kompletny workflow tworzenia landing page'a w [[Claude Design]] — nowym narzędziu Anthropic wbudowanym w [[Claude]] (plan Pro, Max, Team, Enterprise), które pozwala zaprojektować i wyeksportować stronę bez Figmy. Autor demonstruje przejście od roboczego briefu do interaktywnego mockupu w czterech wariantach w jednej sesji, z eksportem do HTML, Canvy, PDF lub PPTX. Kluczowa teza: jakość wyniku zależy w 80% od jakości briefu — im bardziej konkretny brief (audiencja, oferta, CTA), tym lepsza strona. Artykuł wskazuje też na wbudowaną integrację z [[Claude Code]], dzięki której Claude Design generuje wizualną powłokę, a Claude Code dodaje logikę (formularze, płatności, bookings).
+Przewodnik pokazuje kompletny workflow tworzenia landing page'a w [[Claude Design]] — nowym narzędziu Anthropic wbudowanym w [[Claude AI|Claude]] (plan Pro, Max, Team, Enterprise), które pozwala zaprojektować i wyeksportować stronę bez Figmy. Autor demonstruje przejście od roboczego briefu do interaktywnego mockupu w czterech wariantach w jednej sesji, z eksportem do HTML, Canvy, PDF lub PPTX. Kluczowa teza: jakość wyniku zależy w 80% od jakości briefu — im bardziej konkretny brief (audiencja, oferta, CTA), tym lepsza strona. Artykuł wskazuje też na wbudowaną integrację z [[Claude Code]], dzięki której Claude Design generuje wizualną powłokę, a Claude Code dodaje logikę (formularze, płatności, bookings).
 
 ## Frameworki i metody
 

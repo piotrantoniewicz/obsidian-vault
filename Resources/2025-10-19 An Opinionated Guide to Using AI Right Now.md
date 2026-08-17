@@ -15,7 +15,7 @@ tags:
 
 # An Opinionated Guide to Using AI Right Now
 
-[[Ethan Mollick]] w cyklicznym przeglądzie narzędzi AI na koniec 2025 roku mapuje dostępny ekosystem i daje praktyczne wskazówki wyboru między bezpłatnymi a płatnymi systemami, bazując na rzeczywistych danych użytkowania [[ChatGPT]]. Główna teza: 10% ludzkości używa AI tygodniowo, co przesuwa pytanie z "czy" na "jak" — a odpowiedź zależy od konkretnego zadania, nie od lojalności wobec jednego systemu. Autor systematyzuje trzy główne płatne ekosystemy ([[Claude]], [[ChatGPT]], [[Gemini]]) i typologię modeli wewnątrz każdego z nich: chat (szybkie, konwersacyjne), agentowe (wielokrokowe, autonomiczne wyszukiwanie) i zaawansowane (złożone zadania analityczne). Artykuł jest napisany dla praktyków — skupia się na konkretnych przypadkach użycia i nowych pułapkach, takich jak sycophancy.
+[[Ethan Mollick]] w cyklicznym przeglądzie narzędzi AI na koniec 2025 roku mapuje dostępny ekosystem i daje praktyczne wskazówki wyboru między bezpłatnymi a płatnymi systemami, bazując na rzeczywistych danych użytkowania [[ChatGPT]]. Główna teza: 10% ludzkości używa AI tygodniowo, co przesuwa pytanie z "czy" na "jak" — a odpowiedź zależy od konkretnego zadania, nie od lojalności wobec jednego systemu. Autor systematyzuje trzy główne płatne ekosystemy ([[Claude AI|Claude]], [[ChatGPT]], [[Gemini]]) i typologię modeli wewnątrz każdego z nich: chat (szybkie, konwersacyjne), agentowe (wielokrokowe, autonomiczne wyszukiwanie) i zaawansowane (złożone zadania analityczne). Artykuł jest napisany dla praktyków — skupia się na konkretnych przypadkach użycia i nowych pułapkach, takich jak sycophancy.
 
 ## Kluczowe dane
 

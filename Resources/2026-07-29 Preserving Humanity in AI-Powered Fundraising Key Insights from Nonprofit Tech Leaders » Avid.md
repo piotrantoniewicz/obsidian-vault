@@ -21,7 +21,7 @@ Relacja z webinaru Avid (Kevin Peters, Nathan Chappell/Virtuous) argumentuje, ż
 
 - **Human in the loop vs human at the helm** — rozróżnienie Nathana Chappella: AI wykonuje pracę, a człowiek weryfikuje (in the loop), kontra człowiek pozostaje ostatecznie odpowiedzialny za każdą decyzję AI (at the helm) — rozróżnienie coraz ważniejsze wraz ze wzrostem autonomii agentów.
 - **Test agencyjny Kevina Peters** — traktuj output AI jak treść od zewnętrznej agencji: czytaj przed wysłaniem, nie pozwól AI samodzielnie zmieniać misji organizacji, adaptacja już zatwierdzonej treści do innego formatu jest w porządku.
-- **Audyt czasu pracy zespołu** — jedna organizacja skatalogowała 441 czynności w 150-osobowym zespole, przepuściła listę przez [[Claude]], zidentyfikowała zadania możliwe do zautomatyzowania i odfiltrowała te, których nikt nie lubił robić — wyłoniono 20 priorytetowych obszarów wdrożenia AI.
+- **Audyt czasu pracy zespołu** — jedna organizacja skatalogowała 441 czynności w 150-osobowym zespole, przepuściła listę przez [[Claude AI|Claude]], zidentyfikowała zadania możliwe do zautomatyzowania i odfiltrowała te, których nikt nie lubił robić — wyłoniono 20 priorytetowych obszarów wdrożenia AI.
 
 ## Kluczowe dane
 

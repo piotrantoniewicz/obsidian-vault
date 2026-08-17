@@ -13,7 +13,7 @@ tags:
 ---
 # Unlock the magic of Memory in Alice
 
-Newsletter wyjaśnia, dlaczego duże okna kontekstowe [[LLM]] nie są rozwiązaniem problemu pamięci AI — badania wskazują, że modele takie jak [[Claude]] czy [[Gemini]] tracą do 40% informacji przy przeciążeniu kontekstu. Skuteczna pamięć AI działa inaczej: wymaga małych, precyzyjnych wspomnień zamiast upychania wszystkiego w jeden prompt. [[Alice]] implementuje system pamięci per-asystent — użytkownik aktywnie decyduje, co zapamiętać, jednym zdaniem, przez komendę głosową lub skrót klawiaturowy. Zarządzanie wspomnieniami odbywa się centralnie w ustawieniach.
+Newsletter wyjaśnia, dlaczego duże okna kontekstowe [[LLM]] nie są rozwiązaniem problemu pamięci AI — badania wskazują, że modele takie jak [[Claude AI|Claude]] czy [[Gemini]] tracą do 40% informacji przy przeciążeniu kontekstu. Skuteczna pamięć AI działa inaczej: wymaga małych, precyzyjnych wspomnień zamiast upychania wszystkiego w jeden prompt. [[Alice]] implementuje system pamięci per-asystent — użytkownik aktywnie decyduje, co zapamiętać, jednym zdaniem, przez komendę głosową lub skrót klawiaturowy. Zarządzanie wspomnieniami odbywa się centralnie w ustawieniach.
 
 ## Wnioski
 
@@ -23,7 +23,7 @@ Newsletter wyjaśnia, dlaczego duże okna kontekstowe [[LLM]] nie są rozwiązan
 
 ## Cytat
 
-> Nawet [[Claude]] i [[Gemini]] tracą orientację przy zbyt dużej ilości informacji — 40% dużego kontekstu po prostu znika.
+> Nawet [[Claude AI|Claude]] i [[Gemini]] tracą orientację przy zbyt dużej ilości informacji — 40% dużego kontekstu po prostu znika.
 
 ## Zastosowanie
 

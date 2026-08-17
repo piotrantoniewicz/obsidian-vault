@@ -89,7 +89,7 @@ Drugie, niezależne źródło o tej samej kampanii World Central Kitchen co mech
 
 ---
 
-## Zastosowanie w kontekście NGO
+## Zastosowanie w kontekście organizacji społecznych
 
 - **Argument otwierający na szkoleniach:** retencja 79% vs 32% i LTV 2x — to liczby, które działają na wyobraźnię organizacji wahających się, czy program stałych datków się opłaca przy małej bazie.
 - **Audyt minimum dla klienta:** (1) czy formularz ma cykliczność jako opcję domyślną lub wyraźną, (2) czy istnieje sekwencja "przejdź na miesięczne" w 30 dni po pierwszej wpłacie, (3) czy ktokolwiek prosi obecnych darczyńców cyklicznych o upgrade. Większość organizacji obleje wszystkie trzy punkty — to najtańsze wdrożenia o największym zwrocie.

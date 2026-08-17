@@ -36,7 +36,7 @@ Artykuł z bloga CauseVox opisuje pięcioetapowy model digital donor journey —
 
 - Większość NGO traci darczyńców na dwóch etapach: Engage (za szybka prośba, za mało zaufania) oraz Deepen (brak ciepłego follow-upu po donacji) — to właśnie od tych etapów warto zacząć pracę nad donor journey
 - Mapa podróży darczyńcy to narzędzie strategiczne, nie kampania — wymaga zaprojektowania sekwencji touchpointów i narzędzi (email, CRM, retargeting) działających razem
-- Widoczność NGO w odpowiedziach modeli AI ([[Claude]], ChatGPT) staje się nowym kanałem pozyskiwania darczyńców — organizacje powinny zadbać o jasny opis misji i obecność na platformach weryfikacyjnych (GuideStar, Charity Navigator)
+- Widoczność NGO w odpowiedziach modeli AI ([[Claude AI|Claude]], ChatGPT) staje się nowym kanałem pozyskiwania darczyńców — organizacje powinny zadbać o jasny opis misji i obecność na platformach weryfikacyjnych (GuideStar, Charity Navigator)
 
 ## Zastosowanie
 

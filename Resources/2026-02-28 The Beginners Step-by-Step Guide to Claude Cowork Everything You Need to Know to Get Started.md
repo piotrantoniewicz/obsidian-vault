@@ -14,7 +14,7 @@ tags:
 
 # The Beginner's Step-by-Step Guide to Claude Cowork
 
-Kompleksowy przewodnik po [[Claude]] Cowork — agentycznym narzędziu [[Anthropic]] osadzonym w aplikacji desktopowej Claude, które wykonuje wieloetapowe zadania autonomicznie, pracując bezpośrednio z plikami użytkownika na jego komputerze. Kluczowa zmiana mentalna: Cowork nie odpowiada na pytania — ono wykonuje pracę. Użytkownik staje się dyrektorem zamiast wykonawcą. Artykuł obejmuje setup, pluginy, konektory, praktyczne przypadki użycia i zasady pisania skutecznych promptów.
+Kompleksowy przewodnik po [[Claude Cowork]] — agentycznym narzędziu [[Anthropic]] osadzonym w aplikacji desktopowej Claude, które wykonuje wieloetapowe zadania autonomicznie, pracując bezpośrednio z plikami użytkownika na jego komputerze. Kluczowa zmiana mentalna: Cowork nie odpowiada na pytania — ono wykonuje pracę. Użytkownik staje się dyrektorem zamiast wykonawcą. Artykuł obejmuje setup, pluginy, konektory, praktyczne przypadki użycia i zasady pisania skutecznych promptów.
 
 ## Frameworki i metody
 
@@ -55,7 +55,7 @@ Kompleksowy przewodnik po [[Claude]] Cowork — agentycznym narzędziu [[Anthrop
 - Dostępny na macOS i Windows (od 10 lutego 2026, bez obsługi ARM64)
 
 ## Wnioski
-- [[Claude]] Cowork zmienia relację człowiek–AI z "doradca–wykonawca" na "dyrektor–wykonawca" — i to jest faktyczna zmiana produktywności, nie tylko szybkości.
+- [[Claude Cowork]] zmienia relację człowiek–AI z "doradca–wykonawca" na "dyrektor–wykonawca" — i to jest faktyczna zmiana produktywności, nie tylko szybkości.
 - Plugin ekosystem sprawia, że Cowork staje się wyspecjalizowanym narzędziem branżowym (prawo, finanse, HR, marketing), a nie generalistą — co radykalnie podnosi jakość outputów dla konkretnych ról.
 - Najważniejsze ograniczenie: brak pamięci między sesjami — każda sesja wymaga ponownego przekazania kontekstu, co warto rozwiązać przez gotowe pliki kontekstu (np. profil projektu, style guide).
 

@@ -33,4 +33,4 @@ Newsletter [[Social Movers Hub]] skupia się na kluczowym momencie decyzji darcz
 
 ## Zastosowanie
 
-Ramka "4 pytań darczyńcy w 5 sekund" może być użytecznym ćwiczeniem diagnostycznym w konsultacjach i szkoleniach Piotra z [[organizacje-społeczne|NGO]] — zarówno jako szybki audyt strony głównej, jak i element kursu "Fundraising z AI". Warto ją przetestować przy pracy z [[PNRWI]] lub [[Dolnośląska Sieć Partnerstw LGD]], gdzie poprawa komunikacji z darczyńcami jest realnym wyzwaniem. [[Make.com]] lub [[Claude]] mogą wspomóc automatyzację analizy pierwszego wrażenia strony pod kątem tych czterech pytań.
+Ramka "4 pytań darczyńcy w 5 sekund" może być użytecznym ćwiczeniem diagnostycznym w konsultacjach i szkoleniach Piotra z [[organizacje-społeczne|NGO]] — zarówno jako szybki audyt strony głównej, jak i element kursu "Fundraising z AI". Warto ją przetestować przy pracy z [[PNRWI]] lub [[Dolnośląska Sieć Partnerstw LGD]], gdzie poprawa komunikacji z darczyńcami jest realnym wyzwaniem. [[Make.com]] lub [[Claude AI|Claude]] mogą wspomóc automatyzację analizy pierwszego wrażenia strony pod kątem tych czterech pytań.

@@ -23,7 +23,7 @@ Artykuł Simona Lima proponuje system repurposingu treści: zamiast tworzyć now
 
 1. **Audyt treści źródłowej** — przegląd materiałów z ostatniego roku (posty blogowe, notatki z konsultacji, nagrania, webinary, maile) i ocena każdego w skali 1-3 wg trzech kryteriów: czy to naprawdę Twoje, czy odbiorca by się zatrzymał, czy będzie aktualne za 6 miesięcy.
 
-2. **Budowa profilu głosu i kontekstu biznesowego** — dedykowany projekt AI (np. w [[Claude]] jako custom project) z opisem stylu pisania (długość zdań, sposób otwierania tekstu, ton, unikane słowa) oraz kontekstem: co robisz, dla kogo, jakie masz opinie. Specyficzność profilu decyduje o jakości wyjścia.
+2. **Budowa profilu głosu i kontekstu biznesowego** — dedykowany projekt AI (np. w [[Claude AI|Claude]] jako custom project) z opisem stylu pisania (długość zdań, sposób otwierania tekstu, ton, unikane słowa) oraz kontekstem: co robisz, dla kogo, jakie masz opinie. Specyficzność profilu decyduje o jakości wyjścia.
 
 3. **Ekstrakcja kątów (angles)** — jeden tekst źródłowy rozbijany na kilka niezależnych idei (framework, dana liczbowa, historia osobista, kontrowersyjna teza), z których każda może stać się osobnym materiałem.
 

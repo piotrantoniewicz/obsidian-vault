@@ -19,7 +19,7 @@ Miles Maftean (Partisan) argumentuje, że LLM-y stają się nowym pośrednikiem 
 ## Frameworki i metody
 
 **Rola Campaign AI Engineer — zakres odpowiedzialności:**
-1. Ciągłe monitorowanie, jak główne modele językowe ([[ChatGPT]], [[Gemini]], [[Claude]], Perplexity) opisują kandydata.
+1. Ciągłe monitorowanie, jak główne modele językowe ([[ChatGPT]], [[Gemini]], [[Claude AI|Claude]], Perplexity) opisują kandydata.
 2. Identyfikacja, z jakich źródeł korzysta AI i gdzie występują luki faktograficzne.
 3. Praca z zespołami komunikacji, polityki i digital nad poprawą architektury informacji (spójne opisy polityk, transkrypcje przemówień, jasne strony dla flagowych postulatów).
 4. Testowanie, jak różne systemy AI wyjaśniają kampanię, i porównywanie tych odpowiedzi z priorytetami kampanii.

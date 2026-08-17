@@ -20,7 +20,7 @@ Kevin Barenblat zebrał prognozy liderów tech nonprofitów na 2026 rok. Wspóln
 ## Wnioski
 - Open-source [[LLM]] staje się racjonalnym wyborem strategicznym dla NGO: rosnące ceny API, pułapki zamkniętych ekosystemów i wymagania suwerenności danych (geopolityka, regulacje) przyspieszają ten trend — warto budować argumenty dla polskich NGO na 2026.
 - [[CareerVillage]] kieruje koalicją 80+ organizacji ustalających wspólne standardy dla AI w doradztwie zawodowym — wzorzec kolektywnego zarządzania normami AI dla sektora; podobne podejście może być rekomendowane w Polsce.
-- Grant Guardian (narzędzie oparte na [[Claude]], zbudowane przez Patrick J. McGovern Foundation) adoptowane przez 100+ fundacji do due diligence grantów — konkretny przykład AI usprawniającego procesy fundraisingowe, który warto znać i cytować.
+- Grant Guardian (narzędzie oparte na [[Claude AI|Claude]], zbudowane przez Patrick J. McGovern Foundation) adoptowane przez 100+ fundacji do due diligence grantów — konkretny przykład AI usprawniającego procesy fundraisingowe, który warto znać i cytować.
 
 ## Cytat
 > Organizacje nonprofitowe, które wytrenują swoich współpracowników AI do głębokiego zrozumienia swojej misji, będą bić powyżej swojej wagi — bo AI będzie natywnie mówić ich językiem, zamiast oferować generyczną pomoc.

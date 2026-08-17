@@ -15,7 +15,7 @@ tags:
 
 # The One AI Writing Hack Nobody Talks About.
 
-[[Nate B Jones]] analizuje sprawę kancelarii Sullivan & Cromwell, która złożyła do sądu wniosek z dziesiątkami sfabrykowanych lub błędnych cytatów — wygenerowanych przez AI. Kluczowy argument: przyczyną nie był zły model ani złe prompty, lecz chaotyczne środowisko pracy wokół modelu. Rozwiązaniem jest metodologia „project room" (data room) — przygotowanie ustrukturyzowanego obszaru roboczego z inwentarzem źródeł, dziennikiem konfliktów i listą brakujących danych PRZED zleceniem agentowi napisania finalnego dokumentu. Materiał jest transkryptem z YouTube i odnosi się do możliwości modeli [[Claude]] Opus 4.7 i [[ChatGPT]] 5.5 w zakresie długotrwałych zadań agentic na systemach plików.
+[[Nate B Jones]] analizuje sprawę kancelarii Sullivan & Cromwell, która złożyła do sądu wniosek z dziesiątkami sfabrykowanych lub błędnych cytatów — wygenerowanych przez AI. Kluczowy argument: przyczyną nie był zły model ani złe prompty, lecz chaotyczne środowisko pracy wokół modelu. Rozwiązaniem jest metodologia „project room" (data room) — przygotowanie ustrukturyzowanego obszaru roboczego z inwentarzem źródeł, dziennikiem konfliktów i listą brakujących danych PRZED zleceniem agentowi napisania finalnego dokumentu. Materiał jest transkryptem z YouTube i odnosi się do możliwości modeli [[Claude AI|Claude]] Opus 4.7 i [[ChatGPT]] 5.5 w zakresie długotrwałych zadań agentic na systemach plików.
 
 ## Frameworki i metody
 

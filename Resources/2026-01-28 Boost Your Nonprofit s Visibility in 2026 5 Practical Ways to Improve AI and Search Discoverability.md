@@ -14,7 +14,7 @@ tags:
 
 # Boost Your Nonprofit's Visibility in 2026: 5 Practical Ways to Improve AI and Search Discoverability
 
-Artykuł omawia przejście od SEO do GEO ([[Generative Engine Optimization]]) — nowej dyscypliny widoczności w erze narzędzi AI takich jak [[ChatGPT]], [[Claude]] i Perplexity. Autorka argumentuje, że ponad 50% dorosłych już używa AI do wyszukiwania rekomendacji organizacji do wspierania, co zmienia zasady gry dla NGO. GEO nagradza jasność i spójność przekazu zamiast słów kluczowych — co paradoksalnie faworyzuje małe organizacje z klarowną misją nad dużymi podmiotami o rozmytym języku. Kluczem jest jeden sentence framework opisu misji, stosowany spójnie we wszystkich kanałach.
+Artykuł omawia przejście od SEO do GEO ([[Generative Engine Optimization]]) — nowej dyscypliny widoczności w erze narzędzi AI takich jak [[ChatGPT]], [[Claude AI|Claude]] i Perplexity. Autorka argumentuje, że ponad 50% dorosłych już używa AI do wyszukiwania rekomendacji organizacji do wspierania, co zmienia zasady gry dla NGO. GEO nagradza jasność i spójność przekazu zamiast słów kluczowych — co paradoksalnie faworyzuje małe organizacje z klarowną misją nad dużymi podmiotami o rozmytym języku. Kluczem jest jeden sentence framework opisu misji, stosowany spójnie we wszystkich kanałach.
 
 ## Frameworki i metody
 

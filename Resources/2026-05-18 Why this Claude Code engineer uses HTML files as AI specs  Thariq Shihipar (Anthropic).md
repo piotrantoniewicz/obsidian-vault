@@ -24,7 +24,7 @@ tags:
   3. **Micro-app do edycji** — dla trudnych sekcji planu: "create an editable HTML artifact, design the ideal interface for this problem" → jednorazowy UI do interaktywnej edycji konkretnego fragmentu
   4. **Wdrożenie z artefaktem** — wyczyść kontekst, "here's a plan, implement it" → HTML plan jako artifact weryfikacyjny
 
-- **Dokumentacja just-in-time** — specyfikacje nie muszą być w centralnym repozytorium w zunifikowanym formacie; [[Claude]] znajdzie je narzędziami. Ważna jest jakość treści, nie miejsce przechowywania
+- **Dokumentacja just-in-time** — specyfikacje nie muszą być w centralnym repozytorium w zunifikowanym formacie; [[Claude AI|Claude]] znajdzie je narzędziami. Ważna jest jakość treści, nie miejsce przechowywania
 
 - **Filozofia promowania** — daj Claude wystarczający kontekst (typ interfejsów, struktura danych), ale nie przekonstruowuj promptu; dodaj "whatever is needed to give me maximum context" jako sygnał zaufania zamiast sztywnej specyfikacji każdego elementu
 

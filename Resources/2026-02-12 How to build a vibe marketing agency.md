@@ -25,4 +25,4 @@ Ryan Carr opisuje cztery fundamentalne strategie, które pozwoliły jego agencji
 > „AI nie generuje pomysłów — robi to klient. AI organizuje, rozbudowuje i formatuje te pomysły w dopracowane materiały."
 
 ## Zastosowanie
-Wdrożyć context engineering w pracy z klientami ghostwritingu: ustawić kanał Slack + automatyzację Zapier → [[Claude]] → Notion, by każdy klient dostarczał 5-minutowy voice note zamiast godzinnego briefu.
+Wdrożyć context engineering w pracy z klientami ghostwritingu: ustawić kanał Slack + automatyzację Zapier → [[Claude AI|Claude]] → Notion, by każdy klient dostarczał 5-minutowy voice note zamiast godzinnego briefu.

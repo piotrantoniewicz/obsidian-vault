@@ -18,7 +18,7 @@ Patryk Łopot z wPraktyce.AI opisuje, dlaczego obawa przed wyciekiem danych przy
 
 ## Frameworki i metody
 
-- **Model vs. wiedza** — kluczowe rozróżnienie: model ([[Claude]]/Gemini) na serwerach europejskich pod DPA i RODO ≠ publiczny czat; wiedza firmowa w bazie [[RAG]] wyłącznie u klienta, niedostępna innym
+- **Model vs. wiedza** — kluczowe rozróżnienie: model ([[Claude AI|Claude]]/Gemini) na serwerach europejskich pod DPA i RODO ≠ publiczny czat; wiedza firmowa w bazie [[RAG]] wyłącznie u klienta, niedostępna innym
 - **Anonimizacja** — do modelu trafia tylko niezbędne minimum; dane wrażliwe są podstawiane lub zaciemniane przed wysłaniem do modelu
 - **Deployment offline** — opcja "zamkniętej puszki": model postawiony na własnym serwerze klienta, bez dostępu do internetu
 - **Baza RAG odcięta od sieci** — karmiona wyłącznie dokumentami i regułami klienta; eliminuje ryzyko "halucynowania z internetu"

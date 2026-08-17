@@ -14,7 +14,7 @@ tags:
 
 # The 80/20 of creating content with AI
 
-Ryan Carr z newslettera Moodboard opisuje trzyetapowy workflow tworzenia treści z AI, który — według zasady Pareto — odpowiada za większość jego wyników. Punktem wyjścia jest zawsze notatka głosowa i szkic konspektu, zanim uruchomi jakiekolwiek narzędzie AI. Następnie całość trafia do skonfigurowanego projektu w [[Claude]] Cowork, który generuje zarówno treść, jak i gotowe prompty do wizualizacji. Ostatni krok to generowanie grafik w [[Flora]] lub [[Midjourney]], zależnie od charakteru materiału. Kluczowym wnioskiem jest to, że jakość outputu AI jest wprost proporcjonalna do jakości inputu — leniwy prompt daje przeciętny wynik.
+Ryan Carr z newslettera Moodboard opisuje trzyetapowy workflow tworzenia treści z AI, który — według zasady Pareto — odpowiada za większość jego wyników. Punktem wyjścia jest zawsze notatka głosowa i szkic konspektu, zanim uruchomi jakiekolwiek narzędzie AI. Następnie całość trafia do skonfigurowanego projektu w [[Claude Cowork]], który generuje zarówno treść, jak i gotowe prompty do wizualizacji. Ostatni krok to generowanie grafik w [[Flora]] lub [[Midjourney]], zależnie od charakteru materiału. Kluczowym wnioskiem jest to, że jakość outputu AI jest wprost proporcjonalna do jakości inputu — leniwy prompt daje przeciętny wynik.
 
 ## Frameworki i metody
 
@@ -25,7 +25,7 @@ Ryan Carr z newslettera Moodboard opisuje trzyetapowy workflow tworzenia treści
 ## Wnioski
 
 - Konspekt jest niedocenianym elementem pracy z AI — bez niego nawet dobra notatka głosowa daje gorszy wynik niż oba elementy razem
-- Projekt w [[Claude]] Cowork eliminuje konieczność osobnego etapu planowania grafik — prompty powstają równolegle z treścią, co skraca cały workflow
+- Projekt w [[Claude Cowork]] eliminuje konieczność osobnego etapu planowania grafik — prompty powstają równolegle z treścią, co skraca cały workflow
 - Specjalizacja narzędzi (każde robi to, w czym jest najlepsze) daje lepszy efekt niż używanie jednego generatora do wszystkiego
 
 ## Zastosowanie

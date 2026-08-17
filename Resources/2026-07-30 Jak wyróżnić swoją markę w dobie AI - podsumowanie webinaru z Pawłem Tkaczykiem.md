@@ -25,7 +25,7 @@ Podsumowanie webinaru programu AI_Marketers z Pawłem Tkaczykiem i Arturem Jabł
 
 ## Wnioski
 - Zasada "destylacji głosu zamiast opisu" to gotowa metoda do wdrożenia w [[ghostwriting]] — zamiast promptu ze stylem, budować korpus przykładowych tekstów klienta i wyciągać z niego wzorzec osobno dla każdej formy
-- Koncepcja folderu RAW jako niezmiennego źródła prawdy pokrywa się z podejściem do budowy Second Brain w [[Obsidian]] połączonym z [[Claude]] — dane źródłowe (Resources/, Archives/) powinny zostawać nietknięte, a synteza dzieje się osobno
+- Koncepcja folderu RAW jako niezmiennego źródła prawdy pokrywa się z podejściem do budowy Second Brain w [[Obsidian]] połączonym z [[Claude AI|Claude]] — dane źródłowe (Resources/, Archives/) powinny zostawać nietknięte, a synteza dzieje się osobno
 - Halucynacje i utrata stylu przy braku merytorycznego wsadu to argument przeciw traktowaniu AI jako samodzielnego twórcy treści — model działa dobrze jako narzędzie specjalisty, nie jego zastępstwo
 
 ## Cytat

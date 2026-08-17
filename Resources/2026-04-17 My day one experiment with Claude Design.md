@@ -24,7 +24,7 @@ Anthropic wypuściło Claude Design — nowe narzędzie w fazie research preview
 
 ## Wnioski
 
-- [[Claude Design]] reprezentuje wyraźny upgrade w generowaniu brandowanych materiałów wizualnych i front-end UI w porównaniu do standardowego [[Claude]] Chat — warto śledzić jego rozwój jako narzędzia do tworzenia materiałów dla klientów z NGO
+- [[Claude Design]] reprezentuje wyraźny upgrade w generowaniu brandowanych materiałów wizualnych i front-end UI w porównaniu do standardowego [[Claude AI|Claude]] Chat — warto śledzić jego rozwój jako narzędzia do tworzenia materiałów dla klientów z NGO
 - Separacja strategii od wykonania (wizard → Claude Design) to użyteczny pattern do wdrożenia w szkoleniach z AI — uczy myślenia etapami i ogranicza ryzyko błędów w długich, złożonych materiałach
 - Narzędzie samodzielnie wykrywa i poprawia błędy wizualne przez robienie i analizowanie screenshotów własnej pracy — sygnał dojrzałości agentycznej, istotny przy ocenie narzędzi AI do pracy z klientem
 

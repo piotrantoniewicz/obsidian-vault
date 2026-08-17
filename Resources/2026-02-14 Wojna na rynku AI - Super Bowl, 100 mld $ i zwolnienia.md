@@ -13,7 +13,7 @@ tags:
 ---
 # Wojna na rynku AI: Super Bowl, 100 mld $ i zwolnienia
 
-[[Anthropic]] wykupił reklamę na Super Bowl atakując [[OpenAI]] za wprowadzenie reklam do [[ChatGPT]], podczas gdy [[Claude Code]] osiągnął $1 mld ARR w zaledwie 6 miesięcy — to sygnał, że wyścig AI wchodzi w fazę walki o ekosystem i masowy rynek jednocześnie. Goldman Sachs prognozuje ~20 000 zwolnień miesięcznie w sektorach zagrożonych automatyzacją, ale sam wdraża [[Claude]] u 12 000 developerów i raportuje 20%+ wzrost produktywności — AI nie likwiduje pracy, zmienia kto ją dostaje. Kluczowy insight Wolińskiego: skalowanie automatyzacji to 80% ludzie i procesy, tylko 20% technologia; mapowanie, edukacja, dokumentacja i pokonywanie oporu organizacyjnego decydują o sukcesie wdrożenia.
+[[Anthropic]] wykupił reklamę na Super Bowl atakując [[OpenAI]] za wprowadzenie reklam do [[ChatGPT]], podczas gdy [[Claude Code]] osiągnął $1 mld ARR w zaledwie 6 miesięcy — to sygnał, że wyścig AI wchodzi w fazę walki o ekosystem i masowy rynek jednocześnie. Goldman Sachs prognozuje ~20 000 zwolnień miesięcznie w sektorach zagrożonych automatyzacją, ale sam wdraża [[Claude AI|Claude]] u 12 000 developerów i raportuje 20%+ wzrost produktywności — AI nie likwiduje pracy, zmienia kto ją dostaje. Kluczowy insight Wolińskiego: skalowanie automatyzacji to 80% ludzie i procesy, tylko 20% technologia; mapowanie, edukacja, dokumentacja i pokonywanie oporu organizacyjnego decydują o sukcesie wdrożenia.
 
 ## Wnioski
 - Skalowanie automatyzacji w organizacji to przede wszystkim mapowanie procesów, edukacja ludzi, przekonywanie zespołów i dokumentowanie — technologia to tylko 20% sukcesu; bez tego 80% każda automatyzacja pozostaje "jednorazowym projektem" a nie systemem.

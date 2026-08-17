@@ -17,7 +17,7 @@ tags:
 Dickie Bush z Premium Ghostwriting Academy przedstawia dane kontrujące narrację o AI jako zagrożeniu dla ghostwriterów. Kluczowy argument: skoro tylko 8,6% ludności świata używa ChatGPT, a większość z nich robi to nieudolnie (kopiowanie surowego output'u AI bez edycji), poprzeczka dla profesjonalnego ghostwritera jest niezwykle niska. Case study Michelle pokazuje, że ghostwriterzy traktujący AI jako narzędzie — a nie zastępstwo — osiągają lepsze wyniki niż kiedykolwiek, ponieważ podnoszą postrzeganą wartość swojej pracy.
 
 ## Frameworki i metody
-- **AI jako partner, nie zastępstwo** — ghostwriterzy używają [[Claude]], Gamma i podobnych narzędzi do natychmiastowego ulepszania treści, szybszego realizowania poprawek i tworzenia materiałów wizualnych — co sprawia, że jeden ghostwriter dostarcza pracę jakości całego zespołu
+- **AI jako partner, nie zastępstwo** — ghostwriterzy używają [[Claude AI|Claude]], Gamma i podobnych narzędzi do natychmiastowego ulepszania treści, szybszego realizowania poprawek i tworzenia materiałów wizualnych — co sprawia, że jeden ghostwriter dostarcza pracę jakości całego zespołu
 - **Pozycjonowanie jako doradca biznesowy** — premium ghostwriting to nie bycie najlepszym pisarzem w pokoju, ale rozumienie, co klient chce powiedzieć, i posiadanie frameworków, by powiedzieć to lepiej w skali
 
 ## Kluczowe dane

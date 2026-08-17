@@ -43,4 +43,4 @@ tags:
 
 ## Zastosowanie
 
-Wzorzec LLM Wiki z architekturą L1/L2 jest bezpośrednio stosowalny do rozwijania własnego Second Brain w [[Obsidian]] + [[Claude]] Cowork — szczególnie podział na stałą pamięć sesji (reguły pracy, preferencje, kontekst projektów) i głębszą bazę wiedzy dostępną na żądanie. Schema z namespace'ami i typami stron można zaadaptować do struktury EPARAX. Warto rozważyć implementację komendy `/wiki ingest` jako pluginu do przetwarzania nowych materiałów bezpośrednio do vaultu.
+Wzorzec LLM Wiki z architekturą L1/L2 jest bezpośrednio stosowalny do rozwijania własnego Second Brain w [[Obsidian]] + [[Claude Cowork]] — szczególnie podział na stałą pamięć sesji (reguły pracy, preferencje, kontekst projektów) i głębszą bazę wiedzy dostępną na żądanie. Schema z namespace'ami i typami stron można zaadaptować do struktury EPARAX. Warto rozważyć implementację komendy `/wiki ingest` jako pluginu do przetwarzania nowych materiałów bezpośrednio do vaultu.

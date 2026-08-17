@@ -25,7 +25,7 @@ tags:
 
 ## Wnioski
 
-- Organizacje NGO muszą zacząć traktować AI jak kanał reputacyjny — to, jak [[ChatGPT]] czy [[Claude]] opisują organizację, kształtuje decyzje darczyńców i wolontariuszy, często bez jednego kliknięcia na stronę
+- Organizacje NGO muszą zacząć traktować AI jak kanał reputacyjny — to, jak [[ChatGPT]] czy [[Claude AI|Claude]] opisują organizację, kształtuje decyzje darczyńców i wolontariuszy, często bez jednego kliknięcia na stronę
 - GEO to nie modny buzzword, ale logiczne rozszerzenie pracy PR i komunikacyjnej — organizacje z silnym contentem autorytativnym i dobrym earned media są naturalnie lepiej pozycjonowane w odpowiedziach AI
 - Luki narracyjne "zapełniają się same" — jeśli organizacja nie wyjaśnia aktywnie swojej misji i wyników, AI skonstruuje odpowiedź z dostępnych (potencjalnie nieaktualnych lub błędnych) źródeł
 

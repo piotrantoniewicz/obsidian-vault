@@ -105,11 +105,11 @@ Rozszerzenie mech. 2 („segmentacja według zaangażowania") o wymiar, którego
 
 ## Powiązane pojęcia
 
-- [[2026-06-14 Email deliverability]] — higiena listy to operacyjna warstwa dostarczalności; nieaktywni subskrybenci to najgroźniejszy negatywny sygnał reputacji domeny, a wyciszanie ich jest jedną z pięciu czerwonych flag opisanych tam jako "wczesne ostrzeżenia".
-- [[2026-06-15 Newsletter jako kanał]] — własny kanał trzeba utrzymywać, by pozostał aktywem; higiena to konserwacja silnika newslettera, nie jego hamulec.
-- [[2026-06-25 Owned vs rented audience]] — lista jest aktywem tylko wtedy, gdy jest żywa; zaniedbana baza zamienia się z aktywa w koszt reputacyjny.
-- [[2026-06-13 Stewardship]] — sunset i re-engagement to "opieka nad darczyńcą" przeniesiona na poziom listy: automate the tired (czyszczenie), humanize the inspired (eskalacja darczyńcy do kontaktu osobistego).
-- [[2026-06-15 Pokolenia darczyńców]] — definicja "nieaktywności" i okno cyklu zależą od kohorty; generyczny próg czasowy karze inaczej młodych (P2P, rzadki kontakt) niż Boomersów.
+- [[2026-06-14 Email deliverability|Email deliverability]] — higiena listy to operacyjna warstwa dostarczalności; nieaktywni subskrybenci to najgroźniejszy negatywny sygnał reputacji domeny, a wyciszanie ich jest jedną z pięciu czerwonych flag opisanych tam jako "wczesne ostrzeżenia".
+- [[2026-06-15 Newsletter jako kanał|Newsletter jako kanał]] — własny kanał trzeba utrzymywać, by pozostał aktywem; higiena to konserwacja silnika newslettera, nie jego hamulec.
+- [[2026-06-25 Owned vs rented audience|Owned vs rented audience]] — lista jest aktywem tylko wtedy, gdy jest żywa; zaniedbana baza zamienia się z aktywa w koszt reputacyjny.
+- [[2026-06-13 Stewardship|Stewardship]] — sunset i re-engagement to "opieka nad darczyńcą" przeniesiona na poziom listy: automate the tired (czyszczenie), humanize the inspired (eskalacja darczyńcy do kontaktu osobistego).
+- [[2026-06-15 Pokolenia darczyńców|Pokolenia darczyńców]] — definicja "nieaktywności" i okno cyklu zależą od kohorty; generyczny próg czasowy karze inaczej młodych (P2P, rzadki kontakt) niż Boomersów.
 - [[2026-07-06 RODO i dane wrażliwe|RODO i dane wrażliwe]] — suppression zamiast kasowania, audytowalna ścieżka źródła (provenance) i double opt-in to zarazem praktyki higieny i zgodności; „no lineage, no send" to RODO w przebraniu operacyjnym.
 
 ---

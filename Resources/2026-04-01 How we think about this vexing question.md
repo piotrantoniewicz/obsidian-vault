@@ -19,8 +19,8 @@ Artykuł z bloga organizacji klimatycznej Change Climate opisuje ich podejście 
 ## Frameworki i metody
 
 - **Test "liścia dmuchawy vs. autobusu"** — przed użyciem AI zadaj pytanie: czy ta energia robi pożyteczną pracę? Liść dmuchawa jest głośna, nieefektywna i przesuwa problem. Autobus miejski przewozi 40 osób efektywnie. Narzędzie AI to liść dmuchawa lub autobus — zależy od zastosowania.
-- **Zasada minimalnego narzędzia** — preferuj najlżejszy model, który spełnia zadanie. Małe zadania → lekki model (np. Gemini Flash). Złożone problemy → większy model (np. [[Claude]] Opus). Generowanie memów bez misji → rezygnacja z AI.
-- **Pomiar i raportowanie emisji AI** — emisje z używania narzędzi AI (jak [[Claude]], Gemini, GitHub Copilot) szacuj na podstawie danych dostawców i intensywności sieciowej. Włącz je do raportowania operacyjnego organizacji — traktuj jak lot służbowy, nie jak niewidoczny koszt.
+- **Zasada minimalnego narzędzia** — preferuj najlżejszy model, który spełnia zadanie. Małe zadania → lekki model (np. Gemini Flash). Złożone problemy → większy model (np. [[Claude AI|Claude]] Opus). Generowanie memów bez misji → rezygnacja z AI.
+- **Pomiar i raportowanie emisji AI** — emisje z używania narzędzi AI (jak [[Claude AI|Claude]], Gemini, GitHub Copilot) szacuj na podstawie danych dostawców i intensywności sieciowej. Włącz je do raportowania operacyjnego organizacji — traktuj jak lot służbowy, nie jak niewidoczny koszt.
 
 ## Wnioski
 

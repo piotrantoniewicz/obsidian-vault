@@ -25,7 +25,7 @@ tags:
 
 **Zasady kulturowe zespołu Fiony:**
 - "Masz pozwolenie zabić każdy proces, który nie działa" — dotyczy też procesów wprowadzonych przez samą Fionę
-- "Co jest lepsze niż ja to robię? Że robi to [[Claude]]." — stały check: czy to da się zautomatyzować?
+- "Co jest lepsze niż ja to robię? Że robi to [[Claude AI|Claude]]." — stały check: czy to da się zautomatyzować?
 
 **Hiring managerów:** nowi managerowie zaczynają jako IC (individual contributors) — uczą się kodu, budują relacje, zanim sięgną po toolbox managera.
 

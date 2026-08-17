@@ -34,4 +34,4 @@ Newsletter Five Prompts (Tuck Ross) diagnozuje najczęstszą przyczynę niepowod
 
 ## Zastosowanie
 
-Outcome Audit warto uruchamiać przy każdej nowej usłudze lub szkoleniu — zimne wejście do [[Claude]] bez wyjaśniania kontekstu pokazuje dokładnie, co widzi potencjalny klient. One-Sentence Sell sprawdzi się jako ćwiczenie dla NGO tworzących pitch dla donorów: jedna zdanie opisujące zmianę, nie działania organizacji.
+Outcome Audit warto uruchamiać przy każdej nowej usłudze lub szkoleniu — zimne wejście do [[Claude AI|Claude]] bez wyjaśniania kontekstu pokazuje dokładnie, co widzi potencjalny klient. One-Sentence Sell sprawdzi się jako ćwiczenie dla NGO tworzących pitch dla donorów: jedna zdanie opisujące zmianę, nie działania organizacji.

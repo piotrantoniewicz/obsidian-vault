@@ -14,7 +14,7 @@ tags:
 
 # 10 Blogging Best Practices for Nonprofits
 
-Artykuł [[Heather Mansfield]] prezentuje 10 zasad skutecznego blogowania dla NGO w 2026 roku, podkreślając ewolucję bloga od platformy opiniotwórczej do wieloautorskiego narzędzia contentowego. Kluczową nowością jest wyraźne wskazanie, że regularne blogowanie to fundament strategii GEO (Generative Engine Optimization) — modele językowe jak [[ChatGPT]] i [[Claude]] indeksują blogi przy trenowaniu modeli i wyświetlaniu wyników wyszukiwania AI, co tworzy nowy kanał organicznej widoczności. Blog spełnia jednocześnie cztery funkcje: zasila email i social media stałym contentem, buduje SEO, poprawia widoczność w AI search i konwertuje czytelników przez CTA osadzone w treści artykułów.
+Artykuł [[Heather Mansfield]] prezentuje 10 zasad skutecznego blogowania dla NGO w 2026 roku, podkreślając ewolucję bloga od platformy opiniotwórczej do wieloautorskiego narzędzia contentowego. Kluczową nowością jest wyraźne wskazanie, że regularne blogowanie to fundament strategii GEO (Generative Engine Optimization) — modele językowe jak [[ChatGPT]] i [[Claude AI|Claude]] indeksują blogi przy trenowaniu modeli i wyświetlaniu wyników wyszukiwania AI, co tworzy nowy kanał organicznej widoczności. Blog spełnia jednocześnie cztery funkcje: zasila email i social media stałym contentem, buduje SEO, poprawia widoczność w AI search i konwertuje czytelników przez CTA osadzone w treści artykułów.
 
 ## Frameworki i metody
 
@@ -32,7 +32,7 @@ Artykuł [[Heather Mansfield]] prezentuje 10 zasad skutecznego blogowania dla NG
 
 ## Wnioski
 
-- Blog NGO to w 2026 r. kluczowy element GEO — regularne publikowanie sprawia, że modele językowe ([[ChatGPT]], [[Claude]]) indeksują i cytują treści w wynikach AI search; to nowy kanał widoczności organicznej obok Google
+- Blog NGO to w 2026 r. kluczowy element GEO — regularne publikowanie sprawia, że modele językowe ([[ChatGPT]], [[Claude AI|Claude]]) indeksują i cytują treści w wynikach AI search; to nowy kanał widoczności organicznej obok Google
 - CTA osadzone bezpośrednio w treści postów blogowych (newsletter opt-in, Donate) działają skuteczniej niż CTA wyłącznie w sidebarze — większość NGO tego nie robi i traci konwersje z czytelników, którzy nie scrollują do bocznej kolumny
 - Listy numerowane i treści impact-owe to najlepiej performujące formaty blogowe — prosta rekomendacja wdrożeniowa dla organizacji szukającej punktu startowego
 

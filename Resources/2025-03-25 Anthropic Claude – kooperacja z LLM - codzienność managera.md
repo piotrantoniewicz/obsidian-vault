@@ -14,7 +14,7 @@ tags:
 
 # Anthropic Claude – kooperacja z LLM - codzienność managera
 
-Autor, inwestor VC z doświadczeniem w startupach, opisuje praktyczne wdrożenie [[Claude]] 3.7 Sonnet w codziennej pracy menedżera wieloprojektowego. Centralnym argumentem jest podejście hybrydowe: tryb standardowy do szybkich zadań komunikacyjnych i tryb rozszerzonego myślenia do złożonych analiz — analogia do treningu biegowego (sprint vs maraton). Artykuł jest kompletnym przewodnikiem: od konfiguracji projektów i project knowledge, przez artefakty jako żywe dokumenty, po integrację z kalendarzem, Slackiem i CRM, a na końcu zasady skalowania wdrożenia na poziom organizacyjny.
+Autor, inwestor VC z doświadczeniem w startupach, opisuje praktyczne wdrożenie [[Claude AI|Claude]] 3.7 Sonnet w codziennej pracy menedżera wieloprojektowego. Centralnym argumentem jest podejście hybrydowe: tryb standardowy do szybkich zadań komunikacyjnych i tryb rozszerzonego myślenia do złożonych analiz — analogia do treningu biegowego (sprint vs maraton). Artykuł jest kompletnym przewodnikiem: od konfiguracji projektów i project knowledge, przez artefakty jako żywe dokumenty, po integrację z kalendarzem, Slackiem i CRM, a na końcu zasady skalowania wdrożenia na poziom organizacyjny.
 
 ## Frameworki i metody
 
@@ -25,7 +25,7 @@ Autor, inwestor VC z doświadczeniem w startupach, opisuje praktyczne wdrożenie
 ## Wnioski
 
 - Project knowledge (kontekst wgrany do projektu Claude) to fundament skuteczności — bez niego każda rozmowa zaczyna się od zera; analogia do onboardingu pracownika
-- Artefakty jako żywe dokumenty pozwalają budować ewoluujące playbooki zamiast jednorazowych odpowiedzi — warto projektować pracę z [[Claude]] w ten sposób od początku
+- Artefakty jako żywe dokumenty pozwalają budować ewoluujące playbooki zamiast jednorazowych odpowiedzi — warto projektować pracę z [[Claude AI|Claude]] w ten sposób od początku
 - Skalowanie AI w organizacji wymaga przede wszystkim inwestycji w ludzi (szkolenia, dokumentacja praktyk), nie tylko w subskrypcje narzędzi
 
 ## Cytat

@@ -18,7 +18,7 @@ tags:
 ## Wnioski
 - Stack [[Claude Code]] + [[MCP]] + [[n8n]] pozwala budować agentów bez pisania kodu linijka po linijce — bariera wejścia spada na tyle, że organizacje bez programistów na etacie mogą samodzielnie tworzyć automatyzacje.
 - 89% firm deklaruje użycie AI, lecz tylko 1% mierzy ROI — framework MAPUJ → PRIORYTETYZUJ → PILOT to prosty, ale dyscyplinujący model wdrożenia; bez niego narzędzia AI stają się kolejnym kosztem bez efektu.
-- Wycena [[n8n]] na $2,5 mld i integracja [[Claude]] z Microsoft 365 (400 mln użytkowników) to sygnały, że ekosystem dojrzewa — warto budować kompetencje i wdrożenia na tych standardach teraz, nie za dwa lata.
+- Wycena [[n8n]] na $2,5 mld i integracja [[Claude AI|Claude]] z Microsoft 365 (400 mln użytkowników) to sygnały, że ekosystem dojrzewa — warto budować kompetencje i wdrożenia na tych standardach teraz, nie za dwa lata.
 
 ## Cytat
 > Narzędzia są tanie. Czas właściciela jest drogi. Jeśli nie wiesz CO automatyzować — żadne narzędzie Ci nie pomoże.

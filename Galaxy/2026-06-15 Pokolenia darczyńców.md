@@ -70,12 +70,12 @@ Rozszerzenie mech. 2 („młodzi dają czas, nie pieniądze") z relacji darczyń
 
 ## Powiązane pojęcia
 
-- [[2026-06-03 Tożsamość darczyńcy]] — pokolenia to **wymiar** tożsamości dawania: pod różnicami generacyjnymi leży ta sama mechanika (przynależność przed przekonaniem, dar jako wyraz „kim jestem"). Ta strona rozkłada tożsamość na konkretne kohorty z danymi.
-- [[2026-06-13 Peer-to-peer fundraising]] — dźwignia dla najmłodszych: pod-30 dają zasięg i proxy trust, nie gotówkę; P2P i sharing zamieniają zaangażowanie czasowe w pozyskanie.
-- [[2026-06-12 Recurring giving]] — skłonność do cykliczności różni się generacyjnie; <2% nowych darczyńców to dawcy cykliczni — największa pula do odblokowania, szczególnie u Millenialsów budowanych całorocznie.
-- [[2026-06-13 Stewardship]] — retencja jest generacyjnie zróżnicowana (Gen X 68% vs Millenialsi 48%); okno 60 dni i welcome series decydują, czy pierwszy dar stanie się relacją.
-- [[2026-06-13 Major gifts]] — Boomers i family foundations to rdzeń dużych darów i nadchodzącego transferu majątku; generacyjny obiektyw wskazuje, gdzie szukać pipeline'u.
-- [[2026-06-14 Storytelling oparty na danych]] / [[2026-06-14 Framing]] — donor-centered copy i konkretny apel (kwota → efekt) to wspólny mianownik skuteczności ponad pokoleniami; framing dopasowuje się do kohorty.
+- [[2026-06-03 Tożsamość darczyńcy|Tożsamość darczyńcy]] — pokolenia to **wymiar** tożsamości dawania: pod różnicami generacyjnymi leży ta sama mechanika (przynależność przed przekonaniem, dar jako wyraz „kim jestem"). Ta strona rozkłada tożsamość na konkretne kohorty z danymi.
+- [[2026-06-13 Peer-to-peer fundraising|Peer-to-peer fundraising]] — dźwignia dla najmłodszych: pod-30 dają zasięg i proxy trust, nie gotówkę; P2P i sharing zamieniają zaangażowanie czasowe w pozyskanie.
+- [[2026-06-12 Recurring giving|Recurring giving]] — skłonność do cykliczności różni się generacyjnie; <2% nowych darczyńców to dawcy cykliczni — największa pula do odblokowania, szczególnie u Millenialsów budowanych całorocznie.
+- [[2026-06-13 Stewardship|Stewardship]] — retencja jest generacyjnie zróżnicowana (Gen X 68% vs Millenialsi 48%); okno 60 dni i welcome series decydują, czy pierwszy dar stanie się relacją.
+- [[2026-06-13 Major gifts|Major gifts]] — Boomers i family foundations to rdzeń dużych darów i nadchodzącego transferu majątku; generacyjny obiektyw wskazuje, gdzie szukać pipeline'u.
+- [[2026-06-14 Storytelling oparty na danych|Storytelling oparty na danych]] / [[2026-06-14 Framing|Framing]] — donor-centered copy i konkretny apel (kwota → efekt) to wspólny mianownik skuteczności ponad pokoleniami; framing dopasowuje się do kohorty.
 - [[2026-07-06 Transfer międzypokoleniowy majątku|Transfer międzypokoleniowy majątku]] — nadchodzące przesunięcie bogactwa Boomers → młodsi jako strategiczny kontekst: Boomers oddają (legaty), młodsze kohorty dziedziczą i dają inaczej (DAF, proof of impact).
 
 ---

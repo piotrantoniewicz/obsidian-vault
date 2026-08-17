@@ -20,13 +20,13 @@ Artykuł wprowadza pojęcie vibe codingu jako nowego podejścia do tworzenia opr
 
 **5 kroków vibe codingu dla NGO:**
 1. **Zdefiniuj potrzebę** — jasno opisz problem do rozwiązania (np. system rezerwacji, kalkulator darowizn, quiz o misji)
-2. **Wybierz narzędzie** — dla NGO bez doświadczenia technicznego: [[Claude]] lub ChatGPT (darmowe konta, bez instalacji); bardziej zaawansowane: Cursor/Windsurf
+2. **Wybierz narzędzie** — dla NGO bez doświadczenia technicznego: [[Claude AI|Claude]] lub ChatGPT (darmowe konta, bez instalacji); bardziej zaawansowane: Cursor/Windsurf
 3. **Opisz wizję** — w naturalnym języku podaj co aplikacja ma robić, jak wyglądać, jakie dane obsługiwać; można dołączyć link do inspiracji
 4. **Iteruj i doprecyzuj** — jeśli coś nie działa, opisz problem lub zmianę prostym zdaniem; AI zaproponuje poprawkę
 5. **Testuj i wdrażaj** — przetestuj w przeglądarce; zapisz plik HTML lub opublikuj online; AI podpowie też jak dodać wysyłkę mailową
 
 **Porównanie narzędzi do vibe codingu:**
-- [[Claude]] (Anthropic) — kompletne aplikacje webowe, analiza danych, automatyzacja; darmowa + ~20 USD/mies.
+- [[Claude AI|Claude]] (Anthropic) — kompletne aplikacje webowe, analiza danych, automatyzacja; darmowa + ~20 USD/mies.
 - ChatGPT ([[OpenAI]]) — tworzenie stron i aplikacji; darmowa + ~20 USD/mies.
 - GitHub Copilot — zaawansowane podpowiedzi kodu, wymaga podstaw programowania; ~10 USD/mies.
 - Cursor / Windsurf — edytory kodu z AI, przyjazne dla początkujących; darmowe + płatne plany

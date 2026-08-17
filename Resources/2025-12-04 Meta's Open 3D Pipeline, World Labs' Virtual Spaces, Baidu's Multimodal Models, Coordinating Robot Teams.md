@@ -19,7 +19,7 @@ Andrew Ng wskazuje, że brak zaufania do AI w USA i Europie stanowi realne zagro
 ## Frameworki i metody
 
 - **Krok 1: Realne korzyści** — buduj aplikacje AI, które faktycznie poprawiają życie zwykłych ludzi, nie tylko "produktywność"; inwestuj w szkolenia i edukację (jak [[DeepLearning.AI]]), bo zrozumienie technologii obniża bariery adopcji
-- **Krok 2: Wiarygodność przez czyn** — unikaj hype'u i straszenia, reaguj na sensacyjne doniesienia medialne (przykład: błędne raportowanie o "szantażowaniu" przez [[Claude]]), nie lobbuj za przepisami godzącymi w open source wyłącznie z pobudek konkurencyjnych
+- **Krok 2: Wiarygodność przez czyn** — unikaj hype'u i straszenia, reaguj na sensacyjne doniesienia medialne (przykład: błędne raportowanie o "szantażowaniu" przez [[Claude AI|Claude]]), nie lobbuj za przepisami godzącymi w open source wyłącznie z pobudek konkurencyjnych
 
 ## Kluczowe dane
 

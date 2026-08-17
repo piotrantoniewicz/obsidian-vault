@@ -15,11 +15,11 @@ tags:
 ---
 # Customer story: The Patrick J. McGovern Foundation
 
-[[Patrick J. McGovern Foundation]] (PJMF) — globalna filantropia skupiona na AI for good — zbudowała narzędzie Grant Guardian oparte na [[Claude]] ([[Anthropic]]), które standaryzuje finansową ocenę wniosków grantowych. Narzędzie eliminuje niespójności wynikające z manualnej analizy dokumentów i pozwala organizacjom bez specjalistycznej wiedzy finansowej przeprowadzać rzetelny due diligence. Grant Guardian jest już używany przez ponad 100 filantropii w USA i pokazuje, jak AI może demokratyzować dostęp do zaawansowanych narzędzi analitycznych w sektorze non-profit.
+[[Patrick J. McGovern Foundation]] (PJMF) — globalna filantropia skupiona na AI for good — zbudowała narzędzie Grant Guardian oparte na [[Claude AI|Claude]] ([[Anthropic]]), które standaryzuje finansową ocenę wniosków grantowych. Narzędzie eliminuje niespójności wynikające z manualnej analizy dokumentów i pozwala organizacjom bez specjalistycznej wiedzy finansowej przeprowadzać rzetelny due diligence. Grant Guardian jest już używany przez ponad 100 filantropii w USA i pokazuje, jak AI może demokratyzować dostęp do zaawansowanych narzędzi analitycznych w sektorze non-profit.
 
 ## Frameworki i metody
 
-- **Grant Guardian workflow** — [[Claude]] przetwarza dokumenty finansowe NGO (bez względu na format), ekstrahuje kluczowe wskaźniki i tworzy standaryzowane profile dopasowane do kryteriów fundatora; wynikiem nie jest ocena zero-jedynkowa, lecz mapa obszarów wymagających dalszej rozmowy z organizacją
+- **Grant Guardian workflow** — [[Claude AI|Claude]] przetwarza dokumenty finansowe NGO (bez względu na format), ekstrahuje kluczowe wskaźniki i tworzy standaryzowane profile dopasowane do kryteriów fundatora; wynikiem nie jest ocena zero-jedynkowa, lecz mapa obszarów wymagających dalszej rozmowy z organizacją
 - **Human-in-the-loop** — filozofia projektowa PJMF: AI jako narzędzie augmentacji, nie zastępstwa ludzkiego osądu; każda decyzja grantowa pozostaje w rękach człowieka
 
 ## Kluczowe dane
@@ -31,7 +31,7 @@ tags:
 ## Wnioski
 
 - Grant Guardian to dowód, że AI może standaryzować procesy analityczne w sektorze filantropijnym bez utraty kontekstu misyjnego — kluczowe dla organizacji myślących o własnych narzędziach
-- Wybór [[Claude]] przez PJMF był motywowany zgodnością wartości (privacy, responsible AI) — to argument do stosowania przy rekomendowaniu narzędzi AI organizacjom działającym na wrażliwych danych
+- Wybór [[Claude AI|Claude]] przez PJMF był motywowany zgodnością wartości (privacy, responsible AI) — to argument do stosowania przy rekomendowaniu narzędzi AI organizacjom działającym na wrażliwych danych
 - Model „AI jako operator równych szans" (demokratyzacja analizy finansowej) może być szablonem do projektowania narzędzi dla małych NGO w Polsce
 
 ## Zastosowanie

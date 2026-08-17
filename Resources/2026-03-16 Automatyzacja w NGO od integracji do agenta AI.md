@@ -21,7 +21,7 @@ Artykuł relacjonuje marcowe Śniadanie z AI organizowane przez [[Sektor 3.0]], 
 **5 poziomów automatyzacji wg Michała Niekrasza** — od najprostszych do najbardziej zaawansowanych:
 - **Integracja i automatyzacja** — połączenie dwóch narzędzi wymieniających dane automatycznie (np. CRM + Gmail)
 - **Dedykowane narzędzia AI** — aplikacje robiące jedną konkretną rzecz (Fireflies do transkrypcji, Opus Clip do wideo)
-- **Uniwersalny asystent** — [[Claude]], ChatGPT, Gemini; codzienna praca z plikami i dokumentami
+- **Uniwersalny asystent** — [[Claude AI|Claude]], ChatGPT, Gemini; codzienna praca z plikami i dokumentami
 - **Agent AI z narzędziami** — asystent samodzielnie działający w zewnętrznych narzędziach
 - **Orkiestracja agentów** — kilku agentów pracujących równolegle, bez udziału człowieka
 

@@ -14,7 +14,7 @@ tags:
 
 # Escola AI Weekly #42
 
-Newsletter omawia pięć przełomowych wydarzeń tygodnia w świecie AI: Francja i [[SoftBank]] budują centrum danych o mocy 5 GW (75 mld dolarów), co czyni je największym na świecie — możliwe dzięki energii atomowej. Boty po raz pierwszy wygenerowały więcej ruchu internetowego niż ludzie (dane [[Cloudflare]]), co zmienia zasady optymalizacji online. [[Nvidia]] pokazała lokalny sprzęt AI na biurko i wypuściła model 550 mld parametrów za darmo, budując argument za własnym hardware. Apple ogłosiło [[Gemini]] i [[Claude]] jako silniki nowej Siri w iOS 27. Całość podsumowuje lekcja z afery Podsiadło: nie komunikuj AI — komunikuj wartość dla użytkownika.
+Newsletter omawia pięć przełomowych wydarzeń tygodnia w świecie AI: Francja i [[SoftBank]] budują centrum danych o mocy 5 GW (75 mld dolarów), co czyni je największym na świecie — możliwe dzięki energii atomowej. Boty po raz pierwszy wygenerowały więcej ruchu internetowego niż ludzie (dane [[Cloudflare]]), co zmienia zasady optymalizacji online. [[Nvidia]] pokazała lokalny sprzęt AI na biurko i wypuściła model 550 mld parametrów za darmo, budując argument za własnym hardware. Apple ogłosiło [[Gemini]] i [[Claude AI|Claude]] jako silniki nowej Siri w iOS 27. Całość podsumowuje lekcja z afery Podsiadło: nie komunikuj AI — komunikuj wartość dla użytkownika.
 
 ## Frameworki i metody
 
@@ -40,4 +40,4 @@ Newsletter omawia pięć przełomowych wydarzeń tygodnia w świecie AI: Francja
 
 ## Zastosowanie
 
-Lekcja komunikacyjna z afery Podsiadło jest bezpośrednio przydatna przy projektowaniu szkoleń AI dla NGO i w ghostwritingu — zamiast promować "AI w fundraisingu", lepiej mówić "jak zbierać więcej w mniej czasu". Wątek lokalnego sprzętu warto śledzić pod kątem rekomendacji dla organizacji, które chcą uniezależnić się od kosztów chmury. Informacja o [[Claude]] w iOS 27 to sygnał do uwzględnienia w materiałach szkoleniowych o narzędziach AI dostępnych bez dodatkowych subskrypcji.
+Lekcja komunikacyjna z afery Podsiadło jest bezpośrednio przydatna przy projektowaniu szkoleń AI dla NGO i w ghostwritingu — zamiast promować "AI w fundraisingu", lepiej mówić "jak zbierać więcej w mniej czasu". Wątek lokalnego sprzętu warto śledzić pod kątem rekomendacji dla organizacji, które chcą uniezależnić się od kosztów chmury. Informacja o [[Claude AI|Claude]] w iOS 27 to sygnał do uwzględnienia w materiałach szkoleniowych o narzędziach AI dostępnych bez dodatkowych subskrypcji.

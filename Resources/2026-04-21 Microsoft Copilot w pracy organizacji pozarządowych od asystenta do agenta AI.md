@@ -19,7 +19,7 @@ Artykuł z [[Sektor 3.0]] relacjonuje prezentację Łukasza Foksa z [[Microsoft]
 ## Frameworki i metody
 - **Asystent vs. agent** — asystent generuje treść na polecenie; agent realizuje wieloetapowy proces samodzielnie (tworzy pliki, wysyła e-maile, analizuje dane) i raportuje wynik; człowiek wyznacza ramy i zatwierdza działania
 - **Trzy fazy dojrzałości AI w organizacji** (model [[Microsoft]]):
-  1. *Własny asystent* — każdy w zespole używa wybranego narzędzia (Copilot, Gemini, [[Claude]]) do codziennych zadań: pisania, streszczania, wyszukiwania
+  1. *Własny asystent* — każdy w zespole używa wybranego narzędzia (Copilot, Gemini, [[Claude AI|Claude]]) do codziennych zadań: pisania, streszczania, wyszukiwania
   2. *Agenci z pudełka* — wbudowani agenci w narzędziach, których już używasz (np. facylitator spotkań w [[Microsoft Teams]], automatyczne notatki); nie wymaga programowania
   3. *Własni agenci* — wyspecjalizowani agenci dopasowani do procesów organizacji, połączeni z jej danymi (dokumentami, dyskami, bazami wiedzy)
 - **Polityka użycia AI w organizacji** — Copilot może wygenerować pierwszą wersję dokumentu z zasadami, zakresem dozwolonego i niedozwolonego użycia, wzorami zgód i checklistą wdrożeniową; wersja robocza wymaga weryfikacji prawnej, ale skraca czas pracy

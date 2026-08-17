@@ -18,7 +18,7 @@ Ryan Carr przetestował GPT Image 2 od OpenAI w kontekście generowania brandowa
 
 ## Frameworki i metody
 
-- **Content-to-LinkedIn Pipeline** — node-based workflow w [[Flora]] przekształcający długi materiał w post LinkedIn + 3 obrazy; kroki: (1) wrzuć treść do pierwszego node'a, (2) [[Claude]] Opus 4.7 tworzy 4 wersje posta pod różne kąty emocjonalne (funny, insightful, impressive, frustrating), (3) scoring wg rubryki „corniness", (4) wybór zwycięskiej wersji, (5) budowanie promptu obrazowego z kluczowym cytatem/statystyką, (6) GPT Image 2 generuje 3 równoległe rendery z referencjami brandingowymi
+- **Content-to-LinkedIn Pipeline** — node-based workflow w [[Flora]] przekształcający długi materiał w post LinkedIn + 3 obrazy; kroki: (1) wrzuć treść do pierwszego node'a, (2) [[Claude AI|Claude]] Opus 4.7 tworzy 4 wersje posta pod różne kąty emocjonalne (funny, insightful, impressive, frustrating), (3) scoring wg rubryki „corniness", (4) wybór zwycięskiej wersji, (5) budowanie promptu obrazowego z kluczowym cytatem/statystyką, (6) GPT Image 2 generuje 3 równoległe rendery z referencjami brandingowymi
 - **Brand Reference Anchoring** — zamiast opisywać styl w prompcie, wgrywa się własne grafiki brandingowe (logo, paleta, przykładowe grafiki) jako wizualne kotwice dla modelu generującego obrazy — kluczowy krok konfiguracji workflow
 
 ## Kluczowe dane

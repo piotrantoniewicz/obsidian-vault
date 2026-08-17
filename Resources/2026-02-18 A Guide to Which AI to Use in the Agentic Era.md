@@ -14,12 +14,12 @@ tags:
 
 # A Guide to Which AI to Use in the Agentic Era
 
-Artykuł [[Ethan Mollick|Mollicka]] opisuje fundamentalną zmianę w sposobie korzystania z AI: przejście od chatbotów do agentów. Autor wprowadza trójdzielny model — Modele, Aplikacje i Uprzęże (harness) — który tłumaczy, dlaczego ta sama inteligencja (np. [[Claude]] Opus 4.6) może działać radykalnie różnie zależnie od środowiska: czat to jedno, [[Claude Code]] autonomicznie piszący i testujący oprogramowanie przez godziny to zupełnie co innego. Mollick przekonuje, że w 2026 roku harness ma już większe znaczenie niż sam model. Kluczowy wniosek: AI które *robi* rzeczy jest fundamentalnie użyteczniejsze niż AI, które tylko *mówi*.
+Artykuł [[Ethan Mollick|Mollicka]] opisuje fundamentalną zmianę w sposobie korzystania z AI: przejście od chatbotów do agentów. Autor wprowadza trójdzielny model — Modele, Aplikacje i Uprzęże (harness) — który tłumaczy, dlaczego ta sama inteligencja (np. [[Claude AI|Claude]] Opus 4.6) może działać radykalnie różnie zależnie od środowiska: czat to jedno, [[Claude Code]] autonomicznie piszący i testujący oprogramowanie przez godziny to zupełnie co innego. Mollick przekonuje, że w 2026 roku harness ma już większe znaczenie niż sam model. Kluczowy wniosek: AI które *robi* rzeczy jest fundamentalnie użyteczniejsze niż AI, które tylko *mówi*.
 
 ## Frameworki i metody
 
 - **Trójdzielny model AI (Models–Apps–Harnesses)** — sposób myślenia o ekosystemie AI przez trzy warstwy:
-  - **Model** — mózg AI, to co mierzą benchmarki (np. [[Claude]] Opus 4.6, GPT-5.2, Gemini 3 Pro)
+  - **Model** — mózg AI, to co mierzą benchmarki (np. [[Claude AI|Claude]] Opus 4.6, GPT-5.2, Gemini 3 Pro)
   - **Aplikacja** — interfejs, przez który rozmawiasz z modelem (claude.ai, chatgpt.com, aplikacja mobilna)
   - **Uprzęż (harness)** — zestaw narzędzi i instrukcji, który daje AI sprawczość: dostęp do plików, przeglądarki, terminala, możliwość wieloetapowego działania
 

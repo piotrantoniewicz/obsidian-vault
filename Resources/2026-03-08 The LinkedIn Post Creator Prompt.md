@@ -14,7 +14,7 @@ tags:
 
 # The LinkedIn Post Creator Prompt
 
-Nicolas Cole ([[Premium Ghostwriting Academy]]) prezentuje architekturę skutecznych postów na [[LinkedIn]] — Hook-Point-Action — oraz gotowy prompt AI do generowania 3 typów postów (Framework, Story, Listicle) dla dowolnego tematu. Kluczowy argument: większość postów na LinkedIn to "corporate showboating" skupiony na nadawcy, a nie na wartości dla czytelnika — posty, które wygrywają, dają odbiorcy coś użytecznego. Materiał zawiera kompletny prompt gotowy do użycia w [[ChatGPT]] lub [[Claude]], wraz z wyjaśnieniem każdego elementu architektury.
+Nicolas Cole ([[Premium Ghostwriting Academy]]) prezentuje architekturę skutecznych postów na [[LinkedIn]] — Hook-Point-Action — oraz gotowy prompt AI do generowania 3 typów postów (Framework, Story, Listicle) dla dowolnego tematu. Kluczowy argument: większość postów na LinkedIn to "corporate showboating" skupiony na nadawcy, a nie na wartości dla czytelnika — posty, które wygrywają, dają odbiorcy coś użytecznego. Materiał zawiera kompletny prompt gotowy do użycia w [[ChatGPT]] lub [[Claude AI|Claude]], wraz z wyjaśnieniem każdego elementu architektury.
 
 ## Frameworki i metody
 

@@ -21,7 +21,7 @@ Newsletter podsumowuje webinar Krzysztofa Wojewodzica pt. „Manager w erze AI: 
 - **Trzy zasady wdrożenia AI** — (1) Jedno źródło prawdy: wszystkie pliki organizacji w jednym miejscu; (2) Odpytywalność przez [[MCP]]: zewnętrzne narzędzia muszą być dostępne dla agentów; (3) Bezpieczeństwo danych: darmowe narzędzia trenują modele na danych użytkownika — płatna wersja to warunek zgodności z RODO.
 - **7 obszarów pracy managera z AI**:
   - *Spotkania i komunikacja zespołowa* — [[Fireflies]] automatycznie identyfikuje zadania ze spotkań i umożliwia ich eksport do konkretnych osób; transkrypcja to dopiero punkt wejścia.
-  - *Email i komunikacja* — podpięcie skrzynki do płatnego modelu (np. [[Claude]]) pozwala generować drafty odpowiedzi; [[GetVictor]] codziennie podsumowuje kanały Slack.
+  - *Email i komunikacja* — podpięcie skrzynki do płatnego modelu (np. [[Claude AI|Claude]]) pozwala generować drafty odpowiedzi; [[GetVictor]] codziennie podsumowuje kanały Slack.
   - *Planowanie i zadania* — [[Jira]] z nakładką [[ROVO]] pozwala odpytywać wszystkie projekty jednocześnie i identyfikować wąskie gardła jednym promptem.
   - *Rozwiązywanie problemów i decyzje* — KPI, faktury i cele działu w jednym miejscu; jeden prompt daje obraz kondycji organizacji (wymaga wdrożenia zasady nr 1).
   - *Rozwój zespołu i rekrutacja* — dane z projektów i nagrań eliminują efekt halo w ocenie pracowników; AI selekcjonuje top 20 z 200 CV, decyzja należy do człowieka.

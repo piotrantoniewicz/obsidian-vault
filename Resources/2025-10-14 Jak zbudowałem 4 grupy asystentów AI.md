@@ -14,7 +14,7 @@ tags:
 
 # Jak zbudowałem 4 grupy asystentów AI (Biznes, Finanse, Życie, Książki)
 
-Mirek Burnejko szczegółowo opisuje swój system czterech grup asystentów w [[Claude Code]] / projektach [[Claude]]: BIZNES (CEO, CMO, CSO, COO, Ghost), FINANSE (Midas, Fortuna, Mercury, Oracle, Atlas), ŻYCKO (MIND, SOUL, TIME, SPACE, POWER, REALITY), KSIĄŻKI (ECO). Każda grupa żyje w oddzielnym projekcie z własnym zestawem plików kontekstowych; aktualizacja raz w miesiącu, codzienna praca głównie z CEO i MIND. Kluczowa zasada: maksymalnie 6 asystentów per projekt — przy większej liczbie rośnie złożoność, spada faktyczne użycie, a system staje się nieporęczny. Dewiza: dobry system to taki, który działa i którego się używa.
+Mirek Burnejko szczegółowo opisuje swój system czterech grup asystentów w [[Claude Code]] / projektach [[Claude AI|Claude]]: BIZNES (CEO, CMO, CSO, COO, Ghost), FINANSE (Midas, Fortuna, Mercury, Oracle, Atlas), ŻYCKO (MIND, SOUL, TIME, SPACE, POWER, REALITY), KSIĄŻKI (ECO). Każda grupa żyje w oddzielnym projekcie z własnym zestawem plików kontekstowych; aktualizacja raz w miesiącu, codzienna praca głównie z CEO i MIND. Kluczowa zasada: maksymalnie 6 asystentów per projekt — przy większej liczbie rośnie złożoność, spada faktyczne użycie, a system staje się nieporęczny. Dewiza: dobry system to taki, który działa i którego się używa.
 
 ## Wnioski
 

@@ -18,7 +18,7 @@ Artykuł [[Krzysztof Mirończuk|Krzysztofa Mirończuka]] z hAI Magazine omawia r
 
 ## Kluczowe dane
 - ~50% zapytań do modeli: fikcja, narracja, roleplay, symulacje — to główny nurt, nie nisza
-- Kodowanie: z 11% na początku 2025 do ponad 50% pod koniec roku; dominuje [[Claude]] (ponad 60% zapytań z programowania przez większość roku)
+- Kodowanie: z 11% na początku 2025 do ponad 50% pod koniec roku; dominuje [[Claude AI|Claude]] (ponad 60% zapytań z programowania przez większość roku)
 - Modele chińskie (DeepSeek, Qwen, Moonshot AI): wzrost udziału z ~1% do ~30% w szczytowych tygodniach
 - Udział Azji w globalnym użyciu AI: wzrost z 13% do 31%
 - Retencja: modele takie jak Claude 4 Sonnet i Gemini 2.5 Pro utrzymały ~40% użytkowników przez 5 miesięcy od pierwszego użycia

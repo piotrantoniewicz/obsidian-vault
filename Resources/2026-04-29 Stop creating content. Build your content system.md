@@ -37,4 +37,4 @@ Newsletter Five Prompts (Tuck Ross) prezentuje koncepcję "content architecta" �
 
 ## Zastosowanie
 
-Przy tworzeniu treści dla klientów (np. kampanie dobryai.pl lub posty organizacji społecznych) można wdrożyć Theme-per-week system jako szablon miesięcznego planowania. Batch Workflow skraca czas produkcji i pozwala delegować adaptacje platformowe do [[Claude]]. Quilt Test sprawdzi się jako narzędzie raportowe — pokazuje klientowi, czy jego komunikacja buduje spójną markę.
+Przy tworzeniu treści dla klientów (np. kampanie dobryai.pl lub posty organizacji społecznych) można wdrożyć Theme-per-week system jako szablon miesięcznego planowania. Batch Workflow skraca czas produkcji i pozwala delegować adaptacje platformowe do [[Claude AI|Claude]]. Quilt Test sprawdzi się jako narzędzie raportowe — pokazuje klientowi, czy jego komunikacja buduje spójną markę.

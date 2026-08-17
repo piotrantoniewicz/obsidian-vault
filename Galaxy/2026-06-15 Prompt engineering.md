@@ -93,15 +93,15 @@ Najmocniejsza operacyjna postać antidotum na sycophancy z mech. 6, sprawdzona n
 
 ## Powiązane pojęcia
 
-- [[2026-06-15 Context engineering]] — szerszy następca: prompt engineering to *treść instrukcji*, context engineering zarządza *całym oknem* (system prompt, narzędzia, historia, pobrana wiedza). Prompt to atom, kontekst to architektura wokół niego — para parasol↔przypadek odwrotna do tej z [[2026-06-14 RAG|RAG]].
-- [[2026-06-13 Wdrażanie AI w organizacji społecznej]] — prompt engineering to kompetencja operacyjna warunkująca poziom *Better/New*; bez niej zespół utyka na *Faster*. Czerwony link stąd zrealizowany.
-- [[2026-06-14 RAG]] — RAG *dostarcza* zaufany kontekst do okna, ale prompt wciąż musi poprawnie poinstruować, co z tym kontekstem zrobić; dobry retrieval + zły prompt = zły output.
-- [[2026-06-14 Framing]] — bliźniacze rzemiosło precyzji języka: framing dobiera słowa, by wywołać reakcję *człowieka*, prompt — by wywołać zachowanie *modelu*. Oba karzą abstrakcję i nagradzają konkret.
+- [[2026-06-15 Context engineering|Context engineering]] — szerszy następca: prompt engineering to *treść instrukcji*, context engineering zarządza *całym oknem* (system prompt, narzędzia, historia, pobrana wiedza). Prompt to atom, kontekst to architektura wokół niego — para parasol↔przypadek odwrotna do tej z [[2026-06-14 RAG|RAG]].
+- [[2026-06-13 Wdrażanie AI w organizacji społecznej|Wdrażanie AI w organizacji społecznej]] — prompt engineering to kompetencja operacyjna warunkująca poziom *Better/New*; bez niej zespół utyka na *Faster*. Czerwony link stąd zrealizowany.
+- [[2026-06-14 RAG|RAG]] — RAG *dostarcza* zaufany kontekst do okna, ale prompt wciąż musi poprawnie poinstruować, co z tym kontekstem zrobić; dobry retrieval + zły prompt = zły output.
+- [[2026-06-14 Framing|Framing]] — bliźniacze rzemiosło precyzji języka: framing dobiera słowa, by wywołać reakcję *człowieka*, prompt — by wywołać zachowanie *modelu*. Oba karzą abstrakcję i nagradzają konkret.
 - [[Claude Projects]] — „kontener kontekstu": biblioteka materiałów stale przybliżająca model do stylu klienta; pomost od prompt engineeringu do context engineeringu (czerwony link — backlog).
 
 ---
 
-## Zastosowanie w kontekście NGO
+## Zastosowanie w kontekście organizacji społecznych
 
 - **Szkolenia z AI dla organizacji**: schemat XML jako konkretny *deliverable* warsztatu — uczestnik wychodzi z gotowym templatem promptów dla swoich zadań (komunikacja, fundraising, raportowanie). Trzy tryby promptowania porządkują „dlaczego ten sam prompt raz działa, raz nie".
 - **[[2026-07-07 Ghostwriting|Ghostwriting]]**: singular/modular prompts + [[Claude Projects]] jako biblioteka stylu klienta + automation prompting to gotowy system powtarzalnego pisania; bezpośrednio przekładalne na własne pluginy [[Claude Code]].
@@ -115,5 +115,5 @@ Najmocniejsza operacyjna postać antidotum na sycophancy z mech. 6, sprawdzona n
 
 - Gdzie przebiega granica, za którą doszlifowywanie promptu przestaje się opłacać i trzeba przejść do context engineeringu (stały kontekst, retrieval) albo zmiany modelu — jak rozpoznać ją zawczasu?
 - Czy prompt engineering to trwała kompetencja, czy umiejętność przejściowa, którą modele „zjedzą", coraz lepiej domyślając się intencji z lakonicznego polecenia? Sygnał kierunku (Śliwowski): w modelach rozumujących sama instrukcja jest „coraz mniej decydująca", a ciężar przesuwa się na [[2026-06-15 Context engineering|kontekst]] i grounding — co sugeruje, że *werbalizacja zadania* zostaje, ale *mikrooptymalizacja sformułowań* faktycznie się dewaluuje.
-- Jak nauczyć pracownika NGO „werbalizować własny proces", skoro wiele zadań wykonuje się wiedzą milczącą (tacit) — od czego zacząć dekompozycję?
+- Jak nauczyć pracownika organizacji społecznej „werbalizować własny proces", skoro wiele zadań wykonuje się wiedzą milczącą (tacit) — od czego zacząć dekompozycję?
 - Jak odróżnić prompt, który *naprawdę* poprawił wynik, od złudzenia poprawy wzmocnionego przez sycophancy modelu chwalącego każdą zmianę?

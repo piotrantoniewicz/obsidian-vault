@@ -24,7 +24,7 @@ tags:
 - **Trend 2 — Więcej platform = więcej treści**: Fragmentacja mediów wymusza produkcję większej ilości contentu, co przeciąży nawet dobrze finansowane kampanie.
 - **Trend 3 — YouTube kanały polityków ważniejsze niż strony WWW**: [[YouTube]] to nr 1 sposób oglądania telewizji — kampanie będą inwestować w własne kanały i formaty reality-show.
 - **Trend 4 — AI video bez hamulców**: AI-generowane wideo będzie używane głównie do ataków na oponentów przez super PAC i komitety — trudniejsze do wykrycia i oznaczania przez platformy.
-- **Trend 5 — Strony WWW pisane dla [[LLM]]**: Kampanie będą optymalizować swoje strony nie pod Google, ale pod modele językowe — by [[ChatGPT]], [[Claude]] i [[Gemini]] zwracały właściwe informacje o kandydacie.
+- **Trend 5 — Strony WWW pisane dla [[LLM]]**: Kampanie będą optymalizować swoje strony nie pod Google, ale pod modele językowe — by [[ChatGPT]], [[Claude AI|Claude]] i [[Gemini]] zwracały właściwe informacje o kandydacie.
 - **Trend 6 — [[Substack]] jako główna platforma komentatorów**: Pundyci i dziennikarze migrują na [[Substack]], a telewizja staje się ich side gig.
 - **Trend 7 — Mikro- i nanoinfluencerzy**: Kampanie będą szukać influencerów z poniżej 100 000 obserwujących — ich społeczności są bardziej engaged i wiarygodne.
 - **Trend 8 — Kampanijny influencer**: Pojawi się staffer, konsultant lub wolontariusz, który zbuduje własną popularność online i stanie się aktywem kampanii.

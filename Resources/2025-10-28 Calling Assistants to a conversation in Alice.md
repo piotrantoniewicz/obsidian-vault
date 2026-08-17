@@ -18,7 +18,7 @@ tags:
 ## Wnioski
 
 - Wzorzec @wywołania wyspecjalizowanych asystentów to implementacja multi-agent orchestration dostępna bez żadnego kodu — to ważny koncept dla NGO chcących budować bardziej złożone AI workflow (np. asystent fundraisingowy + asystent redakcyjny + asystent publikacyjny).
-- Zasada „lean assistant" (mało [[MCP]]ów, wąska specjalizacja) to dobra praktyka projektowania agentów AI niezależnie od narzędzia — warto ją stosować przy budowaniu własnych asystentów w [[Claude]] Projects czy podobnych systemach.
+- Zasada „lean assistant" (mało [[MCP]]ów, wąska specjalizacja) to dobra praktyka projektowania agentów AI niezależnie od narzędzia — warto ją stosować przy budowaniu własnych asystentów w [[Claude AI|Claude]] Projects czy podobnych systemach.
 - Specjalizacja roli zamiast jednego wszechwiedzącego asystenta to zmiana myślenia o AI — kluczowa przy wdrożeniach organizacyjnych, gdzie różne osoby / procesy potrzebują różnych „trybów" AI.
 
 ## Cytat

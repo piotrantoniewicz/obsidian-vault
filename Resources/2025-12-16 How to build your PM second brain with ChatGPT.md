@@ -23,7 +23,7 @@ tags:
 ## Wnioski
 
 - "Kontekst to nowy interfejs" — jakość outputs AI jest wprost proporcjonalna do jakości i kompletności kontekstu, który mu dostarczysz; AI rozszerza zdolności myślowe, nie zastępuje osądu
-- [[ChatGPT]] Projects, [[Claude]] Projects i [[Gemini]] Gems działają identycznie — ta sama metodologia three-step działa na każdej platformie, co daje elastyczność narzędziową
+- [[ChatGPT]] Projects, [[Claude AI|Claude]] Projects i [[Gemini]] Gems działają identycznie — ta sama metodologia three-step działa na każdej platformie, co daje elastyczność narzędziową
 - "Wszystko jest tekstem" — Slack, decks, dashboardy, strony docs można eksportować do PDF i przekazać AI; ta perspektywa radykalnie poszerza to, co można zintegrować z Second Brain
 
 ## Zastosowanie

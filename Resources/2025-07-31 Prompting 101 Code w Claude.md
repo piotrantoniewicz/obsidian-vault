@@ -14,7 +14,7 @@ tags:
 
 # Prompting 101: Code w Claude
 
-Hannah i Christian z zespołu Applied AI [[Anthropic]] prowadzą praktyczny webinar o prompt engineeringu na przykładzie systemu oceny roszczeń ubezpieczeniowych (formularz wypadku samochodowego w języku szwedzkim). Prezentacja przeprowadza przez 10 elementów dobrze zbudowanego promptu — od task context i tonu, przez background detail i przykłady, aż po reminders i formatowanie outputu. Kluczowy wniosek: prompt engineering to nauka empiryczna — iteracyjna, oparta na testowaniu konkretnych przypadków i stopniowym wzbogacaniu kontekstu. Dodatkowym narzędziem do debugowania promptów jest extended thinking w [[Claude]] 3.7/4, które pozwala zobaczyć jak model przetwarza dane przed udzieleniem odpowiedzi.
+Hannah i Christian z zespołu Applied AI [[Anthropic]] prowadzą praktyczny webinar o prompt engineeringu na przykładzie systemu oceny roszczeń ubezpieczeniowych (formularz wypadku samochodowego w języku szwedzkim). Prezentacja przeprowadza przez 10 elementów dobrze zbudowanego promptu — od task context i tonu, przez background detail i przykłady, aż po reminders i formatowanie outputu. Kluczowy wniosek: prompt engineering to nauka empiryczna — iteracyjna, oparta na testowaniu konkretnych przypadków i stopniowym wzbogacaniu kontekstu. Dodatkowym narzędziem do debugowania promptów jest extended thinking w [[Claude AI|Claude]] 3.7/4, które pozwala zobaczyć jak model przetwarza dane przed udzieleniem odpowiedzi.
 
 ## Frameworki i metody
 
@@ -32,7 +32,7 @@ Hannah i Christian z zespołu Applied AI [[Anthropic]] prowadzą praktyczny webi
 10. **Pre-filled response (prefill)** — wskazanie jak model ma zacząć odpowiedź, eliminuje zbędny wstęp i wymusza pożądany format
 
 **Organizacja informacji w prompcie:**
-- Używaj tagów XML do oznaczania sekcji (np. `<user_preferences>`, `<final_verdict>`) — [[Claude]] był fine-tunowany na taką strukturę
+- Używaj tagów XML do oznaczania sekcji (np. `<user_preferences>`, `<final_verdict>`) — [[Claude AI|Claude]] był fine-tunowany na taką strukturę
 - Markdown jest przydatny, ale XML daje większą kontrolę semantyczną
 - Wszystkie stałe elementy (opisy formularzy, instrukcje domenowe) umieszczaj w system prompt
 
@@ -40,7 +40,7 @@ Hannah i Christian z zespołu Applied AI [[Anthropic]] prowadzą praktyczny webi
 
 - Kolejność analizy danych w instrukcjach ma kluczowe znaczenie — Claude powinien przetworzyć kontekst strukturalny (formularz) przed interpretacją niejednoznacznych danych (szkic odręczny); ta zasada przekłada się na każdy pipeline przetwarzania danych.
 - Few-shot examples z trudnymi, granicznymi przypadkami są najskuteczniejszym narzędziem poprawy jakości outputu — szczególnie gdy dysponujemy ludzkimi labelami dla przypadków, które model regularnie myli.
-- Extended thinking w [[Claude]] 3.7/4 pozwala zobaczyć tok rozumowania modelu — to cenne narzędzie diagnostyczne do identyfikowania gdzie prompt wymaga uzupełnienia i jak model interpretuje dostarczone dane.
+- Extended thinking w [[Claude AI|Claude]] 3.7/4 pozwala zobaczyć tok rozumowania modelu — to cenne narzędzie diagnostyczne do identyfikowania gdzie prompt wymaga uzupełnienia i jak model interpretuje dostarczone dane.
 
 ## Zastosowanie
 

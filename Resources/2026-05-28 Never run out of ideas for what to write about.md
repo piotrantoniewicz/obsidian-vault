@@ -14,11 +14,11 @@ tags:
 
 # Never run out of ideas for what to write about
 
-Newsletter Moodboard autorstwa Ryana Carra proponuje rozwiązanie jednego z najczęstszych blokerów twórców treści: nie wiedzieć, o czym pisać. Zamiast wymyślać tematy ad hoc, autor rekomenduje zbudowanie stałej bazy tematów — konkretnych pytań, które zadaje docelowa publiczność. Jako narzędzie służy "wizard prompt" dla [[Claude]], który przeprowadza krótki wywiad z autorem, generuje 20–25 tematów i workshopuje listę aż do uzyskania użytecznego banku. Kluczowa zasada: im bardziej konkretne odpowiedzi w wywiadzie, tym bardziej wartościowe tematy wyjściowe.
+Newsletter Moodboard autorstwa Ryana Carra proponuje rozwiązanie jednego z najczęstszych blokerów twórców treści: nie wiedzieć, o czym pisać. Zamiast wymyślać tematy ad hoc, autor rekomenduje zbudowanie stałej bazy tematów — konkretnych pytań, które zadaje docelowa publiczność. Jako narzędzie służy "wizard prompt" dla [[Claude AI|Claude]], który przeprowadza krótki wywiad z autorem, generuje 20–25 tematów i workshopuje listę aż do uzyskania użytecznego banku. Kluczowa zasada: im bardziej konkretne odpowiedzi w wywiadzie, tym bardziej wartościowe tematy wyjściowe.
 
 ## Frameworki i metody
 
-- **Topic Bank Wizard (3 fazy)** — prompt wklejany do [[Claude]], który: (1) przeprowadza 2–3 rundowy wywiad o biznesie i odbiorcy, (2) generuje 20–25 konkretnych pytań, którymi interesuje się publiczność, (3) workshopuje listę — wymienia słabe tematy i dopracowuje sformułowania
+- **Topic Bank Wizard (3 fazy)** — prompt wklejany do [[Claude AI|Claude]], który: (1) przeprowadza 2–3 rundowy wywiad o biznesie i odbiorcy, (2) generuje 20–25 konkretnych pytań, którymi interesuje się publiczność, (3) workshopuje listę — wymienia słabe tematy i dopracowuje sformułowania
 - **Workflow treści** — po zbudowaniu banku: wybierz temat → nagraj 5–10 min dyktando w [[Wispr Flow]] → przetwórz na newsletter lub post społecznościowy za pomocą gotowych promptów
 
 ## Wnioski
@@ -33,4 +33,4 @@ Newsletter Moodboard autorstwa Ryana Carra proponuje rozwiązanie jednego z najc
 
 ## Zastosowanie
 
-Dla Piotra, który tworzy treści na LinkedIn i prowadzi newsletter dla sektora NGO, wizard prompt może w jednej sesji wygenerować bank tematów z obszarów fundraisingu, wdrożeń AI i digital campaigningu. Workflow voice note → newsletter z [[Wispr Flow]] i [[Claude]] przyspiesza produkcję treści edukacyjnych dla klientów dobryai.pl. Metodę warto wdrożyć też w kursie mailowym "Fundraising z AI" jako ćwiczenie dla uczestników budujących własne strategie contentowe.
+Dla Piotra, który tworzy treści na LinkedIn i prowadzi newsletter dla sektora NGO, wizard prompt może w jednej sesji wygenerować bank tematów z obszarów fundraisingu, wdrożeń AI i digital campaigningu. Workflow voice note → newsletter z [[Wispr Flow]] i [[Claude AI|Claude]] przyspiesza produkcję treści edukacyjnych dla klientów dobryai.pl. Metodę warto wdrożyć też w kursie mailowym "Fundraising z AI" jako ćwiczenie dla uczestników budujących własne strategie contentowe.

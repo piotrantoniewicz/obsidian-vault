@@ -18,7 +18,7 @@ tags:
 Autor komentuje decyzję gubernatora Kalifornii Newsoma o zniżkowym dostępie do Claude oraz bezpłatnych szkoleniach dla wszystkich agencji stanowych, miast i hrabstw przez nowy portal SITeS — nie pilotaż, a realna ścieżka zakupowa. Kluczowy wniosek dla sektora społecznego: to nie obejmuje automatycznie organizacji pozarządowych realizujących usługi na kontraktach stanowych, więc trzeba samodzielnie dopytywać partnerów publicznych o dostęp. Ważniejsze jest jednak przesunięcie ramy debaty — z "czy wdrażać AI" na "jak wdrażać odpowiedzialnie", z gotowym wzorcem human-in-the-loop i guardrails, który organizacje mogą zapożyczyć niezależnie od budżetu.
 
 ## Wnioski
-- Decyzje instytucjonalne dużych graczy (stan Kalifornia, [[Claude]]) legitymizują adopcję AI w sektorze publicznym i pośrednio wywierają presję na organizacje kontraktowane przez państwo, by też się do tego dostosowały.
+- Decyzje instytucjonalne dużych graczy (stan Kalifornia, [[Claude AI|Claude]]) legitymizują adopcję AI w sektorze publicznym i pośrednio wywierają presję na organizacje kontraktowane przez państwo, by też się do tego dostosowały.
 - Dostęp preferencyjny nie spływa automatycznie do organizacji społecznych — trzeba go aktywnie wynegocjować z partnerami państwowymi, nie zakładać, że "będzie tak jak dla urzędów".
 - Model human-in-the-loop z wbudowanymi szkoleniami i guardrails to gotowy wzorzec komunikacyjny do przedstawiania klientom, którzy obawiają się, że AI zastąpi pracę ludzi w misji organizacji.
 

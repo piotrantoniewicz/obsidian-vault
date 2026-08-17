@@ -14,7 +14,7 @@ tags:
 
 # 8h pracy w 1h – przepis na kampanię z AI i nagranie webinaru
 
-Artur Jabłoński z [[AI_Marketers]] przedstawia 6-krokowy proces tworzenia kampanii reklamowej w [[Meta Ads]] z użyciem AI — od researchu po automatyzację ustawiania kampanii przez API. Kluczową tezą jest prymat procesu nad wyborem konkretnego modelu (GPT vs [[Claude]]). Newsletter towarzyszył nagraniu webinaru, na którym cały workflow został przeprowadzony na żywo, redukując 8 godzin pracy do 1 godziny. Promocja paid programu stanowi drugoplanowy element komunikatu.
+Artur Jabłoński z [[AI_Marketers]] przedstawia 6-krokowy proces tworzenia kampanii reklamowej w [[Meta Ads]] z użyciem AI — od researchu po automatyzację ustawiania kampanii przez API. Kluczową tezą jest prymat procesu nad wyborem konkretnego modelu (GPT vs [[Claude AI|Claude]]). Newsletter towarzyszył nagraniu webinaru, na którym cały workflow został przeprowadzony na żywo, redukując 8 godzin pracy do 1 godziny. Promocja paid programu stanowi drugoplanowy element komunikatu.
 
 ## Frameworki i metody
 

@@ -33,7 +33,7 @@ Autorka argumentuje, że masowa adopcja AI (50-88% firm w zależności od źród
 ## Wnioski
 - Adopcja AI zawodzi nie na etapie zakupu narzędzia, lecz w codziennej pracy — w momencie, gdy człowiek musi zdecydować, ile zaufać temu, co widzi na ekranie; to problem braku zaprojektowanej roli, nie brak kompetencji technicznych.
 - „Człowiek w pętli" bez zaprojektowanego zadania to fasada nadzoru — sam przycisk „zatwierdź" nie tworzy realnej kontroli, dopóki nie ma momentu z realnym powodem do zatrzymania się i namysłu.
-- Interfejs, który daje niepełny sygnał (przykład wycieku danych z udostępnionych rozmów [[Claude]]), przenosi koszt złej kalibracji zaufania na użytkowników — to bezpośrednio dotyczy projektowania wdrożeń AI w organizacjach, nie tylko produktów konsumenckich.
+- Interfejs, który daje niepełny sygnał (przykład wycieku danych z udostępnionych rozmów [[Claude AI|Claude]]), przenosi koszt złej kalibracji zaufania na użytkowników — to bezpośrednio dotyczy projektowania wdrożeń AI w organizacjach, nie tylko produktów konsumenckich.
 
 ## Zastosowanie
 Materiał wprost przydatny do strategii wdrażania AI w organizacjach społecznych i szkoleń z AI — framework trzech pytań (czego brakuje / jaki tryb współpracy / czy ochrona jest realna) to gotowa struktura do warsztatu o odpowiedzialnym wdrożeniu AI w zespole. Warto wykorzystać przy doradztwie wdrożeniowym jako check-listę przed rozpoczęciem projektu, zamiast ograniczać się do szkolenia z obsługi narzędzia.

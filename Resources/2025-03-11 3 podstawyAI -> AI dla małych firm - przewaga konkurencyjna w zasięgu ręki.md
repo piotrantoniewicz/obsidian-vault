@@ -26,7 +26,7 @@ Artykuł argumentuje, że AI przestała być domeną dużych korporacji — narz
 
 - Największa bariera wdrożenia AI w małych firmach to przekonania (koszty, prywatność, brak wiedzy), nie rzeczywiste ograniczenia techniczne — to ważne dla framing szkoleń
 - Agencje contentowe jako jedna z pierwszych branż masowo przyjęły AI (80% treści z AI, 20% dopracowanie przez człowieka) — analogia użyteczna przy pracy z NGO tworzącymi komunikację
-- [[ChatGPT]] / [[Claude]] / [[Gemini]] w wersji darmowej + proste narzędzia jak [[Tidio]] czy [[HubSpot]] pozwalają małej organizacji automatyzować komunikację bez budżetu na IT
+- [[ChatGPT]] / [[Claude AI|Claude]] / [[Gemini]] w wersji darmowej + proste narzędzia jak [[Tidio]] czy [[HubSpot]] pozwalają małej organizacji automatyzować komunikację bez budżetu na IT
 
 ## Zastosowanie
 

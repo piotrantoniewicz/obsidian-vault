@@ -14,7 +14,7 @@ tags:
 
 # Instagram karze za kopiowanie i zachęca do kopiowania. Jak żyć?
 
-Edycja ProLetter Jakuba Jacka analizuje paradoks Instagrama: platforma z jednej strony ogranicza zasięgi kontom, które kopiują cudze treści bez wkładu twórczego, a z drugiej testuje funkcję Swap — narzędzie pozwalające przejąć cudzego Reelsa i wstawić własne napisy. Autor wskazuje, że kluczowym problemem jest nieprecyzyjna definicja „oryginalności" egzekwowana przez algorytm, a nie przez człowieka, co stwarza ryzyko dla twórców działających w dobrej wierze. Szczególnie istotny news to [[Meta]] AI Connectors — nowe API pozwalające agentom AI (np. [[Claude]]) tworzyć i zarządzać kampaniami reklamowymi na Facebooku i Instagramie bez ręcznego wchodzenia w interfejs platformy, co otwiera nowy wymiar automatyzacji w digital marketingu.
+Edycja ProLetter Jakuba Jacka analizuje paradoks Instagrama: platforma z jednej strony ogranicza zasięgi kontom, które kopiują cudze treści bez wkładu twórczego, a z drugiej testuje funkcję Swap — narzędzie pozwalające przejąć cudzego Reelsa i wstawić własne napisy. Autor wskazuje, że kluczowym problemem jest nieprecyzyjna definicja „oryginalności" egzekwowana przez algorytm, a nie przez człowieka, co stwarza ryzyko dla twórców działających w dobrej wierze. Szczególnie istotny news to [[Meta]] AI Connectors — nowe API pozwalające agentom AI (np. [[Claude AI|Claude]]) tworzyć i zarządzać kampaniami reklamowymi na Facebooku i Instagramie bez ręcznego wchodzenia w interfejs platformy, co otwiera nowy wymiar automatyzacji w digital marketingu.
 
 ## Frameworki i metody
 

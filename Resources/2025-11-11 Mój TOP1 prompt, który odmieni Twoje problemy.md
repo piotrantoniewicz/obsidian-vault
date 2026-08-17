@@ -14,7 +14,7 @@ tags:
 
 # Mój TOP1 prompt, który odmieni Twoje problemy
 
-Mirek Burnejko dzieli się swoim TOP1 promptem do [[Deep Research]] — krótkim, universalnym schematem: opisz problem w 2–3 zdaniach, następnie poproś AI o najnowsze badania (2023–2025), opinie 3 autorytetów, potwierdzone rozwiązania, typowe błędy i case studies. Prompt działa we wszystkich głównych narzędziach ([[ChatGPT]], [[Gemini]], [[Claude]]) i znacząco zyskuje, gdy dołączymy profil biznesowy użytkownika. Oprócz prompta dzieli się metodą pracy z checklistami: każdy ciekawy artykuł "wrzuć do AI i wyciągnij co ważne do checklisty", a potem używaj checklisty jako kontekstu przy kolejnych zadaniach zamiast pisać prompty od zera.
+Mirek Burnejko dzieli się swoim TOP1 promptem do [[Deep Research]] — krótkim, universalnym schematem: opisz problem w 2–3 zdaniach, następnie poproś AI o najnowsze badania (2023–2025), opinie 3 autorytetów, potwierdzone rozwiązania, typowe błędy i case studies. Prompt działa we wszystkich głównych narzędziach ([[ChatGPT]], [[Gemini]], [[Claude AI|Claude]]) i znacząco zyskuje, gdy dołączymy profil biznesowy użytkownika. Oprócz prompta dzieli się metodą pracy z checklistami: każdy ciekawy artykuł "wrzuć do AI i wyciągnij co ważne do checklisty", a potem używaj checklisty jako kontekstu przy kolejnych zadaniach zamiast pisać prompty od zera.
 
 ## Wnioski
 

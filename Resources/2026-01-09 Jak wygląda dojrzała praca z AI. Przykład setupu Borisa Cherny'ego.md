@@ -15,7 +15,7 @@ tags:
 
 # Jak wygląda dojrzała praca z AI. Przykład setupu Borisa Cherny'ego
 
-[[Boris Cherny]], twórca [[Claude Code]], opisał na X swój codzienny workflow z AI — bez marketingu, jako opis realnej praktyki. Kluczowe elementy jego setupu to: praca na kilku równoległych instancjach [[Claude]], plik `CLAUDE.md` jako trwała pamięć projektu (aktualizowana po każdym błędzie), planowanie zakresu przed generowaniem kodu oraz weryfikacja wyników przez samego agenta. Podejście to pokazuje AI zintegrowane w proces, a nie używane okazjonalnie — liczy się nie czas jednej odpowiedzi, lecz minimalna liczba iteracji potrzebnych do dowiezienia wyniku. Dla większości zastosowań autor sugeruje stopniowe wdrożenie: najpierw reguły współpracy, potem plan przed działaniem, na końcu równoległość.
+[[Boris Cherny]], twórca [[Claude Code]], opisał na X swój codzienny workflow z AI — bez marketingu, jako opis realnej praktyki. Kluczowe elementy jego setupu to: praca na kilku równoległych instancjach [[Claude AI|Claude]], plik `CLAUDE.md` jako trwała pamięć projektu (aktualizowana po każdym błędzie), planowanie zakresu przed generowaniem kodu oraz weryfikacja wyników przez samego agenta. Podejście to pokazuje AI zintegrowane w proces, a nie używane okazjonalnie — liczy się nie czas jednej odpowiedzi, lecz minimalna liczba iteracji potrzebnych do dowiezienia wyniku. Dla większości zastosowań autor sugeruje stopniowe wdrożenie: najpierw reguły współpracy, potem plan przed działaniem, na końcu równoległość.
 
 ## Wnioski
 - Plik `CLAUDE.md` (lub odpowiednik w dowolnym projekcie) to najprostsza zmiana o najwyższym zwrocie: kilka reguł zapisanych raz eliminuje powtarzające się błędy w każdej sesji z [[AI]]

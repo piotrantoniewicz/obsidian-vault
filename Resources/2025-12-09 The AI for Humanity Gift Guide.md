@@ -15,7 +15,7 @@ tags:
 
 # The AI for Humanity Gift Guide
 
-Kevin Barenblat zebrał portfolio tech nonprofitów z portfela [[Fast Forward]] z konkretnymi danymi o skali impaktu i kosztem na jednego beneficjenta. Newsletter pełni funkcję fundraisingową, ale jest też cennym kompendium przykładów AI w służbie misji społecznej. Wyjątkowo interesująca jest informacja poboczna: stan Maryland nawiązał partnerstwo z [[Anthropic]], Rockefeller Foundation i firmą Percepta, by wdrożyć [[Claude]] do obsługi mieszkańców — dostęp do zasiłków, pozwolenia budowlane, nawigacja przez systemy wsparcia. To precedensowe wdrożenie AI w administracji publicznej.
+Kevin Barenblat zebrał portfolio tech nonprofitów z portfela [[Fast Forward]] z konkretnymi danymi o skali impaktu i kosztem na jednego beneficjenta. Newsletter pełni funkcję fundraisingową, ale jest też cennym kompendium przykładów AI w służbie misji społecznej. Wyjątkowo interesująca jest informacja poboczna: stan Maryland nawiązał partnerstwo z [[Anthropic]], Rockefeller Foundation i firmą Percepta, by wdrożyć [[Claude AI|Claude]] do obsługi mieszkańców — dostęp do zasiłków, pozwolenia budowlane, nawigacja przez systemy wsparcia. To precedensowe wdrożenie AI w administracji publicznej.
 
 ## Wnioski
 - Case studies z kosztem na beneficjenta: [[Lemontree]] (żywność, 18K rodzin/dzień, $3/rok/rodzina), [[Koko]] (zdrowie psychiczne młodzieży, 6M+ użytkowników, $5/osoba), Darsel (korepetycje z matematyki WhatsApp, 330K uczniów, $1/uczeń/rok) — gotowe argumenty dla fundraiserów pokazujące efektywność AI w NGO.

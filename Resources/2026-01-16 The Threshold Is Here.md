@@ -15,10 +15,10 @@ tags:
 
 # The Threshold Is Here
 
-MacNeil opisuje przełomowy eksperyment: użyła [[Claude]] do analizy dekady prywatnych dzienników, szukając wzorców, których sama nie dostrzegała. Wynik zaskakujący — osiągała zaledwie 40% konkretnych, wymiernych celów, ale niemal wszystko, co wyrażała jako luźną intencję lub wizję możliwości, faktycznie się realizowało. To doświadczenie wpisuje się w szerszy trend potwierdzany badaniami MIT: AI używane jako "collaborative thinking partner" (nie narzędzie do wykonywania zadań) realnie rozszerza zdolności twórcze i oryginalne myślenie. Newsletter kończy się analogią do lat 90. — firmy, które nie zostały "internetowe", już nie istnieją; teraz ta sama logika dotyczy integracji AI.
+MacNeil opisuje przełomowy eksperyment: użyła [[Claude AI|Claude]] do analizy dekady prywatnych dzienników, szukając wzorców, których sama nie dostrzegała. Wynik zaskakujący — osiągała zaledwie 40% konkretnych, wymiernych celów, ale niemal wszystko, co wyrażała jako luźną intencję lub wizję możliwości, faktycznie się realizowało. To doświadczenie wpisuje się w szerszy trend potwierdzany badaniami MIT: AI używane jako "collaborative thinking partner" (nie narzędzie do wykonywania zadań) realnie rozszerza zdolności twórcze i oryginalne myślenie. Newsletter kończy się analogią do lat 90. — firmy, które nie zostały "internetowe", już nie istnieją; teraz ta sama logika dotyczy integracji AI.
 
 ## Wnioski
-- [[Claude]] może pełnić rolę analityka wzorców w długoterminowych danych (dzienniki, notatki, korespondencja) — ujawniając niewidoczne dla nas schematy myślenia, podejmowania decyzji i samoograniczania.
+- [[Claude AI|Claude]] może pełnić rolę analityka wzorców w długoterminowych danych (dzienniki, notatki, korespondencja) — ujawniając niewidoczne dla nas schematy myślenia, podejmowania decyzji i samoograniczania.
 - Badanie [[MIT]] pokazuje, że AI jako partner kreatywny (nie asystent zadań) zwiększa oryginalność myślenia — różnica polega na tym, czy AI "wykonuje" czy "myśli z tobą".
 - Analogia do adopcji internetu: organizacje, które nie zintegrowały AI do 2026 roku, znajdą się w sytuacji Blockbustera — luka między "zintegrowanymi" a "nie" rośnie każdego dnia.
 

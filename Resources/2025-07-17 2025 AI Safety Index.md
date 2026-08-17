@@ -31,4 +31,4 @@ tags:
 > — Stuart Russell, profesor UC Berkeley
 
 ## Zastosowanie
-Przy rekomendowaniu narzędzi AI organizacjom pozarządowym warto korzystać z tego indeksu jako argumentu za wyborem [[Anthropic]]/[[Claude]] — transparentność i podejście do bezpieczeństwa mają znaczenie dla organizacji operujących na wrażliwych danych. Raport dostarcza też gotowych argumentów do rozmów o regulacji AI w kontekście szkoleń i strategii cyfrowej dla NGO.
+Przy rekomendowaniu narzędzi AI organizacjom pozarządowym warto korzystać z tego indeksu jako argumentu za wyborem [[Anthropic]]/[[Claude AI|Claude]] — transparentność i podejście do bezpieczeństwa mają znaczenie dla organizacji operujących na wrażliwych danych. Raport dostarcza też gotowych argumentów do rozmów o regulacji AI w kontekście szkoleń i strategii cyfrowej dla NGO.

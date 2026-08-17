@@ -34,7 +34,7 @@ Newsletter podsumowuje webinar [[Mateusz Chrobok|Mateusza Chroboka]] i Kamila Po
 
 - Shadow AI to norma, nie wyjątek — organizacje powinny regulować i edukować zamiast zakazywać, bo zakazy skutkują ukrywaniem problemów i brakiem kontroli nad tym, co dzieje się z danymi
 - Polityka AI nie musi być dokumentem prawnym — prosta, czytelna strona odpowiadająca na 3 pytania jest lepsza niż szczegółowy regulamin, którego nikt nie czyta; zasada: cokolwiek, co będziesz rozwijać, jest lepsze niż nic
-- Dla NGO pracujących z danymi beneficjentów warto rozważyć [[LM Studio]] lub inne modele lokalne dla wrażliwych procesów, zamiast wklejać dane do chmurowych narzędzi jak [[ChatGPT]] czy [[Claude]]
+- Dla NGO pracujących z danymi beneficjentów warto rozważyć [[LM Studio]] lub inne modele lokalne dla wrażliwych procesów, zamiast wklejać dane do chmurowych narzędzi jak [[ChatGPT]] czy [[Claude AI|Claude]]
 
 ## Cytat
 

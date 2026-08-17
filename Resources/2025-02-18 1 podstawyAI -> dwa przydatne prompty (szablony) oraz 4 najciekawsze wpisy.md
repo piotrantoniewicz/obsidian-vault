@@ -14,11 +14,11 @@ tags:
 
 # 1 podstawyAI -> dwa przydatne prompty (szablony) oraz 4 najciekawsze wpisy
 
-Artykuł z serii #podstawyAI prezentuje dwa praktyczne szablony promptów przeznaczone dla różnych typów modeli językowych: klasycznych (GPT-4, [[Claude]]) oraz rozumujących (o1, o3, R1). Kluczowe rozróżnienie polega na tym, że modele rozumujące wymagają zwięzłego i precyzyjnego promptu — bez rozbudowanego kontekstu, z naciskiem na konkretne zadanie i ograniczenia. Autor ilustruje oba szablony przykładami z obszaru marketingu i sprzedaży. Artykuł ma charakter edukacyjny i stanowi materiał wprowadzający do efektywnego [[prompt engineering|prompt engineeringu]].
+Artykuł z serii #podstawyAI prezentuje dwa praktyczne szablony promptów przeznaczone dla różnych typów modeli językowych: klasycznych (GPT-4, [[Claude AI|Claude]]) oraz rozumujących (o1, o3, R1). Kluczowe rozróżnienie polega na tym, że modele rozumujące wymagają zwięzłego i precyzyjnego promptu — bez rozbudowanego kontekstu, z naciskiem na konkretne zadanie i ograniczenia. Autor ilustruje oba szablony przykładami z obszaru marketingu i sprzedaży. Artykuł ma charakter edukacyjny i stanowi materiał wprowadzający do efektywnego [[prompt engineering|prompt engineeringu]].
 
 ## Frameworki i metody
 
-- **Szablon dla GPT-4/[[Claude]]**: Persona → Kontekst → Cel → Wymagania → Dodatkowe informacje
+- **Szablon dla GPT-4/[[Claude AI|Claude]]**: Persona → Kontekst → Cel → Wymagania → Dodatkowe informacje
 - **Szablon dla modeli rozumujących (o1/o3/R1)**: Persona → Kontekst → Zadanie → Ograniczenia
 
 ## Wnioski

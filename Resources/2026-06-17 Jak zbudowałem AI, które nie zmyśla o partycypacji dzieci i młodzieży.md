@@ -23,7 +23,7 @@ tags:
 1. **Rozumienie pytania** — szybki, tani model przepisuje pytanie konwersacyjne (np. „a co z gminami?") na samodzielne zapytanie w kontekście rozmowy
 2. **Wyszukiwanie semantyczne** — system szuka pasujących fragmentów po znaczeniu (embedding), nie po słowach kluczowych; działa również między językami
 3. **Budowanie „ściągi"** — znalezione fragmenty są numerowane i wklejane do polecenia jako ponumerowane cytaty `[1]`, `[2]`…
-4. **Generowanie odpowiedzi** — mocny model (w PIA: [[Claude]] Opus 4.8) pisze odpowiedź wyłącznie na podstawie ściągi, wstawiając numery cytowań przy każdym zdaniu
+4. **Generowanie odpowiedzi** — mocny model (w PIA: [[Claude AI|Claude]] Opus 4.8) pisze odpowiedź wyłącznie na podstawie ściągi, wstawiając numery cytowań przy każdym zdaniu
 5. **Klikalne cytaty** — `[1]` staje się linkiem do konkretnego źródła, które użytkownik może otworzyć i zweryfikować
 
 **Dwupoziomowy chunking dokumentów:**

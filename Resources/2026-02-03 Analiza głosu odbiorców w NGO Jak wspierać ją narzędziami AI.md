@@ -28,7 +28,7 @@ Artykuł [[Karina Janus|Kariny Janus]] z [[TechSoup]] opisuje praktyczne zastoso
 
 ## Wnioski
 
-- Modele językowe jak [[ChatGPT]] czy [[Claude]] mają tendencję do normalizowania języka — jeśli celem jest autentyczna komunikacja, trzeba świadomie zachowywać oryginalne sformułowania odbiorców, nie pozwalając AI ich "poprawiać"
+- Modele językowe jak [[ChatGPT]] czy [[Claude AI|Claude]] mają tendencję do normalizowania języka — jeśli celem jest autentyczna komunikacja, trzeba świadomie zachowywać oryginalne sformułowania odbiorców, nie pozwalając AI ich "poprawiać"
 - Analiza jakościowa w NGO to nie pomiar, lecz interpretacja — AI może przyspieszyć identyfikację wzorców, ale wnioski zawsze mają charakter roboczych hipotez, nie faktów
 - To podejście najlepiej działa w małych organizacjach bez dedykowanych zespołów analitycznych, gdzie wiedza o odbiorcach jest rozproszona w mailach, ankietach i rozmowach
 

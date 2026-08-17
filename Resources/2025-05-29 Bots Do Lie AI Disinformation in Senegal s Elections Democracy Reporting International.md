@@ -22,7 +22,7 @@ tags:
 
 - 47% odpowiedzi w języku Wolof było częściowo lub całkowicie niepoprawnych
 - 41% odpowiedzi w języku francuskim było częściowo lub całkowicie niepoprawnych
-- [[Claude]] miał 32% niepoprawnych odpowiedzi — wyższy niż wskaźnik poprawnych
+- [[Claude AI|Claude]] miał 32% niepoprawnych odpowiedzi — wyższy niż wskaźnik poprawnych
 - [[Gemini]] miał 93% wskaźnik odmowy odpowiedzi — paradoksalnie najbezpieczniejsza strategia
 
 ## Wnioski

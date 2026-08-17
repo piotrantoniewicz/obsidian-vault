@@ -16,7 +16,7 @@ tags:
 ---
 # How to build your first Claude Skill
 
-[[Allie K Miller]] wyjaśnia czym są Claude Skills — zipa z instrukcjami w pliku SKILL.md, które mówią [[Claude]] jak wykonywać powtarzalne zadania zgodnie z własnym procesem, stylem i preferencjami. Artykuł obala mit, że Skills są tylko dla programistów: plik SKILL.md to zwykły dokument w plain text, a Claude może zbudować Skill za użytkownika na podstawie istniejącego wątku rozmowy. Autorka pokazuje własny przypadek użycia — Skill "AI-First Index Assessment" (700+ linii), który skrócił jej tygodniową pracę do 3 godzin.
+[[Allie K Miller]] wyjaśnia czym są Claude Skills — zipa z instrukcjami w pliku SKILL.md, które mówią [[Claude AI|Claude]] jak wykonywać powtarzalne zadania zgodnie z własnym procesem, stylem i preferencjami. Artykuł obala mit, że Skills są tylko dla programistów: plik SKILL.md to zwykły dokument w plain text, a Claude może zbudować Skill za użytkownika na podstawie istniejącego wątku rozmowy. Autorka pokazuje własny przypadek użycia — Skill "AI-First Index Assessment" (700+ linii), który skrócił jej tygodniową pracę do 3 godzin.
 
 ## Frameworki i metody
 

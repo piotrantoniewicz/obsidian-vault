@@ -5,7 +5,7 @@ tags:
   - digital-campaigning
   - organizacje-społeczne
 created: 2026-06-15
-updated: 2026-06-29
+updated: 2026-08-17
 relevance: wysoka
 sources:
   - "[[2025-10-21 GivingTuesday x Blackbaud Institute Special Report]]"
@@ -16,6 +16,7 @@ sources:
   - "[[2025-11-14 Jak tworzyć treści, które naprawdę angażują Gen Z?]]"
   - "[[2026-06-12 The Generational Remix What the 2026 Giving Signals Report Reveals]]"
   - "[[2026-06-29 Pulse of the Donor 2026 Fundraising Benchmarks & Giving Trends]]"
+  - "[[2026-07-31 Dlaczego młodzi odchodzą z organizacji- Perspektywa przedstawicielki pokolenia Z]]"
 ---
 
 # Pokolenia darczyńców (Donor Generations)
@@ -49,6 +50,9 @@ Próg kwotowy i kanał dopasuj do generacji — ale **personalizacja i konkretno
 
 **6. Przesunięcie ku dawaniu „intent-driven" i okno 60 dni**
 Darczyńcy coraz częściej **koncentrują** dary w organizacjach, którym ufają (intent-driven zamiast volume-driven). Retencja jest dramatycznie niska (31,9% ogółem; konwersja first-to-second 25,84% — 7 na 10 daje raz i nie wraca), a **okno 60 dni po pierwszym darze** decyduje, czy w ogóle zbudujemy bazę. Tu generacyjny obiektyw spotyka [[2026-06-13 Stewardship|stewardship]] i [[2026-06-12 Recurring giving|recurring giving]]: różne pokolenia mają różną skłonność do cykliczności (<2% nowych darczyńców to dawcy cykliczni — ogromny niewykorzystany potencjał).
+
+**7. Ten sam wzorzec po stronie zespołu — Gen Z angażuje się chętnie, ale nie wiąże się z instytucją**
+Rozszerzenie mech. 2 („młodzi dają czas, nie pieniądze") z relacji darczyńskiej na **relację pracowniczo-wolontariacką**, bo mechanika jest ta sama. Dane kotwiczące (Blackbaud Institute, *Gen. Z at the Table*, 2024): **84% przedstawicieli Gen Z wspiera organizacje, inicjatywy lub cele społeczne** w jakiejś formie — jako darczyńcy, wolontariusze albo rzecznicy — a mimo to trudno przełożyć to zaangażowanie na **długoterminowe związanie się z jedną organizacją**. Relacja jest więc chętnie nawiązywana i słabo instytucjonalizowana, dokładnie jak po stronie dawania. Perspektywa oddolna (Lidiia Tsiupera, koordynatorka projektów, ngo.pl) wskazuje trzy przyczyny odejść, z których **żadna nie jest wynagrodzeniem**: (a) **brak czytelnej ścieżki rozwoju** — w jednym projekcie asystent, w kolejnym koordynator; różnorodność ról jest wartością organizacji, ale przeszkodą w budowaniu tożsamości zawodowej młodej osoby, więc trzeba ją **nazwać wprost już na rekrutacji**, a nie sprzedawać jako awans; (b) **brak realnego wpływu na decyzje** — przestrzeń na własne pomysły, także odrzucane, ale **z uzasadnieniem**, buduje zaangażowanie mocniej niż lista obowiązków; (c) **jakość wdrożenia** — wyznaczona osoba kontaktowa od pierwszego dnia i prawo do błędu decydują o retencji bardziej niż pensja. Konsekwencja dla kultury: organizacja, w której nowa osoba boi się powiedzieć „nie daję rady", sama produkuje wypalenie. Zdanie, które warto cytować w rozmowie z zarządem: *„chciałabym tylko, żeby organizacji zależało na mnie tak samo, jak mnie zależy na organizacji"* — to ten sam **kontrakt wzajemności**, na którym stoi [[2026-06-13 Stewardship|stewardship]] darczyńcy, tylko przeniesiony do wewnątrz. *(Źródło: [[2026-07-31 Dlaczego młodzi odchodzą z organizacji- Perspektywa przedstawicielki pokolenia Z]])*
 
 ---
 

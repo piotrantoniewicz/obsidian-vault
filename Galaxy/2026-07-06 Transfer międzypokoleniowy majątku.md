@@ -5,7 +5,7 @@ tags:
   - strategia-organizacji
   - organizacje-społeczne
 created: 2026-07-06
-updated: 2026-07-24
+updated: 2026-08-17
 relevance: wysoka
 sources:
   - "[[2026-06-23 Donors gave U.S. charities $617 billion in 2025, according to the new Giving USA report]]"
@@ -14,6 +14,7 @@ sources:
   - "[[2026-04-24 Beyond the Ask Donor Stewardship]]"
   - "[[2026-06-12 The Generational Remix What the 2026 Giving Signals Report Reveals]]"
   - "[[2026-07-21 Giving USA 2026 - what emailers should know]]"
+  - "[[2026-08-13 Giving USA charitable giving rose to $617.20 billion in 2025, surpassing the $600 billion mark for the first time]]"
 ---
 
 # Transfer międzypokoleniowy majątku (Great Wealth Transfer)
@@ -46,6 +47,9 @@ Giełda stała się głównym predyktorem poziomu dawania, megadarczyńcy koncen
 
 **7. Giving USA 2026: zapisy testamentowe najszybciej rosnącym źródłem — a programy mailowe tego nie widzą**
 Twarde potwierdzenie mechanizmu 1 z nowego rocznika danych: przy całkowitych darowiznach w USA na poziomie **617,20 mld USD (+5,7% nominalnie, +3,0% realnie)** zapisy testamentowe urosły o **16,6% realnie, do 62,19 mld USD — najszybciej ze wszystkich źródeł**. W tym samym czasie darowizny korporacyjne praktycznie stanęły: **+0,5% realnie**. Podsektory rozjeżdżają się mocno (środowisko i prawa zwierząt +8,2%, dobro publiczne +8,7%, religia −0,2%, sprawy międzynarodowe +1,4%), więc tempo własnego podsektora kształtuje zachowania darczyńców niezależnie od tego, czy organizacja to śledzi. Trzy konsekwencje operacyjne (Civic Shout): (a) **legacy giving można zacząć od jednego cyklicznego maila rocznie** do najbardziej lojalnych darczyńców — tak [[Cornell Lab of Ornithology]] zbudowało program wart 4 mln USD; (b) stagnacja matchingu korporacyjnego oznacza przesunięcie potwierdzania partnerstw z października na **III kwartał**, zanim budżety firm zostaną rozdysponowane; (c) apele końcoworoczne segmentować wg stażu i zachowania — [[Equimundo]] przy **50% mniejszej, lepiej dobranej liście** uzyskało **31% więcej kliknięć**. Luka do wykorzystania pozostaje ta sama co w mechanizmie 4: źródło rośnie najszybciej, a programy mailowe wciąż go nie obsługują.
+
+**8. Ten sam rocznik u źródła: nominalnie czy realnie — i dlaczego to zmienia zdanie, które wypowiadasz przy zarządzie**
+Domknięcie mech. 7 danymi z **komunikatu samego Giving USA** (nie z omówień): przekroczenie progu **600 mld USD po raz pierwszy w historii** — **617,20 mld USD, +5,7% nominalnie, +3,0% realnie** — przy jednoczesnym wzroście **wszystkich czterech źródeł** (osoby, fundacje, spadki, korporacje), i to mimo nastrojów konsumenckich blisko historycznych minimów. **(a) Zapisy testamentowe mają dwie prawidłowe liczby:** **+19,7% nominalnie** i **+16,6% realnie**, do **62,19 mld USD** — mech. 7 podaje wersję realną, definicja strony i mech. 1 operują zaokrągleniem „+17%". Reguła cytowania: podawaj **jedną wartość z etykietą** („realnie" / „nominalnie"), bo różnica ponad trzech punktów wystarczy, żeby ktoś na sali zakwestionował całą prezentację. **(b) Fundacje jako druga stabilna noga:** **117,15 mld USD (+5,7%)** i utrzymanie poziomu **powyżej 100 mld USD nieprzerwanie od 2022 r.** — to argument za traktowaniem grantodawców jako strumienia trendowego, nie koniunkturalnego. **(c) Podsektory w ujęciu nominalnym:** edukacja **+11,7%**, dobro publiczne **+11,6%**, środowisko i zwierzęta **+11,0%** — te same zwycięskie kategorie co w mech. 7, tylko przed korektą o inflację. **(d) Wniosek interpretacyjny, ważniejszy niż same liczby:** wynik ciągną **aktywa i rynki finansowe** (spadki, fundacje), nie poprawa nastrojów darczyńców indywidualnych — czyli rekordowy rok sektora **nie oznacza**, że przeciętnej organizacji łatwiej pozyskać nowego małego darczyńcę. Dla polskiego kontekstu to podwójne zastrzeżenie: dane z USA i mechanizm napędzany majątkiem, nie hojnością bieżącą. *(Źródło: [[2026-08-13 Giving USA charitable giving rose to $617.20 billion in 2025, surpassing the $600 billion mark for the first time]])*
 
 ## Powiązane pojęcia
 

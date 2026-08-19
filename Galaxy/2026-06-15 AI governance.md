@@ -5,7 +5,7 @@ tags:
   - organizacje-społeczne
   - strategia-organizacji
 created: 2026-06-15
-updated: 2026-08-17
+updated: 2026-08-19
 relevance: wysoka
 sources:
   - "[[2024-08-12 AI Governance Framework for Nonprofits]]"
@@ -121,6 +121,13 @@ Trzy rozstrzygnięcia z webinaru Avid (Kevin Peters, Nathan Chappell / Virtuous)
 
 ---
 
+**20. Trzy niezależne pomiary tej samej dziury: 76%, 47%, 81% ad hoc**
+Dotąd strona opierała skalę problemu na jednej liczbie („<1% organizacji wdrożyło AI systemowo"). Ta fala dokłada trzy niezależne odczyty, które mierzą to samo z różnych stron i wreszcie pozwalają mówić o rzędzie wielkości, nie o anegdocie: **76% organizacji społecznych nie ma żadnej formalnej polityki AI** (Bloomerang/Fois za *2025 AI Benchmark Report* TechSoup/Tapp Network), **47% nie ma polityki governance dotyczącej AI** (Dobosz za Virtuous i Fundraising.AI 2026) i — najbardziej operacyjny wskaźnik — **81% wdrożeń ma charakter ad hoc**, czyli narzędzie należy do pojedynczej osoby, nie do procesu organizacji. Rozbieżność 76% vs 47% jest najpewniej różnicą definicji („polityka AI" vs „governance") i próby (cały sektor vs organizacje fundraisingowe), ale nie jest przez żadne źródło różnicowana — do cytowania trzeba wybrać jedną i podać źródło. Wniosek, który wiąże te liczby z mech. 1: brak polityki **nie oznacza braku użycia AI** — oznacza użycie nieudokumentowane, czyli dokładnie warunek, w którym „BYO AI" zamienia się w incydent. *(Źródła: [[2026-08-05 The AI-Enabled Nonprofit A Strategy Guide for 2026]], [[2026-08-10 Can AI Close the Gap in Nonprofit Fundraising Without Sacrificing Its Human, Transformational Nature-]])*
+**21. Polityka danych jako główna pozycja harmonogramu, nie koszt towarzyszący**
+Najtwardsza dostępna kalibracja czasu, jaką ma ta strona, i argument przeciw traktowaniu lekkiej polityki (mech. 2) jako czegoś, co da się „dopisać po drodze". W audycie Habitat for Humanity of Michigan **przygotowanie fundamentów — polityka danych (co wolno wprowadzać do narzędzia) plus dziesięć krótkich szkoleń wideo — zajęło więcej czasu niż wszystkie wdrożone workflow razem wzięte**. Zasada nazwana przez autorkę: *fundamenty przed funkcjami*. To odwraca typowy plan projektu, w którym governance jest ostatnim kamieniem milowym, i daje konkretną odpowiedź na pytanie klienta „ile to zajmie": więcej niż samo wdrożenie. Ta sama warstwa działa jako filtr wyboru: pomysły, które wymagają wprowadzenia do modelu danych, których polityka nie dopuszcza, wypadają z listy **przed** oceną wpływu, a nie po pierwszym incydencie. *(Źródło: [[2026-08-19 21 Things AI Could Do Here. Here's Where We Started.]])*
+**22. Trzy pytania przed wysłaniem danych do zewnętrznego modelu (i test na shadow AI)**
+Najkrótsza operacyjna wersja polityki AI, jaką da się zapamiętać i zadać na spotkaniu — z polskiego kontekstu danych finansowych, ale przenośna wprost na dane darczyńców i beneficjentów (ai-leaders.pl). **(1) Dokąd to leci?** — dostawca, region przetwarzania, retencja, lista podprocesorów. **(2) Czy musi lecieć w całości?** — *pseudonimizacja rozwiązuje 80% problemu za 20% wysiłku*, czyli domyślną odpowiedzią jest „nie" (zob. [[2026-07-06 RODO i dane wrażliwe|RODO i dane wrażliwe]], mech. o anonimizacji w locie). **(3) Kto to zatwierdził?** — i tu jest właściwy test: **brak odpowiedzi na trzecie pytanie oznacza, że w organizacji działa shadow AI na danych wrażliwych**, niezależnie od tego, co mówi regulamin. To domyka paradoks bezpieczeństwa z [[2026-07-06 RODO i dane wrażliwe|RODO]]: wykrywalnym objawem nie jest narzędzie, tylko brak nazwiska przy decyzji. Druga zasada z tego samego źródła, warta wpięcia w politykę: **automatyzacja odczytu dokumentu bez jasno przypisanej odpowiedzialności człowieka za reakcję to pozorna automatyzacja** — ryzyko przenosi się z „czy system to wykryje" na „kto o tym wie i zareaguje". *(Źródło: [[2026-08-19 Dane, których nie masz, a właściwie nie wiesz, że masz. KSeF, e-Doręczenia i koniec wymówek]])*
+
 ## Powiązane pojęcia
 
 - [[2026-06-13 Wdrażanie AI w organizacji społecznej|Wdrażanie AI w organizacji społecznej]] — AI governance to filar **etyki** tego wdrożenia: „AI odsłania istniejące słabości", a governance jest mechanizmem, który nie pozwala słabościom (bałagan w danych, brak zasad) skalować się razem z narzędziem. Czerwony link stąd zrealizowany.
@@ -155,3 +162,7 @@ Trzy rozstrzygnięcia z webinaru Avid (Kevin Peters, Nathan Chappell / Virtuous)
 - Jak governance ma nadążyć za [[2026-06-15 Agentic AI|agentic AI]] w organizacji bez kompetencji technicznych, skoro klasyczne procesy zatwierdzania zawodzą dla systemów zmieniających zachowanie po wdrożeniu?
 - Czy „exit plan" od Big Techu jest dla małej organizacji realny, czy to postulat życzeniowy — jaki jest najtańszy poziom niezależności (lokalny model? eksport danych?), który da się utrzymać?
 - Jak pogodzić wymóg transparentności („oznaczamy treści AI") z obawą, że ujawnienie użycia AI samo w sobie podkopie wiarygodność organizacji w oczach darczyńców?
+  - "[[2026-08-05 The AI-Enabled Nonprofit A Strategy Guide for 2026]]"
+  - "[[2026-08-10 Can AI Close the Gap in Nonprofit Fundraising Without Sacrificing Its Human, Transformational Nature-]]"
+  - "[[2026-08-19 21 Things AI Could Do Here. Here's Where We Started.]]"
+  - "[[2026-08-19 Dane, których nie masz, a właściwie nie wiesz, że masz. KSeF, e-Doręczenia i koniec wymówek]]"

@@ -5,7 +5,7 @@ tags:
   - ghostwriting
   - organizacje-społeczne
 created: 2026-08-17
-updated: 2026-08-17
+updated: 2026-08-19
 relevance: wysoka
 sources:
   - "[[2024-06-26 Marka osobista w NGO jak zacząć budowanie wizerunku społecznika społeczniczki]]"
@@ -74,6 +74,9 @@ Silna marka osobista oparta na treści edukacyjnej może obniżyć koszt pozyska
 
 **Napięcie drugie — odkrywanie czy checklista?** Ufel i Gridley mówią, że marki nie da się zaprojektować (archeologia, talk jako testowany produkt); Jaczewski i Marciniak dostarczają gotowych frameworków i checklist sekcji profilu. To nie jest sprzeczność logiczna, tylko różne fazy: checklisty są skuteczne **po** ustaleniu pozycjonowania i bezużyteczne przed nim (mech. 3 mówi dokładnie to: problem pozycjonowania bywa mylnie diagnozowany jako problem komunikacji). Praktyczna reguła robocza do przetestowania: najpierw Disappearance Test, dopiero potem nagłówek na 220 znaków.
 
+**13. Siedem kroków produkcji szkolenia — operacyjna wersja „talk jako produkt, nie tożsamość"**
+Mech. 5 (za Gridleyem) proponuje obejście dla osób nieznoszących autopromocji: **traktuj wystąpienie jak testowany produkt, nie jak wyraz siebie**. Josh Spector dostarcza do tego brakującą procedurę — proces, którym od pięciu lat wyprodukował **ponad trzydzieści szkoleń** dla własnej społeczności. Siedem kroków: **(1) pozwól odbiorcom WYBRAĆ temat** (głosowanie nad trzema propozycjami); **(2) zbierz od nich PYTANIA** przy okazji głosowania — to jednocześnie punkt wyjścia do treści i źródło wątków, o których prowadzący sam by nie pomyślał; **(3) wypisz wszystko, co wiesz** — brain dump rozłożony na kilka dni, z zasadą nadrzędną: *zawsze rozdzielaj fazę wymyślania od fazy tworzenia*; **(4) uporządkuj w 5–10 sekcji**; **(5) zrób prezentację** — każdy punkt konspektu staje się slajdem, a samo składanie decku działa jak próba generalna i wyłapuje luki; **(6) WRÓĆ do pytań uczestników** i uzupełnij braki; **(7) poprowadź na żywo z Q&A**, potem wyślij nagranie i materiały. Dlaczego to należy do tej strony, a nie do notatnika o produktywności: **kroki 1–2 są najtańszą dostępną walidacją oferty** — głosowanie nad tematem jednocześnie bada potrzebę, buduje zaangażowanie i zapowiada wydarzenie, co czyni z niego mechanizm marki, nie tylko przygotowania. Krok 3 jest zaś praktyczną odpowiedzią na syndrom „nie mam czego uczyć", który mech. 1 („archeologia, nie architektura") diagnozuje, ale nie rozbraja: **rozłożony na dni brain dump ujawnia, ile prowadzący naprawdę wie**. Domknięcie pętli (powrót do pytań, sekcja „pierwsze 5 kroków" na końcu, materiały po sesji) zamienia jednorazowe wystąpienie w **powtarzalny produkt z jasną obietnicą** — czyli dokładnie w to, czym według Gridleya ma być talk. *(Źródło: [[2026-08-18 How I'm creating The Comment Writer training]])*
+
 ## Powiązane pojęcia
 
 - [[2026-07-07 Ghostwriting|Ghostwriting]] — marka osobista to cel, ghostwriting jedna z metod jej obsługi; napięcie „destylacja głosu vs autentyczność" żyje na obu stronach, a mech. 4 („scena, nie temat") jest tu wspólnym kryterium jakości briefu.
@@ -107,3 +110,4 @@ Silna marka osobista oparta na treści edukacyjnej może obniżyć koszt pozyska
 - Czy zasada 7-11-4 wytrzymuje przeniesienie z B2B na relację darczyńca–organizacja, gdzie decyzja jest emocjonalna, tańsza i rzadziej poprzedzona researchem?
 - Jak długo utrzyma się okno rynkowe LinkedIn dla organizacji społecznych (~1000 profili, 3% publikujących) i co jest sygnałem, że się zamyka?
 - Skoro modele językowe cytują profile osobiste częściej niż firmowe — czy to argument za tym, żeby organizacja publikowała stanowiska i raporty pod nazwiskami autorów zamiast pod logo, i jak to pogodzić z odpowiedzialnością instytucjonalną za treść?
+  - "[[2026-08-18 How I'm creating The Comment Writer training]]"

@@ -5,7 +5,7 @@ tags:
   - organizacje-społeczne
   - strategia-organizacji
 created: 2026-07-06
-updated: 2026-08-17
+updated: 2026-08-19
 relevance: wysoka
 sources:
   - "[[2025-09-02 AI Act & RODO 2025 Przewodnik po regulacjach UE karach i compliance]]"
@@ -68,6 +68,11 @@ Domknięcie mechanizmu 3 (domyślne trenowanie) i 6 (paradoks bezpieczeństwa) o
 
 ---
 
+**12. Anonimizacja w locie — architektura, która przesuwa granicę „czego nie wolno wysłać"**
+Najkonkretniejszy dostępny wzorzec techniczny na to, co strona dotąd opisywała ogólnie jako „anonimizacja → architektura model vs wiedza" (Patryk Łopot, wPraktyce.AI). Trzy kroki, wszystkie automatyczne i **odwracalne**: **(1) maskowanie lokalne** — system podmienia dane osobowe na etykiety („imię 1", „PESEL 1") **przed** wysyłką do modelu; **(2) przetwarzanie w chmurze** — model liczy, zestawia i analizuje wyłącznie na etykietach, nigdy nie poznając prawdziwych wartości; **(3) dekodowanie lokalne** — po otrzymaniu odpowiedzi system podmienia etykiety z powrotem, a rzeczywiste dane widzi wyłącznie użytkownik. Autorski skrót, który dobrze działa na sali: *„marker na papierze, tylko automatyczny i odwracalny"*. Znaczenie dla tej strony jest strategiczne, nie tylko techniczne: dotąd wybór wyglądał na binarny — **albo model lokalny (bezpieczny, słabszy), albo chmura (mocna, ryzykowna)**; ta architektura pokazuje **trzecią ścieżkę**, w której dane fizycznie nie opuszczają komputera, a organizacja korzysta z modelu frontier. Zastrzeżenie autora, ważne przy sprzedaży: to **architektura składana pod konkretny przypadek** (branża, typ dokumentów), nie produkt z półki — czyli koszt jest po stronie wdrożenia, nie licencji. Heurystyka doboru pierwszego procesu jest przy tym odwrotna do intuicyjnej: **bierz najbardziej bolesny, nie najprostszy** (trzy pytania diagnostyczne: które procesy nie są ruszane AI wyłącznie z powodu danych wrażliwych; który z nich jest najbardziej powtarzalny i czasochłonny; co dokładnie trzeba w nim zamaskować). Sektorowo najlepiej pasuje tam, gdzie ta strona lokuje największe ryzyko: pomoc społeczna, poradnictwo, ochrona zdrowia, dane podopiecznych. *(Źródło: [[2026-08-18 Nie korzystasz z AI, bo boisz się RODO]])*
+**13. Trzy pytania przed wysłaniem danych i pseudonimizacja jako reguła 80/20**
+Kieszonkowa wersja mapy 8 kroków compliance, do zadania na spotkaniu bez przygotowania (ai-leaders.pl): **dokąd to leci** (dostawca, region, retencja, podprocesorzy — czyli vendor due diligence w jednym pytaniu), **czy musi lecieć w całości** (*pseudonimizacja rozwiązuje 80% problemu za 20% wysiłku* — najkrótsze uzasadnienie mech. 12 powyżej) i **kto to zatwierdził** (brak odpowiedzi = shadow AI na danych wrażliwych, czyli objaw paradoksu bezpieczeństwa opisanego na tej stronie). Druga zasada z tego samego materiału dotyczy warstwy, którą compliance zwykle pomija: **automatyzacja odczytu dokumentu bez jasno przypisanej odpowiedzialności człowieka za reakcję to pozorna automatyzacja** — ryzyko nie znika, tylko przenosi się z „czy system to wykryje" na „kto o tym wie i zareaguje". W polskim kontekście ma to twardy termin: **e-Doręczenia dla jednoosobowych działalności z CEIDG sprzed 1 stycznia 2025 — 1 października 2026**, a pismo doręczone elektronicznie biegnie terminem niezależnie od tego, czy ktokolwiek je przeczytał. *(Źródło: [[2026-08-19 Dane, których nie masz, a właściwie nie wiesz, że masz. KSeF, e-Doręczenia i koniec wymówek]])*
+
 ## Powiązane pojęcia
 
 - [[2026-06-15 AI governance|AI governance]] — governance to procesy, role i polityka; ta strona to jego prawny substrat: RODO/AI Act wyznaczają twarde minimum, wokół którego governance buduje praktykę („wyciek danych beneficjentów = incydent RODO").
@@ -97,3 +102,5 @@ Domknięcie mechanizmu 3 (domyślne trenowanie) i 6 (paradoks bezpieczeństwa) o
 - Jak pogodzić anonimizację z użytecznością — w którym momencie anonimizacja danych beneficjentów odbiera analizie AI wartość merytoryczną i co wtedy: model lokalny czy rezygnacja z automatyzacji?
 - Czy przesunięcie terminów compliance dla systemów wysokiego ryzyka (EU AI Act Digital Omnibus, XII 2027) to ulga dająca czas na przygotowanie, czy uśpienie czujności sektora?
 - Jak audytować zgodność łańcucha narzędzi no-code (Make.com, Zapier + LLM), gdzie dane osobowe przepływają przez kilku procesorów naraz — kto jest czyim podmiotem przetwarzającym?
+  - "[[2026-08-18 Nie korzystasz z AI, bo boisz się RODO]]"
+  - "[[2026-08-19 Dane, których nie masz, a właściwie nie wiesz, że masz. KSeF, e-Doręczenia i koniec wymówek]]"

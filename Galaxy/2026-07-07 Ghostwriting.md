@@ -5,7 +5,7 @@ tags:
   - content-marketing
   - strategia-organizacji
 created: 2026-07-07
-updated: 2026-08-17
+updated: 2026-08-19
 relevance: wysoka
 sources:
   - "[[2026-03-06 5 lessons from ghostwriting for 300+ clients]]"
@@ -143,6 +143,11 @@ Mechanizmy 12–13 opisują, **jak** utrzymać produkcję treści; ten opisuje, 
 
 ---
 
+**27. Trzeci niezależny case po stronie wolumenu — 32 posty w 30 dni, 30 z CTA, 29 z 32 jako pojedynczy obraz**
+Napięcie „jakość vs wolumen" (mech. 12–13 vs 20 i 22) dostaje **trzeci case, i pierwszy w niszy coachingowo-przywódczej**: Matthew Brown rozkłada na części konto Erica Partakera (**1 235 409 obserwujących**) — **32 posty w ciągu 30 dni, z czego 30 zawierało wezwanie do działania** (link albo „comment-to-get"), a **29 z 32 to pojedyncze obrazy**. Trzy wnioski. **(a)** Po stronie wolumenu stoją teraz trzy niezależne przypadki w trzech różnych niszach (newsowa — Foo, biznesowo-ekspercka — Donnelly, coachingowo-przywódcza — Partaker), co **praktycznie wyklucza dotychczasowe wyjaśnienie „to działa tylko przy wysokim tempie odświeżania tematu"**; napięcie zaostrza się dalej i przestaje być sporem o niszę. **(b)** Format: dominacja **pojedynczych, udostępnialnych grafik** — haki oparte na ciekawości plus visual podnoszący *dwell time* napędzają zasięg mocniej niż sam tekst; to konkretna wskazówka produkcyjna dla ghostwritera pracującego na LinkedInie. **(c)** Najciekawsza taktyka do przeniesienia, niezależna od sporu o wolumen: **CTA optymalizowane pod ograniczenie podażowe** — gdy usługa jednoosobowa (coaching, konsultacje) ma zamkniętą przepustowość, wezwanie kieruje ruch do **produktów skalowalnych** (książka, newsletter, kurs), a nie do usługi, na którą i tak nie ma miejsc; oraz **baner profilu z odliczaniem** przed startem kohorty („3 dni", „2 dni", „1 dzień") jako tani mechanizm budowania napięcia przed ofertą. *(Źródło: [[2026-08-15 Never-before-seen tactic by this 1.2M follower CEO]])*
+**28. Watermark i próg akceptowalności — nadchodzące oznaczanie treści AI jako ryzyko zawodowe ghostwritera**
+Pierwszy sygnał, że warstwa „AI jako narzędzie dźwigni" (mech. 21) zaczyna mieć **infrastrukturę wykrywania**, a nie tylko normy obyczajowe. Natalie MacNeil odnotowuje, że **Anthropic wprowadził niewidoczny watermark w treściach generowanych przez Claude'a, powiązany z wejściem w życie [[2026-07-20 AI Act|EU AI Act]]**, a Substack już oznacza treści AI — czyli kierunek jest jednoznaczny: **oznaczanie będzie się upowszechniać na kolejnych platformach**. Dla ghostwritingu to ryzyko innego rodzaju niż dotychczasowe: nie „czy klient się przyzna", tylko **czy platforma przyzna za niego**. Druga, otwarta kwestia zgłoszona przez autorkę jako zapowiedź własnego badania: **jaki PRÓG udziału AI w tekście wpływa na decyzję odbiorcy, czy w ogóle go czytać** — pytanie, na które nikt dziś nie ma danych, a które przekłada się wprost na wycenę i na to, co ghostwriter może obiecać klientowi. Kontrapunkt dla mech. 27 i całej strony wolumenu, sformułowany przez autorkę mimo że sama pracuje z agentem AI podłączonym do własnych kanałów (jeden podpowiedziany temat: **+9 000 obserwujących i 500 subskrybentów newslettera**): *„Przyszłość należy do tych, którzy skupiają się na dzieleniu się swoją unikalnie ludzką perspektywą — nie do tych, którzy produkują najwięcej treści za pomocą AI"*. Detal warsztatowy do narzędziownika: **audyt kanału społecznościowego przeprowadzony agentem w przeglądarce** (przegląd profilu i wzorców zaangażowania → research niszy i aktualnego algorytmu → raport z filarami i lukami → pięć pomysłów z hakiem, formatem i CTA) — gotowa usługa audytowa i gotowe ćwiczenie warsztatowe. Kalibracja formatu wideo wbrew powszechnej radzie: **średni watch time skutecznego wideo to 39 sekund**, nie 7–15. *(Źródło: [[2026-08-18 9k followers from one post. The AI process]])*
+
 ## Powiązane pojęcia
 
 - [[2026-06-14 Framing|Framing]] — etykieta zawodowa to framing tożsamości: rama „premium ghostwriter vs freelance writer" ustawia percepcję ceny, zanim zacznie się rozmowa o stawce.
@@ -172,3 +177,5 @@ Mechanizmy 12–13 opisują, **jak** utrzymać produkcję treści; ten opisuje, 
 - Etyka ghostwritingu w sektorze zaufania publicznego: czy treści publikowane pod nazwiskiem liderki organizacji społecznej wymagają jawności współautorstwa? Gdzie przebiega granica między dźwignią idei a fabrykowaniem autentyczności — zwłaszcza wobec pokoleniowego filtra autentyczności Gen Z?
 - Jeśli AI przejmuje ~80% mechaniki pisania, czy wartość ghostwritera przesuwa się całkowicie do strategii i relacji (konsultant treści), a samo pisanie staje się dodatkiem — i co to robi z wyceną per asset?
 - Marka osobista lidera vs marka organizacji: komu rośnie aktyw, gdy ghostwriting buduje nazwisko dyrektora, który za dwa lata odejdzie? Czy organizacja powinna budować „bibliotekę IP" instytucji zamiast osoby?
+  - "[[2026-08-15 Never-before-seen tactic by this 1.2M follower CEO]]"
+  - "[[2026-08-18 9k followers from one post. The AI process]]"

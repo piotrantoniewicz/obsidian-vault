@@ -5,7 +5,7 @@ tags:
   - strategia-organizacji
   - organizacje-społeczne
 created: 2026-06-13
-updated: 2026-08-17
+updated: 2026-08-19
 relevance: wysoka
 sources:
   - "[[2025-02-11 Best Practices for Major Gift Fundraising What You Need to Know to Raise More]]"
@@ -57,6 +57,9 @@ Najostrzejsza korekta mechanizmu 5 („dane wyprzedzają intuicję") i zarazem k
 **9. Rekord sektora napędzają aktywa, nie nastroje — makro-uzasadnienie strategii non-cash**
 Kalibracja mech. 4 („non-cash bije gotówkę") danymi makro z rocznika Giving USA 2026: filantropia w USA osiągnęła rekordowe **617,20 mld USD (+5,7% nominalnie, +3,0% realnie)**, przy czym najszybciej rosły **zapisy testamentowe (+19,7% nominalnie, do 62,19 mld USD)** i **dawanie fundacyjne (117,15 mld USD, +5,7%)** — a więc źródła zasilane **wartością aktywów na silnych rynkach finansowych**, nie bieżącym dochodem. Wzrost nastąpił mimo **nastrojów konsumenckich blisko historycznych minimów**, co jest najczystszym dostępnym dowodem, że dawanie z majątku i dawanie z portfela reagują na **różne** sygnały gospodarcze. Dwie konsekwencje dla portfolio major gifts: (a) w otoczeniu słabych nastrojów konsumenckich, ale mocnych rynków, **przesuwaj wysiłek ku darom z aktywów** (akcje, [[2026-07-06 DAF|DAF]], [[2026-07-06 Transfer międzypokoleniowy majątku|zapisy planowane]]) zamiast intensyfikować apele gotówkowe do bazy, która właśnie czuje się niepewnie; (b) **rekordowy rok całego sektora nie jest obietnicą dla pojedynczej organizacji** — skoro wynik ciągną duże gesty, wzrost widzą przede wszystkim te organizacje, które mają program major i planned giving. To argument ostrzegawczy do rozmowy z zarządem cytującym nagłówek o 617 mld. *(Źródło: [[2026-08-13 Giving USA charitable giving rose to $617.20 billion in 2025, surpassing the $600 billion mark for the first time]])*
 
+**10. Optymalizacja portfela jako drugi (niedoceniony) użytek z AI-scoringu**
+Mech. 5 i 8 opisują AI-scoring po stronie **wejścia** do pipeline'u (kogo w ogóle kwalifikować — ability, affinity, propensity). Mark Dobosz dokłada zastosowanie po stronie **utrzymania**: AI ocenia **jakość i wykorzystanie portfeli już przypisanych gift officerom** i wskazuje, gdzie realokować ograniczony czas na kontakty najbardziej obiecujące. To odpowiedź na problem, który mech. 4 (portfolio 125–150 prospektów) stawia, ale zostawia bez narzędzia: portfel raz zbudowany **starzeje się cicho** — część relacji wygasa, część dojrzewa, a fundraiser rozkłada uwagę po pamięci, nie po danych. Ostrzeżenie kalibrujące entuzjazm: w tym samym badaniu **92% organizacji używa AI, ale tylko 7% widzi poprawę wyników**, a **81% wdrożeń jest ad hoc** — czyli scoring działa wtedy, gdy jest wpięty w workflow zespołu i w rytm pipeline'u z mech. 2, a nie gdy jest prywatnym narzędziem jednego gift officera. Relacyjny rdzeń pozostaje nieautomatyzowalny: „the right ask" AI potrafi przygotować, ale nie wykonać. *(Źródło: [[2026-08-10 Can AI Close the Gap in Nonprofit Fundraising Without Sacrificing Its Human, Transformational Nature-]])*
+
 ## Powiązane pojęcia
 
 - [[2026-06-13 Stewardship|Stewardship]] (opieka nad darczyńcą) — piąty etap pipeline'u i zarazem warunek powrotu darczyńcy z kolejnym, większym darem; bez stewardshipu major gift jest jednorazowy
@@ -83,3 +86,4 @@ Kalibracja mech. 4 („non-cash bije gotówkę") danymi makro z rocznika Giving 
 - Gdzie leży próg, poniżej którego program major gifts nie ma sensu — ile musi liczyć baza, by dało się wytypować rentowne portfolio 25 prospektów?
 - Czy AI-scoring zdolności i skłonności nie utrwala uprzedzeń (faworyzuje profile podobne do dotychczasowych darczyńców), zawężając krąg „kwalifikowanych" prospektów i pomijając nietypowych?
 - Jak pogodzić intymność relacji major gift (prywatne spotkania, odręczne listy) ze skalą — czy istnieje górny pułap portfolio, powyżej którego personalizacja staje się pozorna?
+  - "[[2026-08-10 Can AI Close the Gap in Nonprofit Fundraising Without Sacrificing Its Human, Transformational Nature-]]"

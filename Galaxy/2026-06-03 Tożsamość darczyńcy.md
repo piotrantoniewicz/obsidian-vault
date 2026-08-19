@@ -5,7 +5,7 @@ tags:
   - organizacje-społeczne
   - digital-campaigning
 created: 2026-06-03
-updated: 2026-08-17
+updated: 2026-08-19
 relevance: wysoka
 sources:
   - "[[2026-04-08 Społeczność Jako Twój Najlepszy Fundraiser Jak Wdrożyć Model Peer-to-Peer]]"
@@ -83,6 +83,9 @@ Pełne rozwinięcie tych różnic — z danymi o medianie daru, retencji, kanał
 
 ---
 
+**10. Przynależność poprzedza przekonanie — drugie, niezależne potwierdzenie (i jego koszt)**
+Mech. 1 tej strony stoi na tezie Hahrie Han („przynależność przed przekonaniem"). Ned Howey dochodzi do tego samego z zupełnie innej strony — z praktyki organizowania politycznego — i formułuje to jako **warunek reprodukcji zaangażowania**: przynależność i **wspólne działanie** poprzedzają powstawanie przekonań, więc organizacja, która nie daje ludziom **nic realnego do zrobienia**, przestaje wytwarzać samo zaangażowanie, na którym się opiera. Wartość tego mechanizmu jest w diagnozie kosztu: gdy jedyną oferowaną formą uczestnictwa jest **darowizna na pilny deadline** (często nieprawdziwy), organizacja komunikuje odbiorcy, że jego rola w sprawie sprowadza się do bycia źródłem finansowania — co jest dokładnym przeciwieństwem drabiny tożsamościowej z mech. 3 (transakcyjny → tożsamościowy → ambasador) i najlepszym dostępnym wyjaśnieniem *donor fatigue* od strony projektowej, a nie emocjonalnej. Zdanie-kotwica: *„Rozczarowanie, które wszyscy opłakujemy, nie jest zagadką ani wadą charakteru publiczności. To dokładnie to, co zbudowaliśmy"*. Praktyczna konsekwencja: **każda kampania powinna mieć co najmniej jedną formę uczestnictwa, która nie jest wpłatą** — nie jako miękki dodatek, lecz jako mechanizm wytwarzania przyszłych darczyńców. *(Źródło: [[2026-08-17 The loneliness and joylessness of today's politics]])*
+
 ## Powiązane pojęcia
 
 - [[2026-06-15 Pokolenia darczyńców|Pokolenia darczyńców]] — rozkład tożsamości dawania na konkretne kohorty (Gen Z / Millenialsi / Gen X / Boomers) z danymi o kwocie, retencji i kanale; różnice generacyjne jako wymiar tej samej mechaniki
@@ -111,3 +114,4 @@ Pełne rozwinięcie tych różnic — z danymi o medianie daru, retencji, kanał
 - Jak mierzyć siłę identyfikacji darczyńcy z organizacją poza retencją i LTV?
 - Czy "purpose fatigue" to zmęczenie sprawami czy zmęczenie fałszywą tożsamością, którą organizacje próbują narzucić?
 - Jak AI w komunikacji organizacji społecznych wpłynie na wiarygodność tożsamościową — jeśli darczyńca wie, że dostał automat, czy tożsamość wciąż się buduje?
+  - "[[2026-08-17 The loneliness and joylessness of today's politics]]"

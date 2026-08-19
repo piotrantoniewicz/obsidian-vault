@@ -5,7 +5,7 @@ tags:
   - digital-campaigning
   - organizacje-społeczne
 created: 2026-06-15
-updated: 2026-08-17
+updated: 2026-08-19
 relevance: wysoka
 sources:
   - "[[2025-10-21 GivingTuesday x Blackbaud Institute Special Report]]"
@@ -68,6 +68,9 @@ Rozszerzenie mech. 2 („młodzi dają czas, nie pieniądze") z relacji darczyń
 
 ---
 
+**8. Personalizacja jako oś pokoleniowa — 87% Millennialsów vs 63% Boomersów+**
+Najczystszy dostępny pomiar różnicy pokoleniowej nie w **kanale** ani w **kwocie**, lecz w **oczekiwanym stopniu dopasowania komunikatu** (Bloomerang, *2026 Giving Signals Report*, za Dennisem Foisem): **87% darczyńców z pokolenia Millennials deklaruje, że motywuje ich spersonalizowana komunikacja, wobec 63% wśród Baby Boomers i starszych**. Różnica 24 punktów jest na tyle duża, że przestaje być niuansem tonu, a staje się decyzją o alokacji: **segmentacja i personalizacja zwracają się nierówno w zależności od struktury wiekowej bazy**, a organizacja z bazą zdominowaną przez Boomersów może racjonalnie odłożyć inwestycję w zaawansowaną personalizację na rzecz częstotliwości i dowodu wpływu. Uwaga interpretacyjna, spójna z mech. 1 i 7: 63% to **nadal większość** — to nie jest odczyt „starsi darczyńcy nie chcą personalizacji", tylko „dla młodszych jest warunkiem, dla starszych bonusem". Wątek spina się z [[2026-06-13 Stewardship|Stewardshipem]] (mech. 21): skoro personalizacja na skalę wymaga dziś AI, oś pokoleniowa przekłada się na pytanie, **u kogo ujawnienie użycia AI jest kosztem, a u kogo warunkiem zaufania** — czego żadne z dostępnych źródeł nie mierzy pokoleniowo. *(Źródło: [[2026-08-05 The AI-Enabled Nonprofit A Strategy Guide for 2026]])*
+
 ## Powiązane pojęcia
 
 - [[2026-06-03 Tożsamość darczyńcy|Tożsamość darczyńcy]] — pokolenia to **wymiar** tożsamości dawania: pod różnicami generacyjnymi leży ta sama mechanika (przynależność przed przekonaniem, dar jako wyraz „kim jestem"). Ta strona rozkłada tożsamość na konkretne kohorty z danymi.
@@ -98,3 +101,4 @@ Rozszerzenie mech. 2 („młodzi dają czas, nie pieniądze") z relacji darczyń
 - Jak realnie „przeprowadzić" Gen Z od dawania czasu do dawania pieniędzy — czy istnieje moment/mechanizm konwersji ambasadora w darczyńcę, czy to po prostu kwestia wieku i dochodu?
 - Jak organizacja ma się przygotować na transfer majątku Boomers → młodsi — czy budować relacje z dziećmi obecnych darczyńców *teraz*, czy to przedwczesne?
 - Czy „filtr autentyczności" Gen Z da się obsłużyć bez realnej zmiany działania organizacji — czy każda próba „surowego contentu" bez pokrycia w *story-doing* zostanie wykryta jako fałsz?
+  - "[[2026-08-05 The AI-Enabled Nonprofit A Strategy Guide for 2026]]"

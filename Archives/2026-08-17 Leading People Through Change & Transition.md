@@ -1,10 +1,13 @@
 ---
-type: "Web"
-authors: "[[Bryan Neider]]"
-url: "https://www.linkedin.com/pulse/leading-people-through-change-transition-bryan-neider-gw8bc/"
-published: 2026-08-17
-created: 2026-08-17
+type: Web
+authors: '[[Bryan Neider]]'
+url: >-
+  https://www.linkedin.com/pulse/leading-people-through-change-transition-bryan-neider-gw8bc/
+published: 2026-08-17T00:00:00.000Z
+created: 2026-08-17T00:00:00.000Z
 tags:
+  - organizacje-społeczne
+  - strategia-organizacji
 ---
 
 

@@ -1,10 +1,12 @@
 ---
-type: "Web"
-authors: "[[Dickie Bush]]"
-url: "https://aioperatornewsletter.substack.com/p/full-guide-the-daily-planning-routine?utm_source=substack%2Csubstack&utm_medium=email%2Cemail&utm_campaign=email-restack-comment&r=4zdnrk&triedRedirect=true"
-published: 2026-08-16
-created: 2026-08-19
+type: Web
+authors: '[[Dickie Bush]]'
+url: >-
+  https://aioperatornewsletter.substack.com/p/full-guide-the-daily-planning-routine?utm_source=substack%2Csubstack&utm_medium=email%2Cemail&utm_campaign=email-restack-comment&r=4zdnrk&triedRedirect=true
+published: 2026-08-16T00:00:00.000Z
+created: 2026-08-19T00:00:00.000Z
 tags:
+  - automatyzacja
 ---
 
 

@@ -1,10 +1,14 @@
 ---
-type: "Web"
-authors: "[[Bryan Neider]]"
-url: "https://www.linkedin.com/pulse/mechanics-purpose-turning-engagement-impact-bryan-neider-onb5c/"
-published: 2026-08-19
-created: 2026-08-19
+authors: '[[Bryan Neider]]'
+created: '2026-08-19T00:00:00.000Z'
+published: '2026-08-19T00:00:00.000Z'
 tags:
+  - strategia-organizacji
+  - organizacje-społeczne
+  - automatyzacja
+type: Web
+url: >-
+  https://www.linkedin.com/pulse/mechanics-purpose-turning-engagement-impact-bryan-neider-onb5c/
 ---
 
 

@@ -1,10 +1,14 @@
 ---
-type: "Web"
-authors: "[[Ned Howey]]"
-url: "https://www.linkedin.com/pulse/loneliness-joylessness-todays-politics-ned-howey-wk8ke/"
-published: 2026-08-17
-created: 2026-08-17
+type: Web
+authors: '[[Ned Howey]]'
+url: >-
+  https://www.linkedin.com/pulse/loneliness-joylessness-todays-politics-ned-howey-wk8ke/
+published: 2026-08-17T00:00:00.000Z
+created: 2026-08-17T00:00:00.000Z
 tags:
+  - digital-campaigning
+  - organizacje-społeczne
+  - framing
 ---
 
 

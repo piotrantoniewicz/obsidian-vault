@@ -5,6 +5,9 @@ url: "https://www.thenerve.news/p/cory-doctorow-ai-business-incentive-to-lie-use
 published: 2026-08-04
 created: 2026-08-17
 tags:
+  - "strategia-AI"
+  - "trendy-AI"
+  - "LLM"
 ---
 
 

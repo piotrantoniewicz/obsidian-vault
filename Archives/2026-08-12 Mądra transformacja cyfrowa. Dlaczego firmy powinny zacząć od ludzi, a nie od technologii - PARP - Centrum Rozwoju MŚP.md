@@ -1,10 +1,14 @@
 ---
-type: "Web"
-authors: "[[Maria Piechocka]]"
-url: "https://serwis-uslugirozwojowe.parp.gov.pl/component/content/article/91028:madra-transformacja-cyfrowa-dlaczego-firmy-powinny-zaczac-od-ludzi-a-nie-od-technologii"
-published: 2026-08-12
-created: 2026-08-17
+type: Web
+authors: '[[Maria Piechocka]]'
+url: >-
+  https://serwis-uslugirozwojowe.parp.gov.pl/component/content/article/91028:madra-transformacja-cyfrowa-dlaczego-firmy-powinny-zaczac-od-ludzi-a-nie-od-technologii
+published: 2026-08-12T00:00:00.000Z
+created: 2026-08-17T00:00:00.000Z
 tags:
+  - strategia-AI
+  - automatyzacja
+  - strategia-organizacji
 ---
 
 

@@ -1,10 +1,14 @@
 ---
-type: "Web"
-authors: "[[ai-leaders]]"
-url: "https://aileaders.pl/artykuly/dane-ksef-e-doreczenia-i-koniec-wymowek/?ref=aileaders-pl-newsletter"
-published: 2026-08-19
-created: 2026-08-19
+type: Web
+authors: '[[ai-leaders]]'
+url: >-
+  https://aileaders.pl/artykuly/dane-ksef-e-doreczenia-i-koniec-wymowek/?ref=aileaders-pl-newsletter
+published: 2026-08-19T00:00:00.000Z
+created: 2026-08-19T00:00:00.000Z
 tags:
+  - strategia-AI
+  - automatyzacja
+  - narzędzia-AI
 ---
 
 

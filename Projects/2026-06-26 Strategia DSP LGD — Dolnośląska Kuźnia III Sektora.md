@@ -19,16 +19,16 @@ Materiały źródłowe: `~/Projekty/LGD` (umowa, diagnoza, ankieta CAWI, prezent
 
 ## Etapy (wg umowy §2)
 - [x] 1. Desk research i diagnoza ilościowa — gotowy dokument (`diagnoza.md`)
-- [~] 2. Badania ankietowe CAWI — [formularz Google](https://docs.google.com/forms/d/1dBLzTnPqyE6GHmJ8TmW5VlFXVXINZSY8TAd2Gt7FYZw/edit) w dystrybucji; stan na 2026-07-08: **74/140 wypełnionych ankiet (52,9%)**, cel >100 (71,4%)
-- [~] 3. Warsztaty strategiczne — spotkanie 1 odbyło się 31.03 (SWOT, megatrendy); kolejne do zaplanowania
-- [~] 4. Panel ekspertów (DSP LGD) — umówiony na 2026-07-22, godz. 10:00
-- [ ] 5. Opracowanie dokumentu strategii
+- [~] 2. Badania ankietowe CAWI — [formularz Google](https://docs.google.com/forms/d/1dBLzTnPqyE6GHmJ8TmW5VlFXVXINZSY8TAd2Gt7FYZw/edit) w dystrybucji; ostatnia znana analiza (2026-07-14, dane do 09.07): **86/140 wypełnionych ankiet (61,4%)**, cel >100 (71,4%) — do sprawdzenia, czy przybyło więcej od tego czasu
+- [x] 3. Warsztaty strategiczne — spotkanie 1 odbyło się 31.03 (SWOT, megatrendy); panel ekspertów 22.07 pełni rolę pogłębionej konsultacji (patrz etap 4)
+- [x] 4. Panel ekspertów (DSP LGD) — odbył się 22.07, godz. 10:00 (online, ~77 min, 8 uczestników). Wyniki: diagnoza potwierdzona (5/6 wniosków bez zastrzeżeń), skorygowany wniosek o oknie czasowym dla odporności („temat dopiero się rozpędza", nie domyka), doprecyzowana rola Sieci (federacja, sekretariat, platforma wiedzy) i druga warstwa oferty (specjalizacje tematyczne). Podsumowanie: `podsumowanie_panel_22.07_v2.md`.
+- [ ] 5. Opracowanie dokumentu strategii — punktem wyjścia są ustalenia panelu 22.07 (rozdział „Cele i działania")
 - [ ] 6. Prezentacja multimedialna
 
 ## Kolejne kroki
-- [~] Zrealizować i rozdystrybuować ankietę CAWI — trwa, 74/140 wypełnionych (52,9%), cel >100
-- [ ] Zaplanować kolejne warsztaty strategiczne (cele, scenariusze)
-- [x] Zorganizować panel ekspertów DSP LGD — termin: 2026-07-22, 10:00
+- [ ] Sprawdzić aktualną liczbę wypełnień CAWI (ostatnia znana: 86/140, 09.07) i domknąć zbieranie
+- [x] Zorganizować i przeprowadzić panel ekspertów DSP LGD — zrealizowany 22.07, wyniki opracowane
+- [ ] Przełożyć ustalenia panelu (pętla sukcesji jako wniosek nr 1, rekomendacja 07: szkoła liderów/baza kompetencji/odciążenie „ludzi orkiestr") na rozdział „Cele i działania" dokumentu strategii
 - [ ] Pogłębić nowe wątki z warsztatu 31.03 (patrz niżej) w dokumencie strategii
 
 ## Finanse
@@ -46,6 +46,8 @@ Materiały źródłowe: `~/Projekty/LGD` (umowa, diagnoza, ankieta CAWI, prezent
 ## Powiązane zasoby
 - `~/Projekty/LGD/diagnoza.md` — gotowy 5-stronicowy dokument diagnozy
 - `~/Projekty/LGD/opracowanie_warsztat_31.03.md` — synteza warsztatu (diagnoza, megatrendy, SWOT)
+- `~/Projekty/LGD/podsumowanie_panel_22.07_v2.md` — podsumowanie panelu ekspertów, ustalenia do rozdziału „Cele i działania"
+- `~/Projekty/LGD/Ankieta_Strategia_NGO_wyniki.md` — wyniki CAWI (N=86 na 2026-07-14)
 - `~/Projekty/LGD/diagnoza_ilosciowa_NGO.md` — diagnoza ilościowa sektora (DS vs Polska)
 - `~/Projekty/LGD/Odporność społeczna...md`, `~/Projekty/LGD/Przyszłość LEADER_CLLD post-2027...md` — research tematyczny
 - `~/Projekty/LGD/CLAUDE.md` — pełny kontekst projektu i instrukcje generowania PDF/PPTX
@@ -55,3 +57,4 @@ Materiały źródłowe: `~/Projekty/LGD` (umowa, diagnoza, ankieta CAWI, prezent
 - 2026-07-08 — aktualizacja na podstawie maila „Faktura – protokół": płatność częściowa 12 000 zł (26.06), protokół odbioru podpisany i odesłany (7.07); postęp ankiety CAWI 74/140 (52,9%)
 - 2026-07-08 — umówiony termin panelu ekspertów DSP LGD: 2026-07-22, godz. 10:00
 - 2026-07-12 — folder roboczy projektu przeniesiony do `~/Projekty/LGD` (reorganizacja: wszystkie projekty w `~/Projekty`); ścieżki w notatce zaktualizowane
+- 2026-08-25 — odświeżenie stanu: karta nie odzwierciedlała panelu ekspertów z 22.07 (odbył się, wyniki opracowane) ani ostatniej znanej liczby ankiet CAWI (86/140, 09.07 zamiast 74/140, 08.07). Etap 3 (warsztaty strategiczne) domknięty łącznie z panelem 22.07 jako pogłębiona konsultacja.

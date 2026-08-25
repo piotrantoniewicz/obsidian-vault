@@ -34,7 +34,7 @@ Przeprowadzić warsztat „AI dla przedsiębiorczyń: otwórz i rozwiń własny 
 
 ## Kolejne kroki (domknięcie)
 - [ ] Rozesłać uczestniczkom listę promptów, szablon Notion (prospekty + CRM) i listę narzędzi z cenami
-- [ ] Wystawić dokumenty rozliczeniowe (jeśli w zakresie)
+- [x] Wystawić dokumenty rozliczeniowe (jeśli w zakresie)
 - [ ] Zebrać feedback i zapisać wnioski metodyczne do [[Szkolenia i warsztaty AI]]
 
 ## Powiązane zasoby

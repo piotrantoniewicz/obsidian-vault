@@ -21,7 +21,7 @@ Proces nie opiera się na metodyce z [[Doradztwo strategiczne organizacje społe
 ## Kolejne kroki
 - [x] Spotkanie startowe z Zarządem — odbyło się 2026-07-21, agenda: `~/Projekty/Fundraising_RdK/agenda_spotkanie_1.md`
 - [x] Zebranie danych finansowych i bazy kontaktów — dane otrzymane 2026-08-07
-- [ ] Krótkie rozmowy (30 min) z osobami prowadzącymi programy
+- [x] Krótkie rozmowy (30 min) z osobami prowadzącymi programy
 - [ ] Szkic strategii — model finansowania, segmentacja "rodziców-darczyńców", plan P2P/Key Opinion Neighbors (sierpień)
 - [ ] Checkpoint z Zarządem — prezentacja szkicu (data do ustalenia na spotkaniu startowym)
 - [ ] Finalizacja dokumentu (wrzesień)

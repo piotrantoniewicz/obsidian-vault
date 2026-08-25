@@ -5,6 +5,9 @@ url: "https://www.mrss.com/lab/new-research-understanding-why-donors-choose-dafs
 published: 2026-08-24
 created: 2026-08-25
 tags:
+  - "fundraising"
+  - "framing"
+  - "digital-campaigning"
 ---
 
 

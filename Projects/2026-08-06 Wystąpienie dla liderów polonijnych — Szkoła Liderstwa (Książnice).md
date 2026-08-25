@@ -1,7 +1,7 @@
 ---
 categories:
   - Project
-status: Aktywny
+status: Zakończony
 created: 2026-08-03
 due: 2026-08-06
 area: "[[Szkolenia i warsztaty AI]]"
@@ -18,7 +18,7 @@ Przeprowadzić 40-minutowe wystąpienie „Technologie cyfrowe w organizacjach s
 **Zleceniodawca:** Szkoła Liderstwa · **Format:** wystąpienie 40 min (bez warsztatu) · **Grupa:** liderzy i liderki organizacji polonijnych.
 
 ## Termin
-- [ ] **Książnice — 06.08.2026** — wystąpienie stacjonarne (40 min)
+- [x] **Książnice — 06.08.2026** — wystąpienie stacjonarne (40 min)
 
 ## Program (bloki scenariusza)
 1. Otwarcie — pytanie o wartości, nie o narzędzia
@@ -31,15 +31,16 @@ Przeprowadzić 40-minutowe wystąpienie „Technologie cyfrowe w organizacjach s
 8. Zamknięcie i call to action
 
 ## Finanse
-- Wynagrodzenie: **1200 zł brutto**
+- Wynagrodzenie: **1200 zł brutto** (2 × 600 zł brutto)
 
 ## Kolejne kroki (domknięcie)
 - [x] Potwierdzić wymagania techniczne na miejscu (rzutnik, czas na pytania)
 - [ ] Po wystąpieniu: zebrać feedback i zapisać wnioski metodyczne do [[Szkolenia i warsztaty AI]]
-- [ ] Wystawić dokumenty rozliczeniowe
+- [x] Wystawić dokumenty rozliczeniowe
 
 ## Powiązane zasoby
 - `~/Projekty/Szkolenia/Szkoła Liderstwa/Scenariusz - Technologie cyfrowe w organizacjach spolecznych.md` — pełny scenariusz wystąpienia ze źródłami
 
 ## Log decyzji
 - 2026-08-03 — scenariusz wystąpienia przeniesiony z roboczej notatki w korzeniu vaulta do `~/Projekty/Szkolenia/Szkoła Liderstwa/` (reorganizacja: materiały robocze zleceń trzymane poza vaultem, w `~/Projekty/Szkolenia/`); utworzono notatkę-hub projektu.
+- 2026-08-25 — wystąpienie odbyło się 06.08, dokumenty rozliczeniowe wystawione; status zmieniony na zakończony. Otwarty punkt: zebranie feedbacku i wniosków metodycznych do [[Szkolenia i warsztaty AI]] — jeszcze nie zrobione.

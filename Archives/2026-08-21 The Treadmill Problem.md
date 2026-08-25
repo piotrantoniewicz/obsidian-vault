@@ -5,6 +5,9 @@ url: "https://www.linkedin.com/pulse/treadmill-problem-bryan-neider-askzc/"
 published: 2026-08-21
 created: 2026-08-25
 tags:
+  - "strategia-organizacji"
+  - "automatyzacja"
+  - "organizacje-społeczne"
 ---
 
 

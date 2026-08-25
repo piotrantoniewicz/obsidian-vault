@@ -5,6 +5,7 @@ url: "https://www.waternewseurope.com/belgium-walloon-minister-blocks-googles-us
 published: 2026-08-17
 created: 2026-08-19
 tags:
+  - "trendy-AI"
 ---
 
 

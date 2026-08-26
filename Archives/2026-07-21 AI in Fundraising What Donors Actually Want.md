@@ -5,6 +5,9 @@ url: "https://blog.blackbaud.com/ai-in-fundraising-what-donors-want/?utm_source=
 published: 2026-07-21
 created: 2026-08-26
 tags:
+  - "fundraising"
+  - "strategia-AI"
+  - "organizacje-społeczne"
 ---
 
 

@@ -5,6 +5,9 @@ url: "https://clickandpledge.com/blog/the-economics-of-micro-donors-why-82-never
 published: 2026-04-28
 created: 2026-08-26
 tags:
+  - "fundraising"
+  - "automatyzacja"
+  - "narzędzia-AI"
 ---
 
 

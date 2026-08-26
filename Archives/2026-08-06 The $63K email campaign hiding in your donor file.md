@@ -5,6 +5,9 @@ url: "https://www.civicshoutnewsletter.com/p/the-63k-email-campaign-hiding-in-yo
 published: 2026-08-06
 created: 2026-08-26
 tags:
+  - "fundraising"
+  - "digital-campaigning"
+  - "organizacje-społeczne"
 ---
 
 

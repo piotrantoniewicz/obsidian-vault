@@ -5,6 +5,9 @@ url: "https://thenonprofithive.com/the-true-cost-of-your-nonprofit-annual-report
 published: 2026-08-11
 created: 2026-08-26
 tags:
+  - "fundraising"
+  - "content-marketing"
+  - "organizacje-społeczne"
 ---
 
 

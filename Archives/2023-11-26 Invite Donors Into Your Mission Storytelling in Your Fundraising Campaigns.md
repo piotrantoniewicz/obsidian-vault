@@ -5,6 +5,9 @@ url: "https://www.causevox.com/blog/storytelling-in-fundraising-campaigns/?cv_t=
 published: 2023-11-26
 created: 2026-08-26
 tags:
+  - "fundraising"
+  - "content-marketing"
+  - "framing"
 ---
 
 

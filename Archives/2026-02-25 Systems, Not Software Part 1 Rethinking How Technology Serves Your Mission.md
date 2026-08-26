@@ -5,6 +5,9 @@ url: "https://www.youtube.com/watch?v=k-Qnc4OsQx4"
 published: 2026-02-25
 created: 2026-08-25
 tags:
+  - "organizacje-społeczne"
+  - "strategia-organizacji"
+  - "automatyzacja"
 ---
 
 

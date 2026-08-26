@@ -5,6 +5,9 @@ url: "https://www.lennysnewsletter.com/p/how-i-ai-how-a-solo-founder-used?utm_so
 published: 2026-08-17
 created: 2026-08-26
 tags:
+  - "vibe-coding"
+  - "automatyzacja"
+  - "prompt-engineering"
 ---
 
 

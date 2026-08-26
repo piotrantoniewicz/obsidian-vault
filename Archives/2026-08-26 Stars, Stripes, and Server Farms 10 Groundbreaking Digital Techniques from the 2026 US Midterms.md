@@ -5,6 +5,9 @@ url: "https://hub.partisan.community/m/news/stars-stripes-and-server-farms-10-gr
 published:
 created: 2026-08-26
 tags:
+  - "digital-campaigning"
+  - "trendy-AI"
+  - "narzędzia-AI"
 ---
 
 

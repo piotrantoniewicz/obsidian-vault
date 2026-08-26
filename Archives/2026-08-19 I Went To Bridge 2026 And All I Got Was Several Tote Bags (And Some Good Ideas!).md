@@ -5,6 +5,9 @@ url: "https://www.mrss.com/lab/i-went-to-bridge-2026-and-all-i-got-was-several-t
 published: 2026-08-19
 created: 2026-08-25
 tags:
+  - "trendy-AI"
+  - "fundraising"
+  - "digital-campaigning"
 ---
 
 

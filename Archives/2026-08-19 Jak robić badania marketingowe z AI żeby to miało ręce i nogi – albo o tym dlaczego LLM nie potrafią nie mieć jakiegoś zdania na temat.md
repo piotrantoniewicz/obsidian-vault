@@ -5,6 +5,9 @@ url: "https://www.linkedin.com/pulse/jak-robi%C4%87-badania-marketingowe-z-ai-%C
 published: 2026-08-19
 created: 2026-08-26
 tags:
+  - "LLM"
+  - "prompt-engineering"
+  - "strategia-AI"
 ---
 
 

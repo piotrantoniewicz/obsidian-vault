@@ -5,6 +5,9 @@ url: "https://hub.partisan.community/m/news/sweden-on-the-spot-5-digital-campaig
 published:
 created: 2026-08-26
 tags:
+  - "digital-campaigning"
+  - "trendy-AI"
+  - "framing"
 ---
 
 

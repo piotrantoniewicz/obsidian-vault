@@ -5,6 +5,9 @@ url: "https://www.youtube.com/watch?v=P03ZNceXe2A"
 published: 2026-08-17
 created: 2026-08-26
 tags:
+  - "automatyzacja"
+  - "narzędzia-AI"
+  - "vibe-coding"
 ---
 
 

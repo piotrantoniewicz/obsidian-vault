@@ -5,6 +5,9 @@ url: "https://mrbenchmarks.com/fundraising/"
 published:
 created: 2026-08-25
 tags:
+  - "fundraising"
+  - "organizacje-społeczne"
+  - "digital-campaigning"
 ---
 
 

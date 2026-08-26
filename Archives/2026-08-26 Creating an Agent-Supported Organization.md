@@ -5,6 +5,9 @@ url: "https://www.linkedin.com/pulse/creating-agent-supported-organization-bryan
 published: 2026-08-26
 created: 2026-08-26
 tags:
+  - "strategia-AI"
+  - "automatyzacja"
+  - "strategia-organizacji"
 ---
 
 

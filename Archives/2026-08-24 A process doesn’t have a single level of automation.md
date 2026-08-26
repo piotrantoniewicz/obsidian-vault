@@ -5,6 +5,9 @@ url: "https://behavioralinsight.substack.com/p/a-process-doesnt-have-a-single-le
 published: 2026-08-24
 created: 2026-08-25
 tags:
+  - "strategia-AI"
+  - "automatyzacja"
+  - "strategia-organizacji"
 ---
 
 

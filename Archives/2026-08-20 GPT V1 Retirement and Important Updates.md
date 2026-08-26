@@ -5,6 +5,8 @@ url: "https://www.spamresource.com/2026/08/gpt-v1-retirement-and-important-updat
 published: 2026-08-20
 created: 2026-08-25
 tags:
+  - "digital-campaigning"
+  - "organizacje-społeczne"
 ---
 
 

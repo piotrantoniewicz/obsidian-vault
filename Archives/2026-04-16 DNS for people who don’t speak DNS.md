@@ -5,6 +5,8 @@ url: "https://www.civicshoutnewsletter.com/p/dns-for-people-who-don-t-speak-dns?
 published: 2026-04-16
 created: 2026-08-25
 tags:
+  - "digital-campaigning"
+  - "organizacje-społeczne"
 ---
 
 

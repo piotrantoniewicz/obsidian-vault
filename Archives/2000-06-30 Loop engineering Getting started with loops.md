@@ -5,6 +5,9 @@ url: "https://claude.com/blog/getting-started-with-loops"
 published: 2000-06-30
 created: 2026-08-25
 tags:
+  - "automatyzacja"
+  - "narzędzia-AI"
+  - "context-engineering"
 ---
 
 

@@ -5,6 +5,8 @@ url: "https://mailchimp.com/resources/most-used-email-service-providers/?utm_sou
 published:
 created: 2026-08-25
 tags:
+  - "digital-campaigning"
+  - "fundraising"
 ---
 
 

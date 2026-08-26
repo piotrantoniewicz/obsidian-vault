@@ -5,6 +5,9 @@ url: "https://www.donordock.com/articles/who-should-own-your-nonprofit-crm?utm_c
 published: 2026-08-19
 created: 2026-08-25
 tags:
+  - "fundraising"
+  - "strategia-organizacji"
+  - "organizacje-społeczne"
 ---
 
 

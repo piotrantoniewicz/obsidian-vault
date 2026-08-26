@@ -5,6 +5,9 @@ url: "https://weareastral.co.uk/thevault/email-marketing-best-practice-is-mostly
 published: 2026-08-19
 created: 2026-08-25
 tags:
+  - "digital-campaigning"
+  - "content-marketing"
+  - "framing"
 ---
 
 

@@ -31,6 +31,6 @@ Wikilinki tylko dla: narzędzi (`[[Obsidian]]`), pojęć technicznych (`[[RAG]]`
 Weryfikację kompletności indeksu (brakujące wpisy, duplikaty) wykonuje plugin: **`/index:update vault`**.
 
 Uwagi techniczne przy każdej operacji na `Resources/index.md`:
-- Plik ma ~450 KB i 2300+ linii — **nigdy nie czytaj go w całości**, używaj `grep -n` i Edit.
+- Plik ma ~670 KB i 3150+ linii — **nigdy nie czytaj go w całości**, używaj `grep -n` i Edit.
 - Wpisy wstawiaj **chronologicznie**: znajdź przez `grep -n "YYYY-MM-DD"` ostatni wpis z tej samej lub najbliższej wcześniejszej daty i użyj Edit z sąsiednim wierszem jako kontekstem.
 - Nazwy plików mogą zawierać curly apostrofy (') — `head` z dosłowną nazwą zawiedzie, używaj `find ... -name "YYYY-MM-DD*"`.

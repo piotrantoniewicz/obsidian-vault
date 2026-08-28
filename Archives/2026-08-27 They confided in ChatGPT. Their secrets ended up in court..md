@@ -5,6 +5,9 @@ url: "https://www.washingtonpost.com/technology/2026/08/27/chatgpt-chats-are-bei
 published: 2026-08-27
 created: 2026-08-28
 tags:
+  - "strategia-AI"
+  - "LLM"
+  - "trendy-AI"
 ---
 
 

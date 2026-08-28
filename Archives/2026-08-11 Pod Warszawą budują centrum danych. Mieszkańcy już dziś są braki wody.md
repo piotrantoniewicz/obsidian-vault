@@ -5,6 +5,9 @@ url: "https://www.money.pl/gospodarka/pod-warszawa-buduja-centrum-danych-mieszka
 published: 2026-08-11
 created: 2026-08-28
 tags:
+  - "trendy-AI"
+  - "organizacje-społeczne"
+  - "digital-campaigning"
 ---
 
 

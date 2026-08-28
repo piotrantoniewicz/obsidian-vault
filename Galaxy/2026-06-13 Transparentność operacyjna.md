@@ -5,7 +5,7 @@ tags:
   - organizacje-społeczne
   - strategia-organizacji
 created: 2026-06-13
-updated: 2026-08-17
+updated: 2026-08-28
 relevance: wysoka
 sources:
   - "[[2026-05-27 Transparentność boli. Dlaczego większość liderów woli kłamać?]]"
@@ -25,6 +25,7 @@ sources:
   - "[[2026-07-26 Is Your Nonprofit Stuck on Financial Autopilot-]]"
   - "[[2026-07-17 The Non-Ask Email That Outperforms Your Appeal]]"
   - "[[2026-08-05 Nonprofit Revenue Diversification Don't Bet on One Stream]]"
+  - "[[2026-04-09 AI and Donor Engagement What to Tell Donors and How to Protect Trust]]"
 ---
 
 # Transparentność operacyjna (operational transparency)
@@ -81,6 +82,9 @@ Rozwinięcie mech. 6 („niezależność finansowa jako warunek transparentnośc
 
 **15. 90-dniowy pivot po utracie źródła publicznego — i trzeci próg koncentracji w tym samym tygodniu**
 Operacjonalizacja mech. 14 od strony organizacji, która **już** traci dominujące źródło ([[Rob Burke]], DonorDock). Rama nadrzędna to jedno zdanie: *„Kiedy finansowanie się zmienia, twoim zadaniem nie jest gonić za wszystkim. Twoim zadaniem jest zbudować odporny mix"* — czyli reakcją na wstrząs nie jest zwiększenie liczby składanych wniosków, tylko przebudowa struktury przychodu. Pięć ruchów w oknie 90 dni: **(1) wygraj lokalnie** — lista 15 dopasowanych fundacji społecznościowych i korporacyjnych, jednostronicowy *local impact brief*, 15-minutowa rozmowa odkrywcza; lokalnego grantodawcę traktuje się jak dużego darczyńcę indywidualnego, czyli relacyjnie ([[2026-06-13 Major gifts|Major gifts]]), a nie wnioskowo; **(2) kontrakty zamiast dotacji** — zmapuj trzy możliwości fee-for-service (powiat, szkoły, system ochrony zdrowia), wyceń **pełny koszt razem z kosztami pośrednimi** (to ten sam ruch, co mech. 11 wobec podziału „program vs administracja") i **z góry** przygotuj plan pomostowy na opóźnienia płatności; **(3) biblioteka grantowa** — akapit o rezultatach, model logiczny, szablony budżetu, punkty dowodowe; mniej wniosków, lepiej dopasowanych, składanych w stałym cotygodniowym rytmie; **(4) dwa stabilne kanały dołożone do miksu** — program darczyńców cyklicznych ([[2026-06-12 Recurring giving|Recurring giving]]) oraz partnerstwa korporacyjne z grantami wolontariackimi; **(5) ochrona płynności** — cel 6 miesięcy rezerwy, plan pomostowy na opóźnienia i **stały monitoring koncentracji przychodów**. Liczby-kotwice sektora: udział organizacji otrzymujących granty federalne spadł z **38% (2019–2021) do 27% (2022)**, **84%** organizacji finansowanych publicznie spodziewa się dalszych cięć, **36%** zamknęło 2024 deficytem operacyjnym przy **52%** z rezerwą ≤3 miesiące, a pierwsze płatności z kontraktów publicznych w Nowym Jorku potrafiły dotrzeć **po ponad 200 dniach** od startu kontraktu (Urban Institute, Nonprofit Finance Fund 2025) — to ostatnie jest najmocniejszym argumentem, że plan pomostowy nie jest ostrożnością, tylko pozycją w budżecie. **Uwaga do rozstrzygnięcia, nie rozstrzygana tutaj:** ten sam autor i ten sam wydawca podają w tym materiale próg koncentracji **25%**, podczas gdy mech. 14 stoi na **30%** — rozbieżność zgłoszona w `galaxy-strategia.md`. *(Źródło: [[2026-05-11 When Federal Grants Shift, You Pivot A Practical Diversification Plan for Growing Nonprofits]])*
+
+**16. Gotowy język o AI do darczyńców — i trzy zobowiązania, które trzymają zaufanie ([[Meena Das]])**
+Operacyjne domknięcie mechanizmów 8 („gdzie w organizacji działa AI") i 9 („human-made" jako przedmiot transparentności): pokazuje, **co konkretnie powiedzieć**, zamiast zostawiać organizację z zasadą bez zdania do wklejenia. Próg ujawnienia — dwa warunki, po których transparentność przestaje być opcją: **AI istotnie kształtuje komunikację, segmentację lub decyzje dotyczące darczyńców**, albo **dotyka danych osobowych**. Wtedy trzeba umieć to wyjaśnić prosto. Przykładowy język (adaptowalny wprost): *„Czasem korzystamy z technologii, w tym narzędzi wspieranych przez AI, aby pomóc naszemu małemu zespołowi tworzyć komunikaty, podsumowywać niepoufne informacje i lepiej służyć naszej społeczności. Nie używamy AI do zastępowania ludzkich decyzji i nie wprowadzamy wrażliwych danych osobowych do publicznych narzędzi AI. Nasz zespół weryfikuje każdą komunikację do darczyńców przed wysłaniem."* Trzy zobowiązania budujące zaufanie: **(1) widoczna odpowiedzialność człowieka** — prawdziwe imię i nazwisko, realna ścieżka odpowiedzi, żadnych „no-reply" w mailach relacyjnych; **(2) godność darczyńcy ponad optymalizacją** — trzy pytania kontrolne: czy wiadomość szanuje inteligencję i sprawczość odbiorcy, czy pilność jest użyta etycznie, czy byłoby nam wygodnie, gdyby ta komunikacja stała się publiczna; **(3) jasne granice** — AI tworzy wersje robocze, podsumowuje i porządkuje, ale **nie jest ostatecznym głosem, decydentem ani sędzią intencji człowieka**. Ważna korekta domyślnego odruchu: transparentność **nie wymaga formalnego ogłoszenia „wdrożyliśmy AI"** — wystarczy jedna jasna, przystępna deklaracja. Cytat-kotwica: *„Miarą sukcesu nie jest to, że więcej zautomatyzowaliśmy — tylko to, że wzmocniliśmy zaufanie, wykonując naszą pracę z większą troską i konsekwencją"*.
 
 ## Powiązane pojęcia
 

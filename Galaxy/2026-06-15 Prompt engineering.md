@@ -5,7 +5,7 @@ tags:
   - narzędzia-AI
   - szkolenia-AI
 created: 2026-06-15
-updated: 2026-08-17
+updated: 2026-08-28
 relevance: wysoka
 sources:
   - "[[2025-06-22 9 ChatGPT & Claude Writing Tips (to get CRAZY GOOD outputs)]]"
@@ -22,6 +22,8 @@ sources:
   - "[[2026-08-04 5 hacks I used to build a profitable app]]"
   - "[[2026-07-27 Robots Dating Robots]]"
   - "[[2026-07-29 How I Use AI to Research Funders Before I Write the Grant]]"
+  - "[[2026-08-21 Wczoraj AI okłamało Artura na oczach uczestników]]"
+  - "[[2026-08-20 SEO z AI - Od słowa kluczowego do zoptymalizowanego tekstu w godzinę]]"
 ---
 
 # Prompt engineering (projektowanie promptów)
@@ -90,6 +92,9 @@ Najmocniejsza operacyjna postać antidotum na sycophancy z mech. 6, sprawdzona n
 - **Typologia modeli (Mollick)** — chat / agent / wizard; domyślny model rzadko jest najlepszy — wybór modelu i trybu myślenia to część rzemiosła, nie tylko treść promptu.
 
 ---
+
+**13. Atomizacja procesu i „Definition of Done" — dlaczego długi prompt gubi kroki**
+Praktyczne domknięcie sporu „prompty pojedyncze vs modularne" (mech. 3) danymi z wdrożenia: w wielostopniowym workflow model **pomija kroki, które ma wpisane na sztywno**, i robi to po cichu, bez sygnału (Artur Jabłoński). Trzy reguły, które to ograniczają: **(a)** rozbij proces na atomy — osobne prompty za osobne kroki — **zanim** złożysz je w jeden automatyczny łańcuch, bo tylko w tej formie widać, gdzie system się gubi; **(b)** dopisz do każdego promptu **Definition of Done** jako checklistę punkt po punkcie, nie jako opis celu; **(c)** zamknij łańcuch **promptem kontrolnym pytającym o najczęstszy błąd tego konkretnego procesu**. Dwie kalibracje z tego samego źródła: **poradnik stylu i teksty wzorcowe działają tylko razem** (sam poradnik nie wystarcza, same przykłady dają wymieszany styl — bezpośrednie uzupełnienie mech. 4 o strukturze i przykładach), a **każda nowa wersja pliku powinna być osobnym plikiem**, bo nadpisanie kasuje lepszą wcześniejszą wersję, której nikt już nie odtworzy. Zdanie ramujące: *„Specjalista, który korzysta z AI, będzie zawsze lepszy od laika, który korzysta z AI"* — przewaga jest decyzyjna (co wybrać, czego nie publikować), nie techniczna.
 
 ## Powiązane pojęcia
 

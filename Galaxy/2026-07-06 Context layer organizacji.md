@@ -20,6 +20,8 @@ sources:
   - "[[2026-08-03 Why your AI product idea probably doesn’t matter (and what to do instead)]]"
   - "[[2026-07-30 Jak wyróżnić swoją markę w dobie AI - podsumowanie webinaru z Pawłem Tkaczykiem]]"
   - "[[2026-07-29 Jak przygotować landing page z ofertą, który zastąpi standardowy PDF]]"
+  - "[[2026-08-19 Dane, których nie masz, a właściwie nie wiesz, że masz. KSeF, e-Doręczenia i koniec wymówek]]"
+  - "[[2026-08-04 Cory Doctorow The people who tell you ‘AI is changing everything’ are lying]]"
 ---
 
 # Context layer organizacji (organizacyjna warstwa kontekstu)
@@ -94,5 +96,3 @@ Ta strona argumentuje, że warstwa kontekstu jest fosą. Nikhil Suresh (za Cory 
 - Kto utrzymuje warstwę w małej organizacji — czy rola „bibliotekarza kontekstu" (człowiek + LLM) może być cząstkowa, czy bez właściciela warstwa nieuchronnie gnije?
 - Ile struktury na wejściu, a ile w retrieval — gdzie leży punkt równowagi dla organizacji bez technicznego zaplecza: porządkować dane czy inwestować w lepsze wyszukiwanie?
 - Czy „suwerenność modelu" jest realnie osiągalna dla organizacji społecznej na narzędziach SaaS — co w praktyce oznacza „zabierz warstwę i odejdź", gdy kontekst żyje w Projects/Gems/Copilotach dostawców?
-  - "[[2026-08-19 Dane, których nie masz, a właściwie nie wiesz, że masz. KSeF, e-Doręczenia i koniec wymówek]]"
-  - "[[2026-08-04 Cory Doctorow The people who tell you ‘AI is changing everything’ are lying]]"

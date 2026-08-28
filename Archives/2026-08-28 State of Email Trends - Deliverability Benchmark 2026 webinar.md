@@ -5,6 +5,9 @@ url: https://www.validity.com/resource-center/whats-working-in-2026-new-email-de
 published: 2026-04-16
 created: 2026-08-28
 tags:
+  - "digital-campaigning"
+  - "fundraising"
+  - "trendy-AI"
 ---
 
 Transkrypcja webinaru Validity "State of Email Trends" — omówienie Deliverability Benchmark Report 2026. Prowadzą Guy Hanson i Raphael Viana (Validity), goście: John Marburger (Director of Email Deliverability, Constant Contact) i Denise Miller (Senior Email Deliverability Consultant, Zeta Global).

@@ -5,7 +5,7 @@ tags:
   - strategia-AI
   - narzędzia-AI
 created: 2026-07-07
-updated: 2026-08-17
+updated: 2026-08-28
 relevance: wysoka
 sources:
   - "[[2026-06-16 Suwerenność na wynajem]]"
@@ -33,6 +33,7 @@ sources:
   - "[[2026-07-23 Neighbors say noise from Michigan data center is 247 and upending their lives]]"
   - "[[2026-07-28 Teacher arrested for clapping in support of speaker opposing data center]]"
   - "[[2026-07-25 Mission, Not Race]]"
+  - "[[2026-08-17 Walloon minister blocks Google’s use of river water for data centre • Water News Europe]]"
 ---
 
 # Suwerenność technologiczna (Technological Sovereignty)
@@ -97,6 +98,9 @@ Rozwinięcie mech. 9 („warstwa fizyczna suwerenności") o **socjologię tego k
 
 **17. Mały, lokalny, odwoływalny agent (*Kami*) — suwerenność jako właściwość narzędzia, nie tylko infrastruktury**
 Propozycja [[Audrey Tang]] (Wikimania 2026) przesuwa punkt ciężkości mechanizmów 3–6 z warstwy stosu na **poziom pojedynczego asystenta**. *Kami* (**k**nowledge **a**rtefact **m**anagement **i**ntelligence) to agent, który jest z założenia **mały, lokalny i „śmiertelny”** — pamięć i tożsamość zostają na urządzeniu, agenta można **zlikwidować, gdy zadanie się kończy**, a jego istnienie nie wiąże organizacji z żadnym dostawcą modelu. Dwa dopełnienia. **(a) *Write-back*:** agent zawsze **oddaje coś do wspólnego zasobu** — czyli korzystanie z commonsu (Wikipedia jako 25-letnia „warstwa wiedzy”, na której stoją dziś modele) ma mieć wbudowany zwrot, a nie tylko pobór. **(b) *Talk-page protocol*:** gdy źródła są sprzeczne, agent **ujawnia konflikt człowiekowi**, zamiast po cichu go rozstrzygać — to praktyczna forma HITL zdefiniowana nie przez „zatwierdzanie wyników”, lecz przez **obowiązek pokazania niezgody** (por. [[2026-06-15 AI governance|AI governance]], mech. 9). Warunek wykonalności, który czyni to policzalnym, a nie ideologicznym: **modele open-weight są już ok. 3% od wydajności modeli frontier** (dane Mozilla) przy dużo niższym koszcie energii i wody — czyli kalkulacja z mech. 11 przechyla się dalej w stronę lokalnych wdrożeń. Osobne, przenoszalne narzędzie polityczne z tego samego wystąpienia: ***forking the government*** — zbuduj wolną, alternatywną wersję instytucji lub narzędzia, udowodnij, że działa, i wymuś jej „zmergowanie” z powrotem; to strategia dla organizacji społecznych chcących zmieniać instytucję **bez czekania na jej zgodę**. *(Źródło: [[2026-07-25 Mission, Not Race]])*
+
+**18. Woda jako pierwszy realny hamulec regulacyjny — precedens waloński i dwie liczby IEA**
+Piąty mechanizm o warstwie fizycznej AI (obok 9, 13, 15, 16), tym razem nie o proteście lokalnym, lecz o **decyzji administracyjnej, która weszła w życie**. Waloński minister François Desquesnes **odmówił [[Google]] zgody** na chłodzenie centrum danych w Farciennes wodą z rzeki Sambry (**600 m³/h**), utrzymując wcześniej zatwierdzone chłodzenie powietrzne; podstawą była **zasada przezorności** wobec suszy — w piętnastu gminach obowiązywał zakaz napełniania basenów i podlewania ogrodów. Google rozważa odwołanie do belgijskiej Rady Stanu. Znaczenie precedensu: **lokalny organ zablokował rozbudowę infrastruktury Big Tech, nie powołując się na klimat w ogóle, tylko na konkurencję o konkretny, mierzalny zasób tu i teraz** — to inna, znacznie skuteczniejsza rama niż ta z mech. 16, bo nie wymaga zgody co do wartości, tylko co do bilansu wody. Skala zjawiska: globalne zużycie wody przez centra danych **560 mld litrów w 2023 r.**, z prognozą **~1200 mld litrów rocznie do 2030 r.** (IEA) — czyli podwojenie w siedem lat. Dla organizacji społecznej to jednocześnie argument w rozmowie o **etycznym koszcie narzędzi AI** (zob. mech. 15) i praktyczna wskazówka kampanijna: *water-energy nexus* jest dziś słabo obecny w dyskusji o wdrażaniu AI, a jest tą warstwą, w której sprzeciw wobec centrów danych ma **umocowanie proceduralne**, nie tylko narracyjne. *(Źródło: [[2026-08-17 Walloon minister blocks Google’s use of river water for data centre • Water News Europe]])*
 
 ## Frameworki-kotwice
 

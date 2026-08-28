@@ -5,6 +5,9 @@ url: "https://www.fastcompany.com/91585908/the-ai-debate-isnt-about-ai-its-about
 published: 2026-08-12
 created: 2026-08-28
 tags:
+  - "framing"
+  - "strategia-AI"
+  - "digital-campaigning"
 ---
 
 

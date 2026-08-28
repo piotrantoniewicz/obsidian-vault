@@ -5,7 +5,7 @@ tags:
   - organizacje-społeczne
   - digital-campaigning
 created: 2026-06-13
-updated: 2026-08-19
+updated: 2026-08-28
 relevance: wysoka
 sources:
   - "[[2026-04-08 Społeczność Jako Twój Najlepszy Fundraiser Jak Wdrożyć Model Peer-to-Peer]]"
@@ -20,6 +20,8 @@ sources:
   - "[[2024-09-16 19 Successful (Yet Untapped) Fall Fundraising Ideas]]"
   - "[[2026-07-19 The First Fundraiser is the Doorway to a Future Community]]"
   - "[[2026-07-23 What Years in Fundraising Events Taught Me About Community]]"
+  - "[[2026-08-21 Peer-to-Peer Donor Retention Built for the Second Ask]]"
+  - "[[2026-08-18 The drift how constituents stopped being the center]]"
 ---
 
 # Peer-to-peer fundraising (fundraising rówieśniczy)
@@ -67,6 +69,9 @@ Uzupełnienie mech. 7, który porządkował pomysły na wydarzenia po **kalendar
 **11. Dlaczego późne pieniądze idą na reklamy, a nie na ludzi — strukturalna przewaga kanału mierzalnego**
 Najlepsze dostępne wyjaśnienie, dlaczego model ekosystemu ambasadorów z mech. 6 przegrywa w praktyce z płatnym zasięgiem, mimo że proxy trust jest po jego stronie (88% vs 20%, mech. 1). Ned Howey opisuje powtarzalny moment kampanii: **gdy pieniądze pojawiają się dwa tygodnie przed terminem, decydenci niemal zawsze wybierają reklamy zamiast inwestycji w ludzi** — i robią to **nie z cynizmu**, tylko dlatego, że reklamy dają **szybki, sprawozdawalny wynik bez ryzyka osobistej odpowiedzialności**, podczas gdy rekrutacja, briefing i budowanie liderów wymagają czasu, tolerancji na chaos i akceptacji, że efekt będzie znany **po** kampanii. To problem strukturalny, nie kwestia złej woli: wybór jest **racjonalny z perspektywy jednostki podejmującej decyzję** i szkodliwy z perspektywy skuteczności — czyli rozwiązania trzeba szukać w **kalendarzu i sposobie rozliczania**, nie w argumentach o wyższości relacji. Praktyczny wniosek dla doradztwa: budżet na sieć ambasadorów musi być **zaalokowany wcześnie i rozliczany innym wskaźnikiem niż kampania reklamowa**, bo w bezpośredniej konkurencji o późne środki zawsze przegra. Zdanie, które warto cytować przy sporze „baza czy relacje": **„lista nie może niczego chcieć"** — baza kontaktów nie zastępuje sieci ludzi, bo nie ma własnej motywacji do działania. Obserwacja uzupełniająca z badań menedżerów średniego szczebla: jako najtrudniejszy element pracy wskazują **ludzi, nie strategię** — czyli inwestycja w liderów wymaga innego rodzaju wsparcia niż optymalizacja kampanii. *(Źródło: [[2026-08-18 The drift how constituents stopped being the center]])*
 
+**12. Drugi ask jest problemem P2P, nie doklejką — segmentacja po sposobie pozyskania**
+Domknięcie mech. 1 (proxy trust) od strony retencji: skoro darczyńca P2P dał **osobie, która poprosiła**, a nie organizacji, to standardowy błąd — wrzucenie go do wspólnego segmentu i dorocznej kampanii „do wszystkich" — oznacza, że organizacja **zaczyna relację od zera** i marnuje jedyne okno, w którym więź jeszcze działa (Pledge It, za [[DonorDock]]). Skala problemu w liczbach FEP: **retencja ogólna 18,0%**, **nowych darczyńców 7,1%**, ale tych, którzy dali już drugi raz — **25,8%**; konwersja pierwszego daru na drugi jest więc najsłabszym i najbardziej dźwigniowym ogniwem (zob. [[2026-06-13 Stewardship|Stewardship]], mech. 9, gdzie te same liczby mają zastrzeżenie metodologiczne FEP 2026). **Trzy warunki dobrego follow-upu:** (1) wymienia **z imienia osobę, która poprosiła**, (2) odnosi się do **konkretnego wydarzenia lub zespołu**, (3) wychodzi, **póki wydarzenie jest świeże** — nie czeka na najbliższy zaplanowany mailing. **Trzy segmenty warte drugiego zapytania:** pierwszorazowi (brak historii, ale największy zwrot z szybkiego, osobistego kontaktu), powracający (warci kultywacji), **uśpieni** — dali raz przez polecenie i od tego czasu cisza; zwykle **największa i najbardziej odzyskiwalna grupa** w bazie. Kluczowa uwaga wdrożeniowa, obniżająca próg dla małej organizacji: **ta segmentacja nie wymaga nowych danych ani narzędzi** — informacja o wydarzeniu i osobie polecającej istnieje już w momencie wpłaty; zmienia się wyłącznie **kolejność komunikacji**. Czwarty krok, o którym organizacje zapominają: **osoba polecająca (kapitan zespołu, rekruter) dostaje osobne podziękowanie** — jest zwykle także obecnym lub przyszłym darczyńcą, więc jej utrata to strata dwóch ról naraz (spójne z mech. 2 o nano-ambasadorach). Case'y: Ronald McDonald House Charities (Oregon & SW Washington) — cel 2025 przekroczony o **6%** dzięki zautomatyzowanym wiadomościom onboardingowym; AVOL Kentucky — **ponad dwukrotny wzrost** przychodu z dorocznego marszu r/r. *(Źródło: [[2026-08-21 Peer-to-Peer Donor Retention Built for the Second Ask]])*
+
 ## Powiązane pojęcia
 
 - [[2026-06-03 Tożsamość darczyńcy|Tożsamość darczyńcy]] — P2P to mechanizm tożsamościowy, nie kanał dystrybucji: ambasador transferuje własną narrację o sobie wraz z prośbą o wpłatę
@@ -96,4 +101,3 @@ Najlepsze dostępne wyjaśnienie, dlaczego model ekosystemu ambasadorów z mech.
 - Jak benchmarki konwersji (>50%) wytrzymują skalę — czy proxy trust nie rozmywa się, gdy ten sam ambasador prosi swoją sieć regularnie (zmęczenie prośbą w kręgu znajomych)?
 - Na ile model amerykańskich Giving Days (NC State) przekłada się na polski kontekst, gdzie P2P płynie głównie przez portale (Pomagam.pl) i zbiórki urodzinowe na Facebooku, a nie przez dedykowane platformy uczelniane? Polski odpowiednik efektu sieciowego pokazuje zbiórka Garkowskiego (**255 mln zł w 9 dni**, rekord Guinnessa): mobilizacja przez społeczność twórcy + live licznik wpłat na YouTube to ten sam mechanizm proxy trust w hybrydzie *creator × cause*, ale skala domyka się wokół jednej gwiazdy i jednej historii, nie rozproszonej sieci nano-ambasadorów — pytanie, ile z tego jest powtarzalne dla organizacji bez celebryckiego zasięgu.
 - Czy AI obniżające koszt produkcji "autentycznych" treści nie podkopie fundamentu P2P — skoro jego siła bierze się właśnie z niedoskonałości i ludzkiej wiarygodności przekazu?
-  - "[[2026-08-18 The drift how constituents stopped being the center]]"

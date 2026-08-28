@@ -5,7 +5,7 @@ tags:
   - narzędzia-AI
   - organizacje-społeczne
 created: 2026-06-15
-updated: 2026-08-17
+updated: 2026-08-28
 relevance: wysoka
 sources:
   - "[[2026-05-01 Understanding Agentic AI What It Means for Not-for-Profits]]"
@@ -25,6 +25,7 @@ sources:
   - "[[2026-07-28 THIS is the hottest new job in AI]]"
   - "[[2000-07-08 Using Claude Cowork in marketing operations to automate reporting and campaign building]]"
   - "[[2026-06-22 From campaigns to continuous growth AI capabilities shaping marketing]]"
+  - "[[2026-08-25 Twój mail agent pisze ładne bzdury- Oto powód-]]"
 ---
 
 # Agentic AI (AI agentowe / autonomiczne agenty)
@@ -100,6 +101,9 @@ Korporacyjne ujęcie tego, co mech. 3 i 13 opisują od strony ról ([[McKinsey]]
 - **Liczby-kotwice**: >80% bez ROI, ~90% w pilotażu, 75% ról do redesignu, ~50% pracowników w shadow AI, agentic +20–30% efektywności zakupów (kontekst korporacyjny). Organizacje społeczne (CareerVillage/Digital Green): koszt interakcji **$0,03–0,10**; Farmer.Chat — dochody rolników **+30–40%**; koszt szkolenia z praktyki **$35 (stacjonarnie) → $3,50 (wideo) → $0,35 (AI)**.
 
 ---
+
+**16. Wartość agenta definiuje dostęp do danych, nie model — i rachunek, który to wycenia**
+Kalibracja mechanizmu 4 („wąskim gardłem jest gotowość") od strony najczęstszego wdrożenia w małej organizacji: agenta mailowego. Agent zbudowany wyłącznie na modelu językowym, bez podpięcia do CRM, historii sprawy czy statusu zgłoszenia, produkuje **„ładne bzdury"** — poprawne stylistycznie odpowiedzi bez jednej konkretnej informacji, czyli dokładnie to, czego adresat nie potrzebuje. Dopiero podłączenie do realnych danych zamienia go w narzędzie. Do tego prosty **rachunek opłacalności**, który daje się przeprowadzić na spotkaniu: wybierz powtarzalne pytania (saldo, status, termin, dostępność), rozpisz, w ilu systemach i miejscach pracownik szuka odpowiedzi, zmierz czas jednej odpowiedzi (**typowo 2–8 minut**) i pomnóż przez liczbę takich maili w tygodniu — wynik to koszt ręcznej obsługi i cała argumentacja za integracją. Warstwa nadzoru bez zmian wobec mech. 3 i 9: **agent generuje draft, nie wysyła** — człowiek czyta, poprawia, wysyła. Cytat-kotwica: *„Wartość agenta definiuje dostęp do danych — nie model AI"*. Uwaga rutingowa: ten mechanizm jest wspólny z [[2026-07-06 Context layer organizacji|Context layer organizacji]] mech. 7 („mamy dane" jako najdroższy mit) — tam patrzy się na zasób, tu na wdrożenie.
 
 ## Powiązane pojęcia
 

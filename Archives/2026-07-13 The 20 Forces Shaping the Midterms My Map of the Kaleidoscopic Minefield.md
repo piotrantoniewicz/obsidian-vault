@@ -1,10 +1,14 @@
 ---
-type: "Web"
-authors: "[[Katie Harbath]]"
-url: "https://anchorchange.substack.com/p/kaleidoscopic-minefield-2026-midterms-ai-vectors?utm_medium=email&_hsmi=144006980&utm_content=144006980&utm_source=hs_email"
-published: 2026-07-13
-created: 2026-08-28
+type: Web
+authors: '[[Katie Harbath]]'
+url: >-
+  https://anchorchange.substack.com/p/kaleidoscopic-minefield-2026-midterms-ai-vectors?utm_medium=email&_hsmi=144006980&utm_content=144006980&utm_source=hs_email
+published: 2026-07-13T00:00:00.000Z
+created: 2026-08-28T00:00:00.000Z
 tags:
+  - trendy-AI
+  - digital-campaigning
+  - narzędzia-AI
 ---
 
 

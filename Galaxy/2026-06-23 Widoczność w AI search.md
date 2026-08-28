@@ -5,7 +5,7 @@ tags:
   - content-marketing
   - digital-campaigning
 created: 2026-06-23
-updated: 2026-08-17
+updated: 2026-08-28
 relevance: wysoka
 sources:
   - "[[2025-07-30 Generative engine optimisation query]]"
@@ -29,6 +29,7 @@ sources:
   - "[[2026-07-28 How to rewire an LLM and other SEO goodies]]"
   - "[[2026-07-29 Meet the Campaign AI Engineer]]"
   - "[[2026-07-29 Zaufanie jest walutą. I to dosłownie]]"
+  - "[[2026-06-15 What “Googling” will mean in 2027]]"
 ---
 
 # Widoczność w AI search (GEO / AEO)
@@ -89,6 +90,9 @@ Dwa rozstrzygnięcia z pola kampanii politycznych, przenośne wprost na organiza
 
 **16. Płatna reklama nie kupuje cytowania — dwa rozłączne wskaźniki w jednym oknie**
 Twarda liczba domykająca mech. 4 (autorytet zewnętrzny bije autopromocję) od strony budżetowej, z przeglądu rynku social/AI (ProLetter, Jakub Jacek / [[Moonwise]]). W **Google AI Mode reklamy pojawiły się w 29% zapytań komercyjnych, ale domena reklamodawcy trafiła do cytowanych źródeł tylko w 11% przypadków — a dokładny URL w 2%**. Wniosek operacyjny jest ostry i łatwy do zakomunikowania klientowi: **widoczność reklamowa i cytowalność to dwa osobne wskaźniki obsługiwane przez dwa osobne mechanizmy** — slot reklamowy kupujesz, miejsce w treści odpowiedzi zarabiasz strukturą, świeżością i autorytetem zewnętrznym (mech. 4–5). Organizacja, która przenosi do GEO odruch „dołożymy budżet", nie kupi sobie obecności w odpowiedzi; to jednocześnie **dobra wiadomość dla sektora społecznego**, bo wyrównuje szanse wobec podmiotów z budżetem mediowym. Rama nadrzędna materiału — **„zaufanie jako waluta, której nie da się przyspieszyć ani kupić z dnia na dzień"** — jest tym samym przesunięciem, które mech. 13 nazywa przejściem z gospodarki uwagi do gospodarki zaufania, tylko widzianym od strony platform: X uruchamia usługę finansową (X Money, oprocentowanie do 6%) po latach chaosu regulaminowego, [[Meta]] wpycha AI do feedu Threads bez opcji wyłączenia i równolegle prowadzi kampanię wizerunkową budującą optymizm wobec AI (rodzina aplikacji Meta: **3,56 mld unikalnych użytkowników miesięcznie**). Ekspansja funkcji wyprzedza budowę zaufania, na którym te funkcje mają zarabiać. *(Źródło: [[2026-07-29 Zaufanie jest walutą. I to dosłownie]])*
+
+**17. Transakcja przenosi się do wyszukiwarki — i trzy liczby o tym, kogo cytują modele**
+Prognoza kanałowa domykająca mech. 1 (zero-click) od strony konwersji, nie tylko ruchu (M+R). **(a) Zakupy — i potencjalnie darowizny — składane wprost w wynikach wyszukiwania.** Google testuje transakcje agentowe w SERP, więc zero-click przestaje dotyczyć tylko *informacji* i zaczyna dotyczyć *pieniędzy*: strona traci nie tylko wizytę, ale i moment wpłaty. Wniosek operacyjny nie jest kreatywny, tylko zarządczy — **przygotować zarząd na dalszy spadek ruchu organicznego jako stan docelowy, nie awarię**, i ponownie przetestować te zmiany na stronie, które kiedyś podnosiły konwersję (bo mierzone były w innym reżimie ruchu). **(b) Odbiorcą strony jest człowiek i robot naraz** — to samo, co mech. 9 mówi o dostępności technicznej, tu ujęte jako zmiana adresata: monitoruj raporty AI w Google Search Console, eksponuj **badania własne i unikalną ekspertyzę** (jedyne, czego model nie znajdzie w pięciu innych miejscach). **(c) Trzy liczby o źródłach cytowań, kalibrujące mech. 4 i 14:** blisko **1/4 cytowań AI prowadzi do źródeł dziennikarskich** (Generative Pulse / Muck Rack), w ChatGPT na czele **AP i Axios**, a **Gemini przy zapytaniach o organizacje społeczne korzysta z wyraźnie innych źródeł niż pozostałe modele** — czyli sektorowa widoczność jest **per-model**, a earned media przestają być warstwą PR i stają się infrastrukturą widoczności. Praktyczne domknięcie: nawet drobne źródła (listy rankingowe, wątek na Reddicie, post na LinkedIn) potrafią ustawić pierwsze wrażenie, jakie model prezentuje darczyńcy — to najtańszy dostępny punkt wejścia dla małej organizacji. *(Źródło: [[2026-06-15 What “Googling” will mean in 2027]])*
 
 ## Frameworki-kotwice
 

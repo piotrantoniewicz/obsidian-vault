@@ -5,7 +5,7 @@ tags:
   - strategia-organizacji
   - organizacje-społeczne
 created: 2026-06-13
-updated: 2026-08-19
+updated: 2026-08-28
 relevance: wysoka
 sources:
   - "[[2025-02-11 Best Practices for Major Gift Fundraising What You Need to Know to Raise More]]"
@@ -18,6 +18,8 @@ sources:
   - "[[2026-08-04 Fewer Donors, More Dollars, New Methodology At FEP]]"
   - "[[2026-07-30 Fewer Donors, More Dollars, and Methodology Changes At FEP]]"
   - "[[2026-07-29 Preserving Humanity in AI-Powered Fundraising Key Insights from Nonprofit Tech Leaders » Avid]]"
+  - "[[2026-08-07 Identify Major Donors with Predictive Intelligence]]"
+  - "[[2026-08-10 Can AI Close the Gap in Nonprofit Fundraising Without Sacrificing Its Human, Transformational Nature-]]"
 ---
 
 # Major gifts (duże darowizny)
@@ -60,6 +62,9 @@ Kalibracja mech. 4 („non-cash bije gotówkę") danymi makro z rocznika Giving 
 **10. Optymalizacja portfela jako drugi (niedoceniony) użytek z AI-scoringu**
 Mech. 5 i 8 opisują AI-scoring po stronie **wejścia** do pipeline'u (kogo w ogóle kwalifikować — ability, affinity, propensity). Mark Dobosz dokłada zastosowanie po stronie **utrzymania**: AI ocenia **jakość i wykorzystanie portfeli już przypisanych gift officerom** i wskazuje, gdzie realokować ograniczony czas na kontakty najbardziej obiecujące. To odpowiedź na problem, który mech. 4 (portfolio 125–150 prospektów) stawia, ale zostawia bez narzędzia: portfel raz zbudowany **starzeje się cicho** — część relacji wygasa, część dojrzewa, a fundraiser rozkłada uwagę po pamięci, nie po danych. Ostrzeżenie kalibrujące entuzjazm: w tym samym badaniu **92% organizacji używa AI, ale tylko 7% widzi poprawę wyników**, a **81% wdrożeń jest ad hoc** — czyli scoring działa wtedy, gdy jest wpięty w workflow zespołu i w rytm pipeline'u z mech. 2, a nie gdy jest prywatnym narzędziem jednego gift officera. Relacyjny rdzeń pozostaje nieautomatyzowalny: „the right ask" AI potrafi przygotować, ale nie wykonać. *(Źródło: [[2026-08-10 Can AI Close the Gap in Nonprofit Fundraising Without Sacrificing Its Human, Transformational Nature-]])*
 
+**11. Sześć wskaźników predykcyjnych i Prospect Score — pierwsza konkretna odpowiedź na pytanie „jak ważyć majątek i skłonność"**
+Operacyjne rozwinięcie mech. 5 i 10, a zarazem **częściowe rozstrzygnięcie napięcia z mech. 8** (majątek vs skłonność) — nie przez argument, tylko przez pokazanie, jak dostawca rozkłada to na wskaźniki (Melaina Chromy, [[Bloomerang]]). Teza wyjściowa: *„nie potrzebujesz nowych danych, żeby ich znaleźć — potrzebujesz systemu, który czyta to, co już masz"* (historia darów, demografia, aktywność komunikacyjna w CRM). **Sześć wskaźników donorskich:** *Next Gift Likelihood* (dar jednorazowy w 3 mies.), *Mid-Value Readiness* (500–4999 USD w 12 mies.), *Major Gift Readiness* (>5000 USD w 12 mies.), *Recurring Giving Likelihood* (konwersja jednorazowy → cykliczny w 6 mies.), **Recurring Donor Churn Risk** (ryzyko odejścia darczyńcy cyklicznego w 6 mies. — bezpośredni odpowiednik *lapse risk score* ze [[2026-06-13 Stewardship|Stewardshipu]]) oraz *Recommended Ask* (rekomendowana kwota na bazie historii). **Prospect Score rozkłada ocenę na cztery sygnały:** *Capacity* (publiczne wskaźniki majątku + udokumentowana historia darowizn), *Affinity* (zbieżność zainteresowań i dotychczasowej filantropii z obszarem organizacji), **Recency** (jak niedawno dał) i **Confidence** (głębia i jakość dostępnych danych) — czyli para „ability + affinity" z mech. 5 rozbita na **cztery**, z dwoma nowymi członami: świeżością zachowania i **jawnie zaraportowaną niepewnością modelu**. To najbliższa dostępna odpowiedź na pytanie otwarte pod mech. 8, choć wciąż nie mówi, **z jaką wagą** każdy sygnał wchodzi do wyniku. **Rutyna tygodniowa** (bo gotowość zmienia się w czasie, a praca na martwych danych produkuje chybione prośby): poniedziałkowy dashboard z nocnego scoringu → przegląd listy do upgrade'u → wejście w rekord (historia, wzorce, notatki; dla nieznanych — raport *Prospect AI*) → szkic wiadomości → **zalogowanie kontaktu, żeby kolejny scoring uwzględnił zmianę relacji** (pętla zwrotna, bez której model uczy się na nieaktualnym obrazie). Trzy liczby kontekstowe: **83% fundraiserów nie ma wiarygodnego sposobu oceny, czy ich fundraising działa na pełnych obrotach** (Bloomerang *Fundraising Blind Spot Survey*, V 2026); **~124 bln USD** w transferze międzypokoleniowym (Cerulli — zob. [[2026-07-06 Transfer międzypokoleniowy majątku|Transfer międzypokoleniowy majątku]]); **80% milenialsów planuje w tym roku wesprzeć przynajmniej jedną nową organizację, wobec 30% wśród boomersów i starszych** (Bloomerang *Giving Signals* 2026) — argument, żeby szukać kandydatów do upgrade'u także poza kohortą, która „wygląda" na major donorów. **Zastrzeżenie źródłowe:** materiał dostawcy CRM opisujący własne funkcje; nazwy wskaźników i progi są produktowe, przenośna jest **struktura sygnałów i rytm pracy**, nie konkretna implementacja. *(Źródło: [[2026-08-07 Identify Major Donors with Predictive Intelligence]])*
+
 ## Powiązane pojęcia
 
 - [[2026-06-13 Stewardship|Stewardship]] (opieka nad darczyńcą) — piąty etap pipeline'u i zarazem warunek powrotu darczyńcy z kolejnym, większym darem; bez stewardshipu major gift jest jednorazowy
@@ -86,4 +91,3 @@ Mech. 5 i 8 opisują AI-scoring po stronie **wejścia** do pipeline'u (kogo w og
 - Gdzie leży próg, poniżej którego program major gifts nie ma sensu — ile musi liczyć baza, by dało się wytypować rentowne portfolio 25 prospektów?
 - Czy AI-scoring zdolności i skłonności nie utrwala uprzedzeń (faworyzuje profile podobne do dotychczasowych darczyńców), zawężając krąg „kwalifikowanych" prospektów i pomijając nietypowych?
 - Jak pogodzić intymność relacji major gift (prywatne spotkania, odręczne listy) ze skalą — czy istnieje górny pułap portfolio, powyżej którego personalizacja staje się pozorna?
-  - "[[2026-08-10 Can AI Close the Gap in Nonprofit Fundraising Without Sacrificing Its Human, Transformational Nature-]]"

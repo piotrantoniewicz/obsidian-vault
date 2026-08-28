@@ -5,6 +5,9 @@ url: "https://www.fwiw.news/p/the-internet-knows-youre-faking-it?utm_medium=emai
 published: 2026-08-14
 created: 2026-08-28
 tags:
+  - "digital-campaigning"
+  - "ghostwriting"
+  - "framing"
 ---
 
 

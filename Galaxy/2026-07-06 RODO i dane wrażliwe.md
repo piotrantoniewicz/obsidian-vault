@@ -21,6 +21,8 @@ sources:
   - "[[2026-06-23 How AI is Reshaping Europe's Digital Sovereignty Debate]]"
   - "[[2026-05-12 RAPORT AIPORT.pl Polska firma w erze AI 2026 używamy, ale nie panujemy]]"
   - "[[2026-07-29 Preserving Humanity in AI-Powered Fundraising Key Insights from Nonprofit Tech Leaders » Avid]]"
+  - "[[2026-08-18 Nie korzystasz z AI, bo boisz się RODO]]"
+  - "[[2026-08-19 Dane, których nie masz, a właściwie nie wiesz, że masz. KSeF, e-Doręczenia i koniec wymówek]]"
 ---
 
 # RODO i dane wrażliwe (GDPR & Sensitive Data)
@@ -102,5 +104,3 @@ Kieszonkowa wersja mapy 8 kroków compliance, do zadania na spotkaniu bez przygo
 - Jak pogodzić anonimizację z użytecznością — w którym momencie anonimizacja danych beneficjentów odbiera analizie AI wartość merytoryczną i co wtedy: model lokalny czy rezygnacja z automatyzacji?
 - Czy przesunięcie terminów compliance dla systemów wysokiego ryzyka (EU AI Act Digital Omnibus, XII 2027) to ulga dająca czas na przygotowanie, czy uśpienie czujności sektora?
 - Jak audytować zgodność łańcucha narzędzi no-code (Make.com, Zapier + LLM), gdzie dane osobowe przepływają przez kilku procesorów naraz — kto jest czyim podmiotem przetwarzającym?
-  - "[[2026-08-18 Nie korzystasz z AI, bo boisz się RODO]]"
-  - "[[2026-08-19 Dane, których nie masz, a właściwie nie wiesz, że masz. KSeF, e-Doręczenia i koniec wymówek]]"

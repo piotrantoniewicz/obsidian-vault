@@ -22,6 +22,7 @@ sources:
   - "[[2026-07-19 LinkediNGO Profil osobisty, czyli jak Cię widzą]]"
   - "[[2026-07-28 So, you want to be a content creator-]]"
   - "[[2026-08-13 How to get $0 CAC]]"
+  - "[[2026-08-18 How I'm creating The Comment Writer training]]"
 ---
 
 # Marka osobista
@@ -110,4 +111,3 @@ Mech. 5 (za Gridleyem) proponuje obejście dla osób nieznoszących autopromocji
 - Czy zasada 7-11-4 wytrzymuje przeniesienie z B2B na relację darczyńca–organizacja, gdzie decyzja jest emocjonalna, tańsza i rzadziej poprzedzona researchem?
 - Jak długo utrzyma się okno rynkowe LinkedIn dla organizacji społecznych (~1000 profili, 3% publikujących) i co jest sygnałem, że się zamyka?
 - Skoro modele językowe cytują profile osobiste częściej niż firmowe — czy to argument za tym, żeby organizacja publikowała stanowiska i raporty pod nazwiskami autorów zamiast pod logo, i jak to pogodzić z odpowiedzialnością instytucjonalną za treść?
-  - "[[2026-08-18 How I'm creating The Comment Writer training]]"

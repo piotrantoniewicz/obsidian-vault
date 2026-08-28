@@ -1,10 +1,13 @@
 ---
-type: "Web"
-authors: "[[Amanda Litman]]"
-url: "https://amandalitman.substack.com/p/if-everyone-hates-political-consultants?utm_medium=email&_hsmi=144006980&utm_content=144006980&utm_source=hs_email"
-published: 2026-07-10
-created: 2026-08-28
+type: Web
+authors: '[[Amanda Litman]]'
+url: >-
+  https://amandalitman.substack.com/p/if-everyone-hates-political-consultants?utm_medium=email&_hsmi=144006980&utm_content=144006980&utm_source=hs_email
+published: 2026-07-10T00:00:00.000Z
+created: 2026-08-28T00:00:00.000Z
 tags:
+  - digital-campaigning
+  - strategia-organizacji
 ---
 
 

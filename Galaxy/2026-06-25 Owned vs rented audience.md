@@ -5,7 +5,7 @@ tags:
   - strategia-organizacji
   - content-marketing
 created: 2026-06-25
-updated: 2026-08-19
+updated: 2026-08-28
 relevance: wysoka
 sources:
   - "[[2026-05-12 why newsletter ghostwriting (time to forget LinkedIn)]]"
@@ -30,6 +30,10 @@ sources:
   - "[[2026-07-30 Hot take - you don't need a newsletter]]"
   - "[[2026-07-29 The end of the influencer era (and what comes after)]]"
   - "[[2026-07-29 Zaufanie jest walutą. I to dosłownie]]"
+  - "[[2026-08-24 This may be the most fun way to can grow your audience]]"
+  - "[[2026-08-19 The message is (usually) not the problem]]"
+  - "[[2026-08-18 How I booked 34 sales calls in July]]"
+  - "[[2026-08-18 The drift how constituents stopped being the center]]"
 ---
 
 # Owned vs rented audience (publiczność własna vs wynajęta)
@@ -116,6 +120,9 @@ Konkretna kalibracja ryzyka algorytmicznego z mech. 1–3, z datą i kierunkiem 
 **20. „Lista nie może niczego chcieć" — trzecie stanowisko w sporze o kanał własny**
 Ta strona i [[2026-06-15 Newsletter jako kanał|Newsletter jako kanał]] traktują listę jako **rozwiązanie** problemu kanału wynajętego. Ned Howey wprowadza stanowisko trzecie i niewygodne dla obu: **własna baza też jest tylko narzędziem, a nie relacją**. Teza w pełnej wersji: konstytuenci nie zostali usunięci z centrum organizowania — **usunięto narzędzie, które ich tam trzymało** (relacje, ludzie, wspólne działanie), zastępując je czymś, co **wyglądało na większe** (listy, reklamy, polling, machina fundraisingowa), ale nie miało tej samej siły sprawczej. Ostatnie trzydzieści lat rzemiosła kampanijnego autor opisuje jako **sposób robienia polityki bez konieczności bycia w jednym pokoju z ludźmi**. Zdanie, które to domyka: **„lista nie może niczego chcieć"** — baza nie ma własnej motywacji, więc organizacja mierząca siłę wielkością listy myli **zasięg z mocą mobilizacyjną**. Dla tej strony to ważna korekta: przeniesienie odbiorcy z kanału wynajętego na własny **usuwa ryzyko platformowe, ale nie wytwarza samo z siebie sprawczości** — a lejek z mech. 18 kończy się na liście tylko wtedy, gdy nie ma trzeciego etapu (zob. [[2026-06-13 Peer-to-peer fundraising|Peer-to-peer fundraising]] mech. 11). *(Źródło: [[2026-08-18 The drift how constituents stopped being the center]])*
 
+**21. Konto kuratorowane — tanie wejście na kanał wynajęty bez własnej produkcji treści**
+Wariant lejka rented → owned (mech. 4) dla kogoś, kto nie ma jeszcze ani zasięgu, ani mocy produkcyjnej na codzienny oryginalny content. Taktyka: osobne konto publikujące **cudze, popularne treści z wąskiej niszy** (przykład Josha Spectora: „Norm Macdonald Joke of the Day", **114 tys. obserwujących**), z przypiętym postem i bio kierującym do konta głównego z ofertą. Uwaga graniczna, bez której mechanizm staje się pułapką: to **dodatkowy kanał uwagi, nie substytut własnej treści ani [[2026-08-17 Marka osobista|marki osobistej]]** — cała uwaga zbudowana na cudzym materiale mieszka na wynajętym gruncie i podlega wszystkim trzem ryzykom z mech. 1, a graf zainteresowań (mech. 9) zaklasyfikuje takie konto po tym, co repostuje, nie po tym, kim chce być. Dla organizacji społecznej przenośne jako konto kuratorujące dobre praktyki z jednego obszaru (fundraising, ekologia, dostępność) **przed** startem właściwej kampanii — buduje rozpoznawalność, zanim jest co promować.
+
 ## Powiązane pojęcia
 
 - [[2026-06-15 Newsletter jako kanał|Newsletter jako kanał]] — najważniejsza realizacja zasady: e-mail jako kanał własny. Ta strona to *dlaczego* (zarządzanie ryzykiem platform), tamta to *jak* (rzemiosło kanału). Czerwony link z Newslettera zrealizowany.
@@ -149,6 +156,3 @@ Ta strona i [[2026-06-15 Newsletter jako kanał|Newsletter jako kanał]] traktuj
 - Czy owned audience nie przenosi tylko ryzyka o poziom niżej — lista mailingowa zależy od dostawcy ESP i od [[2026-06-14 Email deliverability|reputacji u bramkarzy skrzynek]] (Gmail, Onet/WP). Co naprawdę „posiadamy", skoro inbox placement zależy od Google?
 - Jak wycenić koszt alternatywny budowy kanału własnego (czas, narzędzia, wzrost listy) wobec szybkiego, „darmowego" zasięgu platformy — kiedy rented jest racjonalnym wyborem mimo ryzyka?
 - Jak ta zasada zmienia się przy publiczności młodszej, która kanał e-mail traktuje jako archaiczny — czy „owned" musi oznaczać listę mailingową, czy może być nią społeczność na własnej infrastrukturze (Discord/forum/aplikacja)? Trend „cozy Internetu" (mikrospołeczności na Discordzie/WhatsAppie wokół misji) sugeruje, że tak — ale Discord czy WhatsApp to znów kanał *wynajęty*: czy „owned community" jest realne bez własnej infrastruktury (forum, Fediverse), i czy małej organizacji się to opłaca wobec gotowych komunikatorów?
-  - "[[2026-08-19 The message is (usually) not the problem]]"
-  - "[[2026-08-18 How I booked 34 sales calls in July]]"
-  - "[[2026-08-18 The drift how constituents stopped being the center]]"

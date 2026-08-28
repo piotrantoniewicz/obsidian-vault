@@ -5,6 +5,9 @@ url: "https://haimagazine.com/pl/ai_branza/prawo_etyka/watermarki-tekstow-ai/?ut
 published: 2026-08-14
 created: 2026-08-28
 tags:
+  - "ghostwriting"
+  - "trendy-AI"
+  - "LLM"
 ---
 
 

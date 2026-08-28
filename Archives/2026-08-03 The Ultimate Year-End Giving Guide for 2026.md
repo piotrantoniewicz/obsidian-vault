@@ -5,6 +5,9 @@ url: "https://www.engagingnetworks.net/blog/year-end-giving-guide/?utm_campaign=
 published: 2026-08-03
 created: 2026-08-28
 tags:
+  - "fundraising"
+  - "digital-campaigning"
+  - "content-marketing"
 ---
 
 

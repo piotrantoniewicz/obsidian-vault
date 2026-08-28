@@ -5,6 +5,9 @@ url: "https://haimagazine.com/pl/ai_branza/prawo_etyka/wdrazaja-ai-pytaja-czy-to
 published: 2026-08-18
 created: 2026-08-28
 tags:
+  - "strategia-AI"
+  - "organizacje-społeczne"
+  - "narzędzia-AI"
 ---
 
 

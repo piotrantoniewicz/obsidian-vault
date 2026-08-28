@@ -5,6 +5,9 @@ url: "https://www.engagingnetworks.net/blog/fundraising-email-best-practices/?_h
 published: 2026-08-12
 created: 2026-08-28
 tags:
+  - "fundraising"
+  - "digital-campaigning"
+  - "content-marketing"
 ---
 
 

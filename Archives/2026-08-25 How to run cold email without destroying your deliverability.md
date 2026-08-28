@@ -5,6 +5,8 @@ url: "https://weareastral.co.uk/thevault/how-to-run-cold-email-without-destroyin
 published: 2026-08-25
 created: 2026-08-28
 tags:
+  - "digital-campaigning"
+  - "fundraising"
 ---
 
 

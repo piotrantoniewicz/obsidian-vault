@@ -5,6 +5,9 @@ url: "https://chcedointernetu.pl/blog/framework-prosto-jak-rozmawiac-z-ai?utm_so
 published: 2026-08-18
 created: 2026-08-28
 tags:
+  - "prompt-engineering"
+  - "szkolenia-AI"
+  - "narzędzia-AI"
 ---
 
 

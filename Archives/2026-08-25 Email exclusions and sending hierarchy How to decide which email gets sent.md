@@ -5,6 +5,9 @@ url: "https://weareastral.co.uk/thevault/email-exclusions-and-sending-hierarchy.
 published: 2026-08-25
 created: 2026-08-28
 tags:
+  - "digital-campaigning"
+  - "fundraising"
+  - "automatyzacja"
 ---
 
 

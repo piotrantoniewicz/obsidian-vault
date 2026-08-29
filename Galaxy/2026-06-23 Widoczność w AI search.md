@@ -30,6 +30,7 @@ sources:
   - "[[2026-07-29 Meet the Campaign AI Engineer]]"
   - "[[2026-07-29 Zaufanie jest walutą. I to dosłownie]]"
   - "[[2026-06-15 What “Googling” will mean in 2027]]"
+  - "[[2026-08-19 Unlinked mentions matter more than you think]]"
 ---
 
 # Widoczność w AI search (GEO / AEO)
@@ -107,6 +108,9 @@ Prognoza kanałowa domykająca mech. 1 (zero-click) od strony konwersji, nie tyl
 - **Liczby-kotwice**: zero-click **93%** (Google AI Mode), **19,4%** kliknięć utraconych w PL (VI 2025 — **najstarsza kotwica na tej liście, wymaga re-source'u**); AI ufa źródłom zewn. **6,5×**; **85%** wzmianek spoza strony; front-load **44%/30%**; **+29%** faktów; refresh 3 mies. = **3×** cytowań; FAQ **+40%**, nagłówki **2,8×**; TOP3 Google = **65,9%** cytowań AI Overview; ruch AU konwertuje **15–20×**; LinkedIn **11%** odpowiedzi (2. po Reddicie); Reddit cytowany **1,93%**; tylko **22%** marketerów monitoruje LLM; **>70%** Gen Z woli asystenta AI od wyszukiwarki.
 
 ---
+
+**18. Wzmianka bez linku jako jednostka pracy — monitoring i digital PR celujący w wzmiankę, nie w backlink ([[Matt Diggity]])**
+Warstwa operacyjna pod mech. 14(a) („wzmianki zapisują się w modelu"): skoro autorytet encji budują **wszystkie miejsca, w których marka jest wymieniana, niezależnie od linkowania**, to *unlinked mention* przestaje być „straconą okazją na backlink" i staje się **osobnym, mierzalnym celem**. Dwie konsekwencje warsztatowe. **(a) Monitoring wzmianek na równi z monitoringiem linków** — alerty (Google Alerts, Mention, filtr niepowiązanych wzmianek w Ahrefs Content Explorer), **comiesięczny przegląd** nowych wzmianek i szukanie **wzorca ich pochodzenia**, z priorytetem dla stron o wysokim autorytecie; większość organizacji śledzi wyłącznie linki i tym samym nie widzi połowy sygnału, którym posługują się modele. **(b) Digital PR przeprojektowany pod wzmiankę** — pitchowanie historii i danych dziennikarzom tam, gdzie realnym efektem jest **wzmianka, a nie link**, zdobywanie cytatów w artykułach zbiorczych i komentarzach eksperckich, oraz **priorytet dla mediów faktycznie czytanych przez grupę docelową nad mediami o wysokim domain authority** — to odwrócenie klasycznej hierarchii SEO i praktyczny argument w rozmowie z organizacją o wartości komentarza eksperckiego bez linku. Cytat-kotwica: *„Backlinki nie znikają. Ale jeśli cała twoja strategia autorytetu opiera się na zdobywaniu linków, tracisz połowę obrazu, którym posługują się narzędzia AI"*. *(Źródło: [[2026-08-19 Unlinked mentions matter more than you think]])*
 
 ## Powiązane pojęcia
 

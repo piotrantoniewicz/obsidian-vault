@@ -19,6 +19,7 @@ sources:
   - "[[2026-07-31 Dlaczego młodzi odchodzą z organizacji- Perspektywa przedstawicielki pokolenia Z]]"
   - "[[2026-08-07 Identify Major Donors with Predictive Intelligence]]"
   - "[[2026-08-05 The AI-Enabled Nonprofit A Strategy Guide for 2026]]"
+  - "[[2026-06-16 Donors Want Giving Platforms To Be Accurate, Transparent, Consent Of Charities]]"
 ---
 
 # Pokolenia darczyńców (Donor Generations)
@@ -76,6 +77,9 @@ Najczystszy dostępny pomiar różnicy pokoleniowej nie w **kanale** ani w **kwo
 
 **9. Otwartość na *nową* organizację — druga oś tego samego raportu (80% vs 30%)**
 Uzupełnienie mech. 4 i danych *Giving Signals* z mech. 3 o wskaźnik, który dotyczy **akwizycji**, a nie wielkości daru: **80% milenialsów planuje w tym roku wesprzeć przynajmniej jedną nową organizację, wobec 30% wśród boomersów i starszych darczyńców** (Bloomerang *Giving Signals* 2026, za [[2026-08-07 Identify Major Donors with Predictive Intelligence]]). Konsekwencja praktyczna jest odwrotna do intuicji budżetowej sektora: kohorta o **niższej medianie daru** jest jednocześnie tą, do której **najtaniej się wejść**, bo drzwi są otwarte; kohorta o najwyższej medianie jest w dużej mierze zamknięta na nowe relacje i utrzymuje te, które już ma. To domyka mech. 6 („intent-driven", okno 60 dni) od strony pipeline'u — i łączy się z [[2026-06-13 Major gifts|Major gifts]] mech. 11: część darczyńców gotowych na większy dar to milenialsi u progu transferu międzypokoleniowego, a nie tylko kohorta, która „wygląda" na major donorów. *(Źródło: [[2026-08-07 Identify Major Donors with Predictive Intelligence]])*
+
+**10. Odkrywanie przez platformę, nie przez organizację — 88% Gen Z i millenialsów ([[BBB Give.org]])**
+Doprecyzowanie mech. 5 („kanał różni się generacyjnie") o **moment odkrycia**: **88% Gen Z i millenialsów korzysta z platform dawania specjalnie po to, by odkrywać nowe organizacje**, a **70% wszystkich darczyńców z ostatnich trzech lat** dało przez co najmniej jeden zewnętrzny kanał online. To zamyka pewną lukę w mech. 9 (otwartość na nową organizację, 80% vs 30%): młodsze pokolenia nie tylko **chcą** poznawać nowe organizacje — mają na to **konkretne, cudze miejsce**, którym organizacja nie zarządza. Konsekwencja pokoleniowa: dla tych roczników „pierwsze wrażenie" o organizacji powstaje w interfejsie platformy (opis, zdjęcie, kwoty domyślne, wiarygodność samego pośrednika), zanim ktokolwiek trafi na jej stronę — więc audyt obecności na platformach jest dla nich elementem strategii pozyskania, a nie tylko administracją. Warstwa zaufania działa dwukierunkowo: **62% użytkowników platform** deklaruje, że obecność organizacji na znanej platformie zwiększa ich zaufanie do niej. Rozwinięcie mechanizmu i ryzyk po stronie kanału: [[2026-06-25 Owned vs rented audience|Owned vs rented audience]] mech. 23. *(Źródło: [[2026-06-16 Donors Want Giving Platforms To Be Accurate, Transparent, Consent Of Charities]])*
 
 ## Powiązane pojęcia
 

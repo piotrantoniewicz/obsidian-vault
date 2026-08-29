@@ -5,7 +5,7 @@ tags:
   - fundraising
   - automatyzacja
 created: 2026-06-29
-updated: 2026-08-17
+updated: 2026-08-28
 relevance: wysoka
 sources:
   - "[[2025-08-13 Why I deleted 786 subscribers from my list]]"
@@ -26,6 +26,7 @@ sources:
   - "[[2022-08-24 Scout Quest webinar follow-up RAD results, cool new features, and more!]]"
   - "[[2025-08-21 Reactivation Journeys - are they worth it]]"
   - "[[2026-02-18 Intent Over Personalisation What “Personal” Actually Means in Email (and How to Build It)]]"
+  - "[[2026-08-19 Email marketing best practice is mostly wrong. What the internet says, what I say, and why we have all been taught email backwards]]"
 ---
 
 # Higiena listy (list hygiene)
@@ -102,6 +103,9 @@ Rozszerzenie mech. 2 („segmentacja według zaangażowania") o wymiar, którego
 - Case trójpoziomowej segmentacji (World Animal Protection): open rate 34–40% na wszystkich poziomach, skargi <0,02%, >300 "odzyskanych" darczyńców = **>25 500 USD** przychodu, który zniknąłby przy masowym odcięciu
 
 ---
+
+**16. Zgoda jest stanem, nie zdarzeniem — i obietnica zapisu jako jednostka higieny ([[Beth O'Malley]])**
+Uzupełnienie mech. 6 („integralność danych na wejściu") o warstwę, której ta strona dotąd nie nazywała wprost: higiena listy zaczyna się nie przy formularzu, tylko przy **obietnicy złożonej w momencie zapisu**, i nie kończy się nigdy. Zgoda to **stan, o który trzeba regularnie pytać**, a nie jednorazowe zdarzenie zapisane w bazie — z czego wynika, że okresowe pytanie „czy nadal chcesz to dostawać" jest elementem higieny, nie ryzykiem utraty listy (spina się z drabiną decyzyjną z mech. 5 i 10). Druga zasada twarda: **nie obiecuj przy zapisie jednej rzeczy, a dostarczaj innej** — rozjazd obietnicy z treścią produkuje wypisania i skargi, których żadne czyszczenie po fakcie nie odwróci, bo problem powstał przed pierwszą wysyłką. Trzecia: **nie utrudniaj wypisania** — łatwe wyjście jest tańsze niż skarga na spam. Do tego uwaga metodologiczna ważna dla raportowania churnu (mech. 10): **publikowane wskaźniki rezygnacji różnią się między źródłami nawet sześciokrotnie**, więc jedynym uczciwym punktem odniesienia jest **poprzednia wersja tego samego maila w tej samej organizacji**, nie średnia branżowa. *(Źródło: [[2026-08-19 Email marketing best practice is mostly wrong. What the internet says, what I say, and why we have all been taught email backwards]])*
 
 ## Powiązane pojęcia
 

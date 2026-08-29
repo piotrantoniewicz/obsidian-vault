@@ -26,6 +26,7 @@ sources:
   - "[[2020-10-06 Why Holdout Testing Is The Key To Measuring The Effectiveness Of Your Direct Mail]]"
   - "[[2026-08-13 How to Write Donation Impact Statements (+ Examples)]]"
   - "[[2026-08-17 10 Powerful Nonprofit Videos to Inspire You]]"
+  - "[[2023-11-26 Invite Donors Into Your Mission Storytelling in Your Fundraising Campaigns]]"
 ---
 
 # Storytelling oparty na danych (data storytelling)
@@ -99,6 +100,9 @@ Rozwinięcie mech. 11 (jedna historia w porę) i mech. 13 (impact statement) w g
 - **Liczby-kotwice**: 2,83 USD (historia jednego dziecka) vs 1,17 USD (statystyka o milionach); 5% zapamiętuje statystykę vs 63% historię (Heath/Aaker — ćwiczenie klasowe, nie badanie); 18,3% wysokiego zaufania do organizacji charytatywnych przy 67,7% uznających zaufanie za kluczowe; mediana 100 zł vs średnia 940 zł (rozkład skośny); 2,5% wpłat = 89% wpływów (Pareto w fundraisingu); BI_NGO dostarczył Fundacji Gajusz 66 wizualizacji bezkosztowo (wolontariat kompetencji).
 
 ---
+
+**15. Dwie osie narracji: donor-based vs mission-based — i darczyńca jako bohater, organizacja jako przewodnik ([[StoryBrand]] / [[Pixar]], CauseVox)**
+Pierwszy na tej stronie mechanizm o **wyborze podmiotu opowieści**, a nie o technice jej opowiadania. Dwa modele: **donor-based** — bohaterem jest darczyńca jako współtwórca zmiany, organizacja występuje w roli **przewodnika**, który pomaga mu wywrzeć realny wpływ (schemat [[StoryBrand]]); **mission-based** — bohaterem jest beneficjent i praca organizacji. Źródło nie rozstrzyga, który jest lepszy — zaleca **testowanie obu na różnych kampaniach i stronach**, ale wymaga konsekwencji: raz wybrana oś ma obowiązywać w całej komunikacji kampanii, nie zmieniać się między mailem a stroną. Druga część mechanizmu to **strona donacyjna projektowana jak opowieść, a nie jak formularz**: hook (obraz, wideo, cytat) → rozwinięcie narracji w modułach łączących misję z wpływem → **personalizacja** (dedykacje, *tribute donations*) → jedno widoczne wezwanie do działania. Warunek etyczny podany wprost i istotny przy pracy z grupami wrażliwymi: zgoda na publikację, współtworzenie historii z bohaterem, brak sensacjonalizmu — inaczej narracja kupuje konwersję kosztem wiarygodności. Liczby-kotwice (badanie dostawcy narzędzia, do cytowania z tym zastrzeżeniem): **39% darczyńców** deklaruje, że świadectwa beneficjentów zwiększyłyby ich skłonność do wpłaty; **76%** chętniej wpłaca na profesjonalnie zaprojektowaną, brandowaną stronę donacyjną; organizacje skutecznie stosujące storytelling mają **retencję 45% wobec 27%** — ta ostatnia para stoi w napięciu z sektorowymi pomiarami retencji używanymi na innych stronach Galaxy (patrz raport ingestu). *(Źródło: [[2023-11-26 Invite Donors Into Your Mission Storytelling in Your Fundraising Campaigns]])*
 
 ## Powiązane pojęcia
 

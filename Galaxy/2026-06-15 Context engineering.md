@@ -5,7 +5,7 @@ tags:
   - LLM
   - narzędzia-AI
 created: 2026-06-15
-updated: 2026-08-17
+updated: 2026-08-28
 relevance: wysoka
 sources:
   - "[[2025-09-29 Effective context engineering for AI agents]]"
@@ -19,6 +19,7 @@ sources:
   - "[[2026-06-24 How a Former NYU Professor Uses Claude Code]]"
   - "[[2026-02-03 How to build AI product sense]]"
   - "[[2026-07-29 Jak przygotować landing page z ofertą, który zastąpi standardowy PDF]]"
+  - "[[2000-07-24 The new rules of context engineering for Claude 5 generation models]]"
 ---
 
 # Context engineering (projektowanie kontekstu)
@@ -63,6 +64,9 @@ Obok minimalistycznego okna pojedynczego wywołania istnieje druga, makro-warstw
 
 **9. Kontekst → skill → dopytanie → artefakt: wzorzec produkcyjny na przykładzie oferty handlowej**
 Konkretny, przenośny układ trzech warstw z mech. 2 i 7, pokazany na zadaniu, które da się odtworzyć w tydzień (Szymon Negacz i Szymon Kita, WiseGroup / AI_Sales — landing page z ofertą zamiast PDF-a, budowany w [[Claude Code]]). Pięć kroków: (1) **kontekst** — folder z transkrypcjami rozmów z klientem i opisem jego firmy jako surowiec (nie streszczenie); (2) **skill** — trwała instrukcja, jak konkretnie ma wyglądać i być zorganizowana oferta, oddzielona od jednorazowego promptu; (3) **dopytanie** — model pyta o brakujące dane (ważność oferty, forma, widełki cenowe) **zanim** zacznie pisać, co jest tym samym mechanizmem, co meta-prompt procesowy w [[2026-06-15 Prompt engineering|Prompt engineeringu]] (mech. 7); (4) **artefakt zamiast załącznika** — efektem jest strona, na której klient może zaakceptować ofertę, poprosić o rozmowę lub dopytać, z powiadomieniem do nadawcy; (5) **pętla zwrotna** — kto wszedł, ile czasu spędził i w jakiej kolejności czytał sekcje, czyli dane behawioralne wracające do kontekstu następnej iteracji. Teza ekonomiczna, którą warto trzymać przy tym wzorcu: **AI nie skraca pracy nad ofertą, tylko podnosi punkt odniesienia na rynku** — różnicę robi jakość dopasowania kontekstu, nie szybkość generowania. *(Źródło: [[2026-07-29 Jak przygotować landing page z ofertą, który zastąpi standardowy PDF]])*
+
+**10. Sześć przesunięć „wtedy → teraz": mniej reguł, więcej osądu i progresywnego ujawniania ([[Anthropic]], generacja Claude 5)**
+Anthropic opisuje, jak zmienia się prowadzenie agenta wraz z generacją modeli Claude Opus 5 / Fable 5, i podaje twardą kotwicę: **z systemowego promptu Claude Code usunięto ponad 80% treści bez mierzalnej straty jakości w evalach kodowania**. Sześć przesunięć: (1) **sztywne reguły → osąd modelu** — nowsze modele lepiej radzą sobie z niejednoznacznością i sprzecznymi instrukcjami z różnych źródeł (system prompt, skille, `CLAUDE.md`, prośba użytkownika), więc twarde zakazy typu „nigdy nie…" częściej ograniczają, niż pomagają; (2) **przykłady użycia narzędzi → design interfejsu narzędzia** — przykłady **zawężają przestrzeń eksploracji**, lepiej inwestować w ekspresyjne parametry (np. enum statusów), które same podpowiadają sposób użycia; (3) **wszystko na starcie → progresywne ujawnianie** — drzewo małych plików (skille, `CLAUDE.md`) ładowanych wtedy, gdy są potrzebne, zamiast jednego centralnego repozytorium praktyk; dotyczy też narzędzi (deferred loading, żeby nie zajmowały okna); (4) **powtarzanie instrukcji → prosty opis narzędzia** — instrukcja obsługi raz, w opisie narzędzia, nie dodatkowo w promptcie; (5) **pamięć w `CLAUDE.md` → auto-memory** — model sam zapisuje istotne fakty, zamiast ręcznego dopisywania; (6) **proste specyfikacje → bogate referencje** — artefakty HTML, testy, kod z innego repo, **rubryki oceniające gust** („co to znaczy dobry design API") weryfikowane przez osobne agenty, zamiast tekstowych opisów planu. To bezpośrednia rewizja praktyki „im więcej reguł i przykładów, tym lepiej" — i wprost dotyczy własnych pluginów oraz plików `CLAUDE.md` w vaultcie. *(Źródło: [[2000-07-24 The new rules of context engineering for Claude 5 generation models]])*
 
 ## Frameworki-kotwice
 

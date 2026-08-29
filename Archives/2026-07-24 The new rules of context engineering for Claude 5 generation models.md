@@ -1,13 +1,13 @@
 ---
-type: "Web"
+type: Web
 authors: "[[Anthropic]]"
-url: "https://claude.com/blog/the-new-rules-of-context-engineering-for-claude-5-generation-models"
-published: 2000-07-24
+url: https://claude.com/blog/the-new-rules-of-context-engineering-for-claude-5-generation-models
+published: 2026-07-24
 created: 2026-08-28
 tags:
-  - "context-engineering"
-  - "prompt-engineering"
-  - "narzędzia-AI"
+  - context-engineering
+  - prompt-engineering
+  - narzędzia-AI
 ---
 
 

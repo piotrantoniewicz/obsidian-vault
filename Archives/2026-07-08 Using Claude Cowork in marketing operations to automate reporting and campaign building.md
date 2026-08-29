@@ -1,9 +1,8 @@
 ---
 type: Web
-authors: '[[Anthropic]]'
-url: >-
-  https://claude.com/blog/how-anthropics-marketing-operations-team-uses-claude-cowork-to-automate-reporting-and-campaign-builds
-published: 2000-07-08
+authors: "[[Anthropic]]"
+url: https://claude.com/blog/how-anthropics-marketing-operations-team-uses-claude-cowork-to-automate-reporting-and-campaign-builds
+published: 2026-07-08
 created: 2026-08-04
 tags:
   - automatyzacja

@@ -2,15 +2,11 @@
 categories:
   - Clippings
 authors:
-  - '[[Anthropic]]'
-url: >-
-  https://claude.com/blog/how-anthropics-marketing-operations-team-uses-claude-cowork-to-automate-reporting-and-campaign-builds
-source: >-
-  [[Archives/2000-07-08 Using Claude Cowork in marketing operations to automate
-  reporting and campaign building|2000-07-08 Using Claude Cowork in marketing
-  operations to automate reporting and campaign building]]
-published: '2000-07-08'
-created: '2026-08-04'
+  - "[[Anthropic]]"
+url: https://claude.com/blog/how-anthropics-marketing-operations-team-uses-claude-cowork-to-automate-reporting-and-campaign-builds
+source: "[[Archives/2026-07-08 Using Claude Cowork in marketing operations to automate reporting and campaign building|2026-07-08 Using Claude Cowork in marketing operations to automate reporting and campaign building]]"
+published: 2026-07-08
+created: 2026-08-04
 relevance: wysoka
 tags:
   - automatyzacja

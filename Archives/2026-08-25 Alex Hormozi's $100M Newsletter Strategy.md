@@ -1,10 +1,13 @@
 ---
-type: "Web"
-authors: "[[Ryan Carr]]"
-url: "https://www.youtube.com/watch?v=zRQxBwkXiqA"
-published: 2026-08-25
-created: 2026-08-28
+type: Web
+authors: '[[Ryan Carr]]'
+url: 'https://www.youtube.com/watch?v=zRQxBwkXiqA'
+published: 2026-08-25T00:00:00.000Z
+created: 2026-08-28T00:00:00.000Z
 tags:
+  - ghostwriting
+  - content-marketing
+  - narzędzia-AI
 ---
 
 

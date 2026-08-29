@@ -1,10 +1,14 @@
 ---
-type: "Web"
-authors: "[[Dennis Fois]]"
-url: "https://bloomerang.com/blog/operational-excellence?utm_medium=email&utm_source=marketo&utm_campaign=26Q3_EN1_FNL_in-bloom&utm_targeting=NA_all&utm_content=blog_overhead_email-08-28&mkt_tok=NjE4LVdHSS00NTkAAAGj6Lo--wYGRPe_c-FfctGE0c2eZDFmnoG2ntZEIwM9YgU6aIPbHHOnWWEZyVd6QcUodqWNYGuFmvC3KMGMzPbALPvjgcOYPISr6SaJo9ZyPgfnX8Y"
-published: 2026-08-19
-created: 2026-08-28
+type: Web
+authors: '[[Dennis Fois]]'
+url: >-
+  https://bloomerang.com/blog/operational-excellence?utm_medium=email&utm_source=marketo&utm_campaign=26Q3_EN1_FNL_in-bloom&utm_targeting=NA_all&utm_content=blog_overhead_email-08-28&mkt_tok=NjE4LVdHSS00NTkAAAGj6Lo--wYGRPe_c-FfctGE0c2eZDFmnoG2ntZEIwM9YgU6aIPbHHOnWWEZyVd6QcUodqWNYGuFmvC3KMGMzPbALPvjgcOYPISr6SaJo9ZyPgfnX8Y
+published: 2026-08-19T00:00:00.000Z
+created: 2026-08-28T00:00:00.000Z
 tags:
+  - organizacje-społeczne
+  - fundraising
+  - strategia-organizacji
 ---
 
 

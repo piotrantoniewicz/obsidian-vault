@@ -1,10 +1,14 @@
 ---
-type: "Web"
-authors: "[[Josh Meyer]]"
-url: "https://bloomerang.com/blog/volunteer-recruitment-plan?utm_medium=email&utm_source=marketo&utm_campaign=26Q3_EN1_FNL_in-bloom&utm_targeting=NA_all&utm_content=blog_volunteer-recruitment_email-08-28&mkt_tok=NjE4LVdHSS00NTkAAAGj6Lo--25H61tM3QNWQo6hBr8yyrwwZRWZHw6CEaXddaOlv22zq2e7140f-IvEzEzcahoA3KeokLkuzgw2garvsz3L_eSp_GeZne1Cs6uZ8ST40rQ"
-published: 2025-04-10
-created: 2026-08-28
+type: Web
+authors: '[[Josh Meyer]]'
+url: >-
+  https://bloomerang.com/blog/volunteer-recruitment-plan?utm_medium=email&utm_source=marketo&utm_campaign=26Q3_EN1_FNL_in-bloom&utm_targeting=NA_all&utm_content=blog_volunteer-recruitment_email-08-28&mkt_tok=NjE4LVdHSS00NTkAAAGj6Lo--25H61tM3QNWQo6hBr8yyrwwZRWZHw6CEaXddaOlv22zq2e7140f-IvEzEzcahoA3KeokLkuzgw2garvsz3L_eSp_GeZne1Cs6uZ8ST40rQ
+published: 2025-04-10T00:00:00.000Z
+created: 2026-08-28T00:00:00.000Z
 tags:
+  - organizacje-społeczne
+  - fundraising
+  - strategia-organizacji
 ---
 
 

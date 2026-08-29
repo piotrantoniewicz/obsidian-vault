@@ -27,7 +27,34 @@ sources:
 
 Nazwa pliku: `YYYY-MM-DD Tytuł pojęcia.md` (np. `2026-06-03 Uczenie transferowe.md`).
 
-Sekcje treści: definicja (2–4 zdania własnymi słowami) → kluczowe mechanizmy / zasady → powiązane pojęcia (wikilinki) → zastosowanie w kontekście organizacji społecznych/AI/fundraising → otwarte pytania.
+Sekcje treści: definicja (2–4 zdania własnymi słowami) → kluczowe mechanizmy / zasady → **sprzeczności** (sekcja warunkowa) → powiązane pojęcia (wikilinki) → zastosowanie w kontekście organizacji społecznych → otwarte pytania.
+
+## Sekcja „Sprzeczności" (warunkowa, obowiązkowa gdy źródła się kłócą)
+
+Gdy nowe źródło kłóci się z tym, co strona już twierdzi — inna liczba, przeciwny wniosek, nowsze badanie obalające starsze — konflikt **zostaje zapisany na stronie**, nie tylko w raporcie sesji. Sekcja `## Sprzeczności` stoi między „Kluczowe mechanizmy" a „Powiązane pojęcia". Zakładasz ją przy pierwszym konflikcie; strony bez konfliktów jej nie mają (pusty nagłówek = usterka do usunięcia).
+
+Format pozycji:
+
+```
+- **<nazwa sporu w 3–6 słowach>** [mech. N] — A: <teza z liczbą> ([[YYYY-MM-DD Źródło A|Źródło A]], rok, n=…, kontekst). B: <teza z liczbą> ([[YYYY-MM-DD Źródło B|Źródło B]], rok, n=…, kontekst). *Status: otwarte.*
+```
+
+- **Nie rozstrzygaj i nie uśredniaj** — ani „prawda leży pośrodku", ani ciche przyjęcie nowszej liczby. Zapisujesz obie wersje z metryczkami i zostawiasz decyzję człowiekowi.
+- **Nie nadpisuj mechanizmu**, z którym nowe źródło się kłóci (append, never overwrite) — sprzeczność jest komentarzem do mechanizmu, nie jego zamiennikiem.
+- **Metryczka po obu stronach:** źródło (wersja z `Resources/`), rok, n, kraj/rynek; brak którejś → napisz to wprost.
+- **Pozorny konflikt** (inna populacja, inna definicja metryki, inny rynek) to doprecyzowanie zakresu w mechanizmie, nie sprzeczność.
+- **Status zmienia wyłącznie człowiek:** `*Status: rozstrzygnięte RRRR-MM-DD — <co przyjęto i dlaczego>.*` Pozycji nie usuwaj — to ślad proweniencji.
+- Spór dotykający kilku stron zapisz na każdej z nich.
+
+## Test skali w dół (warunek wejścia do „Zastosowania")
+
+Jednostka odniesienia: organizacja **2–5 osób, bez działu IT, bez etatu prawnika, z bazą kilkuset kontaktów**. Każda rekomendacja w sekcji zastosowania niesie jedną z trzech odpowiedzi, wprost w tekście punktu:
+
+1. **działa w tej skali** — z nakładem lub narzędziem („arkusz i godzina miesięcznie");
+2. **działa od progu** — z nazwanym progiem lub warunkiem („od ~2000 adresów", „gdy ktoś odpowiada za CRM");
+3. **nie działa w tej skali** — z tańszym substytutem albo wskazaniem, z czego zrezygnować.
+
+Rekomendacja bez jednej z tych odpowiedzi nie wchodzi na stronę. Gdy źródła nie dają podstaw — napisz to w punkcie wprost, a pytanie o próg przenieś do „Otwartych pytań". Progu nigdy nie zmyślaj.
 
 ## Uzgadnianie liczników czerwonych linków (obowiązkowe po każdej zmianie w Galaxy/)
 

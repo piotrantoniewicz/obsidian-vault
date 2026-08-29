@@ -3,8 +3,8 @@ type: Web
 authors: ["[[Cheyenne Haslett]]", "[[Gabby Miller]]"]
 url: >-
   https://www.politico.com/news/2026/03/20/white-house-releases-ai-policy-blueprint-for-congress-00837354?utm_campaign=AI-Law-Eli&utm_content=288c1064b7f9dfcfb9a75573a41bac1a&utm_medium=email&utm_source=Robly.com
-published: 2026-03-20T00:00:00.000Z
-created: 2026-03-27T00:00:00.000Z
+published: 2026-03-20
+created: 2026-03-27
 tags:
   - strategia-AI
   - trendy-AI

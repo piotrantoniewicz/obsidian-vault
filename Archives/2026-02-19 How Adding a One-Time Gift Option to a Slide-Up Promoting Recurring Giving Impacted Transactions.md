@@ -3,8 +3,8 @@ type: Web
 authors: '[[Yanni Saratsis]]'
 url: >-
   https://www.nextafter.com/experiments/how-evaluating-the-impact-of-adding-a-one-time-gift-option-to-a-recurring-gift-slide-up-on-transaction-volume-2/?utm_medium=email&_hsenc=p2ANqtz--UPVXVnXc9HZwfpALHsNJqcwbOm70p4j0D7zhvg1xB4nQn2mLtJT70RK9ieCLEOBB7WiJyQbjwgRDHcCVy5cWFluFCDw&_hsmi=409974555&utm_content=409202864&utm_source=hs_email
-published: 2026-02-19T00:00:00.000Z
-created: 2026-04-13T00:00:00.000Z
+published: 2026-02-19
+created: 2026-04-13
 tags:
   - fundraising
   - digital-campaigning

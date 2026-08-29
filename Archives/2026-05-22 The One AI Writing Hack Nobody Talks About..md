@@ -2,8 +2,8 @@
 type: Web
 authors: '[[Nate B Jones]]'
 url: 'https://www.youtube.com/watch?v=ltbzgzZZmgI'
-published: 2026-05-22T00:00:00.000Z
-created: 2026-06-17T00:00:00.000Z
+published: 2026-05-22
+created: 2026-06-17
 tags:
   - context-engineering
   - narzędzia-AI

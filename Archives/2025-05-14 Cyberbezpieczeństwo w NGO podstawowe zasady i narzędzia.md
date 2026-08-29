@@ -3,8 +3,8 @@ type: Web
 authors: '[[ngo.pl]]'
 url: >-
   https://publicystyka.ngo.pl/cyberbezpieczenstwo-w-ngo-podstawowe-zasady-i-narzedzia-tau?utm_source=newsletter&utm_medium=email&utm_term=2026-03-24&utm_campaign=+Komu+ufa%C4%87+i+jakich+narz%C4%99dzi+u%C5%BCywa%C4%87+
-published: 2025-05-14T00:00:00.000Z
-created: 2026-03-24T00:00:00.000Z
+published: 2025-05-14
+created: 2026-03-24
 tags:
   - organizacje-społeczne
   - strategia-organizacji

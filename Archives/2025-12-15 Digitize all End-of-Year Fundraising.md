@@ -3,8 +3,8 @@ type: Web
 authors: '[[Digital Health Strategies]]'
 url: >-
   https://www.digitalhealthstrategies.com/case-study/geisinger-end-of-year-fundraising/
-published: 2026-12-15T00:00:00.000Z
-created: 2026-03-22T00:00:00.000Z
+published: 2026-12-15
+created: 2026-03-22
 tags:
   - fundraising
   - digital-campaigning

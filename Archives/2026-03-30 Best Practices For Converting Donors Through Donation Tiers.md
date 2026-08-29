@@ -3,8 +3,8 @@ type: Web
 authors: '[[Jenna Notarfrancesco]]'
 url: >-
   https://www.causevox.com/blog/best-practices-for-converting-donors-through-donation-tiers/?vgo_ee=mUxoXS0nbWWRsMHYiDCEM4W1muXyFRl%2B%2Fxdb3MuK%2BpEz77BDeTDrQJ6l%2BQ%3D%3D%3AW5Ga2J%2FP69tzOKwzRz19QnQV4iteHueP
-published: 2026-03-30T00:00:00.000Z
-created: 2026-04-11T00:00:00.000Z
+published: 2026-03-30
+created: 2026-04-11
 tags:
   - fundraising
   - digital-campaigning

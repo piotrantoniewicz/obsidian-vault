@@ -3,8 +3,8 @@ type: Web
 authors: '[[Ecojustice]]'
 url: >-
   https://ecojustice.ca/news/canadas-largest-pension-investment-manager-sued-over-alleged-climate-risk-mismanagement/
-published: 2025-10-27T00:00:00.000Z
-created: 2026-03-25T00:00:00.000Z
+published: 2025-10-27
+created: 2026-03-25
 tags:
   - organizacje-społeczne
 ---

@@ -3,8 +3,8 @@ type: Web
 authors: '[[Fast Forward]]'
 url: >-
   https://www.ffwd.org/blog/2025-HPE-accelerating-impact-campaign?utm_campaign=WGIT&utm_medium=email&_hsenc=p2ANqtz-9xl-8He5CaQTxxUfsPxWrdBEPZUjZX6-iIZOsCrm2Xa7PCvV1dYGOrCsVko2mgV8gvZwO4534MiuPjv38O0CBnJSkmDSFX4vKH_EJW3Ovz7ZGl-hw&_hsmi=16678947&utm_content=16678947&utm_source=hs_email
-published: 2025-10-29T00:00:00.000Z
-created: 2026-04-13T00:00:00.000Z
+published: 2025-10-29
+created: 2026-04-13
 tags:
   - fundraising
   - organizacje-społeczne

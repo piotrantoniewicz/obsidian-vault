@@ -3,8 +3,8 @@ type: Web
 authors: '[[Filip Żyro]]'
 url: >-
   https://sektor3-0.pl/blog/naucz-sie-pracowac-z-danymi-i-stan-sie-ekspertem-ktorego-potrzebuje-rynek/
-published: 2018-08-08T00:00:00.000Z
-created: 2026-03-24T00:00:00.000Z
+published: 2018-08-08
+created: 2026-03-24
 tags:
   - szkolenia-AI
   - narzędzia-AI

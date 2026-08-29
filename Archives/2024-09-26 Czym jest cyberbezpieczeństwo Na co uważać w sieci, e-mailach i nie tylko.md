@@ -2,8 +2,8 @@
 type: Web
 authors: '[[Filip Jędruch]]'
 url: 'https://sektor3-0.pl/blog/czym-jest-cyberbezpieczenstwo/'
-published: 2024-09-26T00:00:00.000Z
-created: 2026-03-24T00:00:00.000Z
+published: 2024-09-26
+created: 2026-03-24
 tags:
   - organizacje-społeczne
 ---

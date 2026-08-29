@@ -3,8 +3,8 @@ type: Web
 authors: '[[Kamil Śliwowski]]'
 url: >-
   https://sektor3-0.pl/blog/czy-wszyscy-bedziemy-pracowac-w-it-o-kompetencjach-ktorych-potrzebuja-nowoczesne-firmy-i-organizacje/
-published: 2022-05-11T00:00:00.000Z
-created: 2026-03-24T00:00:00.000Z
+published: 2022-05-11
+created: 2026-03-24
 tags:
   - szkolenia-AI
   - strategia-organizacji

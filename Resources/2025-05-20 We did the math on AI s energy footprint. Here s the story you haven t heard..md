@@ -4,8 +4,8 @@ authors:
   - "[[James O'Donnell]]"
 url: https://www.technologyreview.com/2025/05/20/1116327/ai-energy-usage-climate-footprint-big-tech
 source: "[[Resources/2025-05-20 We did the math on AI s energy footprint. Here s the story you haven t heard.]]"
-published: 2025-05-20T00:00:00.000Z
-created: 2026-03-19T00:00:00.000Z
+published: 2025-05-20
+created: 2026-03-19
 relevance: wysoka
 tags:
   - strategia-AI

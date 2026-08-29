@@ -2,8 +2,8 @@
 type: Web
 authors: '[[Madison Barefield]]'
 url: 'https://www.causevox.com/blog/ai-and-search-discoverability-for-nonprofits/'
-published: 2026-01-28T00:00:00.000Z
-created: 2026-04-22T00:00:00.000Z
+published: 2026-01-28
+created: 2026-04-22
 tags:
   - strategia-AI
   - content-marketing

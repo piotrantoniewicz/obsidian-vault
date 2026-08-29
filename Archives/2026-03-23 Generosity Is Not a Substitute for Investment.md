@@ -3,8 +3,8 @@ type: Web
 authors: '[[Meenakshi Das]]'
 url: >-
   https://www.linkedin.com/pulse/generosity-substitute-investment-meenakshi-meena-das-xehfc/
-published: 2026-03-23T00:00:00.000Z
-created: 2026-04-13T00:00:00.000Z
+published: 2026-03-23
+created: 2026-04-13
 tags:
   - strategia-AI
   - organizacje-społeczne

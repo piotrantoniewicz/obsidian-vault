@@ -3,8 +3,8 @@ type: Web
 authors: '[[Dennis Fois]]'
 url: >-
   https://bloomerang.com/blog/ai-strategy-nonprofits?utm_medium=email&utm_source=marketo&utm_campaign=26Q3_EN1_FNL_in-bloom&utm_targeting=NA_all&utm_content=blog_reshaping_email-08-14&mkt_tok=NjE4LVdHSS00NTkAAAGjoKEBOaKH6TRUCSEKeouaWmUWJ_Ih9eM2zDhP7gUo2_YD8OfPB7M3nXodhjoJV3D1XXS7n3mxt8cdxRhPX5owIv2r8Bj4K03AAzj2oSluaJDicBM
-published: 2026-08-05T00:00:00.000Z
-created: 2026-08-18T00:00:00.000Z
+published: 2026-08-05
+created: 2026-08-18
 tags:
   - fundraising
   - strategia-AI

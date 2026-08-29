@@ -3,8 +3,8 @@ type: Web
 authors: '[[Ken Davenport]]'
 url: >-
   https://www.linkedin.com/pulse/ai-coming-your-nonprofit-ken-davenport-runjc/?trackingId=PplOUyxliysClGuywtqNAg%3D%3D
-published: 2026-03-11T00:00:00.000Z
-created: 2026-03-31T00:00:00.000Z
+published: 2026-03-11
+created: 2026-03-31
 tags:
   - strategia-AI
   - organizacje-społeczne

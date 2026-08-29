@@ -3,8 +3,8 @@ type: Web
 authors: '[[Mina Kim]]'
 url: >-
   https://www.kqed.org/forum/2010101910972/inside-the-democrats-campaign-spam-machine?utm_medium=email&_hsenc=p2ANqtz-8TqXmrISbulYuqR0RL-t03VL_SIZ1gKZY_BfUPHLBocbGj8hhoC-v4WRoQHP6F8FGKViBKWENeiJAZyOGDrRx9BWomzYXo6OE7_4G-CSIGEVcH6Uc&_hsmi=116225096&utm_content=116225096&utm_source=hs_email
-published: 2025-08-20T00:00:00.000Z
-created: 2026-03-19T00:00:00.000Z
+published: 2025-08-20
+created: 2026-03-19
 tags:
   - digital-campaigning
   - fundraising

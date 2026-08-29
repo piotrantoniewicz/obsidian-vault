@@ -3,8 +3,8 @@ type: Web
 authors: '[[Kasia Krzywicka]]'
 url: >-
   https://krzywicka.pl/ai-act-i-rodo-przewodnik-po-regulacjach-prawnych-wokol-ai/?utm_source=ActiveCampaign&utm_medium=email&utm_content=AI%20w%20firmie%20bez%20zb%C4%99dnego%20hype%20u%20-%20praktyczne%20zastosowania&utm_campaign=AI%20dla%20firm%20-%20Mail%201
-published: 2025-09-02T00:00:00.000Z
-created: 2026-03-24T00:00:00.000Z
+published: 2025-09-02
+created: 2026-03-24
 tags:
   - strategia-AI
   - organizacje-społeczne

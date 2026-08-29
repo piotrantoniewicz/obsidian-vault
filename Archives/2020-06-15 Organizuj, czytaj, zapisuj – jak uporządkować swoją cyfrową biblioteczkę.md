@@ -3,8 +3,8 @@ type: Web
 authors: '[[Kamil Śliwowski]]'
 url: >-
   https://sektor3-0.pl/blog/organizuj-czytaj-zapisuj-jak-uporzadkowac-swoja-cyfrowa-biblioteczke/
-published: 2020-06-15T00:00:00.000Z
-created: 2026-03-24T00:00:00.000Z
+published: 2020-06-15
+created: 2026-03-24
 tags:
   - produkty-cyfrowe
 ---

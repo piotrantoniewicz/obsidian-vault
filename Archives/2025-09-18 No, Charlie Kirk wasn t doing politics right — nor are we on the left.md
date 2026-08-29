@@ -3,8 +3,8 @@ type: Web
 authors: '[[Tectonica Digital Campaign Solutions]]'
 url: >-
   https://www.tectonica.co/posts/charlie-kirk-was-not-doing-politics-right-nor-we-on-the-left?utm_medium=email&_hsenc=p2ANqtz-_rgZs_ybRf0yyOVqaflaX_vgvU3t5n6GmLMkW_PqZzIVUK9dhTzWCwWJ69ONs1jakAk059VKGGvRKGfNLp2x1x_iB7bxYjRQI6O5mOut3TO_-esxU&_hsmi=117692597&utm_content=117692597&utm_source=hs_email
-published: 2025-09-18T00:00:00.000Z
-created: 2026-03-20T00:00:00.000Z
+published: 2025-09-18
+created: 2026-03-20
 tags:
   - framing
   - digital-campaigning

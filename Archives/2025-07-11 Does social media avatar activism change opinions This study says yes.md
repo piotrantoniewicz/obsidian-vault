@@ -3,8 +3,8 @@ type: Web
 authors: '[[Hunter Schwarz]]'
 url: >-
   https://www.yellopolitics.com/p/does-social-media-avatar-activism?utm_medium=email
-published: 2025-07-11T00:00:00.000Z
-created: 2026-03-25T00:00:00.000Z
+published: 2025-07-11
+created: 2026-03-25
 tags:
   - digital-campaigning
   - framing

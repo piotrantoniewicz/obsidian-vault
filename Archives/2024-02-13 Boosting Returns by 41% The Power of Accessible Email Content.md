@@ -4,8 +4,8 @@ authors:
   - "[[James Buo]]"
   - "[[Melanie Buck]]"
 url: https://crometrics.com/blog/boosting-returns-by-41-percent-the-power-of-accessible-email-content/?utm_source=www.civicshoutnewsletter.com&utm_medium=newsletter&utm_campaign=is-your-email-design-ghosting-readers&_bhlid=59a259364f18681d9b6f7b9f69027794fd6f3b92
-published: 2024-02-13T00:00:00.000Z
-created: 2026-03-04T00:00:00.000Z
+published: 2024-02-13
+created: 2026-03-04
 tags:
   - fundraising
   - digital-campaigning

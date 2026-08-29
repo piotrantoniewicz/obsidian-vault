@@ -2,8 +2,8 @@
 type: Web
 authors: "[[Harry Booth]]"
 url: https://time.com/7290554/yoshua-bengio-launches-lawzero-for-safer-ai/?utm_source=substack&utm_medium=email
-published: 2025-06-03T00:00:00.000Z
-created: 2026-03-02T00:00:00.000Z
+published: 2025-06-03
+created: 2026-03-02
 tags:
   - strategia-AI
   - trendy-AI

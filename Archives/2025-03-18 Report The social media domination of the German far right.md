@@ -3,8 +3,8 @@ type: Web
 authors: '[[Adrien Beauduin]]'
 url: >-
   https://www.centerfordigitalaction.eu/post/report-the-social-media-domination-of-the-german-far-right?link_id=2&can_id=32cae499f95a9349c734a72403321b9c&source=email-your-supporters-matter-more-than-your-organization-really&email_referrer=email_2661801&email_subject=how-do-you-get-people-under-30-to-donate&&
-published: 2025-03-18T00:00:00.000Z
-created: 2026-04-05T00:00:00.000Z
+published: 2025-03-18
+created: 2026-04-05
 tags:
   - digital-campaigning
   - content-marketing

@@ -4,8 +4,8 @@ authors:
   - "[[Adam Bonica]]"
 url: https://data4democracy.substack.com/p/the-mothership-vortex-a-quick-update
 source: "[[2025-08-12 The Mothership Vortex A Quick Update]]"
-published: 2025-08-12T00:00:00.000Z
-created: 2026-03-19T00:00:00.000Z
+published: 2025-08-12
+created: 2026-03-19
 relevance: średnia
 tags:
   - digital-campaigning

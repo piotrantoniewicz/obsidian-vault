@@ -3,8 +3,8 @@ type: Web
 authors: "[[Chris Doan]]"
 url: >-
   https://blog.google/products-and-platforms/products/gmail/one-stop-purchase-tracking-in-gmail/
-published: 2025-09-11T00:00:00.000Z
-created: 2026-03-09T00:00:00.000Z
+published: 2025-09-11
+created: 2026-03-09
 tags:
   - digital-campaigning
 ---

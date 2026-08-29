@@ -3,8 +3,8 @@ type: Web
 authors: '[[ngo.pl]]'
 url: >-
   https://publicystyka.ngo.pl/sztuczna-inteligencja-w-ngo-jak-wprowadzac-ai-w-zgodzie-z-wartosciami-i-misja-organizacji-tau?utm_source=newsletter&utm_medium=email&utm_term=2026-03-24&utm_campaign=+Automatyzacja+w+NGO+krok+po+kroku
-published: 2025-10-29T00:00:00.000Z
-created: 2026-03-24T00:00:00.000Z
+published: 2025-10-29
+created: 2026-03-24
 tags:
   - strategia-AI
   - organizacje-społeczne

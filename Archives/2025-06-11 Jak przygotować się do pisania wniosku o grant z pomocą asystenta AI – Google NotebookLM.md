@@ -3,8 +3,8 @@ type: Web
 authors: '[[ngo.pl]]'
 url: >-
   https://publicystyka.ngo.pl/jak-przygotowac-sie-do-pisania-wniosku-o-grant-z-pomoca-asystenta-ai-google-notebooklm-tau?utm_source=newsletter&utm_medium=email&utm_term=2026-03-24&utm_campaign=8+sposob%C3%B3w+na+promocj%C4%99+wydarzenia+
-published: 2025-06-11T00:00:00.000Z
-created: 2026-03-24T00:00:00.000Z
+published: 2025-06-11
+created: 2026-03-24
 tags:
   - fundraising
   - narzędzia-AI

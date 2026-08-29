@@ -3,8 +3,8 @@ type: Web
 authors: '[[Jason Lewis]]'
 url: >-
   https://www.philanthropy.com/opinion/direct-mail-donors-citizens/?link_id=14&can_id=32cae499f95a9349c734a72403321b9c&source=email-learning-from-polands-far-right&email_referrer=email_2760069&email_subject=what-are-ads-good-for
-published: 2025-05-21T00:00:00.000Z
-created: 2026-04-05T00:00:00.000Z
+published: 2025-05-21
+created: 2026-04-05
 tags:
   - fundraising
   - organizacje-społeczne

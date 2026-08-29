@@ -3,8 +3,8 @@ type: Web
 authors: ["[[Hannah Smith]]", "[[Chris Adams]]"]
 url: >-
   https://www.thegreenwebfoundation.org/publications/report-ai-environmental-impact/
-published: 2024-09-04T00:00:00.000Z
-created: 2026-03-25T00:00:00.000Z
+published: 2024-09-04
+created: 2026-03-25
 tags:
   - strategia-AI
   - organizacje-społeczne

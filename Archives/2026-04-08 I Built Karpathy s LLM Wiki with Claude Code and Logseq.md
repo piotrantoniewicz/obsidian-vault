@@ -2,8 +2,8 @@
 type: Web
 authors: '[[Mehmet Gökçe]]'
 url: 'https://mehmetgoekce.substack.com/p/i-built-karpathys-llm-wiki-with-claude'
-published: 2026-04-08T00:00:00.000Z
-created: 2026-04-19T00:00:00.000Z
+published: 2026-04-08
+created: 2026-04-19
 tags:
   - narzędzia-AI
   - context-engineering

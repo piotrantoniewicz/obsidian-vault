@@ -3,8 +3,8 @@ type: Web
 authors: '[[Madison Gonzalez]]'
 url: >-
   https://kindful.com/blog/fundraising-basics-understanding-the-donor-cultivation-cycle/
-published: 2022-01-04T00:00:00.000Z
-created: 2026-04-23T00:00:00.000Z
+published: 2022-01-04
+created: 2026-04-23
 tags:
   - fundraising
   - strategia-organizacji

@@ -4,8 +4,8 @@ authors:
   - "[[Sara]]"
   - "[[Civic Shout Newsletter]]"
 url: https://www.civicshoutnewsletter.com/p/vanity-metrics-need-to-go-what-really-matters-in-your-email-program?utm_source=www.civicshoutnewsletter.com&utm_medium=newsletter&utm_campaign=and-so-it-began
-published: 2025-07-25T00:00:00.000Z
-created: 2026-03-04T00:00:00.000Z
+published: 2025-07-25
+created: 2026-03-04
 tags:
   - digital-campaigning
   - fundraising

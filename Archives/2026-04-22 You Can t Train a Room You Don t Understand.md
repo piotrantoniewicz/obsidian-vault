@@ -2,8 +2,8 @@
 type: Web
 authors: '[[Kyle Behrend]]'
 url: 'https://kylebehrend.substack.com/p/you-cant-train-a-room-you-dont-understand'
-published: 2026-04-22T00:00:00.000Z
-created: 2026-04-22T00:00:00.000Z
+published: 2026-04-22
+created: 2026-04-22
 tags:
   - szkolenia-AI
   - organizacje-społeczne

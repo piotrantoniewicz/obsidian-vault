@@ -2,8 +2,8 @@
 type: Web
 authors: '[[Thomas Coombes]]'
 url: 'https://hopebased.substack.com/p/coming-soon'
-published: 2022-11-02T00:00:00.000Z
-created: 2026-03-19T00:00:00.000Z
+published: 2022-11-02
+created: 2026-03-19
 tags:
   - framing
   - digital-campaigning

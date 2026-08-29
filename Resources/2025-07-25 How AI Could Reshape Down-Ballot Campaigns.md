@@ -4,8 +4,8 @@ authors:
   - "[[Max Greenwood]]"
 url: https://campaignsandelections.com/industry-news/how-ai-could-reshape-down-ballot-campaigns/
 source: "[[2025-07-25 How AI Could Reshape Down-Ballot Campaigns]]"
-published: 2025-07-25T00:00:00.000Z
-created: 2026-03-19T00:00:00.000Z
+published: 2025-07-25
+created: 2026-03-19
 relevance: wysoka
 tags:
   - digital-campaigning

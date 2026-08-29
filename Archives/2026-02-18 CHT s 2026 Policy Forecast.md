@@ -3,8 +3,8 @@ type: Web
 authors: '[[Center for Humane Technology]]'
 url: >-
   https://centerforhumanetechnology.substack.com/p/chts-2026-policy-forecast?utm_medium=email&_hsenc=p2ANqtz-9dr8F5XWp-CHKNbtRe433UN0ZsXzTR4CMC6baDPw8_WR8mXZaf5-cna0MVB0EG49IIIk2Jbcpa5le1qHTGolZSaFIsRkPRereYnXpWBVomoaySi9k&_hsmi=130757149&utm_content=130757149&utm_source=hs_email
-published: 2026-02-18T00:00:00.000Z
-created: 2026-03-20T00:00:00.000Z
+published: 2026-02-18
+created: 2026-03-20
 tags:
   - trendy-AI
   - strategia-AI

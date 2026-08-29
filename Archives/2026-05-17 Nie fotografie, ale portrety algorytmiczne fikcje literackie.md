@@ -3,8 +3,8 @@ type: Web
 authors: '[[Marcin Wilkowski]]'
 url: >-
   https://blog.humanistyka.dev/2026/05/nie-fotografie-ale-portrety-algorytmiczne-fikcje-literackie?utm_source=newsletter&utm_medium=email&utm_term=2026-06-14&utm_campaign=Zapraszamy+do+s%C5%82uchania+naszego+podkastu+Pisanie+zdystansowane+300+tys+nowych+tytu%C5%82%C3%B3w+miesi%C4%99cznie+Algorytmiczne+fikcje+literackie+25+bada%C5%84+na+25-lecie+Wikipedii
-published: 2026-05-17T00:00:00.000Z
-created: 2026-06-14T00:00:00.000Z
+published: 2026-05-17
+created: 2026-06-14
 tags:
   - LLM
   - trendy-AI

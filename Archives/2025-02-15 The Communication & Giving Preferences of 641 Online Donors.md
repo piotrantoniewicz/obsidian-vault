@@ -2,8 +2,8 @@
 type: Web
 authors: "[[Heather Mansfield]]"
 url: https://www.nptechforgood.com/2025/02/15/the-communication-giving-preferences-of-641-online-donors/
-published: 2025-02-15T00:00:00.000Z
-created: 2026-03-04T00:00:00.000Z
+published: 2025-02-15
+created: 2026-03-04
 tags:
   - fundraising
   - digital-campaigning

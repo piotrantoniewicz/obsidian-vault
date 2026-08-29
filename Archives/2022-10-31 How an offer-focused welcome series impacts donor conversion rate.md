@@ -3,8 +3,8 @@ type: Web
 authors: '[[Greg Colunga]]'
 url: >-
   https://www.nextafter.com/experiments/how-an-offer-focused-welcome-series-impacts-donor-conversion-rate-3/?utm_source=www.civicshoutnewsletter.com&utm_medium=newsletter&utm_campaign=the-25-donors-who-became-25k-donors&_bhlid=28cd387777cae46f2c6856dd732e367fae43d7a7
-published: 2022-10-31T00:00:00.000Z
-created: 2026-03-22T00:00:00.000Z
+published: 2022-10-31
+created: 2026-03-22
 tags:
   - fundraising
   - digital-campaigning

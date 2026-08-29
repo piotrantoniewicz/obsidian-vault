@@ -3,8 +3,8 @@ type: Web
 authors: '[[ngo.pl]]'
 url: >-
   https://publicystyka.ngo.pl/mierzenie-czasu-pracy-wnioski-po-5-latach-tau?utm_source=newsletter&utm_medium=email&utm_term=2026-03-24&utm_campaign=+Jak+zbiera%C4%87+1+5+podatku+10+rad+ekspert%C3%B3w
-published: 2025-02-05T00:00:00.000Z
-created: 2026-03-24T00:00:00.000Z
+published: 2025-02-05
+created: 2026-03-24
 tags:
   - strategia-organizacji
   - organizacje-społeczne

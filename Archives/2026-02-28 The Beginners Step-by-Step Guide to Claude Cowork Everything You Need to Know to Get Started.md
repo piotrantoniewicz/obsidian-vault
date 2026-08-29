@@ -2,8 +2,8 @@
 type: Web
 authors: "[[Iseunife The First]]"
 url: 'https://x.com/Shawnife/status/2027652088163922184'
-published: 2026-02-28T00:00:00.000Z
-created: 2026-03-07T00:00:00.000Z
+published: 2026-02-28
+created: 2026-03-07
 tags:
   - narzędzia-AI
   - strategia-AI

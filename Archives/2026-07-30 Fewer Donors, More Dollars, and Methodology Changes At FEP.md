@@ -3,8 +3,8 @@ type: Web
 authors: '[[Richard H. Levey]]'
 url: >-
   https://thenonprofittimes.com/npt_articles/fewer-donors-more-dollars-and-methodology-changes-at-fep/
-published: 2026-07-30T00:00:00.000Z
-created: 2026-08-13T00:00:00.000Z
+published: 2026-07-30
+created: 2026-08-13
 tags:
   - fundraising
   - strategia-organizacji

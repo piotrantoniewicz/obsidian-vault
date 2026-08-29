@@ -2,8 +2,8 @@
 type: Web
 authors: "[[MacArthur Foundation]]"
 url: https://www.macfound.org/press/perspectives/creativity-and-learning-with-ai?utm_medium=email&_hsenc=p2ANqtz-_kJHzAgOC2FbpsKIASwQQWrmtI0l8sb14zoySMo_WRA045MQoziO1-6ueJePoathvcVJqHx1c3bfszfunzG2sq1f5nfbwtFOWsLMASa4c_8j92Y9k&_hsmi=130757149&utm_content=130757149&utm_source=hs_email
-published: 2026-02-12T00:00:00.000Z
-created: 2026-03-20T00:00:00.000Z
+published: 2026-02-12
+created: 2026-03-20
 tags:
   - strategia-AI
   - narzędzia-AI

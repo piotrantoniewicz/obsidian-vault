@@ -2,8 +2,8 @@
 type: Web
 authors: "[[Ecomail.pl]]"
 url: https://ecomail.pl/blog/pl/lipiec-mailingowe-podsumowanie-miesiaca/?utm_source=ecomail&utm_medium=email&utm_campaign=2025_30_MPM_lipiec&ecmid=9813&utm_term=15545
-published: 2025-07-21T00:00:00.000Z
-created: 2026-03-02T00:00:00.000Z
+published: 2025-07-21
+created: 2026-03-02
 tags:
   - digital-campaigning
 ---

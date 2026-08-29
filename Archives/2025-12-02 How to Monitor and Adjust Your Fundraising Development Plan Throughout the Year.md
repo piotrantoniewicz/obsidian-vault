@@ -2,8 +2,8 @@
 type: Web
 authors: '[[CauseVox]]'
 url: 'https://www.causevox.com/blog/fundraising-development-plan/'
-published: 2025-12-02T00:00:00.000Z
-created: 2026-04-22T00:00:00.000Z
+published: 2025-12-02
+created: 2026-04-22
 tags:
   - fundraising
   - strategia-organizacji

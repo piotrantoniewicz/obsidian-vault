@@ -2,8 +2,8 @@
 type: Web
 authors:
 url: https://www.forbes.com/councils/forbesnonprofitcouncil/2026/02/26/how-nonprofits-can-balance-technology-adoption-with-donor-trust/
-published: 2026-02-26T00:00:00.000Z
-created: 2026-03-16T00:00:00.000Z
+published: 2026-02-26
+created: 2026-03-16
 tags:
   - strategia-AI
   - organizacje-społeczne

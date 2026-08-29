@@ -2,8 +2,8 @@
 type: Web
 authors: "[[Tectonica Digital Campaign Solutions]]"
 url: https://www.tectonica.co/posts/from-seo-to-geo
-published: 2025-08-28T00:00:00.000Z
-created: 2026-03-19T00:00:00.000Z
+published: 2025-08-28
+created: 2026-03-19
 tags:
   - strategia-AI
   - digital-campaigning

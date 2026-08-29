@@ -3,8 +3,8 @@ type: Web
 authors: "[[Fundraising Regulator]]"
 url: >-
   https://www.fundraisingregulator.org.uk/about-fundraising/resources/guidance-using-artificial-intelligence-fundraising
-published: 2025-12-08T00:00:00.000Z
-created: 2026-03-11T00:00:00.000Z
+published: 2025-12-08
+created: 2026-03-11
 tags:
   - fundraising
   - narzędzia-AI

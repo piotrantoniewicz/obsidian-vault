@@ -3,8 +3,8 @@ type: Web
 authors: '[[Puneeth]]'
 url: >-
   https://techcommunity.microsoft.com/blog/microsoftdefenderforoffice365blog/strengthening-email-ecosystem-outlook%E2%80%99s-new-requirements-for-high%E2%80%90volume-senders/4399730?utm_source=www.civicshoutnewsletter.com&utm_medium=newsletter&utm_campaign=what-the-smartest-email-teams-are-acting-on-in-2026&_bhlid=2af911b30466dd40330690091c8b8c1d13d13bd8
-published: 2025-04-02T00:00:00.000Z
-created: 2026-03-20T00:00:00.000Z
+published: 2025-04-02
+created: 2026-03-20
 tags:
   - digital-campaigning
   - fundraising

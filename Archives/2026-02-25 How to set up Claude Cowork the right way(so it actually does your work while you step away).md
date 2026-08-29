@@ -2,8 +2,8 @@
 type: Web
 authors: "[[Nav Toor]]"
 url: 'https://x.com/heynavtoor/status/2026717574776631556'
-published: 2026-02-25T00:00:00.000Z
-created: 2026-03-07T00:00:00.000Z
+published: 2026-02-25
+created: 2026-03-07
 tags:
   - narzędzia-AI
   - automatyzacja

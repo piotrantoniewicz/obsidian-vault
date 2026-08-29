@@ -3,8 +3,8 @@ type: Web
 authors: '[[maxgreenwood]]'
 url: >-
   https://campaignsandelections.com/industry-news/report-urges-democrats-to-rethink-tech/?utm_medium=email&_hsenc=p2ANqtz--XTS3aQj5sFu17z0tKx5kykxwWdH0Am4_yIiVcuz3I6Ca4y0hM2Ql1NUCIIvkVUD0eSB7hRukAMapUVGMFxlqXG1eJDBjs0rfPdBxne1orV9ZhL8g&_hsmi=110762810&utm_content=110762810&utm_source=hs_email
-published: 2025-05-16T00:00:00.000Z
-created: 2026-03-19T00:00:00.000Z
+published: 2025-05-16
+created: 2026-03-19
 tags:
   - digital-campaigning
   - narzędzia-AI

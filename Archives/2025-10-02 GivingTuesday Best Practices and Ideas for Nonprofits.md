@@ -2,8 +2,8 @@
 type: Web
 authors: '[[Gia Chow]]'
 url: 'https://www.causevox.com/blog/giving-tuesday-best-practices-ideas/'
-published: 2025-10-02T00:00:00.000Z
-created: 2026-04-22T00:00:00.000Z
+published: 2025-10-02
+created: 2026-04-22
 tags:
   - fundraising
   - digital-campaigning

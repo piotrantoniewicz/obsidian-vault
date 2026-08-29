@@ -2,8 +2,8 @@
 type: Web
 authors: '[[NextAfter]]'
 url: 'https://www.youtube.com/watch?v=JyPLkmScysI'
-published: 2025-11-17T00:00:00.000Z
-created: 2026-04-30T00:00:00.000Z
+published: 2025-11-17
+created: 2026-04-30
 tags:
   - digital-campaigning
   - content-marketing

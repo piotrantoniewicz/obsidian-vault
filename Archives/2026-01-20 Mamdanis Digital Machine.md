@@ -6,8 +6,8 @@ authors:
   - "[[Erin O''Brien]]"
   - "[[Kate Aronoff]]"
 url: https://dissentmagazine.org/article/mamdanis-digital-machine/?utm_source=newsletter&utm_medium=email&utm_term=Mon+02+Mar+2026&utm_campaign=Do+Something+Anything+The+Hope+Dissent+Organic+Social+edition
-published: 2026-01-20T00:00:00.000Z
-created: 2026-03-02T00:00:00.000Z
+published: 2026-01-20
+created: 2026-03-02
 tags:
   - digital-campaigning
   - fundraising

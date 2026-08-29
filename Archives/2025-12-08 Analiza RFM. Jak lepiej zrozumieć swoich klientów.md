@@ -2,8 +2,8 @@
 type: Web
 authors: "[[Ecomail.pl]]"
 url: https://ecomail.pl/blog/pl/analiza-rfm-prosty-sposob-na-lepsze-zrozumienie-klientow/?utm_term=15545&utm_source=ecomail&ecmid=9813&utm_medium=email&utm_campaign=2025_50_RFM
-published: 2025-12-08T00:00:00.000Z
-created: 2026-03-02T00:00:00.000Z
+published: 2025-12-08
+created: 2026-03-02
 tags:
   - fundraising
   - digital-campaigning

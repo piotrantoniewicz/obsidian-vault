@@ -3,8 +3,8 @@ type: Web
 authors: '[[Lenny Rachitsky]]'
 url: >-
   https://www.lennysnewsletter.com/p/this-week-on-how-i-ai-how-webflows?utm_source=substack&utm_medium=email&utm_campaign=email-restack-comment&r=4zdnrk&triedRedirect=true
-published: 2025-12-29T00:00:00.000Z
-created: 2026-05-12T00:00:00.000Z
+published: 2025-12-29
+created: 2026-05-12
 tags:
   - narzędzia-AI
   - automatyzacja

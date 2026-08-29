@@ -3,8 +3,8 @@ type: Web
 authors: '[[Beth O''Malley]]'
 url: >-
   https://weareastral.co.uk/thevault/list-churn-is-normal-heres-how-to-measure-it-manage-it-and-stop-panicking-about-it?utm_medium=email&_hsenc=p2ANqtz--V-8i-1jLTjJPi3_iiXuw1Vn2ke5dZH8e7jqKLxMN86Uyd9T0eGbCmMJycx2i4oNUtP1O5B02ZLNjAms6MeB71jKyatGrFSd8KjJHEXrs7Gfs75GY&_hsmi=132947917&utm_content=132946496&utm_source=hs_email
-published: 2026-03-25T00:00:00.000Z
-created: 2026-04-13T00:00:00.000Z
+published: 2026-03-25
+created: 2026-04-13
 tags:
   - digital-campaigning
   - fundraising

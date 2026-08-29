@@ -4,7 +4,7 @@ authors: '[[Tectonica Digital Campaign Solutions]]'
 url: >-
   https://www.tectonica.co/posts/beyond-the-gen-ai-jargon?utm_medium=email&_hsenc=p2ANqtz-_MaMhg1ka6ZmbTbJpYW2mHTAY1H3XA-dEopqcDexCzuOR0b0Q57WgBsHYMEpZE4IpuRXKLW2gSIv_nvBmVuxL6SkEPFKbh3xwLznRLCgoDKIZlESc&_hsmi=114881976&utm_content=114881976&utm_source=hs_email
 published: '2025-08-07'
-created: 2026-03-19T00:00:00.000Z
+created: 2026-03-19
 tags:
   - narzędzia-AI
   - szkolenia-AI

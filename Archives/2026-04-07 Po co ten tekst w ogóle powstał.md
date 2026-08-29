@@ -3,8 +3,8 @@ type: Web
 authors: '[[Przemek Jurgiel-Zyla]]'
 url: >-
   https://www.linkedin.com/pulse/po-co-ten-tekst-w-og%C3%B3le-powsta%C5%82-przemek-jurgiel-zyla-fkkvf/
-published: 2026-04-07T00:00:00.000Z
-created: 2026-04-11T00:00:00.000Z
+published: 2026-04-07
+created: 2026-04-11
 tags:
   - strategia-AI
   - LLM

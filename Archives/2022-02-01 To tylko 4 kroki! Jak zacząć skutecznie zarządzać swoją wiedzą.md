@@ -3,8 +3,8 @@ type: Web
 authors: '[[Marzena Kacprowicz]]'
 url: >-
   https://sektor3-0.pl/blog/jak-zaczac-skutecznie-zarzadzac-swoja-wiedza-poradnik-w-4-krokach/
-published: 2022-02-01T00:00:00.000Z
-created: 2026-03-24T00:00:00.000Z
+published: 2022-02-01
+created: 2026-03-24
 tags:
   - strategia-organizacji
   - narzędzia-AI

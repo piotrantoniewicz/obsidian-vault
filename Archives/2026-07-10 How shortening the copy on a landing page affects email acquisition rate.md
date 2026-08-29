@@ -3,8 +3,8 @@ type: Web
 authors: '[[Tristan Amaya]]'
 url: >-
   https://www.nextafter.com/experiments/how-shortening-the-copy-on-a-landing-page-affects-email-acquisition-rate/?utm_medium=email&_hsenc=p2ANqtz-84GO7lpt7PNllqUzaSFCcA59pBkimFqe0V64PBAx5KWxddYn87cuw2ofo02p6aY41ztXGIYAhNmHJBq4sOw4m60K44VA&_hsmi=434646877&utm_content=433774972&utm_source=hs_email
-published: 2026-07-10T00:00:00.000Z
-created: 2026-08-25T00:00:00.000Z
+published: 2026-07-10
+created: 2026-08-25
 tags:
   - digital-campaigning
   - fundraising

@@ -3,8 +3,8 @@ type: Web
 authors: '[[Anthropic]]'
 url: >-
   https://www.anthropic.com/news/claude-for-nonprofits?utm_source=substack&utm_medium=email
-published: 2025-12-02T00:00:00.000Z
-created: 2026-03-28T00:00:00.000Z
+published: 2025-12-02
+created: 2026-03-28
 tags:
   - organizacje-społeczne
   - narzędzia-AI

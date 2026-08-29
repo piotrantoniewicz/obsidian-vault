@@ -2,8 +2,8 @@
 type: Web
 authors: "[[Venn Creative]]"
 url: https://climateoutreach.org/visualising-extreme-heat/
-published: 2024-08-27T00:00:00.000Z
-created: 2026-03-02T00:00:00.000Z
+published: 2024-08-27
+created: 2026-03-02
 tags:
   - framing
   - content-marketing

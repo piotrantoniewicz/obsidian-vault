@@ -2,8 +2,8 @@
 type: Web
 authors: '[[PR Smith Marketing]]'
 url: 'https://prsmith.org/sostac/'
-published: 2013-10-01T00:00:00.000Z
-created: 2026-03-25T00:00:00.000Z
+published: 2013-10-01
+created: 2026-03-25
 tags:
   - strategia-organizacji
   - content-marketing

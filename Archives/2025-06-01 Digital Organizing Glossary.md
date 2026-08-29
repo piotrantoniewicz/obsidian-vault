@@ -2,8 +2,8 @@
 type: Web
 authors: "[[ECDA]]"
 url: https://www.centerfordigitalaction.eu/toolbox/digital-organizing-basics/glossary?_hsmi=116225096&utm_source=hs_email&_hsenc=p2ANqtz-8Nc2yYYdkz7A5KTUNJdoFKcWCId5VmPdgUAZDU_Ner6F_a-e4UMI_wATqZz_iNY6Gw-lz_mDUspQegcYjhKco_fWBPm80nYs5Ka3iIdMYMfCvyGKM&utm_content=116225096&utm_medium=email
-published: 2025-06-01T00:00:00.000Z
-created: 2026-03-19T00:00:00.000Z
+published: 2025-06-01
+created: 2026-03-19
 tags:
   - digital-campaigning
   - fundraising

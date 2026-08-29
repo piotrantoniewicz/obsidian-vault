@@ -7,8 +7,8 @@ authors:
   - '[[Ekaterina Zhuravskaya]]'
 url: >-
   https://www.nature.com/articles/s41586-026-10098-2?link_id=20&can_id=32cae499f95a9349c734a72403321b9c&source=email-ditch-the-therapy-speak-start-winning-and-raising-money-2&email_referrer=email_3127152&email_subject=data-is-power-dont-waste-yours&&
-published: 2026-02-18T00:00:00.000Z
-created: 2026-04-06T00:00:00.000Z
+published: 2026-02-18
+created: 2026-04-06
 tags:
   - digital-campaigning
   - framing

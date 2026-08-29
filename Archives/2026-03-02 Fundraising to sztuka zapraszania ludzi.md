@@ -3,8 +3,8 @@ type: Web
 authors: '[[Magda Jabłońska]]'
 url: >-
   https://pomostmagazyn.org/ciezkie-tematy-bez-tabu/fundraising-to-sztuka-zapraszania-ludzi/
-published: 2026-03-02T00:00:00.000Z
-created: 2026-04-07T00:00:00.000Z
+published: 2026-03-02
+created: 2026-04-07
 tags:
   - fundraising
   - organizacje-społeczne

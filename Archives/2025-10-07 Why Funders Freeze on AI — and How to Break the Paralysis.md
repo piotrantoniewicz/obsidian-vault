@@ -3,8 +3,8 @@ type: Web
 authors: '[[Jared Chung]]'
 url: >-
   https://cep.org/blog/why-funders-freeze-on-ai-and-how-to-break-the-paralysis/?hss_channel=lcp-3597305&utm_campaign=132466404-2025%20AI%20for%20Humanity%20Report&utm_medium=social&_hsenc=p2ANqtz-9PaqdCDXfaPO68kYJFhDcm859nuRfbvOHNbzBjZEWgzbfGc2Sw5ro-wx6lfRru3zbRdmHzJ0Y8XJ0oL7vYppFbTN-i8fMwaiSfXSKxRsve52LitUw&_hsmi=16678947&utm_content=366364371&utm_source=linkedin
-published: 2025-10-07T00:00:00.000Z
-created: 2026-04-13T00:00:00.000Z
+published: 2025-10-07
+created: 2026-04-13
 tags:
   - fundraising
   - strategia-AI

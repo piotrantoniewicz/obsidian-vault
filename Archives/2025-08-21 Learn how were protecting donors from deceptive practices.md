@@ -2,8 +2,8 @@
 type: Web
 authors: "[[ActBlue]]"
 url: https://www.actblue.com/posts/actblue-takes-action-how-were-protecting-donors-from-deceptive-practices/?utm_source=www.civicshoutnewsletter.com&utm_medium=newsletter&utm_campaign=how-to-win-sms-even-when-ios-26-drops&_bhlid=588e5515f369827dad8f9c3545df04780235046a
-published: 2025-08-21T00:00:00.000Z
-created: 2026-03-04T00:00:00.000Z
+published: 2025-08-21
+created: 2026-03-04
 tags:
   - fundraising
   - digital-campaigning

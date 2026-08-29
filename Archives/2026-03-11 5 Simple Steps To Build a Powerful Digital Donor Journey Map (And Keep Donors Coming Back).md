@@ -3,8 +3,8 @@ type: Web
 authors: '[[Madison Barefield]]'
 url: >-
   https://www.causevox.com/blog/digital-donor-journey-map/?vgo_ee=HKWW%2FW%2FQVREANvqrL45AfTylUIliNLaN0PCrPUGHicyHrlaInK4J7T0ZdQ%3D%3D%3AaGoWR4%2F4oYRMbhwVSUTBTyY%2B4SFTJyAm
-published: 2026-03-11T00:00:00.000Z
-created: 2026-04-05T00:00:00.000Z
+published: 2026-03-11
+created: 2026-04-05
 tags:
   - fundraising
   - digital-campaigning

@@ -3,8 +3,8 @@ type: Web
 authors: '[[Socialroots]]'
 url: >-
   https://www.socialroots.io/self-organization-needs-activators-the-9-who-turn-networks-into-movements/
-published: 2025-06-06T00:00:00.000Z
-created: 2026-03-19T00:00:00.000Z
+published: 2025-06-06
+created: 2026-03-19
 tags:
   - organizacje-społeczne
   - strategia-organizacji

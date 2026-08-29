@@ -3,8 +3,8 @@ type: Web
 authors: '[[Partisan]]'
 url: >-
   https://hub.partisan.community/m/news/from-bots-to-weapons-of-mass-destruction/fbaf57ad-364d-4ba4-97f7-7908b9d41286
-published: 2026-03-30T00:00:00.000Z
-created: 2026-04-07T00:00:00.000Z
+published: 2026-03-30
+created: 2026-04-07
 tags:
   - digital-campaigning
   - trendy-AI

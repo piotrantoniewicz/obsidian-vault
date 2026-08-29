@@ -3,8 +3,8 @@ type: Web
 authors: '[[Bartłomiej Polakowski]]'
 url: >-
   https://sektor3-0.pl/blog/vibe-coding-programowanie-dla-wszystkich-jak-ngo-moga-tworzyc-wlasne-narzedzia-bez-znajomosci-kodu/?utm_source=newsletter&utm_medium=email&utm_term=2026-03-24&utm_campaign=+Jak+reklamowa%C4%87+organizacj%C4%99+na+FB+i+IG+
-published: 2025-11-18T00:00:00.000Z
-created: 2026-03-24T00:00:00.000Z
+published: 2025-11-18
+created: 2026-03-24
 tags:
   - vibe-coding
   - narzędzia-AI

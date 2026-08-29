@@ -2,8 +2,8 @@
 type: Web
 authors: '[[Kasia Krzywicka]]'
 url: 'https://www.youtube.com/watch?v=ea-6NNHylhk'
-published: 2026-02-07T00:00:00.000Z
-created: 2026-04-22T00:00:00.000Z
+published: 2026-02-07
+created: 2026-04-22
 tags:
   - strategia-AI
   - strategia-organizacji

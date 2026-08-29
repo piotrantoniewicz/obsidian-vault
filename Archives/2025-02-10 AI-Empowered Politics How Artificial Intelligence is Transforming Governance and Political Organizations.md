@@ -3,7 +3,7 @@ type: Web
 authors: "[[Mathias Lipp-Rosenthal]]"
 url: https://www.linkedin.com/pulse/ai-empowered-politics-how-artificial-intelligence-governance-lipp-9cdbf/
 published: 2025-02-10
-created: 2026-03-19T00:00:00.000Z
+created: 2026-03-19
 tags:
   - strategia-AI
   - digital-campaigning

@@ -3,8 +3,8 @@ type: Web
 authors: '[[Hamza Farooq]]'
 url: >-
   https://www.lennysnewsletter.com/p/not-all-ai-agents-are-created-equal?utm_campaign=email-post&r=4zdnrk
-published: 2026-04-14T00:00:00.000Z
-created: 2026-04-14T00:00:00.000Z
+published: 2026-04-14
+created: 2026-04-14
 tags:
   - automatyzacja
   - strategia-AI

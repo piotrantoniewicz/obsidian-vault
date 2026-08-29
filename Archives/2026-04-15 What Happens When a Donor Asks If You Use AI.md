@@ -3,8 +3,8 @@ type: Web
 authors: '[[Kyle Behrend]]'
 url: >-
   https://kylebehrend.substack.com/p/what-happens-when-a-donor-asks-if?r=62y3&utm_campaign=post&utm_medium=web&triedRedirect=true
-published: 2026-04-15T00:00:00.000Z
-created: 2026-04-15T00:00:00.000Z
+published: 2026-04-15
+created: 2026-04-15
 tags:
   - fundraising
   - strategia-AI

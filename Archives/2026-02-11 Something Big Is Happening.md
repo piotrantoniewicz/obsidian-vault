@@ -2,8 +2,8 @@
 type: Web
 authors: '[[Matt Shumer]]'
 url: 'https://www.linkedin.com/pulse/something-big-happening-matt-shumer-so5he/'
-published: 2026-02-11T00:00:00.000Z
-created: 2026-03-23T00:00:00.000Z
+published: 2026-02-11
+created: 2026-03-23
 tags:
   - trendy-AI
   - strategia-AI

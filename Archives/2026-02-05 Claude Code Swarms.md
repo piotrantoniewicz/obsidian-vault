@@ -2,8 +2,8 @@
 type: Web
 authors: '[[Addy Osmani]]'
 url: 'https://addyosmani.com/blog/claude-code-agent-teams/'
-published: 2026-02-05T00:00:00.000Z
-created: 2026-04-19T00:00:00.000Z
+published: 2026-02-05
+created: 2026-04-19
 tags:
   - narzędzia-AI
   - automatyzacja

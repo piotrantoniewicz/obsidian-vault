@@ -3,8 +3,8 @@ type: Web
 authors: '[[Bryan Neider]]'
 url: >-
   https://www.linkedin.com/pulse/superintelligence-social-contract-we-lead-led-bryan-neider-luwec/
-published: 2026-04-08T00:00:00.000Z
-created: 2026-04-11T00:00:00.000Z
+published: 2026-04-08
+created: 2026-04-11
 tags:
   - strategia-AI
   - organizacje-społeczne

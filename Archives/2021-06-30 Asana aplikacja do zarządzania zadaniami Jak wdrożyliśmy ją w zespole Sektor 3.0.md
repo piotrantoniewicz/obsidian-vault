@@ -3,8 +3,8 @@ type: Web
 authors: '[[Barbara Ciach]]'
 url: >-
   https://sektor3-0.pl/blog/jak-efektywnie-wdrozyc-asane-w-zespole-dowiedz-sie-jak-zrobilismy-to-w-sektor-3-0/
-published: 2021-06-30T00:00:00.000Z
-created: 2026-03-24T00:00:00.000Z
+published: 2021-06-30
+created: 2026-03-24
 tags:
   - organizacje-społeczne
   - strategia-organizacji

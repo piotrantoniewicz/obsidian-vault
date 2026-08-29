@@ -3,8 +3,8 @@ type: Web
 authors: '[[Adam Bonica]]'
 url: >-
   https://data4democracy.substack.com/p/the-mothership-vortex-an-investigation?utm_medium=email&_hsenc=p2ANqtz-861itxo5o6AFEOVlgRA2g4dxgFUFuaSTKmm2W4kPfS9Btfm3MKgQJHGxIwrUB9KWrpMCpR09_mTF1m75QqXTgWqccIqvPo8L0lv-0oDQ17AqJHS-E&_hsmi=114881976&utm_content=114881976&utm_source=hs_email
-published: 2025-08-03T00:00:00.000Z
-created: 2026-03-19T00:00:00.000Z
+published: 2025-08-03
+created: 2026-03-19
 tags:
   - digital-campaigning
   - fundraising

@@ -3,8 +3,8 @@ type: Web
 authors: '[[Paulina Dalka-Kubaczyk]]'
 url: >-
   https://haimagazine.com/pl/ai_praktyka/sztuczna-inteligencja-linkedin/?utm_source=chatgpt.com&utm_source=ActiveCampaign&utm_medium=email&utm_content=Marka%20osobista%20to%20Twoja%20wizyt%C3%B3wka&utm_campaign=Personal%20Branding%20z%20AI%20%7C%2028%2008
-published: 2025-08-18T00:00:00.000Z
-created: 2026-03-24T00:00:00.000Z
+published: 2025-08-18
+created: 2026-03-24
 tags:
   - ghostwriting
   - content-marketing

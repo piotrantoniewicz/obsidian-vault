@@ -3,8 +3,8 @@ type: Web
 authors: '[[Julien Vincent]]'
 url: >-
   https://ahns.substack.com/p/positive-v-negative-campaign-strategy?utm_medium=email&_hsenc=p2ANqtz-8hQt83qZxM6G0ppEupKGsVSkwL56QqkEU1HQTlXtSZc3RUUtiJJFjcUH1LcaeX-bppuTIsyaCZNDaiDrxGV6wJwFYlCgjz1bZyWYiJf4x9uvE1DMM&_hsmi=112708171&utm_content=112708171&utm_source=hs_email
-published: 2025-06-24T00:00:00.000Z
-created: 2026-03-19T00:00:00.000Z
+published: 2025-06-24
+created: 2026-03-19
 tags:
   - digital-campaigning
   - strategia-organizacji

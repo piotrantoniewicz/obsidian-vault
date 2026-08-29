@@ -3,8 +3,8 @@ type: Web
 authors: '[[Jeff Giddens]]'
 url: >-
   https://www.nextafter.com/experiments/how-removing-a-form-disclaimer-from-a-content-offer-landing-page-impacts-sign-up-rate/?utm_medium=email&_hsenc=p2ANqtz-84qKwNmHvBJNsTKBGjUHdZsLxMAAGwD16tiKBuD6rncmeaRhZnBU-N0UTZGHgcmPbGQW44g3ZvvAPW3jD7gymsfAMbgg&_hsmi=411185306&utm_content=409213919&utm_source=hs_email
-published: 2026-03-06T00:00:00.000Z
-created: 2026-04-13T00:00:00.000Z
+published: 2026-03-06
+created: 2026-04-13
 tags:
   - fundraising
   - digital-campaigning

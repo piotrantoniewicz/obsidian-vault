@@ -2,8 +2,8 @@
 type: Web
 authors:
 url: https://www.goldmansachs.com/insights/articles/how-will-ai-affect-the-global-workforce?utm_source=aiwithallie.beehiiv.com&utm_medium=newsletter&utm_campaign=2025-11-07-workshop_email1_-segment4&_bhlid=a2b14bd845ae5995cdec4337111c17ff2b20b1b7
-published: 2025-08-13T00:00:00.000Z
-created: 2026-03-04T00:00:00.000Z
+published: 2025-08-13
+created: 2026-03-04
 tags:
   - trendy-AI
   - szkolenia-AI

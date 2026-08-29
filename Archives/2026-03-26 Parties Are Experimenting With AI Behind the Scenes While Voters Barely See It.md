@@ -3,8 +3,8 @@ type: Web
 authors: '[[Jaroslav Poláček]]'
 url: >-
   https://partisan.community/blog/parties-are-experimenting-with-ai-behind-the-scenes-while-voters-barely-see-it
-published: null
-created: 2026-03-26T00:00:00.000Z
+published:
+created: 2026-03-26
 tags:
   - digital-campaigning
   - trendy-AI

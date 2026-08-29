@@ -3,8 +3,8 @@ type: Web
 authors: '[[Roshan Abraham]]'
 url: >-
   https://www.404media.co/a-black-hole-of-energy-use-metas-massive-ai-data-center-is-stressing-out-a-louisiana-community/
-published: 2025-06-23T00:00:00.000Z
-created: 2026-03-25T00:00:00.000Z
+published: 2025-06-23
+created: 2026-03-25
 tags:
   - trendy-AI
   - organizacje-społeczne

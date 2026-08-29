@@ -6,7 +6,7 @@ authors:
   - "[[Fernando Petroli]]"
 url: https://www.tectonica.co/posts/beyond-the-gen-ai-jargon
 source: "[[Archives/2025-08-07 Beyond the Gen AI Jargon Essential Everyday Terms for Campaigns and Organizations|2025-08-07 Beyond the Gen AI Jargon Essential Everyday Terms for Campaigns and Organizations]]"
-published: 2025-08-07T00:00:00.000Z
+published: 2025-08-07
 created: 2026-03-19
 relevance: wysoka
 tags:

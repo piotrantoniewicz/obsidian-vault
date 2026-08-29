@@ -3,8 +3,8 @@ type: Web
 authors: '[[Diana S. Frazier]]'
 url: >-
   https://veritusgroup.com/blog/donor-advised-funds-series-part-2-breaking-up-is-hard-to-do...or-is-it?utm_source=www.civicshoutnewsletter.com&utm_medium=newsletter&utm_campaign=how-unicef-usa-unlocked-26-000-more-donations&_bhlid=f1f120f7c8cd51a29dde4892da31f6e545b1a711
-published: 2026-01-15T00:00:00.000Z
-created: 2026-03-23T00:00:00.000Z
+published: 2026-01-15
+created: 2026-03-23
 tags:
   - fundraising
   - organizacje-społeczne

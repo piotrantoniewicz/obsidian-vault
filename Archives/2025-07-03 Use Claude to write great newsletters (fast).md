@@ -3,8 +3,8 @@ type: Web
 authors: '[[Ryan Carr]]'
 url: >-
   https://moodboard.beehiiv.com/p/use-claude-to-write-great-newsletters-fast?utm_source=moodboard.beehiiv.com&utm_medium=newsletter&utm_campaign=turn-your-content-into-a-viral-linkedin-post&_bhlid=a07c9da304d332eca4aa1c99d6ded0132ab64eb3
-published: 2025-07-03T00:00:00.000Z
-created: 2026-04-08T00:00:00.000Z
+published: 2025-07-03
+created: 2026-04-08
 tags:
   - narzędzia-AI
   - content-marketing

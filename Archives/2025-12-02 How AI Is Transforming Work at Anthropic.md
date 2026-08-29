@@ -3,7 +3,7 @@ type: Web
 authors: "[[Anthropic]]"
 url: https://www.anthropic.com/research/how-ai-is-transforming-work-at-anthropic?utm_source=aiwithallie.beehiiv.com&utm_medium=newsletter&utm_campaign=i-need-you-to-learn-claude-code-immediately-here-s-how&_bhlid=3248381f1c0737c61e5b6e0629a378fa6fb6d6a0
 published: 2025-12-02
-created: 2026-03-04T00:00:00.000Z
+created: 2026-03-04
 tags:
   - trendy-AI
   - szkolenia-AI

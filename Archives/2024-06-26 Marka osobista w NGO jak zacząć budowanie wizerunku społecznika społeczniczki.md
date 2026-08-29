@@ -3,8 +3,8 @@ type: Web
 authors: '[[ngo.pl]]'
 url: >-
   https://publicystyka.ngo.pl/marka-osobista-w-ngo-jak-zaczac-budowanie-wizerunku-spolecznika-lub-spoleczniczki?utm_source=newsletter&utm_medium=email&utm_term=2026-03-24&utm_campaign=8+sposob%C3%B3w+na+promocj%C4%99+wydarzenia+
-published: 2024-06-26T00:00:00.000Z
-created: 2026-03-24T00:00:00.000Z
+published: 2024-06-26
+created: 2026-03-24
 tags:
   - organizacje-społeczne
   - content-marketing

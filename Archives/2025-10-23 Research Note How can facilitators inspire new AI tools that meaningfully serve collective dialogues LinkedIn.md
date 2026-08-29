@@ -3,8 +3,8 @@ type: Web
 authors: "[[Ian Beacock]]"
 url: >-
   https://www.linkedin.com/pulse/research-note-how-can-facilitators-inspire-new-ai-tools-vmoge/
-published: 2025-10-23T00:00:00.000Z
-created: 2026-03-26T00:00:00.000Z
+published: 2025-10-23
+created: 2026-03-26
 tags:
   - strategia-AI
   - organizacje-społeczne

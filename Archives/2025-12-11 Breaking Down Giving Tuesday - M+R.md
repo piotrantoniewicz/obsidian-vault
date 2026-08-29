@@ -2,8 +2,8 @@
 type: Web
 authors: "[[M+R]]"
 url: https://www.mrss.com/lab/breaking-down-giving-tuesday/?utm_source=www.civicshoutnewsletter.com&utm_medium=newsletter&utm_campaign=your-2026-conference-calendar&_bhlid=319a21d43425d17b17e279fb7c75a798ffbf8d17
-published: 2025-12-11T00:00:00.000Z
-created: 2026-03-20T00:00:00.000Z
+published: 2025-12-11
+created: 2026-03-20
 tags:
   - fundraising
   - digital-campaigning

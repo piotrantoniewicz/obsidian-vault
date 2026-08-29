@@ -3,8 +3,8 @@ type: Web
 authors: '[[Sara Cederberg]]'
 url: >-
   https://www.civicshoutnewsletter.com/p/how-to-pivot-when-all-hell-breaks-loose?utm_source=www.civicshoutnewsletter.com&utm_medium=newsletter&utm_campaign=a-72-hour-gut-check-for-hard-news-cycles&_bhlid=9df15e846753246542cb18f7901d10f9f4ffd28f
-published: 2025-07-23T00:00:00.000Z
-created: 2026-03-22T00:00:00.000Z
+published: 2025-07-23
+created: 2026-03-22
 tags:
   - digital-campaigning
   - fundraising

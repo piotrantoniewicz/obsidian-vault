@@ -3,8 +3,8 @@ type: Web
 authors: '[[Fast Forward – Where Tech Meets Social Impact]]'
 url: >-
   https://www.ffwd.org/blog/philanthropists-guide-to-nonprofit-ai-investments?utm_source=substack&utm_medium=email
-published: null
-created: 2026-03-02T00:00:00.000Z
+published:
+created: 2026-03-02
 tags:
   - strategia-AI
   - narzędzia-AI

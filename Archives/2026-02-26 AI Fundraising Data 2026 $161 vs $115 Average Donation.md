@@ -2,8 +2,8 @@
 type: Web
 authors: "[[One Hundred Nights]]"
 url: https://onehundrednights.com/article/ai-fundraising-data-2026/
-published: 2026-02-26T00:00:00.000Z
-created: 2026-03-04T00:00:00.000Z
+published: 2026-02-26
+created: 2026-03-04
 tags:
   - fundraising
   - narzędzia-AI

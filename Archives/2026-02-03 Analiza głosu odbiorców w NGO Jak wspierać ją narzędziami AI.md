@@ -3,8 +3,8 @@ type: Web
 authors: '[[Karina Janus]]'
 url: >-
   https://www.techsoup.pl/blog/fio/analiza-glosu-odbiorcow-w-ngo-jak-wspierac-ja-narzedziami-ai?utm_source=newsletter&utm_medium=email_newsletter&utm_campaign=microsoft_ai_2025&utm_content=artykul_fio_glos_odbiorcow
-published: 2026-02-03T00:00:00.000Z
-created: 2026-03-22T00:00:00.000Z
+published: 2026-02-03
+created: 2026-03-22
 tags:
   - narzędzia-AI
   - prompt-engineering

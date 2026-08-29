@@ -3,8 +3,8 @@ type: Web
 authors: '[[Krzysztof Izdebski]]'
 url: >-
   https://visegradinsight.eu/digital-lessons-from-polands-election-permanent-campaign-permanent-manipulation/
-published: 2025-06-17T00:00:00.000Z
-created: 2026-03-25T00:00:00.000Z
+published: 2025-06-17
+created: 2026-03-25
 tags:
   - digital-campaigning
   - trendy-AI

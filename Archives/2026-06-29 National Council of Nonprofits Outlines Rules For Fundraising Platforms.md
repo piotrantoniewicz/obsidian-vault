@@ -3,8 +3,8 @@ type: Web
 authors: '[[Richard H. Levey]]'
 url: >-
   https://thenonprofittimes.com/npt_articles/national-council-of-nonprofits-outlines-rules-for-fundraising-platforms/?utm_source=www.civicshoutnewsletter.com&utm_medium=newsletter&utm_campaign=food-water-watch-s-60-day-advocacy-win&_bhlid=e5fe791680e64f1cb3acaed671a9ddfe4715cb19
-published: 2026-06-29T00:00:00.000Z
-created: 2026-07-10T00:00:00.000Z
+published: 2026-06-29
+created: 2026-07-10
 tags:
   - fundraising
   - organizacje-społeczne

@@ -3,8 +3,8 @@ type: Web
 authors: '[[Alexis Krivkovich]]'
 url: >-
   https://www.mckinsey.com/capabilities/people-and-organizational-performance/our-insights/ai-is-everywhere-the-agentic-organization-isnt-yet?utm_source=ActiveCampaign&utm_medium=email&utm_content=AI%20Flash%20Business%20%2329&utm_campaign=AI%20Flash%20Business%20%2326%20%28Copy%29
-published: 2026-04-02T00:00:00.000Z
-created: 2026-05-02T00:00:00.000Z
+published: 2026-04-02
+created: 2026-05-02
 tags:
   - strategia-AI
   - trendy-AI

@@ -3,8 +3,8 @@ type: Web
 authors: '[[Micah L. Sifry]]'
 url: >-
   https://theconnector.substack.com/p/in-search-of-tactics-that-win?utm_medium=email&_hsenc=p2ANqtz-8AnKNQ4M8F9NyKQxBeV90mbxXvxexakrbrs-Wvugc5U-h1zfSRCVaTosYxfUfrw06HdtWR0ymEfAdBfgrKgttMooTSPxrss5gC2GRjGwCrE_BadC4&_hsmi=110762810&utm_content=110762810&utm_source=hs_email
-published: 2025-05-14T00:00:00.000Z
-created: 2026-03-19T00:00:00.000Z
+published: 2025-05-14
+created: 2026-03-19
 tags:
   - digital-campaigning
   - strategia-organizacji

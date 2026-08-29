@@ -3,8 +3,8 @@ type: Web
 authors: '[[Wojciech Pigla]]'
 url: >-
   https://sektor3-0.pl/blog/patronite-dla-organizacji-spolecznych-oczywiscie-przyklady-dobrych-praktyk/
-published: 2026-03-05T00:00:00.000Z
-created: 2026-03-24T00:00:00.000Z
+published: 2026-03-05
+created: 2026-03-24
 tags:
   - fundraising
   - organizacje-społeczne

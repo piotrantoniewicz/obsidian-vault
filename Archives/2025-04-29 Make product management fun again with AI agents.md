@@ -2,8 +2,8 @@
 type: Web
 authors: '[[Tal Raviv]]'
 url: 'https://www.lennysnewsletter.com/p/make-product-management-fun-again'
-published: 2025-04-29T00:00:00.000Z
-created: 2026-05-12T00:00:00.000Z
+published: 2025-04-29
+created: 2026-05-12
 tags:
   - automatyzacja
   - narzędzia-AI

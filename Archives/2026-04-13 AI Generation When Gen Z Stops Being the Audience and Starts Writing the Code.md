@@ -3,8 +3,8 @@ type: Web
 authors: '[[Partisan]]'
 url: >-
   https://hub.partisan.community/m/news/ai-generation-when-gen-z-stops-being-the-audience-and-starts-writing-the-code/135102f0-1618-432b-a5e4-01aecd02bf62
-published: 2026-04-13T00:00:00.000Z
-created: 2026-04-14T00:00:00.000Z
+published: 2026-04-13
+created: 2026-04-14
 tags:
   - digital-campaigning
   - trendy-AI

@@ -2,8 +2,8 @@
 type: Web
 authors: '[[Simon Williams]]'
 url: 'https://communicatingcauses.co.uk/strategic-communication-course/'
-published: 2024-09-18T00:00:00.000Z
-created: 2026-03-25T00:00:00.000Z
+published: 2024-09-18
+created: 2026-03-25
 tags:
   - organizacje-społeczne
   - digital-campaigning

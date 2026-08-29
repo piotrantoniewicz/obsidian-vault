@@ -2,8 +2,8 @@
 type: Web
 authors: null
 url: 'https://benchmarks.nextafter.com/year-end/'
-published: null
-created: 2026-03-23T00:00:00.000Z
+published:
+created: 2026-03-23
 tags:
   - fundraising
   - digital-campaigning

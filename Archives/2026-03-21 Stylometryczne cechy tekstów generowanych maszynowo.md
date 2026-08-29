@@ -3,8 +3,8 @@ type: Web
 authors: '[[Marcin Wilkowski]]'
 url: >-
   https://blog.humanistyka.dev/2026/03/stylometryczne-cechy-tekstow-generowanych-maszynowo?utm_source=newsletter&utm_medium=email&utm_term=2026-06-14&utm_campaign=+Wyborcza+zupe%C5%82nie+na+serio+opublikowa%C5%82a+rozmow%C4%99+z+ChatGPT+Stylometryczne+cechy+tekst%C3%B3w+generowanych+maszynowo+Humanistyczne+prowokacje+wobec+AI+Vintage+Large+Language+Models+Zaproszenie+na+webinar
-published: 2026-03-21T00:00:00.000Z
-created: 2026-06-14T00:00:00.000Z
+published: 2026-03-21
+created: 2026-06-14
 tags:
   - LLM
   - trendy-AI

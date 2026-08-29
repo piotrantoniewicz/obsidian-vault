@@ -2,8 +2,8 @@
 type: Web
 authors: '[[Bartłomiej Polakowski]]'
 url: 'https://sektor3-0.pl/blog/sztuczna-inteligencja-w-edukacji-gra-o-tron/'
-published: 2023-02-21T00:00:00.000Z
-created: 2026-03-24T00:00:00.000Z
+published: 2023-02-21
+created: 2026-03-24
 tags:
   - szkolenia-AI
   - strategia-AI

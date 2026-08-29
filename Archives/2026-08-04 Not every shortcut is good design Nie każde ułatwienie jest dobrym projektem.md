@@ -3,8 +3,8 @@ type: Web
 authors: '[[Kasia Szczesna]]'
 url: >-
   https://behavioralinsight.substack.com/p/not-every-shortcut-is-good-design?utm_source=substack%2Csubstack&utm_medium=email%2Cemail&utm_campaign=email-restack-comment&r=4zdnrk&triedRedirect=true
-published: 2026-08-04T00:00:00.000Z
-created: 2026-08-04T00:00:00.000Z
+published: 2026-08-04
+created: 2026-08-04
 tags:
   - strategia-AI
   - trendy-AI

@@ -3,8 +3,8 @@ type: Web
 authors: '[[Casey Crane]]'
 url: >-
   https://www.thesslstore.com/blog/how-to-set-up-bimi-and-a-mark-certificate-to-display-your-email-logo/?utm_source=www.civicshoutnewsletter.com&utm_medium=newsletter&utm_campaign=bimi-why-your-logo-belongs-in-the-inbox&_bhlid=3991d48410c7083733a40d3ff78630d6033f1ada
-published: 2024-12-03T00:00:00.000Z
-created: 2026-03-23T00:00:00.000Z
+published: 2024-12-03
+created: 2026-03-23
 tags:
   - digital-campaigning
   - content-marketing

@@ -3,8 +3,8 @@ type: Web
 authors: '[[Ardee Coolidge]]'
 url: >-
   https://www.nextafter.com/experiments/how-meta-campaign-optimization-goals-affect-donor-acquisition-costs/?utm_medium=email&_hsenc=p2ANqtz-9jk0u9cpf7m9UShUvKpZSKcp_emwLUNGV-lw05dyAHp7u6UBJtVYqf8mHmpE2e6tayXp3Ek3ZdznYdr1aGWXLvBE0iQw&_hsmi=412279661&utm_content=411573620&utm_source=hs_email
-published: 2026-02-19T00:00:00.000Z
-created: 2026-04-11T00:00:00.000Z
+published: 2026-02-19
+created: 2026-04-11
 tags:
   - fundraising
   - digital-campaigning

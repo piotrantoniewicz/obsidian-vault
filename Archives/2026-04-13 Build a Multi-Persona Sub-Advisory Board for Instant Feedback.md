@@ -3,8 +3,8 @@ type: Web
 authors: '[[ChatPRD]]'
 url: >-
   https://www.chatprd.ai/how-i-ai/workflows/build-a-multi-persona-sub-advisory-board-for-instant-feedback
-published: 2026-04-13T00:00:00.000Z
-created: 2026-04-13T00:00:00.000Z
+published: 2026-04-13
+created: 2026-04-13
 tags:
   - narzędzia-AI
   - prompt-engineering

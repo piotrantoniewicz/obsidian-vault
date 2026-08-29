@@ -3,8 +3,8 @@ type: Web
 authors: '[[Kamil Śliwowski]]'
 url: >-
   https://sektor3-0.pl/blog/jak-dbac-o-prywatnosc-i-chronic-dane-w-dobie-generatywnej-sztucznej-inteligencji-poradnik/?utm_source=newsletter&utm_medium=email&utm_term=2026-03-24&utm_campaign=+Komu+ufa%C4%87+i+jakich+narz%C4%99dzi+u%C5%BCywa%C4%87+
-published: 2025-05-06T00:00:00.000Z
-created: 2026-03-24T00:00:00.000Z
+published: 2025-05-06
+created: 2026-03-24
 tags:
   - narzędzia-AI
   - strategia-AI

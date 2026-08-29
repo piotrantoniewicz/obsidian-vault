@@ -4,8 +4,8 @@ authors:
   - "[[Makena Kelly]]"
 url: https://www.wired.com/story/democrats-midterm-elections-ai/
 source: "[[2025-08-06 These Democrats Think the Party Needs AI to Win Elections]]"
-published: 2025-08-06T00:00:00.000Z
-created: 2026-03-19T00:00:00.000Z
+published: 2025-08-06
+created: 2026-03-19
 relevance: wysoka
 tags:
   - digital-campaigning

@@ -3,8 +3,8 @@ type: Web
 authors: ["[[Lauren L. Finch]]", "[[MobLab Team]]"]
 url: >-
   https://mobilisationlab.org/stories/actionstation-trains-keyboard-warriors-to-counter-hate/
-published: 2019-07-24T00:00:00.000Z
-created: 2026-03-26T00:00:00.000Z
+published: 2019-07-24
+created: 2026-03-26
 tags:
   - digital-campaigning
   - framing

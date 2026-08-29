@@ -3,8 +3,8 @@ type: Web
 authors: '[[Jeff Tripp]]'
 url: >-
   https://thenonprofithive.com/nonprofit-consulting-burnout/?utm_source=brevo&utm_campaign=Newsletter%20Mar%2025%20-%20events&utm_medium=email
-published: 2026-03-09T00:00:00.000Z
-created: 2026-03-28T00:00:00.000Z
+published: 2026-03-09
+created: 2026-03-28
 tags:
   - organizacje-społeczne
   - strategia-organizacji

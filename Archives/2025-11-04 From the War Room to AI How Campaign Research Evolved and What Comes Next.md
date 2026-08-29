@@ -3,8 +3,8 @@ type: Web
 authors: '[[C&E Staff]]'
 url: >-
   https://campaignsandelections.com/ce-45/from-the-war-room-to-ai-how-campaign-research-evolved-and-what-comes-next/?ref=campaigntrend.com
-published: 2025-11-04T00:00:00.000Z
-created: 2026-03-26T00:00:00.000Z
+published: 2025-11-04
+created: 2026-03-26
 tags:
   - digital-campaigning
   - strategia-AI

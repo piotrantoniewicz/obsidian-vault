@@ -2,8 +2,8 @@
 type: Web
 authors: '[[Katarzyna Szczesna]]'
 url: 'https://behavioralinsight.substack.com/p/how-to-build-an-ethical-ai-culture'
-published: 2025-06-24T00:00:00.000Z
-created: 2026-05-01T00:00:00.000Z
+published: 2025-06-24
+created: 2026-05-01
 tags:
   - strategia-AI
   - szkolenia-AI

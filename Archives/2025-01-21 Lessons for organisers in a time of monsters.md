@@ -3,8 +3,8 @@ type: Web
 authors: '[[Natasha Adams]]'
 url: >-
   https://thinkingdoingchanging.com/2025/01/21/lessons-for-organisers-in-a-time-of-monsters/?link_id=24&can_id=32cae499f95a9349c734a72403321b9c&source=email-making-a-list-checking-it-twice-goodies-for-progressives-2&email_referrer=email_2600254&email_subject=from-feminists-to-priests-and-nuns-everyone-agrees-access-to-menstrual-products-is-a-good-thing
-published: 2025-01-21T00:00:00.000Z
-created: 2026-04-05T00:00:00.000Z
+published: 2025-01-21
+created: 2026-04-05
 tags:
   - organizacje-społeczne
   - strategia-organizacji

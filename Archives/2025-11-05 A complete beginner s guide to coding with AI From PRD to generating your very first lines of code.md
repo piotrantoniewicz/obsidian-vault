@@ -2,8 +2,8 @@
 type: Web
 authors: '[[How I AI]]'
 url: 'https://www.youtube.com/watch?v=k0gmTOm1eus'
-published: 2025-11-05T00:00:00.000Z
-created: 2026-05-11T00:00:00.000Z
+published: 2025-11-05
+created: 2026-05-11
 tags:
   - narzędzia-AI
   - vibe-coding

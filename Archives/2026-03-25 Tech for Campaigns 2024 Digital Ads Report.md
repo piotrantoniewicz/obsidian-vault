@@ -2,8 +2,8 @@
 type: Web
 authors: null
 url: 'https://www.techforcampaigns.org/results/2024-digital-ads-report'
-published: null
-created: 2026-03-25T00:00:00.000Z
+published:
+created: 2026-03-25
 tags:
   - digital-campaigning
   - content-marketing

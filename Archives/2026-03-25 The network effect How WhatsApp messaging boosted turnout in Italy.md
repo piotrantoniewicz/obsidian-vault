@@ -3,8 +3,8 @@ type: Web
 authors: '[[Lorenzo Azzolini]]'
 url: >-
   https://www.centerfordigitalaction.eu/post/how-whatsapp-messaging-boosted-turnout-in-italy?source=newsletter&email_referrer=email_3170351&email_subject=learn-to-organize-on-the-platforms-that-matter-in-2026&can_id=32cae499f95a9349c734a72403321b9c&link_id=5
-published: 2026-03-25T00:00:00.000Z
-created: 2026-04-06T00:00:00.000Z
+published: 2026-03-25
+created: 2026-04-06
 tags:
   - digital-campaigning
   - organizacje-społeczne

@@ -2,8 +2,8 @@
 type: Web
 authors: '[[Margaret Sikora]]'
 url: 'https://woodpecker.co/blog/email-nurture-sequence/'
-published: 2025-03-04T00:00:00.000Z
-created: 2026-04-07T00:00:00.000Z
+published: 2025-03-04
+created: 2026-04-07
 tags:
   - digital-campaigning
   - fundraising

@@ -3,8 +3,8 @@ type: Web
 authors: '[[Heather Mansfield]]'
 url: >-
   https://www.nptechforgood.com/101-best-practices/social-media-statistics-for-nonprofits/
-published: 2024-05-07T00:00:00.000Z
-created: 2026-04-18T00:00:00.000Z
+published: 2024-05-07
+created: 2026-04-18
 tags:
   - digital-campaigning
   - fundraising

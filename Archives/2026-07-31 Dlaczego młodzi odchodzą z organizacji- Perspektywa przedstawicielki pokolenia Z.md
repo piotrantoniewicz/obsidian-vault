@@ -3,8 +3,8 @@ type: Web
 authors: '[[Lidiia Tsiupera]]'
 url: >-
   https://publicystyka.ngo.pl/dlaczego-mlodzi-odchodza-z-organizacji-perspektywa-przedstawicielki-pokolenia-z-taup
-published: 2026-07-31T00:00:00.000Z
-created: 2026-08-13T00:00:00.000Z
+published: 2026-07-31
+created: 2026-08-13
 tags:
   - organizacje-społeczne
   - strategia-organizacji

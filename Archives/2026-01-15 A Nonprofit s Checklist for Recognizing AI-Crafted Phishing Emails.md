@@ -3,8 +3,8 @@ type: Web
 authors: '[[Korrin Wheeler]]'
 url: >-
   https://www.roundtabletechnology.com/blog/a-nonprofits-checklist-for-recognizing-ai-crafted-phishing-emails
-published: 2026-01-15T00:00:00.000Z
-created: 2026-05-01T00:00:00.000Z
+published: 2026-01-15
+created: 2026-05-01
 tags:
   - narzędzia-AI
   - szkolenia-AI

@@ -3,8 +3,8 @@ type: Web
 authors: '[[Brandly360]]'
 url: >-
   https://ecomail.pl/blog/pl/jak-zamienic-opinie-z-sieci-w-klikalne-newslettery/#transparentnosc-jako-standard
-published: 2026-03-30T00:00:00.000Z
-created: 2026-04-18T00:00:00.000Z
+published: 2026-03-30
+created: 2026-04-18
 tags:
   - content-marketing
   - automatyzacja

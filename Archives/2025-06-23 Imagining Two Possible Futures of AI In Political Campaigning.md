@@ -3,8 +3,8 @@ type: Web
 authors: null
 url: >-
   https://campaigninnovation.org/articles/imagining-two-possible-futures-of-ai-in-political-campaigning
-published: 2025-06-23T00:00:00.000Z
-created: 2026-03-25T00:00:00.000Z
+published: 2025-06-23
+created: 2026-03-25
 tags:
   - strategia-AI
   - digital-campaigning

@@ -3,8 +3,8 @@ type: Web
 authors: '[[Klaudia Stano]]'
 url: >-
   https://sektor3-0.pl/blog/jak-wizualizacja-danych-wspiera-komunikacje-organizacji-spolecznej-sprawdz-na-przykladzie-fundacji-gajusz/?utm_source=newsletter&utm_medium=email&utm_term=2026-03-24&utm_campaign=Dane+kt%C3%B3re+poruszaj%C4%85+
-published: 2025-06-17T00:00:00.000Z
-created: 2026-03-24T00:00:00.000Z
+published: 2025-06-17
+created: 2026-03-24
 tags:
   - content-marketing
   - organizacje-społeczne

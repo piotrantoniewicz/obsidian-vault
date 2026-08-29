@@ -3,8 +3,8 @@ type: Web
 authors: '[[Anthropic]]'
 url: >-
   https://claude.com/blog/improving-skill-creator-test-measure-and-refine-agent-skills
-published: 2026-03-03T00:00:00.000Z
-created: 2026-05-01T00:00:00.000Z
+published: 2026-03-03
+created: 2026-05-01
 tags:
   - narzędzia-AI
   - automatyzacja

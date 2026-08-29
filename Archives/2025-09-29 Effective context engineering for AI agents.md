@@ -3,8 +3,8 @@ type: Web
 authors: '[[Anthropic]]'
 url: >-
   https://www.anthropic.com/engineering/effective-context-engineering-for-ai-agents
-published: 2025-09-29T00:00:00.000Z
-created: 2026-04-17T00:00:00.000Z
+published: 2025-09-29
+created: 2026-04-17
 tags:
   - context-engineering
   - prompt-engineering

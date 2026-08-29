@@ -2,8 +2,8 @@
 type: Web
 authors: '[[Lauren Meyer]]'
 url: 'https://send-it-right.com/blog/email-deliverability-red-flags'
-published: 2024-11-13T00:00:00.000Z
-created: 2026-04-24T00:00:00.000Z
+published: 2024-11-13
+created: 2026-04-24
 tags:
   - digital-campaigning
   - fundraising

@@ -2,8 +2,8 @@
 type: Web
 authors: '[[Bryan Neider]]'
 url: 'https://www.linkedin.com/pulse/collapse-traditional-search-bryan-neider-fdevc/'
-published: 2026-05-12T00:00:00.000Z
-created: 2026-05-12T00:00:00.000Z
+published: 2026-05-12
+created: 2026-05-12
 tags:
   - content-marketing
   - strategia-AI

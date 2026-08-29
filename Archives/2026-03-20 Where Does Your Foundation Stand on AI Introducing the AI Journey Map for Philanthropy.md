@@ -5,8 +5,8 @@ authors:
   - '[[Coco Forster]]'
 url: >-
   https://projectevident.org/news/where-does-your-foundation-stand-on-ai-introducing-the-ai-journey-map-for-philanthropy/
-published: 2026-03-20T00:00:00.000Z
-created: 2026-04-06T00:00:00.000Z
+published: 2026-03-20
+created: 2026-04-06
 tags:
   - strategia-AI
   - organizacje-społeczne

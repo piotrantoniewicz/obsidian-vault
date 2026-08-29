@@ -3,8 +3,8 @@ type: Web
 authors: '[[Andriy Boychuk]]'
 url: >-
   https://flowium.com/blog/abandoned-cart-email-benchmarks/?utm_source=www.civicshoutnewsletter.com&utm_medium=newsletter&utm_campaign=how-unicef-usa-unlocked-26-000-more-donations&_bhlid=405659891179b6d82d90c1c64ba6022c20d1da5e
-published: 2021-07-25T00:00:00.000Z
-created: 2026-03-23T00:00:00.000Z
+published: 2021-07-25
+created: 2026-03-23
 tags:
   - digital-campaigning
   - fundraising

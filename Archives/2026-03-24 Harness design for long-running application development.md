@@ -2,8 +2,8 @@
 type: Web
 authors: '[[Anthropic]]'
 url: 'https://www.anthropic.com/engineering/harness-design-long-running-apps'
-published: 2026-03-24T00:00:00.000Z
-created: 2026-03-25T00:00:00.000Z
+published: 2026-03-24
+created: 2026-03-25
 tags:
   - narzędzia-AI
   - strategia-AI

@@ -3,8 +3,8 @@ type: Web
 authors: null
 url: >-
   https://afpglobal.org/news/fundraising-effectiveness-project-reports-strongest-revenue-growth-five-years-even-fewer?utm_campaign=Weekly%20Blog%20Newsletter&utm_medium=email&_hsenc=p2ANqtz--LHV7Xb8hWFueFQZ4IkO8FAckRBbMLR89McAiuYIsJ1l3MxrmrvmvKbIbdc1uDBGemrWxJQI6FBb6pXPtT4qi9_AXhZKeniVp5SdNpcxknHL4cjoI&_hsmi=427171019&utm_content=427171019&utm_source=hs_email
-published: 2026-04-15T00:00:00.000Z
-created: 2026-07-10T00:00:00.000Z
+published: 2026-04-15
+created: 2026-07-10
 tags:
   - fundraising
   - organizacje-społeczne

@@ -3,8 +3,8 @@ type: Web
 authors: '[[Meenakshi (Meena) Das]]'
 url: >-
   https://www.linkedin.com/pulse/before-we-fund-ai-adoption-need-readiness-meenakshi-meena-das-2gx5c/
-published: 2026-05-21T00:00:00.000Z
-created: 2026-05-21T00:00:00.000Z
+published: 2026-05-21
+created: 2026-05-21
 tags:
   - strategia-AI
   - organizacje-społeczne

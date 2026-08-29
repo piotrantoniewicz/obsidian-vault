@@ -3,8 +3,8 @@ type: Web
 authors: '[[Bram Van Daele]]'
 url: >-
   https://www.engagor.ai/resources/blog/cnil-tracking-pixel-final-recommendation-2026?utm_campaign=mailboxproviderchanges&utm_medium=NL&utm_source=senditright
-published: 2026-04-14T00:00:00.000Z
-created: 2026-04-24T00:00:00.000Z
+published: 2026-04-14
+created: 2026-04-24
 tags:
   - digital-campaigning
   - content-marketing

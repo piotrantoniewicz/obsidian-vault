@@ -2,8 +2,8 @@
 type: Web
 authors: '[[GivingTuesday]]'
 url: 'https://www.givingtuesday.org/blog/why-givingtuesday-matters/'
-published: 2025-09-08T00:00:00.000Z
-created: 2026-03-20T00:00:00.000Z
+published: 2025-09-08
+created: 2026-03-20
 tags:
   - fundraising
   - digital-campaigning

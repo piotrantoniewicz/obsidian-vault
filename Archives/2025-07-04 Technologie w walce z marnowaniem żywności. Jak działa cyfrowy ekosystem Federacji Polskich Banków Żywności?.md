@@ -3,8 +3,8 @@ type: Web
 authors: '[[Filip Jędruch]]'
 url: >-
   https://sektor3-0.pl/blog/technologie-w-walce-z-marnowaniem-zywnosci-federacja-polskich-bankow-zywnosci/?utm_source=newsletter&utm_medium=email&utm_term=2026-03-24&utm_campaign=6+pyta%C5%84+zanim+w%C5%82%C4%85czysz+AI+w+organizacji+
-published: 2025-07-04T00:00:00.000Z
-created: 2026-03-24T00:00:00.000Z
+published: 2025-07-04
+created: 2026-03-24
 tags:
   - automatyzacja
   - organizacje-społeczne

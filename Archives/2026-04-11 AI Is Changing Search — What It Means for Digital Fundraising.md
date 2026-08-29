@@ -3,8 +3,8 @@ type: Web
 authors: '[[Harry Lynch]]'
 url: >-
   https://sankyinc.com/blog/2026/02/04/digital-search-in-the-age-of-ai/?utm_source=www.civicshoutnewsletter.com&utm_medium=newsletter&utm_campaign=are-your-emails-helping-or-hurting&_bhlid=503d4a75ff32495b3bd309d1183c0ecafa904a28
-published: null
-created: 2026-04-11T00:00:00.000Z
+published:
+created: 2026-04-11
 tags:
   - fundraising
   - digital-campaigning

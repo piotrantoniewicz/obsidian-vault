@@ -2,8 +2,8 @@
 type: Web
 authors: '[[Josef Lentsch]]'
 url: 'https://www.linkedin.com/pulse/mamdani-method-josef-lentsch-cghff/'
-published: 2025-11-10T00:00:00.000Z
-created: 2026-03-26T00:00:00.000Z
+published: 2025-11-10
+created: 2026-03-26
 tags:
   - digital-campaigning
   - automatyzacja

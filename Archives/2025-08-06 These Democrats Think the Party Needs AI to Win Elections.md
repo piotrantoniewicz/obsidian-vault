@@ -3,8 +3,8 @@ type: Web
 authors: '[[Makena Kelly]]'
 url: >-
   https://www.wired.com/story/democrats-midterm-elections-ai/?utm_medium=email&_hsenc=p2ANqtz-8U4V4IzGet0IPD2Ivjpf-yNnMaOZN5okpKMY2F8IlaSIIAUSyCp9Rnv5LC9GLB0fMfwV7QuwQ1Sir_skPddBm8eNpwHufi09uaxHzMjoW-RpC1J8g&_hsmi=115320471&utm_content=115320471&utm_source=hs_email
-published: 2025-08-06T00:00:00.000Z
-created: 2026-03-19T00:00:00.000Z
+published: 2025-08-06
+created: 2026-03-19
 tags:
   - digital-campaigning
   - strategia-AI

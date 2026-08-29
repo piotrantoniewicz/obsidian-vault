@@ -3,8 +3,8 @@ type: Web
 authors: '[[Rachel Karten]]'
 url: >-
   https://www.milkkarten.net/p/what-did-we-learn-from-kamala-hq?link_id=18&can_id=32cae499f95a9349c734a72403321b9c&source=email-data-becomes-exciting-when-you-know-how-to-use-it&email_referrer=email_2725921&email_subject=everyone-should-do-more-surveys
-published: 2025-04-30T00:00:00.000Z
-created: 2026-04-05T00:00:00.000Z
+published: 2025-04-30
+created: 2026-04-05
 tags:
   - digital-campaigning
   - content-marketing

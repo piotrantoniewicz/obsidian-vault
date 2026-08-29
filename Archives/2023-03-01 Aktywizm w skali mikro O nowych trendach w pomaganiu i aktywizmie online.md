@@ -2,8 +2,8 @@
 type: Web
 authors: '[[Aleksandra Belina]]'
 url: 'https://sektor3-0.pl/blog/aktywizm-trendy-w-pomaganiu-online/'
-published: 2023-03-01T00:00:00.000Z
-created: 2026-03-24T00:00:00.000Z
+published: 2023-03-01
+created: 2026-03-24
 tags:
   - digital-campaigning
   - organizacje-społeczne

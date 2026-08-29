@@ -3,8 +3,8 @@ type: Web
 authors: '[[Mateusz Wojdalski]]'
 url: >-
   https://devstockacademy.pl/blog/bezpieczenstwo-i-jakosc/ai-agent-skasowal-produkcyjna-baze-cursor-railway-2026/?utm_source=newsletter&utm_medium=email&utm_term=2026-04-29&utm_campaign=Copilot+na+liczniku+GPT-5+5+i+65+mld+dla+Anthropic
-published: 2026-04-27T00:00:00.000Z
-created: 2026-04-29T00:00:00.000Z
+published: 2026-04-27
+created: 2026-04-29
 tags:
   - strategia-AI
   - narzędzia-AI

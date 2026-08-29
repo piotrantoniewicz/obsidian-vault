@@ -3,8 +3,8 @@ type: Web
 authors: '[[Bryan Neider]]'
 url: >-
   https://www.linkedin.com/pulse/sustainability-leading-pivot-social-impact-bryan-neider-tvhoc/
-published: 2026-05-01T00:00:00.000Z
-created: 2026-05-01T00:00:00.000Z
+published: 2026-05-01
+created: 2026-05-01
 tags:
   - strategia-AI
   - organizacje-społeczne

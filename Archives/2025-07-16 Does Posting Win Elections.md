@@ -2,8 +2,8 @@
 type: Web
 authors: '[[Austin Park]]'
 url: 'https://votehub.com/2025/07/16/does-posting-win-elections/'
-published: 2025-07-16T00:00:00.000Z
-created: 2026-03-25T00:00:00.000Z
+published: 2025-07-16
+created: 2026-03-25
 tags:
   - digital-campaigning
   - content-marketing

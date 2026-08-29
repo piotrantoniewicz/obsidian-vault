@@ -3,8 +3,8 @@ type: Web
 authors: '[[Kevin Barenblat]]'
 url: >-
   https://aiforhumanity.ffwd.org/p/chai-for-humanity?utm_campaign=email-half-post&r=4zdnrk&utm_source=substack&utm_medium=email
-published: 2026-03-26T00:00:00.000Z
-created: 2026-04-22T00:00:00.000Z
+published: 2026-03-26
+created: 2026-04-22
 tags:
   - strategia-AI
   - narzędzia-AI

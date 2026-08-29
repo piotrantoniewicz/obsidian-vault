@@ -3,8 +3,8 @@ type: Web
 authors: '[[Marzena Kacprowicz]]'
 url: >-
   https://sektor3-0.pl/blog/recykling-tresci-jak-zautomatyzowac-tworzenie-transkrypcji/?utm_source=newsletter&utm_medium=email&utm_term=2026-03-24&utm_campaign=+Jak+zautomatyzowa%C4%87+recykling+tre%C5%9Bci+
-published: 2025-02-05T00:00:00.000Z
-created: 2026-03-24T00:00:00.000Z
+published: 2025-02-05
+created: 2026-03-24
 tags:
   - automatyzacja
   - content-marketing

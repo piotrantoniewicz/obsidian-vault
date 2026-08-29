@@ -2,8 +2,8 @@
 type: Web
 authors: '[[Jess O''Neill]]'
 url: 'https://blog.plinth.org.uk/how-to-write-an-ai-policy-for-your-charity-2/'
-published: 2024-04-22T00:00:00.000Z
-created: 2026-03-25T00:00:00.000Z
+published: 2024-04-22
+created: 2026-03-25
 tags:
   - strategia-AI
   - organizacje-społeczne

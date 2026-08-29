@@ -3,8 +3,8 @@ type: Web
 authors: '[[European Center for Digital Action]]'
 url: >-
   https://www.centerfordigitalaction.eu/post/press-play-why-podcasts-matter?link_id=8&can_id=32cae499f95a9349c734a72403321b9c&source=email-everyone-should-do-more-surveys&email_referrer=email_2744583&email_subject=learning-from-polands-far-right&&
-published: 2025-05-20T00:00:00.000Z
-created: 2026-04-05T00:00:00.000Z
+published: 2025-05-20
+created: 2026-04-05
 tags:
   - digital-campaigning
   - content-marketing

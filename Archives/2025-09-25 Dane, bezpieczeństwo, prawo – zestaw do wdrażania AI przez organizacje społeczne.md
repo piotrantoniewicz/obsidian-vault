@@ -3,8 +3,8 @@ type: Web
 authors: '[[Filip Jędruch]]'
 url: >-
   https://sektor3-0.pl/blog/dane-bezpieczenstwo-prawo-zestaw-do-wdrazania-ai-przez-organizacje-spoleczne/?utm_source=newsletter&utm_medium=email&utm_term=2026-03-24&utm_campaign=+Automatyzacja+w+NGO+krok+po+kroku
-published: 2025-09-25T00:00:00.000Z
-created: 2026-03-24T00:00:00.000Z
+published: 2025-09-25
+created: 2026-03-24
 tags:
   - strategia-AI
   - organizacje-społeczne

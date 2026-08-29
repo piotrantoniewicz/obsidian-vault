@@ -3,8 +3,8 @@ type: Web
 authors: '[[Beth LeBlanc]]'
 url: >-
   https://www.govtech.com/artificial-intelligence/michigan-election-ad-prompts-questions-about-use-of-genai
-published: 2000-06-25T00:00:00.000Z
-created: 2026-07-24T00:00:00.000Z
+published: 2000-06-25
+created: 2026-07-24
 tags:
   - digital-campaigning
   - framing

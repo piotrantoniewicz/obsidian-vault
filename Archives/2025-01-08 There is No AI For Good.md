@@ -4,7 +4,7 @@ authors:
   - "[[Tracy Kronzak]]"
 url: https://www.linkedin.com/pulse/ai-good-rev-tracy-kronzak-mpa--6rbsc/
 published: 2025-01-08
-created: 2026-03-19T00:00:00.000Z
+created: 2026-03-19
 tags:
   - strategia-AI
   - framing

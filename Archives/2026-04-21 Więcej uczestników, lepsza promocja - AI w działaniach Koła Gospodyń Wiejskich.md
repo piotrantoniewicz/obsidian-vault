@@ -2,8 +2,8 @@
 type: Web
 authors: '[[Fundacja Rozwoju Społeczeństwa Informacyjnego]]'
 url: 'https://www.youtube.com/watch?v=J9-fuVel1pg'
-published: 2026-04-21T00:00:00.000Z
-created: 2026-04-24T00:00:00.000Z
+published: 2026-04-21
+created: 2026-04-24
 tags:
   - szkolenia-AI
   - content-marketing

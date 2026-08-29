@@ -3,7 +3,7 @@ type: Web
 authors: "[[The Democracy Labs]]"
 url: https://thedemlabs.org/2025/05/31/how-to-create-videos-with-google-veo-3-ai-video-generator/?utm_medium=email&_hsenc=p2ANqtz-_Ao4Q7oQksJ0zDgG0XGayH-m8y8yilvgWCRXpfgkrn42T9tBjrjxCtayD3HskaLQnMvmtY9ndUdMERzOC9_OIto4BOGwEOYcVj3mPo8EnIu9lsnWQ&_hsmi=110762810&utm_content=110762810&utm_source=hs_email
 published: 2025-01-31
-created: 2026-03-19T00:00:00.000Z
+created: 2026-03-19
 tags:
   - narzędzia-AI
   - digital-campaigning

@@ -2,8 +2,8 @@
 type: Web
 authors: '[[Lauren Meyer]]'
 url: 'https://send-it-right.com/blog/why-email-deliverability-matters'
-published: 2024-06-18T00:00:00.000Z
-created: 2026-04-24T00:00:00.000Z
+published: 2024-06-18
+created: 2026-04-24
 tags:
   - digital-campaigning
   - content-marketing

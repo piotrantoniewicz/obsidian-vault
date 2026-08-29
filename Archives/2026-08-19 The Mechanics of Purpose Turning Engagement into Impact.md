@@ -1,7 +1,7 @@
 ---
 authors: '[[Bryan Neider]]'
-created: '2026-08-19T00:00:00.000Z'
-published: '2026-08-19T00:00:00.000Z'
+created: 2026-08-19
+published: 2026-08-19
 tags:
   - strategia-organizacji
   - organizacje-społeczne

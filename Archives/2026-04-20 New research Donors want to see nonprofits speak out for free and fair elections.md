@@ -3,8 +3,8 @@ type: Web
 authors: '[[mradmin]]'
 url: >-
   https://www.mrss.com/lab/new-research-donors-want-to-see-nonprofits-speak-out-for-free-and-fair-elections/
-published: 2026-04-20T00:00:00.000Z
-created: 2026-04-21T00:00:00.000Z
+published: 2026-04-20
+created: 2026-04-21
 tags:
   - organizacje-społeczne
   - digital-campaigning

@@ -3,8 +3,8 @@ type: Web
 authors: '[[Katarzyna Szczesna]]'
 url: >-
   https://behavioralinsight.substack.com/p/the-invisible-hand-how-digital-persuasion
-published: 2025-06-10T00:00:00.000Z
-created: 2026-05-01T00:00:00.000Z
+published: 2025-06-10
+created: 2026-05-01
 tags:
   - digital-campaigning
   - framing

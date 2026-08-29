@@ -2,8 +2,8 @@
 type: Web
 authors: '[[Kyle Behrend]]'
 url: 'https://kylebehrend.substack.com/p/finding-the-leverage-point'
-published: 2026-02-12T00:00:00.000Z
-created: 2026-03-23T00:00:00.000Z
+published: 2026-02-12
+created: 2026-03-23
 tags:
   - strategia-AI
   - automatyzacja

@@ -3,8 +3,8 @@ type: Web
 authors: '[[Kimberly Huang]]'
 url: >-
   https://www.litmus.com/blog/trends-in-email-marketing?utm_source=www.civicshoutnewsletter.com&utm_medium=newsletter&utm_campaign=what-the-smartest-email-teams-are-acting-on-in-2026&_bhlid=a28c912083713d8a3bff0922a6ab53e658368252
-published: 2024-03-18T00:00:00.000Z
-created: 2026-03-20T00:00:00.000Z
+published: 2024-03-18
+created: 2026-03-20
 tags:
   - content-marketing
   - automatyzacja

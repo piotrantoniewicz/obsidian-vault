@@ -2,8 +2,8 @@
 type: Web
 authors: '[[Lenny''s Podcast]]'
 url: 'https://www.youtube.com/watch?v=O_W76LR77Vw'
-published: 2025-12-28T00:00:00.000Z
-created: 2026-05-12T00:00:00.000Z
+published: 2025-12-28
+created: 2026-05-12
 tags:
   - strategia-organizacji
 ---

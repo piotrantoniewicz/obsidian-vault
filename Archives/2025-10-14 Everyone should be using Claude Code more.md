@@ -3,8 +3,8 @@ type: Web
 authors: '[[Lenny Rachitsky]]'
 url: >-
   https://www.lennysnewsletter.com/p/everyone-should-be-using-claude-code?utm_source=substack&utm_medium=email&utm_campaign=email-restack-comment&r=4zdnrk&triedRedirect=true
-published: 2025-10-14T00:00:00.000Z
-created: 2026-05-11T00:00:00.000Z
+published: 2025-10-14
+created: 2026-05-11
 tags:
   - narzędzia-AI
   - automatyzacja

@@ -2,8 +2,8 @@
 type: Web
 authors: '[[Ship 30 for 30]]'
 url: 'https://www.youtube.com/watch?v=Ufp2vKoLFeI'
-published: 2026-03-25T00:00:00.000Z
-created: 2026-03-26T00:00:00.000Z
+published: 2026-03-25
+created: 2026-03-26
 tags:
   - ghostwriting
   - content-marketing

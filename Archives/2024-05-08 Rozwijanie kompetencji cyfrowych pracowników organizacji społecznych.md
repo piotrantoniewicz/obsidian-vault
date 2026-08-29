@@ -3,8 +3,8 @@ type: Web
 authors: '[[Sektor 3.0]]'
 url: >-
   https://sektor3-0.pl/blog/rozwijanie-kompetencji-cyfrowych-pracownikow-organizacji-spolecznych/
-published: 2024-05-08T00:00:00.000Z
-created: 2026-03-24T00:00:00.000Z
+published: 2024-05-08
+created: 2026-03-24
 tags:
   - szkolenia-AI
   - organizacje-społeczne

@@ -2,8 +2,8 @@
 type: Web
 authors: "[[Leah Holt]]"
 url: https://mvpphilanthropy.com/2026/01/28/nonprofit-fundraising-goals/
-published: 2026-01-28T00:00:00.000Z
-created: 2026-03-04T00:00:00.000Z
+published: 2026-01-28
+created: 2026-03-04
 tags:
   - fundraising
   - organizacje-społeczne

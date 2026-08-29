@@ -3,8 +3,8 @@ type: Web
 authors: '[[Jakub Ziecina]]'
 url: >-
   https://www.usebouncer.com/email-deliverability-trends-2026/?utm_source=www.civicshoutnewsletter.com&utm_medium=newsletter&utm_campaign=is-panic-turning-off-your-donors&_bhlid=d899833edbff25194e48d33a04c9f7f58929d8b2
-published: 2026-02-24T00:00:00.000Z
-created: 2026-03-23T00:00:00.000Z
+published: 2026-02-24
+created: 2026-03-23
 tags:
   - digital-campaigning
   - narzędzia-AI

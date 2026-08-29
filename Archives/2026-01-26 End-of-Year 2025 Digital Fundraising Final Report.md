@@ -3,8 +3,8 @@ type: Web
 authors: '[[MissionWired]]'
 url: >-
   https://missionwired.com/insights/end-of-year-digital-fundraising-final-report-2025/?utm_source=www.civicshoutnewsletter.com&utm_medium=newsletter&utm_campaign=how-chive-charities-hit-98-donor-retention&_bhlid=47aca63a11d184c075e4b79cdbb8ee7f3e7e5871
-published: 2026-01-26T00:00:00.000Z
-created: 2026-03-22T00:00:00.000Z
+published: 2026-01-26
+created: 2026-03-22
 tags:
   - fundraising
   - digital-campaigning

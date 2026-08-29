@@ -2,8 +2,8 @@
 type: Web
 authors: '[[Erin Whitt]]'
 url: 'https://www.vivastrategic.com/blog/nonprofit-ai-chatbots'
-published: 2026-02-06T00:00:00.000Z
-created: 2026-05-01T00:00:00.000Z
+published: 2026-02-06
+created: 2026-05-01
 tags:
   - narzędzia-AI
   - organizacje-społeczne

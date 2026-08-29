@@ -2,8 +2,8 @@
 type: Web
 authors: "[[Dickie Bush]]"
 url: 'https://writewithai.substack.com/p/how-to-write-a-weekly-newsletter'
-published: 2023-11-15T00:00:00.000Z
-created: 2026-03-08T00:00:00.000Z
+published: 2023-11-15
+created: 2026-03-08
 tags:
   - ghostwriting
   - prompt-engineering

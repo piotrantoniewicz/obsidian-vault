@@ -3,8 +3,8 @@ type: Web
 authors: '[[Sara Cederberg]]'
 url: >-
   https://www.civicshoutnewsletter.com/p/how-equimundo-got-31-more-clicks-with-a-smaller-list?utm_source=www.civicshoutnewsletter.com&utm_medium=newsletter&utm_campaign=the-summer-reengagement-playbook&_bhlid=11c67df5f413ed1f6b6c6f3971f0b33c98d4d69f
-published: 2025-11-20T00:00:00.000Z
-created: 2026-05-19T00:00:00.000Z
+published: 2025-11-20
+created: 2026-05-19
 tags:
   - organizacje-społeczne
   - digital-campaigning

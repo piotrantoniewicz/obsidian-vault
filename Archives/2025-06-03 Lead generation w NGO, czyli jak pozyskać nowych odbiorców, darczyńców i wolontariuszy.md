@@ -3,8 +3,8 @@ type: Web
 authors: '[[Małgorzata Rodak]]'
 url: >-
   https://sektor3-0.pl/blog/lead-generation-w-ngo-jak-pozyskac-odbiorcow-darczyncow-wolontariuszy/?utm_source=newsletter&utm_medium=email&utm_term=2026-03-24&utm_campaign=8+sposob%C3%B3w+na+promocj%C4%99+wydarzenia+
-published: 2025-06-03T00:00:00.000Z
-created: 2026-03-24T00:00:00.000Z
+published: 2025-06-03
+created: 2026-03-24
 tags:
   - fundraising
   - digital-campaigning

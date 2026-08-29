@@ -3,8 +3,8 @@ type: Web
 authors: '[[Sam Lockwood]]'
 url: >-
   https://www.linkedin.com/pulse/renting-attention-vs-building-power-sam-lockwood-lmuoe/
-published: 2025-07-07T00:00:00.000Z
-created: 2026-03-25T00:00:00.000Z
+published: 2025-07-07
+created: 2026-03-25
 tags:
   - digital-campaigning
   - strategia-organizacji

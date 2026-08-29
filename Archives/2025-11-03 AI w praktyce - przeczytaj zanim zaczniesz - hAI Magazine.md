@@ -3,8 +3,8 @@ type: Web
 authors: '[[Natalia Ćwik]]'
 url: >-
   https://haimagazine.com/pl/ai_praktyka/ai-w-praktyce-przeczytaj-zanim-zaczniesz/?utm_source=ActiveCampaign&utm_medium=email&utm_content=Chaos%20w%20danych%2C%20porz%C4%85dek%20w%20prawie%20i%20rewolucja%20w%20kalendarzu&utm_campaign=Listopadowy%20update
-published: 2025-11-03T00:00:00.000Z
-created: 2026-03-24T00:00:00.000Z
+published: 2025-11-03
+created: 2026-03-24
 tags:
   - szkolenia-AI
   - prompt-engineering

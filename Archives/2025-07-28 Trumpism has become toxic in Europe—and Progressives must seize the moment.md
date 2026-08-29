@@ -3,8 +3,8 @@ type: Web
 authors: '[[Viktor Mak]]'
 url: >-
   https://www.centerfordigitalaction.eu/post/toxic-trumpism?source=newsletter42&link_id=8&can_id=32cae499f95a9349c734a72403321b9c&email_referrer=email_2828660&email_subject=feed-your-mind-recharge-your-batteries-with-our-top-picks-for-summer&
-published: 2025-07-28T00:00:00.000Z
-created: 2026-04-05T00:00:00.000Z
+published: 2025-07-28
+created: 2026-04-05
 tags:
   - digital-campaigning
   - framing

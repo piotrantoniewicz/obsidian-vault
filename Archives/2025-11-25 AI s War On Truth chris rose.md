@@ -2,8 +2,8 @@
 type: Web
 authors: '[[Chris]]'
 url: 'https://threeworlds.campaignstrategy.org/?p=3561'
-published: 2025-11-25T00:00:00.000Z
-created: 2026-03-25T00:00:00.000Z
+published: 2025-11-25
+created: 2026-03-25
 tags:
   - LLM
   - trendy-AI

@@ -3,8 +3,8 @@ type: Web
 authors: '[[Sektor 3.0]]'
 url: >-
   https://sektor3-0.pl/podcast/jedyna-stala-jest-zmiana-jak-dbac-o-obecnosc-ngo-w-mediach-spolecznosciowych/?utm_source=newsletter&utm_medium=email&utm_term=2026-03-24&utm_campaign=P%C5%82ywasz+w+basenie+pe%C5%82nym+lajk%C3%B3w+
-published: 2025-09-30T00:00:00.000Z
-created: 2026-03-24T00:00:00.000Z
+published: 2025-09-30
+created: 2026-03-24
 tags:
   - content-marketing
   - organizacje-społeczne

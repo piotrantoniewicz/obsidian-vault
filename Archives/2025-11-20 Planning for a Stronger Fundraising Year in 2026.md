@@ -3,8 +3,8 @@ type: Web
 authors:
   - "[[Mike Esposito]]"
 url: https://www.mikeespositocfre.com/nonprofit-resources/planning-for-a-stronger-fundraising-year-in-2026?utm_source=brevo&utm_campaign=Newsletter%20January%2014&utm_medium=email
-published: 2025-11-20T00:00:00.000Z
-created: 2026-03-04T00:00:00.000Z
+published: 2025-11-20
+created: 2026-03-04
 tags:
   - fundraising
   - organizacje-społeczne

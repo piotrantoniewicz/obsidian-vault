@@ -2,8 +2,8 @@
 type: Web
 authors: '[[Chase AI]]'
 url: 'https://www.youtube.com/watch?v=7q_rbT1a9dE'
-published: 2026-03-31T00:00:00.000Z
-created: 2026-04-11T00:00:00.000Z
+published: 2026-03-31
+created: 2026-04-11
 tags:
   - automatyzacja
   - narzędzia-AI

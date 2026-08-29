@@ -2,8 +2,8 @@
 type: Web
 authors: '[[Megan Poyiadzis]]'
 url: 'https://smk.org.uk/top-3-mistakes-in-legal-campaigns/'
-published: 2025-10-21T00:00:00.000Z
-created: 2026-03-25T00:00:00.000Z
+published: 2025-10-21
+created: 2026-03-25
 tags:
   - organizacje-społeczne
   - strategia-organizacji

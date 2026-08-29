@@ -3,8 +3,8 @@ type: Web
 authors: '[[Beth O''Malley]]'
 url: >-
   https://weareastral.co.uk/thevault/guide-to-email-marketing-metrics-and-reporting?utm_medium=email&_hsenc=p2ANqtz-81HLvma7bXLiG_qaOC0cz-ohOfjvN3944DumimmkmG4EQvswJyMU1tvX1d2sV8-VFGTZAWG1HXgBG3l-tj6icrv_8H9EhAeE_tCh3g3uKwLCk2Il8&_hsmi=133521287&utm_content=133531118&utm_source=hs_email
-published: 2026-03-25T00:00:00.000Z
-created: 2026-04-17T00:00:00.000Z
+published: 2026-03-25
+created: 2026-04-17
 tags:
   - digital-campaigning
   - fundraising

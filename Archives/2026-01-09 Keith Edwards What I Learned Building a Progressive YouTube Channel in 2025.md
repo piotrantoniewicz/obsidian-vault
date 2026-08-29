@@ -3,8 +3,8 @@ type: Web
 authors: '[[Keith Edwards]]'
 url: >-
   https://www.fwiw.news/p/keith-edwards-what-i-learned-building?link_id=19&can_id=32cae499f95a9349c734a72403321b9c&source=email-moving-more-than-just-needles-2&email_referrer=email_3049907&email_subject=__-digital-organizing-is-our-superpower
-published: 2026-01-09T00:00:00.000Z
-created: 2026-04-05T00:00:00.000Z
+published: 2026-01-09
+created: 2026-04-05
 tags:
   - content-marketing
   - digital-campaigning

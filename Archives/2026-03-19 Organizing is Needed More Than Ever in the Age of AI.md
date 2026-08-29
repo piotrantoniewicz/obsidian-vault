@@ -3,7 +3,7 @@ type: Web
 authors: "[[Tectonica Digital Campaign Solutions]]"
 url: https://www.tectonica.co/posts/organizing_ai?utm_medium=email&_hsenc=p2ANqtz-8ktL2hjbGfdmVurFs0EaQmLW5oUibeujFj86LxWwOSw5UZ0_jurJfh6quKuQITYWIFx_K-ny6rgqBqEeq6tJXAAu7laoNcicYLacmBl4768tk0B9Q&_hsmi=105923428&utm_content=105923428&utm_source=hs_email
 published:
-created: 2026-03-19T00:00:00.000Z
+created: 2026-03-19
 tags:
   - strategia-AI
   - organizacje-społeczne

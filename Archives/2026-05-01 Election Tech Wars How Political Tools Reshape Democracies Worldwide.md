@@ -3,8 +3,8 @@ type: Web
 authors: '[[Partisan]]'
 url: >-
   https://hub.partisan.community/m/news/election-tech-wars-how-political-tools-reshape-democracies-worldwide/3bacb048-b709-43ed-bc00-1131ca7ffddf
-published: 2026-05-01T00:00:00.000Z
-created: 2026-05-05T00:00:00.000Z
+published: 2026-05-01
+created: 2026-05-05
 tags:
   - digital-campaigning
   - strategia-organizacji

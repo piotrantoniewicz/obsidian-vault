@@ -3,8 +3,8 @@ type: Web
 authors: '[[Marcin Wilkowski]]'
 url: >-
   https://blog.humanistyka.dev/2026/01/uratuja-nas-tylko-spolecznosci?utm_source=newsletter&utm_medium=email&utm_term=2026-06-14&utm_campaign=Otwarte+webinaria+wprowadzenie+do+danych+dziedzictwa+Hurr+durr+sztuczna+inteligencja+Co+tracimy+gdy+wszystko+zapisuje+si%C4%99+samo+Uratuj%C4%85+nas+tylko+spo%C5%82eczno%C5%9Bci+Uprzedzenia+wobec+generatywnej+poezji+s%C4%85+w+porz%C4%85dku
-published: 2026-01-18T00:00:00.000Z
-created: 2026-06-14T00:00:00.000Z
+published: 2026-01-18
+created: 2026-06-14
 tags:
   - strategia-AI
   - digital-campaigning

@@ -2,8 +2,8 @@
 type: Web
 authors: "[[Steve Akehurst]]"
 url: https://strongmessagehere.substack.com/p/what-messages-might-reform-be-vulnerable?utm_source=newsletter&utm_medium=email&utm_term=Mon%2B02%2BMar%2B2026&utm_campaign=Do%2BSomething%2BAnything%2BThe%2BFlags%2BFlags%2BFlags%2Bedition%2B
-published: 2025-07-15T00:00:00.000Z
-created: 2026-03-02T00:00:00.000Z
+published: 2025-07-15
+created: 2026-03-02
 tags:
   - framing
   - digital-campaigning

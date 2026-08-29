@@ -2,8 +2,8 @@
 type: Web
 authors: "[[Jacek Siadkowski]]"
 url: 'https://www.fastcompany.com/91377756/stop-funding-the-wrong-future'
-published: 2025-08-01T00:00:00.000Z
-created: 2026-03-10T00:00:00.000Z
+published: 2025-08-01
+created: 2026-03-10
 tags:
   - strategia-AI
   - fundraising

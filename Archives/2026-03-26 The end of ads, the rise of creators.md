@@ -2,8 +2,8 @@
 type: Web
 authors: null
 url: 'https://partisan.community/blog/the-end-of-ads-the-rise-of-creators'
-published: null
-created: 2026-03-26T00:00:00.000Z
+published:
+created: 2026-03-26
 tags:
   - digital-campaigning
   - content-marketing

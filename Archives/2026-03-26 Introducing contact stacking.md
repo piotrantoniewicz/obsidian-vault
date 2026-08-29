@@ -2,8 +2,8 @@
 type: Web
 authors: '[[Caitlin Huxley]]'
 url: 'https://partisan.community/blog/introducing-contact-stacking'
-published: null
-created: 2026-03-26T00:00:00.000Z
+published:
+created: 2026-03-26
 tags:
   - digital-campaigning
   - fundraising

@@ -3,8 +3,8 @@ type: Web
 authors: '[[Łukasz Kosuniak]]'
 url: >-
   https://www.linkedin.com/pulse/sykofancja-ai-jak-cyfrowy-lizus-mo%C5%BCe-zniszczy%C4%87-tw%C3%B3j-%C5%82ukasz-kosuniak-ja8ff/
-published: 2026-03-26T00:00:00.000Z
-created: 2026-03-26T00:00:00.000Z
+published: 2026-03-26
+created: 2026-03-26
 tags:
   - strategia-AI
   - narzędzia-AI

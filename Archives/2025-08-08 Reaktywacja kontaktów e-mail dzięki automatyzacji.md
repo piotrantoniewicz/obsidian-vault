@@ -2,8 +2,8 @@
 type: Web
 authors: "[[Ecomail.pl]]"
 url: https://ecomail.pl/blog/pl/reaktywacja-kontaktow-za-pomoca-automatyzacji-jak-obudzic-uspione-leady-i-zwiekszyc-sprzedaz/?utm_campaign=2025_32_reaktywacja&utm_source=ecomail&utm_medium=email&utm_term=15545&ecmid=9813
-published: 2025-08-08T00:00:00.000Z
-created: 2026-03-02T00:00:00.000Z
+published: 2025-08-08
+created: 2026-03-02
 tags:
   - automatyzacja
   - digital-campaigning

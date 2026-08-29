@@ -2,8 +2,8 @@
 type: Web
 authors: "[[Stanford University]]"
 url: https://news.stanford.edu/stories/2025/11/ai-generated-political-messages-persuasion-research?utm_medium=email&_hsenc=p2ANqtz-8yhbPqFnE6lL9hBU0mXF_sgLp_kts5JZNOcp-Vj-wLmreFsuh0YEcsKU_tvbaN7MdbmnLtc8Q91f4LvPKRpDNHG535DbfJxwVLhK4eOlpZh1ZPzp0&_hsmi=122752062&utm_content=122752062&utm_source=hs_email
-published: 2025-11-06T00:00:00.000Z
-created: 2026-03-20T00:00:00.000Z
+published: 2025-11-06
+created: 2026-03-20
 tags:
   - trendy-AI
   - digital-campaigning

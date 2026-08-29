@@ -5,8 +5,8 @@ authors:
   - "[[Hahrie Han]]"
 url: https://knightcolumbia.org/content/ai-and-democratic-publics
 source: "[[2025-08-01 AI and Democratic Publics]]"
-published: 2025-08-01T00:00:00.000Z
-created: 2026-03-19T00:00:00.000Z
+published: 2025-08-01
+created: 2026-03-19
 relevance: wysoka
 tags:
   - strategia-AI

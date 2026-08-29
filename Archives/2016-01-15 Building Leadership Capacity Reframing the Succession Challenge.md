@@ -2,8 +2,8 @@
 type: Web
 authors: null
 url: 'https://www.bridgespan.org/insights/building-leadership-capacity'
-published: 2016-01-15T00:00:00.000Z
-created: 2026-04-17T00:00:00.000Z
+published: 2016-01-15
+created: 2026-04-17
 tags:
   - strategia-organizacji
   - organizacje-społeczne

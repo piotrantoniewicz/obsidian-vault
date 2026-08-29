@@ -2,8 +2,8 @@
 type: Web
 authors: '[[Ryan Carr]]'
 url: 'https://www.youtube.com/watch?v=tNir8inDLpA'
-published: 2026-04-16T00:00:00.000Z
-created: 2026-05-08T00:00:00.000Z
+published: 2026-04-16
+created: 2026-05-08
 tags:
   - narzędzia-AI
   - automatyzacja

@@ -3,8 +3,8 @@ type: Web
 authors: "[[Gayle Roberts]]"
 url: >-
   https://www.linkedin.com/pulse/googles-new-gmail-analytics-what-organizations-need-roberts-cfrm-xvomc/
-published: 2025-09-22T00:00:00.000Z
-created: 2026-03-20T00:00:00.000Z
+published: 2025-09-22
+created: 2026-03-20
 tags:
   - narzędzia-AI
   - organizacje-społeczne

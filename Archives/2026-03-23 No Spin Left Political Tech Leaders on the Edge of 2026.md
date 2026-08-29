@@ -3,8 +3,8 @@ type: Web
 authors: null
 url: >-
   https://hub.partisan.community/m/news/no-spin-left-political-tech-leaders-on-the-edge-of-2026/49a7c5fa-8c11-4df3-8637-34c3b440231b
-published: 2026-03-23T00:00:00.000Z
-created: 2026-03-26T00:00:00.000Z
+published: 2026-03-23
+created: 2026-03-26
 tags:
   - digital-campaigning
   - strategia-organizacji

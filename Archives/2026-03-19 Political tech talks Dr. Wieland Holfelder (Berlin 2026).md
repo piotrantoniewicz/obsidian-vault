@@ -2,8 +2,8 @@
 type: Web
 authors: '[[Cronos Europa]]'
 url: 'https://www.youtube.com/watch?v=Zn2RahxYipU'
-published: 2026-03-19T00:00:00.000Z
-created: 2026-03-26T00:00:00.000Z
+published: 2026-03-19
+created: 2026-03-26
 tags:
   - strategia-AI
   - trendy-AI

@@ -5,8 +5,8 @@ authors:
   - Cathy Rogers
   - Saul Levin
   - Philip Eubanks
-published: 2026-07-23T00:00:00.000Z
-created: 2026-07-24T00:00:00.000Z
+published: 2026-07-23
+created: 2026-07-24
 tags:
   - organizacje-społeczne
   - trendy-AI

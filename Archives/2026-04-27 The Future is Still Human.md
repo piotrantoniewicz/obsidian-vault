@@ -2,8 +2,8 @@
 type: Web
 authors: '[[Bryan Neider]]'
 url: 'https://www.linkedin.com/pulse/future-still-human-bryan-neider-mmtac/'
-published: 2026-04-27T00:00:00.000Z
-created: 2026-04-29T00:00:00.000Z
+published: 2026-04-27
+created: 2026-04-29
 tags:
   - szkolenia-AI
   - strategia-AI

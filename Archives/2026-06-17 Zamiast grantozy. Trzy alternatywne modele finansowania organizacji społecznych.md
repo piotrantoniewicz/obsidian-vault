@@ -3,8 +3,8 @@ type: Web
 authors: '[[Stowarzyszenie Klon/Jawor]]'
 url: >-
   https://www.linkedin.com/pulse/zamiast-grantozy-trzy-alternatywne-modele-finansowania-ytqlf/
-published: 2026-06-17T00:00:00.000Z
-created: 2026-06-17T00:00:00.000Z
+published: 2026-06-17
+created: 2026-06-17
 tags:
   - fundraising
   - organizacje-społeczne

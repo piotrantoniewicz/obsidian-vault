@@ -3,8 +3,8 @@ type: Web
 authors: '[[Bryan Neider]]'
 url: >-
   https://www.linkedin.com/pulse/north-star-turning-potential-practice-bryan-neider-y4l4c/?trackingId=u7%2Ff0ppQRgW3NGLsY4Yfhw%3D%3D
-published: 2026-04-22T00:00:00.000Z
-created: 2026-04-22T00:00:00.000Z
+published: 2026-04-22
+created: 2026-04-22
 tags:
   - strategia-AI
   - organizacje-społeczne

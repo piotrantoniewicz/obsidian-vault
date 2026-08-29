@@ -3,8 +3,8 @@ type: Web
 authors: null
 url: >-
   https://www.agilitylab.io/blog/privacy-infrastructure-revenue-business-benefits?utm_source=www.civicshoutnewsletter.com&utm_medium=newsletter&utm_campaign=the-tests-that-transformed-a-welcome-series&_bhlid=7ee37c37ac910e3e594415248138c87bd31d7ea0
-published: 2026-02-05T00:00:00.000Z
-created: 2026-03-23T00:00:00.000Z
+published: 2026-02-05
+created: 2026-03-23
 tags:
   - digital-campaigning
   - fundraising

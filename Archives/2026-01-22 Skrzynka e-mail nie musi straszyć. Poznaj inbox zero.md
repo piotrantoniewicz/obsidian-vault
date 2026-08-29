@@ -3,8 +3,8 @@ type: Web
 authors: '[[Filip Jędruch]]'
 url: >-
   https://sektor3-0.pl/blog/skrzynka-e-mail-nie-musi-straszyc-poznaj-inbox-zero/?utm_source=newsletter&utm_medium=email&utm_term=2026-03-24&utm_campaign=+AI+w+r%C4%99kach+Gospody%C5%84+Wiejskich
-published: 2026-01-22T00:00:00.000Z
-created: 2026-03-24T00:00:00.000Z
+published: 2026-01-22
+created: 2026-03-24
 tags:
   - narzędzia-AI
   - automatyzacja

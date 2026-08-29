@@ -3,8 +3,8 @@ type: Web
 authors: '[[maxgreenwood]]'
 url: >-
   https://campaignsandelections.com/industry-news/study-finds-most-political-consultants-using-ai/?utm_medium=email&_hsenc=p2ANqtz-8gA3fnk9BY3pePA7wWZ5_jjDXEeUZQ76KQs6aEgwYfI-j3Et6QZq0QgjjNMOl6rSmCs11UbCHjLY5Lxhsrz9AEeH8OUHmy-vpXWhmbQedbtV9-9lQ&_hsmi=110762810&utm_content=110762810&utm_source=hs_email
-published: 2025-05-23T00:00:00.000Z
-created: 2026-03-19T00:00:00.000Z
+published: 2025-05-23
+created: 2026-03-19
 tags:
   - narzędzia-AI
   - strategia-AI

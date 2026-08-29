@@ -3,8 +3,8 @@ type: Web
 authors:
   - "[[Lisa Aragon]]"
 url: https://www.nonprofitautomationagency.com/podcast/how-to-turn-your-impact-statement-into-a-fundraising-offer
-published: 2025-12-01T00:00:00.000Z
-created: 2026-03-04T00:00:00.000Z
+published: 2025-12-01
+created: 2026-03-04
 tags:
   - fundraising
   - framing

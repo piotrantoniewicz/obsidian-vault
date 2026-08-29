@@ -4,8 +4,8 @@ authors:
   - "[[Natasha Adams]]"
 url: https://thinkingdoingchanging.com/2025/07/02/we-need-new-strategies-for-the-far-right/
 source: "[[Archives/2025-07-02 We need new strategies to respond to the far right|2025-07-02 We need new strategies to respond to the far right]]"
-published: 2025-07-02T00:00:00.000Z
-created: 2026-03-19T00:00:00.000Z
+published: 2025-07-02
+created: 2026-03-19
 relevance: wysoka
 tags:
   - framing

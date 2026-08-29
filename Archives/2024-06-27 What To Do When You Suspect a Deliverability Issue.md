@@ -2,8 +2,8 @@
 type: Web
 authors: '[[Lauren Meyer]]'
 url: 'https://send-it-right.com/blog/what-to-do-with-deliverability-issues'
-published: 2024-06-27T00:00:00.000Z
-created: 2026-04-24T00:00:00.000Z
+published: 2024-06-27
+created: 2026-04-24
 tags:
   - digital-campaigning
   - fundraising

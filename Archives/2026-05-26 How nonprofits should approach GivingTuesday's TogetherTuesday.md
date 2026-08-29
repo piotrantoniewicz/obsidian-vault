@@ -3,8 +3,8 @@ type: Web
 authors: '[[Devon Welborn]]'
 url: >-
   https://blog.rkdgroup.com/how-nonprofits-should-approach-givingtuesdays-togethertuesday?utm_source=www.civicshoutnewsletter.com&utm_medium=newsletter&utm_campaign=what-happened-when-irc-branded-its-giving-tiers&_bhlid=3e132cb80bfe1666b76ce6c9166138717e747c0f
-published: 2026-05-26T00:00:00.000Z
-created: 2026-05-29T00:00:00.000Z
+published: 2026-05-26
+created: 2026-05-29
 tags:
   - fundraising
   - digital-campaigning

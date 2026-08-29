@@ -2,8 +2,8 @@
 type: Web
 authors: '[[Kindful]]'
 url: 'https://kindful.com/blog/best-peer-to-peer-fundraising-platforms/'
-published: 2024-05-29T00:00:00.000Z
-created: 2026-04-23T00:00:00.000Z
+published: 2024-05-29
+created: 2026-04-23
 tags:
   - fundraising
   - organizacje-społeczne

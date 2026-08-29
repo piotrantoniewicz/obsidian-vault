@@ -3,7 +3,7 @@ type: Web
 authors: "[[Arthur Perret]]"
 url: https://www.arthurperret.fr/blog/2024-11-14-student-guide-not-writing-with-chatgpt.html
 published:
-created: 2026-03-03T00:00:00.000Z
+created: 2026-03-03
 tags:
   - narzędzia-AI
   - szkolenia-AI

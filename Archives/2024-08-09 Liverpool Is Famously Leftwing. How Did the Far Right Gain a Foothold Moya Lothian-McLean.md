@@ -3,8 +3,8 @@ type: Web
 authors: '[[Moya Lothian-McLean]]'
 url: >-
   https://novaramedia.com/2024/08/09/liverpool-is-famously-leftwing-how-did-the-far-right-gain-a-foothold/
-published: 2024-08-09T00:00:00.000Z
-created: 2026-03-25T00:00:00.000Z
+published: 2024-08-09
+created: 2026-03-25
 tags:
   - framing
   - digital-campaigning

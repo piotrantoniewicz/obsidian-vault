@@ -3,8 +3,8 @@ type: Web
 authors: '[[Steve Newman]]'
 url: >-
   https://secondthoughts.ai/p/what-i-saw-around-the-curve?utm_source=substack&utm_medium=email
-published: 2025-10-30T00:00:00.000Z
-created: 2026-04-13T00:00:00.000Z
+published: 2025-10-30
+created: 2026-04-13
 tags:
   - trendy-AI
   - strategia-AI

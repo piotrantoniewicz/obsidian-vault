@@ -3,8 +3,8 @@ type: Web
 authors: '[[Beth O''Malley]]'
 url: >-
   https://weareastral.co.uk/thevault/the-science-of-sending-the-right-email-at-the-right-time?utm_medium=email&_hsenc=p2ANqtz-_WQzwlJpvM822Z3Xu8tXShn5yi_95ztkfSiHuO695tfVo9afBzO_Q1IwIpcEHmqjmCySYIlX8-ZX4ND_qdmpQF-XR76NpvNmB-7pXyR_eHtgo58uI&_hsmi=132947917&utm_content=132946496&utm_source=hs_email
-published: 2026-03-25T00:00:00.000Z
-created: 2026-04-13T00:00:00.000Z
+published: 2026-03-25
+created: 2026-04-13
 tags:
   - digital-campaigning
   - fundraising

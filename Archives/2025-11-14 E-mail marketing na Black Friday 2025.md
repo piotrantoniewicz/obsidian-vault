@@ -2,8 +2,8 @@
 type: Web
 authors: "[[Ecomail.pl]]"
 url: https://ecomail.pl/blog/pl/e-mail-marketing-na-black-friday-2025-jak-przygotowac-skuteczna-kampanie-ktora-sprzedaje-na-podstawie-wnioskow-z-poprzednich-lat/?utm_term=15545&utm_campaign=2025_46_BlackFriday&utm_source=ecomail&ecmid=9813&utm_medium=email
-published: 2025-11-14T00:00:00.000Z
-created: 2026-03-02T00:00:00.000Z
+published: 2025-11-14
+created: 2026-03-02
 tags:
   - digital-campaigning
   - content-marketing

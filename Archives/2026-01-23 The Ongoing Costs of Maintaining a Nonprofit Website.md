@@ -2,8 +2,8 @@
 type: Web
 authors: '[[Allyson Lough]]'
 url: 'https://wiredimpact.com/blog/ongoing-costs-maintaining-nonprofit-website/'
-published: 2026-01-23T00:00:00.000Z
-created: 2026-05-01T00:00:00.000Z
+published: 2026-01-23
+created: 2026-05-01
 tags:
   - organizacje-społeczne
   - strategia-organizacji

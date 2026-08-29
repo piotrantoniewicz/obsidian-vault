@@ -3,8 +3,8 @@ type: Web
 authors: '[[ngo.pl]]'
 url: >-
   https://publicystyka.ngo.pl/cyfrowa-rewolucja-w-kolach-gospodyn-wiejskich-524629-taup?utm_source=newsletter&utm_medium=email&utm_term=2026-03-24&utm_campaign=+Jak+dobrze+wyj%C5%9B%C4%87+z+social+medi%C3%B3w+
-published: 2026-02-04T00:00:00.000Z
-created: 2026-03-24T00:00:00.000Z
+published: 2026-02-04
+created: 2026-03-24
 tags:
   - narzędzia-AI
   - organizacje-społeczne

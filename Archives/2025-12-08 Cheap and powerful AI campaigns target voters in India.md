@@ -3,8 +3,8 @@ type: Web
 authors: ["[[Saurabh Sharma]]", "[[Raihana Maqbool]]", "[[Jane Seidel]]"]
 url: >-
   https://restofworld.org/2025/ai-india-election-campaigns/?ref=campaigntrend.com
-published: 2025-12-08T00:00:00.000Z
-created: 2026-03-26T00:00:00.000Z
+published: 2025-12-08
+created: 2026-03-26
 tags:
   - digital-campaigning
   - narzędzia-AI

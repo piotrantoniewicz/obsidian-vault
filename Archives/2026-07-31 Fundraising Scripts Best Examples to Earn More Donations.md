@@ -3,8 +3,8 @@ type: Web
 authors: '[[Ann Fellman]]'
 url: >-
   https://bloomerang.com/blog/fundraising-script?utm_medium=email&utm_source=marketo&utm_campaign=26Q3_EN1_FNL_in-bloom&utm_targeting=NA_all&utm_content=blog_script_email-08-14&mkt_tok=NjE4LVdHSS00NTkAAAGjoKEBOfN3Gu84kvlvVdfmBqfv0H8MafQG_HFvbpzBJkgph_vIEvdMtfa21Lx9JbsMFGqYksH6desCnvosRiS2RQJL1EGJ7W6aiYgUQ9hZPAaXikY
-published: 2026-07-31T00:00:00.000Z
-created: 2026-08-18T00:00:00.000Z
+published: 2026-07-31
+created: 2026-08-18
 tags:
   - fundraising
   - framing

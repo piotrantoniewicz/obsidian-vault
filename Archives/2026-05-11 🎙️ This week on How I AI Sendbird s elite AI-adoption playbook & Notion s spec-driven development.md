@@ -3,8 +3,8 @@ type: Web
 authors: '[[Lenny Rachitsky]]'
 url: >-
   https://www.lennysnewsletter.com/p/how-i-ai-quests-token-leaderboards?utm_source=substack&utm_medium=email&utm_campaign=email-restack-comment&r=4zdnrk&triedRedirect=true
-published: 2026-05-11T00:00:00.000Z
-created: 2026-05-11T00:00:00.000Z
+published: 2026-05-11
+created: 2026-05-11
 tags:
   - strategia-AI
   - szkolenia-AI

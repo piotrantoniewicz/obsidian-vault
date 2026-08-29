@@ -3,8 +3,8 @@ type: Web
 authors: '[[Marzena Kacprowicz]]'
 url: >-
   https://sektor3-0.pl/blog/jak-stworzyc-strone-internetowa-projektu-w-webflow-przewodnik-krok-po-kroku/?utm_source=newsletter&utm_medium=email&utm_term=2026-03-24&utm_campaign=+Jak+reklamowa%C4%87+organizacj%C4%99+na+FB+i+IG+
-published: 2025-11-04T00:00:00.000Z
-created: 2026-03-24T00:00:00.000Z
+published: 2025-11-04
+created: 2026-03-24
 tags:
   - organizacje-społeczne
   - produkty-cyfrowe

@@ -3,8 +3,8 @@ type: Web
 authors: '[[Future of Life Institute]]'
 url: >-
   https://futureoflife.org/ai-safety-index-summer-2025/?utm_source=substack&utm_medium=email
-published: 2025-07-17T00:00:00.000Z
-created: 2026-04-13T00:00:00.000Z
+published: 2025-07-17
+created: 2026-04-13
 tags:
   - strategia-AI
   - trendy-AI

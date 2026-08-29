@@ -3,8 +3,8 @@ type: Web
 authors: '[[Redakcja]]'
 url: >-
   https://haimagazine.com/pl/ai_news/ai-na-skroty/?utm_source=ActiveCampaign&utm_medium=email&utm_content=AI%20Flash%20Business%20%235&utm_campaign=AI%20Flash%20Business%20%233%20%28Kopiuj%29&utm_source=ActiveCampaign&utm_medium=email&utm_content=Zaskakuj%C4%85ce%20dane%20o%20AI%20w%20firmach%20%2B%20co%C5%9B%2C%20co%20pomo%C5%BCe%20Ci%20by%C4%87%20krok%20przed%20innymi&utm_campaign=AI%20dla%20firm%20-%20Mail%204
-published: 2025-10-08T00:00:00.000Z
-created: 2026-03-24T00:00:00.000Z
+published: 2025-10-08
+created: 2026-03-24
 tags:
   - strategia-AI
   - szkolenia-AI

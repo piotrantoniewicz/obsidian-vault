@@ -2,8 +2,8 @@
 type: Web
 authors: "[[Ecomail.pl]]"
 url: https://ecomail.pl/blog/pl/up-sell-i-cross-sell-w-e-mail-marketingu-best-practices-na-przykladzie-back-to-school/?utm_source=ecomail&utm_medium=email&ecmid=9813&utm_campaign=2025_34_upsell_crosssel&utm_term=15545
-published: 2025-08-23T00:00:00.000Z
-created: 2026-03-02T00:00:00.000Z
+published: 2025-08-23
+created: 2026-03-02
 tags:
   - digital-campaigning
   - content-marketing

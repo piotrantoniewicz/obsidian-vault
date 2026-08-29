@@ -2,8 +2,8 @@
 type: Web
 authors: '[[Bryan Neider]]'
 url: 'https://www.linkedin.com/pulse/power-many-shaped-team-bryan-neider-7s1qc/'
-published: 2026-05-11T00:00:00.000Z
-created: 2026-05-11T00:00:00.000Z
+published: 2026-05-11
+created: 2026-05-11
 tags:
   - strategia-organizacji
   - organizacje-społeczne

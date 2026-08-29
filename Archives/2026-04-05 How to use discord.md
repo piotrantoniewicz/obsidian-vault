@@ -3,8 +3,8 @@ type: Web
 authors: '[[European Center for Digital Action]]'
 url: >-
   https://www.centerfordigitalaction.eu/discord-guide?source=email-learning-from-polands-far-right&email_referrer=email_2760069&email_subject=what-are-ads-good-for&can_id=32cae499f95a9349c734a72403321b9c&link_id=9
-published: null
-created: 2026-04-05T00:00:00.000Z
+published:
+created: 2026-04-05
 tags:
   - digital-campaigning
   - organizacje-społeczne

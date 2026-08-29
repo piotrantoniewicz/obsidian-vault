@@ -3,8 +3,8 @@ type: Web
 authors: '[[Antje]]'
 url: >-
   https://commonslibrary.org/the-rebels-notebook-data-driven-strategy-for-activism/?link_id=18&can_id=32cae499f95a9349c734a72403321b9c&source=email-united-we-digitally-organize&email_referrer=email_2913437&email_subject=the-time-is-now
-published: 2025-09-16T00:00:00.000Z
-created: 2026-04-05T00:00:00.000Z
+published: 2025-09-16
+created: 2026-04-05
 tags:
   - digital-campaigning
   - strategia-organizacji

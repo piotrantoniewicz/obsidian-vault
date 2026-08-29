@@ -3,8 +3,8 @@ type: Web
 authors: '[[Filip Jędruch]]'
 url: >-
   https://sektor3-0.pl/blog/trendy-powinny-bazowac-na-obserwacjach-jak-czytac-raporty-i-wyciagac-z-nich-jak-najwiecej/?utm_source=newsletter&utm_medium=email&utm_term=2026-03-24&utm_campaign=ESG+w+NGO+krok+po+kroku+
-published: 2025-01-31T00:00:00.000Z
-created: 2026-03-24T00:00:00.000Z
+published: 2025-01-31
+created: 2026-03-24
 tags:
   - strategia-organizacji
   - trendy-AI

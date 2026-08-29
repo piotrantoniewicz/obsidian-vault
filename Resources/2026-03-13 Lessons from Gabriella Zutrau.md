@@ -4,8 +4,8 @@ authors:
   - "[[Jessica Hailstone]]"
 url: https://forwardaction.uk/blog/lessons-from-gabriella-zutrau-how-organic-social-helped-secure-a-win-for-mamdani/
 source: "[[Archives/2026-03-13 Lessons from Gabriella Zutrau|2026-03-13 Lessons from Gabriella Zutrau]]"
-published: 2026-03-13T00:00:00.000Z
-created: 2026-03-19T00:00:00.000Z
+published: 2026-03-13
+created: 2026-03-19
 relevance: wysoka
 tags:
   - fundraising

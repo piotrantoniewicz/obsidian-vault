@@ -3,8 +3,8 @@ type: Web
 authors: '[[Engaging Networks]]'
 url: >-
   https://www.engagingnetworks.net/blog/how-nonprofits-are-responding-to-ice/?utm_campaign=136965333-The%20Engager%20%7C%20Engaging%20Networks%20Monthly%20Newsletter&utm_medium=email&_hsenc=p2ANqtz--j8jxzaq5Gfc_ZLbL57rQRXpAjImXr-rZj27SxESH4R0ozYFOfACsJw-Ry4_C4PhNAburAbireFntEqaOPzeN7vd-8tbo0ElIlhU3u18BXZ6YfXB8&_hsmi=134089765&utm_content=134090107&utm_source=hs_email
-published: 2026-04-13T00:00:00.000Z
-created: 2026-04-24T00:00:00.000Z
+published: 2026-04-13
+created: 2026-04-24
 tags:
   - digital-campaigning
   - organizacje-społeczne

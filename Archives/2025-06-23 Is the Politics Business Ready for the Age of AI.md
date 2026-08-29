@@ -3,8 +3,8 @@ type: Web
 authors: '[[maxgreenwood]]'
 url: >-
   https://campaignsandelections.com/industry-news/is-the-politics-business-ready-for-the-ai-age/?utm_medium=email&_hsenc=p2ANqtz-9Y6LiqvXi3JBhW0MtXoV0_bVkd1UqubYLRL4THcnsiraeyqKT03_HMkQe2-H5jrhW0BogOI_n4V74vzBQvHz37p_1RIoamguyaGK0v8-6WaWEPanA&_hsmi=112708171&utm_content=112708171&utm_source=hs_email
-published: 2025-06-23T00:00:00.000Z
-created: 2026-03-19T00:00:00.000Z
+published: 2025-06-23
+created: 2026-03-19
 tags:
   - narzędzia-AI
   - digital-campaigning

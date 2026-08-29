@@ -3,8 +3,8 @@ type: Web
 authors: '[[Philippe Bossin]]'
 url: >-
   https://www.centerfordigitalaction.eu/post/doorstep-meets-digital?source=newsletter&link_id=9&can_id=32cae499f95a9349c734a72403321b9c&email_referrer=email_3081630&email_subject=take-risks-be-brave-and-be-bold&
-published: 2026-01-27T00:00:00.000Z
-created: 2026-04-06T00:00:00.000Z
+published: 2026-01-27
+created: 2026-04-06
 tags:
   - digital-campaigning
   - organizacje-społeczne

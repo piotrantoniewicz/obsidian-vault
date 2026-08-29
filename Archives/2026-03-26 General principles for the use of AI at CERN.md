@@ -3,8 +3,8 @@ type: Web
 authors: '[[Topic]]'
 url: >-
   https://home.cern/news/official-news/knowledge-sharing/general-principles-use-ai-cern?utm_source=ActiveCampaign&utm_medium=email&utm_content=Zobacz%20podsumowanie%20marca%20i%20zapowiedzi%20na%20kwiecie%C5%84%20w%20CampusAI%21&utm_campaign=Projekty%2C%20inspiracje%20i%20kolejne%20kroki%2C%20do%20kt%C3%B3rych%20mo%C5%BCesz%20do%C5%82%C4%85czy%C4%87
-published: 2026-03-26T00:00:00.000Z
-created: 2026-03-28T00:00:00.000Z
+published: 2026-03-26
+created: 2026-03-28
 tags:
   - strategia-AI
   - organizacje-społeczne

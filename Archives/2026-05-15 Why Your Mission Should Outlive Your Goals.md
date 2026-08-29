@@ -3,8 +3,8 @@ type: Web
 authors: '[[Bryan Neider]]'
 url: >-
   https://www.linkedin.com/pulse/why-your-mission-should-outlive-goals-bryan-neider-xs1qc/
-published: 2026-05-15T00:00:00.000Z
-created: 2026-05-18T00:00:00.000Z
+published: 2026-05-15
+created: 2026-05-18
 tags:
   - organizacje-społeczne
   - strategia-organizacji

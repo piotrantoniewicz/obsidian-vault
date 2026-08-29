@@ -3,8 +3,8 @@ type: Web
 authors: '[[Engaging Networks]]'
 url: >-
   https://www.engagingnetworks.net/blog/summer-fundraising-ideas/?utm_campaign=136965333-The%20Engager%20%7C%20Engaging%20Networks%20Monthly%20Newsletter&utm_medium=email&_hsenc=p2ANqtz-_TmMC9GPK_V9Rfn86Zl9t1LZKYphiHkNyobacgsE4Wf8Fsy2r5qZ6VObIs_7ziz2csbynwnX455hg5P5bl82qPCIlSCmNAKFdpB-_mQ9FIccS45lk&_hsmi=134089765&utm_content=134090107&utm_source=hs_email
-published: 2026-04-06T00:00:00.000Z
-created: 2026-04-24T00:00:00.000Z
+published: 2026-04-06
+created: 2026-04-24
 tags:
   - fundraising
   - digital-campaigning

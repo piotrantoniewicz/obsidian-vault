@@ -3,8 +3,8 @@ type: Web
 authors: '[[Bartłomiej Polakowski]]'
 url: >-
   https://sektor3-0.pl/blog/jak-stworzyc-nowoczesny-ekosystem-szkoleniowy-w-organizacji-w-7-krokach/
-published: 2020-04-06T00:00:00.000Z
-created: 2026-03-24T00:00:00.000Z
+published: 2020-04-06
+created: 2026-03-24
 tags:
   - szkolenia-AI
   - strategia-organizacji

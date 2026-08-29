@@ -2,8 +2,8 @@
 type: Web
 authors: "[[Caroline Griffin]]"
 url: https://www.idonate.com/blog/match-your-message-aligning-your-year-end-donation-page-with-your-campaign
-published: 2025-12-09T00:00:00.000Z
-created: 2026-03-02T00:00:00.000Z
+published: 2025-12-09
+created: 2026-03-02
 tags:
   - fundraising
   - digital-campaigning

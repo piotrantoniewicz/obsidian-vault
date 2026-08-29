@@ -3,8 +3,8 @@ type: Web
 authors: '[[Robbin Warner]]'
 url: >-
   https://grassrootsconnector.substack.com/p/how-virginia-won-big-a-story-of-the?utm_medium=email&_hsenc=p2ANqtz-_M2wOZ6R34F9SkMPiySrivHge1Zr9uh789O60WPLP2OVgxVCW7cL-32PBe-Jd82WOMYV4qBR-riDiCstK1zUtIZ16JJmYVu0P85mcxrEHrGAKMt9k&_hsmi=122752062&utm_content=122752062&utm_source=hs_email
-published: 2025-11-07T00:00:00.000Z
-created: 2026-03-20T00:00:00.000Z
+published: 2025-11-07
+created: 2026-03-20
 tags:
   - digital-campaigning
   - strategia-organizacji

@@ -2,8 +2,8 @@
 type: Web
 authors: '[[Collective Intelligence Project]]'
 url: 'https://blog.cip.org/p/how-ai-is-reshaping-our-realities'
-published: 2026-02-11T00:00:00.000Z
-created: 2026-04-13T00:00:00.000Z
+published: 2026-02-11
+created: 2026-04-13
 tags:
   - trendy-AI
   - LLM

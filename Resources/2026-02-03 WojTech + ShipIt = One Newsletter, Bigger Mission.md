@@ -1,7 +1,7 @@
 ---
 categories:
   - "Emails"
-published: 03.02.2026
+published: 2026-02-03
 created: 2026-03-06
 labels:
   - "Wojtek Strzałkowski"

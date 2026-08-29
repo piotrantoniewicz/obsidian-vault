@@ -4,8 +4,8 @@ authors:
   - "[[GoodChange]]"
 url: https://home.goodchange.app/post/donors-arent-stuck-on-one-platform-heres-the-proof
 source: "[[Archives/2026-03-18 Donors Aren t Stuck on One Platform—Here s the Proof|2026-03-18 Donors Aren t Stuck on One Platform—Here s the Proof]]"
-published: 2025-08-16T00:00:00.000Z
-created: 2026-03-19T00:00:00.000Z
+published: 2025-08-16
+created: 2026-03-19
 relevance: wysoka
 tags:
   - fundraising

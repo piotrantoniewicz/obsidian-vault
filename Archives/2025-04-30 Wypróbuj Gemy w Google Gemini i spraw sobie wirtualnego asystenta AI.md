@@ -3,8 +3,8 @@ type: Web
 authors: '[[ngo.pl]]'
 url: >-
   https://publicystyka.ngo.pl/wyprobuj-gemy-w-google-gemini-i-spraw-sobie-wirtualnego-asystenta-ai-tau?utm_source=newsletter&utm_medium=email&utm_term=2026-03-24&utm_campaign=Czy+potrzebujesz+asystenta+
-published: 2025-04-30T00:00:00.000Z
-created: 2026-03-24T00:00:00.000Z
+published: 2025-04-30
+created: 2026-03-24
 tags:
   - narzędzia-AI
   - automatyzacja

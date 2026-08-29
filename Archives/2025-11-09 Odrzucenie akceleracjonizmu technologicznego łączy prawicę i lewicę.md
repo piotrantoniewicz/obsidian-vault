@@ -3,8 +3,8 @@ type: Web
 authors: '[[Jacek Mańko]]'
 url: >-
   https://blog.humanistyka.dev/2025/11/odrzucenie-akceleracjonizmu-technologicznego-laczy-prawice-i-lewice
-published: 2025-11-09T00:00:00.000Z
-created: 2026-06-14T00:00:00.000Z
+published: 2025-11-09
+created: 2026-06-14
 tags:
   - trendy-AI
   - strategia-AI

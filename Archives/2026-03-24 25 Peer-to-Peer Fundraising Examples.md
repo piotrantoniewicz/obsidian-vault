@@ -2,8 +2,8 @@
 type: Web
 authors: '[[CauseVox]]'
 url: 'https://www.causevox.com/blog/peer-to-peer-fundraising-examples/'
-published: 2026-03-24T00:00:00.000Z
-created: 2026-04-22T00:00:00.000Z
+published: 2026-03-24
+created: 2026-04-22
 tags:
   - fundraising
   - digital-campaigning

@@ -2,8 +2,8 @@
 type: Web
 authors: "[[Patrick Stevenson]]"
 url: https://www.fwiw.news/p/why-democrats-are-still-bad-at-the?open=false#%C2%A7why-democrats-are-still-bad-at-the-internet
-published: 2025-07-18T00:00:00.000Z
-created: 2026-03-02T00:00:00.000Z
+published: 2025-07-18
+created: 2026-03-02
 tags:
   - digital-campaigning
   - content-marketing

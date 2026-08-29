@@ -3,8 +3,8 @@ type: Web
 authors: '[[Adam Bonica]]'
 url: >-
   https://data4democracy.substack.com/p/the-mothership-vortex-a-quick-update?utm_medium=email&_hsenc=p2ANqtz-9hegiq0OHFSNK9By7jPKTU3lrIeP0DRHqDhTs1bB8-plA_vnL-RWbZ0H6VnASrfzPzSY7gHjuYnld8NVAnmfg_wByEfUmr8uXVFvuH8oOA4MF5Yco&_hsmi=115320471&utm_content=115320471&utm_source=hs_email
-published: 2025-08-12T00:00:00.000Z
-created: 2026-03-19T00:00:00.000Z
+published: 2025-08-12
+created: 2026-03-19
 tags:
   - digital-campaigning
   - fundraising

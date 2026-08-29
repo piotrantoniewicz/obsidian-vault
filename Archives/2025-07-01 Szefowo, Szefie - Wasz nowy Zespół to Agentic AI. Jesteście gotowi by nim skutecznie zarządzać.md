@@ -3,8 +3,8 @@ type: Web
 authors: '[[Marek Staniszewski]]'
 url: >-
   https://www.linkedin.com/pulse/szefie-tw%C3%B3j-nowy-zesp%C3%B3%C5%82-agentic-ai-jeste%C5%9B-got%C3%B3w-nim-staniszewski-p4yjf/
-published: 2025-07-01T00:00:00.000Z
-created: 2026-04-12T00:00:00.000Z
+published: 2025-07-01
+created: 2026-04-12
 tags:
   - strategia-AI
   - narzędzia-AI

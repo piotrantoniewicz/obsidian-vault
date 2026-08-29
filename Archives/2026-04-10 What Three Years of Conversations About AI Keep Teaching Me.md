@@ -3,8 +3,8 @@ type: Web
 authors: '[[Kyle Behrend]]'
 url: >-
   https://kylebehrend.substack.com/p/what-three-years-of-conversations?r=62y3&utm_campaign=post&utm_medium=web&triedRedirect=true
-published: 2026-04-10T00:00:00.000Z
-created: 2026-04-11T00:00:00.000Z
+published: 2026-04-10
+created: 2026-04-11
 tags:
   - strategia-AI
   - szkolenia-AI

@@ -3,8 +3,8 @@ type: Web
 authors: '[[Ece Sen]]'
 url: >-
   https://medium.com/@ecesen/the-eu-ai-act-doesnt-just-target-big-tech-it-also-binds-governments-461a60a84637
-published: 2025-09-11T00:00:00.000Z
-created: 2026-03-26T00:00:00.000Z
+published: 2025-09-11
+created: 2026-03-26
 tags:
   - strategia-AI
   - narzędzia-AI

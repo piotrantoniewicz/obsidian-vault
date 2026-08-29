@@ -3,8 +3,8 @@ type: Web
 authors: '[[Ned Howey]]'
 url: >-
   https://www.linkedin.com/pulse/drift-how-constituents-stopped-being-center-ned-howey-xgbue/
-published: 2026-08-18T00:00:00.000Z
-created: 2026-08-18T00:00:00.000Z
+published: 2026-08-18
+created: 2026-08-18
 tags:
   - digital-campaigning
   - organizacje-społeczne

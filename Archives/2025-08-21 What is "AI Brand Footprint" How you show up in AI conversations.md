@@ -2,8 +2,8 @@
 type: Web
 authors: "[[George Weiner]]"
 url: https://wholewhale.com/tips/measuring-your-ai-brand-footprint-the-hidden-visibility-challenge/
-published: 2025-08-21T00:00:00.000Z
-created: 2026-03-02T00:00:00.000Z
+published: 2025-08-21
+created: 2026-03-02
 tags:
   - narzędzia-AI
   - strategia-AI

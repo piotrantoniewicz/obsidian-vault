@@ -2,8 +2,8 @@
 type: Web
 authors: "[[Caroline Griffin]]"
 url: https://www.idonate.com/blog/did-it-work-assessing-your-year-end-campaign-performance
-published: 2026-01-06T00:00:00.000Z
-created: 2026-03-02T00:00:00.000Z
+published: 2026-01-06
+created: 2026-03-02
 tags:
   - fundraising
   - digital-campaigning

@@ -2,8 +2,8 @@
 type: Web
 authors: "[[Marina Moreira]]"
 url: 'https://www.raisely.com/blog/ai-for-nonprofits/'
-published: 2025-04-24T00:00:00.000Z
-created: 2026-03-11T00:00:00.000Z
+published: 2025-04-24
+created: 2026-03-11
 tags:
   - fundraising
   - narzędzia-AI

@@ -3,8 +3,8 @@ type: Web
 authors: '[[Ann Fellman]]'
 url: >-
   https://bigduck.com/insights/4-tips-to-build-a-monthly-giving-communications-strategy/?utm_source=www.civicshoutnewsletter.com&utm_medium=newsletter&utm_campaign=an-email-list-that-starts-with-advocacy-first&_bhlid=2552dd56333131dac450d241a768491342cf9db4
-published: 2026-08-11T00:00:00.000Z
-created: 2026-08-25T00:00:00.000Z
+published: 2026-08-11
+created: 2026-08-25
 tags:
   - fundraising
   - automatyzacja

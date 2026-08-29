@@ -3,8 +3,8 @@ type: Web
 authors: '[[Tim De Chant]]'
 url: >-
   https://techcrunch.com/2025/09/24/how-al-gore-used-ai-to-track-660m-polluters/?utm_source=substack&utm_medium=email
-published: 2025-09-24T00:00:00.000Z
-created: 2026-04-13T00:00:00.000Z
+published: 2025-09-24
+created: 2026-04-13
 tags:
   - narzędzia-AI
   - organizacje-społeczne

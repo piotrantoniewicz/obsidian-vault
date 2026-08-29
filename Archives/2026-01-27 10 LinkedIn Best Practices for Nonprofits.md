@@ -3,8 +3,8 @@ type: Web
 authors: '[[Heather Mansfield]]'
 url: >-
   https://www.nptechforgood.com/101-best-practices/10-linkedin-best-practices-for-nonprofits/
-published: 2026-01-27T00:00:00.000Z
-created: 2026-04-07T00:00:00.000Z
+published: 2026-01-27
+created: 2026-04-07
 tags:
   - digital-campaigning
   - fundraising

@@ -2,8 +2,8 @@
 type: Web
 authors: '[[American Association of Political Consultants]]'
 url: 'https://www.linkedin.com/pulse/ai-voter-trends-2024-surprises-aapc-u8one/'
-published: 2025-06-13T00:00:00.000Z
-created: 2026-03-25T00:00:00.000Z
+published: 2025-06-13
+created: 2026-03-25
 tags:
   - digital-campaigning
   - strategia-AI

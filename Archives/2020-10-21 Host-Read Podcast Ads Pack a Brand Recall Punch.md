@@ -3,8 +3,8 @@ type: Web
 authors: '[[William Quinn]]'
 url: >-
   https://www.nielsen.com/insights/2020/host-read-podcast-ads-pack-a-brand-recall-punch/
-published: 2020-10-21T00:00:00.000Z
-created: 2026-04-29T00:00:00.000Z
+published: 2020-10-21
+created: 2026-04-29
 tags:
   - content-marketing
   - digital-campaigning

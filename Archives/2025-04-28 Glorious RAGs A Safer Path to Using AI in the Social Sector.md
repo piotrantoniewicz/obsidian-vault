@@ -3,8 +3,8 @@ type: Web
 authors: '[[Jim Fruchterman]]'
 url: >-
   https://blogs.lse.ac.uk/socialbusinesshub/2025/04/28/glorious-rags-a-safer-path-to-using-ai-in-the-social-sector/?utm_source=substack&utm_medium=email
-published: 2025-04-28T00:00:00.000Z
-created: 2026-04-12T00:00:00.000Z
+published: 2025-04-28
+created: 2026-04-12
 tags:
   - strategia-AI
   - narzędzia-AI

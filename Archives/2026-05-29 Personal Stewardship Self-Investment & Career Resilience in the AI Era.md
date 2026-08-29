@@ -3,8 +3,8 @@ type: Web
 authors: '[[Bryan Neider]]'
 url: >-
   https://www.linkedin.com/pulse/personal-stewardship-self-investment-career-ai-era-bryan-neider-deqcc/
-published: 2026-05-29T00:00:00.000Z
-created: 2026-05-29T00:00:00.000Z
+published: 2026-05-29
+created: 2026-05-29
 tags:
   - strategia-AI
   - trendy-AI

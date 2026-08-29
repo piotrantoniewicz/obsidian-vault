@@ -2,8 +2,8 @@
 type: Web
 authors: '[[Filip Jędruch]]'
 url: 'https://sektor3-0.pl/blog/zamiana-mowy-w-tekst/'
-published: 2023-10-31T00:00:00.000Z
-created: 2026-03-24T00:00:00.000Z
+published: 2023-10-31
+created: 2026-03-24
 tags:
   - narzędzia-AI
   - automatyzacja

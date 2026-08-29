@@ -2,8 +2,8 @@
 type: Web
 authors: '[[Steven Screen]]'
 url: 'https://betterfundraising.com/donors-are-different-when-youre-small/'
-published: 2026-02-19T00:00:00.000Z
-created: 2026-04-18T00:00:00.000Z
+published: 2026-02-19
+created: 2026-04-18
 tags:
   - fundraising
   - organizacje-społeczne

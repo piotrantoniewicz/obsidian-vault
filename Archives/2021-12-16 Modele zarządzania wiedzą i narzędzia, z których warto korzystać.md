@@ -3,8 +3,8 @@ type: Web
 authors: '[[Marzena Kacprowicz]]'
 url: >-
   https://sektor3-0.pl/blog/zarzadzaj-swoja-wiedza-oto-kilka-modeli-i-narzedzi-ktore-mozesz-wykorzystac/
-published: 2021-12-16T00:00:00.000Z
-created: 2026-03-24T00:00:00.000Z
+published: 2021-12-16
+created: 2026-03-24
 tags:
   - strategia-organizacji
   - organizacje-społeczne

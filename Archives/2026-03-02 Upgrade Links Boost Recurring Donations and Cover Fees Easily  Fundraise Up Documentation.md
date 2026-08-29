@@ -2,8 +2,8 @@
 type: Web
 authors: '[[Fundraise Up]]'
 url: 'https://fundraiseup.com/docs/upgrade-links/'
-published: null
-created: 2026-03-02T00:00:00.000Z
+published:
+created: 2026-03-02
 tags:
   - fundraising
   - automatyzacja

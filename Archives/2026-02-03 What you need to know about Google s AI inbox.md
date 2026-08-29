@@ -3,8 +3,8 @@ type: Web
 authors: '[[Sara Cederberg]]'
 url: >-
   https://www.civicshoutnewsletter.com/p/what-you-need-to-know-about-google-s-ai-inbox?utm_source=www.civicshoutnewsletter.com&utm_medium=newsletter&utm_campaign=the-deliverability-signal-you-might-be-ignoring&_bhlid=3e570c61418e7c134e53727252f7bb47769dadbd
-published: 2026-02-03T00:00:00.000Z
-created: 2026-04-18T00:00:00.000Z
+published: 2026-02-03
+created: 2026-04-18
 tags:
   - digital-campaigning
   - fundraising

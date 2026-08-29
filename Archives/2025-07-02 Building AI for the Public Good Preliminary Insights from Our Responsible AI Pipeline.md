@@ -3,8 +3,8 @@ type: Web
 authors: '[[New Rising Ventures]]'
 url: >-
   https://newrisingventures.substack.com/p/building-ai-for-the-public-good-preliminary?utm_medium=email&_hsenc=p2ANqtz-86OG-Ipqs64NbaOY2h0JHTRVLPes3GUc8JhUJf3VBWezLB8iauXA6TFtl5WNnPQJyLLS-WnKaO0NUkKIk5MLRLrZJs4zhwtcjZ75pembXo6_9UlvQ&_hsmi=114225492&utm_content=114225492&utm_source=hs_email
-published: 2025-07-02T00:00:00.000Z
-created: 2026-03-19T00:00:00.000Z
+published: 2025-07-02
+created: 2026-03-19
 tags:
   - strategia-AI
   - organizacje-społeczne

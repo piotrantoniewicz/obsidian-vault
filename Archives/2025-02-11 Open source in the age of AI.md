@@ -6,8 +6,8 @@ authors:
   - "[[Brittany Presten]]"
   - "[[Katherine Ottenbreit]]"
 url: https://www.mckinsey.com/capabilities/tech-and-ai/our-insights/tech-forward/open-source-in-the-age-of-ai?utm_source=substack&utm_medium=email
-published: 2025-02-11T00:00:00.000Z
-created: 2026-03-02T00:00:00.000Z
+published: 2025-02-11
+created: 2026-03-02
 tags:
   - strategia-AI
   - narzędzia-AI

@@ -3,8 +3,8 @@ type: Web
 authors: '[[Mateusz Wojdalski]]'
 url: >-
   https://devstockacademy.pl/blog/aktualnosci-i-wydarzenia/paperclip-ai-zero-human-company/?utm_source=newsletter&utm_medium=email&utm_term=2026-04-12&utm_campaign=Firma%20bez%20pracownik%C3%B3w%20Dos%C5%82ownie%20
-published: 2026-03-30T00:00:00.000Z
-created: 2026-04-12T00:00:00.000Z
+published: 2026-03-30
+created: 2026-04-12
 tags:
   - automatyzacja
   - narzędzia-AI

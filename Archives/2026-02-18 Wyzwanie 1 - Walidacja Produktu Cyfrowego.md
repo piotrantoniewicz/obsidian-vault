@@ -2,8 +2,8 @@
 type: Web
 authors: '[[easytools]]'
 url: 'https://www.youtube.com/watch?v=414EnrEbgNk'
-published: 2026-02-18T00:00:00.000Z
-created: 2026-03-25T00:00:00.000Z
+published: 2026-02-18
+created: 2026-03-25
 tags:
   - produkty-cyfrowe
   - strategia-organizacji

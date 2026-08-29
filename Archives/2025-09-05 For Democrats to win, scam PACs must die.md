@@ -2,8 +2,8 @@
 type: Web
 authors: "[[kosDaily Kos StaffFollowView Profile]]"
 url: https://www.dailykos.com/stories/2025/9/4/2341652/-For-Democrats-to-win-scam-PACs-must-die?utm_medium=email&_hsenc=p2ANqtz-8THIDmBUdQhoRnyDQ-iKqcGDEpO6Xix3GfWLqTlbALMHsJI5GdYMB_d1EBWk3yYn1ekKBY3JRxCdYnLPbHku-aV5DZtKot0xVRJ--3iVteKM7XjIk&_hsmi=117692597&utm_content=117692597&utm_source=hs_email
-published: 2025-09-05T00:00:00.000Z
-created: 2026-03-20T00:00:00.000Z
+published: 2025-09-05
+created: 2026-03-20
 tags:
   - digital-campaigning
   - fundraising

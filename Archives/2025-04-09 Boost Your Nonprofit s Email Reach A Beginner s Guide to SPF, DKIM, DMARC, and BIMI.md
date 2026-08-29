@@ -3,8 +3,8 @@ type: Web
 authors: '[[Jeff Robertson]]'
 url: >-
   https://www.truesense.com/blog/boost-your-nonprofits-email-reach-a-beginners-guide-to-spf-dkim-dmarc-and-bimi?utm_source=www.civicshoutnewsletter.com&utm_medium=newsletter&utm_campaign=bimi-why-your-logo-belongs-in-the-inbox&_bhlid=cd89f5acb53271b457c2a83d563a63af173b3c82
-published: 2025-04-09T00:00:00.000Z
-created: 2026-03-23T00:00:00.000Z
+published: 2025-04-09
+created: 2026-03-23
 tags:
   - digital-campaigning
   - organizacje-społeczne

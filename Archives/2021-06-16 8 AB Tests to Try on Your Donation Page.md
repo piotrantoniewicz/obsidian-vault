@@ -3,8 +3,8 @@ type: Web
 authors: '[[Nathan Hill]]'
 url: >-
   https://www.nextafter.com/blog/8-a-b-tests-to-try-on-your-donation-page/?utm_source=www.civicshoutnewsletter.com&utm_medium=newsletter&utm_campaign=a-simple-testing-approach-for-overwhelmed-teams&_bhlid=3af33480be21a6624880d42944c97d53c2195569
-published: 2021-06-16T00:00:00.000Z
-created: 2026-03-23T00:00:00.000Z
+published: 2021-06-16
+created: 2026-03-23
 tags:
   - fundraising
   - digital-campaigning

@@ -2,8 +2,8 @@
 type: Web
 authors: '[[Gia Chow]]'
 url: 'https://www.causevox.com/blog/7-ideas-to-motivate-peer-to-peer-fundraisers/'
-published: 2025-08-28T00:00:00.000Z
-created: 2026-04-22T00:00:00.000Z
+published: 2025-08-28
+created: 2026-04-22
 tags:
   - fundraising
   - digital-campaigning

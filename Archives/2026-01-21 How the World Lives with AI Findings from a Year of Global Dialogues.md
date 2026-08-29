@@ -2,8 +2,8 @@
 type: Web
 authors: '[[Collective Intelligence Project]]'
 url: 'https://blog.cip.org/p/2025gdindex'
-published: 2026-01-21T00:00:00.000Z
-created: 2026-04-13T00:00:00.000Z
+published: 2026-01-21
+created: 2026-04-13
 tags:
   - trendy-AI
   - digital-campaigning

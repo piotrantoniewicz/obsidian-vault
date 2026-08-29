@@ -4,7 +4,7 @@ authors: '[[The Democracy Labs]]'
 url: >-
   https://thedemlabs.org/2025/03/09/how-grassroots-activists-can-moblize-and-organize-protests-faster-community-alert-system/?utm_medium=email&_hsenc=p2ANqtz-_oJ1T7-EKRB2fe1Ar3SxvUgmBvv9f9tcbxEVJVf3Il0aN8x0C8-A_Hgw-91lt2Za8S8Ksqhv2YvHYxWIH9VJZcHDxAPXyavxqQX75JE11PbRi9U40&_hsmi=105923428&utm_content=105923428&utm_source=hs_email
 published: '2025-03-09'
-created: 2026-03-19T00:00:00.000Z
+created: 2026-03-19
 tags:
   - digital-campaigning
   - organizacje-społeczne

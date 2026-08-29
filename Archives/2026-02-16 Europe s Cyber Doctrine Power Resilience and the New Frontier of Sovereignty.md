@@ -3,8 +3,8 @@ type: Web
 authors: null
 url: >-
   https://hub.partisan.community/m/news/europes-cyber-doctrine-power-resilience-and-the-new-frontier-of-sovereignty/83ead8ff-ff61-4ac1-98ba-39a4dc8f6aa0
-published: 2026-02-16T00:00:00.000Z
-created: 2026-03-26T00:00:00.000Z
+published: 2026-02-16
+created: 2026-03-26
 tags:
   - digital-campaigning
   - strategia-organizacji

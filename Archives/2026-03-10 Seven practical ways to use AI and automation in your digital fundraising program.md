@@ -3,8 +3,8 @@ type: Web
 authors: '[[Jordan Harp]]'
 url: >-
   https://www.centerfordigitalaction.eu/post/7-practical-ways-to-use-ai-and-automation-in-your-digital-fundraising-program?source=newsletter&link_id=8&can_id=32cae499f95a9349c734a72403321b9c&email_referrer=email_3141049&email_subject=trainings-trade-unions-tiktok-and-more&
-published: 2026-03-10T00:00:00.000Z
-created: 2026-04-06T00:00:00.000Z
+published: 2026-03-10
+created: 2026-04-06
 tags:
   - fundraising
   - automatyzacja

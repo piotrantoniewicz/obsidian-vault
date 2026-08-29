@@ -3,8 +3,8 @@ type: Web
 authors: '[[Kate Knibbs]]'
 url: >-
   https://www.wired.com/story/big-interview-jay-graber-bluesky/?utm_source=nl&utm_brand=wired&utm_mailing=WIR_Daily_051925_Special&utm_campaign=aud-dev&utm_medium=email&utm_content=WIR_Daily_051925_Special&bxid=5be9ec083f92a40469115c8e&cndid=24838162&hasha=9aefa71c7bbca284e053bf1f1e38fc7f&hashb=f44ac20c31bda3e00121cc2f0f5551e340a6daf6&hashc=f98f4cf49f11dad4974db4b0055c28e6cf9c401034d741bfd4ca57c7d444f9e6&esrc=manage-page&utm_term=WIR_Daily
-published: 2025-05-19T00:00:00.000Z
-created: 2026-03-25T00:00:00.000Z
+published: 2025-05-19
+created: 2026-03-25
 tags:
   - digital-campaigning
   - strategia-organizacji

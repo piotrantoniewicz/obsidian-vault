@@ -2,8 +2,8 @@
 type: Web
 authors: "[[Cath Everett]]"
 url: https://diginomica.com/career-coaching-farming-how-two-ngos-driving-change-agentic-ai?utm_source=substack&utm_medium=email
-published: 2025-03-24T00:00:00.000Z
-created: 2026-03-02T00:00:00.000Z
+published: 2025-03-24
+created: 2026-03-02
 tags:
   - strategia-AI
   - narzędzia-AI

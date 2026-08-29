@@ -2,8 +2,8 @@
 type: Web
 authors: '[[NextAfter]]'
 url: 'https://www.youtube.com/watch?v=6Ca3YbcHf9M'
-published: 2025-11-24T00:00:00.000Z
-created: 2026-05-07T00:00:00.000Z
+published: 2025-11-24
+created: 2026-05-07
 tags:
   - fundraising
   - digital-campaigning

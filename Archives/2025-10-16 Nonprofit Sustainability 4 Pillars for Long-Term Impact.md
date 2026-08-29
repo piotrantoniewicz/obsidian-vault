@@ -2,8 +2,8 @@
 type: Web
 authors: "[[Evan Wildstein]]"
 url: https://thenonprofithive.com/nonprofit-sustainability-impact/
-published: 2025-10-16T00:00:00.000Z
-created: 2026-03-04T00:00:00.000Z
+published: 2025-10-16
+created: 2026-03-04
 tags:
   - organizacje-społeczne
   - fundraising

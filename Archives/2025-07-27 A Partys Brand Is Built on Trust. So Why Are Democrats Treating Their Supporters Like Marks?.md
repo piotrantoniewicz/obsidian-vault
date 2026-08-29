@@ -2,8 +2,8 @@
 type: Web
 authors: "[[Adam Bonica]]"
 url: https://data4democracy.substack.com/p/the-most-valuable-thing-a-party-has?utm_source=www.civicshoutnewsletter.com&utm_medium=newsletter&utm_campaign=gmail-just-made-unsubscribing-easier&_bhlid=1380c3b63bb9afac1ba844167191a80a90d2d26d
-published: 2025-07-27T00:00:00.000Z
-created: 2026-03-04T00:00:00.000Z
+published: 2025-07-27
+created: 2026-03-04
 tags:
   - fundraising
   - digital-campaigning

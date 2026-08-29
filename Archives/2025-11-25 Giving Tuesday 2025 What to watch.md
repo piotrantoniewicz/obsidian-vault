@@ -3,8 +3,8 @@ type: Web
 authors: '[[Sara Cederberg]]'
 url: >-
   https://www.civicshoutnewsletter.com/p/giving-tuesday-2025-what-to-watch?utm_source=www.civicshoutnewsletter.com&utm_medium=newsletter&utm_campaign=an-initial-look-at-giving-tuesday-results&_bhlid=f22b7cec382b015c374ba44025dbb38e746b8a10&jwt_token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWJzY3JpYmVyX2lkIjoiMjEzOTgyMjgtYzdjNC00OGRkLTk3OTctZDZkYzMxMmFlMDEwIiwicHVibGljYXRpb25faWQiOiIyOThlOTZjNy1mZGRhLTQyNjQtYjEzYy01ODRjZDY2OWIyYWIiLCJhY2Nlc3NfdHlwZSI6InJlYWQtb25seSIsImV4cCI6MTc2NTA0NDE0NSwiaXNzIjoiaHR0cHM6Ly9hcHAuYmVlaGlpdi5jb20iLCJpYXQiOjE3NjQ4NzEzNDV9.lRVGAPdBquGk1cwYE6jeMybOo3hkiGuJuh5Pb5KPF2g
-published: 2025-11-25T00:00:00.000Z
-created: 2026-03-20T00:00:00.000Z
+published: 2025-11-25
+created: 2026-03-20
 tags:
   - fundraising
   - digital-campaigning

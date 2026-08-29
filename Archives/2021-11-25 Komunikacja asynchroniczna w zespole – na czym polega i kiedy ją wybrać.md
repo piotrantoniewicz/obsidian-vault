@@ -3,8 +3,8 @@ type: Web
 authors: '[[Kamil Śliwowski]]'
 url: >-
   https://sektor3-0.pl/blog/komunikacja-asynchroniczna-w-zespole-na-czym-polega-i-kiedy-ja-wybrac/
-published: 2021-11-25T00:00:00.000Z
-created: 2026-03-24T00:00:00.000Z
+published: 2021-11-25
+created: 2026-03-24
 tags:
   - organizacje-społeczne
   - strategia-organizacji

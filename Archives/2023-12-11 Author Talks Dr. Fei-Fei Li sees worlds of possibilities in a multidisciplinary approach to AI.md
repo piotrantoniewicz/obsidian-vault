@@ -2,8 +2,8 @@
 type: Web
 authors:
 url: https://www.mckinsey.com/featured-insights/mckinsey-on-books/author-talks-dr-fei-fei-li-sees-worlds-of-possibilities-in-a-multidisciplinary-approach-to-ai?utm_source=substack&utm_medium=email
-published: 2023-12-11T00:00:00.000Z
-created: 2026-03-02T00:00:00.000Z
+published: 2023-12-11
+created: 2026-03-02
 tags:
   - trendy-AI
   - narzędzia-AI

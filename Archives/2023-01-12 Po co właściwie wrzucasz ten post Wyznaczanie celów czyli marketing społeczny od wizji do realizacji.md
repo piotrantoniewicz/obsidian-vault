@@ -3,8 +3,8 @@ type: Web
 authors: '[[Sabina Dziuba]]'
 url: >-
   https://sektor3-0.pl/blog/marketing-spoleczny-od-wizji-do-realizacji/?utm_source=newsletter&utm_medium=email&utm_term=2026-03-24&utm_campaign=P%C5%82ywasz+w+basenie+pe%C5%82nym+lajk%C3%B3w+
-published: 2023-01-12T00:00:00.000Z
-created: 2026-03-24T00:00:00.000Z
+published: 2023-01-12
+created: 2026-03-24
 tags:
   - organizacje-społeczne
   - fundraising

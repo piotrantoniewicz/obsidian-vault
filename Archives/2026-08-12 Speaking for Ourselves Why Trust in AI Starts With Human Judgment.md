@@ -3,8 +3,8 @@ type: Web
 authors: '[[Bryan Neider]]'
 url: >-
   https://www.linkedin.com/pulse/speaking-ourselves-why-trust-ai-starts-human-judgment-bryan-neider-6abrc/
-published: 2026-08-12T00:00:00.000Z
-created: 2026-08-12T00:00:00.000Z
+published: 2026-08-12
+created: 2026-08-12
 tags:
   - strategia-AI
   - organizacje-społeczne

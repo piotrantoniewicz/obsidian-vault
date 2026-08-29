@@ -3,8 +3,8 @@ type: Web
 authors: '[[Bryan Neider]]'
 url: >-
   https://www.linkedin.com/pulse/stewardship-force-multiplier-chaotic-world-bryan-neider-bb6uc/
-published: 2026-04-03T00:00:00.000Z
-created: 2026-04-05T00:00:00.000Z
+published: 2026-04-03
+created: 2026-04-05
 tags:
   - strategia-organizacji
   - strategia-AI

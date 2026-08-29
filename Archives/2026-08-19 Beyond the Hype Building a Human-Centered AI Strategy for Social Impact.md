@@ -3,8 +3,8 @@ type: Web
 authors: '[[Bryan Neider]]'
 url: >-
   https://www.linkedin.com/pulse/beyond-hype-building-human-centered-ai-strategy-social-bryan-neider-hc8ic/
-published: 2026-08-19T00:00:00.000Z
-created: 2026-08-19T00:00:00.000Z
+published: 2026-08-19
+created: 2026-08-19
 tags:
   - strategia-AI
   - organizacje-społeczne

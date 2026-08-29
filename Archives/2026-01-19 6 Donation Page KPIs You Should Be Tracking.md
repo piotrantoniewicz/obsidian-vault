@@ -2,8 +2,8 @@
 type: Web
 authors: '[[CauseVox]]'
 url: 'https://www.causevox.com/blog/6-donation-page-kpis-you-should-be-tracking/'
-published: 2026-01-19T00:00:00.000Z
-created: 2026-04-22T00:00:00.000Z
+published: 2026-01-19
+created: 2026-04-22
 tags:
   - fundraising
   - digital-campaigning

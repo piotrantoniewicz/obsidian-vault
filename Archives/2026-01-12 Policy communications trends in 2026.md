@@ -2,8 +2,8 @@
 type: Web
 authors: '[[Tom Moylan]]'
 url: 'https://tommoylan.substack.com/p/policy-communications-trends-in-2026'
-published: 2026-01-12T00:00:00.000Z
-created: 2026-04-12T00:00:00.000Z
+published: 2026-01-12
+created: 2026-04-12
 tags:
   - digital-campaigning
   - content-marketing

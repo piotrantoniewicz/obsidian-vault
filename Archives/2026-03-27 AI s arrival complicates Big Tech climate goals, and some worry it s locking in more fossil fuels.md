@@ -3,8 +3,8 @@ type: Web
 authors: '[[Tammy Webber]]'
 url: >-
   https://apnews.com/article/technology-artificial-intelligence-climate-change-data-centers-ef3a9c264bd6376d77e2c81ab266fb38?utm_campaign=The%20Batch&utm_medium=email&_hsenc=p2ANqtz-_x2rnuD3sRA0YJyUfuxUncrNayfq9L7_-rTsunYNN9mqo3W5BEnTjt17hbuea6gcNyvPqnr3FX9RJdwwbsW85lKn1IDBhxYKPfh1C_p5lOurFFUhc&_hsmi=416680112&utm_content=416678717&utm_source=hs_email
-published: 2026-03-27T00:00:00.000Z
-created: 2026-05-01T00:00:00.000Z
+published: 2026-03-27
+created: 2026-05-01
 tags:
   - trendy-AI
   - strategia-AI

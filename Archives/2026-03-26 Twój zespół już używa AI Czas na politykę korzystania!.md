@@ -3,8 +3,8 @@ type: Web
 authors: '[[Karina Janus]]'
 url: >-
   https://www.techsoup.pl/blog/twoj-zespo%C5%82-ju%C5%BC-uzywa-ai-czas-na-polityke-korzystania
-published: 2026-03-26T00:00:00.000Z
-created: 2026-04-22T00:00:00.000Z
+published: 2026-03-26
+created: 2026-04-22
 tags:
   - strategia-AI
   - szkolenia-AI

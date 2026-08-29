@@ -2,8 +2,8 @@
 type: Web
 authors: "[[Kimberly B. Lewis]]"
 url: https://www.motivationalmuse.com/post/how-to-turn-a-small-business-milestone-into-a-meaningful-marketing-moment?utm_campaign=Newsletter%20October%208&utm_source=brevo&utm_medium=email&cid=7a02b2ac-a86a-4b21-81b1-6d9348328cb8
-published: 2025-08-31T00:00:00.000Z
-created: 2026-03-04T00:00:00.000Z
+published: 2025-08-31
+created: 2026-03-04
 tags:
   - content-marketing
   - digital-campaigning

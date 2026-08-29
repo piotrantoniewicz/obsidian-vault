@@ -2,8 +2,8 @@
 type: Web
 authors: "[[Kara Schmid]]"
 url: https://mvpphilanthropy.com/2025/08/14/year-end-fundraising-timeline/?mc_cid=a66c1ece62&mc_eid=22a3e3097f&utm_source=brevo&utm_campaign=Newsletter%20September%2024&utm_medium=email
-published: 2025-08-14T00:00:00.000Z
-created: 2026-03-04T00:00:00.000Z
+published: 2025-08-14
+created: 2026-03-04
 tags:
   - fundraising
   - organizacje-społeczne

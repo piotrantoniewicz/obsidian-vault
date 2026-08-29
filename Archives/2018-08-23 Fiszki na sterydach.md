@@ -2,8 +2,8 @@
 type: Web
 authors: '[[Agnieszka Bilska]]'
 url: 'https://sektor3-0.pl/blog/fiszki-na-sterydach/'
-published: 2018-08-23T00:00:00.000Z
-created: 2026-03-24T00:00:00.000Z
+published: 2018-08-23
+created: 2026-03-24
 tags:
   - produkty-cyfrowe
 ---

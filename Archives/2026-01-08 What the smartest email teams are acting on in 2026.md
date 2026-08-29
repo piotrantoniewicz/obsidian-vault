@@ -3,8 +3,8 @@ type: Web
 authors: '[[Sara Cederberg]]'
 url: >-
   https://www.civicshoutnewsletter.com/p/what-the-smartest-email-teams-are-acting-on-in-2026?utm_source=www.civicshoutnewsletter.com&utm_medium=newsletter&utm_campaign=what-actually-worked-in-december&_bhlid=d88ab4645c21cada3dbd23e353fbb912ec5e7744
-published: 2026-01-08T00:00:00.000Z
-created: 2026-03-22T00:00:00.000Z
+published: 2026-01-08
+created: 2026-03-22
 tags:
   - fundraising
   - digital-campaigning

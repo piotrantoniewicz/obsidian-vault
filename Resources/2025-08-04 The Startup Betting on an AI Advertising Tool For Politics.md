@@ -4,8 +4,8 @@ authors:
   - "[[Max Greenwood]]"
 url: https://campaignsandelections.com/industry-news/startup-bets-on-ai-ads-for-politics/
 source: "[[2025-08-04 The Startup Betting on an AI Advertising Tool For Politics]]"
-published: 2025-08-04T00:00:00.000Z
-created: 2026-03-19T00:00:00.000Z
+published: 2025-08-04
+created: 2026-03-19
 relevance: średnia
 tags:
   - digital-campaigning

@@ -2,8 +2,8 @@
 type: Web
 authors: "[[Riley Young]]"
 url: https://www.nextafter.com/blog/a-look-inside-testing-optimization-at-charity-water/?utm_source=www.civicshoutnewsletter.com&utm_medium=newsletter&utm_campaign=four-donation-page-mistakes-you-can-fix-today&_bhlid=e42b59fe5041996c44880333026bee143f33af81
-published: 2022-12-14T00:00:00.000Z
-created: 2026-03-04T00:00:00.000Z
+published: 2022-12-14
+created: 2026-03-04
 tags:
   - fundraising
   - digital-campaigning

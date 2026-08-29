@@ -3,8 +3,8 @@ type: Web
 authors: null
 url: >-
   https://hub.partisan.community/m/news/from-mobilisation-to-powerbuilding-reinventing-the-membership-model/18b30d1e-2421-43f4-b791-24b81409e701
-published: 2026-03-23T00:00:00.000Z
-created: 2026-03-26T00:00:00.000Z
+published: 2026-03-23
+created: 2026-03-26
 tags:
   - digital-campaigning
   - organizacje-społeczne

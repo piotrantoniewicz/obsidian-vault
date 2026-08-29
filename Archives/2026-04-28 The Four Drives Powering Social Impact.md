@@ -3,8 +3,8 @@ type: Web
 authors: '[[Bryan Neider]]'
 url: >-
   https://www.linkedin.com/pulse/four-drives-powering-social-impact-bryan-neider-4nwfc/
-published: 2026-04-28T00:00:00.000Z
-created: 2026-04-29T00:00:00.000Z
+published: 2026-04-28
+created: 2026-04-29
 tags:
   - strategia-organizacji
   - organizacje-społeczne

@@ -5,8 +5,8 @@ authors:
   - '[[Hahrie Han]]'
 url: >-
   https://knightcolumbia.org/content/ai-and-democratic-publics?utm_medium=email&_hsenc=p2ANqtz-_OXLCGGM-j4HJ7f68iJYGwfY7u5iGEpwrYfd_aJEI6hcR4cQtOS5Wf2yEurrA1rcqtbk67-l8Gf2a1cWJArkKW099xQFw-ckhRnUgBbMvX0v7Fu2s&_hsmi=115320471&utm_content=115320471&utm_source=hs_email
-published: 2025-08-01T00:00:00.000Z
-created: 2026-03-19T00:00:00.000Z
+published: 2025-08-01
+created: 2026-03-19
 tags:
   - strategia-AI
   - framing

@@ -3,8 +3,8 @@ type: Web
 authors: '[[European Center for Digital Action]]'
 url: >-
   https://www.centerfordigitalaction.eu/post/the-rise-of-the-afd-and-the-digital-challenge-how-progressive-parties-in-germany-can-catch-up?link_id=8&can_id=32cae499f95a9349c734a72403321b9c&source=email-organic-social-media-ftw-free-metrics-webinar-and-a-question-for-you-2&email_referrer=email_2482896&email_subject=what-to-do-about-germany
-published: 2024-10-09T00:00:00.000Z
-created: 2026-04-05T00:00:00.000Z
+published: 2024-10-09
+created: 2026-04-05
 tags:
   - digital-campaigning
   - framing

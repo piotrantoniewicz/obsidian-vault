@@ -3,8 +3,8 @@ type: Web
 authors: '[[Steve Anderson]]'
 url: >-
   https://www.newmode.net/blog/why-is-everyone-running-phone-advocacy-campaigns-right-now-and-how-to-adopt-this-tactic-effectively?utm_medium=email&_hsenc=p2ANqtz-9mFrvYRfbdj-pnoB5ThJf01fdocND_K7neEPA3JNLzpFk7SdU_YMFSgZ_ZVE3tgjwiYi_0dLWqENfD4C5iCVRkQF1iIK7buB3EdGk4I7EG4psIfS0&_hsmi=105923428&utm_content=105923428&utm_source=hs_email
-published: 2025-02-27T00:00:00.000Z
-created: 2026-03-19T00:00:00.000Z
+published: 2025-02-27
+created: 2026-03-19
 tags:
   - digital-campaigning
   - organizacje-społeczne

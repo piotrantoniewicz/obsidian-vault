@@ -4,8 +4,8 @@ authors: >-
   [[Daan Juijn, Stan van Baarsen, Judith Dada, Maximilian Negele, Lily Stelling,
   Philip Fox, Alex Petropoulos, Michiel Bakker]]
 url: 'https://europe2031.ai/'
-published: 2026-06-11T00:00:00.000Z
-created: 2026-07-07T00:00:00.000Z
+published: 2026-06-11
+created: 2026-07-07
 tags:
   - strategia-AI
   - trendy-AI

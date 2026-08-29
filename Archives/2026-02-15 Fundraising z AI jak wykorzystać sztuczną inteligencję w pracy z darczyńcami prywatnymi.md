@@ -3,8 +3,8 @@ type: Web
 authors: '[[Sektor 3.0]]'
 url: >-
   https://sektor3-0.pl/aktualnosci/fundraising-z-ai-jak-wykorzystac-sztuczna-inteligencje-w-pracy-z-darczyncami-prywatnymi/?utm_source=newsletter&utm_medium=email&utm_term=2026-03-24&utm_campaign=+Jak+dobrze+wyj%C5%9B%C4%87+z+social+medi%C3%B3w+
-published: 2026-02-15T00:00:00.000Z
-created: 2026-03-24T00:00:00.000Z
+published: 2026-02-15
+created: 2026-03-24
 tags:
   - fundraising
   - narzędzia-AI

@@ -2,8 +2,8 @@
 type: Web
 authors: "[[Ecomail.pl]]"
 url: https://ecomail.pl/blog/pl/pazdziernik-mailingowe-podsumowanie-miesiaca/?utm_term=15545&utm_campaign=2025_44_MPM_pa%C5%BAdziernik&ecmid=9813&utm_medium=email&utm_source=ecomail
-published: 2025-10-31T00:00:00.000Z
-created: 2026-03-02T00:00:00.000Z
+published: 2025-10-31
+created: 2026-03-02
 tags:
   - digital-campaigning
   - content-marketing

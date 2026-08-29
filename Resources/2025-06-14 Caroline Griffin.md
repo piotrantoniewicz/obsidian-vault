@@ -1,8 +1,8 @@
 ---
 categories:
   - Emails
-published: '2025-06-14T00:00:00.000Z'
-created: '2026-03-09T00:00:00.000Z'
+published: 2025-06-14
+created: 2026-03-09
 labels:
   - Caroline Griffin
 relevance: wysoka

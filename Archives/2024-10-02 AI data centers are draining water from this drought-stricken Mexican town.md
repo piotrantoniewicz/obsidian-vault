@@ -3,8 +3,8 @@ type: Web
 authors: '[[Maximillian Alvarez]]'
 url: >-
   https://therealnews.com/ai-data-centers-are-draining-water-from-this-drought-stricken-mexican-town
-published: 2024-10-02T00:00:00.000Z
-created: 2026-03-25T00:00:00.000Z
+published: 2024-10-02
+created: 2026-03-25
 tags:
   - trendy-AI
   - organizacje-społeczne

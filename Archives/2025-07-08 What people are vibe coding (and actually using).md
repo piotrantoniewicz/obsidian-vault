@@ -2,8 +2,8 @@
 type: Web
 authors: '[[Lenny Rachitsky]]'
 url: 'https://www.lennysnewsletter.com/p/what-people-are-vibe-coding-and-actually'
-published: 2025-07-08T00:00:00.000Z
-created: 2026-05-12T00:00:00.000Z
+published: 2025-07-08
+created: 2026-05-12
 tags:
   - vibe-coding
   - produkty-cyfrowe

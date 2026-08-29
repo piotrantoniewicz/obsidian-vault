@@ -2,8 +2,8 @@
 type: Web
 authors: "[[Henry Farrell]]"
 url: https://substack.com/home/post/p-170075025?utm_medium=email&_hsenc=p2ANqtz-89AXDxNZTFNqxw82sL87ArWluPav5igSiIvvpVEzQhyzTKQ4H5adujM2crcR95qp70EV-sFi3hYIyI6NRVV8PdkEtEfRYilm5R7RBEOqfvbfaz9PM&_hsmi=115320471&utm_content=115320471&utm_source=hs_email
-published: 2025-08-05T00:00:00.000Z
-created: 2026-03-19T00:00:00.000Z
+published: 2025-08-05
+created: 2026-03-19
 tags:
   - strategia-AI
   - digital-campaigning

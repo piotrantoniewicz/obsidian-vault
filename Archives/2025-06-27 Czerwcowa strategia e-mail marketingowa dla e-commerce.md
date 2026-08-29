@@ -2,8 +2,8 @@
 type: Web
 authors: "[[Ecomail.pl]]"
 url: https://ecomail.pl/blog/pl/czerwiec-mailingowe-podsumowanie-miesiaca/?utm_source=ecomail&ecmid=9813&utm_campaign=2025_26_MPM_czerwiec&utm_medium=email&utm_term=15545
-published: 2025-06-27T00:00:00.000Z
-created: 2026-03-02T00:00:00.000Z
+published: 2025-06-27
+created: 2026-03-02
 tags:
   - digital-campaigning
   - content-marketing

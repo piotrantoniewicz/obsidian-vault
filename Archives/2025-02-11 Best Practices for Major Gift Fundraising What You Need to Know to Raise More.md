@@ -3,8 +3,8 @@ type: Web
 authors: '[[Ann Fellman]]'
 url: >-
   https://bloomerang.com/blog/top-strategies-to-kickstart-major-gift-fundraising/?utm_medium=email_newsletter&utm_source=marketo&utm_campaign=26Q2-InBloom&utm_targeting=NA_all&utm_content=blog_major-gift_email-04-24&mkt_tok=NjE4LVdHSS00NTkAAAGhX9kmoRuLvQBHK7EoKDQEB3mok-KVDDdDljHRfJ7Hja6Hj9h5qkIFnWP6bfGlknwWJ6Y-7UyIB_TUtP1W1Y_5V9X0iQ0M0qdIYfpLnnQjcx9LJMs
-published: 2025-02-11T00:00:00.000Z
-created: 2026-04-24T00:00:00.000Z
+published: 2025-02-11
+created: 2026-04-24
 tags:
   - fundraising
   - strategia-organizacji

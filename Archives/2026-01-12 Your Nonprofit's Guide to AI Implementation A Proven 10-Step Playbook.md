@@ -3,8 +3,8 @@ type: Web
 authors: "[[Wendy Clow]]"
 url: >-
   https://medium.com/journey-to-impact/your-nonprofits-guide-to-ai-implementation-a-proven-10-step-playbook-e5965e1c2d4b
-published: '2026-01-12T00:00:00.000Z'
-created: '2026-03-10T00:00:00.000Z'
+published: 2026-01-12
+created: 2026-03-10
 tags:
   - strategia-AI
   - szkolenia-AI

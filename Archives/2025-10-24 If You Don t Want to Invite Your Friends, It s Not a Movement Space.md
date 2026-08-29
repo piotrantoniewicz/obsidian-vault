@@ -3,8 +3,8 @@ type: Web
 authors: '[[Haley Bash]]'
 url: >-
   https://www.unasbtheclub.com/p/if-you-dont-want-to-invite-your-friends?hide_intro_popup=true&utm_medium=email&_hsenc=p2ANqtz-_49mMtDUTvzCPU2XjNVlomVlVlGLpF_atrEiFm9jV68GzbpyaKXH47ER5t6PwYDMzA5sUHtiOjzSGJ9QZ_naww6hwYrdKtqmt7E-c-I6iDiDXayrs&_hsmi=121307777&utm_content=121307777&utm_source=hs_email
-published: 2025-10-24T00:00:00.000Z
-created: 2026-03-20T00:00:00.000Z
+published: 2025-10-24
+created: 2026-03-20
 tags:
   - digital-campaigning
   - strategia-organizacji

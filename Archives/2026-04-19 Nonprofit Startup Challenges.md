@@ -3,8 +3,8 @@ type: Web
 authors: '[[Tasha Van Vlack]]'
 url: >-
   https://thenonprofithive.com/nonprofit-startup-challenges-what-it-really-takes-to-build-something-that-lasts/?utm_source=brevo&utm_campaign=Newsletter%20Apr%2022%20-%20events&utm_medium=email
-published: 2026-04-19T00:00:00.000Z
-created: 2026-04-29T00:00:00.000Z
+published: 2026-04-19
+created: 2026-04-29
 tags:
   - organizacje-społeczne
   - strategia-organizacji

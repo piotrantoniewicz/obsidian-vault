@@ -3,8 +3,8 @@ type: Web
 authors: '[[Fundraise Up]]'
 url: >-
   https://fundraiseup.com/donor-experience-hub/new-timing-of-abandoned-donation-emails/?utm_source=www.civicshoutnewsletter.com&utm_medium=newsletter&utm_campaign=how-unicef-usa-unlocked-26-000-more-donations&_bhlid=94330d51996b7f5f5313be93ee185969cba989d8
-published: null
-created: 2026-03-23T00:00:00.000Z
+published:
+created: 2026-03-23
 tags:
   - fundraising
   - digital-campaigning

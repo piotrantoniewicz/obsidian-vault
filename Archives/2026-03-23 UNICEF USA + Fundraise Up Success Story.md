@@ -3,8 +3,8 @@ type: Web
 authors: '[[Fundraise Up]]'
 url: >-
   https://fundraiseup.com/case-studies/unicef-usa/?utm_source=www.civicshoutnewsletter.com&utm_medium=newsletter&utm_campaign=how-unicef-usa-unlocked-26-000-more-donations&_bhlid=4a7f0fdbd8c32632bef4764f5c8f686a782396db
-published: null
-created: 2026-03-23T00:00:00.000Z
+published:
+created: 2026-03-23
 tags:
   - fundraising
   - digital-campaigning

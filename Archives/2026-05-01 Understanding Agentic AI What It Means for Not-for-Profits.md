@@ -3,8 +3,8 @@ type: Web
 authors: '[[Infoxchange]]'
 url: >-
   https://digitaltransformation.org.au/guides/artificial-intelligence/understanding-agentic-ai-what-it-means-not-profits
-published: null
-created: 2026-05-01T00:00:00.000Z
+published:
+created: 2026-05-01
 tags:
   - strategia-AI
   - organizacje-społeczne

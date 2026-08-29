@@ -2,8 +2,8 @@
 type: Web
 authors: "[[Sara Herschander]]"
 url: https://www.philanthropy.com/news/how-philanthropy-built-lost-and-could-reclaim-the-a-i-race/
-published: 2025-02-11T00:00:00.000Z
-created: 2026-03-02T00:00:00.000Z
+published: 2025-02-11
+created: 2026-03-02
 tags:
   - trendy-AI
   - organizacje-społeczne

@@ -3,8 +3,8 @@ type: Web
 authors: '[[MissionWired]]'
 url: >-
   https://missionwired.com/insights/end-of-year-digital-fundraising-final-report/?utm_source=www.civicshoutnewsletter.com&utm_medium=newsletter&utm_campaign=the-data-you-need-to-pull-in-january&_bhlid=15e975dee1efeda0554d90dc933cdd23dd3341e7
-published: 2025-01-29T00:00:00.000Z
-created: 2026-03-20T00:00:00.000Z
+published: 2025-01-29
+created: 2026-03-20
 tags:
   - fundraising
   - digital-campaigning

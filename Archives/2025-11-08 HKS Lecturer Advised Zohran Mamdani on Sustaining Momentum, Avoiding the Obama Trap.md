@@ -3,8 +3,8 @@ type: Web
 authors: '[[Addison Y. Liu]]'
 url: >-
   https://www.thecrimson.com/article/2025/11/9/ganz-advising-mamdani/?utm_medium=email&_hsenc=p2ANqtz--hcuWhad62P721xQEcN0hhKwUf0dSlmmkYBHK5p804y24M5CAt_ZheDQd20faup0yzkf75KujrzymkowCOMsw6iVB3G6YXSqzd9bvdx4BX4HpQGjs&_hsmi=122752062&utm_content=122752062&utm_source=hs_email
-published: 2025-11-08T00:00:00.000Z
-created: 2026-03-20T00:00:00.000Z
+published: 2025-11-08
+created: 2026-03-20
 tags:
   - digital-campaigning
   - strategia-organizacji

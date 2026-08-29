@@ -4,8 +4,8 @@ authors:
   - "[[Elena]]"
 url: https://forwardaction.uk/blog/are-you-ready-for-soft-opt-ins/
 source: "[[Archives/2025-07-31 Are you ready for soft opt-ins?|2025-07-31 Are you ready for soft opt-ins?]]"
-published: 2025-07-31T00:00:00.000Z
-created: 2026-03-19T00:00:00.000Z
+published: 2025-07-31
+created: 2026-03-19
 relevance: wysoka
 tags:
   - digital-campaigning

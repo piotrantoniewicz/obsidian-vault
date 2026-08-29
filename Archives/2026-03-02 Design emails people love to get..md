@@ -3,7 +3,7 @@ type: Web
 authors:
 url: https://view.flodesk.com/emails/68ee5983f65ba46a8d04f9d5
 published:
-created: 2026-03-02T00:00:00.000Z
+created: 2026-03-02
 tags:
   - content-marketing
 ---

@@ -2,8 +2,8 @@
 type: Web
 authors: '[[Laura Hilliger]]'
 url: 'https://blog.weareopen.coop/cooperating-through-the-use-of-ai/'
-published: 2024-10-29T00:00:00.000Z
-created: 2026-03-25T00:00:00.000Z
+published: 2024-10-29
+created: 2026-03-25
 tags:
   - narzędzia-AI
   - strategia-AI

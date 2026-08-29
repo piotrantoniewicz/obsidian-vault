@@ -2,8 +2,8 @@
 type: Web
 authors: "[[Ecomail.pl]]"
 url: https://ecomail.pl/blog/pl/jak-skutecznie-personalizowac-kampanie-e-mailowe-przewodnik-po-nowoczesnym-e-mail-marketingu/?ecmid=9813&utm_campaign=2025_24_personalizacja&utm_medium=email&utm_term=15545&utm_source=ecomail
-published: 2025-06-13T00:00:00.000Z
-created: 2026-03-02T00:00:00.000Z
+published: 2025-06-13
+created: 2026-03-02
 tags:
   - fundraising
   - digital-campaigning

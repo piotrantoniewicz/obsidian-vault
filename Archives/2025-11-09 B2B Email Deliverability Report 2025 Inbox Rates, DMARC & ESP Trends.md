@@ -2,8 +2,8 @@
 type: Web
 authors: '[[Vlad Kuryatnik]]'
 url: 'https://thedigitalbloom.com/learn/b2b-email-deliverability-benchmarks-2025/'
-published: 2025-11-09T00:00:00.000Z
-created: 2026-04-18T00:00:00.000Z
+published: 2025-11-09
+created: 2026-04-18
 tags:
   - digital-campaigning
   - fundraising

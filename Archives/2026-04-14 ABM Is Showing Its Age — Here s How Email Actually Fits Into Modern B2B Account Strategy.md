@@ -3,8 +3,8 @@ type: Web
 authors: '[[Beth O''Malley]]'
 url: >-
   https://weareastral.co.uk/thevault/abm-is-showing-its-age-heres-how-email-actually-fits-into-modern-b2b-account-strategy?utm_medium=email&_hsenc=p2ANqtz-9Syd-2EkrLs2jgKcNfztukdMjf8v369IIUxrIi1EfNf0cXwFAU0XfAbl_yJR-LxaXXcpG6b2iQuR8C7fG0vKp4MIr1OB3BZdEUxxlYANKWFT0UUYQ&_hsmi=133521287&utm_content=133531118&utm_source=hs_email
-published: 2026-04-14T00:00:00.000Z
-created: 2026-04-17T00:00:00.000Z
+published: 2026-04-14
+created: 2026-04-17
 tags:
   - digital-campaigning
   - content-marketing

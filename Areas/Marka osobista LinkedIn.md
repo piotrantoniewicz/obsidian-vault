@@ -2,7 +2,7 @@
 categories:
   - Area
 status: Aktywny
-created: 2026-07-07T00:00:00.000Z
+created: 2026-07-07
 updated: '2026-08-12'
 tags:
   - content-marketing

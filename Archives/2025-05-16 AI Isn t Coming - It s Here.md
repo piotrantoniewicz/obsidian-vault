@@ -3,8 +3,8 @@ type: Web
 authors: '[[Lucy Ritzmann]]'
 url: >-
   https://www.fwiw.news/p/ai-isnt-coming-its-here?hide_intro_popup=true&utm_medium=email&_hsenc=p2ANqtz-94yUWwnlPMeV4tJDnA_6SxmpcvvFL9kwI2ukIMGH-3ATtdQihXc40ggyVNUk0zY3tgr2sLwZoHYjwn3jULn9FTL9E-bQZlvh9fOSv3Ky1euYbb7AE&_hsmi=110762810&utm_content=110762810&utm_source=hs_email
-published: 2025-05-16T00:00:00.000Z
-created: 2026-03-19T00:00:00.000Z
+published: 2025-05-16
+created: 2026-03-19
 tags:
   - narzędzia-AI
   - digital-campaigning

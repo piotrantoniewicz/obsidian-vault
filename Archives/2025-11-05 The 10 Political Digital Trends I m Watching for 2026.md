@@ -3,8 +3,8 @@ type: Web
 authors: '[[Katie Harbath]]'
 url: >-
   https://anchorchange.substack.com/p/the-10-political-digital-trends-im?utm_source=post-email-title&publication_id=483566
-published: 2025-11-05T00:00:00.000Z
-created: 2026-03-26T00:00:00.000Z
+published: 2025-11-05
+created: 2026-03-26
 tags:
   - digital-campaigning
   - trendy-AI

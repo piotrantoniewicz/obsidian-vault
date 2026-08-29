@@ -2,8 +2,8 @@
 type: Web
 authors: '[[Bartłomiej Polakowski]]'
 url: 'https://sektor3-0.pl/blog/trendy-technologiczne-w-edukacji-online/'
-published: 2019-08-05T00:00:00.000Z
-created: 2026-03-24T00:00:00.000Z
+published: 2019-08-05
+created: 2026-03-24
 tags:
   - szkolenia-AI
   - trendy-AI

@@ -2,8 +2,8 @@
 type: Web
 authors: "[[M+R]]"
 url: https://www.mrss.com/what-we-do/case-studies/reactivating-lapsed-donors-with-second-harvest-nola/?utm_source=www.civicshoutnewsletter.com&utm_medium=newsletter&utm_campaign=the-reactivation-test-that-paid-off&_bhlid=9d7fe1b0bffdb101b32d013816ec719c50b1faad
-published: 2025-02-15T00:00:00.000Z
-created: 2026-03-04T00:00:00.000Z
+published: 2025-02-15
+created: 2026-03-04
 tags:
   - fundraising
   - digital-campaigning

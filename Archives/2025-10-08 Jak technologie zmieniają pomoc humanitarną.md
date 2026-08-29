@@ -3,8 +3,8 @@ type: Web
 authors: '[[Mirella Panek-Owsiańska]]'
 url: >-
   https://sektor3-0.pl/blog/jak-technologie-zmieniaja-pomoc-humanitarna/?utm_source=newsletter&utm_medium=email&utm_term=2026-03-24&utm_campaign=+Automatyzacja+w+NGO+krok+po+kroku
-published: 2025-10-08T00:00:00.000Z
-created: 2026-03-24T00:00:00.000Z
+published: 2025-10-08
+created: 2026-03-24
 tags:
   - narzędzia-AI
   - strategia-AI

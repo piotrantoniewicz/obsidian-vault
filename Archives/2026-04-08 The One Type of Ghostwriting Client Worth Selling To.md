@@ -2,8 +2,8 @@
 type: Web
 authors: '[[Nicolas Cole]]'
 url: 'https://www.youtube.com/watch?v=SnKqMNSFVek'
-published: 2026-04-08T00:00:00.000Z
-created: 2026-04-13T00:00:00.000Z
+published: 2026-04-08
+created: 2026-04-13
 tags:
   - ghostwriting
   - content-marketing

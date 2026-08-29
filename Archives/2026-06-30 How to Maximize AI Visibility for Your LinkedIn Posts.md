@@ -3,8 +3,8 @@ type: Web
 authors: '[[Davang Shah]]'
 url: >-
   https://www.linkedin.com/business/marketing/blog/ai-search/how-to-maximize-ai-visibility-for-your-linkedin-posts
-published: 2026-06-30T00:00:00.000Z
-created: 2026-07-07T00:00:00.000Z
+published: 2026-06-30
+created: 2026-07-07
 tags:
   - content-marketing
   - LLM

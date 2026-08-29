@@ -3,8 +3,8 @@ type: Web
 authors: '[[Bryan Neider]]'
 url: >-
   https://www.linkedin.com/pulse/compound-interest-investing-you-bryan-neider-m1uvc/
-published: 2026-04-06T00:00:00.000Z
-created: 2026-04-06T00:00:00.000Z
+published: 2026-04-06
+created: 2026-04-06
 tags:
   - organizacje-społeczne
   - strategia-AI

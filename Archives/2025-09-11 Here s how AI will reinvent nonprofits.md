@@ -2,8 +2,8 @@
 type: Web
 authors: '[[Jacek Siadkowski]]'
 url: 'https://www.fastcompany.com/91401330/heres-how-ai-will-reinvent-nonprofits'
-published: 2025-09-11T00:00:00.000Z
-created: 2026-03-20T00:00:00.000Z
+published: 2025-09-11
+created: 2026-03-20
 tags:
   - organizacje-społeczne
   - strategia-AI

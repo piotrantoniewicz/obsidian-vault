@@ -2,8 +2,8 @@
 type: Web
 authors: '[[Peter Yang]]'
 url: 'https://www.lennysnewsletter.com/p/25-proven-tactics-to-accelerate-ai'
-published: 2025-08-05T00:00:00.000Z
-created: 2026-05-12T00:00:00.000Z
+published: 2025-08-05
+created: 2026-05-12
 tags:
   - szkolenia-AI
   - strategia-AI

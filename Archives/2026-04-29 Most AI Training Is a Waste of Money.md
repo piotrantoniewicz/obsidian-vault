@@ -2,8 +2,8 @@
 type: Web
 authors: '[[Kyle Behrend]]'
 url: 'https://kylebehrend.substack.com/p/most-ai-training-is-a-waste-of-money'
-published: 2026-04-29T00:00:00.000Z
-created: 2026-04-29T00:00:00.000Z
+published: 2026-04-29
+created: 2026-04-29
 tags:
   - szkolenia-AI
   - strategia-AI

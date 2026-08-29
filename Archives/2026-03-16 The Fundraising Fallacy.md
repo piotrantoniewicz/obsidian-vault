@@ -2,8 +2,8 @@
 type: Web
 authors:
 url: https://hub.partisan.community/m/news/the-fundraising-fallacy/466d9b9e-f393-46e8-813f-e468a30266ae
-published: 2026-03-16T00:00:00.000Z
-created: 2026-03-17T00:00:00.000Z
+published: 2026-03-16
+created: 2026-03-17
 tags:
   - fundraising
   - strategia-organizacji

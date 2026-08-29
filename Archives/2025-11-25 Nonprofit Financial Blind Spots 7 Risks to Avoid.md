@@ -2,8 +2,8 @@
 type: Web
 authors: "[[Sean Hale]]"
 url: https://thenonprofithive.com/nonprofit-financial-blind-spots/
-published: 2025-11-25T00:00:00.000Z
-created: 2026-03-04T00:00:00.000Z
+published: 2025-11-25
+created: 2026-03-04
 tags:
   - organizacje-społeczne
   - fundraising

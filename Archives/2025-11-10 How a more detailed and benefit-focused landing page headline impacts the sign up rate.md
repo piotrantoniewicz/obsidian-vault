@@ -3,8 +3,8 @@ type: Web
 authors: '[[Jeff Giddens]]'
 url: >-
   https://www.nextafter.com/experiments/how-a-more-detailed-and-benefit-focused-landing-page-headline-impacts-the-sign-up-rate/?utm_source=www.civicshoutnewsletter.com&utm_medium=newsletter&utm_campaign=one-headline-tweak-5-9-more-sign-ups&_bhlid=801f0072f438d630d22920a90777968e9ce0ebe2
-published: 2025-11-10T00:00:00.000Z
-created: 2026-03-22T00:00:00.000Z
+published: 2025-11-10
+created: 2026-03-22
 tags:
   - fundraising
   - digital-campaigning

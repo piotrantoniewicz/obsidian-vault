@@ -3,8 +3,8 @@ type: Web
 authors: '[[Fast Forward]]'
 url: >-
   https://www.ffwd.org/blog/sathy-rajasekharan-is-transforming-maternal-health-care-with-ai?utm_source=substack&utm_medium=email
-published: null
-created: 2026-03-02T00:00:00.000Z
+published:
+created: 2026-03-02
 tags:
   - narzędzia-AI
   - organizacje-społeczne

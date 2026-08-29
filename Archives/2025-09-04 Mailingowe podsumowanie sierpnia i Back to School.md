@@ -2,8 +2,8 @@
 type: Web
 authors: "[[Ecomail.pl]]"
 url: https://ecomail.pl/blog/pl/sierpien-mailingowe-podsumowanie-miesiaca/?utm_source=ecomail&utm_medium=email&utm_term=15545&ecmid=9813&utm_campaign=2025_36_MPM_sierpie%C5%84
-published: 2025-09-04T00:00:00.000Z
-created: 2026-03-02T00:00:00.000Z
+published: 2025-09-04
+created: 2026-03-02
 tags:
   - digital-campaigning
 ---

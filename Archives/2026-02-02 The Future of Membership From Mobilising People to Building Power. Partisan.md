@@ -3,8 +3,8 @@ type: Web
 authors: null
 url: >-
   https://hub.partisan.community/m/news/the-future-of-membership-from-mobilising-people-to-building-power./26eb7aca-0ecb-4f60-90f5-2c2b3ac0c6b9
-published: 2026-02-02T00:00:00.000Z
-created: 2026-03-26T00:00:00.000Z
+published: 2026-02-02
+created: 2026-03-26
 tags:
   - fundraising
   - digital-campaigning

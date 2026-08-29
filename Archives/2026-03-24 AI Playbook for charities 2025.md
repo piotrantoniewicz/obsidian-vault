@@ -2,8 +2,8 @@
 type: Web
 authors: '[[Make Sense Of It]]'
 url: 'https://www.aiplaybookforcharities.com/2025'
-published: null
-created: 2026-03-24T00:00:00.000Z
+published:
+created: 2026-03-24
 tags:
   - strategia-AI
   - organizacje-społeczne

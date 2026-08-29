@@ -3,8 +3,8 @@ type: Web
 authors: "[[Bonterra]]"
 url: >-
   https://www.bonterratech.com/blog/dont-leave-money-on-the-table-smarter-year-end-fundraising?utm_source=www.civicshoutnewsletter.com&utm_medium=newsletter&utm_campaign=5-ways-to-overcome-year-end-burnout&_bhlid=703064b2781321599170cefe1a75e43bffce1760
-published: 2025-09-25T00:00:00.000Z
-created: 2026-03-09T00:00:00.000Z
+published: 2025-09-25
+created: 2026-03-09
 tags:
   - fundraising
   - digital-campaigning

@@ -3,8 +3,8 @@ type: Web
 authors: '[[Mark Dobosz]]'
 url: >-
   https://www.linkedin.com/pulse/can-ai-close-gap-nonprofit-fundraising-without-its-mark-dobosz-ectp-oguqc/
-published: 2026-08-10T00:00:00.000Z
-created: 2026-08-18T00:00:00.000Z
+published: 2026-08-10
+created: 2026-08-18
 tags:
   - fundraising
   - strategia-AI

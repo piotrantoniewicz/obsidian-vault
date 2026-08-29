@@ -2,8 +2,8 @@
 type: Web
 authors: "[[vine-perch-730 on Notion]]"
 url: 'https://vine-perch-730.notion.site/linkedin-post-creator-prompt-pywtp'
-published: null
-created: 2026-03-08T00:00:00.000Z
+published:
+created: 2026-03-08
 tags:
   - ghostwriting
   - prompt-engineering

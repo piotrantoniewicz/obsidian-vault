@@ -3,8 +3,8 @@ type: Web
 authors: '[[Partisan]]'
 url: >-
   https://hub.partisan.community/m/news/ai-on-the-campaign-trail-what-machines-already-know-about-winning-votes/a9423678-faa0-465f-894d-b96735a296b9
-published: 2026-04-28T00:00:00.000Z
-created: 2026-04-29T00:00:00.000Z
+published: 2026-04-28
+created: 2026-04-29
 tags:
   - digital-campaigning
   - strategia-AI

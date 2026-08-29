@@ -2,8 +2,8 @@
 type: Web
 authors: '[[Patrick Stevenson]]'
 url: 'https://www.fwiw.news/p/how-to-run-digital-like-its-2025?utm_medium=email'
-published: 2025-07-25T00:00:00.000Z
-created: 2026-03-26T00:00:00.000Z
+published: 2025-07-25
+created: 2026-03-26
 tags:
   - digital-campaigning
   - content-marketing

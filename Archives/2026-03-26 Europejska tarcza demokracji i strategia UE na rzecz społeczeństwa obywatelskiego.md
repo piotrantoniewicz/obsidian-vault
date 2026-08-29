@@ -2,8 +2,8 @@
 type: Web
 authors: '[[European Commission - European Commission]]'
 url: 'https://ec.europa.eu/commission/presscorner/detail/pl/ip_25_2660'
-published: null
-created: 2026-03-26T00:00:00.000Z
+published:
+created: 2026-03-26
 tags:
   - organizacje-społeczne
   - digital-campaigning

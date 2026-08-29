@@ -3,8 +3,8 @@ type: Web
 authors: '[[Mirella Panek-Owsiańska]]'
 url: >-
   https://sektor3-0.pl/blog/kampanie-spoleczne-ktore-musisz-znac/?utm_source=newsletter&utm_medium=email&utm_term=2026-03-24&utm_campaign=+Jak+zbiera%C4%87+1+5+podatku+10+rad+ekspert%C3%B3w
-published: 2022-02-23T00:00:00.000Z
-created: 2026-03-24T00:00:00.000Z
+published: 2022-02-23
+created: 2026-03-24
 tags:
   - digital-campaigning
   - content-marketing

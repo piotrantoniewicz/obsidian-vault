@@ -3,8 +3,8 @@ type: Web
 authors: '[[Jeff Giddens]]'
 url: >-
   https://www.nextafter.com/experiments/how-a-content-offer-vs-a-survey-impacts-engagement-with-a-dear-reader/?utm_medium=email&_hsenc=p2ANqtz--gthBvy1MDO07N4C_EJzyKUXZ1VbQFpyZGiki91OVPvJhiH7ax0FrXl_kge8xq5f4Ttv1Nkr8kwC-DCXACFRAF6o5UKg&_hsmi=418079778&utm_content=417382270&utm_source=hs_email
-published: 2026-05-04T00:00:00.000Z
-created: 2026-05-11T00:00:00.000Z
+published: 2026-05-04
+created: 2026-05-11
 tags:
   - fundraising
   - digital-campaigning

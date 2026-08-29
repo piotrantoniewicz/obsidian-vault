@@ -3,8 +3,8 @@ type: Web
 authors: '[[Out in the Boons]]'
 url: >-
   https://www.outintheboons.me/blog/2022/10/20/how-to-write-an-epic-end-of-year-fundraising-letter
-published: 2022-10-21T00:00:00.000Z
-created: 2026-03-23T00:00:00.000Z
+published: 2022-10-21
+created: 2026-03-23
 tags:
   - fundraising
   - content-marketing

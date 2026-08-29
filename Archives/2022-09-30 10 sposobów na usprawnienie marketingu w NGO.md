@@ -3,8 +3,8 @@ type: Web
 authors: '[[Sabina Dziuba]]'
 url: >-
   https://sektor3-0.pl/blog/10-sposobow-na-usprawnienie-marketingu-w-ngo/?utm_source=newsletter&utm_medium=email&utm_term=2026-03-24&utm_campaign=+Jak+zautomatyzowa%C4%87+recykling+tre%C5%9Bci+
-published: 2022-09-30T00:00:00.000Z
-created: 2026-03-24T00:00:00.000Z
+published: 2022-09-30
+created: 2026-03-24
 tags:
   - content-marketing
   - organizacje-społeczne

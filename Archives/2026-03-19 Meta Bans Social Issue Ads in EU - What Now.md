@@ -3,7 +3,7 @@ type: Web
 authors: "[[Nick Burne Consulting]]"
 url: https://www.nickburne.com/article-meta-eu-ban?utm_medium=email&_hsenc=p2ANqtz-9lLd7lOaRIDvIS8ANXn5_E_HCuUBpNtjIZDuP7t7BlB6HRT2c8aDF52C5cX8Fxvw6MFNfPl4azSCzROPy7D5oAeQIKGrOkKrZzrRimIvuZwYYbcg4&_hsmi=114881976&utm_content=114881976&utm_source=hs_email
 published:
-created: 2026-03-19T00:00:00.000Z
+created: 2026-03-19
 tags:
   - fundraising
   - digital-campaigning

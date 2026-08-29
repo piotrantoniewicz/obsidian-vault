@@ -3,8 +3,8 @@ type: Web
 authors: '[[Jon Wheeler]]'
 url: >-
   https://www.linkedin.com/pulse/generative-ai-becoming-new-front-door-what-means-brands-jon-wheeler-oz4ae/
-published: 2026-02-15T00:00:00.000Z
-created: 2026-03-20T00:00:00.000Z
+published: 2026-02-15
+created: 2026-03-20
 tags:
   - strategia-AI
   - narzędzia-AI

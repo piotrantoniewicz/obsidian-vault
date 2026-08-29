@@ -3,8 +3,8 @@ type: Web
 authors: '[[Aga Kozak]]'
 url: >-
   https://sektor3-0.pl/blog/prezentacje-w-erze-kryzysu-uwagi/?utm_source=newsletter&utm_medium=email&utm_term=2026-03-24&utm_campaign=Uwaga+w+kryzysie+sprawd%C5%BA+jak+j%C4%85+utrzyma%C4%87+
-published: 2024-12-03T00:00:00.000Z
-created: 2026-03-24T00:00:00.000Z
+published: 2024-12-03
+created: 2026-03-24
 tags:
   - content-marketing
   - szkolenia-AI

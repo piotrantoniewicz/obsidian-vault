@@ -3,8 +3,8 @@ type: Web
 authors: '[[Heather Mansfield]]'
 url: >-
   https://www.nptechforgood.com/101-best-practices/email-marketing-statistics-for-nonprofits/
-published: 2025-06-04T00:00:00.000Z
-created: 2026-04-18T00:00:00.000Z
+published: 2025-06-04
+created: 2026-04-18
 tags:
   - fundraising
   - digital-campaigning

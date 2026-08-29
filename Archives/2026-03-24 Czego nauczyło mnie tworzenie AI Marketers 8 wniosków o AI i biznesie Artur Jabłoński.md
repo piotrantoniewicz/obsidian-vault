@@ -2,8 +2,8 @@
 type: Web
 authors: '[[Artur Jabłoński]]'
 url: 'https://www.youtube.com/watch?v=NB9Lphh75yA'
-published: 2026-03-24T00:00:00.000Z
-created: 2026-04-06T00:00:00.000Z
+published: 2026-03-24
+created: 2026-04-06
 tags:
   - szkolenia-AI
   - content-marketing

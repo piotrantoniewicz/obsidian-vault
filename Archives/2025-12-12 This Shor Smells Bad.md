@@ -3,8 +3,8 @@ type: Web
 authors: '[[Micah L. Sifry]]'
 url: >-
   https://theconnector.substack.com/p/this-shor-smells-bad?utm_medium=email&_hsenc=p2ANqtz-8u7dIvn9mYPK5iR0zE4t2mRg6w4orNzSrJOtlGjm2zQNFbEAPo72ZMK07mgYTE3jo2H-4Vdj74ETkWqtBX13S3lgPiHh5Psi2r95n5MW4J0kXxTIc&_hsmi=124279693&utm_content=124279693&utm_source=hs_email
-published: 2025-12-12T00:00:00.000Z
-created: 2026-03-20T00:00:00.000Z
+published: 2025-12-12
+created: 2026-03-20
 tags:
   - digital-campaigning
   - framing

@@ -3,8 +3,8 @@ type: Web
 authors: '[[web4agoodcause]]'
 url: >-
   https://4agoodcause.com/the-importance-of-donor-retention-how-to-calculate-and-track/?utm_source=www.civicshoutnewsletter.com&utm_medium=newsletter&utm_campaign=65-vs-52-the-real-giving-tuesday-story&_bhlid=24181d11bc75333e6b2678667a3c612ec2e47503
-published: 2025-11-03T00:00:00.000Z
-created: 2026-03-20T00:00:00.000Z
+published: 2025-11-03
+created: 2026-03-20
 tags:
   - fundraising
   - strategia-organizacji

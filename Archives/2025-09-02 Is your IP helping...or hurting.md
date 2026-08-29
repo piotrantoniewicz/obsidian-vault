@@ -3,8 +3,8 @@ type: Web
 authors: '[[Sara Cederberg]]'
 url: >-
   https://www.civicshoutnewsletter.com/p/is-your-ip-helping-or-hurting?utm_source=www.civicshoutnewsletter.com&utm_medium=newsletter&utm_campaign=is-a-shared-ip-secretly-harming-your-deliverability&_bhlid=6cb0c6b394b278953184597b48cae9f64893333a
-published: 2025-09-02T00:00:00.000Z
-created: 2026-04-21T00:00:00.000Z
+published: 2025-09-02
+created: 2026-04-21
 tags:
   - fundraising
   - digital-campaigning

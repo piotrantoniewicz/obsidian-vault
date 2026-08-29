@@ -2,8 +2,8 @@
 type: Web
 authors: "[[KSood]]"
 url: 'https://www.outintheboons.me/blog/magic-words'
-published: 2022-04-25T00:00:00.000Z
-created: 2026-03-13T00:00:00.000Z
+published: 2022-04-25
+created: 2026-03-13
 tags:
   - fundraising
   - ghostwriting

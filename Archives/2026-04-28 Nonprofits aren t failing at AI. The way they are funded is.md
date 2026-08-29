@@ -3,8 +3,8 @@ type: Web
 authors: '[[Jacek Siadkowski]]'
 url: >-
   https://www.devex.com/news/nonprofits-aren-t-failing-at-ai-the-way-they-are-funded-is-112393?utm_content=link&utm_medium=social&utm_campaign=audience&utm_source=LinkedIn&skip_optional_steps=true
-published: 2026-04-28T00:00:00.000Z
-created: 2026-04-30T00:00:00.000Z
+published: 2026-04-28
+created: 2026-04-30
 tags:
   - strategia-AI
   - fundraising

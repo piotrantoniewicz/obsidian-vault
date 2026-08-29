@@ -3,8 +3,8 @@ type: Web
 authors: '[[Sara Parker]]'
 url: >-
   https://www.theverge.com/openai/686748/chatgpt-linguistic-impact-common-word-usage
-published: 2025-06-20T00:00:00.000Z
-created: 2026-03-23T00:00:00.000Z
+published: 2025-06-20
+created: 2026-03-23
 tags:
   - ghostwriting
   - framing

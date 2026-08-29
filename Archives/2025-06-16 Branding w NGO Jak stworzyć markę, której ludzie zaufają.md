@@ -3,8 +3,8 @@ type: Web
 authors: '[[Wojciech Pigla]]'
 url: >-
   https://sektor3-0.pl/blog/branding-w-ngo-jak-stworzyc-marke-ktorej-ludzie-zaufaja/?utm_source=newsletter&utm_medium=email&utm_term=2026-03-24&utm_campaign=Dane+kt%C3%B3re+poruszaj%C4%85+
-published: 2025-06-16T00:00:00.000Z
-created: 2026-03-24T00:00:00.000Z
+published: 2025-06-16
+created: 2026-03-24
 tags:
   - organizacje-społeczne
   - content-marketing

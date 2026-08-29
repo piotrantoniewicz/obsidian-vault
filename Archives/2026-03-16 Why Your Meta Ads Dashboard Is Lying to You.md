@@ -2,8 +2,8 @@
 type: Web
 authors: '[[SENTRUM]]'
 url: 'https://sentrum.app/blog/why-meta-ads-dashboard-lying?utm_source=chatgpt.com'
-published: 2026-03-16T00:00:00.000Z
-created: 2026-05-07T00:00:00.000Z
+published: 2026-03-16
+created: 2026-05-07
 tags:
   - digital-campaigning
   - content-marketing

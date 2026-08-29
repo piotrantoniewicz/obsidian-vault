@@ -3,8 +3,8 @@ type: Web
 authors: '[[Marzena Kacprowicz]]'
 url: >-
   https://sektor3-0.pl/blog/ai-pomoc-w-odpowiadaniu-na-czeste-pytania-faq/?utm_source=newsletter&utm_medium=email&utm_term=2026-03-24&utm_campaign=+Jak+zautomatyzowa%C4%87+zbieranie+faktur+i+nie+tylko+
-published: 2024-08-08T00:00:00.000Z
-created: 2026-03-24T00:00:00.000Z
+published: 2024-08-08
+created: 2026-03-24
 tags:
   - narzędzia-AI
   - organizacje-społeczne

@@ -4,8 +4,8 @@ authors:
   - "[[Nathan Benaich]]"
 url: https://fortune.com/2025/06/09/ai-chips-geopolitics-tech-data-centers/
 source: "[[2025-06-09 Sovereign AI is political branding—the reality is closer to digital colonialism]]"
-published: 2025-06-09T00:00:00.000Z
-created: 2026-03-19T00:00:00.000Z
+published: 2025-06-09
+created: 2026-03-19
 relevance: wysoka
 tags:
   - framing

@@ -3,8 +3,8 @@ type: Web
 authors: '[[Caroline McCarthy]]'
 url: >-
   https://www.politico.com/news/2026/01/04/when-they-go-low-we-go-viral-00706346?can_id=32cae499f95a9349c734a72403321b9c&email_referrer=email_3049907&email_subject=__-digital-organizing-is-our-superpower&link_id=20&nid=0000014f-1646-d88f-a1cf-5f46b7bd0000&nname=playbook&nrid=5736cc5f-79a2-4445-b143-172c73af93cc&source=email-moving-more-than-just-needles-2
-published: 2026-01-04T00:00:00.000Z
-created: 2026-04-05T00:00:00.000Z
+published: 2026-01-04
+created: 2026-04-05
 tags:
   - digital-campaigning
   - fundraising

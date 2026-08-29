@@ -3,8 +3,8 @@ type: Web
 authors: '[[Bartłomiej Polakowski]]'
 url: >-
   https://sektor3-0.pl/blog/deep-research-w-dzialaniach-spolecznych/?utm_source=newsletter&utm_medium=email&utm_term=2026-03-24&utm_campaign=+G%C5%82%C4%99boki+Research+z+AI+i+cyfrowa+czujno%C5%9B%C4%87+na+co+dzie%C5%84
-published: 2025-04-15T00:00:00.000Z
-created: 2026-03-24T00:00:00.000Z
+published: 2025-04-15
+created: 2026-03-24
 tags:
   - narzędzia-AI
   - strategia-AI

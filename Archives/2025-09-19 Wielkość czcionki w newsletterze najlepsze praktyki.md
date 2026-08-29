@@ -2,8 +2,8 @@
 type: Web
 authors: "[[Ecomail.pl]]"
 url: https://ecomail.pl/blog/pl/jak-wielkosc-czcionki-wplywa-na-skutecznosc-twoich-kampanii-/?utm_campaign=2025_36_fontsize&utm_medium=email&utm_term=15545&ecmid=9813&utm_source=ecomail
-published: 2025-09-19T00:00:00.000Z
-created: 2026-03-02T00:00:00.000Z
+published: 2025-09-19
+created: 2026-03-02
 tags:
   - digital-campaigning
   - content-marketing

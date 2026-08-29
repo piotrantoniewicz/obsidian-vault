@@ -2,8 +2,8 @@
 type: Web
 authors: '[[Mobilisation Lab Collective]]'
 url: 'https://www.linkedin.com/pulse/far-right-better-investing-people-moblab-hgpcf/'
-published: 2026-04-16T00:00:00.000Z
-created: 2026-04-17T00:00:00.000Z
+published: 2026-04-16
+created: 2026-04-17
 tags:
   - organizacje-społeczne
   - strategia-organizacji

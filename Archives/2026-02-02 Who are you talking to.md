@@ -3,8 +3,8 @@ type: Web
 authors: '[[Frank OBrien]]'
 url: >-
   https://obrienonmessage.com/3110-2/?utm_source=www.civicshoutnewsletter.com&utm_medium=newsletter&utm_campaign=how-humane-world-for-animals-won-back-38-000-donors&_bhlid=b1680c63786da7a8e9996a8a0b48ba536495ba31
-published: 2026-02-02T00:00:00.000Z
-created: 2026-03-22T00:00:00.000Z
+published: 2026-02-02
+created: 2026-03-22
 tags:
   - framing
   - fundraising

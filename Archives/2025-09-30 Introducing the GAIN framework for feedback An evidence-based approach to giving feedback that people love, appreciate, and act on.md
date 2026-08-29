@@ -3,8 +3,8 @@ type: Web
 authors: '[[Jack Cohen]]'
 url: >-
   https://www.lennysnewsletter.com/p/introducing-the-gain-framework-for?utm_source=substack&utm_medium=email&utm_campaign=email-restack-comment&r=4zdnrk&triedRedirect=true
-published: 2025-09-30T00:00:00.000Z
-created: 2026-05-11T00:00:00.000Z
+published: 2025-09-30
+created: 2026-05-11
 tags:
   - strategia-organizacji
   - narzędzia-AI

@@ -3,8 +3,8 @@ type: Web
 authors: '[[Marzena Kacprowicz]]'
 url: >-
   https://sektor3-0.pl/blog/zarzadzanie-wiedza-w-ngo-jak-zamienic-rozmowy-na-czacie-w-systematyczny-rozwoj-zespolu/
-published: 2026-03-10T00:00:00.000Z
-created: 2026-03-24T00:00:00.000Z
+published: 2026-03-10
+created: 2026-03-24
 tags:
   - strategia-organizacji
   - organizacje-społeczne

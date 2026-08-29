@@ -3,8 +3,8 @@ type: Web
 authors: '[[European Center for Digital Action]]'
 url: >-
   https://www.centerfordigitalaction.eu/post/attention-everyone-how-to-cut-through-with-your-communication?source=newsletter&link_id=16&can_id=32cae499f95a9349c734a72403321b9c&email_referrer=email_3127152&email_subject=data-is-power-dont-waste-yours&
-published: 2026-02-25T00:00:00.000Z
-created: 2026-04-06T00:00:00.000Z
+published: 2026-02-25
+created: 2026-04-06
 tags:
   - content-marketing
   - digital-campaigning

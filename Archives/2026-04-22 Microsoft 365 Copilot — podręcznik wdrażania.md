@@ -3,8 +3,8 @@ type: Web
 authors: '[[Microsoft]]'
 url: >-
   https://www.microsoft.com/pl-pl/microsoft-365-copilot/copilot-adoption-guide?msockid=144d8d3c9f4c659320fb9b859e6d647a#Phase2
-published: null
-created: 2026-04-22T00:00:00.000Z
+published:
+created: 2026-04-22
 tags:
   - szkolenia-AI
   - narzędzia-AI

@@ -3,7 +3,7 @@ type: Web
 authors: "[[learn.mcgovern.org on Notion]]"
 url: https://learn.mcgovern.org/
 published:
-created: 2026-03-02T00:00:00.000Z
+created: 2026-03-02
 tags:
   - szkolenia-AI
   - strategia-AI

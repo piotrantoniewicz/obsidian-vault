@@ -2,8 +2,8 @@
 type: Web
 authors: '[[Validity]]'
 url: 'https://www.validity.com/e-mail-marketing/sender-reputation/'
-published: 2021-08-06T00:00:00.000Z
-created: 2026-04-18T00:00:00.000Z
+published: 2021-08-06
+created: 2026-04-18
 tags:
   - fundraising
   - digital-campaigning

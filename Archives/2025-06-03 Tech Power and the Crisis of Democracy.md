@@ -5,8 +5,8 @@ authors:
   - '[[Meg Young]]'
 url: >-
   https://www.techpolicy.press/tech-power-and-the-crisis-of-democracy/?utm_medium=email&_hsenc=p2ANqtz--TFd0qsmrI5mn8CE6XKjg8WFm9piOFyFZNy49QF8oNU9cdMFVmT4VSQJ4k4SRIqKIN_iL4uPZmBXqBvRVCyU2XjU93eLl1Vbyc8NjVbkZtfjTOBcc&_hsmi=112708171&utm_content=112708171&utm_source=hs_email
-published: 2025-06-03T00:00:00.000Z
-created: 2026-03-19T00:00:00.000Z
+published: 2025-06-03
+created: 2026-03-19
 tags:
   - strategia-AI
   - trendy-AI

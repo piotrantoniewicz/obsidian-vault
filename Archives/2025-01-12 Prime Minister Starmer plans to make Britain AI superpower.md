@@ -3,8 +3,8 @@ type: Web
 authors: ["[[Andrew Macaskill]]", "[[Paul Sandle]]"]
 url: >-
   https://www.reuters.com/world/uk/uk-pm-starmer-outline-plan-make-britain-world-leader-ai-2025-01-12/?utm_source=substack&utm_medium=email
-published: 2025-01-12T00:00:00.000Z
-created: 2026-03-30T00:00:00.000Z
+published: 2025-01-12
+created: 2026-03-30
 tags:
   - strategia-AI
   - trendy-AI

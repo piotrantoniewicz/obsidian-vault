@@ -2,8 +2,8 @@
 type: Web
 authors: ["[[Nathan Sanders]]", "[[Bruce Schneier]]"]
 url: 'https://prospect.org/2025/10/10/ai-artificial-intelligence-campaigns-midterms/'
-published: 2025-10-10T00:00:00.000Z
-created: 2026-03-20T00:00:00.000Z
+published: 2025-10-10
+created: 2026-03-20
 tags:
   - digital-campaigning
   - trendy-AI

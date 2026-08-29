@@ -2,8 +2,8 @@
 type: Web
 authors: "[[Ryan Davis]]"
 url: https://monthindigital.substack.com/p/9-trends-driving-digital-strategy?utm_source=newsletter&utm_medium=email&utm_term=Mon%2B02%2BMar%2B2026&utm_campaign=Do%2BSomething%2BAnything%2BThe%2BHo%2BHo%2BHo%2Bit%2Bs%2BM-A-M-D-A-N-I%2Bedition
-published: 2025-12-15T00:00:00.000Z
-created: 2026-03-02T00:00:00.000Z
+published: 2025-12-15
+created: 2026-03-02
 tags:
   - digital-campaigning
   - content-marketing

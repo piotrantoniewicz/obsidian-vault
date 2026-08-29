@@ -3,8 +3,8 @@ type: Web
 authors: '[[Center for Humane Technology]]'
 url: >-
   https://centerforhumanetechnology.substack.com/p/cht-statement-in-response-to-state?utm_medium=email&_hsenc=p2ANqtz-92huHVeHW_mXlUB-QnICE3SkCN9lytIDQUD2h0i9B8X0RYyfuYLwFYiRiNDD8SgG0F6fQcD4GUjUd5N8ZgfXDyLkwlEmTFfJkj8RhOjrxsHc1Whz8&_hsmi=110762810&utm_content=110762810&utm_source=hs_email
-published: 2025-05-16T00:00:00.000Z
-created: 2026-03-19T00:00:00.000Z
+published: 2025-05-16
+created: 2026-03-19
 tags:
   - strategia-AI
   - trendy-AI

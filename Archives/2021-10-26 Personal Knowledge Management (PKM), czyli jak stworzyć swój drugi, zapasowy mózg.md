@@ -3,8 +3,8 @@ type: Web
 authors: '[[Marzena Kacprowicz]]'
 url: >-
   https://sektor3-0.pl/blog/personal-knowledge-management-czyli-jak-stworzyc-swoj-drugi-zapasowy-mozg/
-published: 2021-10-26T00:00:00.000Z
-created: 2026-03-24T00:00:00.000Z
+published: 2021-10-26
+created: 2026-03-24
 tags:
   - strategia-organizacji
   - organizacje-społeczne

@@ -3,8 +3,8 @@ type: Web
 authors: '[[Raul Jurca]]'
 url: >-
   https://www.centerfordigitalaction.eu/post/tiktok-isn-t-waiting-for-progressive-politicians-to-catch-up-step-up-now?source=newsletter&link_id=6&can_id=32cae499f95a9349c734a72403321b9c&email_referrer=email_3141049&email_subject=trainings-trade-unions-tiktok-and-more&
-published: 2026-03-16T00:00:00.000Z
-created: 2026-04-06T00:00:00.000Z
+published: 2026-03-16
+created: 2026-04-06
 tags:
   - digital-campaigning
   - organizacje-społeczne

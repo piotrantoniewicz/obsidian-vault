@@ -2,8 +2,8 @@
 type: Web
 authors: '[[Kasia Krzywicka]]'
 url: 'https://www.youtube.com/watch?v=csZ0K42vkkA'
-published: 2025-12-20T00:00:00.000Z
-created: 2026-04-22T00:00:00.000Z
+published: 2025-12-20
+created: 2026-04-22
 tags:
   - strategia-AI
   - narzędzia-AI

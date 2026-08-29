@@ -3,8 +3,8 @@ type: Web
 authors: '[[Rob Wu]]'
 url: >-
   https://www.causevox.com/blog/fundraising-systems-self-assessment/?cv_t=yP2YEWqGl3nA38Lm.g5w1WzxX5wLAExyl.6c6ecb0848930337a9a766fee49a68ababebd8976f8249f58858f9a12a3f98ff
-published: 2026-05-26T00:00:00.000Z
-created: 2026-07-10T00:00:00.000Z
+published: 2026-05-26
+created: 2026-07-10
 tags:
   - fundraising
   - strategia-organizacji

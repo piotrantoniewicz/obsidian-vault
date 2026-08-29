@@ -3,8 +3,8 @@ type: Web
 authors: '[[Natasha Adams]]'
 url: >-
   https://thesocialchangenest.org/strong-movements-start-with-community/?utm_campaign=Newsletter&utm_medium=email&_hsenc=p2ANqtz--pmw_TEJ1UHt2M1ssd2a8n4rFgIFGibrE8hQ-k88UG3Nwgi6RYUIc8rtMlfydB5FnnfOfL1BXJ6OctCoQwJn10k2nHBz8RKQ3AU9LNUjyBkulmI8o&_hsmi=432903346&utm_content=432839765&utm_source=hs_email
-published: 2026-08-11T00:00:00.000Z
-created: 2026-08-13T00:00:00.000Z
+published: 2026-08-11
+created: 2026-08-13
 tags:
   - organizacje-społeczne
   - strategia-organizacji

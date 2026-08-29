@@ -3,8 +3,8 @@ type: Web
 authors: '[[Nikola Bochyńska, Ireneusz Chojnacki]]'
 url: >-
   https://www.wnp.pl/energia/ai-na-kredyt-natury-centra-danych-beda-konkurowac-o-wode-z-innymi-sektorami-napiecie-rosnie,1083593.html
-published: 2026-08-04T00:00:00.000Z
-created: 2026-08-04T00:00:00.000Z
+published: 2026-08-04
+created: 2026-08-04
 tags:
   - trendy-AI
   - organizacje-społeczne

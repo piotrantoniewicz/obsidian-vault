@@ -3,8 +3,8 @@ type: Web
 authors: '[[BBC]]'
 url: >-
   https://www.bbc.co.uk/editorialguidelines/guidance/use-of-artificial-intelligence
-published: 2025-06-24T00:00:00.000Z
-created: 2026-03-26T00:00:00.000Z
+published: 2025-06-24
+created: 2026-03-26
 tags:
   - strategia-AI
   - trendy-AI

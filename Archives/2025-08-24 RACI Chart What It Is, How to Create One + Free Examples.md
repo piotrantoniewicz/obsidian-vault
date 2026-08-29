@@ -3,8 +3,8 @@ type: Web
 authors: '[[Brett Harned]]'
 url: >-
   https://www.teamgantt.com/blog/raci-chart-definition-tips-and-example?utm_source=www.civicshoutnewsletter.com&utm_medium=newsletter&utm_campaign=what-the-fastest-moving-orgs-do-before-the-crisis-hits&_bhlid=e3f149218e6910a0891f08e92238889ff393c197
-published: 2025-08-24T00:00:00.000Z
-created: 2026-03-22T00:00:00.000Z
+published: 2025-08-24
+created: 2026-03-22
 tags:
   - strategia-organizacji
 ---

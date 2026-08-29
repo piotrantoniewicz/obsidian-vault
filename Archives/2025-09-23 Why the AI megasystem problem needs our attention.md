@@ -3,8 +3,8 @@ type: Web
 authors: '[[Eric Markowitz]]'
 url: >-
   https://bigthink.com/the-long-game/why-the-ai-megasystem-problem-needs-our-attention/?utm_medium=email&_hsenc=p2ANqtz-8s9h_8AxKwCJUaeF_i6SVnjqVmldh6yL0xCUam4XstrIdQ5RF8rtU5cXmOTnuFZ5hptH3yLvlxLhwnCl34Lm_vIlsyaQAH4OwJywL3Xznvre-s7YI&_hsmi=122752062&utm_content=122752062&utm_source=hs_email
-published: 2025-09-23T00:00:00.000Z
-created: 2026-03-20T00:00:00.000Z
+published: 2025-09-23
+created: 2026-03-20
 tags:
   - strategia-AI
   - trendy-AI

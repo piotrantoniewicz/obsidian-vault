@@ -3,8 +3,8 @@ type: Web
 authors: '[[ngo.pl]]'
 url: >-
   https://publicystyka.ngo.pl/czym-jest-perplexity-ai-wyszukiwarka-i-narzedzie-z-ai-w-jednym-tau?utm_source=newsletter&utm_medium=email&utm_term=2026-03-24&utm_campaign=+Jak+korzysta%C4%87+z+Perplexity+
-published: 2025-03-05T00:00:00.000Z
-created: 2026-03-24T00:00:00.000Z
+published: 2025-03-05
+created: 2026-03-24
 tags:
   - narzędzia-AI
   - strategia-AI

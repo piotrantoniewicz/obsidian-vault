@@ -3,8 +3,8 @@ type: Web
 authors: '[[Kinga Pańczyszyn-Liśkiewicz]]'
 url: >-
   https://sektor3-0.pl/blog/crm-dla-ngo-profesjonalizacja-dzialan-organizacji-w-pieciu-krokach/?utm_source=newsletter&utm_medium=email&utm_term=2026-03-24&utm_campaign=+Jak+m%C3%B3wi%C4%87+by+nie+wyklucza%C4%87+
-published: 2024-12-04T00:00:00.000Z
-created: 2026-03-24T00:00:00.000Z
+published: 2024-12-04
+created: 2026-03-24
 tags:
   - fundraising
   - strategia-organizacji

@@ -3,8 +3,8 @@ type: Web
 authors: '[[Media Cause Team]]'
 url: >-
   https://mediacause.com/year-end-fundraising-trends-insights-what-we-learned-from-2025/?utm_source=www.civicshoutnewsletter.com&utm_medium=newsletter&utm_campaign=what-actually-worked-in-december&_bhlid=74b6c8bbd6f56ba16620524469a98241101f6993
-published: 2026-01-15T00:00:00.000Z
-created: 2026-03-22T00:00:00.000Z
+published: 2026-01-15
+created: 2026-03-22
 tags:
   - fundraising
   - digital-campaigning

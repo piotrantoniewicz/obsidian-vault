@@ -3,8 +3,8 @@ type: Web
 authors: '[[Michael Nuñez]]'
 url: >-
   https://venturebeat.com/technology/the-creator-of-claude-code-just-revealed-his-workflow-and-developers-are
-published: 2026-01-05T00:00:00.000Z
-created: 2026-04-19T00:00:00.000Z
+published: 2026-01-05
+created: 2026-04-19
 tags:
   - narzędzia-AI
   - automatyzacja

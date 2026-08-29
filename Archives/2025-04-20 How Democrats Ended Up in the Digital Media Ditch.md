@@ -3,8 +3,8 @@ type: Web
 authors: '[[Colin Delany]]'
 url: >-
   https://epolitics.substack.com/p/how-democrats-ended-up-in-the-digital?utm_medium=email&_hsenc=p2ANqtz-9FRtdPFgoUJZJzepNu2kzLqwDI3zXMHAZ1uSy5IIy9rD2vozQqoQhc0OYHcf7h3weqeDIl6hgGlitQdU4v---b9xYu0EuG5DwN1YmDXPhSBjDIYSI&_hsmi=109001541&utm_content=109001541&utm_source=hs_email
-published: 2025-04-20T00:00:00.000Z
-created: 2026-03-19T00:00:00.000Z
+published: 2025-04-20
+created: 2026-03-19
 tags:
   - digital-campaigning
   - content-marketing

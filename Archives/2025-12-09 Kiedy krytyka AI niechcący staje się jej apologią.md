@@ -3,8 +3,8 @@ type: Web
 authors: '[[Jacek Mańko]]'
 url: >-
   https://blog.humanistyka.dev/2025/12/kiedy-krytyka-ai-niechcacy-staje-sie-jej-apologia
-published: 2025-12-09T00:00:00.000Z
-created: 2026-06-14T00:00:00.000Z
+published: 2025-12-09
+created: 2026-06-14
 tags:
   - trendy-AI
   - strategia-AI

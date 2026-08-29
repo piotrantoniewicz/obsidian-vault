@@ -3,8 +3,8 @@ type: Web
 authors: '[[Billy Howell]]'
 url: >-
   https://app.therundown.ai/guides/how-to-design-a-high-converting-landing-page-in-claude-design
-published: 2026-04-20T00:00:00.000Z
-created: 2026-04-24T00:00:00.000Z
+published: 2026-04-20
+created: 2026-04-24
 tags:
   - produkty-cyfrowe
   - narzędzia-AI

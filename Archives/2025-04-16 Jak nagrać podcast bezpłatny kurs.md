@@ -3,8 +3,8 @@ type: Web
 authors: '[[ngo.pl]]'
 url: >-
   https://publicystyka.ngo.pl/jak-nagrac-podcast-bezplatny-kurs-dla-organizacji-spolecznych-tau?utm_source=newsletter&utm_medium=email&utm_term=2026-03-24&utm_campaign=+G%C5%82%C4%99boki+Research+z+AI+i+cyfrowa+czujno%C5%9B%C4%87+na+co+dzie%C5%84
-published: 2025-04-16T00:00:00.000Z
-created: 2026-03-24T00:00:00.000Z
+published: 2025-04-16
+created: 2026-03-24
 tags:
   - content-marketing
   - organizacje-społeczne

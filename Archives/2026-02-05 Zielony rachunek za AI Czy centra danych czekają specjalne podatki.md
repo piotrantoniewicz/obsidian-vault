@@ -3,8 +3,8 @@ type: Web
 authors: '[[Redakcja]]'
 url: >-
   https://haimagazine.com/pl/ai_branza/biznes/zielony-rachunek-za-ai/?utm_source=ActiveCampaign&utm_medium=email&utm_content=AI%20Flash%20Business%20%2321&utm_campaign=AI%20Flash%20Business%20%2319%20%28Kopiuj%29
-published: 2026-02-05T00:00:00.000Z
-created: 2026-05-03T00:00:00.000Z
+published: 2026-02-05
+created: 2026-05-03
 tags:
   - trendy-AI
   - strategia-AI

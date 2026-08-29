@@ -3,8 +3,8 @@ type: Web
 authors: '[[Kimberly Huang]]'
 url: >-
   https://www.litmus.com/blog/litmus-live-recap-2026?utm_source=www.civicshoutnewsletter.com&utm_medium=newsletter&utm_campaign=the-tests-that-transformed-a-welcome-series&_bhlid=04256a4afce3163f3583ebb9874bf6bd5e5a9e20
-published: 2024-03-18T00:00:00.000Z
-created: 2026-03-23T00:00:00.000Z
+published: 2024-03-18
+created: 2026-03-23
 tags:
   - digital-campaigning
   - narzędzia-AI

@@ -2,8 +2,8 @@
 type: Web
 authors: "[[Stephen Hood]]"
 url: https://builders.mozilla.org/the-hyperspace-bypass/?utm_source=substack&utm_medium=email
-published: 2024-11-14T00:00:00.000Z
-created: 2026-03-02T00:00:00.000Z
+published: 2024-11-14
+created: 2026-03-02
 tags:
   - trendy-AI
   - strategia-AI

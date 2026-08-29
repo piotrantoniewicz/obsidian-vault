@@ -2,8 +2,8 @@
 type: Web
 authors: "[[Ecomail.pl]]"
 url: https://ecomail.pl/blog/pl/kampania-powitalna-w-e-commerce-jak-stworzyc-e-mail-ktory-buduje-relacje-i-sprzedaje/?utm_medium=email&utm_campaign=2025_40_welcome_campaign&utm_source=ecomail&ecmid=9813&utm_term=15545
-published: 2025-10-17T00:00:00.000Z
-created: 2026-03-02T00:00:00.000Z
+published: 2025-10-17
+created: 2026-03-02
 tags:
   - digital-campaigning
   - fundraising

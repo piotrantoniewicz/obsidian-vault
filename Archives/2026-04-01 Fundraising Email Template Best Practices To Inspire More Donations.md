@@ -3,8 +3,8 @@ type: Web
 authors: '[[Engaging Networks]]'
 url: >-
   https://www.engagingnetworks.net/blog/fundraising-email-template-best-practices/?utm_campaign=136965333-The%20Engager%20%7C%20Engaging%20Networks%20Monthly%20Newsletter&utm_medium=email&_hsenc=p2ANqtz--fSKCasQhxRJKp9KkSlz85ipySKtl9aGEldVT-GtI15bSJfsXEueQRbNWy6s5pr1eQ8-r7_WGVv4WfCO9I7AxEteU59WyrODx15EUY8eVPAR-QpZk&_hsmi=134089765&utm_content=134090107&utm_source=hs_email
-published: 2026-04-01T00:00:00.000Z
-created: 2026-04-24T00:00:00.000Z
+published: 2026-04-01
+created: 2026-04-24
 tags:
   - fundraising
   - digital-campaigning

@@ -3,8 +3,8 @@ type: Web
 authors: '[[Abby Jarvis]]'
 url: >-
   https://www.nptechforgood.com/2026/03/16/how-to-use-fundraising-kpis-without-stressing-yourself-out/
-published: 2026-03-16T00:00:00.000Z
-created: 2026-04-07T00:00:00.000Z
+published: 2026-03-16
+created: 2026-04-07
 tags:
   - fundraising
   - strategia-organizacji

@@ -3,8 +3,8 @@ type: Web
 authors: '[[Bryan Neider]]'
 url: >-
   https://www.linkedin.com/pulse/human-centered-ai-unlocking-agency-bryan-neider-gkeec/
-published: 2026-05-06T00:00:00.000Z
-created: 2026-05-06T00:00:00.000Z
+published: 2026-05-06
+created: 2026-05-06
 tags:
   - strategia-AI
   - szkolenia-AI

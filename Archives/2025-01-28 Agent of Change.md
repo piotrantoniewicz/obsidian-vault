@@ -2,8 +2,8 @@
 type: Web
 authors: "[[Kevin Barenblat]]"
 url: https://aiforhumanity.ffwd.org/p/agent-of-change?utm_source=substack&utm_medium=email
-published: 2025-01-28T00:00:00.000Z
-created: 2026-03-02T00:00:00.000Z
+published: 2025-01-28
+created: 2026-03-02
 tags:
   - narzędzia-AI
   - organizacje-społeczne

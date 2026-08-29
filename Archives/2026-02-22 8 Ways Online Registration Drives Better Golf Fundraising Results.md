@@ -3,8 +3,8 @@ type: Web
 authors: '[[Jen Wemhoff]]'
 url: >-
   https://www.nptechforgood.com/2026/02/22/8-ways-online-registration-drives-better-golf-fundraising-results/
-published: 2026-02-22T00:00:00.000Z
-created: 2026-04-07T00:00:00.000Z
+published: 2026-02-22
+created: 2026-04-07
 tags:
   - fundraising
 ---

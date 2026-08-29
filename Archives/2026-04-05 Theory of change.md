@@ -2,8 +2,8 @@
 type: Web
 authors: '[[Beautiful Trouble]]'
 url: 'https://beautifultrouble.org/toolbox/tool/theory-of-change'
-published: null
-created: 2026-04-05T00:00:00.000Z
+published:
+created: 2026-04-05
 tags:
   - strategia-organizacji
   - digital-campaigning

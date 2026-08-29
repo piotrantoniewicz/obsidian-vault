@@ -5,7 +5,7 @@ tags:
   - ghostwriting
   - organizacje-społeczne
 created: 2026-08-17
-updated: 2026-08-28
+updated: 2026-08-29
 relevance: wysoka
 sources:
   - "[[2024-06-26 Marka osobista w NGO jak zacząć budowanie wizerunku społecznika społeczniczki]]"
@@ -25,6 +25,7 @@ sources:
   - "[[2026-08-18 How I'm creating The Comment Writer training]]"
   - "[[2026-08-16 How to post original content daily in 20 minutes — straight from LinkedIn's Global Director, Thought Leadership]]"
   - "[[2026-08-03 The New Rules of LinkedIn are here. Now I’m tearing down my 100k account to follow them.]]"
+  - "[[2026-08-23 My LinkedIn profile was (accidentally) doing real damage. Here’s how I fixed it step by step.]]"
 ---
 
 # Marka osobista
@@ -85,6 +86,9 @@ Dwa uzupełnienia do mech. 6 (regularność bije wiralność) i 7 (profil jako l
 
 **15. Siedem reguł profilu i publikowania po przejściu na graf zainteresowań ([[Devin Reed]])**
 Operacyjne domknięcie mech. 7 (profil jako landing page) i mech. 8 (własny rytm) dla nowej mechaniki [[LinkedIn]]: przejście z **grafu społecznościowego** (kto mnie obserwuje) na **graf zainteresowań** (kogo interesuje ten temat), wdrażane od 2025 roku i potwierdzone oficjalnie przez inżyniera platformy **12 marca 2026**. Autor z blisko **100 tys. followersów** ogłasza przebudowę strategii od zera — sam ten gest jest najmocniejszym argumentem, że stary kapitał zasięgowy nie przenosi się na nowe reguły. Siedem zasad: **(1)** liczba followersów przestała być fosą — konto z 8 tys. i konto z 80 tys. mają dziś porównywalną szansę na zasięg przy tym samym poście; **(2)** **profil jest pierwszą rzeczą, którą czyta algorytm** — porządkuje się go **zanim** zwiększy się produkcję treści (odwrotnie niż robi większość); **(3)** **2–3 filary tematyczne trzymane przez 90 dni** przed jakimkolwiek eksperymentem — rozproszenie tematyczne kosztuje widoczność; **(4)** pisz **pod zapisania (saves)**, nie pod polubienia — waluta przesunęła się z reakcji na **gęstość wiedzy**; **(5)** komentarze rosną, jeśli są realne — algorytm traktuje treściwy komentarz jako **dane treningowe** o tym, kim jesteś tematycznie, a „super post" nie niesie żadnego sygnału; **(6)** długość posta przestała być zmienną — liczy się, czy post da się **jednoznacznie sklasyfikować** tematycznie; **(7)** graj w grę 90-dniową, bo **klasyfikacja profilu zajmuje 2–3 miesiące**, a niemal nikt tyle nie wytrzymuje — cierpliwość jest tu realną przewagą konkurencyjną. Zdanie porządkujące całość: *„Kiedyś liczył się najpierw zasięg, potem trafność. Teraz najpierw liczy się trafność, potem zasięg"*. Dla organizacji społecznej wniosek jest korzystny: wyrównanie szans znosi przewagę wielkich kont, ale przenosi koszt na **konsekwencję tematyczną**, która w organizacji bez redakcji jest trudniejsza niż jednorazowa kampania zasięgowa. Diagnostyka błędnej klasyfikacji i plan naprawy: [[2026-06-25 Owned vs rented audience|Owned vs rented audience]], mech. 9. *(Źródło: [[2026-08-03 The New Rules of LinkedIn are here. Now I’m tearing down my 100k account to follow them.]])*
+
+**16. Audyt profilu jako powtarzalna procedura — pięć elementów i pola, które klasyfikują człowieka ([[Devin Reed]])**
+Wykonawcze domknięcie mech. 7 i reguły 2 z mech. 15 („profil porządkuje się, **zanim** zwiększy się produkcję treści"): autor przeprowadza audyt własnego profilu i pokazuje, że najkosztowniejsze błędy siedzą nie w treści postów, lecz w **polach, które system czyta jako klasyfikację autora**. Pięć elementów i rola każdego z nich: **(1) baner** — największa powierzchnia reklamowa profilu, ma promować **aktualną** ofertę, nie projekt sprzed lat (warstwa wizualna, dla człowieka); **(2) nagłówek** — jedyny element towarzyszący **każdemu komentarzowi**, musi nieść **słowo kluczowe kategorii** (dla maszyny) i czytelny pitch (dla człowieka); **(3) About** — otwierać **tezą lub przekonaniem, nie życiorysem**, i **ograniczyć liczbę CTA** (autor zszedł z sześciu do dwóch), bo sześć wezwań to zero wezwań; **(4) Featured** — dobierane pod **konkretny następny krok** (subskrypcja, lead magnet), nie „najlepsze posty"; **(5) lista Skills i dokładne brzmienie tytułu stanowiska** — **kolejność umiejętności i sformułowanie tytułu decydują, jak system klasyfikacyjny i reklamowy opisuje daną osobę**. Diagnostyczna wartość case'u: główna kompetencja autora — *Content Strategy* — stała na **17. miejscu z 20** na jego własnej liście umiejętności; to najczystszy przykład rozjazdu między tym, kim ktoś jest, a tym, za kogo bierze go maszyna. Kontekst wagi tej roboty: **LinkedIn to drugie najczęściej cytowane źródło dla modeli językowych** (Meltwater 2026) — czyli pola profilu są jednocześnie powierzchnią [[2026-06-23 Widoczność w AI search|widoczności w AI search]]. Audyt jest **tani i szybki**, więc nadaje się na moduł warsztatowy dla liderów organizacji; sam autor raportuje poprawę oceny profilu we własnej rubryce z **C- do B+** — miara autorska, nienadająca się do cytowania jako wynik. *(Źródło: [[2026-08-23 My LinkedIn profile was (accidentally) doing real damage. Here’s how I fixed it step by step.]])*
 
 ## Powiązane pojęcia
 

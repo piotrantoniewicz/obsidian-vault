@@ -3,8 +3,8 @@ type: Web
 authors: '[[Sara Cederberg]]'
 url: >-
   https://www.civicshoutnewsletter.com/p/a-72-hour-gut-check-for-hard-news-cycles?utm_source=www.civicshoutnewsletter.com&utm_medium=newsletter&utm_campaign=two-habits-that-keep-environmental-action-s-email-program-working&_bhlid=f71cb7b7cfeb6a3e6d1707d573e7703d5ecaf37f
-published: 2026-01-27T00:00:00.000Z
-created: 2026-04-18T00:00:00.000Z
+published: 2026-01-27
+created: 2026-04-18
 tags:
   - digital-campaigning
   - fundraising

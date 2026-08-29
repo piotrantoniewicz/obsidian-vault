@@ -3,8 +3,8 @@ type: Web
 authors: '[[Michał Serwiński]]'
 url: >-
   https://sektor3-0.pl/blog/strazacy-z-wisniowej-tworza-aplikacje-dla-osp-firex-bedzie-cyfrowym-asystentem-dowodcy/?utm_source=newsletter&utm_medium=email&utm_term=2026-03-24&utm_campaign=Czy+potrzebujesz+asystenta+
-published: 2025-04-22T00:00:00.000Z
-created: 2026-03-24T00:00:00.000Z
+published: 2025-04-22
+created: 2026-03-24
 tags:
   - organizacje-społeczne
   - produkty-cyfrowe

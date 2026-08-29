@@ -2,8 +2,8 @@
 type: Web
 authors: '[[Scott Schuler]]'
 url: 'https://www.fwiw.news/p/are-you-ready-for-the-ai-election'
-published: 2025-06-13T00:00:00.000Z
-created: 2026-03-25T00:00:00.000Z
+published: 2025-06-13
+created: 2026-03-25
 tags:
   - digital-campaigning
   - narzędzia-AI

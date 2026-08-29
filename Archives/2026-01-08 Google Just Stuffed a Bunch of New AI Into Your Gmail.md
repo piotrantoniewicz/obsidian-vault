@@ -3,8 +3,8 @@ type: Web
 authors: '[[Bruce Gil]]'
 url: >-
   https://gizmodo.com/google-just-stuffed-a-bunch-of-new-ai-into-your-gmail-2000707529?utm_source=www.civicshoutnewsletter.com&utm_medium=newsletter&utm_campaign=lessons-from-automating-a-complex-renewal-series&_bhlid=06b6b4e88da8dea6390a481aa4093eb7667d9b37
-published: 2026-01-08T00:00:00.000Z
-created: 2026-03-22T00:00:00.000Z
+published: 2026-01-08
+created: 2026-03-22
 tags:
   - trendy-AI
   - digital-campaigning

@@ -2,8 +2,8 @@
 type: Web
 authors: "[[Karolina Pacoń]]"
 url: https://pomagam.pl/blog/24-pomysly-na-swieta
-published: 2025-11-13T00:00:00.000Z
-created: 2026-03-04T00:00:00.000Z
+published: 2025-11-13
+created: 2026-03-04
 tags:
   - fundraising
   - organizacje-społeczne

@@ -3,8 +3,8 @@ type: Web
 authors: '[[Feathr]]'
 url: >-
   https://www.feathr.co/resources/case-studies/guiding-light-cuts-costs-by-telling-their-own-story?utm_term=case-study-guiding-light&utm_campaign=case-study-guiding-light-6325&utm_medium=marketing_email&_hsenc=p2ANqtz-8zwIXMMlpLrjSxX_OCNWGhVAF9eRMcApXVC0zy7yXHZzZFGCAhXUUD49quyC1E_bLDIb-4BGYR-UwZOwiwUNuFpsZRxJ5-uZKDXtP0d7LOtPl7CEU&_hsmi=370541004&utm_content=%5BCase%20Study%5D%20Guiding%20Light%20-%20Promo%202%20-%20Auto%20send&utm_source=case_study_email
-published: 2026-05-08T00:00:00.000Z
-created: 2026-05-08T00:00:00.000Z
+published: 2026-05-08
+created: 2026-05-08
 tags:
   - digital-campaigning
   - fundraising

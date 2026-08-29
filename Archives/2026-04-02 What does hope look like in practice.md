@@ -3,8 +3,8 @@ type: Web
 authors: '[[Natasha Adams]]'
 url: >-
   https://thinkingdoingchanging.com/2026/04/02/what-does-hope-look-like-in-practice/?mc_cid=6084e9063e&mc_eid=UNIQID
-published: 2026-04-02T00:00:00.000Z
-created: 2026-04-07T00:00:00.000Z
+published: 2026-04-02
+created: 2026-04-07
 tags:
   - digital-campaigning
   - organizacje-społeczne

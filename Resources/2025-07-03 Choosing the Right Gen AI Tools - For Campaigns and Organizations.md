@@ -6,7 +6,7 @@ authors:
   - "[[Ned Howey]]"
 url: https://www.tectonica.co/posts/choosing-the-right-gen-ai-tools-for-campaigns-and-organizations
 source: "[[Archives/2025-07-03 Choosing the Right Gen AI Tools - For Campaigns and Organizations|2025-07-03 Choosing the Right Gen AI Tools - For Campaigns and Organizations]]"
-published: 2025-07-03T00:00:00.000Z
+published: 2025-07-03
 created: 2026-03-19
 relevance: wysoka
 tags:

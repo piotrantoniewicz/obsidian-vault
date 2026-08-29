@@ -3,8 +3,8 @@ type: Web
 authors: '[[ngo.pl]]'
 url: >-
   https://publicystyka.ngo.pl/canva-i-affinity-lacza-sily-a-twoja-ngo-zyskuje-profesjonalne-oprogramowanie-do-grafiki-wektorowej-tau?utm_source=newsletter&utm_medium=email&utm_term=2026-03-24&utm_campaign=+Jak+zautomatyzowa%C4%87+zbieranie+faktur+i+nie+tylko+
-published: 2024-11-13T00:00:00.000Z
-created: 2026-03-24T00:00:00.000Z
+published: 2024-11-13
+created: 2026-03-24
 tags:
   - organizacje-społeczne
   - narzędzia-AI

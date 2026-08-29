@@ -3,8 +3,8 @@ type: Web
 authors: '[[M+R]]'
 url: >-
   https://www.mrss.com/lab/donors-want-nonpartisan-nonprofits-to-speak-out-for-free-and-fair-elections-heres-how/
-published: 2026-08-10T00:00:00.000Z
-created: 2026-08-10T00:00:00.000Z
+published: 2026-08-10
+created: 2026-08-10
 tags:
   - digital-campaigning
   - organizacje-społeczne

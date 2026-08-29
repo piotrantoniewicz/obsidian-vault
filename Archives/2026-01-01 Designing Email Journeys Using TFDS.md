@@ -3,8 +3,8 @@ type: Web
 authors: '[[Beth O''Malley]]'
 url: >-
   https://weareastral.co.uk/thevault/designing-email-journeys-using-tfds?utm_medium=email&_hsenc=p2ANqtz-8AawXyCXTowmgbR5MGyF4a3IgWo8d0549TFfBs5pLbdCz6HLhoLbmg8UL-lZ31HQ5vR5lmHCbUcc6Sieb2ch5WUokikvmp2QiZeAJZMFSRIdfYb3w&_hsmi=132947917&utm_content=132946496&utm_source=hs_email
-published: 2026-01-01T00:00:00.000Z
-created: 2026-04-13T00:00:00.000Z
+published: 2026-01-01
+created: 2026-04-13
 tags:
   - digital-campaigning
   - content-marketing

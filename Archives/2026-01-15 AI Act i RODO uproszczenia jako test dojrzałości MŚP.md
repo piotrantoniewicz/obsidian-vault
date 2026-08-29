@@ -3,8 +3,8 @@ type: Web
 authors: '[[Ewa Siciak]]'
 url: >-
   https://haimagazine.com/pl/ai_branza/prawo_etyka/ai-act-i-rodo/?utm_source=ActiveCampaign&utm_medium=email&utm_content=Tydzie%C5%84%20pe%C5%82en%20wiedzy%20-%20CampusAI%20Update%21&utm_campaign=Tydzie%C5%84%20pe%C5%82en%20wiedzy%20-%20CampusAI%20Update%21
-published: 2026-01-15T00:00:00.000Z
-created: 2026-03-24T00:00:00.000Z
+published: 2026-01-15
+created: 2026-03-24
 tags:
   - strategia-AI
   - organizacje-społeczne

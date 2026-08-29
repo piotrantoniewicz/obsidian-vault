@@ -2,8 +2,8 @@
 type: Web
 authors: "[[Shannon Whitehead]]"
 url: https://neonone.com/resources/blog/lapsed-donor-email-subject-lines/?utm_source=pardot&utm_medium=email&utm_campaign=pardot_email_tofu_nonprofit_email_report_nurture_apr_2023&utm_content=text_link
-published: 2025-07-10T00:00:00.000Z
-created: 2026-03-16T00:00:00.000Z
+published: 2025-07-10
+created: 2026-03-16
 tags:
   - fundraising
   - content-marketing

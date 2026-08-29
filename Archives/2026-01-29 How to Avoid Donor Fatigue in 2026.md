@@ -3,8 +3,8 @@ type: Web
 authors: '[[Erin Booker]]'
 url: >-
   https://www.funraise.org/blog/how-to-avoid-donor-fatigue-in-2024?utm_source=www.civicshoutnewsletter.com&utm_medium=newsletter&utm_campaign=are-your-emails-helping-or-hurting&_bhlid=59c51893682d854df7deac98ec4990a76e0b6038
-published: 2026-01-29T00:00:00.000Z
-created: 2026-04-11T00:00:00.000Z
+published: 2026-01-29
+created: 2026-04-11
 tags:
   - fundraising
   - organizacje-społeczne

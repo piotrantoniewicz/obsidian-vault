@@ -3,8 +3,8 @@ type: Web
 authors: '[[Alex Gunter]] '
 url: >-
   https://partisan.community/blog/the-ai-chatbot-that-made-me-see-politics-differently
-published: null
-created: 2026-03-26T00:00:00.000Z
+published:
+created: 2026-03-26
 tags:
   - digital-campaigning
   - narzędzia-AI

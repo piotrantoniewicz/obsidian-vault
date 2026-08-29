@@ -2,8 +2,8 @@
 type: Web
 authors: '[[Jack Milroy]]'
 url: 'https://www.linkedin.com/pulse/message-usually-problem-jack-milroy-ysrvc/'
-published: 2026-08-19T00:00:00.000Z
-created: 2026-08-19T00:00:00.000Z
+published: 2026-08-19
+created: 2026-08-19
 tags:
   - digital-campaigning
   - content-marketing

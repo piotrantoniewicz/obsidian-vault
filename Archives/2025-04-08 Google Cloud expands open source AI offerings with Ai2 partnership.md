@@ -2,8 +2,8 @@
 type: Web
 authors: "[[Jeremy Kahn]]"
 url: https://fortune.com/2025/04/08/google-cloud-ai2-partnership-to-enhance-open-source-ai-offerings/?utm_source=substack&utm_medium=email
-published: 2025-04-08T00:00:00.000Z
-created: 2026-03-02T00:00:00.000Z
+published: 2025-04-08
+created: 2026-03-02
 tags:
   - trendy-AI
   - narzędzia-AI

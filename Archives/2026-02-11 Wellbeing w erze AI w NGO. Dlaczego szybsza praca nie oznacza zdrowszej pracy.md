@@ -3,8 +3,8 @@ type: Web
 authors: '[[Karina Janus]]'
 url: >-
   https://publicystyka.ngo.pl/wellbeing-w-erze-ai-w-ngo-dlaczego-szybsza-praca-nie-oznacza-zdrowszej-pracy-taup?utm_source=newsletter&utm_medium=email_newsletter&utm_campaign=microsoft_ai_2025&utm_content=artykul_ngo_wellbeing
-published: 2026-02-11T00:00:00.000Z
-created: 2026-03-22T00:00:00.000Z
+published: 2026-02-11
+created: 2026-03-22
 tags:
   - strategia-AI
   - organizacje-społeczne

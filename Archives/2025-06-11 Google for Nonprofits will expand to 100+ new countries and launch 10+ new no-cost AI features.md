@@ -3,8 +3,8 @@ type: Web
 authors: '[[Maggie Johnson]]'
 url: >-
   https://blog.google/company-news/outreach-and-initiatives/google-org/google-nonprofits-updates-june-2025/
-published: 2025-06-11T00:00:00.000Z
-created: 2026-03-19T00:00:00.000Z
+published: 2025-06-11
+created: 2026-03-19
 tags:
   - narzędzia-AI
   - szkolenia-AI

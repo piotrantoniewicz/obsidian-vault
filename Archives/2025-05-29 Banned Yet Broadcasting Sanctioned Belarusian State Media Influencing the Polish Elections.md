@@ -2,8 +2,8 @@
 type: Web
 authors: '[[Bia]]'
 url: 'https://alliance4europe.eu/banned-yet-broadcasting'
-published: 2025-05-29T00:00:00.000Z
-created: 2026-03-28T00:00:00.000Z
+published: 2025-05-29
+created: 2026-03-28
 tags:
   - digital-campaigning
   - framing

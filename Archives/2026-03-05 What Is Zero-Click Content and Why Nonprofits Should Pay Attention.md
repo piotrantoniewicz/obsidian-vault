@@ -3,8 +3,8 @@ type: Web
 authors: '[[Kristina Leroux]]'
 url: >-
   https://www.nonprofitmarketingguide.com/what-is-zero-click-content-and-why-nonprofits-should-pay-attention/
-published: 2026-03-05T00:00:00.000Z
-created: 2026-05-01T00:00:00.000Z
+published: 2026-03-05
+created: 2026-05-01
 tags:
   - content-marketing
   - digital-campaigning

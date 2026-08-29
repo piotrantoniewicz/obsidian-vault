@@ -3,8 +3,8 @@ type: Web
 authors: '[[ngo.pl]]'
 url: >-
   https://publicystyka.ngo.pl/instagram-2025-co-nowego-i-jak-twoja-ngo-moze-na-tym-skorzystac-tau?utm_source=newsletter&utm_medium=email&utm_term=2026-03-24&utm_campaign=+Jak+reklamowa%C4%87+organizacj%C4%99+na+FB+i+IG+
-published: 2025-09-03T00:00:00.000Z
-created: 2026-03-24T00:00:00.000Z
+published: 2025-09-03
+created: 2026-03-24
 tags:
   - content-marketing
   - digital-campaigning

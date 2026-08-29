@@ -3,8 +3,8 @@ type: Web
 authors: '[[Patrick Gołd]]'
 url: >-
   https://www.changeclimate.org/blog/the-emissions-of-ai?utm_source=substack&utm_medium=email
-published: 2026-04-01T00:00:00.000Z
-created: 2026-04-18T00:00:00.000Z
+published: 2026-04-01
+created: 2026-04-18
 tags:
   - strategia-AI
   - organizacje-społeczne

@@ -3,8 +3,8 @@ type: Web
 authors: '[[Lorenzo Azzolini]]'
 url: >-
   https://www.centerfordigitalaction.eu/post/the-ads-block-is-coming?source=newsletter43&link_id=7&can_id=32cae499f95a9349c734a72403321b9c&email_referrer=email_2891988&email_subject=united-we-digitally-organize&
-published: 2025-09-17T00:00:00.000Z
-created: 2026-04-05T00:00:00.000Z
+published: 2025-09-17
+created: 2026-04-05
 tags:
   - digital-campaigning
   - organizacje-społeczne

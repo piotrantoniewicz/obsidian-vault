@@ -2,8 +2,8 @@
 type: Web
 authors: '[[Wojciech Hardy]]'
 url: 'https://sektor3-0.pl/blog/sztuczna-inteligencja-w-edukacji-przewodnik/'
-published: 2023-05-04T00:00:00.000Z
-created: 2026-03-24T00:00:00.000Z
+published: 2023-05-04
+created: 2026-03-24
 tags:
   - szkolenia-AI
   - narzędzia-AI

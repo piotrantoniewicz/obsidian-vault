@@ -3,8 +3,8 @@ type: Web
 authors: '[[Bryan Neider]]'
 url: >-
   https://www.linkedin.com/pulse/adaptability-ultimate-path-sustainability-bryan-neider-qq0pc/
-published: 2026-05-08T00:00:00.000Z
-created: 2026-05-08T00:00:00.000Z
+published: 2026-05-08
+created: 2026-05-08
 tags:
   - organizacje-społeczne
   - strategia-AI

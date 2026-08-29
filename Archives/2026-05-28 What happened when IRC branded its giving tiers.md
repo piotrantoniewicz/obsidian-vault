@@ -3,8 +3,8 @@ type: Web
 authors: '[[Sara Cederberg]]'
 url: >-
   https://www.civicshoutnewsletter.com/p/what-happened-when-irc-branded-its-giving-tiers?utm_source=www.civicshoutnewsletter.com&utm_medium=newsletter&utm_campaign=the-monthly-giving-launch-that-started-with-a-miss&_bhlid=182fceeb44e234da9ec74fbb24adb04ccb8afb73
-published: 2026-05-28T00:00:00.000Z
-created: 2026-07-31T00:00:00.000Z
+published: 2026-05-28
+created: 2026-07-31
 tags:
   - fundraising
   - digital-campaigning

@@ -3,8 +3,8 @@ type: Web
 authors: '[[Karina Janus]]'
 url: >-
   https://publicystyka.ngo.pl/jak-pisac-czytelne-i-zwiezle-e-maile-przeglad-technik-strukturyzacji-tresci-tau
-published: 2025-10-22T00:00:00.000Z
-created: 2026-04-22T00:00:00.000Z
+published: 2025-10-22
+created: 2026-04-22
 tags:
   - ghostwriting
   - organizacje-społeczne

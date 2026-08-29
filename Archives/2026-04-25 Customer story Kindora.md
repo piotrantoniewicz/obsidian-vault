@@ -2,8 +2,8 @@
 type: Web
 authors: '[[Anthropic]]'
 url: 'https://claude.com/customers/kindora'
-published: null
-created: 2026-04-25T00:00:00.000Z
+published:
+created: 2026-04-25
 tags:
   - fundraising
   - narzędzia-AI

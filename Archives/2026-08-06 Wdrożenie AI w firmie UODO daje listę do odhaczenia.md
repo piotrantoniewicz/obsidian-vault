@@ -3,8 +3,8 @@ type: Web
 authors: '[[Mateusz Wojdalski]]'
 url: >-
   https://devstockacademy.pl/blog/branza-it-i-nowe-technologie/uodo-pytania-inicjalne-wdrozenie-ai-rodo-2026/?utm_source=newsletter&utm_medium=email&utm_term=2026-08-13&utm_campaign=Niewidzialny+podpis+w+tekstach+od+AI
-published: 2026-08-06T00:00:00.000Z
-created: 2026-08-13T00:00:00.000Z
+published: 2026-08-06
+created: 2026-08-13
 tags:
   - strategia-AI
   - strategia-organizacji

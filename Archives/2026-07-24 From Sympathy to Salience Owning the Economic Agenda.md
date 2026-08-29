@@ -3,8 +3,8 @@ type: Web
 authors: '[[Abigail Stahl]]'
 url: >-
   https://www.centerfordigitalaction.eu/3-digital-progress-magazine/from-sympathy-to-salience?link_id=2&can_id=32cae499f95a9349c734a72403321b9c&source=email-something-has-changed-top-picks-from-digital-progressive-3&email_referrer=email_3309255&email_subject=the-new-normal-top-picks-from-digital-progressive-3&&
-published: null
-created: 2026-07-24T00:00:00.000Z
+published:
+created: 2026-07-24
 tags:
   - framing
   - digital-campaigning

@@ -3,8 +3,8 @@ type: Web
 authors: '[[Sektor 3.0]]'
 url: >-
   https://sektor3-0.pl/podcast/czy-ai-odbiera-nam-sprawczosc-zachowaj-kontrole-nad-technologia/?utm_source=newsletter&utm_medium=email&utm_term=2026-03-24&utm_campaign=Czy+AI+Ci%C4%99+og%C5%82upia+
-published: 2025-03-19T00:00:00.000Z
-created: 2026-03-24T00:00:00.000Z
+published: 2025-03-19
+created: 2026-03-24
 tags:
   - strategia-AI
   - organizacje-społeczne

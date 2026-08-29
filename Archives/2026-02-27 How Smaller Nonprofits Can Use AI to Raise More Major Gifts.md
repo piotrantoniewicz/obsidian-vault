@@ -3,8 +3,8 @@ type: Web
 authors: '[[Heather Mansfield]]'
 url: >-
   https://www.nptechforgood.com/2026/02/27/how-smaller-nonprofits-can-use-ai-to-raise-more-major-gifts/
-published: 2026-02-27T00:00:00.000Z
-created: 2026-05-01T00:00:00.000Z
+published: 2026-02-27
+created: 2026-05-01
 tags:
   - fundraising
   - narzędzia-AI

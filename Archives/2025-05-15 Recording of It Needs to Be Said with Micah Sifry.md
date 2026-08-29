@@ -3,8 +3,8 @@ type: Web
 authors: '[[Susan Wagner]]'
 url: >-
   https://grassrootsconnector.substack.com/p/recording-of-it-needs-to-be-said?utm_medium=email&_hsenc=p2ANqtz-_5IL8e2i-4kWqbF8gnTJJlQuq2yAFXM6owfHI3gwwf_zOrw-jdA_fT14Xjxh5ucfhWuFQLf0rZWIBlhRSBf3o5cf1X2D6V3X1HhIAaKig8l2n4W38&_hsmi=110762810&utm_content=110762810&utm_source=hs_email
-published: 2025-05-15T00:00:00.000Z
-created: 2026-03-19T00:00:00.000Z
+published: 2025-05-15
+created: 2026-03-19
 tags:
   - digital-campaigning
   - strategia-organizacji

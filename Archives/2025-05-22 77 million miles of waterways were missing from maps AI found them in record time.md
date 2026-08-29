@@ -3,8 +3,8 @@ type: Web
 authors: '[[Freya Graham]]'
 url: >-
   https://www.businessinsider.com/bridges-to-prosperity-nonprofit-ai-mapping-waterways-rural-communities-2025-5?IR=T
-published: 2025-05-22T00:00:00.000Z
-created: 2026-04-12T00:00:00.000Z
+published: 2025-05-22
+created: 2026-04-12
 tags:
   - narzędzia-AI
   - organizacje-społeczne

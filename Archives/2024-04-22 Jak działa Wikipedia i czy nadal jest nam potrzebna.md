@@ -3,8 +3,8 @@ type: Web
 authors: '[[Sektor 3.0]]'
 url: >-
   https://sektor3-0.pl/wideo/jak-dziala-wikipedia-i-czy-nadal-jest-potrzebna/?utm_source=newsletter&utm_medium=email&utm_term=2026-03-24&utm_campaign=+G%C5%82%C4%99boki+Research+z+AI+i+cyfrowa+czujno%C5%9B%C4%87+na+co+dzie%C5%84
-published: 2024-04-22T00:00:00.000Z
-created: 2026-03-24T00:00:00.000Z
+published: 2024-04-22
+created: 2026-03-24
 tags:
   - organizacje-społeczne
   - trendy-AI

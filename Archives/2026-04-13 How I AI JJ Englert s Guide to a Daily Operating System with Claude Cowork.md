@@ -3,8 +3,8 @@ type: Web
 authors: '[[Claire Vo]]'
 url: >-
   https://www.chatprd.ai/how-i-ai/jj-englerts-guide-to-a-daily-operating-system-with-claude-cowork
-published: 2026-04-13T00:00:00.000Z
-created: 2026-04-13T00:00:00.000Z
+published: 2026-04-13
+created: 2026-04-13
 tags:
   - strategia-AI
   - narzędzia-AI

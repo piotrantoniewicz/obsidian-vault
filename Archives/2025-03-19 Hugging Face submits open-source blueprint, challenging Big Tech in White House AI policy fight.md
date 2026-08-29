@@ -2,8 +2,8 @@
 type: Web
 authors: "[[Michael Nuñez]]"
 url: https://venturebeat.com/ai/hugging-face-submits-open-source-blueprint-challenging-big-tech-in-white-house-ai-policy-fight?utm_source=substack&utm_medium=email
-published: 2025-03-19T00:00:00.000Z
-created: 2026-03-02T00:00:00.000Z
+published: 2025-03-19
+created: 2026-03-02
 tags:
   - narzędzia-AI
   - strategia-AI

@@ -2,8 +2,8 @@
 type: Web
 authors: '[[Sage Journals]]'
 url: 'https://journals.sagepub.com/doi/10.1177/10776990251357299'
-published: 2025-11-30T00:00:00.000Z
-created: 2026-03-26T00:00:00.000Z
+published: 2025-11-30
+created: 2026-03-26
 tags:
   - digital-campaigning
   - framing

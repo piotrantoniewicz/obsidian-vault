@@ -3,8 +3,8 @@ type: Web
 authors: '[[Ecomail.pl]]'
 url: >-
   https://ecomail.pl/blog/pl/jak-szybko-i-tanio-budowac-baze-mailowa-za-pomoca-webinarow/
-published: 2026-02-23T00:00:00.000Z
-created: 2026-04-18T00:00:00.000Z
+published: 2026-02-23
+created: 2026-04-18
 tags:
   - fundraising
   - digital-campaigning

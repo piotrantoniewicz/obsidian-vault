@@ -3,8 +3,8 @@ type: Web
 authors: '[[SidLabs LLP]]'
 url: >-
   https://www.linkedin.com/pulse/we-fast-qualitative-weve-never-had-office-sidlabs-kyk0f/
-published: 2026-02-20T00:00:00.000Z
-created: 2026-05-09T00:00:00.000Z
+published: 2026-02-20
+created: 2026-05-09
 tags:
   - strategia-organizacji
   - narzędzia-AI

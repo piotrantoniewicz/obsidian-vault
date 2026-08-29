@@ -3,8 +3,8 @@ type: Web
 authors: '[[Dan Reed]]'
 url: >-
   https://mediacause.com/nonprofit-fundraising-strategy-20-lessons-2025/?utm_source=www.civicshoutnewsletter.com&utm_medium=newsletter&utm_campaign=dns-for-people-who-don-t-speak-dns&_bhlid=376fb6a291b6dce4e81cb0418f7450e9a7b6c9f8
-published: 2026-04-10T00:00:00.000Z
-created: 2026-04-17T00:00:00.000Z
+published: 2026-04-10
+created: 2026-04-17
 tags:
   - fundraising
   - digital-campaigning

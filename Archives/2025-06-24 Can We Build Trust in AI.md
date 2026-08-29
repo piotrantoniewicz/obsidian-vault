@@ -3,8 +3,8 @@ type: Web
 authors: '[[Maya]]'
 url: >-
   https://sowhatsnext.substack.com/p/can-we-build-trust-in-ai?utm_medium=email&_hsenc=p2ANqtz-8C0HxpUmsIArC78j6RAPgEeV92RVyKbB5Ol5BAT0fSlR15wFkrt8pT7RbXNZGz0OzmpmYVZ8Sq0hfsPg0wK1xcBiej3Bt_eerc-W-FuzqP_0yZK14&_hsmi=112708171&utm_content=112708171&utm_source=hs_email
-published: 2025-06-24T00:00:00.000Z
-created: 2026-03-19T00:00:00.000Z
+published: 2025-06-24
+created: 2026-03-19
 tags:
   - strategia-AI
   - szkolenia-AI

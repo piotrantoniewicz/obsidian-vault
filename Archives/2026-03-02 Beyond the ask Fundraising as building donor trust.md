@@ -3,7 +3,7 @@ type: Web
 authors: "[[Esther Saehyun Lee]]"
 url: https://candid.org/blogs/donor-trust-fundraising-strategy/
 published:
-created: 2026-03-02T00:00:00.000Z
+created: 2026-03-02
 tags:
   - fundraising
   - organizacje-społeczne

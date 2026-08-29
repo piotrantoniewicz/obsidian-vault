@@ -2,8 +2,8 @@
 type: Web
 authors: "[[CCS Fundraising]]"
 url: 'https://www.ccsfundraising.com/insights/ai-in-fundraising/'
-published: 2024-05-20T00:00:00.000Z
-created: 2026-03-11T00:00:00.000Z
+published: 2024-05-20
+created: 2026-03-11
 tags:
   - fundraising
   - narzędzia-AI

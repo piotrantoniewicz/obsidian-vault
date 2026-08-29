@@ -3,8 +3,8 @@ type: Web
 authors: '[[Rob Wu]]'
 url: >-
   https://www.causevox.com/fundraising-ideas/?cv_t=yP2YEWqGl3nA38Lm.wL1nWdenJrN4XGvd.3a3d8c0f63e2258b7a407e54a5435b0e9acdd0199f90e5905f0c81dad4337d9b
-published: 2024-05-11T00:00:00.000Z
-created: 2026-08-13T00:00:00.000Z
+published: 2024-05-11
+created: 2026-08-13
 tags:
   - fundraising
   - organizacje-społeczne

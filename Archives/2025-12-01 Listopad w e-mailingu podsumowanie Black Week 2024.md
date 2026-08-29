@@ -2,8 +2,8 @@
 type: Web
 authors: "[[Ecomail.pl]]"
 url: https://ecomail.pl/blog/pl/listopad-mailingowe-podsumowanie-miesiaca/?ecmid=9813&utm_medium=email&utm_term=15545&utm_campaign=2025_46_BlackFriday&utm_source=ecomail
-published: 2025-12-01T00:00:00.000Z
-created: 2026-03-02T00:00:00.000Z
+published: 2025-12-01
+created: 2026-03-02
 tags:
   - digital-campaigning
   - content-marketing

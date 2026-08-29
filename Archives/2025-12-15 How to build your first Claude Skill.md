@@ -3,8 +3,8 @@ type: Web
 authors: '[[Allie K. Miller]]'
 url: >-
   https://aiwithallie.beehiiv.com/p/how-to-build-your-first-claude-skill?utm_source=aiwithallie.beehiiv.com&utm_medium=newsletter&utm_campaign=my-favorite-ai-tools-and-tips-for-each-task-january-2026-edition&_bhlid=5a0b5c2f692f79e2902f7463b2c29b40dcdc73b4&jwt_token=
-published: 2025-12-15T00:00:00.000Z
-created: 2026-04-06T00:00:00.000Z
+published: 2025-12-15
+created: 2026-04-06
 tags:
   - narzędzia-AI
   - automatyzacja

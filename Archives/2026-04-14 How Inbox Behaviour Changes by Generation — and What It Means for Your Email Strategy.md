@@ -3,8 +3,8 @@ type: Web
 authors: '[[Beth O''Malley]]'
 url: >-
   https://weareastral.co.uk/thevault/how-inbox-behaviour-changes-by-generation-and-what-it-means-for-your-email-strategy?utm_medium=email&_hsenc=p2ANqtz-9gzo14AGm7GBpcaC8BvMhFPEcs2ywVMObixpcTk-PiXX7KIoogt4NWW3K_ew_QsGKzKwG9yccFSe6NR5ztSNhrJHHjlM3VPVrmTpxO9BaREGMa6Zo&_hsmi=133521287&utm_content=133531118&utm_source=hs_email
-published: 2026-04-14T00:00:00.000Z
-created: 2026-04-17T00:00:00.000Z
+published: 2026-04-14
+created: 2026-04-17
 tags:
   - digital-campaigning
   - content-marketing

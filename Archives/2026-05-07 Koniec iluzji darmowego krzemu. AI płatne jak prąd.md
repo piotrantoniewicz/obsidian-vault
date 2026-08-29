@@ -2,8 +2,8 @@
 type: Web
 authors: '[[Krzysztof Mirończuk]]'
 url: 'https://haimagazine.com/pl/ai_branza/biznes/koniec-iluzji-darmowego-krzemu/'
-published: 2026-05-07T00:00:00.000Z
-created: 2026-05-08T00:00:00.000Z
+published: 2026-05-07
+created: 2026-05-08
 tags:
   - trendy-AI
   - strategia-AI

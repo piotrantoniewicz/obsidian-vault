@@ -2,8 +2,8 @@
 type: Web
 authors: "[[Tectonica Digital Campaign Solutions]]"
 url: https://www.tectonica.co/posts/your-nonprofit-data-strategy-needs-an-upgrade?utm_medium=email&_hsenc=p2ANqtz-8KJu6Kv8XcghrUwmxZiEULXKhRqe_9F7edplEVZ6av_oCNfH5-g7pUDBVc1_7hpnkLNC6DGhOjCiwlNPnVQrzBnpfLHzucFbgBcfxrncpDwMCtU1k&_hsmi=118738902&utm_content=118738902&utm_source=hs_email
-published: 2025-10-02T00:00:00.000Z
-created: 2026-03-20T00:00:00.000Z
+published: 2025-10-02
+created: 2026-03-20
 tags:
   - strategia-AI
   - digital-campaigning

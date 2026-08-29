@@ -3,8 +3,8 @@ type: Web
 authors: '[[Liza Baranyai]]'
 url: >-
   https://www.centerfordigitalaction.eu/post/its-not-about-the-money?link_id=9&can_id=32cae499f95a9349c734a72403321b9c&source=email-engagement-tips-visual-communications-the-death-of-the-follower&email_referrer=email_2680802&email_subject=engagement-tips-for-you-feeds-explained-a-free-visual-communications-webinar&&
-published: 2025-04-10T00:00:00.000Z
-created: 2026-04-05T00:00:00.000Z
+published: 2025-04-10
+created: 2026-04-05
 tags:
   - fundraising
   - digital-campaigning

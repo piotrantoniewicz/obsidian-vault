@@ -3,8 +3,8 @@ type: Web
 authors: '[[Beth O''Malley]]'
 url: >-
   https://weareastral.co.uk/thevault/the-state-of-email-deliverability-in-2026.-and-what-i-think-happens-in-2027?utm_medium=email&_hsenc=p2ANqtz--wIRfjPy3QZWbgllExeVevFfGxX9BVhRNtEQVbGUKDuUbyfwDeHzJRYONhEkzaxjCc7gWivNmx29LBnTvjd5YLOOGk9KrcWR-tc9QpsshNgO9IHq8&_hsmi=143645329&utm_content=143639175&utm_source=hs_email
-published: 2026-08-19T00:00:00.000Z
-created: 2026-08-25T00:00:00.000Z
+published: 2026-08-19
+created: 2026-08-25
 tags:
   - digital-campaigning
   - fundraising

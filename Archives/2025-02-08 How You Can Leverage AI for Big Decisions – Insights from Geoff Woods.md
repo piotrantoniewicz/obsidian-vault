@@ -2,8 +2,8 @@
 type: Web
 authors: '[[Beyond the Prompt]]'
 url: 'https://www.youtube.com/watch?v=aYeV9by-RLw'
-published: 2025-02-08T00:00:00.000Z
-created: 2026-03-23T00:00:00.000Z
+published: 2025-02-08
+created: 2026-03-23
 tags:
   - strategia-AI
   - szkolenia-AI

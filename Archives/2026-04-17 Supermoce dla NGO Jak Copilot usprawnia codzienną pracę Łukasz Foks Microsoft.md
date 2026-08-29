@@ -2,8 +2,8 @@
 type: Web
 authors: '[[Sektor 3.0]]'
 url: 'https://www.youtube.com/watch?v=iuINywspTxI'
-published: 2026-04-17T00:00:00.000Z
-created: 2026-04-24T00:00:00.000Z
+published: 2026-04-17
+created: 2026-04-24
 tags:
   - strategia-AI
   - narzędzia-AI

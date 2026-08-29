@@ -2,8 +2,8 @@
 type: Web
 authors: '[[Karolina Pacoń]]'
 url: 'https://pomagam.pl/blog/wielkanoc-ngo'
-published: 2026-03-10T00:00:00.000Z
-created: 2026-04-07T00:00:00.000Z
+published: 2026-03-10
+created: 2026-04-07
 tags:
   - fundraising
   - organizacje-społeczne

@@ -2,8 +2,8 @@
 type: Web
 authors: '[[Nicolas Cole]]'
 url: 'https://www.youtube.com/watch?v=g6SaQ1htxYY&t=1s'
-published: 2026-03-27T00:00:00.000Z
-created: 2026-04-11T00:00:00.000Z
+published: 2026-03-27
+created: 2026-04-11
 tags:
   - ghostwriting
   - framing

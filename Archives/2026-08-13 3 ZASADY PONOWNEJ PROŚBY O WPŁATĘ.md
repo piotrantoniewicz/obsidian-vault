@@ -3,8 +3,8 @@ type: Web
 authors: '[[Armiger]]'
 url: >-
   https://www.linkedin.com/pulse/3-zasady-ponownej-pro%C5%9Bby-o-wp%C5%82at%C4%99-armiger-nb9af/
-published: 2026-08-13T00:00:00.000Z
-created: 2026-08-13T00:00:00.000Z
+published: 2026-08-13
+created: 2026-08-13
 tags:
   - fundraising
   - organizacje-społeczne

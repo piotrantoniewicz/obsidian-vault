@@ -2,8 +2,8 @@
 type: Web
 authors: "[[Patrick Frank]]"
 url: https://www.centerfordigitalaction.eu/post/how-europe-s-ad-ban-will-build-better-campaigns?utm_source=newsletter&utm_medium=email&utm_term=Mon+02+Mar+2026&utm_campaign=Do+Something+Anything+The+Flags+Flags+Flags+edition+
-published: 2025-09-01T00:00:00.000Z
-created: 2026-03-02T00:00:00.000Z
+published: 2025-09-01
+created: 2026-03-02
 tags:
   - digital-campaigning
   - fundraising

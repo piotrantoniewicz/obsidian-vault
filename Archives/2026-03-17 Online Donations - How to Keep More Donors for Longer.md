@@ -3,7 +3,7 @@ type: Web
 authors:
 url: https://www.smartraise.net/online-donations-how-to-keep-more-donors-for-longer
 published:
-created: 2026-03-17T00:00:00.000Z
+created: 2026-03-17
 tags:
   - fundraising
   - automatyzacja

@@ -3,8 +3,8 @@ type: Web
 authors: '[[James O''Donnell]]'
 url: >-
   https://www.technologyreview.com/2025/05/20/1116327/ai-energy-usage-climate-footprint-big-tech?utm_medium=email&_hsenc=p2ANqtz-_6K3taRSKS5_6eN7KTuYqzHZGkFTbCNRtV4g1nZQMWltT1XNkBABvopE8-evr8Ct2uXq0m-Yasi2CvTHOc4cOtPXiTA4kYKkBs5w-pL09t_8J66Sc&_hsmi=116225096&utm_content=116225096&utm_source=hs_email
-published: 2025-05-20T00:00:00.000Z
-created: 2026-03-19T00:00:00.000Z
+published: 2025-05-20
+created: 2026-03-19
 tags:
   - strategia-AI
   - trendy-AI

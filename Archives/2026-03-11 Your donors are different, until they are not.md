@@ -3,8 +3,8 @@ type: Web
 authors: '[[Jeff Brooks]]'
 url: >-
   https://futurefundraisingnow.com/2026/03/your-donors-are-different-until-they-are-not/?utm_source=www.civicshoutnewsletter.com&utm_medium=newsletter&utm_campaign=what-20-years-of-m-r-benchmarks-data-tells-us-about-email&_bhlid=1d8de268c1d1d7e87fcfab027b731bc939db26d9
-published: 2026-03-11T00:00:00.000Z
-created: 2026-04-18T00:00:00.000Z
+published: 2026-03-11
+created: 2026-04-18
 tags:
   - fundraising
   - organizacje-społeczne

@@ -2,8 +2,8 @@
 type: Web
 authors: "[[Jim Prosser]]"
 url: 'https://x.com/jimprosser/status/2029699731539255640'
-published: 2026-03-06T00:00:00.000Z
-created: 2026-03-07T00:00:00.000Z
+published: 2026-03-06
+created: 2026-03-07
 tags:
   - automatyzacja
   - narzędzia-AI

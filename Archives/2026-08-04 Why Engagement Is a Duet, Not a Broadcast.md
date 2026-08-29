@@ -3,8 +3,8 @@ type: Web
 authors: '[[Bryan Neider]]'
 url: >-
   https://www.linkedin.com/pulse/why-engagement-duet-broadcast-bryan-neider-ncgfc/
-published: 2026-08-04T00:00:00.000Z
-created: 2026-08-05T00:00:00.000Z
+published: 2026-08-04
+created: 2026-08-05
 tags:
   - organizacje-społeczne
   - strategia-organizacji

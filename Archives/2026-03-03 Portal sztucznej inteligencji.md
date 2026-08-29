@@ -2,8 +2,8 @@
 type: Web
 authors: '[[AI HUB Poland]]'
 url: 'https://ai.gov.pl/ai-dla-ciebie/artykuly/przyszlosc-technologii-agentowej'
-published: null
-created: 2026-03-03T00:00:00.000Z
+published:
+created: 2026-03-03
 tags:
   - strategia-AI
   - trendy-AI

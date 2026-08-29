@@ -2,8 +2,8 @@
 type: Web
 authors: "[[Austin Hattox]]"
 url: https://thenonprofithive.com/nonprofit-website-community-builder/?utm_source=brevo&utm_campaign=Newsletter%20September%2024&utm_medium=email
-published: 2025-08-18T00:00:00.000Z
-created: 2026-03-04T00:00:00.000Z
+published: 2025-08-18
+created: 2026-03-04
 tags:
   - digital-campaigning
   - organizacje-społeczne

@@ -3,8 +3,8 @@ type: Web
 authors: '[[Aisha Down]]'
 url: >-
   https://www.theguardian.com/global-development/2025/oct/20/ai-generated-poverty-porn-fake-images-being-used-by-aid-agencies?utm_medium=email&_hsenc=p2ANqtz-_Mc-XxTFNVg3LVr-HrosrV-0bEtX4D1hwS6LHwayCcUBXMkQ_Q1H1B_H1YVQYjFszS_6YiKMj-sihN8P4d8QqQlk0sn3wqckMT6x-DeZ9_nOBpm4o&_hsmi=121307777&utm_content=121307777&utm_source=hs_email
-published: 2025-10-20T00:00:00.000Z
-created: 2026-03-20T00:00:00.000Z
+published: 2025-10-20
+created: 2026-03-20
 tags:
   - narzędzia-AI
   - organizacje-społeczne

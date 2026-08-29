@@ -3,7 +3,7 @@ type: Web
 authors: "[[Alex Gunter]]"
 url: https://partisan.community/blog/the-ai-chatbot-that-made-me-see-politics-differently?utm_medium=email&_hsenc=p2ANqtz-9Y1d3hqlrexvYH3sSeDRLyVW1dua2tJB910eUHwv0J9WgbiguLIsPuosXhvzec1Bc4a7pUOw8dUiAVeEP4VL-e9zVqZY0CO1RURycPodEuJE-3E90&_hsmi=116225096&utm_content=116225096&utm_source=hs_email
 published:
-created: 2026-03-19T00:00:00.000Z
+created: 2026-03-19
 tags:
   - strategia-AI
   - digital-campaigning

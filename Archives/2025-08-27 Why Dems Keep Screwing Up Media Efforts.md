@@ -2,8 +2,8 @@
 type: Web
 authors: "[[Elizabeth Spiers]]"
 url: https://www.elizabethspiers.com/why-dems-keep-screwing-up-media-efforts/?utm_source=newsletter&utm_medium=email&utm_term=Mon+02+Mar+2026&utm_campaign=Do+Something+Anything+The+Flags+Flags+Flags+edition+
-published: 2025-08-27T00:00:00.000Z
-created: 2026-03-02T00:00:00.000Z
+published: 2025-08-27
+created: 2026-03-02
 tags:
   - digital-campaigning
   - content-marketing

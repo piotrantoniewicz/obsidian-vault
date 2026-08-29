@@ -3,8 +3,8 @@ type: Web
 authors: "[[Nicolas Cole]]"
 url: >-
   https://writewithai.substack.com/p/the-future-of-ai-leverage?utm_campaign=post-expanded-share&utm_medium=web&triedRedirect=true&_src_ref=taap.it
-published: 2025-12-16T00:00:00.000Z
-created: 2026-03-08T00:00:00.000Z
+published: 2025-12-16
+created: 2026-03-08
 tags:
   - automatyzacja
   - narzędzia-AI

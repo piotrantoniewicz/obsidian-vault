@@ -2,8 +2,8 @@
 type: Web
 authors: '[[Saman Nazari]]'
 url: 'https://alliance4europe.eu/flagged-and-ignored'
-published: 2025-07-23T00:00:00.000Z
-created: 2026-03-25T00:00:00.000Z
+published: 2025-07-23
+created: 2026-03-25
 tags:
   - digital-campaigning
   - organizacje-społeczne

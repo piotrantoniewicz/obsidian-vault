@@ -3,8 +3,8 @@ type: Web
 authors: '[[Alexandra Marinaki]]'
 url: >-
   https://moosend.com/blog/cart-abandonment-stats/?utm_source=www.civicshoutnewsletter.com&utm_medium=newsletter&utm_campaign=how-unicef-usa-unlocked-26-000-more-donations&_bhlid=18508ea819f04bba35057945db7e774839e92f7a
-published: 2023-09-11T00:00:00.000Z
-created: 2026-03-23T00:00:00.000Z
+published: 2023-09-11
+created: 2026-03-23
 tags:
   - fundraising
   - digital-campaigning

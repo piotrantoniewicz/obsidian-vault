@@ -3,8 +3,8 @@ type: Web
 authors: '[[Ina Toncheva]]'
 url: >-
   https://inatoncheva.substack.com/p/content-marketing-is-getting-technical?utm_source=multiple-personal-recommendations-email&utm_medium=email&triedRedirect=true
-published: 2026-06-15T00:00:00.000Z
-created: 2026-06-20T00:00:00.000Z
+published: 2026-06-15
+created: 2026-06-20
 tags:
   - content-marketing
   - strategia-AI

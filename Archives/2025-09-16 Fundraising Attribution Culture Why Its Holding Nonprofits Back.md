@@ -2,8 +2,8 @@
 type: Web
 authors: "[[Nicole Jamrozinski]]"
 url: https://thenonprofithive.com/fundraising-attribution-culture/?utm_source=brevo&utm_campaign=Newsletter%20September%2024&utm_medium=email
-published: 2025-09-16T00:00:00.000Z
-created: 2026-03-04T00:00:00.000Z
+published: 2025-09-16
+created: 2026-03-04
 tags:
   - fundraising
   - organizacje-społeczne

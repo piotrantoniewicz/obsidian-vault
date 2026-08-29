@@ -3,8 +3,8 @@ type: Web
 authors: '[[Mariana Spada]]'
 url: >-
   https://www.centerfordigitalaction.eu/post/designing-visual-communications-to-win-hearts-minds?link_id=4&can_id=32cae499f95a9349c734a72403321b9c&source=email-engagement-tips-for-you-feeds-explained-a-free-visual-communications-webinar&email_referrer=email_2705913&email_subject=data-becomes-exciting-when-you-know-how-to-use-it&&
-published: 2025-04-17T00:00:00.000Z
-created: 2026-04-05T00:00:00.000Z
+published: 2025-04-17
+created: 2026-04-05
 tags:
   - digital-campaigning
   - content-marketing

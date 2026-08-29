@@ -2,8 +2,8 @@
 type: Web
 authors: '[[Climate Visuals]]'
 url: 'https://www.climatevisuals.org/climate-litigation-visuals/'
-published: 2026-01-27T00:00:00.000Z
-created: 2026-04-18T00:00:00.000Z
+published: 2026-01-27
+created: 2026-04-18
 tags:
   - organizacje-społeczne
   - content-marketing

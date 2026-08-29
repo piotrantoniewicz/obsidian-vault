@@ -3,8 +3,8 @@ type: Web
 authors: '[[Madison Barefield]]'
 url: >-
   https://www.causevox.com/blog/launch-a-peer-to-peer-fundraising-campaign/?cv_t=yP2YEWqGl3nA38Lm.dv2PAQJowGPk6BRV.4d2a30907eab9564acb20add92eb01ad94496950c2dea37728dfa5d2924d3ac2
-published: 2026-05-14T00:00:00.000Z
-created: 2026-07-10T00:00:00.000Z
+published: 2026-05-14
+created: 2026-07-10
 tags:
   - fundraising
   - digital-campaigning

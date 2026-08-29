@@ -3,8 +3,8 @@ type: Web
 authors: '[[Linnea Huxford]]'
 url: >-
   https://newoldweb.com/how-to-keep-your-organizations-content-discoverable-in-the-age-of-ai-search?utm_medium=email&_hsenc=p2anqtz-_eeimp4ixtjl6-rk_czmor5sqbs2fv030qfxnio65zr-aul9inxad8orcr2dcd8e349gdl4qsrhb0vzrkvzqljhg2dcr63au81o7f8mfgb0pmreh8&_hsmi=107126839&utm_content=107126839&utm_source=hs_email
-published: 2025-03-26T00:00:00.000Z
-created: 2026-03-19T00:00:00.000Z
+published: 2025-03-26
+created: 2026-03-19
 tags:
   - narzędzia-AI
   - strategia-organizacji

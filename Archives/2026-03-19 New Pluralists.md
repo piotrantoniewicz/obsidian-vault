@@ -3,7 +3,7 @@ type: Web
 authors: "[[Stephanie Hlywak]]"
 url: https://www.tectonica.co/works/newpluralists?utm_medium=email&_hsenc=p2ANqtz--_2CkwBrABsWanWFOD9Skg7kzeGJ-5q0C-KPY_oW3ogKrIV2h76po2mA3zwaW5_1aGJqzaixnN6m7eFbzldUAKWJaxWTRfDBzGNrTbE3dIWm6UcXo&_hsmi=105923428&utm_content=105923428&utm_source=hs_email
 published:
-created: 2026-03-19T00:00:00.000Z
+created: 2026-03-19
 tags:
   - organizacje-społeczne
   - strategia-organizacji

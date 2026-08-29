@@ -2,8 +2,8 @@
 type: Web
 authors: "[[Rohit Choudhary]]"
 url: https://thenewstack.io/a-chief-ai-officer-wont-fix-your-ai-problems/
-published: 2025-06-03T00:00:00.000Z
-created: 2026-03-03T00:00:00.000Z
+published: 2025-06-03
+created: 2026-03-03
 tags:
   - strategia-AI
   - szkolenia-AI

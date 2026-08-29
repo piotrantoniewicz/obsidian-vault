@@ -2,8 +2,8 @@
 type: Web
 authors: '[[How I AI]]'
 url: 'https://www.youtube.com/watch?v=jwGQ9CrqVdA'
-published: 2026-04-13T00:00:00.000Z
-created: 2026-04-13T00:00:00.000Z
+published: 2026-04-13
+created: 2026-04-13
 tags:
   - narzędzia-AI
   - automatyzacja

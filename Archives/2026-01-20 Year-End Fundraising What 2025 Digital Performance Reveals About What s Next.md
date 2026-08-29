@@ -3,8 +3,8 @@ type: Web
 authors: '[[cornershop]]'
 url: >-
   https://avalonconsulting.net/year-end-fundraising-2025/?utm_source=www.civicshoutnewsletter.com&utm_medium=newsletter&utm_campaign=what-actually-worked-in-december&_bhlid=342cea2778493226fb3eaf01e83113602f1c7037
-published: 2026-01-20T00:00:00.000Z
-created: 2026-03-22T00:00:00.000Z
+published: 2026-01-20
+created: 2026-03-22
 tags:
   - fundraising
   - digital-campaigning

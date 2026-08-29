@@ -2,8 +2,8 @@
 type: Web
 authors: null
 url: 'https://research.mysociety.org/html/ai-framework/plain.html'
-published: null
-created: 2026-03-25T00:00:00.000Z
+published:
+created: 2026-03-25
 tags:
   - strategia-AI
   - organizacje-społeczne

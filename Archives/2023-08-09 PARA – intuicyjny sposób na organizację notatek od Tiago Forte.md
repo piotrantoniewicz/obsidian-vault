@@ -2,8 +2,8 @@
 type: Web
 authors: '[[Marzena Kacprowicz]]'
 url: 'https://sektor3-0.pl/blog/para-metoda-organizacji-notatek-tiago-forte/'
-published: 2023-08-09T00:00:00.000Z
-created: 2026-03-24T00:00:00.000Z
+published: 2023-08-09
+created: 2026-03-24
 tags:
   - strategia-organizacji
 ---

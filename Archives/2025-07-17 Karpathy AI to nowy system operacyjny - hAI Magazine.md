@@ -3,8 +3,8 @@ type: Web
 authors: '[[dr Ewa Chamczyk]]'
 url: >-
   https://haimagazine.com/pl/ai_branza/it/karpathy-ai-to-nie-prad-to-nowy-system-operacyjny/?utm_source=ActiveCampaign&utm_medium=email&utm_content=Sprawd%C5%BA%20nowe%20kursy%2C%20warsztaty%20i%20wybierz%20co%C5%9B%20dla%20siebie%21&utm_campaign=Lipcowy%20Newsletter%20%7C%20CampusAI%20Community%202025
-published: 2025-07-17T00:00:00.000Z
-created: 2026-03-24T00:00:00.000Z
+published: 2025-07-17
+created: 2026-03-24
 tags:
   - strategia-AI
   - LLM

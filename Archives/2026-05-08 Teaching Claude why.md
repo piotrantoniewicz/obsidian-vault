@@ -3,8 +3,8 @@ type: Web
 authors: '[[Anthropic]]'
 url: >-
   https://www.anthropic.com/research/teaching-claude-why?utm_source=substack&utm_medium=email
-published: 2026-05-08T00:00:00.000Z
-created: 2026-05-12T00:00:00.000Z
+published: 2026-05-08
+created: 2026-05-12
 tags:
   - LLM
   - strategia-AI

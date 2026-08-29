@@ -3,8 +3,8 @@ type: Web
 authors: '[[Bryan Neider]]'
 url: >-
   https://www.linkedin.com/pulse/why-your-org-chart-killing-mission-bryan-neider-6vinc/
-published: 2026-04-13T00:00:00.000Z
-created: 2026-04-13T00:00:00.000Z
+published: 2026-04-13
+created: 2026-04-13
 tags:
   - strategia-organizacji
   - strategia-AI

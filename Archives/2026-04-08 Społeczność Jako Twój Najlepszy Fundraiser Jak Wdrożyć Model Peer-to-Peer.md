@@ -2,8 +2,8 @@
 type: Web
 authors: '[[Karolina Pacoń]]'
 url: 'https://pomagam.pl/blog/spolecznosc-najlepszy-fundraiser'
-published: 2026-04-08T00:00:00.000Z
-created: 2026-04-11T00:00:00.000Z
+published: 2026-04-08
+created: 2026-04-11
 tags:
   - fundraising
   - organizacje-społeczne

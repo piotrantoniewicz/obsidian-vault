@@ -3,8 +3,8 @@ type: Web
 authors: '[[Hamel Husain]]'
 url: >-
   https://www.lennysnewsletter.com/p/building-eval-systems-that-improve?utm_source=substack&utm_medium=email&utm_campaign=email-restack-comment&r=4zdnrk&triedRedirect=true
-published: 2025-09-09T00:00:00.000Z
-created: 2026-05-11T00:00:00.000Z
+published: 2025-09-09
+created: 2026-05-11
 tags:
   - strategia-AI
   - narzędzia-AI

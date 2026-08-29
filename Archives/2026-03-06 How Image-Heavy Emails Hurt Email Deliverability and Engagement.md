@@ -3,8 +3,8 @@ type: Web
 authors: '[[Daryl]]'
 url: >-
   https://www.doinggoodagency.com/image_heavy_emails_hurt_deliverability_engagement/?utm_source=www.civicshoutnewsletter.com&utm_medium=newsletter&utm_campaign=your-content-calendar-vs-the-news-cycle&_bhlid=d1c3314e65da89c1b0677ef815eb6aa18a47f366
-published: 2026-03-06T00:00:00.000Z
-created: 2026-04-11T00:00:00.000Z
+published: 2026-03-06
+created: 2026-04-11
 tags:
   - digital-campaigning
   - fundraising

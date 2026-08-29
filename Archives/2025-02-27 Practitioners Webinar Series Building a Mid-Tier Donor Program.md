@@ -2,8 +2,8 @@
 type: Web
 authors: '[[The Action Network]]'
 url: 'https://www.youtube.com/watch?v=72WObJGUJ_o'
-published: 2025-02-27T00:00:00.000Z
-created: 2026-04-05T00:00:00.000Z
+published: 2025-02-27
+created: 2026-04-05
 tags:
   - fundraising
   - digital-campaigning

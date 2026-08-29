@@ -2,8 +2,8 @@
 type: Web
 authors: null
 url: 'https://n3xtcoder.org/eu-ai-act-regulations-and-guidelines'
-published: null
-created: 2026-03-25T00:00:00.000Z
+published:
+created: 2026-03-25
 tags:
   - strategia-AI
   - organizacje-społeczne

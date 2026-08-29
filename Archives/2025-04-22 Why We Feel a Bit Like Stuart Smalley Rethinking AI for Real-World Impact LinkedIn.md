@@ -3,8 +3,8 @@ type: Web
 authors: '[[Steven Lee]]'
 url: >-
   https://www.linkedin.com/pulse/why-we-feel-bit-like-stuart-smalley-rethinking-ai-real-world-lee-jdq0e/?trackingId=MCXUBt86TDKDZFSz9xrTuw%3D%3D
-published: 2025-04-22T00:00:00.000Z
-created: 2026-03-23T00:00:00.000Z
+published: 2025-04-22
+created: 2026-03-23
 tags:
   - narzędzia-AI
   - strategia-AI

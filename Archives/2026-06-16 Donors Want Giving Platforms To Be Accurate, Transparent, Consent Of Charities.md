@@ -3,8 +3,8 @@ type: Web
 authors: '[[Paul Clolery]]'
 url: >-
   https://thenonprofittimes.com/npt_articles/donors-want-giving-platforms-to-be-accurate-transparent-charities-consent/?utm_source=www.civicshoutnewsletter.com&utm_medium=newsletter&utm_campaign=the-abandoned-cart-playbook&_bhlid=0d4e196875665d2024a66370084c03af07f1d430
-published: 2026-06-16T00:00:00.000Z
-created: 2026-08-27T00:00:00.000Z
+published: 2026-06-16
+created: 2026-08-27
 tags:
   - fundraising
   - digital-campaigning

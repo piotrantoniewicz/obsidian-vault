@@ -2,8 +2,8 @@
 type: Web
 authors: "[[Ned Howey]]"
 url: https://substack.com/@nedhowey/p-176166086?utm_medium=email&_hsenc=p2ANqtz-9Guv4gYAZ1GB4SLe_z9Yfo-yqF3BGo5b-1rR2LWodfMQUwBanlR-4kFtZGnNwDWT5N3bb9ngGjdAcnXSQB9d1mtm0a-CtXfnZ_7kOw3GpGBmBvSeI&_hsmi=119753878&utm_content=119753878&utm_source=hs_email
-published: 2025-10-14T00:00:00.000Z
-created: 2026-03-20T00:00:00.000Z
+published: 2025-10-14
+created: 2026-03-20
 tags:
   - trendy-AI
   - digital-campaigning

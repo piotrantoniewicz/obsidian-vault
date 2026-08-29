@@ -2,8 +2,8 @@
 type: Web
 authors: "[[Caroline Griffin]]"
 url: https://www.idonate.com/blog/top-tips-to-reduce-online-friction-and-capture-more-gifts
-published: 2025-08-21T00:00:00.000Z
-created: 2026-03-02T00:00:00.000Z
+published: 2025-08-21
+created: 2026-03-02
 tags:
   - fundraising
   - digital-campaigning

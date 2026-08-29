@@ -2,8 +2,8 @@
 type: Web
 authors: '[[Kimberly Huang]]'
 url: 'https://www.litmus.com/blog/email-modules-and-modular-email'
-published: 2024-03-18T00:00:00.000Z
-created: 2026-04-23T00:00:00.000Z
+published: 2024-03-18
+created: 2026-04-23
 tags:
   - content-marketing
   - automatyzacja

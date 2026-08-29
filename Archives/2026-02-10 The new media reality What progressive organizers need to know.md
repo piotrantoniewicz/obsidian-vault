@@ -5,8 +5,8 @@ authors:
   - '[[Alex Vorobev]]'
 url: >-
   https://www.centerfordigitalaction.eu/post/the-new-media-reality-what-progressive-organizers-need-to-know?source=newsletter&link_id=10&can_id=32cae499f95a9349c734a72403321b9c&email_referrer=email_3100944&email_subject=ditch-the-therapy-speak-start-winning-and-raising-money&
-published: 2026-02-10T00:00:00.000Z
-created: 2026-04-06T00:00:00.000Z
+published: 2026-02-10
+created: 2026-04-06
 tags:
   - digital-campaigning
   - organizacje-społeczne

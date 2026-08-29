@@ -2,8 +2,8 @@
 type: Web
 authors: "[[Aakash Gupta]]"
 url: https://www.news.aakashg.com/p/context-engineering?utm_source=perplexity
-published: 2025-11-26T00:00:00.000Z
-created: 2026-03-03T00:00:00.000Z
+published: 2025-11-26
+created: 2026-03-03
 tags:
   - prompt-engineering
   - LLM

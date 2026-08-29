@@ -3,8 +3,8 @@ type: Web
 authors: '[[Beth O''Malley]]'
 url: >-
   https://weareastral.co.uk/thevault/inbox-psychology-why-people-stop-seeing-your-emails.-repetition-awareness-and-the-filtering-nobody-measures?utm_medium=email&_hsenc=p2ANqtz-8mm2SS7zArwzi3IAcyBewWS-_Xh7Kl89R7LafW0fk09u3IyHhcuAxY2YV_J8ovZq7m-r1OEgAlViez2dUAhNXdUut_uwUmWF9jHUKvekxG9V_tLPk&_hsmi=143123921&utm_content=143130518&utm_source=hs_email
-published: 2026-08-12T00:00:00.000Z
-created: 2026-08-13T00:00:00.000Z
+published: 2026-08-12
+created: 2026-08-13
 tags:
   - digital-campaigning
   - content-marketing

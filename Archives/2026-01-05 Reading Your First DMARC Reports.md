@@ -3,8 +3,8 @@ type: Web
 authors: '[[Kimberly Huang]]'
 url: >-
   https://www.litmus.com/blog/reading-first-dmarc-reports?utm_source=www.civicshoutnewsletter.com&utm_medium=newsletter&utm_campaign=how-humane-world-for-animals-won-back-38-000-donors&_bhlid=3172432cae9bcd755310dda95205d9cfb04f6217
-published: 2026-01-05T00:00:00.000Z
-created: 2026-03-22T00:00:00.000Z
+published: 2026-01-05
+created: 2026-03-22
 tags:
   - digital-campaigning
   - fundraising

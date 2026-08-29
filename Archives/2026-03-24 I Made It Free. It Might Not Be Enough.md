@@ -3,8 +3,8 @@ type: Web
 authors: '[[Kyle Behrend]]'
 url: >-
   https://kylebehrend.substack.com/p/i-made-it-free-it-might-not-be-enough?r=62y3&utm_campaign=post&utm_medium=web&triedRedirect=true
-published: 2026-03-24T00:00:00.000Z
-created: 2026-03-24T00:00:00.000Z
+published: 2026-03-24
+created: 2026-03-24
 tags:
   - szkolenia-AI
   - strategia-AI

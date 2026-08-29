@@ -3,8 +3,8 @@ type: Web
 authors: '[[Filip Żyro]]'
 url: >-
   https://sektor3-0.pl/blog/produktywnosc-aplikacje-do-monitorowania-czasu-pracy/
-published: 2020-06-17T00:00:00.000Z
-created: 2026-03-24T00:00:00.000Z
+published: 2020-06-17
+created: 2026-03-24
 tags:
   - automatyzacja
   - narzędzia-AI

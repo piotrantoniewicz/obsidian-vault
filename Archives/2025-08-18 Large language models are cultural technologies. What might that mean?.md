@@ -3,8 +3,8 @@ type: Web
 authors: '[[Henry Farrell]]'
 url: >-
   https://www.programmablemutter.com/p/large-language-models-are-cultural?utm_medium=email&_hsenc=p2ANqtz-_qhES1JvEd2GzvbYoxW1K7DF8htZMcJRxMUV1-odeoJkDDs3S28SuC45Fre5vJYXWiBQhYPRDCWPRd8qIQlD670Zi4OHUIImf60zj1T9n1bxgjU_Q&_hsmi=116225096&utm_content=116225096&utm_source=hs_email
-published: 2025-08-18T00:00:00.000Z
-created: 2026-03-19T00:00:00.000Z
+published: 2025-08-18
+created: 2026-03-19
 tags:
   - LLM
   - framing

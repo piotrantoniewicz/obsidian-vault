@@ -2,8 +2,8 @@
 type: Web
 authors: '[[Claude]]'
 url: 'https://claude.com/blog/product-management-on-the-ai-exponential'
-published: 2026-03-19T00:00:00.000Z
-created: 2026-03-22T00:00:00.000Z
+published: 2026-03-19
+created: 2026-03-22
 tags:
   - strategia-AI
   - narzędzia-AI

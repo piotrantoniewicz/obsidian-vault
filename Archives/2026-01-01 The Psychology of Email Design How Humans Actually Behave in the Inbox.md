@@ -3,8 +3,8 @@ type: Web
 authors: '[[Beth O''Malley]]'
 url: >-
   https://weareastral.co.uk/thevault/the-psychology-of-email-design-how-humans-actually-behave-in-the-inbox?utm_source=www.civicshoutnewsletter.com&utm_medium=newsletter&utm_campaign=national-park-foundation-s-1m-sweepstakes-retention-lesson&_bhlid=2b094a99c13cc3a4ef83755ae16b5407085d6e8b
-published: 2026-01-01T00:00:00.000Z
-created: 2026-04-05T00:00:00.000Z
+published: 2026-01-01
+created: 2026-04-05
 tags:
   - digital-campaigning
   - content-marketing

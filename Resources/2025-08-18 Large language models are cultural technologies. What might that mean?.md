@@ -4,8 +4,8 @@ authors:
   - "[[Henry Farrell]]"
 url: https://www.programmablemutter.com/p/large-language-models-are-cultural
 source: "[[Archives/2025-08-18 Large language models are cultural technologies. What might that mean?|2025-08-18 Large language models are cultural technologies. What might that mean?]]"
-published: 2025-08-18T00:00:00.000Z
-created: 2026-03-19T00:00:00.000Z
+published: 2025-08-18
+created: 2026-03-19
 relevance: wysoka
 tags:
   - LLM

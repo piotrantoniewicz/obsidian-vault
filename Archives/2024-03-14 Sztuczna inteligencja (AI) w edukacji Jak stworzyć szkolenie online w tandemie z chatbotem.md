@@ -3,8 +3,8 @@ type: Web
 authors: '[[Bartłomiej Polakowski]]'
 url: >-
   https://sektor3-0.pl/blog/sztuczna-inteligencja-ai-w-edukacji-jak-stworzyc-szkolenie-online-w-tandemie-z-chatbotem/
-published: 2024-03-14T00:00:00.000Z
-created: 2026-03-24T00:00:00.000Z
+published: 2024-03-14
+created: 2026-03-24
 tags:
   - szkolenia-AI
   - narzędzia-AI

@@ -2,8 +2,8 @@
 type: Web
 authors: '[[Madison Barefield]]'
 url: 'https://www.causevox.com/blog/developing-major-donors-and-planned-giving/'
-published: 2026-04-15T00:00:00.000Z
-created: 2026-04-22T00:00:00.000Z
+published: 2026-04-15
+created: 2026-04-22
 tags:
   - fundraising
   - strategia-organizacji

@@ -3,8 +3,8 @@ type: Web
 authors: '[[Aga Kozak]]'
 url: >-
   https://sektor3-0.pl/blog/etyka-sztuczna-inteligencja-ai-alek-takowski/?utm_source=newsletter&utm_medium=email&utm_term=2026-03-24&utm_campaign=+NGO+i+AI+kto+tu+decyduje+
-published: 2024-06-20T00:00:00.000Z
-created: 2026-03-24T00:00:00.000Z
+published: 2024-06-20
+created: 2026-03-24
 tags:
   - strategia-AI
   - organizacje-społeczne

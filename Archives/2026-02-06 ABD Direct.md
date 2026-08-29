@@ -3,8 +3,8 @@ type: Web
 authors: '[[ABD Direct]]'
 url: >-
   https://www.abddirect.com/2025-national-progressive-donor-survey/?utm_source=www.civicshoutnewsletter.com&utm_medium=newsletter&utm_campaign=how-unicef-usa-unlocked-26-000-more-donations&_bhlid=fc729cda9642d7afb7c5aff758b823774b8d7140
-published: 2026-02-06T00:00:00.000Z
-created: 2026-03-23T00:00:00.000Z
+published: 2026-02-06
+created: 2026-03-23
 tags:
   - fundraising
   - digital-campaigning

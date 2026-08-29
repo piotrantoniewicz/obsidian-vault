@@ -3,8 +3,8 @@ type: Web
 authors: '[[Ryan Carr]]'
 url: >-
   https://moodboard.beehiiv.com/p/my-guide-to-claude-cowork?utm_source=moodboard.beehiiv.com&utm_medium=newsletter&utm_campaign=build-a-home-for-your-ai-projects&_bhlid=eacc8c32ccbf35f8fcb8b56e0e20eaafd63186c6&jwt_token=
-published: 2026-03-27T00:00:00.000Z
-created: 2026-05-18T00:00:00.000Z
+published: 2026-03-27
+created: 2026-05-18
 tags:
   - narzędzia-AI
   - automatyzacja

@@ -3,8 +3,8 @@ type: Web
 authors: '[[Bryan Neider]]'
 url: >-
   https://www.linkedin.com/pulse/why-calendar-tetris-killing-your-mission-bryan-neider-mc8tc/
-published: 2026-04-21T00:00:00.000Z
-created: 2026-04-21T00:00:00.000Z
+published: 2026-04-21
+created: 2026-04-21
 tags:
   - organizacje-społeczne
   - strategia-organizacji

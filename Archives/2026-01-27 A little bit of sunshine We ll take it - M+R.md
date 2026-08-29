@@ -3,8 +3,8 @@ type: Web
 authors: '[[mradmin]]'
 url: >-
   https://www.mrss.com/lab/a-little-bit-of-sunshine-well-take-it/?utm_source=www.civicshoutnewsletter.com&utm_medium=newsletter&utm_campaign=how-chive-charities-hit-98-donor-retention&_bhlid=d4ccc591eaadc940bc8bc8d12f8a6395b8d59b33
-published: 2026-01-27T00:00:00.000Z
-created: 2026-03-22T00:00:00.000Z
+published: 2026-01-27
+created: 2026-03-22
 tags:
   - fundraising
   - digital-campaigning

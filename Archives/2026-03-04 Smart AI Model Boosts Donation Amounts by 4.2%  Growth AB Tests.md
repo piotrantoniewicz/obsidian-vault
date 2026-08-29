@@ -3,7 +3,7 @@ type: Web
 authors: "[[Fundraise Up]]"
 url: https://fundraiseup.com/experiments/smart-suggested-amounts-in-campaign-pages/?utm_source=www.civicshoutnewsletter.com&utm_medium=newsletter&utm_campaign=four-donation-page-mistakes-you-can-fix-today&_bhlid=9ba2d5f1e7e51c52b8c92e655ff5e689b80cf9c4
 published:
-created: 2026-03-04T00:00:00.000Z
+created: 2026-03-04
 tags:
   - fundraising
   - narzędzia-AI

@@ -3,8 +3,8 @@ type: Web
 authors: '[[Beth O''Malley]]'
 url: >-
   https://weareastral.co.uk/thevault/email-fatigue-what-it-really-is-how-to-spot-it-and-how-to-recover-from-it?utm_medium=email&_hsenc=p2ANqtz-_Toq64LWP8Ix7QYfsbjBihlhgrZkgIBpy1__rLuwjvE5ZtsDRVOI25X3Q0KlxCQUxkmp5xwTyeXsdPu2atYHskhklJhynmDKkEYHmQ8CtsiIfqPLI&_hsmi=132947917&utm_content=132946496&utm_source=hs_email
-published: 2026-04-08T00:00:00.000Z
-created: 2026-04-13T00:00:00.000Z
+published: 2026-04-08
+created: 2026-04-13
 tags:
   - fundraising
   - digital-campaigning

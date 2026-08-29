@@ -2,8 +2,8 @@
 type: Web
 authors: "[[Ecomail.pl]]"
 url: https://ecomail.pl/blog/pl/jaki-jest-najlepszy-czas-na-wysylke-kampanii-mailingowej-i-co-na-ten-temat-mowia-dane/?ecmid=9813&utm_term=15545&utm_medium=email&utm_campaign=2025_28_timing&utm_source=ecomail
-published: 2025-07-10T00:00:00.000Z
-created: 2026-03-02T00:00:00.000Z
+published: 2025-07-10
+created: 2026-03-02
 tags:
   - digital-campaigning
   - fundraising

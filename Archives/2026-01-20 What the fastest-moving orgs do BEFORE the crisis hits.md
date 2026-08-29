@@ -3,8 +3,8 @@ type: Web
 authors: '[[Sara Cederberg]]'
 url: >-
   https://www.civicshoutnewsletter.com/p/what-the-fastest-moving-orgs-do-before-the-crisis-hits?utm_source=www.civicshoutnewsletter.com&utm_medium=newsletter&utm_campaign=a-72-hour-gut-check-for-hard-news-cycles&_bhlid=883fe12aedb73084f9fcba2a4b1d22576d41aba0
-published: 2026-01-20T00:00:00.000Z
-created: 2026-03-22T00:00:00.000Z
+published: 2026-01-20
+created: 2026-03-22
 tags:
   - fundraising
   - digital-campaigning

@@ -6,8 +6,8 @@ authors:
   - "[[Lareina A. Yee]]"
   - "[[Michael Chui]]"
 url: https://www.mckinsey.com/capabilities/quantumblack/our-insights/the-state-of-ai?utm_source=aiwithallie.beehiiv.com&utm_medium=newsletter&utm_campaign=6-ai-stats-from-mckinsey-you-need-to-see&_bhlid=0dcddd324a9a0469abbc1efa1dada471934dd9ce#/
-published: 2025-11-05T00:00:00.000Z
-created: 2026-03-04T00:00:00.000Z
+published: 2025-11-05
+created: 2026-03-04
 tags:
   - trendy-AI
   - strategia-AI

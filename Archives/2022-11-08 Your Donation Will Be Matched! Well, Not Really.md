@@ -3,8 +3,8 @@ type: Web
 authors: null
 url: >-
   https://blog.charitywatch.org/your-donation-will-be-matched-well-not-really/?utm_source=www.civicshoutnewsletter.com&utm_medium=newsletter&utm_campaign=are-your-emails-helping-or-hurting&_bhlid=282f44fedb109ffb57b0440291af63a4504aed8a
-published: 2022-11-08T00:00:00.000Z
-created: 2026-04-11T00:00:00.000Z
+published: 2022-11-08
+created: 2026-04-11
 tags:
   - fundraising
   - framing

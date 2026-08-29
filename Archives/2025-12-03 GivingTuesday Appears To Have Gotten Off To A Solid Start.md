@@ -3,8 +3,8 @@ type: Web
 authors: '[[Paul Clolery]]'
 url: >-
   https://thenonprofittimes.com/npt_articles/givingtuesday-appears-to-have-gotten-off-to-a-solid-start/?_bhlid=6fb79c0df23b4e5b1290c108a2e4f177e811ef95&utm_campaign=an-initial-look-at-giving-tuesday-results&utm_medium=newsletter&utm_source=www.civicshoutnewsletter.com
-published: 2025-12-03T00:00:00.000Z
-created: 2026-03-20T00:00:00.000Z
+published: 2025-12-03
+created: 2026-03-20
 tags:
   - fundraising
   - digital-campaigning

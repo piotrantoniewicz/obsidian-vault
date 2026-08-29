@@ -3,8 +3,8 @@ type: Web
 authors: '[[Jaime Harrison]]'
 url: >-
   https://jaimeharrison.substack.com/p/an-open-letter-to-political-consultants?utm_medium=email&_hsenc=p2ANqtz-8Ls1qaupO0SfkuI10BaOnZsYqXm9pWx2SWOfGqJNYklr14Nvo4MGVer82Bq7RnbmGN1SKgayZit2STr9TmuYRhMATKF-HdErq9nZJ6Eo1bFe7Zeu0&_hsmi=117692597&utm_content=117692597&utm_source=hs_email
-published: 2025-08-31T00:00:00.000Z
-created: 2026-03-20T00:00:00.000Z
+published: 2025-08-31
+created: 2026-03-20
 tags:
   - digital-campaigning
   - framing

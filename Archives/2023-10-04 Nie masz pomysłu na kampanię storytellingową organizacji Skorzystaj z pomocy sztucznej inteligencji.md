@@ -3,8 +3,8 @@ type: Web
 authors: '[[ngo.pl]]'
 url: >-
   https://publicystyka.ngo.pl/nie-masz-pomyslu-na-kampanie-storytellingowa-organizacji-skorzystaj-z-pomocy-sztucznej-inteligencji
-published: 2023-10-04T00:00:00.000Z
-created: 2026-03-24T00:00:00.000Z
+published: 2023-10-04
+created: 2026-03-24
 tags:
   - narzędzia-AI
   - content-marketing

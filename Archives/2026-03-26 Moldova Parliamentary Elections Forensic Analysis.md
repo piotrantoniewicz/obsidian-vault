@@ -2,8 +2,8 @@
 type: Web
 authors: '[[Andra-Lucia Martinescu]]'
 url: 'https://elections.igov.ro/moldova.html#section-03'
-published: null
-created: 2026-03-26T00:00:00.000Z
+published:
+created: 2026-03-26
 tags:
   - digital-campaigning
   - framing

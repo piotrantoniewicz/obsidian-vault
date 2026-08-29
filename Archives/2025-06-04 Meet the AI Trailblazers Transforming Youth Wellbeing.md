@@ -3,8 +3,8 @@ type: Web
 authors: '[[Project Liberty]]'
 url: >-
   https://www.linkedin.com/pulse/meet-ai-trailblazers-transforming-youth-wellbeing-projectliberty-ifjmc/?trackingId=kvKe48n56OWedLARooZtLA%3D%3D
-published: 2025-06-04T00:00:00.000Z
-created: 2026-04-12T00:00:00.000Z
+published: 2025-06-04
+created: 2026-04-12
 tags:
   - organizacje-społeczne
   - strategia-AI

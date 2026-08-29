@@ -2,8 +2,8 @@
 type: Web
 authors: null
 url: 'https://www.techsoup.pl/blog/dpc/system-crm-dla-ngo'
-published: 2023-06-12T00:00:00.000Z
-created: 2026-03-25T00:00:00.000Z
+published: 2023-06-12
+created: 2026-03-25
 tags:
   - fundraising
   - organizacje-społeczne

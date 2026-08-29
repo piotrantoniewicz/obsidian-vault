@@ -3,8 +3,8 @@ type: Web
 authors: '[[Beth O''Malley]]'
 url: >-
   https://weareastral.co.uk/thevault/preference-centres-are-dead-and-its-time-we-stop-pretending-they-work?utm_medium=email&_hsenc=p2ANqtz-_ns20gsbQgIqLLDHjvgwlGL1FooCZObBjYXUpDCutsV35xxbSoY_sGD0x2R8yJ0GuhuXoshYJ7Lsj7MuCOot2yFEm9G0lq8Lxwn1l_bcuj8q5-vm4&_hsmi=133521287&utm_content=133531118&utm_source=hs_email
-published: 2026-03-04T00:00:00.000Z
-created: 2026-04-17T00:00:00.000Z
+published: 2026-03-04
+created: 2026-04-17
 tags:
   - digital-campaigning
   - content-marketing

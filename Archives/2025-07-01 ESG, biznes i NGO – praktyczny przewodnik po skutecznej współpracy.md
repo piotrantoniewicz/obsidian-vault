@@ -3,8 +3,8 @@ type: Web
 authors: '[[Mirella Panek-Owsiańska]]'
 url: >-
   https://sektor3-0.pl/blog/esg-biznes-i-ngo-praktyczny-przewodnik-po-skutecznej-wspolpracy/?utm_source=newsletter&utm_medium=email&utm_term=2026-03-24&utm_campaign=ESG+w+NGO+krok+po+kroku+
-published: 2025-07-01T00:00:00.000Z
-created: 2026-03-24T00:00:00.000Z
+published: 2025-07-01
+created: 2026-03-24
 tags:
   - fundraising
   - organizacje-społeczne

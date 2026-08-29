@@ -2,8 +2,8 @@
 type: Web
 authors: "[[Jacek Siadkowski]]"
 url: 'https://www.fastcompany.com/91368884/the-ai-native-nonprofit-era-is-coming'
-published: 2025-07-17T00:00:00.000Z
-created: 2026-03-10T00:00:00.000Z
+published: 2025-07-17
+created: 2026-03-10
 tags:
   - strategia-AI
   - organizacje-społeczne

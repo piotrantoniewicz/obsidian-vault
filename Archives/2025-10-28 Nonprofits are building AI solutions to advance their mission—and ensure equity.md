@@ -3,8 +3,8 @@ type: Web
 authors: '[[Kyoko Uchida]]'
 url: >-
   https://candid.org/blogs/what-data-says-about-nonprofits-building-ai-solutions/
-published: 2025-10-28T00:00:00.000Z
-created: 2026-04-13T00:00:00.000Z
+published: 2025-10-28
+created: 2026-04-13
 tags:
   - organizacje-społeczne
   - strategia-AI

@@ -4,7 +4,7 @@ authors: '[[Tectonica Digital Campaign Solutions]]'
 url: >-
   https://www.tectonica.co/posts/choosing-the-right-gen-ai-tools-for-campaigns-and-organizations?utm_medium=email&_hsenc=p2ANqtz-8eO9ot5diniwcRfLM8LTrbXXhV7M8aJCaOhKRzynZyQOozorX_uG2rYOH4sNavAr8C0VjyqoCUeSWgAbzWRevwhMMSXzhK_NNZCLu5_yRfYVtIAgw&_hsmi=112708171&utm_content=112708171&utm_source=hs_email
 published: '2025-07-03'
-created: 2026-03-19T00:00:00.000Z
+created: 2026-03-19
 tags:
   - narzędzia-AI
   - strategia-organizacji

@@ -3,8 +3,8 @@ type: Web
 authors: '[[Max Greenwood]]'
 url: >-
   https://campaignsandelections.com/industry-news/google-to-let-political-campaigns-bypass-gmails-spam-filters/?utm_source=www.civicshoutnewsletter.com&utm_medium=newsletter&utm_campaign=an-email-list-that-starts-with-advocacy-first&_bhlid=38d54c14f48ea4a022d04a8ccc86ee9d4001117c
-published: 2026-08-18T00:00:00.000Z
-created: 2026-08-25T00:00:00.000Z
+published: 2026-08-18
+created: 2026-08-25
 tags:
   - digital-campaigning
   - fundraising

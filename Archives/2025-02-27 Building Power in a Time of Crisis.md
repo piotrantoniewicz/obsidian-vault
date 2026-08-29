@@ -3,8 +3,8 @@ type: Web
 authors: '[[HGL Team]]'
 url: >-
   https://highergroundlabs.com/building-power-in-a-time-of-crisis/?utm_medium=email&_hsenc=p2ANqtz-9UNs_kbriSd3i0PTMehJ9cfsbT_B_7BrTWc9gc-2aAt9LdZV2vqJgjkX_JWOKXT2Xnee2aaJ2r6mwY5YSGWrS5UGKu3zHOY9diRI-WzYi7a6Wkbg0&_hsmi=105923428&utm_content=105923428&utm_source=hs_email
-published: 2025-02-27T00:00:00.000Z
-created: 2026-03-19T00:00:00.000Z
+published: 2025-02-27
+created: 2026-03-19
 tags:
   - digital-campaigning
   - narzędzia-AI

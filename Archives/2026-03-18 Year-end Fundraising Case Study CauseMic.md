@@ -3,8 +3,8 @@ type: Web
 authors: null
 url: >-
   https://causemic.com/work/year-end-fundraising?utm_source=www.civicshoutnewsletter.com&utm_medium=newsletter&utm_campaign=how-digdeep-s-multichannel-play-turned-email-into-a-1-6m-closer&_bhlid=6caf680d171fc6574bc010e2fa92d211cf143cc2
-published: null
-created: 2026-03-18T00:00:00.000Z
+published:
+created: 2026-03-18
 tags:
   - fundraising
   - digital-campaigning

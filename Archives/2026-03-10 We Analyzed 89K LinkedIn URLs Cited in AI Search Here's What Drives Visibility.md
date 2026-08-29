@@ -2,8 +2,8 @@
 type: Web
 authors: "[[Margarita Loktionova]]"
 url: 'https://www.semrush.com/blog/linkedin-ai-visibility-study/'
-published: 2026-03-10T00:00:00.000Z
-created: 2026-03-13T00:00:00.000Z
+published: 2026-03-10
+created: 2026-03-13
 tags:
   - content-marketing
   - trendy-AI

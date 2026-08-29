@@ -2,8 +2,8 @@
 type: Web
 authors: '[[Allie K Miller]]'
 url: 'https://www.youtube.com/watch?v=v1ynWeHhzXs'
-published: 2025-10-24T00:00:00.000Z
-created: 2026-04-06T00:00:00.000Z
+published: 2025-10-24
+created: 2026-04-06
 tags:
   - szkolenia-AI
   - narzędzia-AI

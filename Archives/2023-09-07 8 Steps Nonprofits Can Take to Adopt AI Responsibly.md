@@ -6,8 +6,8 @@ authors:
   - '[[Philip Deng]]'
 url: >-
   https://ssir.org/articles/entry/8_steps_nonprofits_can_take_to_adopt_ai_responsibly?utm_medium=email&_hsenc=p2ANqtz--g66MLkez301HwzHLUj2mVO15PtNws1Cp-3OlfgdpM6c3jK40jViP14gsaEmtBKQRm1PhGdwMklUuhs1O6D8tQBEwfIchUjqyRfCSjI95csMHzD70&_hsmi=115320471&utm_content=115320471&utm_source=hs_email
-published: 2023-09-07T00:00:00.000Z
-created: 2026-03-19T00:00:00.000Z
+published: 2023-09-07
+created: 2026-03-19
 tags:
   - szkolenia-AI
   - strategia-AI

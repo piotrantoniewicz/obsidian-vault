@@ -3,8 +3,8 @@ type: Web
 authors: '[[Alexa Sundberg]]'
 url: >-
   https://gundir.com/resource/holdout-testing/?utm_source=www.civicshoutnewsletter.com&utm_medium=newsletter&utm_campaign=what-emailers-can-learn-from-a-10-envelope&_bhlid=f14e9f79567d752b2f41de5923e65cdee64705d8
-published: 2020-10-06T00:00:00.000Z
-created: 2026-08-13T00:00:00.000Z
+published: 2020-10-06
+created: 2026-08-13
 tags:
   - fundraising
   - organizacje-społeczne

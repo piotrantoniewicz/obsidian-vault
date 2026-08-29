@@ -3,8 +3,8 @@ type: Web
 authors: '[[Heather Mansfield]]'
 url: >-
   https://www.nptechforgood.com/2026/04/03/community-as-infrastructure-why-nonprofits-must-start-designing-for-relationships/
-published: 2026-04-03T00:00:00.000Z
-created: 2026-04-13T00:00:00.000Z
+published: 2026-04-03
+created: 2026-04-13
 tags:
   - organizacje-społeczne
   - fundraising

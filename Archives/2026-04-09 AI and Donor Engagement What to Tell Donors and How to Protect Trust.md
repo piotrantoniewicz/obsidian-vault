@@ -3,8 +3,8 @@ type: Web
 authors: '[[Blackbaud]]'
 url: >-
   https://www.blackbaud.co.uk/industry-insights/resources/ai-and-donor-engagement-what-to-tell-donors-and-how-to-protect-trust?utm_source=mkto&utm_medium=email&utm_campaign=FDR-WELCOME-2C-RXT-23-EU&utm_content=awabutton1&mkt_tok=MDUzLU1YSi0xMzEAAAGjvV-h29UcikVm6VBLSOP5YcXE8NDdQz36TZ9lN68RM5XHNIPf34xaryhFzYMqPh7cMZDxetiAGuOzX_pqCdqQ_kpXmGLAlkC3-BgxTIsrz2nSA6vxmPQ
-published: 2026-04-09T00:00:00.000Z
-created: 2026-08-25T00:00:00.000Z
+published: 2026-04-09
+created: 2026-08-25
 tags:
   - fundraising
   - framing

@@ -3,8 +3,8 @@ type: Web
 authors: '[[Filip Jędruch]]'
 url: >-
   https://sektor3-0.pl/blog/cyberbezpieczenstwo-w-organizacjach-spolecznych-maciej-broniarz/
-published: 2025-04-08T00:00:00.000Z
-created: 2026-03-24T00:00:00.000Z
+published: 2025-04-08
+created: 2026-03-24
 tags:
   - organizacje-społeczne
   - strategia-organizacji

@@ -3,8 +3,8 @@ type: Web
 authors: '[[Amnesty International]]'
 url: >-
   https://www.amnesty.org/en/latest/news/2025/12/global-amnesty-international-launches-an-algorithmic-accountability-toolkit-to-enable-investigators-rights-defenders-and-activists-to-hold-powerfu/?utm_medium=email&_hsenc=p2ANqtz-90wPOtvcCwdVRk2RwKb1gpuCxCFl0kuqX6FYjo5P6J6Vq9YQK2iec8bo7z53UBrxjQ6H6VuiBL_8ZbVu3Q5MbwbzyItHXdXQBbIqmGwY9waY2z8ow&_hsmi=124279693&utm_content=124279693&utm_source=hs_email
-published: 2025-12-09T00:00:00.000Z
-created: 2026-03-20T00:00:00.000Z
+published: 2025-12-09
+created: 2026-03-20
 tags:
   - strategia-AI
   - narzędzia-AI

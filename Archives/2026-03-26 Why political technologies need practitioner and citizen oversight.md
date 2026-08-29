@@ -3,8 +3,8 @@ type: Web
 authors: '[[deliberAIde]]'
 url: >-
   https://partisan.community/blog/why-political-technologies-need-practitioner-and-citizen-oversight
-published: null
-created: 2026-03-26T00:00:00.000Z
+published:
+created: 2026-03-26
 tags:
   - digital-campaigning
   - strategia-AI

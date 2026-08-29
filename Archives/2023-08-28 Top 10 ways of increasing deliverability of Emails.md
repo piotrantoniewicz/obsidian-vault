@@ -2,8 +2,8 @@
 type: Web
 authors: '[[Roman Kozłowski]]'
 url: 'https://messageflow.com/pl/blog/dostarczalnosc-emaili-2026/'
-published: 2023-08-28T00:00:00.000Z
-created: 2026-04-18T00:00:00.000Z
+published: 2023-08-28
+created: 2026-04-18
 tags:
   - digital-campaigning
   - fundraising

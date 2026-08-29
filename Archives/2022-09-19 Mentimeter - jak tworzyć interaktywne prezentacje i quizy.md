@@ -2,8 +2,8 @@
 type: Web
 authors: '[[Kamil Śliwowski]]'
 url: 'https://sektor3-0.pl/blog/mentimeter-jak-tworzyc-interaktywne-prezentacje/'
-published: 2022-09-19T00:00:00.000Z
-created: 2026-03-24T00:00:00.000Z
+published: 2022-09-19
+created: 2026-03-24
 tags:
   - organizacje-społeczne
   - strategia-organizacji

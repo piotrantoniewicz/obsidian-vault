@@ -3,8 +3,8 @@ type: Web
 authors: '[[Karina Janus]]'
 url: >-
   https://publicystyka.ngo.pl/7-sposobow-na-wykorzystanie-darmowego-copilot-chat-ktore-odmienia-twoj-dzien-pracy-tau
-published: 2026-01-14T00:00:00.000Z
-created: 2026-04-22T00:00:00.000Z
+published: 2026-01-14
+created: 2026-04-22
 tags:
   - narzędzia-AI
   - szkolenia-AI

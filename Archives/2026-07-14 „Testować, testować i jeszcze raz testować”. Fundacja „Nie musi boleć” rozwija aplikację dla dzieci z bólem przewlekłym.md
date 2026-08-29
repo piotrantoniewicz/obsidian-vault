@@ -3,8 +3,8 @@ type: Web
 authors: '[[Aga Kozak]]'
 url: >-
   https://sektor3-0.pl/blog/fundacja-nie-musi-bolec-rozwija-aplikacje-dla-dzieci-z-bolem-przewleklym/?utm_source=newsletter&utm_medium=email&utm_term=2026-08-13&utm_campaign=+Jak+wdro%C5%BCy%C4%87+narz%C4%99dzie+na+lata+
-published: 2026-07-14T00:00:00.000Z
-created: 2026-08-13T00:00:00.000Z
+published: 2026-07-14
+created: 2026-08-13
 tags:
   - produkty-cyfrowe
   - organizacje-społeczne

@@ -3,8 +3,8 @@ type: Web
 authors: '[[Benjy Cook]]'
 url: >-
   https://www.centerfordigitalaction.eu/post/the-taylor-swift-list?link_id=9&can_id=32cae499f95a9349c734a72403321b9c&source=email-dissent-smarter-engage-deeper-fundraise-better&email_referrer=email_2549746&email_subject=making-a-list-checking-it-twice-goodies-for-progressives
-published: 2024-12-04T00:00:00.000Z
-created: 2026-04-05T00:00:00.000Z
+published: 2024-12-04
+created: 2026-04-05
 tags:
   - digital-campaigning
   - framing

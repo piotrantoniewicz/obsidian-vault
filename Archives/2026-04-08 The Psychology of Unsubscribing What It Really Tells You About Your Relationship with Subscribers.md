@@ -3,8 +3,8 @@ type: Web
 authors: '[[Beth O''Malley]]'
 url: >-
   https://weareastral.co.uk/thevault/the-psychology-of-unsubscribing?utm_medium=email&_hsenc=p2ANqtz-88zksoimoM4WLZSejbEYrsahXLV9coSENEEBd3VvQLLMhbjon_JyJ-3j7baLmuuVtXy_m0tlqt6Swg-doppydNBinCX9UyhAH4XHqaoFxtTjXXSIQ&_hsmi=132947917&utm_content=132946496&utm_source=hs_email
-published: 2026-04-08T00:00:00.000Z
-created: 2026-04-13T00:00:00.000Z
+published: 2026-04-08
+created: 2026-04-13
 tags:
   - digital-campaigning
   - fundraising

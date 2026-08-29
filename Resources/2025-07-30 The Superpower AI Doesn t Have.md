@@ -4,8 +4,8 @@ authors:
   - "[[David Jay]]"
 url: https://www.linkedin.com/pulse/superpower-ai-doesnt-have-david-jay-g17uc/
 source: "[[Archives/2025-07-30 The Superpower AI Doesn t Have|2025-07-30 The Superpower AI Doesn t Have]]"
-published: 2025-07-30T00:00:00.000Z
-created: 2026-03-19T00:00:00.000Z
+published: 2025-07-30
+created: 2026-03-19
 relevance: wysoka
 tags:
   - strategia-AI

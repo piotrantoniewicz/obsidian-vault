@@ -3,8 +3,8 @@ type: Web
 authors: '[[Al Iverson]]'
 url: >-
   https://www.spamresource.com/2025/11/google-warns-sender-requirements.html?utm_source=www.civicshoutnewsletter.com&utm_medium=newsletter&utm_campaign=what-the-smartest-email-teams-are-acting-on-in-2026&_bhlid=82f942498188e6e2aa91ca3979e21a42c1925dd6
-published: 2025-11-06T00:00:00.000Z
-created: 2026-03-20T00:00:00.000Z
+published: 2025-11-06
+created: 2026-03-20
 tags:
   - digital-campaigning
   - fundraising

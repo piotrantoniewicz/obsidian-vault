@@ -2,8 +2,8 @@
 type: Web
 authors: '[[Bryan Neider]]'
 url: 'https://www.linkedin.com/pulse/leading-through-tension-bryan-neider-1cnyc/'
-published: 2026-08-24T00:00:00.000Z
-created: 2026-08-25T00:00:00.000Z
+published: 2026-08-24
+created: 2026-08-25
 tags:
   - strategia-organizacji
   - organizacje-społeczne

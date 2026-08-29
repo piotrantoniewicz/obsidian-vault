@@ -2,8 +2,8 @@
 type: Web
 authors: '[[WenHao Yu]]'
 url: 'https://yu-wenhao.com/en/blog/lyt-framework-guide/'
-published: 2026-03-03T00:00:00.000Z
-created: 2026-04-19T00:00:00.000Z
+published: 2026-03-03
+created: 2026-04-19
 tags:
   - strategia-AI
   - narzędzia-AI

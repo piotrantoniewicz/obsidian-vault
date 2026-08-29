@@ -3,8 +3,8 @@ type: Web
 authors: '[[Marzena Kacprowicz]]'
 url: >-
   https://sektor3-0.pl/blog/automatyzacja-zadan-jak-przyspieszyc-zbieranie-faktur/?utm_source=newsletter&utm_medium=email&utm_term=2026-03-24&utm_campaign=+Automatyzacja+w+NGO+krok+po+kroku
-published: 2024-11-19T00:00:00.000Z
-created: 2026-03-24T00:00:00.000Z
+published: 2024-11-19
+created: 2026-03-24
 tags:
   - automatyzacja
   - narzędzia-AI

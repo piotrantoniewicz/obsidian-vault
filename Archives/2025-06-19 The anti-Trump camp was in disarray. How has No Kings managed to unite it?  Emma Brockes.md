@@ -2,8 +2,8 @@
 type: Web
 authors: "[[Emma Brockes]]"
 url: https://www.theguardian.com/commentisfree/2025/jun/19/anti-trump-no-kings-slogan-protest-march?utm_source=newsletter&utm_medium=email&utm_term=Mon+02+Mar+2026&utm_campaign=Do+Something+Anything+The+Why+We+re+So+BAD+At+The+Internet+edition
-published: 2025-06-19T00:00:00.000Z
-created: 2026-03-02T00:00:00.000Z
+published: 2025-06-19
+created: 2026-03-02
 tags:
   - framing
   - digital-campaigning

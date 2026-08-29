@@ -2,8 +2,8 @@
 type: Web
 authors: '[[Rafał Szymański]]'
 url: 'https://rafalszymanski.pl/blog/ai-rag-ktore-nie-zmysla-partycypacja/'
-published: null
-created: 2026-06-17T00:00:00.000Z
+published:
+created: 2026-06-17
 tags:
   - narzędzia-AI
   - LLM

@@ -2,8 +2,8 @@
 type: Web
 authors: "[[Heather Mansfield]]"
 url: https://www.nptechforgood.com/101-best-practices/online-fundraising-statistics-for-nonprofits/
-published: 2024-03-19T00:00:00.000Z
-created: 2026-03-04T00:00:00.000Z
+published: 2024-03-19
+created: 2026-03-04
 tags:
   - fundraising
   - digital-campaigning

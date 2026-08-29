@@ -3,8 +3,8 @@ type: Web
 authors: '[[Aga Kozak]]'
 url: >-
   https://sektor3-0.pl/podcast/sukcesja-zaczyna-sie-duzo-wczesniej-niz-odejscie-lidera-o-przywodztwie-ktore-tworzy-nastepcow/?utm_source=newsletter&utm_medium=email&utm_term=2026-08-13&utm_campaign=+Jak+wdro%C5%BCy%C4%87+narz%C4%99dzie+na+lata+
-published: 2026-08-12T00:00:00.000Z
-created: 2026-08-13T00:00:00.000Z
+published: 2026-08-12
+created: 2026-08-13
 tags:
   - strategia-organizacji
   - organizacje-społeczne

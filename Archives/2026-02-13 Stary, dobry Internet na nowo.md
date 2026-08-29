@@ -3,8 +3,8 @@ type: Web
 authors: '[[Marzena Kacprowicz]]'
 url: >-
   https://sektor3-0.pl/blog/stary-dobry-internet-na-nowo/?utm_source=newsletter&utm_medium=email&utm_term=2026-03-24&utm_campaign=+Jak+dobrze+wyj%C5%9B%C4%87+z+social+medi%C3%B3w+
-published: 2026-02-13T00:00:00.000Z
-created: 2026-03-24T00:00:00.000Z
+published: 2026-02-13
+created: 2026-03-24
 tags:
   - digital-campaigning
   - content-marketing

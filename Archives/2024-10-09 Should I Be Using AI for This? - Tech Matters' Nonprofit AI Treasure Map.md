@@ -2,8 +2,8 @@
 type: Web
 authors: "[[Jim Fruchterman]]"
 url: https://techmatters.org/should-i-be-using-ai-for-this/
-published: 2024-10-09T00:00:00.000Z
-created: 2026-03-02T00:00:00.000Z
+published: 2024-10-09
+created: 2026-03-02
 tags:
   - strategia-AI
   - organizacje-społeczne

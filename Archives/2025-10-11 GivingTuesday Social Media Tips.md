@@ -2,8 +2,8 @@
 type: Web
 authors: '[[Madison Barefield]]'
 url: 'https://www.causevox.com/blog/giving-tuesday-social-media-tips/'
-published: 2025-10-11T00:00:00.000Z
-created: 2026-04-22T00:00:00.000Z
+published: 2025-10-11
+created: 2026-04-22
 tags:
   - digital-campaigning
   - content-marketing

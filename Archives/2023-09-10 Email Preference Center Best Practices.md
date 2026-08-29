@@ -2,8 +2,8 @@
 type: Web
 authors: "[[Jesse Sumrak]]"
 url: https://www.twilio.com/en-us/blog/insights/the-power-of-an-email-preference-center?utm_source=www.civicshoutnewsletter.com&utm_medium=newsletter&utm_campaign=gmail-just-made-unsubscribing-easier&_bhlid=4a049aaac32c3990637d7fa8074569e01e71a5e2
-published: 2023-09-10T00:00:00.000Z
-created: 2026-03-04T00:00:00.000Z
+published: 2023-09-10
+created: 2026-03-04
 tags:
   - digital-campaigning
   - content-marketing

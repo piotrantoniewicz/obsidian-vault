@@ -2,8 +2,8 @@
 type: Web
 authors: "[[Percolator Consulting]]"
 url: https://percolatorconsulting.com/blog/the-power-of-engaging-networks-salesforce?utm_source=www.civicshoutnewsletter.com&utm_medium=newsletter&utm_campaign=what-email-marketers-should-know-about-donor-advised-funds&_bhlid=26a2866c150cf44751e8f2fd00ae6d0df66ae730
-published: 2025-07-31T00:00:00.000Z
-created: 2026-03-04T00:00:00.000Z
+published: 2025-07-31
+created: 2026-03-04
 tags:
   - digital-campaigning
   - organizacje-społeczne

@@ -2,8 +2,8 @@
 type: Web
 authors: "[[Greg Sargent]]"
 url: https://newrepublic.com/article/198482/zohran-mamdani-success-rattle-national-democrats?utm_source=newsletter&utm_medium=email&utm_term=Mon+02+Mar+2026&utm_campaign=Do+Something+Anything+The+Why+We+re+So+BAD+At+The+Internet+edition
-published: 2025-07-28T00:00:00.000Z
-created: 2026-03-02T00:00:00.000Z
+published: 2025-07-28
+created: 2026-03-02
 tags:
   - digital-campaigning
   - framing

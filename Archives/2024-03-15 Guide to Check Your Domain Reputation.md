@@ -3,8 +3,8 @@ type: Web
 authors: '[[Brian Godiksen]]'
 url: >-
   https://www.socketlabs.com/blog/google-postmaster-tools/?utm_campaign=deliverability_rate&utm_medium=blog&utm_source=senditright
-published: 2024-03-15T00:00:00.000Z
-created: 2026-04-27T00:00:00.000Z
+published: 2024-03-15
+created: 2026-04-27
 tags:
   - digital-campaigning
   - fundraising

@@ -2,8 +2,8 @@
 type: Web
 authors: "[[Kevin Barenblat]]"
 url: https://aiforhumanity.ffwd.org/p/model-behavior?utm_source=substack&utm_medium=email
-published: 2025-03-27T00:00:00.000Z
-created: 2026-03-02T00:00:00.000Z
+published: 2025-03-27
+created: 2026-03-02
 tags:
   - strategia-AI
   - organizacje-społeczne

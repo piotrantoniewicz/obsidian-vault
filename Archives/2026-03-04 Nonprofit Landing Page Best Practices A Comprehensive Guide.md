@@ -3,7 +3,7 @@ type: Web
 authors:
 url: https://www.trajectorywebdesign.com/blog/nonprofit-landing-page-best-practices?utm_source=www.civicshoutnewsletter.com&utm_medium=newsletter&utm_campaign=four-donation-page-mistakes-you-can-fix-today&_bhlid=bec7025f2961a4a5489a25a59b5dd1ab1c3320df
 published: 2025-05-12
-created: 2026-03-04T00:00:00.000Z
+created: 2026-03-04
 tags:
   - fundraising
   - digital-campaigning

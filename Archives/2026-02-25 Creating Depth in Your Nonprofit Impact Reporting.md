@@ -2,8 +2,8 @@
 type: Web
 authors: "[[Sonja Schappert Howden]]"
 url: https://thenonprofithive.com/depth-nonprofit-impact-reporting/?utm_source=brevo&utm_campaign=Newsletter%20Feb%2025&utm_medium=email
-published: 2026-02-25T00:00:00.000Z
-created: 2026-03-04T00:00:00.000Z
+published: 2026-02-25
+created: 2026-03-04
 tags:
   - fundraising
   - organizacje-społeczne

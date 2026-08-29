@@ -3,8 +3,8 @@ type: Web
 authors: '[[mradmin]]'
 url: >-
   https://www.mrss.com/lab/how-to-engage-podcasts-8-lessons-advocates-can-take-from-zohran-mamdanis-podcast-blitz/?link_id=23&can_id=32cae499f95a9349c734a72403321b9c&source=email-the-time-is-now-99&email_referrer=email_2933842&email_subject=make-every-word-count
-published: 2025-10-09T00:00:00.000Z
-created: 2026-04-05T00:00:00.000Z
+published: 2025-10-09
+created: 2026-04-05
 tags:
   - digital-campaigning
   - content-marketing

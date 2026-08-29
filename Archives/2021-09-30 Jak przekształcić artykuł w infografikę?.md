@@ -2,8 +2,8 @@
 type: Web
 authors: '[[Kamil Śliwowski]]'
 url: 'https://sektor3-0.pl/blog/jak-przeksztalcic-artykul-w-infografike/'
-published: 2021-09-30T00:00:00.000Z
-created: 2026-03-24T00:00:00.000Z
+published: 2021-09-30
+created: 2026-03-24
 tags:
   - content-marketing
   - organizacje-społeczne

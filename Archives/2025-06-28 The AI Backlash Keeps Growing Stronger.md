@@ -3,8 +3,8 @@ type: Web
 authors: '[[Reece Rogers]]'
 url: >-
   https://www.wired.com/story/generative-ai-backlash/?utm_medium=email&_hsenc=p2ANqtz-9-wG8oH1CXdgymEvlDVkSbS1QVHyiDyCmblmxm1-seCEVWfV7k_UP-Dcjv4UlxZTAwi7t-6sHDuW1hXFRu2a85_buDMNkgU8FMNCURzI-gsOkbfr0&_hsmi=114225492&utm_content=114225492&utm_source=hs_email
-published: 2025-06-28T00:00:00.000Z
-created: 2026-03-19T00:00:00.000Z
+published: 2025-06-28
+created: 2026-03-19
 tags:
   - trendy-AI
   - strategia-AI

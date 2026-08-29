@@ -2,8 +2,8 @@
 type: Web
 authors: '[[Madison Barefield]]'
 url: 'https://www.causevox.com/blog/recruit-peer-to-peer-fundraisers-giving-day/'
-published: 2025-08-29T00:00:00.000Z
-created: 2026-04-22T00:00:00.000Z
+published: 2025-08-29
+created: 2026-04-22
 tags:
   - fundraising
   - digital-campaigning

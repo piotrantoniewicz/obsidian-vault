@@ -3,8 +3,8 @@ type: Web
 authors: null
 url: >-
   https://hub.partisan.community/m/news/confessions-from-political-tech-leaders-real-talk-urgent-lessons-and-predictions-for-2026/129aacd9-b262-4760-b429-5685f128b802
-published: 2026-02-02T00:00:00.000Z
-created: 2026-03-26T00:00:00.000Z
+published: 2026-02-02
+created: 2026-03-26
 tags:
   - digital-campaigning
   - strategia-organizacji

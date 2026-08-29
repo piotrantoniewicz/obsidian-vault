@@ -3,8 +3,8 @@ type: Web
 authors: '[[Małgorzata Rodak]]'
 url: >-
   https://sektor3-0.pl/blog/segmentacja-personalizacja-fundraising/?utm_source=newsletter&utm_medium=email&utm_term=2026-03-24&utm_campaign=+Bezp%C5%82atne+appki+biurowe+dla+NGO
-published: 2025-04-03T00:00:00.000Z
-created: 2026-03-24T00:00:00.000Z
+published: 2025-04-03
+created: 2026-03-24
 tags:
   - fundraising
   - digital-campaigning

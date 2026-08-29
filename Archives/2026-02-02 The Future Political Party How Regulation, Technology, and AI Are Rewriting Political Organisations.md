@@ -3,8 +3,8 @@ type: Web
 authors: '2026-02-02'
 url: >-
   https://hub.partisan.community/m/news/the-future-political-party-how-regulation-technology-and-ai-are-rewriting-political-organisations/84f6d38b-f745-4fc8-8054-9edab2616d30
-published: null
-created: 2026-03-26T00:00:00.000Z
+published:
+created: 2026-03-26
 tags:
   - digital-campaigning
   - strategia-AI

@@ -4,8 +4,8 @@ authors:
   - "[[Dr. Astrid Scholz]]"
 url: https://www.linkedin.com/pulse/we-need-dissident-tech-now-dr-astrid-scholz-prhoc/
 source: "[[Archives/2025-04-21 We need dissident tech, now!|2025-04-21 We need dissident tech, now!]]"
-published: 2025-04-21T00:00:00.000Z
-created: 2026-03-19T00:00:00.000Z
+published: 2025-04-21
+created: 2026-03-19
 relevance: wysoka
 tags:
   - organizacje-społeczne

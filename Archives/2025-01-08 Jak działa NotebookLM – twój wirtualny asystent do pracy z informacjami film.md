@@ -3,8 +3,8 @@ type: Web
 authors: '[[ngo.pl]]'
 url: >-
   https://publicystyka.ngo.pl/jak-dziala-notebooklm-twoj-wirtualny-asystent-do-pracy-z-informacjami-film-tau?utm_source=newsletter&utm_medium=email&utm_term=2026-03-24&utm_campaign=+NotebookLM+narz%C4%99dzie+kt%C3%B3re+polubisz+
-published: 2025-01-08T00:00:00.000Z
-created: 2026-03-24T00:00:00.000Z
+published: 2025-01-08
+created: 2026-03-24
 tags:
   - narzędzia-AI
   - strategia-AI

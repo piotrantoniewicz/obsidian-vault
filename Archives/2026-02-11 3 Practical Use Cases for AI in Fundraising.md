@@ -2,8 +2,8 @@
 type: Web
 authors: '[[Madison Barefield]]'
 url: 'https://www.causevox.com/blog/use-cases-for-ai-in-fundraising/'
-published: 2026-02-11T00:00:00.000Z
-created: 2026-04-22T00:00:00.000Z
+published: 2026-02-11
+created: 2026-04-22
 tags:
   - narzędzia-AI
   - fundraising

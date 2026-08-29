@@ -3,8 +3,8 @@ type: Web
 authors: '[[Andreas Welsch]]'
 url: >-
   https://intelligencebriefing.substack.com/p/myth-busting-of-agentic-ai?utm_source=ActiveCampaign&utm_medium=email&utm_content=Jak%20AI%20wp%C5%82ywa%20na%20kompetencje%2C%20strategie%20i%20decyzje%20w%20firmach%3F&utm_campaign=AI%20dla%20firm%20-%20Mail%203
-published: 2025-09-09T00:00:00.000Z
-created: 2026-03-24T00:00:00.000Z
+published: 2025-09-09
+created: 2026-03-24
 tags:
   - strategia-AI
   - szkolenia-AI

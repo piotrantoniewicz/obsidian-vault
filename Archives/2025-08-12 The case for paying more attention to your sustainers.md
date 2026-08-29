@@ -3,8 +3,8 @@ type: Web
 authors: '[[Sara Cederberg]]'
 url: >-
   https://www.civicshoutnewsletter.com/p/the-case-for-paying-more-attention-to-your-sustainers?utm_source=www.civicshoutnewsletter.com&utm_medium=newsletter&utm_campaign=national-park-foundation-s-1m-sweepstakes-retention-lesson&_bhlid=86a628318b1448dceaff050d770cfe413e589802&jwt_token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWJzY3JpYmVyX2lkIjoiMjEzOTgyMjgtYzdjNC00OGRkLTk3OTctZDZkYzMxMmFlMDEwIiwicHVibGljYXRpb25faWQiOiIyOThlOTZjNy1mZGRhLTQyNjQtYjEzYy01ODRjZDY2OWIyYWIiLCJhY2Nlc3NfdHlwZSI6InJlYWQtb25seSIsImV4cCI6MTc3NDExMjQzOSwiaXNzIjoiaHR0cHM6Ly9hcHAuYmVlaGlpdi5jb20iLCJpYXQiOjE3NzM5Mzk2Mzl9.3A-g4YvSD74aNSXQoooYgrOKK_VQNRRz6KAQ1PlIrpI
-published: 2025-08-12T00:00:00.000Z
-created: 2026-04-18T00:00:00.000Z
+published: 2025-08-12
+created: 2026-04-18
 tags:
   - fundraising
   - digital-campaigning

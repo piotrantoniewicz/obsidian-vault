@@ -3,8 +3,8 @@ type: Web
 authors: '[[Sara Cederberg]]'
 url: >-
   https://www.civicshoutnewsletter.com/p/the-pi-day-test-that-drove-390-more-revenue-per-send?utm_source=www.civicshoutnewsletter.com&utm_medium=newsletter&utm_campaign=a-simple-testing-approach-for-overwhelmed-teams&_bhlid=b656bc05c8196c24ce06016be7b81d4be42e48f3
-published: 2025-12-09T00:00:00.000Z
-created: 2026-03-23T00:00:00.000Z
+published: 2025-12-09
+created: 2026-03-23
 tags:
   - fundraising
   - digital-campaigning

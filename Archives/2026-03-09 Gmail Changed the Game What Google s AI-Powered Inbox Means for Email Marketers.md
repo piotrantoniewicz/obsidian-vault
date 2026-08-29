@@ -3,8 +3,8 @@ type: Web
 authors: '[[Carl Bleich]]'
 url: >-
   https://www.bloomreach.com/en/blog/gemini-gmail?utm_source=www.civicshoutnewsletter.com&utm_medium=newsletter&utm_campaign=is-your-we-miss-you-email-making-things-worse&_bhlid=901bb79938120feb3594539da9f028707d563a31
-published: 2026-03-09T00:00:00.000Z
-created: 2026-03-23T00:00:00.000Z
+published: 2026-03-09
+created: 2026-03-23
 tags:
   - narzędzia-AI
   - digital-campaigning

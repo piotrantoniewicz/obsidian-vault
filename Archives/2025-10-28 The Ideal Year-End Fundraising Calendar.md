@@ -2,8 +2,8 @@
 type: Web
 authors: '[[Olivia Hosey]]'
 url: 'https://www.causevox.com/blog/year-end-fundraising-calendar/'
-published: 2025-10-28T00:00:00.000Z
-created: 2026-04-22T00:00:00.000Z
+published: 2025-10-28
+created: 2026-04-22
 tags:
   - fundraising
   - organizacje-społeczne

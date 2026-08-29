@@ -3,8 +3,8 @@ type: Web
 authors: '[[Philippe Bossin]]'
 url: >-
   https://www.centerfordigitalaction.eu/post/go-viral-or-go-home-the-tiktok-strategy-progressives-need?link_id=3&can_id=32cae499f95a9349c734a72403321b9c&source=email-what-are-ads-good-for&email_referrer=email_2763425&email_subject=_-just-in-time-for-spring-cleaning-a-list-refresh&&
-published: 2025-06-16T00:00:00.000Z
-created: 2026-04-05T00:00:00.000Z
+published: 2025-06-16
+created: 2026-04-05
 tags:
   - digital-campaigning
   - content-marketing

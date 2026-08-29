@@ -3,8 +3,8 @@ type: Web
 authors: '[[Dickie Bush]]'
 url: >-
   https://aioperatornewsletter.substack.com/p/full-guide-how-to-create-a-master?utm_source=substack&utm_medium=email
-published: 2026-04-02T00:00:00.000Z
-created: 2026-04-12T00:00:00.000Z
+published: 2026-04-02
+created: 2026-04-12
 tags:
   - context-engineering
   - narzędzia-AI

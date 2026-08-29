@@ -2,8 +2,8 @@
 type: Web
 authors: "[[Mike Bird]]"
 url: https://www.engagingnetworks.net/blog/what-kind-of-team-is-your-nonprofit-technology-stack/?utm_campaign=136965333-The%20Engager%20%7C%20Engaging%20Networks%20Monthly%20Newsletter&utm_medium=email&_hsenc=p2ANqtz--wurTyo7o6UksTLleFpQlL2JcOQBqxqMheskfS3aw8B4x9izIuIO1-3yuWFfkqAJWTBDJimeh6jEveSHO7be_sZO-nYg0pcSbShWAQD_oYQULQCmg&_hsmi=128456009&utm_content=128456235&utm_source=hs_email
-published: 2025-09-25T00:00:00.000Z
-created: 2026-03-02T00:00:00.000Z
+published: 2025-09-25
+created: 2026-03-02
 tags:
   - organizacje-społeczne
   - automatyzacja

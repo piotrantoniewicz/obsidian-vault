@@ -2,8 +2,8 @@
 type: Web
 authors: '[[Anthropic]]'
 url: 'https://claude.com/solutions/nonprofits'
-published: null
-created: 2026-04-06T00:00:00.000Z
+published:
+created: 2026-04-06
 tags:
   - narzędzia-AI
   - organizacje-społeczne

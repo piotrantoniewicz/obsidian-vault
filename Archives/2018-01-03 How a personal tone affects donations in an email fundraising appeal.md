@@ -3,8 +3,8 @@ type: Web
 authors: '[[Jeff Giddens]]'
 url: >-
   https://www.nextafter.com/experiments/how-a-personal-tone-affects-donations-in-an-email-fundraising-appeal/?utm_source=www.civicshoutnewsletter.com&utm_medium=newsletter&utm_campaign=what-the-fastest-moving-orgs-do-before-the-crisis-hits&_bhlid=e16bb2a07836959ffc5ad4f3db9b282181f9f3fa
-published: 2018-01-03T00:00:00.000Z
-created: 2026-03-22T00:00:00.000Z
+published: 2018-01-03
+created: 2026-03-22
 tags:
   - fundraising
   - digital-campaigning

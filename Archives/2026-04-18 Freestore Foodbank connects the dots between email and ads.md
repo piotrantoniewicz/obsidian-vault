@@ -3,8 +3,8 @@ type: Web
 authors: '[[Feathr]]'
 url: >-
   https://www.feathr.co/resources/case-studies/freestore-foodbank-connects-the-dots-between-email-and-ads?utm_term=case-study-freestore-foodbank&utm_campaign=case-study-freestore-foodbank-04032025&utm_medium=marketing_email&_hsenc=p2ANqtz-9R2IPJA4C9ToNYnmcQmqn1LPkG4NWZwCgThigcZ0-PQfjwsafg8ZxpQPilHvhTyk3jPVreek-NgQcsdCAhPoKXctxX_Z7ERH0u7C-hsxZE535wY5w&_hsmi=365953700&utm_content=%5BCase%20Study%5D%20Freestore%20-%20Promo%201%20-%20Auto%20send&utm_source=case_study_email
-published: null
-created: 2026-04-18T00:00:00.000Z
+published:
+created: 2026-04-18
 tags:
   - fundraising
   - automatyzacja

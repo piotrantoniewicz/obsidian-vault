@@ -3,8 +3,8 @@ type: Web
 authors: ["[[Daniel Calingaert]]", "[[Vukasin Petrovic]]"]
 url: >-
   https://www.techpolicy.press/ai-for-activism/?link_id=18&can_id=32cae499f95a9349c734a72403321b9c&source=email-pre-order-the-new-edition-of-digital-progressive-magazine-more-3&email_referrer=email_2536109&email_subject=dissent-smarter-engage-deeper-fundraise-better
-published: 2024-10-14T00:00:00.000Z
-created: 2026-04-05T00:00:00.000Z
+published: 2024-10-14
+created: 2026-04-05
 tags:
   - strategia-AI
   - narzędzia-AI

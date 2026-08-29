@@ -3,8 +3,8 @@ type: Web
 authors: '[[Tectonica Digital Campaign Solutions]]'
 url: >-
   https://www.tectonica.co/works/the-center-for-humane-technology-s-new-website?utm_medium=email&_hsenc=p2ANqtz-8HFwpUg7u9mMWCl3gKkg6daXhPc--h1QwkWlF35e9syBKpGXhOgEuKY5O6oOmE4VCvNFskt_-xdAtIaSJioHUL13Pzbo6zVvtaJDzixlpD9DS0mvg&_hsmi=124279693&utm_content=124279693&utm_source=hs_email
-published: null
-created: 2026-03-20T00:00:00.000Z
+published:
+created: 2026-03-20
 tags:
   - digital-campaigning
   - organizacje-społeczne

@@ -3,7 +3,7 @@ type: Web
 authors: "[[Tim Forbes]]"
 url: https://www.soapboxengage.com/blog/1772-donation-page-conversion-rate?utm_source=www.civicshoutnewsletter.com&utm_medium=newsletter&utm_campaign=four-donation-page-mistakes-you-can-fix-today&_bhlid=e0e0927f77de6a42b312bd6d11f3546f0fdeacf7
 published: 2019-04-04
-created: 2026-03-04T00:00:00.000Z
+created: 2026-03-04
 tags:
   - fundraising
   - digital-campaigning

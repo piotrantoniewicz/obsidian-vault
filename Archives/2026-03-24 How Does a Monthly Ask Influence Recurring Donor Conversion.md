@@ -3,8 +3,8 @@ type: Web
 authors: '[[NextAfter]]'
 url: >-
   https://www.nextafter.com/experiments/how-does-a-monthly-gift-ask-impact-recurring-donor-conversion/
-published: 2026-03-24T00:00:00.000Z
-created: 2026-05-11T00:00:00.000Z
+published: 2026-03-24
+created: 2026-05-11
 tags:
   - fundraising
   - digital-campaigning

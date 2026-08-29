@@ -3,8 +3,8 @@ type: Web
 authors: '[[Aga Kozak]]'
 url: >-
   https://sektor3-0.pl/blog/poza-feedem-jak-mikrospolecznosci-i-newslettery-zmieniaja-sposob-bycia-w-internecie/
-published: 2026-03-19T00:00:00.000Z
-created: 2026-03-24T00:00:00.000Z
+published: 2026-03-19
+created: 2026-03-24
 tags:
   - digital-campaigning
   - content-marketing

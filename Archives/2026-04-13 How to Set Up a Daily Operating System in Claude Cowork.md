@@ -3,8 +3,8 @@ type: Web
 authors: '[[ChatPRD]]'
 url: >-
   https://www.chatprd.ai/how-i-ai/workflows/how-to-set-up-a-daily-operating-system-in-claude-cowork
-published: 2026-04-13T00:00:00.000Z
-created: 2026-04-13T00:00:00.000Z
+published: 2026-04-13
+created: 2026-04-13
 tags:
   - strategia-AI
   - narzędzia-AI

@@ -3,8 +3,8 @@ type: Web
 authors: '[[Abby Jarvis]]'
 url: >-
   https://www.nptechforgood.com/2026/04/28/new-research-reveals-what-motivates-recurring-donors/
-published: 2026-04-28T00:00:00.000Z
-created: 2026-05-11T00:00:00.000Z
+published: 2026-04-28
+created: 2026-05-11
 tags:
   - fundraising
   - organizacje-społeczne

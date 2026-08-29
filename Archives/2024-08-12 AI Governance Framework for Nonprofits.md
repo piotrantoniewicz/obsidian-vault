@@ -3,8 +3,8 @@ type: Web
 authors: '[[Kim_Brooks_MSP]]'
 url: >-
   https://techcommunity.microsoft.com/blog/nonprofittechies/introducing-an-ai-governance-framework-for-nonprofits/4217132
-published: 12.08.2024
-created: 2026-03-25T00:00:00.000Z
+published: 2024-08-12
+created: 2026-03-25
 tags:
   - strategia-AI
   - organizacje-społeczne

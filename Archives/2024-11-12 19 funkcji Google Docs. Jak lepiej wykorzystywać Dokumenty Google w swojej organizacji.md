@@ -3,8 +3,8 @@ type: Web
 authors: '[[Filip Jędruch]]'
 url: >-
   https://sektor3-0.pl/blog/google-docs-jak-lepiej-wykorzystywac-dokumenty-google-w-ngo/?utm_source=newsletter&utm_medium=email&utm_term=2026-03-24&utm_campaign=Czy+potrzebujesz+asystenta+
-published: 2024-11-12T00:00:00.000Z
-created: 2026-03-24T00:00:00.000Z
+published: 2024-11-12
+created: 2026-03-24
 tags:
   - organizacje-społeczne
   - produkty-cyfrowe

@@ -4,7 +4,7 @@ authors: "[[Gayle Roberts]]"
 url: >-
   https://www.linkedin.com/pulse/two-openai-moves-nonprofit-leaders-cant-ignore-your-roberts-cfrm-eyiyc/
 published: '2025-08-06'
-created: 2026-03-19T00:00:00.000Z
+created: 2026-03-19
 tags:
   - narzędzia-AI
   - strategia-AI

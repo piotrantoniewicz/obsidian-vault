@@ -2,8 +2,8 @@
 type: Web
 authors: '[[Pawel Lipowczan]]'
 url: 'https://pawel.lipowczan.pl/blog/llm-knowledge-base-brain-karpathy'
-published: 2026-04-12T00:00:00.000Z
-created: 2026-06-17T00:00:00.000Z
+published: 2026-04-12
+created: 2026-06-17
 tags:
   - narzędzia-AI
   - strategia-AI

@@ -4,8 +4,8 @@ authors:
   - "[[Dan Reed]]"
   - "[[CFRE]]"
 url: https://mediacause.com/testing-for-impact-building-a-culture-of-digital-experimentation-at-your-nonprofit/?utm_source=www.civicshoutnewsletter.com&utm_medium=newsletter&utm_campaign=what-email-marketers-should-know-about-donor-advised-funds&_bhlid=c8331240af7a80062a266ff0ac6986255cce71e0
-published: 2025-09-02T00:00:00.000Z
-created: 2026-03-04T00:00:00.000Z
+published: 2025-09-02
+created: 2026-03-04
 tags:
   - fundraising
   - digital-campaigning

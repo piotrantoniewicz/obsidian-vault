@@ -2,8 +2,8 @@
 type: Web
 authors: '[[Who Targets Me]]'
 url: 'https://fulldisclosure.whotargets.me/p/how-and-why-to-fix-political-ads'
-published: 2025-08-01T00:00:00.000Z
-created: 2026-03-26T00:00:00.000Z
+published: 2025-08-01
+created: 2026-03-26
 tags:
   - digital-campaigning
   - organizacje-społeczne

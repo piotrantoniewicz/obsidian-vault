@@ -3,8 +3,8 @@ type: Web
 authors: '[[Gia Chow]]'
 url: >-
   https://www.causevox.com/blog/how-to-grow-your-monthly-giving-program/?vgo_ee=wzSOXnfyIXv%2FLG4hIMAqycLJlMglmdLaX78DSrV4YxX%2BcVrO2hOmmtqI4w%3D%3D%3AflcMD4YYfxWJy%2BTpMif2l9Z2g9zDtzhz
-published: 2022-07-01T00:00:00.000Z
-created: 2026-04-05T00:00:00.000Z
+published: 2022-07-01
+created: 2026-04-05
 tags:
   - fundraising
   - digital-campaigning

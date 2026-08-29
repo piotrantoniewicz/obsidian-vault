@@ -3,8 +3,8 @@ type: Web
 authors: null
 url: >-
   https://www.communications.gov.uk/guidance/marketing/delivering-government-campaigns/guide-to-campaign-planning-oasis/
-published: 2020-03-13T00:00:00.000Z
-created: 2026-03-25T00:00:00.000Z
+published: 2020-03-13
+created: 2026-03-25
 tags:
   - digital-campaigning
   - strategia-organizacji

@@ -4,7 +4,7 @@ authors: "[[Gayle Roberts]]"
 url: >-
   https://www.linkedin.com/pulse/beyond-prompts-how-context-engineering-could-your-ai-roberts-cfrm-fxozc/
 published: '2025-07-28'
-created: 2026-03-19T00:00:00.000Z
+created: 2026-03-19
 tags:
   - context-engineering
   - automatyzacja

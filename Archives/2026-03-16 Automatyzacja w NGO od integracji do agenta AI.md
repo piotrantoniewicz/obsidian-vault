@@ -3,8 +3,8 @@ type: Web
 authors: '[[Sektor 3.0]]'
 url: >-
   https://sektor3-0.pl/aktualnosci/automatyzacja-w-ngo-od-integracji-do-agenta-ai/
-published: 2026-03-16T00:00:00.000Z
-created: 2026-03-24T00:00:00.000Z
+published: 2026-03-16
+created: 2026-03-24
 tags:
   - automatyzacja
   - narzędzia-AI

@@ -2,8 +2,8 @@
 type: Web
 authors: "[[Rob Flaherty]]"
 url: https://www.politico.com/news/magazine/2025/08/08/sydney-sweeney-republicans-win-media-ecosystem-00497761?utm_campaign=Do+Something+Anything+The+Flags+Flags+Flags+edition+&utm_medium=email&utm_source=newsletter&utm_term=Mon+02+Mar+2026
-published: 2025-08-08T00:00:00.000Z
-created: 2026-03-02T00:00:00.000Z
+published: 2025-08-08
+created: 2026-03-02
 tags:
   - digital-campaigning
   - framing

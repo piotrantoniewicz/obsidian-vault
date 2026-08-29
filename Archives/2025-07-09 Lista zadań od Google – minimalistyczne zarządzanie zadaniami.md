@@ -3,8 +3,8 @@ type: Web
 authors: '[[ngo.pl]]'
 url: >-
   https://publicystyka.ngo.pl/lista-zadan-od-google-minimalistyczne-zarzadzanie-zadaniami-tau?utm_source=newsletter&utm_medium=email&utm_term=2026-03-24&utm_campaign=+Automatyzacja+w+NGO+krok+po+kroku
-published: 2025-07-09T00:00:00.000Z
-created: 2026-03-24T00:00:00.000Z
+published: 2025-07-09
+created: 2026-03-24
 tags:
   - narzędzia-AI
   - automatyzacja

@@ -3,8 +3,8 @@ type: Web
 authors: '[[Gia Chow]]'
 url: >-
   https://www.causevox.com/blog/6-ways-to-grow-your-monthly-giving-program/?vgo_ee=URcwkEpCrgwsBSTwaS%2BJuAVIZfU88a2KMpwyV6kwDxxPtJzc0no2lf9iQA%3D%3D%3AuTmIqXZROzzB1YBhSViVJeO0%2FOKbzZim
-published: 2025-04-18T00:00:00.000Z
-created: 2026-04-11T00:00:00.000Z
+published: 2025-04-18
+created: 2026-04-11
 tags:
   - fundraising
   - organizacje-społeczne

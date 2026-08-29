@@ -3,8 +3,8 @@ type: Web
 authors: '[[Debevoise]]'
 url: >-
   https://www.debevoise.com/insights/publications/2025/09/why-businesses-are-accelerating-ai-adoption-and?utm_source=ActiveCampaign&utm_medium=email&utm_content=Co%20dzi%C5%9B%20naprawd%C4%99%20dzia%C5%82a%20w%20AI%3F%20Najwa%C5%BCniejsze%20wnioski%20dla%20firm&utm_campaign=AI%20dla%20firm%20-%20Mail%202
-published: 2025-09-08T00:00:00.000Z
-created: 2026-03-24T00:00:00.000Z
+published: 2025-09-08
+created: 2026-03-24
 tags:
   - strategia-AI
   - szkolenia-AI

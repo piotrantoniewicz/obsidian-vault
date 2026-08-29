@@ -3,8 +3,8 @@ type: Web
 authors: ["[[Lee McCance]]", "[[Lily Johnson]]", "[[Tom Rennell]]"]
 url: >-
   https://www.adverity.com/state-of-play-research-data-quality-2025?utm_campaign=193069269-Capture_Enterprise_2025&utm_source=email&utm_medium=AI%20Break&utm_content=AI%20Break%203
-published: 2025-09-01T00:00:00.000Z
-created: 2026-03-28T00:00:00.000Z
+published: 2025-09-01
+created: 2026-03-28
 tags:
   - automatyzacja
   - narzędzia-AI

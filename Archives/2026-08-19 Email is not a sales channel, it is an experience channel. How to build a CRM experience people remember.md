@@ -3,8 +3,8 @@ type: Web
 authors: '[[Beth O''Malley]]'
 url: >-
   https://weareastral.co.uk/thevault/email-is-not-a-sales-channel-it-is-an-experience-channel.-how-to-build-a-crm-experience-people-remember?utm_medium=email&_hsenc=p2ANqtz-8jNlNT7ds1VIvVq603zcBaOy8civkrg6f75AE8wvHNfwml587smopvAF1e30H8ayX08zKjuspFk29GjMD4l4adHWvDLf1ZMsg2NMHvZJVQBhL2AH4&_hsmi=143645329&utm_content=143639175&utm_source=hs_email
-published: 2026-08-19T00:00:00.000Z
-created: 2026-08-25T00:00:00.000Z
+published: 2026-08-19
+created: 2026-08-25
 tags:
   - fundraising
   - content-marketing

@@ -2,8 +2,8 @@
 type: Web
 authors: "[[Venn Creative]]"
 url: https://climateoutreach.org/how-should-we-be-reporting-climate-target-setbacks/
-published: 2024-12-16T00:00:00.000Z
-created: 2026-03-02T00:00:00.000Z
+published: 2024-12-16
+created: 2026-03-02
 tags:
   - framing
   - content-marketing

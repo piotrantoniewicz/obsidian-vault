@@ -2,8 +2,8 @@
 type: Web
 authors: '[[John Hall]]'
 url: 'https://medium.com/@john_13136/the-nigerian-prince-problem-02abee5e25ee'
-published: 2026-01-08T00:00:00.000Z
-created: 2026-03-22T00:00:00.000Z
+published: 2026-01-08
+created: 2026-03-22
 tags:
   - fundraising
   - digital-campaigning

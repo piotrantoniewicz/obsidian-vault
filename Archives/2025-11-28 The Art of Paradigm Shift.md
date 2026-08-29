@@ -2,8 +2,8 @@
 type: Web
 authors: "[[Bert Wander]]"
 url: https://bertwander.substack.com/p/the-art-of-paradigm-shift?utm_source=newsletter&utm_medium=email&utm_term=Mon%2B02%2BMar%2B2026&utm_campaign=Do%2BSomething%2BAnything%2BThe%2BHope%2BDissent%2BOrganic%2BSocial%2Bedition
-published: 2025-11-28T00:00:00.000Z
-created: 2026-03-02T00:00:00.000Z
+published: 2025-11-28
+created: 2026-03-02
 tags:
   - framing
   - organizacje-społeczne

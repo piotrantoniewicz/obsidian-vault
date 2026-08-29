@@ -3,8 +3,8 @@ type: Web
 authors: '[[maxgreenwood]]'
 url: >-
   https://campaignsandelections.com/industry-news/digital-pros-weigh-ai-advertising/
-published: 2025-06-13T00:00:00.000Z
-created: 2026-03-25T00:00:00.000Z
+published: 2025-06-13
+created: 2026-03-25
 tags:
   - digital-campaigning
   - trendy-AI

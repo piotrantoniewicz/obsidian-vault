@@ -3,8 +3,8 @@ type: Web
 authors: '[[Ben Davis]]'
 url: >-
   https://econsultancy.com/how-to-plan-your-digital-strategy-with-the-prosper-framework/
-published: 2017-02-09T00:00:00.000Z
-created: 2026-03-25T00:00:00.000Z
+published: 2017-02-09
+created: 2026-03-25
 tags:
   - strategia-organizacji
   - digital-campaigning

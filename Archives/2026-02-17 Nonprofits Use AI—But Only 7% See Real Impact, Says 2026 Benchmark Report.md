@@ -2,8 +2,8 @@
 type: Web
 authors: "[[MarTech Edge]]"
 url: https://martechedge.com/news/nonprofits-use-aibut-only-7-see-real-impact-says-2026-benchmark-report
-published: 2026-02-17T00:00:00.000Z
-created: 2026-03-02T00:00:00.000Z
+published: 2026-02-17
+created: 2026-03-02
 tags:
   - strategia-AI
   - organizacje-społeczne

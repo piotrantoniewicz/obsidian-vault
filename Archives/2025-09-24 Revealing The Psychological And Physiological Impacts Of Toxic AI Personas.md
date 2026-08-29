@@ -3,8 +3,8 @@ type: Web
 authors: '[[Lance Eliot]]'
 url: >-
   https://www.forbes.com/sites/lanceeliot/2025/09/24/revealing-the-psychological-and-physiological-impacts-of-toxic-ai-personas/?utm_source=ActiveCampaign&utm_medium=email&utm_content=Chaos%20w%20danych%2C%20porz%C4%85dek%20w%20prawie%20i%20rewolucja%20w%20kalendarzu&utm_campaign=Listopadowy%20update
-published: 2025-09-24T00:00:00.000Z
-created: 2026-03-24T00:00:00.000Z
+published: 2025-09-24
+created: 2026-03-24
 tags:
   - strategia-AI
   - szkolenia-AI

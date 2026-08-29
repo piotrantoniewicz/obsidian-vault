@@ -3,8 +3,8 @@ type: Web
 authors: '[[Emailexpert Editorial Team]]'
 url: >-
   https://emailexpert.com/consumer-reactions-to-email-logos-bimi/?utm_source=www.civicshoutnewsletter.com&utm_medium=newsletter&utm_campaign=bimi-why-your-logo-belongs-in-the-inbox&_bhlid=2703a47961d8ecfb1d31d4a872675af4473535b2
-published: 2021-07-21T00:00:00.000Z
-created: 2026-03-23T00:00:00.000Z
+published: 2021-07-21
+created: 2026-03-23
 tags:
   - digital-campaigning
   - content-marketing

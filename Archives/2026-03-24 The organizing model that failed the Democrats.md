@@ -2,8 +2,8 @@
 type: Web
 authors: '[[Kyle Tharp]]'
 url: 'https://www.chaoticera.news/p/the-organizing-model-that-failed-the-democrats'
-published: 2026-03-24T00:00:00.000Z
-created: 2026-03-28T00:00:00.000Z
+published: 2026-03-24
+created: 2026-03-28
 tags:
   - digital-campaigning
   - strategia-organizacji

@@ -3,8 +3,8 @@ type: Web
 authors: '[[Alejandra Caraballo]]'
 url: >-
   https://www.thedissident.news/international-civil-societys-tech-stack-is-in-extreme-danger/?utm_medium=email&_hsenc=p2ANqtz-9mPydE8v0HeSgtoezaQK8bXvSKQ3d60jfAE55WaHZywdYW-yI8aXzWmPDM3-nJ4qzqUWc2ZbcRUWdXNhTNWndTU0qWXE_hqipx4BkNtmmaGKCZy58&_hsmi=110762810&utm_content=110762810&utm_source=hs_email
-published: 2025-05-19T00:00:00.000Z
-created: 2026-03-19T00:00:00.000Z
+published: 2025-05-19
+created: 2026-03-19
 tags:
   - strategia-organizacji
   - narzędzia-AI

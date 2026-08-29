@@ -3,8 +3,8 @@ type: Web
 authors: '[[Create a chart]]'
 url: >-
   https://democracy-reporting.org/en/office/subsaharan_africa/publications/bots-dont-get-it-ai-disinformation-in-senegals-elections
-published: 29.05.2025
-created: 2026-03-25T00:00:00.000Z
+published: 2025-05-29
+created: 2026-03-25
 tags:
   - digital-campaigning
   - LLM

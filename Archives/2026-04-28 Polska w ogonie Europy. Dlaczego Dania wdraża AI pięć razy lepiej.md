@@ -2,8 +2,8 @@
 type: Web
 authors: '[[Krzysztof Mirończuk]]'
 url: 'https://haimagazine.com/pl/ai_branza/biznes/polska-w-ogonie-europy/'
-published: 2026-04-28T00:00:00.000Z
-created: 2026-05-08T00:00:00.000Z
+published: 2026-04-28
+created: 2026-05-08
 tags:
   - strategia-AI
   - szkolenia-AI

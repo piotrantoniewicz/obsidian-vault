@@ -3,8 +3,8 @@ type: Web
 authors: '[[Engaging Networks]]'
 url: >-
   https://www.engagingnetworks.net/blog/childrens-wisconsin-day-of-giving-campaign/?utm_campaign=136965333-The%20Engager%20%7C%20Engaging%20Networks%20Monthly%20Newsletter&utm_medium=email&_hsenc=p2ANqtz-_UbeaZy5v_mjFYNB-FV7yX99ed9eDInK7YOMFmmq6QGhVw7WIP3naiCneAsxntNCZUOMC-k49a5VYBKUNjXyDDFfiSUOUm-_5tT5tk-N8NpIM7iok&_hsmi=131435506&utm_content=131435361&utm_source=hs_email
-published: 2026-03-06T00:00:00.000Z
-created: 2026-04-18T00:00:00.000Z
+published: 2026-03-06
+created: 2026-04-18
 tags:
   - fundraising
   - digital-campaigning

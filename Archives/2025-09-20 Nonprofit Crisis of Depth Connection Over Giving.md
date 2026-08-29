@@ -2,8 +2,8 @@
 type: Web
 authors: "[[Tasha Van Vlack]]"
 url: https://thenonprofithive.com/nonprofit-crisis-of-depth/?utm_source=brevo&utm_campaign=Newsletter%20October%208&utm_medium=email
-published: 2025-09-20T00:00:00.000Z
-created: 2026-03-04T00:00:00.000Z
+published: 2025-09-20
+created: 2026-03-04
 tags:
   - fundraising
   - organizacje-społeczne

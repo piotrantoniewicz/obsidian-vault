@@ -2,8 +2,8 @@
 type: Web
 authors: '[[Nasser Eledroos]]'
 url: 'https://www.techpolicy.press/progress-shouldnt-poison-black-communities/'
-published: 2025-06-25T00:00:00.000Z
-created: 2026-03-25T00:00:00.000Z
+published: 2025-06-25
+created: 2026-03-25
 tags:
   - trendy-AI
   - organizacje-społeczne

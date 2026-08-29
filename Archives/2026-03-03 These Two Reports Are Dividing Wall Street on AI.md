@@ -3,8 +3,8 @@ type: Web
 authors: '[[Allie K Miller]]'
 url: >-
   https://aiwithallie.beehiiv.com/p/the-ai-job-threat-what-to-know-and-do?utm_source=aiwithallie.beehiiv.com&utm_medium=newsletter&utm_campaign=the-ai-job-threat-what-to-know-and-what-to-do-right-now&_bhlid=938182448bcc09cb7571317ccd257764ef0fc4b0&jwt_token=
-published: 2026-03-03T00:00:00.000Z
-created: 2026-04-06T00:00:00.000Z
+published: 2026-03-03
+created: 2026-04-06
 tags:
   - trendy-AI
   - strategia-AI

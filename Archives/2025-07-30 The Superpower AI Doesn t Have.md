@@ -3,7 +3,7 @@ type: Web
 authors: "[[David Jay]]"
 url: https://www.linkedin.com/pulse/superpower-ai-doesnt-have-david-jay-g17uc/
 published: 2025-07-30
-created: 2026-03-19T00:00:00.000Z
+created: 2026-03-19
 tags:
   - strategia-AI
   - framing

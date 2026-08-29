@@ -3,8 +3,8 @@ type: Web
 authors: '[[Zoe Clarke]]'
 url: >-
   https://mwdagency.com/blog/gmail-changes-impact-open-rates?utm_source=www.civicshoutnewsletter.com&utm_medium=newsletter&utm_campaign=what-happened-when-irc-branded-its-giving-tiers&_bhlid=e90a1ecb10fc026c5140a7b51dbaf00b4677bbb6
-published: 2026-05-21T00:00:00.000Z
-created: 2026-05-29T00:00:00.000Z
+published: 2026-05-21
+created: 2026-05-29
 tags:
   - digital-campaigning
   - fundraising

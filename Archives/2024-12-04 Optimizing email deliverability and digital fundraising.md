@@ -3,8 +3,8 @@ type: Web
 authors: '[[RKD Group]]'
 url: >-
   https://rkdgroup.com/result/optimizing-email-deliverability-and-digital-fundraising/?utm_source=www.civicshoutnewsletter.com&utm_medium=newsletter&utm_campaign=is-a-shared-ip-secretly-harming-your-deliverability&_bhlid=a5d4db2ef3e86b7bc4c815adcc2794220a143729
-published: 2024-12-04T00:00:00.000Z
-created: 2026-04-21T00:00:00.000Z
+published: 2024-12-04
+created: 2026-04-21
 tags:
   - fundraising
   - digital-campaigning

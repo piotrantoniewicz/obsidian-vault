@@ -3,8 +3,8 @@ type: Web
 authors: '[[Viktor Mak]]'
 url: >-
   https://www.centerfordigitalaction.eu/post/algorithmic-authoritarianism?link_id=8&can_id=32cae499f95a9349c734a72403321b9c&source=email-take-risks-be-brave-and-be-bold-2&email_referrer=email_3100944&email_subject=ditch-the-therapy-speak-start-winning-and-raising-money&&
-published: 2026-02-17T00:00:00.000Z
-created: 2026-04-06T00:00:00.000Z
+published: 2026-02-17
+created: 2026-04-06
 tags:
   - digital-campaigning
   - framing

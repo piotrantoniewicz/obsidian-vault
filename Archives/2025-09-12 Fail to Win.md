@@ -2,8 +2,8 @@
 type: Web
 authors: "[[Work In Process | Garima Verma]]"
 url: https://www.fwiw.news/p/fail-to-win?open=false#%C2%A7what-the-right-got-right
-published: 2025-09-12T00:00:00.000Z
-created: 2026-03-02T00:00:00.000Z
+published: 2025-09-12
+created: 2026-03-02
 tags:
   - digital-campaigning
   - framing

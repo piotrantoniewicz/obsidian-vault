@@ -3,8 +3,8 @@ type: Web
 authors: '[[ngo.pl]]'
 url: >-
   https://publicystyka.ngo.pl/formularz-odporny-na-bledy-wypelniajacych-poznaj-wyrazenia-regularne-regex-w-google-forms-tau?utm_source=newsletter&utm_medium=email&utm_term=2026-03-24&utm_campaign=Koniec+z+b%C5%82%C4%99dami+w+formularzach+
-published: 2025-08-20T00:00:00.000Z
-created: 2026-03-24T00:00:00.000Z
+published: 2025-08-20
+created: 2026-03-24
 tags:
   - automatyzacja
   - narzędzia-AI

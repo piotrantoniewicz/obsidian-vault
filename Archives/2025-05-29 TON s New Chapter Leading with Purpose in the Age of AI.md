@@ -2,8 +2,8 @@
 type: Web
 authors: "[[Tectonica Digital Campaign Solutions]]"
 url: https://www.tectonica.co/posts/leading-with-purpose-in-the-age-of-ai?utm_medium=email&_hsenc=p2ANqtz--MxoFKw4QkwjxsiuaKiQaPJLn5afZ4o7BUyXqg98rChsinTcIQ9nObXo30H4re-KgfF7H_T5YUE0JSo-QvZYPt8up0XGqcgrF5L_qKb38LiTvoOT0&_hsmi=110762810&utm_content=110762810&utm_source=hs_email
-published: 2025-05-29T00:00:00.000Z
-created: 2026-03-19T00:00:00.000Z
+published: 2025-05-29
+created: 2026-03-19
 tags:
   - strategia-AI
   - organizacje-społeczne

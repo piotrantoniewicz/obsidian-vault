@@ -2,8 +2,8 @@
 type: Web
 authors: "[[Lori Gatmaitan]]"
 url: https://www.linkedin.com/pulse/why-most-nonprofits-arent-using-ai-yet-lori-gatmaitan-xjync/
-published: 2026-02-20T00:00:00.000Z
-created: 2026-03-20T00:00:00.000Z
+published: 2026-02-20
+created: 2026-03-20
 tags:
   - strategia-AI
   - organizacje-społeczne

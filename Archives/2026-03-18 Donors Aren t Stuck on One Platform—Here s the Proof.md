@@ -3,8 +3,8 @@ type: Web
 authors: null
 url: >-
   https://home.goodchange.app/post/donors-arent-stuck-on-one-platform-heres-the-proof?utm_source=www.civicshoutnewsletter.com&utm_medium=newsletter&utm_campaign=how-one-campaign-turned-a-simple-fee-cover-option-into-a-3k-gain&_bhlid=d7236cbdc2a924a450b718097a2e79b223288a3e
-published: null
-created: 2026-03-18T00:00:00.000Z
+published:
+created: 2026-03-18
 tags:
   - fundraising
   - digital-campaigning

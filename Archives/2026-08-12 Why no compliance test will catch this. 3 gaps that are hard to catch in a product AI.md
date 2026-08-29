@@ -3,8 +3,8 @@ type: Web
 authors: '[[Kasia Szczesna]]'
 url: >-
   https://behavioralinsight.substack.com/p/why-no-compliance-test-will-catch?utm_source=substack%2Csubstack&utm_medium=email%2Cemail&utm_campaign=email-restack-comment&r=4zdnrk&triedRedirect=true
-published: 2026-08-12T00:00:00.000Z
-created: 2026-08-13T00:00:00.000Z
+published: 2026-08-12
+created: 2026-08-13
 tags:
   - strategia-AI
   - produkty-cyfrowe

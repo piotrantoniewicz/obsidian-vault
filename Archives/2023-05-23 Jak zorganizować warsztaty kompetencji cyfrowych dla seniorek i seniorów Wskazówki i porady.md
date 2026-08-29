@@ -3,8 +3,8 @@ type: Web
 authors: '[[Anna Wróblewska-Zawadzka]]'
 url: >-
   https://sektor3-0.pl/blog/jak-zorganizowac-warsztaty-cyfrowe-dla-seniorow-i-seniorek-wskazowki-i-porady/
-published: 2023-05-23T00:00:00.000Z
-created: 2026-03-24T00:00:00.000Z
+published: 2023-05-23
+created: 2026-03-24
 tags:
   - organizacje-społeczne
   - strategia-organizacji

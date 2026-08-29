@@ -3,7 +3,7 @@ type: Web
 authors: "[[Rev. Tracy Kronzak]]"
 url: https://www.linkedin.com/pulse/ai-good-part-2-rev-tracy-kronzak-mpa--va6uc/
 published: 2025-08-02
-created: 2026-03-19T00:00:00.000Z
+created: 2026-03-19
 tags:
   - strategia-AI
   - trendy-AI

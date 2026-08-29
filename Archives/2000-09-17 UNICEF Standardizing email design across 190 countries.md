@@ -3,8 +3,8 @@ type: Web
 authors: '[[Beefree]]'
 url: >-
   https://beefree.io/customer-stories/unicef?utm_source=www.civicshoutnewsletter.com&utm_medium=newsletter&utm_campaign=steal-unicef-s-strategy-for-scaling-email-templates&_bhlid=66d8019f92a1593d41aecd2067dbd15bd835a382
-published: 2000-09-17T00:00:00.000Z
-created: 2026-03-20T00:00:00.000Z
+published: 2000-09-17
+created: 2026-03-20
 tags:
   - digital-campaigning
   - fundraising

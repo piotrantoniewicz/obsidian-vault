@@ -2,8 +2,8 @@
 type: Web
 authors: '[[Ethan Mollick]]'
 url: 'https://www.oneusefulthing.org/p/a-guide-to-which-ai-to-use-in-the'
-published: 2026-02-18T00:00:00.000Z
-created: 2026-04-19T00:00:00.000Z
+published: 2026-02-18
+created: 2026-04-19
 tags:
   - strategia-AI
   - narzędzia-AI

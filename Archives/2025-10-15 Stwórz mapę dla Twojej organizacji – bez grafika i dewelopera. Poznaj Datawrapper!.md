@@ -3,8 +3,8 @@ type: Web
 authors: '[[ngo.pl]]'
 url: >-
   https://publicystyka.ngo.pl/stworz-mape-dla-twojej-organizacji-bez-grafika-i-dewelopera-poznaj-datawrapper-tau?utm_source=newsletter&utm_medium=email&utm_term=2026-03-24&utm_campaign=+Automatyzacja+w+NGO+krok+po+kroku
-published: 2025-10-15T00:00:00.000Z
-created: 2026-03-24T00:00:00.000Z
+published: 2025-10-15
+created: 2026-03-24
 tags:
   - narzędzia-AI
   - organizacje-społeczne

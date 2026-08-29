@@ -3,8 +3,8 @@ type: Web
 authors: '[[Alice Taylor]]'
 url: >-
   https://www.politico.eu/article/albania-use-ai-artificial-intelligenve-join-eu-corruption/
-published: 2025-08-14T00:00:00.000Z
-created: 2026-03-26T00:00:00.000Z
+published: 2025-08-14
+created: 2026-03-26
 tags:
   - strategia-AI
   - trendy-AI

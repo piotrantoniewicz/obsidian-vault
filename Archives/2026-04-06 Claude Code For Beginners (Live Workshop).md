@@ -2,8 +2,8 @@
 type: Web
 authors: '[[The Sousa Brothers]]'
 url: 'https://www.youtube.com/watch?v=-RKKsDlbIt0'
-published: 2026-04-06T00:00:00.000Z
-created: 2026-04-24T00:00:00.000Z
+published: 2026-04-06
+created: 2026-04-24
 tags:
   - narzędzia-AI
   - automatyzacja

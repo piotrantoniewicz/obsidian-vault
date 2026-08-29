@@ -3,8 +3,8 @@ type: Web
 authors: '[[Heather Mansfield]]'
 url: >-
   https://www.nptechforgood.com/2026/04/20/7-steps-to-turn-your-sms-program-into-a-storytelling-engine/
-published: 2026-04-20T00:00:00.000Z
-created: 2026-04-28T00:00:00.000Z
+published: 2026-04-20
+created: 2026-04-28
 tags:
   - digital-campaigning
   - fundraising

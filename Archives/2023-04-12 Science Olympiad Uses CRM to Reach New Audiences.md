@@ -2,8 +2,8 @@
 type: Web
 authors: '[[Neon One]]'
 url: 'https://neonone.com/resources/story/science-olympiad/'
-published: 2023-04-12T00:00:00.000Z
-created: 2026-03-23T00:00:00.000Z
+published: 2023-04-12
+created: 2026-03-23
 tags:
   - fundraising
   - digital-campaigning

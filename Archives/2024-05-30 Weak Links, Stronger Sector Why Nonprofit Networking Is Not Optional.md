@@ -3,8 +3,8 @@ type: Web
 authors: '[[Tasha Van Vlack]]'
 url: >-
   https://thenonprofithive.com/weak-links-nonprofit-work/?utm_source=brevo&utm_medium=email&utm_campaign=Newsletter%20May%206
-published: 2024-05-30T00:00:00.000Z
-created: 2026-05-09T00:00:00.000Z
+published: 2024-05-30
+created: 2026-05-09
 tags:
   - organizacje-społeczne
   - fundraising

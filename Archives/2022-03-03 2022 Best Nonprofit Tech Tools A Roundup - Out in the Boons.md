@@ -2,8 +2,8 @@
 type: Web
 authors: "[[Out in the Boons]]"
 url: 'https://www.outintheboons.me/blog/2022/nonprofit-tech-tools'
-published: 2022-03-03T00:00:00.000Z
-created: 2026-03-13T00:00:00.000Z
+published: 2022-03-03
+created: 2026-03-13
 tags:
   - fundraising
   - organizacje-społeczne

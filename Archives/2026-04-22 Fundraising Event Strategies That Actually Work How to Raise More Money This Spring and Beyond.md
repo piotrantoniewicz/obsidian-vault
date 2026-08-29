@@ -3,8 +3,8 @@ type: Web
 authors: '[[Claire Axelrad]]'
 url: >-
   https://bloomerang.com/blog/fundraising-event-strategies-that-actually-work/?utm_medium=email_newsletter&utm_source=marketo&utm_campaign=26Q2-InBloom&utm_targeting=NA_all&utm_content=blog_events-strats_email-05-01&mkt_tok=NjE4LVdHSS00NTkAAAGhg-Wlwyd1wrOlrxJy-6u7xdW1vSdNk67pMhasL1vSf8Rd2x6W3oSRvX342-UY8gQgM99LyUlYddzkleZXq5imhFdQfRPbVN21-zOefpXvg3g3arM
-published: 2026-04-22T00:00:00.000Z
-created: 2026-05-01T00:00:00.000Z
+published: 2026-04-22
+created: 2026-05-01
 tags:
   - fundraising
   - strategia-organizacji

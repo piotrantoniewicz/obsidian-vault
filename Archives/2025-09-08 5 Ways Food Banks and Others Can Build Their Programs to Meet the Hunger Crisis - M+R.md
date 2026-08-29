@@ -3,8 +3,8 @@ type: Web
 authors: "[[mradmin]]"
 url: >-
   https://www.mrss.com/lab/5-ways-food-banks-and-others-can-build-their-programs-to-meet-the-hunger-crisis/?utm_source=www.civicshoutnewsletter.com&utm_medium=newsletter&utm_campaign=when-an-oops-email-outperforms-the-original&_bhlid=e0901c93161c777f3d87749b071b6add7910dbe8
-published: 2025-09-08T00:00:00.000Z
-created: 2026-03-09T00:00:00.000Z
+published: 2025-09-08
+created: 2026-03-09
 tags:
   - fundraising
   - digital-campaigning

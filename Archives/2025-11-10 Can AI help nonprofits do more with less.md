@@ -3,8 +3,8 @@ type: Web
 authors: '[[Chase DiBenedetto]]'
 url: >-
   https://mashable.com/article/nonprofits-using-ai-concerned-about-equity-data-privacy?utm_source=substack&utm_medium=email
-published: 2025-11-10T00:00:00.000Z
-created: 2026-04-13T00:00:00.000Z
+published: 2025-11-10
+created: 2026-04-13
 tags:
   - strategia-AI
   - organizacje-społeczne

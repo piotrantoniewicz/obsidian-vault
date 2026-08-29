@@ -3,8 +3,8 @@ type: Web
 authors: '[[Nathan Benaich]]'
 url: >-
   https://fortune.com/2025/06/09/ai-chips-geopolitics-tech-data-centers/?utm_medium=email&_hsenc=p2ANqtz-_2sSllftIwz0BQnTIJEfztg1hxqTkarNkJXVgsckglRqQTwHQaYEZEUsenOrn036T_jP8h5IyT2e6HefssvAHL0PGusli5WUg6mWDQZypoIq5qMGc&_hsmi=112708171&utm_content=112708171&utm_source=hs_email
-published: 2025-06-09T00:00:00.000Z
-created: 2026-03-19T00:00:00.000Z
+published: 2025-06-09
+created: 2026-03-19
 tags:
   - framing
   - strategia-AI

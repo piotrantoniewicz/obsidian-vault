@@ -3,8 +3,8 @@ type: Web
 authors: '[[Anna Ratajczak-Piotrowska]]'
 url: >-
   https://beeffective.pl/blog/i-co-dalej-z-ta-strategia/?utm_source=newsletter&utm_medium=email&utm_term=2026-08-14&utm_campaign=+149+Jak+dobrze+wdro%C5%BCy%C4%87+strategi%C4%99+aby+przynosi%C5%82a+zyski+dla+Twojego+biznesu+
-published: 2026-07-20T00:00:00.000Z
-created: 2026-08-14T00:00:00.000Z
+published: 2026-07-20
+created: 2026-08-14
 tags:
   - strategia-organizacji
   - strategia-AI

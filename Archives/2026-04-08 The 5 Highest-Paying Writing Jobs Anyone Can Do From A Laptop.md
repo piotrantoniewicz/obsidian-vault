@@ -3,8 +3,8 @@ type: Web
 authors: '[[Nicolas Cole]]'
 url: >-
   https://x.com/Nicolascole77/status/2041858141395321159?s=20&ck_subscriber_id=3613653635&utm_source=convertkit&utm_medium=email&utm_campaign=Its+your+moral+duty+to+get+rich+-+21368528
-published: 2026-04-08T00:00:00.000Z
-created: 2026-04-13T00:00:00.000Z
+published: 2026-04-08
+created: 2026-04-13
 tags:
   - ghostwriting
   - content-marketing

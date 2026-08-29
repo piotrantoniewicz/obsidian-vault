@@ -3,8 +3,8 @@ type: Web
 authors: '[[Karina Janus]]'
 url: >-
   https://publicystyka.ngo.pl/ai-nie-czyta-w-myslach-dlaczego-najpierw-musisz-wiedziec-czego-chcesz-tau
-published: 2025-12-17T00:00:00.000Z
-created: 2026-04-22T00:00:00.000Z
+published: 2025-12-17
+created: 2026-04-22
 tags:
   - szkolenia-AI
   - prompt-engineering

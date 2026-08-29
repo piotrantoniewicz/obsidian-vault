@@ -3,8 +3,8 @@ type: Web
 authors: '[[Olena Kolikhova]]'
 url: >-
   https://haimagazine.com/pl/ai_branza/biznes/nowe-role-na-rynku-od-chief-ai-officera-po-ai-foundera/?utm_source=ActiveCampaign&utm_medium=email&utm_content=Nowe%20role%2C%20automatyzacja%20proces%C3%B3w%20i%20%C5%9Bwiatowy%20wy%C5%9Bcig%20po%20najlepsze%20talenty&utm_campaign=%E2%80%8BTo%20jak%20to%20w%20ko%C5%84cu%20jest%20z%20t%C4%85%20%E2%80%8Bsztuczn%C4%85%20inteligencj%C4%85%20i%20prac%C4%85%3F
-published: 2025-08-08T00:00:00.000Z
-created: 2026-03-24T00:00:00.000Z
+published: 2025-08-08
+created: 2026-03-24
 tags:
   - strategia-AI
   - szkolenia-AI

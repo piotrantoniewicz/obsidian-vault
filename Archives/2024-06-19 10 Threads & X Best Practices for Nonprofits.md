@@ -3,8 +3,8 @@ type: Web
 authors: '[[Heather Mansfield]]'
 url: >-
   https://www.nptechforgood.com/101-best-practices/10-threads-and-x-best-practices-for-nonprofits/
-published: 2024-06-19T00:00:00.000Z
-created: 2026-04-18T00:00:00.000Z
+published: 2024-06-19
+created: 2026-04-18
 tags:
   - content-marketing
   - organizacje-społeczne

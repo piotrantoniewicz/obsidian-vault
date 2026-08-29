@@ -2,8 +2,8 @@
 type: Web
 authors: '[[Samuel Larreal]]'
 url: 'https://www.notus.org/technology/deepfakes-campaigns'
-published: 2025-09-22T00:00:00.000Z
-created: 2026-03-26T00:00:00.000Z
+published: 2025-09-22
+created: 2026-03-26
 tags:
   - digital-campaigning
   - narzędzia-AI

@@ -2,8 +2,8 @@
 type: Web
 authors: '[[Weronika Gawarska-Tywonek]]'
 url: 'https://sektor3-0.pl/blog/czym-jest-dobra-prezentacja-i-jak-ja-stworzyc/'
-published: 2021-11-16T00:00:00.000Z
-created: 2026-03-24T00:00:00.000Z
+published: 2021-11-16
+created: 2026-03-24
 tags:
   - content-marketing
   - strategia-organizacji

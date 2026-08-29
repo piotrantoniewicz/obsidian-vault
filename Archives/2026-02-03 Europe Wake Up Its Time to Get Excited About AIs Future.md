@@ -3,8 +3,8 @@ type: Web
 authors: null
 url: >-
   https://hub.partisan.community/m/news/europe-wake-up-its-time-to-get-excited-about-ais-future/3101b721-d8a8-4220-acde-36cc6f03e3e4
-published: 2026-02-03T00:00:00.000Z
-created: 2026-03-26T00:00:00.000Z
+published: 2026-02-03
+created: 2026-03-26
 tags:
   - strategia-AI
   - trendy-AI

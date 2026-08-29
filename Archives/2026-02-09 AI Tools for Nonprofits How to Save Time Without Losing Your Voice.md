@@ -2,8 +2,8 @@
 type: Web
 authors: '[[CauseVox]]'
 url: 'https://www.causevox.com/blog/ai-tools-for-nonprofits/'
-published: 2026-02-09T00:00:00.000Z
-created: 2026-04-22T00:00:00.000Z
+published: 2026-02-09
+created: 2026-04-22
 tags:
   - narzędzia-AI
   - fundraising

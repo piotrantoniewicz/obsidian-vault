@@ -2,8 +2,8 @@
 type: Web
 authors: '[[Katarzyna Baranowska]]'
 url: 'https://katarzynabaranowska.com/humanizacja-tekstu-ai/'
-published: 2026-05-31T00:00:00.000Z
-created: 2026-06-01T00:00:00.000Z
+published: 2026-05-31
+created: 2026-06-01
 tags:
   - prompt-engineering
   - content-marketing

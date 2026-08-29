@@ -3,8 +3,8 @@ type: Web
 authors: '[[Aga Kozak]]'
 url: >-
   https://sektor3-0.pl/blog/jak-korzystac-z-ai-zeby-nie-stracic-glowy-ani-mozgu-8-madrych-zasad/?utm_source=newsletter&utm_medium=email&utm_term=2026-03-24&utm_campaign=Koniec+z+b%C5%82%C4%99dami+w+formularzach+
-published: 2025-08-14T00:00:00.000Z
-created: 2026-03-24T00:00:00.000Z
+published: 2025-08-14
+created: 2026-03-24
 tags:
   - szkolenia-AI
   - strategia-AI

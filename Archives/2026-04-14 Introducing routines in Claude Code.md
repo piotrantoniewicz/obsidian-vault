@@ -3,7 +3,7 @@ type: Web
 authors: "[[Anthropic]]"
 url: https://claude.com/blog/introducing-routines-in-claude-code
 published: 2026-04-14
-created: 2026-04-24T00:00:00.000Z
+created: 2026-04-24
 tags:
   - automatyzacja
   - narzędzia-AI

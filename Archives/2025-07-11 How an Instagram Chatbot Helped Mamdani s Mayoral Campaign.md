@@ -3,8 +3,8 @@ type: Web
 authors: '[[maxgreenwood]]'
 url: >-
   https://campaignsandelections.com/industry-news/how-mamdani-campaign-used-instagram-chatbot/
-published: 2025-07-11T00:00:00.000Z
-created: 2026-03-25T00:00:00.000Z
+published: 2025-07-11
+created: 2026-03-25
 tags:
   - digital-campaigning
   - automatyzacja

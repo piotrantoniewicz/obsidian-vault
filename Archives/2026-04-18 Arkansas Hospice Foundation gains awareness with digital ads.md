@@ -3,8 +3,8 @@ type: Web
 authors: '[[Feathr]]'
 url: >-
   https://www.feathr.co/resources/case-studies/arkansas-hospice-foundation-gains-awareness-with-digital-ads?utm_term=case-study-ahf&utm_campaign=case-study-ahf-03062025&utm_medium=marketing_email&_hsenc=p2ANqtz-94g0HyUainSF96_YWpIe3JYIA21WvNzTVaboGQeDtMhbWr7u69QEqGz4TQ3VI4jtqrEMa-3GdgpK8cjygKytWRW9SL24U42EXH0oZJZneu4wO4W7c&_hsmi=365783153&utm_content=%5BCase%20Study%5D%20Arkansas%20Hospice%20-%20Promo%201%20-%20Auto%20send%20-%20nonprofits&utm_source=case_study_email
-published: null
-created: 2026-04-18T00:00:00.000Z
+published:
+created: 2026-04-18
 tags:
   - fundraising
   - digital-campaigning

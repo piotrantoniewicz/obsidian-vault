@@ -3,8 +3,8 @@ type: Web
 authors: '[[Partisan]]'
 url: >-
   https://hub.partisan.community/m/news/rebooting-the-party-how-ai-and-regulation-are-reprogramming-political-organisations/cf1e1618-4b62-4b54-8e45-0d0d0c63d013
-published: 2026-03-30T00:00:00.000Z
-created: 2026-04-07T00:00:00.000Z
+published: 2026-03-30
+created: 2026-04-07
 tags:
   - digital-campaigning
   - strategia-AI

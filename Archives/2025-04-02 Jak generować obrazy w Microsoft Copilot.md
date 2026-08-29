@@ -3,8 +3,8 @@ type: Web
 authors: '[[ngo.pl]]'
 url: >-
   https://publicystyka.ngo.pl/jak-generowac-obrazy-w-microsoft-copilot-tau?utm_source=newsletter&utm_medium=email&utm_term=2026-03-24&utm_campaign=+Bezp%C5%82atne+appki+biurowe+dla+NGO
-published: 2025-04-02T00:00:00.000Z
-created: 2026-03-24T00:00:00.000Z
+published: 2025-04-02
+created: 2026-03-24
 tags:
   - narzędzia-AI
   - prompt-engineering

@@ -2,8 +2,8 @@
 type: Web
 authors: '[[Condé Nast]]'
 url: 'https://www.wired.com/about/generative-ai-policy/'
-published: null
-created: 2026-03-26T00:00:00.000Z
+published:
+created: 2026-03-26
 tags:
   - strategia-AI
   - narzędzia-AI

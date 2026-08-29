@@ -2,8 +2,8 @@
 type: Web
 authors: '[[DGAP]]'
 url: 'https://dgap.org/en/research/publications/influence-evolution'
-published: 2025-05-27T00:00:00.000Z
-created: 2026-03-25T00:00:00.000Z
+published: 2025-05-27
+created: 2026-03-25
 tags:
   - digital-campaigning
   - strategia-AI

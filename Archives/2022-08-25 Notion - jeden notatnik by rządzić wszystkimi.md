@@ -2,8 +2,8 @@
 type: Web
 authors: '[[Kamil Śliwowski]]'
 url: 'https://sektor3-0.pl/blog/notion-jeden-notatnik-by-rzadzic-wszystkimi/'
-published: 2022-08-25T00:00:00.000Z
-created: 2026-03-24T00:00:00.000Z
+published: 2022-08-25
+created: 2026-03-24
 tags:
   - strategia-organizacji
   - organizacje-społeczne

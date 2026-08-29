@@ -3,8 +3,8 @@ type: Web
 authors: '[[Heather Mansfield]]'
 url: >-
   https://www.nptechforgood.com/2026/03/18/how-to-use-meta-lead-ads-to-grow-your-nonprofits-email-list/
-published: 2026-03-18T00:00:00.000Z
-created: 2026-04-07T00:00:00.000Z
+published: 2026-03-18
+created: 2026-04-07
 tags:
   - fundraising
   - digital-campaigning

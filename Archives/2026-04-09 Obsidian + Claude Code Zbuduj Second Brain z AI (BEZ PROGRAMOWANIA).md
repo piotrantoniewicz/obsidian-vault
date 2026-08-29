@@ -2,8 +2,8 @@
 type: Web
 authors: '[[Robert Szewczyk]]'
 url: 'https://www.youtube.com/watch?v=7i85dqtkptU'
-published: 2026-04-09T00:00:00.000Z
-created: 2026-04-24T00:00:00.000Z
+published: 2026-04-09
+created: 2026-04-24
 tags:
   - automatyzacja
   - narzędzia-AI

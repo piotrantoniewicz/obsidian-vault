@@ -2,8 +2,8 @@
 type: Web
 authors: '[[Roman Kozłowski]]'
 url: 'https://messageflow.com/pl/blog/przewodnik-dostarczalnosc-email/'
-published: 2024-07-25T00:00:00.000Z
-created: 2026-04-18T00:00:00.000Z
+published: 2024-07-25
+created: 2026-04-18
 tags:
   - fundraising
   - digital-campaigning

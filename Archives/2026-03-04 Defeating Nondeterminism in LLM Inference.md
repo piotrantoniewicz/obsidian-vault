@@ -3,7 +3,7 @@ type: Web
 authors: "[[Horace He]]"
 url: https://thinkingmachines.ai/blog/defeating-nondeterminism-in-llm-inference/?utm_source=aiwithallie.beehiiv.com&utm_medium=newsletter&utm_campaign=the-entire-2025-ai-year-in-review&_bhlid=d5d8b94676d381527127d8c898440fa2b95d7800
 published:
-created: 2026-03-04T00:00:00.000Z
+created: 2026-03-04
 tags:
   - LLM
 ---

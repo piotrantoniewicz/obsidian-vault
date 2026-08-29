@@ -3,8 +3,8 @@ type: Web
 authors: '[[Monika Schmeichel-Zarzeczna]]'
 url: >-
   https://publicystyka.ngo.pl/prywatna-sztuczna-inteligencja-w-ngo-kiedy-lokalne-modele-ai-sie-oplacaja-a-kiedy-to-zbedny-klopot-bezplatny-kurs-taup?utm_source=newsletter&utm_medium=email&utm_term=2026-08-13&utm_campaign=+Jak+wdro%C5%BCy%C4%87+narz%C4%99dzie+na+lata+
-published: 2026-07-22T00:00:00.000Z
-created: 2026-08-13T00:00:00.000Z
+published: 2026-07-22
+created: 2026-08-13
 tags:
   - narzędzia-AI
   - strategia-AI

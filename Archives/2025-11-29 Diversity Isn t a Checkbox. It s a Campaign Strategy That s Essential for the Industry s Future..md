@@ -3,8 +3,8 @@ type: Web
 authors: '[[maxgreenwood]]'
 url: >-
   https://campaignsandelections.com/voices/diversity-isnt-a-checkbox-its-a-campaign-strategy/
-published: 2025-11-29T00:00:00.000Z
-created: 2026-03-26T00:00:00.000Z
+published: 2025-11-29
+created: 2026-03-26
 tags:
   - digital-campaigning
   - strategia-organizacji

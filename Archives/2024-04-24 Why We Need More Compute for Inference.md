@@ -3,8 +3,8 @@ type: Web
 authors: '[[Andrew NgI]]'
 url: >-
   https://www.deeplearning.ai/the-batch/why-we-need-more-compute-for-inference/?utm_campaign=The%20Batch&utm_medium=email&_hsenc=p2ANqtz-_ucu3lMo9V8LkUGWfG3iHl-uO5UiqIO6BTsZKz0tWJBLxcayptlpI_YhoDkxbSRXUwfDmDIiq4bofgdXXztckcc-bKtcfzPOTumLWzimKF6dZNIpk&_hsmi=385367404&utm_content=385366194&utm_source=hs_email
-published: 2024-04-24T00:00:00.000Z
-created: 2026-04-24T00:00:00.000Z
+published: 2024-04-24
+created: 2026-04-24
 tags:
   - trendy-AI
   - LLM

@@ -2,8 +2,8 @@
 type: Web
 authors: '[[Anthropic]]'
 url: 'https://www.youtube.com/watch?v=ysPbXH0LpIE'
-published: 2025-07-31T00:00:00.000Z
-created: 2026-03-23T00:00:00.000Z
+published: 2025-07-31
+created: 2026-03-23
 tags:
   - prompt-engineering
   - narzędzia-AI

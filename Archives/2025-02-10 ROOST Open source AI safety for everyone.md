@@ -4,8 +4,8 @@ authors:
   - "[[Mark Surman]]"
   - "[[Ayah Bdeir]]"
 url: https://blog.mozilla.org/en/mozilla/ai/roost-launch-ai-safety-tools-nonprofit/?utm_source=substack&utm_medium=email
-published: 2025-02-10T00:00:00.000Z
-created: 2026-03-02T00:00:00.000Z
+published: 2025-02-10
+created: 2026-03-02
 tags:
   - narzędzia-AI
   - organizacje-społeczne

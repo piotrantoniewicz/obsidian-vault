@@ -3,8 +3,8 @@ type: Web
 authors: '[[Emily Amick]]'
 url: >-
   https://emilyinyourphone.substack.com/p/the-influencer-economy-is-political?link_id=19&can_id=32cae499f95a9349c734a72403321b9c&source=email-learn-to-organize-on-the-platforms-that-matter-in-2026&email_referrer=email_3170351&email_subject=learn-to-organize-on-the-platforms-that-matter-in-2026
-published: 2026-03-12T00:00:00.000Z
-created: 2026-04-06T00:00:00.000Z
+published: 2026-03-12
+created: 2026-04-06
 tags:
   - digital-campaigning
   - framing

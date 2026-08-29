@@ -3,8 +3,8 @@ type: Web
 authors: '[[Shannon Farley]]'
 url: >-
   https://www.linkedin.com/pulse/ai-moment-reflects-crisis-imagination-shannon-farley-adaac/
-published: 2026-02-06T00:00:00.000Z
-created: 2026-04-13T00:00:00.000Z
+published: 2026-02-06
+created: 2026-04-13
 tags:
   - strategia-AI
   - organizacje-społeczne

@@ -2,8 +2,8 @@
 type: Web
 authors: "[[author            Alexis Sachdev]]"
 url: https://sankyinc.com/blog/2025/09/24/em-dash/?utm_source=www.civicshoutnewsletter.com&utm_medium=newsletter&utm_campaign=5-ways-to-overcome-year-end-burnout&_bhlid=d2b02c57b79378cdac7edb0111112280b8a52308
-published: null
-created: 2026-03-09T00:00:00.000Z
+published:
+created: 2026-03-09
 tags:
   - ghostwriting
   - fundraising

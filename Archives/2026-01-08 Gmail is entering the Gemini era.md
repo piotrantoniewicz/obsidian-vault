@@ -3,8 +3,8 @@ type: Web
 authors: '[[Blake Barnes]]'
 url: >-
   https://blog.google/products-and-platforms/products/gmail/gmail-is-entering-the-gemini-era/?utm_source=www.civicshoutnewsletter.com&utm_medium=newsletter&utm_campaign=what-you-need-to-know-about-google-s-ai-inbox&_bhlid=a475a4dddb3a0381d81ea21b6dd4db5351027629
-published: 2026-01-08T00:00:00.000Z
-created: 2026-03-22T00:00:00.000Z
+published: 2026-01-08
+created: 2026-03-22
 tags:
   - narzędzia-AI
   - trendy-AI

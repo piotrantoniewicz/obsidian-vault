@@ -2,8 +2,8 @@
 type: Web
 authors: '[[Lenny''s Podcast]]'
 url: 'https://www.youtube.com/watch?v=0XNkUdzxiZI'
-published: 2026-02-08T00:00:00.000Z
-created: 2026-05-12T00:00:00.000Z
+published: 2026-02-08
+created: 2026-05-12
 tags:
   - vibe-coding
   - strategia-AI

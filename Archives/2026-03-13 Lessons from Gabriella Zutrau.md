@@ -3,8 +3,8 @@ type: Web
 authors: '[[Jessica Hailstone]]'
 url: >-
   https://forwardaction.uk/blog/lessons-from-gabriella-zutrau-how-organic-social-helped-secure-a-win-for-mamdani/?location=blog
-published: 2026-03-13T00:00:00.000Z
-created: 2026-03-19T00:00:00.000Z
+published: 2026-03-13
+created: 2026-03-19
 tags:
   - fundraising
   - strategia-organizacji

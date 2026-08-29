@@ -3,8 +3,8 @@ type: Web
 authors: '[[Kevin Barenblat]]'
 url: >-
   https://aiforhumanity.ffwd.org/p/grid-expectations?utm_campaign=WGIT&utm_medium=email&_hsenc=p2ANqtz--T6X69xDKmkeT-KzBJ3lIr04Uft9HVjmU1RV34l3K6f6ZDsaXf7A6Wl8Nb5Cu2jlz7JY8lHzmYmUY0-fwe1FV8WqRxCoFgDD1UvfytKicT5JnNlKw&_hsmi=27449800&utm_content=27449800&utm_source=hs_email
-published: 2026-04-14T00:00:00.000Z
-created: 2026-04-21T00:00:00.000Z
+published: 2026-04-14
+created: 2026-04-21
 tags:
   - strategia-AI
   - narzędzia-AI

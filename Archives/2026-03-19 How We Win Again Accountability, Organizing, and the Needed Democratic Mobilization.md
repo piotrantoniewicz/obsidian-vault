@@ -3,7 +3,7 @@ type: Web
 authors: "[[Tectonica Digital Campaign Solutions]]"
 url: https://www.tectonica.co/posts/accountability_through_mobilizing?utm_medium=email&_hsenc=p2ANqtz-8ZixYCGNZkAQE7LlSPVUzCXJatG_EFvdsi7Ny-LqRkMvz5EbUFuklzbUon9hVGMY1SBUzlTTLViPzoy5N0nivvLCP1B-59Hj_-osCaADe8lkvImAw&_hsmi=107126839&utm_content=107126839&utm_source=hs_email
 published:
-created: 2026-03-19T00:00:00.000Z
+created: 2026-03-19
 tags:
   - digital-campaigning
   - organizacje-społeczne

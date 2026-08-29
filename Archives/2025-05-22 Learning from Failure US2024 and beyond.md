@@ -3,8 +3,8 @@ type: Web
 authors: '[[Josef Lentsch]]'
 url: >-
   https://www.linkedin.com/pulse/learning-from-failure-us2024-beyond-josef-lentsch-fbdtf/
-published: 2025-05-22T00:00:00.000Z
-created: 2026-03-25T00:00:00.000Z
+published: 2025-05-22
+created: 2026-03-25
 tags:
   - digital-campaigning
   - narzędzia-AI

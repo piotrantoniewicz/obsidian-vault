@@ -3,8 +3,8 @@ type: Web
 authors: '[[Megan Poyiadzis]]'
 url: >-
   https://smk.org.uk/top-3-mistakes-campaigners-make-when-communicating-for-change-and-what-to-do-instead/?mc_cid=6084e9063e&mc_eid=UNIQID
-published: 2026-04-01T00:00:00.000Z
-created: 2026-04-07T00:00:00.000Z
+published: 2026-04-01
+created: 2026-04-07
 tags:
   - digital-campaigning
   - framing

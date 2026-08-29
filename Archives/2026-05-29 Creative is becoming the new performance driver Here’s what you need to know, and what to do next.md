@@ -3,8 +3,8 @@ type: Web
 authors: '[[M+R]]'
 url: >-
   https://www.mrss.com/lab/creative-is-becoming-the-new-performance-driver-heres-what-you-need-to-know-and-what-to-do-next/
-published: 2026-05-29T00:00:00.000Z
-created: 2026-06-02T00:00:00.000Z
+published: 2026-05-29
+created: 2026-06-02
 tags:
   - digital-campaigning
   - content-marketing

@@ -2,8 +2,8 @@
 type: Web
 authors: '[[Anthropic]]'
 url: 'https://claude.com/customers/pjmf?utm_source=substack&utm_medium=email'
-published: null
-created: 2026-04-13T00:00:00.000Z
+published:
+created: 2026-04-13
 tags:
   - narzędzia-AI
   - organizacje-społeczne

@@ -3,8 +3,8 @@ type: Web
 authors: '[[Bryan Neider]]'
 url: >-
   https://www.linkedin.com/pulse/what-yes-ai-can-help-make-your-fundraising-more-human-bryan-neider-yg71c/?trackingId=n%2FTZcHv0TRqO26ndFsYvJw%3D%3D
-published: 2026-03-25T00:00:00.000Z
-created: 2026-03-31T00:00:00.000Z
+published: 2026-03-25
+created: 2026-03-31
 tags:
   - fundraising
   - strategia-AI

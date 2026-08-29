@@ -4,8 +4,8 @@ authors:
   - "[[Adam Bonica]]"
 url: https://data4democracy.substack.com/p/the-mothership-vortex-an-investigation
 source: "[[2025-08-03 The Mothership Vortex An Investigation Into the Firm at the Heart of the Democratic Spam Machine]]"
-published: 2025-08-03T00:00:00.000Z
-created: 2026-03-19T00:00:00.000Z
+published: 2025-08-03
+created: 2026-03-19
 relevance: wysoka
 tags:
   - digital-campaigning

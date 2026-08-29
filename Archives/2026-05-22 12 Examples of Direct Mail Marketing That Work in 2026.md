@@ -3,8 +3,8 @@ type: Web
 authors: '[[Alec Boye]]'
 url: >-
   https://www.mailpro.org/post/direct-mail-marketing-examples/?utm_source=www.civicshoutnewsletter.com&utm_medium=newsletter&utm_campaign=what-emailers-can-learn-from-a-10-envelope&_bhlid=185726f378dd8ba6f9c09119b78e9fff9e15cbd5
-published: 2026-05-22T00:00:00.000Z
-created: 2026-08-13T00:00:00.000Z
+published: 2026-05-22
+created: 2026-08-13
 tags:
   - fundraising
   - content-marketing

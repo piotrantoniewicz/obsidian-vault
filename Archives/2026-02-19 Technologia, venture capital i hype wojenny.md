@@ -3,8 +3,8 @@ type: Web
 authors: '[[Jacek Mańko]]'
 url: >-
   https://blog.humanistyka.dev/2026/02/technologia-venture-capital-i-hype-wojenny?utm_source=newsletter&utm_medium=email&utm_term=2026-06-14&utm_campaign=Jak+filtrowa%C4%87+slopy+AI+w+wyszukiwarce+Technologia+venture+capital+i+hype+wojenny+Rozpoznawanie+tekst%C3%B3w+AI+Cyfryzacja+domowego+archiwum+Teologiczny+benchmark+modeli+generatywnych+Nagrania+z+webinari%C3%B3w+o+danych+dziedzictwa
-published: 2026-02-19T00:00:00.000Z
-created: 2026-06-14T00:00:00.000Z
+published: 2026-02-19
+created: 2026-06-14
 tags:
   - trendy-AI
   - framing

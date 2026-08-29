@@ -3,8 +3,8 @@ type: Web
 authors: '[[Jacob Hansen]]'
 url: >-
   https://www.attentive.com/blog/email-marketing-strategy-google-gemini-2025?utm_source=www.civicshoutnewsletter.com&utm_medium=newsletter&utm_campaign=what-you-need-to-know-about-google-s-ai-inbox&_bhlid=6daa311703bdcf8304d2109db4f2e403f481f9d2
-published: 2026-01-12T00:00:00.000Z
-created: 2026-03-22T00:00:00.000Z
+published: 2026-01-12
+created: 2026-03-22
 tags:
   - digital-campaigning
   - fundraising

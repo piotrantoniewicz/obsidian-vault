@@ -3,8 +3,8 @@ type: Web
 authors: '[[GivingTuesday]]'
 url: >-
   https://www.globenewswire.com/news-release/2025/12/03/3199386/0/en/Generosity-Sweeps-the-Globe-Participation-and-Donations-Rise-on-Another-Record-Breaking-GivingTuesday.html?_bhlid=441d3a16b8ddb67b0d9231d44776673cabcff9be
-published: 2025-12-03T00:00:00.000Z
-created: 2026-03-20T00:00:00.000Z
+published: 2025-12-03
+created: 2026-03-20
 tags:
   - fundraising
   - digital-campaigning

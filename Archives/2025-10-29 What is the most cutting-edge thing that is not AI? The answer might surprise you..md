@@ -2,8 +2,8 @@
 type: Web
 authors: "[[Jessi]]"
 url: https://benefactorgroup.com/most-cutting-edge-thing-not-ai/
-published: 2025-10-29T00:00:00.000Z
-created: 2026-03-03T00:00:00.000Z
+published: 2025-10-29
+created: 2026-03-03
 tags:
   - organizacje-społeczne
   - strategia-AI

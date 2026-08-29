@@ -3,8 +3,8 @@ type: Web
 authors: '[[Engaging Networks]]'
 url: >-
   https://www.engagingnetworks.net/blog/encc-toronto-recap-2026/?utm_campaign=136965333-The%20Engager%20%7C%20Engaging%20Networks%20Monthly%20Newsletter&utm_medium=email&_hsenc=p2ANqtz--ibZojA953DtXirhceWbSfGMuZAr408jqEiDJ_peW4Cj-YRTOmYKPkGO0kkNHao_Vr3Tjxv3D9nFZcVnlED-Nddrt8q7yEYz1jLANaxvY17v8r2O0&_hsmi=134089765&utm_content=134090107&utm_source=hs_email
-published: 2026-04-22T00:00:00.000Z
-created: 2026-04-24T00:00:00.000Z
+published: 2026-04-22
+created: 2026-04-24
 tags:
   - fundraising
   - organizacje-społeczne

@@ -2,8 +2,8 @@
 type: Web
 authors: "[[Josh Klemons]]"
 url: https://joshklemons.com/hmt-gabbi-zutrau/?utm_source=www.civicshoutnewsletter.com&utm_medium=newsletter&utm_campaign=is-your-email-design-ghosting-readers&_bhlid=ea81b97020c84dc24fbfaa5a72d2aff90ac4518e
-published: 2025-07-28T00:00:00.000Z
-created: 2026-03-04T00:00:00.000Z
+published: 2025-07-28
+created: 2026-03-04
 tags:
   - digital-campaigning
   - automatyzacja

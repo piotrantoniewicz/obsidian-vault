@@ -3,8 +3,8 @@ type: Web
 authors: '[[Scott Nover]]'
 url: >-
   https://www.library.hbs.edu/working-knowledge/when-ai-joins-the-team-better-ideas-surface?utm_source=ActiveCampaign&utm_medium=email&utm_content=D%C5%82ugie%20wieczory%3F%20Mamy%20na%20nie%20plan%21%20%F0%9F%92%A1&utm_campaign=Podsumowanie%20pa%C5%BAdziernika%20w%20CampusAI
-published: 2025-10-17T00:00:00.000Z
-created: 2026-03-24T00:00:00.000Z
+published: 2025-10-17
+created: 2026-03-24
 tags:
   - strategia-AI
   - strategia-organizacji

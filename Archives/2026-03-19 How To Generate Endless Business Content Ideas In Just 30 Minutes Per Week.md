@@ -3,8 +3,8 @@ type: Web
 authors: '[[Dickie Bush]]'
 url: >-
   https://aioperatornewsletter.substack.com/p/how-to-generate-endless-business?utm_source=substack&utm_medium=email
-published: 2026-03-19T00:00:00.000Z
-created: 2026-04-12T00:00:00.000Z
+published: 2026-03-19
+created: 2026-04-12
 tags:
   - content-marketing
   - narzędzia-AI

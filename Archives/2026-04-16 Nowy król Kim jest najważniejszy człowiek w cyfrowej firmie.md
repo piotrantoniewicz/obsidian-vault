@@ -3,8 +3,8 @@ type: Web
 authors: '[[Krzysztof Mirończuk]]'
 url: >-
   https://haimagazine.com/pl/ai_branza/bezpieczenstwo-pl/nowy-krol-kim-jest-najwazniejszy-czlowiek-w-cyfrowej-firmie/
-published: 2026-04-16T00:00:00.000Z
-created: 2026-05-08T00:00:00.000Z
+published: 2026-04-16
+created: 2026-05-08
 tags:
   - strategia-AI
   - strategia-organizacji

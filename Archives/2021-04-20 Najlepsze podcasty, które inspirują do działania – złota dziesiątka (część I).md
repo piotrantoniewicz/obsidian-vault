@@ -3,8 +3,8 @@ type: Web
 authors: '[[Małgorzata Rodak]]'
 url: >-
   https://sektor3-0.pl/blog/podcasty-ktore-inspiruja-do-dzialania-zlota-dziesiatka/?utm_source=newsletter&utm_medium=email&utm_term=2026-03-24&utm_campaign=+Najlepsze+podcasty+dla+aktywistek+i+aktywist%C3%B3w+
-published: 2021-04-20T00:00:00.000Z
-created: 2026-03-24T00:00:00.000Z
+published: 2021-04-20
+created: 2026-03-24
 tags:
   - content-marketing
   - organizacje-społeczne

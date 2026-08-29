@@ -3,7 +3,7 @@ type: Web
 authors: "[[Digital Health Strategies]]"
 url: https://www.digitalhealthstrategies.com/case-study/scripps-health-san-diego/?utm_source=www.civicshoutnewsletter.com&utm_medium=newsletter&utm_campaign=the-25-donors-who-became-25k-donors&_bhlid=e7cafc772d9d45687b95a32cfa1219e27ac620c5
 published: 2025-12-15
-created: 2026-03-22T00:00:00.000Z
+created: 2026-03-22
 tags:
   - fundraising
   - digital-campaigning

@@ -3,8 +3,8 @@ type: Web
 authors: '[[Jackie Smith]]'
 url: >-
   https://kindful.com/blog/how-to-make-sure-your-new-donor-acquisition-investment-pays-off/
-published: 2021-09-16T00:00:00.000Z
-created: 2026-04-23T00:00:00.000Z
+published: 2021-09-16
+created: 2026-04-23
 tags:
   - fundraising
   - organizacje-społeczne

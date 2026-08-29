@@ -3,8 +3,8 @@ type: Web
 authors: '[[Paul de Gregorio]]'
 url: >-
   https://www.wearerally.co.uk/blog/2025/7/17/2025-uk-amp-ireland-digital-benchmarks-study-is-live?link_id=19&can_id=32cae499f95a9349c734a72403321b9c&source=email-feed-your-mind-recharge-your-batteries-with-our-top-picks-for-summer&email_referrer=email_2871786&email_subject=run-ads-while-the-sun-shines&&
-published: 2025-07-17T00:00:00.000Z
-created: 2026-04-05T00:00:00.000Z
+published: 2025-07-17
+created: 2026-04-05
 tags:
   - fundraising
   - digital-campaigning

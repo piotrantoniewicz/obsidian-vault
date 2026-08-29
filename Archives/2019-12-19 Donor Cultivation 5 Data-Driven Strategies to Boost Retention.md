@@ -3,8 +3,8 @@ type: Web
 authors: '[[Nathan Hill]]'
 url: >-
   https://www.nextafter.com/blog/donor-cultivation-5-data-driven-strategies-to-boost-your-retention-rate/
-published: 2019-12-19T00:00:00.000Z
-created: 2026-04-23T00:00:00.000Z
+published: 2019-12-19
+created: 2026-04-23
 tags:
   - fundraising
   - digital-campaigning

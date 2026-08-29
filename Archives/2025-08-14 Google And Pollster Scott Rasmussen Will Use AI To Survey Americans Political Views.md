@@ -3,8 +3,8 @@ type: Web
 authors: '[[Richard Nieva]]'
 url: >-
   https://www.forbes.com/sites/richardnieva/2025/08/14/inside-googles-plan-to-use-ai-to-survey-americans-on-their-political-views/
-published: 2025-08-14T00:00:00.000Z
-created: 2026-03-26T00:00:00.000Z
+published: 2025-08-14
+created: 2026-03-26
 tags:
   - digital-campaigning
   - strategia-AI

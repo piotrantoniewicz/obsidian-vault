@@ -2,8 +2,8 @@
 type: Web
 authors: '[[Sabina Dziuba]]'
 url: 'https://sektor3-0.pl/blog/marketing-sztuczna-inteligencja-ngo/'
-published: 2023-03-30T00:00:00.000Z
-created: 2026-03-24T00:00:00.000Z
+published: 2023-03-30
+created: 2026-03-24
 tags:
   - narzędzia-AI
   - content-marketing

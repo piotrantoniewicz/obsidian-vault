@@ -2,8 +2,8 @@
 type: Web
 authors: "[[Quiller Team]]"
 url: https://medium.com/quiller-ai/introducing-quiller-by-grassroots-analytics-building-the-next-chapter-in-progressive-ai-0ba8c40a0a4b
-published: 2025-08-06T00:00:00.000Z
-created: 2026-03-04T00:00:00.000Z
+published: 2025-08-06
+created: 2026-03-04
 tags:
   - digital-campaigning
   - narzędzia-AI

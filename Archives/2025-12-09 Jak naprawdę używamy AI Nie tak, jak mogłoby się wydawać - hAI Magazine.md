@@ -3,8 +3,8 @@ type: Web
 authors: '[[Krzysztof Mirończuk]]'
 url: >-
   https://haimagazine.com/pl/ai_news/jak-naprawde-uzywamy-ai/?utm_source=ActiveCampaign&utm_medium=email&utm_content=Nowe%20wydarzenia%20i%20kursy%20w%20CampusAI%21&utm_campaign=Nowe%20wydarzenia%20i%20kursy%20w%20CampusAI%21
-published: 2025-12-09T00:00:00.000Z
-created: 2026-03-24T00:00:00.000Z
+published: 2025-12-09
+created: 2026-03-24
 tags:
   - trendy-AI
   - strategia-AI

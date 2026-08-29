@@ -2,8 +2,8 @@
 type: Web
 authors: '[[Elena]]'
 url: 'https://forwardaction.uk/blog/are-you-ready-for-soft-opt-ins/'
-published: 2025-07-31T00:00:00.000Z
-created: 2026-03-19T00:00:00.000Z
+published: 2025-07-31
+created: 2026-03-19
 tags:
   - digital-campaigning
   - fundraising

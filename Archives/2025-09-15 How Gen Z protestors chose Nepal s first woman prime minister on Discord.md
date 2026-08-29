@@ -3,8 +3,8 @@ type: Web
 authors: '[[Vishwam Sankaran]]'
 url: >-
   https://www.independent.co.uk/asia/south-asia/nepal-sushila-karki-new-prime-minister-discord-protests-b2826473.html
-published: 2025-09-15T00:00:00.000Z
-created: 2026-03-26T00:00:00.000Z
+published: 2025-09-15
+created: 2026-03-26
 tags:
   - digital-campaigning
   - organizacje-społeczne

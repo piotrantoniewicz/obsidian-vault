@@ -3,8 +3,8 @@ type: Web
 authors: '[[Sara Cederberg]]'
 url: >-
   https://www.civicshoutnewsletter.com/p/an-initial-look-at-giving-tuesday-results?utm_source=www.civicshoutnewsletter.com&utm_medium=newsletter&utm_campaign=what-actually-worked-in-december&_bhlid=c5e5f178e15e5a5c2ea94f813494604bb6a0876b
-published: 2025-12-04T00:00:00.000Z
-created: 2026-03-22T00:00:00.000Z
+published: 2025-12-04
+created: 2026-03-22
 tags:
   - fundraising
   - digital-campaigning

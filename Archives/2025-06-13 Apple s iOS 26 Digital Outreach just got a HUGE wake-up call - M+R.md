@@ -3,8 +3,8 @@ type: Web
 authors: '[[mradmin]]'
 url: >-
   https://www.mrss.com/lab/apples-ios-26-digital-outreach-just-got-a-huge-wake-up-call/?link_id=16&can_id=32cae499f95a9349c734a72403321b9c&source=email-just-in-time-for-spring-cleaning-a-list-refresh&email_referrer=email_2799384&email_subject=pride-podcasts-and-plenty-of-ways-to-get-involved
-published: 2025-06-13T00:00:00.000Z
-created: 2026-04-05T00:00:00.000Z
+published: 2025-06-13
+created: 2026-04-05
 tags:
   - digital-campaigning
   - organizacje-społeczne

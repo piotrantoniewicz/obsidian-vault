@@ -3,8 +3,8 @@ type: Web
 authors: '[[NextAfter]]'
 url: >-
   https://www.nextafter.com/experiments/will-testing-learn-more-vs-give-bibles-ctas-in-facebook-ad-copy-to-increase-donor-conversions/?utm_medium=email&_hsenc=p2ANqtz-9lKt8HI8vV5XlYQOwyfkm40pU8YZ1soTkE8lJAIwfej4DG7cB4fV3KRM4OJMZIaHwT5OEsDBqDwOxn_NkfMD7DfkFdrQ&_hsmi=413388420&utm_content=413182004&utm_source=hs_email
-published: 2026-02-02T00:00:00.000Z
-created: 2026-04-13T00:00:00.000Z
+published: 2026-02-02
+created: 2026-04-13
 tags:
   - fundraising
   - digital-campaigning

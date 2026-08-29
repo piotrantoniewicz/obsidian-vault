@@ -3,8 +3,8 @@ type: Web
 authors: '[[Filip Jędruch]]'
 url: >-
   https://sektor3-0.pl/blog/mozna-sie-bac-ale-trzeba-dzialac-i-sprawdzac-jak-fundacja-iskierka-wdraza-nowe-technologie/?utm_source=newsletter&utm_medium=email&utm_term=2026-08-13&utm_campaign=+Jak+wdro%C5%BCy%C4%87+narz%C4%99dzie+na+lata+
-published: 2026-07-30T00:00:00.000Z
-created: 2026-08-13T00:00:00.000Z
+published: 2026-07-30
+created: 2026-08-13
 tags:
   - strategia-AI
   - organizacje-społeczne

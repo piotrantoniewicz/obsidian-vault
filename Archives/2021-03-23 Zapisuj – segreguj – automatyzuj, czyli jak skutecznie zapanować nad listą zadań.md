@@ -3,8 +3,8 @@ type: Web
 authors: '[[Marzena Kacprowicz]]'
 url: >-
   https://sektor3-0.pl/blog/zapisuj-segreguj-automatyzuj-czyli-jak-skutecznie-zapanowac-nad-lista-zadan/
-published: 2021-03-23T00:00:00.000Z
-created: 2026-03-24T00:00:00.000Z
+published: 2021-03-23
+created: 2026-03-24
 tags:
   - automatyzacja
   - strategia-organizacji

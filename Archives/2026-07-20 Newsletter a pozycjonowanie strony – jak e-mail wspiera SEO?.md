@@ -3,8 +3,8 @@ type: Web
 authors: '[[Ecomail.pl]]'
 url: >-
   https://ecomail.pl/blog/pl/e-mail-marketing-a-seo-jak-newsletter-wspiera-pozycjonowanie-i-widocznosc-strony-w-google/
-published: 2026-07-20T00:00:00.000Z
-created: 2026-07-30T00:00:00.000Z
+published: 2026-07-20
+created: 2026-07-30
 tags:
   - content-marketing
   - digital-campaigning

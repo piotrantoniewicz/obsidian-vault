@@ -4,8 +4,8 @@ authors: >-
   [[Tamilore OladipoSr. Content Creator @ Buffer, Read more posts by Tamilore
   Oladipo]]
 url: 'https://buffer.com/resources/state-of-social-media-engagement-2026/'
-published: 2026-03-25T00:00:00.000Z
-created: 2026-05-01T00:00:00.000Z
+published: 2026-03-25
+created: 2026-05-01
 tags:
   - content-marketing
   - digital-campaigning

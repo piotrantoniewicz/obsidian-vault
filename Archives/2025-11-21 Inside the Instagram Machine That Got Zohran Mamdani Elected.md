@@ -2,8 +2,8 @@
 type: Web
 authors: "[[Bobby Hilliard]]"
 url: https://manychat.com/blog/instagram-machine-zohran-mamdani-elected/?utm_source=newsletter&utm_medium=email&utm_term=Mon+02+Mar+2026&utm_campaign=Do+Something+Anything+The+Ho+Ho+Ho+it+s+M-A-M-D-A-N-I+edition
-published: 2025-11-21T00:00:00.000Z
-created: 2026-03-02T00:00:00.000Z
+published: 2025-11-21
+created: 2026-03-02
 tags:
   - digital-campaigning
   - automatyzacja

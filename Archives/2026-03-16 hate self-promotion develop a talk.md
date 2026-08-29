@@ -2,8 +2,8 @@
 type: Web
 authors: '[[Hilary Gridley]]'
 url: 'https://hils.substack.com/p/hate-self-promotion-develop-a-talk'
-published: 2026-03-16T00:00:00.000Z
-created: 2026-04-28T00:00:00.000Z
+published: 2026-03-16
+created: 2026-04-28
 tags:
   - content-marketing
   - framing

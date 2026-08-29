@@ -3,8 +3,8 @@ type: Web
 authors: '[[Sara Cederberg]]'
 url: >-
   https://www.civicshoutnewsletter.com/p/four-donation-page-mistakes-you-can-fix-today?utm_source=www.civicshoutnewsletter.com&utm_medium=newsletter&utm_campaign=how-unicef-usa-unlocked-26-000-more-donations&_bhlid=a2350568d22c4489fdee9ce039b5f4e4cbdd6222
-published: 2025-08-21T00:00:00.000Z
-created: 2026-03-23T00:00:00.000Z
+published: 2025-08-21
+created: 2026-03-23
 tags:
   - fundraising
   - digital-campaigning

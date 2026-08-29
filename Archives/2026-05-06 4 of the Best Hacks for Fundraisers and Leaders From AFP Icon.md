@@ -3,8 +3,8 @@ type: Web
 authors: '[[Rasheeda Childress]]'
 url: >-
   https://www.philanthropy.com/solutions/4-of-the-best-hacks-for-fundraisers-and-leaders-from-afp-icon/?utm_source=www.civicshoutnewsletter.com&utm_medium=newsletter&utm_campaign=a-207k-increase-in-email-revenue-with-one-shift&_bhlid=11e3ed45360d473331452c09c8017d6a503c5e65
-published: 2026-05-06T00:00:00.000Z
-created: 2026-05-07T00:00:00.000Z
+published: 2026-05-06
+created: 2026-05-07
 tags:
   - fundraising
   - organizacje-społeczne

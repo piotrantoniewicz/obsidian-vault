@@ -3,8 +3,8 @@ type: Web
 authors: '[[Lauren Meyer]]'
 url: >-
   https://www.socketlabs.com/blog/email-performance-red-flags-low-click-through-rates/?utm_campaign=deliverability_rate&utm_medium=blog&utm_source=senditright
-published: 2024-07-30T00:00:00.000Z
-created: 2026-04-27T00:00:00.000Z
+published: 2024-07-30
+created: 2026-04-27
 tags:
   - digital-campaigning
   - fundraising

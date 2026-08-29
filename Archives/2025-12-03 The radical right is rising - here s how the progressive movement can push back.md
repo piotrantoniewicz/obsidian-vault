@@ -3,8 +3,8 @@ type: Web
 authors: '[[Krystal]]'
 url: >-
   https://forwardaction.uk/blog/the-radical-right-is-rising-heres-how-the-progressive-movement-can-push-back/
-published: 2025-12-03T00:00:00.000Z
-created: 2026-03-19T00:00:00.000Z
+published: 2025-12-03
+created: 2026-03-19
 tags:
   - framing
   - organizacje-społeczne

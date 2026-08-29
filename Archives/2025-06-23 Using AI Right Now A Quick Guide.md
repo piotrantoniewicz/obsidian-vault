@@ -2,8 +2,8 @@
 type: Web
 authors: '[[Ethan Mollick]]'
 url: 'https://www.oneusefulthing.org/p/using-ai-right-now-a-quick-guide'
-published: 2025-06-23T00:00:00.000Z
-created: 2026-03-23T00:00:00.000Z
+published: 2025-06-23
+created: 2026-03-23
 tags:
   - narzędzia-AI
   - prompt-engineering

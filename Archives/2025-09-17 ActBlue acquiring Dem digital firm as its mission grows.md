@@ -3,8 +3,8 @@ type: Web
 authors: '[[Jessica Piper]]'
 url: >-
   https://www.politico.com/news/2025/09/17/actblue-impactive-acquisition-fundraising-campaigns-00567356?_hsenc=p2ANqtz--bZPtEf3z1wg9TbtLF1V7wwdvNBNF4KcPlFlxihPEVURf0Fmxu8O1iTl0Qh6qWxjuoU3EfLyJus1xOt44h_tHe0ZPQarNx7r5C7O8v6XBEqhjxlKM&_hsmi=118738902&utm_content=118738902&utm_medium=email&utm_source=hs_email
-published: 2025-09-17T00:00:00.000Z
-created: 2026-03-20T00:00:00.000Z
+published: 2025-09-17
+created: 2026-03-20
 tags:
   - digital-campaigning
   - fundraising

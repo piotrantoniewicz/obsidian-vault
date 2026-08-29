@@ -3,8 +3,8 @@ type: Web
 authors: '[[Bryan Neider]]'
 url: >-
   https://www.linkedin.com/pulse/moral-crumple-zone-leading-intent-age-ai-bryan-neider-nd72c/
-published: 2026-04-15T00:00:00.000Z
-created: 2026-04-17T00:00:00.000Z
+published: 2026-04-15
+created: 2026-04-17
 tags:
   - strategia-AI
   - organizacje-społeczne

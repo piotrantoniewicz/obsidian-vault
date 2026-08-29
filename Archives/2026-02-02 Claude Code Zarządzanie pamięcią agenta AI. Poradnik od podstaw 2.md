@@ -2,8 +2,8 @@
 type: Web
 authors: '[[Krzysztof Bohaczyk]]'
 url: 'https://www.youtube.com/watch?v=PIvJnLkquVc'
-published: 2026-02-02T00:00:00.000Z
-created: 2026-04-19T00:00:00.000Z
+published: 2026-02-02
+created: 2026-04-19
 tags:
   - narzędzia-AI
   - szkolenia-AI

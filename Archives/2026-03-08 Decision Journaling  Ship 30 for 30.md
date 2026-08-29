@@ -3,8 +3,8 @@ type: Web
 authors: null
 url: >-
   https://decisionjournaling.com/?ck_subscriber_id=3613653635&utm_source=convertkit&utm_medium=email&utm_campaign=13%20mistakes%20Cole%20made%20as%20a%20new%20ghostwriter%20-%2019906873
-published: null
-created: 2026-03-08T00:00:00.000Z
+published:
+created: 2026-03-08
 tags:
   - produkty-cyfrowe
 ---

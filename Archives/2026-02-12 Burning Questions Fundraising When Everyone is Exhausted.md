@@ -2,8 +2,8 @@
 type: Web
 authors: '[[Lisa Z Greer]]'
 url: 'https://philanthropy451.substack.com/p/burning-questions-fundraising-when'
-published: 2026-02-12T00:00:00.000Z
-created: 2026-05-01T00:00:00.000Z
+published: 2026-02-12
+created: 2026-05-01
 tags:
   - fundraising
   - organizacje-społeczne

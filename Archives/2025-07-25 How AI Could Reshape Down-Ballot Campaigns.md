@@ -3,8 +3,8 @@ type: Web
 authors: '[[maxgreenwood]]'
 url: >-
   https://campaignsandelections.com/industry-news/how-ai-could-reshape-down-ballot-campaigns/?utm_medium=email&_hsenc=p2ANqtz-_JlIlzMHBSAg2NQXbsufxXKYS3sn6o6W_er7Dff_2eRrcx_dnt4xy46swtLZ-1HWf56auPc1lIiEVUTkzPyCJdyJ_18UT-Qrn8REzN2F_CW8Zp9kg&_hsmi=114881976&utm_content=114881976&utm_source=hs_email
-published: 2025-07-25T00:00:00.000Z
-created: 2026-03-19T00:00:00.000Z
+published: 2025-07-25
+created: 2026-03-19
 tags:
   - digital-campaigning
   - strategia-AI

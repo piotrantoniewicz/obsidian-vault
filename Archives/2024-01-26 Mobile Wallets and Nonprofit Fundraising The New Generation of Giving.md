@@ -3,8 +3,8 @@ type: Web
 authors: '[[Olivia Hosey]]'
 url: >-
   https://www.causevox.com/blog/mobile-wallets-and-nonprofit-fundraising/?vgo_ee=DM%2FLquNy5TMFjgrvIzgjx1PzksZQ7Zpeid1bpYS8S3fj9Pq7n%2FtFoIgjtw%3D%3D%3AAcR8sNAJOQMl2HDVuj%2BhxX28bZaq0NwP
-published: 2024-01-26T00:00:00.000Z
-created: 2026-04-05T00:00:00.000Z
+published: 2024-01-26
+created: 2026-04-05
 tags:
   - fundraising
   - digital-campaigning

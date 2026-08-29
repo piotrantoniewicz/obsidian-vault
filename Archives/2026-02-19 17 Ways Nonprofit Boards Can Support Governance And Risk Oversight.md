@@ -3,8 +3,8 @@ type: Web
 authors: "[[Expert Panel®]]"
 url: >-
   https://www.forbes.com/councils/forbesnonprofitcouncil/2026/02/19/17-ways-nonprofit-boards-can-support-governance-and-risk-oversight/?
-published: 2026-02-19T00:00:00.000Z
-created: 2026-03-11T00:00:00.000Z
+published: 2026-02-19
+created: 2026-03-11
 tags:
   - organizacje-społeczne
   - fundraising

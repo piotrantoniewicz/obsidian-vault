@@ -3,8 +3,8 @@ type: Web
 authors: '[[maxgreenwood]]'
 url: >-
   https://campaignsandelections.com/industry-news/startup-bets-on-ai-ads-for-politics/?utm_medium=email&_hsenc=p2ANqtz-990TvgpHU7QAS68NBVAgzo26ld808gJkVKpd1TK7rCB9hOlfCcUi053LhDJDggS5uVfIvGQ_roIowexXCOx7jROb9B65V7Cug24dsno_8CFPQwdVY&_hsmi=114881976&utm_content=114881976&utm_source=hs_email
-published: 2025-08-04T00:00:00.000Z
-created: 2026-03-19T00:00:00.000Z
+published: 2025-08-04
+created: 2026-03-19
 tags:
   - digital-campaigning
   - strategia-AI

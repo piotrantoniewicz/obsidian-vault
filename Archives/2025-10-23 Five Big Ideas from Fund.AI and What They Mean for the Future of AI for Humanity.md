@@ -3,8 +3,8 @@ type: Web
 authors: '[[Fast Forward]]'
 url: >-
   https://www.ffwd.org/blog/5-big-ideas-from-fund-ai?utm_campaign=WGIT&utm_medium=email&_hsenc=p2ANqtz--CdaaahvQirLDRYPnD_FS3ex33KS3R-0D2ar70KOXUAk_wZUU1ltNZcO06jQDtYxd9VjyXJvhslyTV6K4gQqLgXXPYQ11E7Ky3B2NHVEtWn5GOV9M&_hsmi=16678947&utm_content=16678947&utm_source=hs_email
-published: 2025-10-23T00:00:00.000Z
-created: 2026-04-13T00:00:00.000Z
+published: 2025-10-23
+created: 2026-04-13
 tags:
   - fundraising
   - organizacje-społeczne

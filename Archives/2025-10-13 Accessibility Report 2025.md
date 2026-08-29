@@ -3,8 +3,8 @@ type: Web
 authors: '[[Email Markup Consortium]]'
 url: >-
   https://emailmarkup.org/en/reports/accessibility/2025/?utm_source=www.civicshoutnewsletter.com&utm_medium=newsletter&utm_campaign=your-email-accessibility-checklist&_bhlid=8048514f174f4808f951202cb9b729a407222a7d
-published: 2025-10-13T00:00:00.000Z
-created: 2026-03-23T00:00:00.000Z
+published: 2025-10-13
+created: 2026-03-23
 tags:
   - digital-campaigning
 ---

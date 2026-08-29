@@ -4,8 +4,8 @@ authors:
   - "[[Gayle Roberts, CFRM]]"
 url: https://www.linkedin.com/pulse/two-openai-moves-nonprofit-leaders-cant-ignore-your-roberts-cfrm-eyiyc/
 source: "[[Archives/2025-08-06 Two OpenAI Moves That Nonprofit Leaders Can t Ignore|2025-08-06 Two OpenAI Moves That Nonprofit Leaders Can t Ignore]]"
-published: 2025-08-06T00:00:00.000Z
-created: 2026-03-19T00:00:00.000Z
+published: 2025-08-06
+created: 2026-03-19
 relevance: wysoka
 tags:
   - narzędzia-AI

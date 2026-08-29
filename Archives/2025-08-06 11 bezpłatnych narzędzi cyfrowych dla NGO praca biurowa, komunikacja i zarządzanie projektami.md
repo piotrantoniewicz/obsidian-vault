@@ -3,8 +3,8 @@ type: Web
 authors: '[[ngo.pl]]'
 url: >-
   https://publicystyka.ngo.pl/11-bezplatnych-narzedzi-cyfrowych-dla-ngo-praca-biurowa-komunikacja-i-zarzadzanie-projektami-tau?utm_source=newsletter&utm_medium=email&utm_term=2026-03-24&utm_campaign=P%C5%82ywasz+w+basenie+pe%C5%82nym+lajk%C3%B3w+
-published: 2025-08-06T00:00:00.000Z
-created: 2026-03-24T00:00:00.000Z
+published: 2025-08-06
+created: 2026-03-24
 tags:
   - organizacje-społeczne
   - strategia-organizacji

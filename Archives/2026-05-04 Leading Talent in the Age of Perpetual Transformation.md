@@ -3,8 +3,8 @@ type: Web
 authors: '[[Bryan Neider]]'
 url: >-
   https://www.linkedin.com/pulse/leading-talent-age-perpetual-transformation-bryan-neider-kvgic/
-published: 2026-05-04T00:00:00.000Z
-created: 2026-05-04T00:00:00.000Z
+published: 2026-05-04
+created: 2026-05-04
 tags:
   - organizacje-społeczne
   - strategia-organizacji

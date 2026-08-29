@@ -2,8 +2,8 @@
 type: Web
 authors: '[[Dr Kim Foale]]'
 url: 'https://gfsc.community/how-to-establish-a-community-technology-partnership/'
-published: 2025-05-07T00:00:00.000Z
-created: 2026-03-23T00:00:00.000Z
+published: 2025-05-07
+created: 2026-03-23
 tags:
   - organizacje-społeczne
   - strategia-organizacji

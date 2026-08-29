@@ -2,8 +2,8 @@
 type: Web
 authors: '[[Julia Szlęzak]]'
 url: 'https://pomagam.pl/blog/komunikacja-media-ngo'
-published: 2025-06-20T00:00:00.000Z
-created: 2026-04-07T00:00:00.000Z
+published: 2025-06-20
+created: 2026-04-07
 tags:
   - organizacje-społeczne
   - framing

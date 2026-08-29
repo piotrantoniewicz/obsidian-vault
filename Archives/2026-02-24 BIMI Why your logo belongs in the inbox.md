@@ -3,8 +3,8 @@ type: Web
 authors: '[[Sara Cederberg]]'
 url: >-
   https://www.civicshoutnewsletter.com/p/bimi-why-your-logo-belongs-in-the-inbox?utm_source=www.civicshoutnewsletter.com&utm_medium=newsletter&utm_campaign=dns-for-people-who-don-t-speak-dns&_bhlid=c23347ffaaa1b890a634e6e44d7d7e0b911a59a6
-published: 2026-02-24T00:00:00.000Z
-created: 2026-04-17T00:00:00.000Z
+published: 2026-02-24
+created: 2026-04-17
 tags:
   - digital-campaigning
   - fundraising

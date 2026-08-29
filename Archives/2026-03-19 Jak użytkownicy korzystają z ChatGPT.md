@@ -2,8 +2,8 @@
 type: Web
 authors: null
 url: 'https://openai.com/pl-PL/index/how-people-are-using-chatgpt/'
-published: 2025-09-15T00:00:00.000Z
-created: 2026-03-23T00:00:00.000Z
+published: 2025-09-15
+created: 2026-03-23
 tags:
   - trendy-AI
   - szkolenia-AI

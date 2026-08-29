@@ -3,8 +3,8 @@ type: Web
 authors: "[[Korrin Bishop]]"
 url: >-
   https://pro.gofundme.com/c/blog/plan-emergency-fundraising-campaign/?utm_source=www.civicshoutnewsletter.com&utm_medium=newsletter&utm_campaign=how-to-make-your-appeals-work-21-harder&_bhlid=db019bf22fe1b1064a9937be6c22f146a8f4a0ff
-published: 2025-09-08T00:00:00.000Z
-created: 2026-03-09T00:00:00.000Z
+published: 2025-09-08
+created: 2026-03-09
 tags:
   - fundraising
   - organizacje-społeczne

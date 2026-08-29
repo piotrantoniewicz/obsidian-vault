@@ -3,8 +3,8 @@ type: Web
 authors: '[[Vikas Kansal]]'
 url: >-
   https://www.lennysnewsletter.com/p/why-saas-freemium-playbooks-dont?utm_campaign=email-post&r=4zdnrk
-published: 2026-05-05T00:00:00.000Z
-created: 2026-05-05T00:00:00.000Z
+published: 2026-05-05
+created: 2026-05-05
 tags:
   - produkty-cyfrowe
   - strategia-AI

@@ -3,8 +3,8 @@ type: Web
 authors: '[[David Schwab]]'
 url: >-
   https://www.funraise.org/podcast/the-case-of-the-98-donor-retention-rate?utm_source=www.civicshoutnewsletter.com&utm_medium=newsletter&utm_campaign=how-chive-charities-hit-98-donor-retention&_bhlid=420bf9807fd4a2f7ee415fef4aa9332fd5168105
-published: 2025-04-11T00:00:00.000Z
-created: 2026-03-22T00:00:00.000Z
+published: 2025-04-11
+created: 2026-03-22
 tags:
   - fundraising
   - organizacje-społeczne

@@ -2,8 +2,8 @@
 type: Web
 authors: '[[Bryan Neider]]'
 url: 'https://www.linkedin.com/pulse/still-control-bryan-neider-3q4yc/'
-published: 2026-07-24T00:00:00.000Z
-created: 2026-07-24T00:00:00.000Z
+published: 2026-07-24
+created: 2026-07-24
 tags:
   - strategia-AI
   - organizacje-społeczne

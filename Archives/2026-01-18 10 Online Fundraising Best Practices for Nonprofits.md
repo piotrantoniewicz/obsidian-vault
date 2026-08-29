@@ -3,8 +3,8 @@ type: Web
 authors: '[[Heather Mansfield]]'
 url: >-
   https://www.nptechforgood.com/101-best-practices/10-online-fundraising-best-practices-for-nonprofits/
-published: 2026-01-18T00:00:00.000Z
-created: 2026-04-18T00:00:00.000Z
+published: 2026-01-18
+created: 2026-04-18
 tags:
   - fundraising
   - digital-campaigning

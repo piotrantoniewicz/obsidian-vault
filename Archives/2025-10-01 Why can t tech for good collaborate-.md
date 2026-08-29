@@ -2,8 +2,8 @@
 type: Web
 authors: '[[Jacek Siadkowski]]'
 url: 'https://www.fastcompany.com/91413487/why-cant-tech-for-good-collaborate'
-published: 2025-10-01T00:00:00.000Z
-created: 2026-03-20T00:00:00.000Z
+published: 2025-10-01
+created: 2026-03-20
 tags:
   - strategia-organizacji
   - narzędzia-AI

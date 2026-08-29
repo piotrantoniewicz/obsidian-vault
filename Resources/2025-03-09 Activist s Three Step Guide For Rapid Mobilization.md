@@ -5,7 +5,7 @@ authors:
   - "[[The Democracy Labs]]"
 url: https://thedemlabs.org/2025/03/09/how-grassroots-activists-can-moblize-and-organize-protests-faster-community-alert-system/
 source: "[[Archives/2025-03-09 Activist s Three Step Guide For Rapid Mobilization|2025-03-09 Activist s Three Step Guide For Rapid Mobilization]]"
-published: 2025-03-09T00:00:00.000Z
+published: 2025-03-09
 created: 2026-03-09
 relevance: średnia
 tags:

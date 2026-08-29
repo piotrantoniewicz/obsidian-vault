@@ -2,8 +2,8 @@
 type: Web
 authors: '[[How I AI]]'
 url: 'https://www.youtube.com/watch?v=BTcG59ZR9sg'
-published: 2025-12-29T00:00:00.000Z
-created: 2026-05-12T00:00:00.000Z
+published: 2025-12-29
+created: 2026-05-12
 tags:
   - strategia-AI
   - narzędzia-AI

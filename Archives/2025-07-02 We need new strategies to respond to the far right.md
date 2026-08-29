@@ -2,8 +2,8 @@
 type: Web
 authors: "[[Natasha Adams]]"
 url: https://thinkingdoingchanging.com/2025/07/02/we-need-new-strategies-for-the-far-right/?utm_medium=email&_hsenc=p2ANqtz--abESfC5VdSQQqmh9utce6gL-5i2UHGOg-TeNBc7CpaGPssyaIVm_MxsFg5PLEleJ6VkBs30Dbe7iE8emFR2kvleAkx0UlxByMrw3ifQnuYo40md8&_hsmi=114225492&utm_content=114225492&utm_source=hs_email
-published: 2025-07-02T00:00:00.000Z
-created: 2026-03-19T00:00:00.000Z
+published: 2025-07-02
+created: 2026-03-19
 tags:
   - framing
   - digital-campaigning

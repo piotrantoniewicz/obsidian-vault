@@ -2,8 +2,8 @@
 type: Web
 authors: "[[Cynthia Kroet]]"
 url: https://www.euronews.com/next/2025/07/25/meta-halts-political-advertising-in-the-eu-due-to-unworkable-rules?utm_source=newsletter&utm_medium=email&utm_term=Mon+02+Mar+2026&utm_campaign=Do+Something+Anything+The+Flags+Flags+Flags+edition+
-published: 2025-07-25T00:00:00.000Z
-created: 2026-03-02T00:00:00.000Z
+published: 2025-07-25
+created: 2026-03-02
 tags:
   - digital-campaigning
   - organizacje-społeczne

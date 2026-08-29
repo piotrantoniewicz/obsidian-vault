@@ -2,8 +2,8 @@
 type: Web
 authors: '[[Allie K Miller]]'
 url: 'https://www.youtube.com/watch?v=_nH1fc9HBSA'
-published: 2026-01-15T00:00:00.000Z
-created: 2026-04-06T00:00:00.000Z
+published: 2026-01-15
+created: 2026-04-06
 tags:
   - narzędzia-AI
   - automatyzacja

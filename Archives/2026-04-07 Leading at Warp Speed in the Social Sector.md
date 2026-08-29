@@ -3,8 +3,8 @@ type: Web
 authors: '[[Bryan Neider]]'
 url: >-
   https://www.linkedin.com/pulse/leading-warp-speed-social-sector-bryan-neider-lebdc/
-published: 2026-04-07T00:00:00.000Z
-created: 2026-04-11T00:00:00.000Z
+published: 2026-04-07
+created: 2026-04-11
 tags:
   - strategia-organizacji
   - organizacje-społeczne

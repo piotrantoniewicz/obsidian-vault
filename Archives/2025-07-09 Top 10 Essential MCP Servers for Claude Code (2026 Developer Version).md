@@ -2,8 +2,8 @@
 type: Web
 authors: '[[Ashley Innocent]]'
 url: 'https://apidog.com/blog/top-10-mcp-servers-for-claude-code/'
-published: 2025-07-09T00:00:00.000Z
-created: 2026-04-19T00:00:00.000Z
+published: 2025-07-09
+created: 2026-04-19
 tags:
   - narzędzia-AI
   - automatyzacja

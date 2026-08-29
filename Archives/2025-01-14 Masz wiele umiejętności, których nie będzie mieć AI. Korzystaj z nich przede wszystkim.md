@@ -3,8 +3,8 @@ type: Web
 authors: '[[Aga Kozak]]'
 url: >-
   https://sektor3-0.pl/blog/umiejetnosci-ktorych-ai-nie-bedzie-miec/?utm_source=newsletter&utm_medium=email&utm_term=2026-03-24&utm_campaign=+Wizerunek+dzieci+w+sieci+poradnik+dla+organizacji+
-published: 2025-01-14T00:00:00.000Z
-created: 2026-03-24T00:00:00.000Z
+published: 2025-01-14
+created: 2026-03-24
 tags:
   - trendy-AI
   - strategia-AI

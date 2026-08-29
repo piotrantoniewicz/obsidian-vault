@@ -2,8 +2,8 @@
 type: Web
 authors: "[[Tasha Van Vlack]]"
 url: https://thenonprofithive.com/reframing-the-nonprofit-narrative/?utm_source=brevo&utm_campaign=Newsletter%20February%2013&utm_medium=email
-published: 2026-02-02T00:00:00.000Z
-created: 2026-03-04T00:00:00.000Z
+published: 2026-02-02
+created: 2026-03-04
 tags:
   - framing
   - organizacje-społeczne

@@ -3,8 +3,8 @@ type: Web
 authors: '[[maxgreenwood]]'
 url: >-
   https://campaignsandelections.com/industry-news/the-social-platform-that-wants-to-build-a-down-ballot-talent-pipeline/?utm_campaign=35596043-C&E+-+Content+-+Newsletter&utm_medium=email&_hsenc=p2ANqtz-_yRBUcfQfuan4v0Joh9aYJaBYr78N84ZoV_RlqGf3deSfCeQ79Khy5k4pL-9yhRTXnik2SDRdfdsBKTRgLuW9MAVsGKpwVVXqGr89THKPMeJEOBRM&_hsmi=400920545&utm_content=400920545&utm_source=hs_email&link_id=16&can_id=32cae499f95a9349c734a72403321b9c&email_referrer=email_3081630&email_subject=take-risks-be-brave-and-be-bold&
-published: 2026-01-28T00:00:00.000Z
-created: 2026-04-06T00:00:00.000Z
+published: 2026-01-28
+created: 2026-04-06
 tags:
   - digital-campaigning
   - fundraising

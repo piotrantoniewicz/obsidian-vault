@@ -2,8 +2,8 @@
 type: Web
 authors: '[[GivingTuesday]]'
 url: 'https://www.givingtuesday.org/blog/monthly-giver/'
-published: 2025-05-13T00:00:00.000Z
-created: 2026-04-11T00:00:00.000Z
+published: 2025-05-13
+created: 2026-04-11
 tags:
   - fundraising
   - organizacje-społeczne

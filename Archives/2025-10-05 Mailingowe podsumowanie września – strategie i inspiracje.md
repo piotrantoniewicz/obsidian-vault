@@ -2,8 +2,8 @@
 type: Web
 authors: "[[Ecomail.pl]]"
 url: https://ecomail.pl/blog/pl/wrzesien-mailingowe-podsumowanie-miesiaca/?utm_term=15545&utm_medium=email&utm_campaign=2025_40_MPM_wrzesie%C5%84&ecmid=9813&utm_source=ecomail
-published: 2025-10-05T00:00:00.000Z
-created: 2026-03-02T00:00:00.000Z
+published: 2025-10-05
+created: 2026-03-02
 tags:
   - digital-campaigning
 ---

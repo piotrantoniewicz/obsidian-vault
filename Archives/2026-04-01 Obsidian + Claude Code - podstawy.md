@@ -2,8 +2,8 @@
 type: Web
 authors: '[[Wojtek Woźniak]]'
 url: 'https://www.youtube.com/watch?v=EzYcoPPlLxE'
-published: 2026-04-01T00:00:00.000Z
-created: 2026-04-15T00:00:00.000Z
+published: 2026-04-01
+created: 2026-04-15
 tags:
   - narzędzia-AI
   - context-engineering

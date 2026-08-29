@@ -2,8 +2,8 @@
 type: Web
 authors: '[[Rochi Zalani]]'
 url: 'https://buffer.com/resources/social-media-marketing-tools/'
-published: 2026-05-29T00:00:00.000Z
-created: 2026-06-01T00:00:00.000Z
+published: 2026-05-29
+created: 2026-06-01
 tags:
   - narzędzia-AI
   - content-marketing

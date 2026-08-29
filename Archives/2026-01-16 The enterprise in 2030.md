@@ -3,8 +3,8 @@ type: Web
 authors: '[[IBM]]'
 url: >-
   https://www.ibm.com/thought-leadership/institute-business-value/report/enterprise-2030?utm_medium=Email&utm_source=Newsletter&utm_content=CAAWW&utm_term=15MSC&utm_campaign=364769&utm_id=NW-Think2601201ENCTA1&mkt_tok=Mjk4LVJTRS02NTAAAAGfegoV2bzFWF7D6JkB_ve5rCAe9qaFr6QXvFX0gCv5RlGFEPkxapGHRRKaAopTJom4WKVUzRIlBnha6oeiOYHRnFOZrjcWoJgkVk7uh3mmXy2YJtHePtQ&utm_source=ActiveCampaign&utm_medium=email&utm_content=Zamiast%20tylko%20planowa%C4%87%20-%20zacznij%20tworzy%C4%87%21%20%F0%9F%92%9A&utm_campaign=Styczniowy%20update%20w%20CampusAI%3A%20Zamiast%20tylko%20planowa%C4%87%20-%20zacznij%20tworzy%C4%87%21%20%F0%9F%92%9A
-published: 2026-01-16T00:00:00.000Z
-created: 2026-03-24T00:00:00.000Z
+published: 2026-01-16
+created: 2026-03-24
 tags:
   - strategia-AI
   - trendy-AI

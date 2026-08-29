@@ -3,8 +3,8 @@ type: Web
 authors: '[[Katie Harbath]]'
 url: >-
   https://anchorchange.substack.com/p/the-impact-of-eu-regulation-on-political?utm_campaign=post&utm_medium=web&triedRedirect=true
-published: 2025-12-18T00:00:00.000Z
-created: 2026-03-26T00:00:00.000Z
+published: 2025-12-18
+created: 2026-03-26
 tags:
   - digital-campaigning
   - organizacje-społeczne

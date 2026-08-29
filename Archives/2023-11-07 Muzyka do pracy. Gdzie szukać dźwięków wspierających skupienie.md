@@ -2,8 +2,8 @@
 type: Web
 authors: '[[Kamil Śliwowski]]'
 url: 'https://sektor3-0.pl/blog/muzyka-dzwieki-do-pracy/'
-published: 2023-11-07T00:00:00.000Z
-created: 2026-03-24T00:00:00.000Z
+published: 2023-11-07
+created: 2026-03-24
 tags:
   - narzędzia-AI
   - produkty-cyfrowe

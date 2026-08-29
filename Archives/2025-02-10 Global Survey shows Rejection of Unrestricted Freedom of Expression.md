@@ -3,8 +3,8 @@ type: Web
 authors: '[[TUM Think Tank]]'
 url: >-
   https://tumthinktank.de/en/output/global-survey-shows-rejection-of-unrestricted-freedom-of-expression/
-published: 2025-02-10T00:00:00.000Z
-created: 2026-03-25T00:00:00.000Z
+published: 2025-02-10
+created: 2026-03-25
 tags:
   - digital-campaigning
   - framing

@@ -2,8 +2,8 @@
 type: Web
 authors: '[[DataKind UK]]'
 url: 'https://www.youtube.com/watch?v=YTp4OLDTlx8'
-published: 2025-06-16T00:00:00.000Z
-created: 2026-03-25T00:00:00.000Z
+published: 2025-06-16
+created: 2026-03-25
 tags:
   - strategia-AI
   - narzędzia-AI

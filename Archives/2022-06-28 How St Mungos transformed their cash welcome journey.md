@@ -3,8 +3,8 @@ type: Web
 authors: '[[Engaging Networks]]'
 url: >-
   https://www.engagingnetworks.net/resources/st-mungos-welcome-journey/?utm_source=www.civicshoutnewsletter.com&utm_medium=newsletter&utm_campaign=the-tests-that-transformed-a-welcome-series&_bhlid=8c303072d86b2014b0000149ebd3efbea84742ed
-published: 2022-06-28T00:00:00.000Z
-created: 2026-03-23T00:00:00.000Z
+published: 2022-06-28
+created: 2026-03-23
 tags:
   - fundraising
   - digital-campaigning

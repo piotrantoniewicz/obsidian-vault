@@ -3,8 +3,8 @@ type: Web
 authors: '[[Fundraise Up]]'
 url: >-
   https://fundraiseup.com/donor-experience-hub/new-timing-of-abandoned-donation-emails/?utm_source=www.civicshoutnewsletter.com&utm_medium=newsletter&utm_campaign=what-actually-worked-in-december&_bhlid=4e9c33ac1a2f5c5f8cc3837071fd0a4845192e12
-published: null
-created: 2026-03-22T00:00:00.000Z
+published:
+created: 2026-03-22
 tags:
   - fundraising
   - digital-campaigning

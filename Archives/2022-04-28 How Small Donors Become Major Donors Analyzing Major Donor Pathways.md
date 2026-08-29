@@ -3,8 +3,8 @@ type: Web
 authors: '[[CCS Fundraising]]'
 url: >-
   https://www.ccsfundraising.com/insights/how-small-donors-become-major-donors-analyzing-major-donor-pathways/?utm_source=www.civicshoutnewsletter.com&utm_medium=newsletter&utm_campaign=the-25-donors-who-became-25k-donors&_bhlid=1e2d3646d87bd8922f9bdac9084070d74b4d9a31
-published: 2022-04-28T00:00:00.000Z
-created: 2026-03-22T00:00:00.000Z
+published: 2022-04-28
+created: 2026-03-22
 tags:
   - fundraising
   - strategia-organizacji

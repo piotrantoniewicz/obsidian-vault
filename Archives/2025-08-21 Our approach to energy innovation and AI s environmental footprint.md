@@ -3,8 +3,8 @@ type: Web
 authors: '[[Ben Gomes]]'
 url: >-
   https://blog.google/company-news/outreach-and-initiatives/sustainability/google-ai-energy-efficiency/
-published: 2025-08-21T00:00:00.000Z
-created: 2026-03-23T00:00:00.000Z
+published: 2025-08-21
+created: 2026-03-23
 tags:
   - trendy-AI
   - strategia-AI

@@ -3,7 +3,7 @@ type: Web
 authors: "[[Meenakshi Das]]"
 url: https://www.linkedin.com/pulse/human-loop-enough-meenakshi-meena-das-guohc/
 published: 2025-07-11
-created: 2026-03-19T00:00:00.000Z
+created: 2026-03-19
 tags:
   - strategia-AI
   - szkolenia-AI

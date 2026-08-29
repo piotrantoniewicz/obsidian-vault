@@ -3,8 +3,8 @@ type: Web
 authors: '[[Kristina Monllos]]'
 url: >-
   https://www.marketingbrew.com/stories/2026/02/11/ai-bowl-ad-reception-openai-anthropic-feud?utm_source=www.civicshoutnewsletter.com&utm_medium=newsletter&utm_campaign=proof-first-story-second&_bhlid=6c021be510caa8e37ec91e1a4913929c814422ab
-published: 2026-02-11T00:00:00.000Z
-created: 2026-03-22T00:00:00.000Z
+published: 2026-02-11
+created: 2026-03-22
 tags:
   - trendy-AI
   - narzędzia-AI

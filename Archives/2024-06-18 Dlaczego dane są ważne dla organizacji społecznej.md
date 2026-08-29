@@ -3,8 +3,8 @@ type: Web
 authors: '[[Klaudia Stano]]'
 url: >-
   https://sektor3-0.pl/blog/dane-w-organizacji-spolecznej/?utm_source=newsletter&utm_medium=email&utm_term=2026-03-24&utm_campaign=Dane+kt%C3%B3re+poruszaj%C4%85+
-published: 2024-06-18T00:00:00.000Z
-created: 2026-03-24T00:00:00.000Z
+published: 2024-06-18
+created: 2026-03-24
 tags:
   - organizacje-społeczne
   - fundraising

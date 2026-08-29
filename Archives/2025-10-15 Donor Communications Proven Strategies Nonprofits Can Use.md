@@ -2,8 +2,8 @@
 type: Web
 authors: "[[Olivia Rowe]]"
 url: https://thenonprofithive.com/donor-communications-tips/?utm_source=brevo&utm_campaign=Newsletter%20November%205&utm_medium=email
-published: 2025-10-15T00:00:00.000Z
-created: 2026-03-04T00:00:00.000Z
+published: 2025-10-15
+created: 2026-03-04
 tags:
   - fundraising
   - framing

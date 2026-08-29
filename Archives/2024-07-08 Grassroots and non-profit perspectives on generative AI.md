@@ -3,8 +3,8 @@ type: Web
 authors: '[[Joseph Rowntree Foundation]]'
 url: >-
   https://www.jrf.org.uk/ai-for-public-good/grassroots-and-non-profit-perspectives-on-generative-ai
-published: 2024-07-08T00:00:00.000Z
-created: 2026-03-25T00:00:00.000Z
+published: 2024-07-08
+created: 2026-03-25
 tags:
   - strategia-AI
   - organizacje-społeczne

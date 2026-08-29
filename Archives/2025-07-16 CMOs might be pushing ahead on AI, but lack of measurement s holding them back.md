@@ -5,8 +5,8 @@ authors:
   - '[[Sam Bradley]]'
 url: >-
   https://digiday.com/marketing/cmos-might-be-pushing-ahead-on-ai-but-lack-of-measurements-holding-them-back/?utm_medium=email&_hsenc=p2ANqtz-8VpPMiwy53f_qDps_DVNieJ3u558qOIynJLe36h6O_o-9trVL7JD-FgNwVZ7kVt_lofTbqbJqcpVBRlAL9D8BIXtKBBTc_N-x1QWiTLP-kba7lXKM&_hsmi=114225492&utm_content=114225492&utm_source=hs_email
-published: '2025-07-16T00:00:00.000Z'
-created: '2026-03-19T00:00:00.000Z'
+published: 2025-07-16
+created: 2026-03-19
 tags:
   - strategia-AI
   - narzędzia-AI

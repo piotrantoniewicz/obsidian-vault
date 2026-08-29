@@ -2,8 +2,8 @@
 type: Web
 authors: '[[Lenny''s Podcast]]'
 url: 'https://www.youtube.com/watch?v=J9982NLmTXg'
-published: 2025-12-21T00:00:00.000Z
-created: 2026-05-12T00:00:00.000Z
+published: 2025-12-21
+created: 2026-05-12
 tags:
   - strategia-AI
   - LLM

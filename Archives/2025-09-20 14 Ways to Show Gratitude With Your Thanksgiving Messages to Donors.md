@@ -2,8 +2,8 @@
 type: Web
 authors: '[[Gia Chow]]'
 url: 'https://www.causevox.com/blog/14-thanksgiving-messages-to-donors/'
-published: 2025-09-20T00:00:00.000Z
-created: 2026-04-22T00:00:00.000Z
+published: 2025-09-20
+created: 2026-04-22
 tags:
   - fundraising
   - organizacje-społeczne

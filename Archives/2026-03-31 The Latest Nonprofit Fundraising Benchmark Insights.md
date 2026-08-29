@@ -3,8 +3,8 @@ type: Web
 authors: '[[Nathan Hill]]'
 url: >-
   https://www.avidai.com/blog/the-latest-nonprofit-fundraising-benchmark-insights-march-2026/?utm_campaign=39552259-Avid%20and%20Wiland%20Benchmark%20Launch&utm_medium=email&_hsenc=p2ANqtz-9Hy-xCR8izWhf2dkRt08ozvaVQAs4uYWSnw8sFIvXeqRQbBzlVD6JavesPOsLWdELpOpgZKIOTDbT1yO3OrSXQpQw7b33ebxSdozTGDuGDqgv6i5Y&_hsmi=414673079&utm_content=414673079&utm_source=hs_email
-published: 2026-03-31T00:00:00.000Z
-created: 2026-04-21T00:00:00.000Z
+published: 2026-03-31
+created: 2026-04-21
 tags:
   - fundraising
   - organizacje-społeczne

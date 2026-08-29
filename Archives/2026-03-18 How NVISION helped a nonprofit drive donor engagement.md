@@ -3,8 +3,8 @@ type: Web
 authors: '[[Mailchimp]]'
 url: >-
   https://mailchimp.com/case-studies/nvision-drives-donor-engagement/?utm_source=www.civicshoutnewsletter.com&utm_medium=newsletter&utm_campaign=the-copy-tweak-that-boosted-american-cancer-society-s-revenue-by-165&_bhlid=631d65497dc759fb119750f4a3c5a3ed931db02e
-published: null
-created: 2026-03-18T00:00:00.000Z
+published:
+created: 2026-03-18
 tags:
   - fundraising
   - digital-campaigning

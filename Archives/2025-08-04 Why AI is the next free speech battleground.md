@@ -3,8 +3,8 @@ type: Web
 authors: '[[Center for Humane Technology]]'
 url: >-
   https://centerforhumanetechnology.substack.com/p/why-ai-is-the-next-free-speech-battleground
-published: 2025-08-04T00:00:00.000Z
-created: 2026-03-19T00:00:00.000Z
+published: 2025-08-04
+created: 2026-03-19
 tags:
   - strategia-AI
   - framing

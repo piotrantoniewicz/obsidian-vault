@@ -3,8 +3,8 @@ type: Web
 authors: '[[Eileen Guo]]'
 url: >-
   https://www.technologyreview.com/2025/06/11/1118233/amsterdam-fair-welfare-ai-discriminatory-algorithms-failure/?utm_medium=email&_hsenc=p2ANqtz-_mIyBDKBHLg6SVARs_aDywKtrLKnoIXh8zhX65zPnn7QcVoyeoDkP4hEVAh4TJiAM9cacEtvje1MmiwD_wGJgt97U4-0Y7cYhb3ObRH2zMyGMXm-U&_hsmi=112708171&utm_content=112708171&utm_source=hs_email
-published: 2025-06-11T00:00:00.000Z
-created: 2026-03-19T00:00:00.000Z
+published: 2025-06-11
+created: 2026-03-19
 tags:
   - strategia-AI
   - organizacje-społeczne

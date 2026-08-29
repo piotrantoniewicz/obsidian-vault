@@ -3,8 +3,8 @@ type: Web
 authors: '[[Fast Forward]]'
 url: >-
   https://www.ffwd.org/blog/kasumi-quinlan-using-ai-to-reimagine-food-insecurity?utm_campaign=WGIT&utm_medium=email&_hsenc=p2ANqtz-_ld_WYfBZNcHYxSfF1sm-AgicMxKQyoESB_91Uj-QR9HW981IT40_nzkkE3irPV9wu-r4vNaL3FU8PBgQtHfF-4bqaT7EVouOHBpmQJnZQLONdh1c&_hsmi=19542885&utm_content=19542885&utm_source=hs_email
-published: 2025-11-20T00:00:00.000Z
-created: 2026-04-13T00:00:00.000Z
+published: 2025-11-20
+created: 2026-04-13
 tags:
   - strategia-AI
   - organizacje-społeczne

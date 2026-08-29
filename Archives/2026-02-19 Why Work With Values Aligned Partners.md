@@ -3,8 +3,8 @@ type: Web
 authors: '[[staceyruggles]]'
 url: >-
   https://thesocialchangenest.org/why-work-with-values-aligned-partners/?utm_campaign=Newsletter&utm_medium=email&_hsenc=p2ANqtz--dA35mLvHMUFwjJbI78ZHvUrPLcSvNAn8MR2uKJLKEDbvzEdsrx9q40gqagsNV553YuJZ-2jXpTTofNRxy1qOI7ConO5fcv6S47K5hZWEwvEmhb3c&_hsmi=408214019&utm_content=408214019&utm_source=hs_email
-published: 2026-02-19T00:00:00.000Z
-created: 2026-03-23T00:00:00.000Z
+published: 2026-02-19
+created: 2026-03-23
 tags:
   - organizacje-społeczne
   - strategia-organizacji

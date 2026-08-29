@@ -3,8 +3,8 @@ type: Web
 authors: '[[Sektor 3.0]]'
 url: >-
   https://sektor3-0.pl/blog/droga-do-zrozumienia-maszyn-i-mechaniki-ich-wplywu/?utm_source=newsletter&utm_medium=email&utm_term=2026-03-24&utm_campaign=+Automatyzacja+w+NGO+krok+po+kroku
-published: 2025-10-23T00:00:00.000Z
-created: 2026-03-24T00:00:00.000Z
+published: 2025-10-23
+created: 2026-03-24
 tags:
   - digital-campaigning
   - framing

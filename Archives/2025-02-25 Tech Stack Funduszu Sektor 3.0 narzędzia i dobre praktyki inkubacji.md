@@ -3,8 +3,8 @@ type: Web
 authors: '[[Michał Serwiński]]'
 url: >-
   https://sektor3-0.pl/blog/tech-stack-funduszu-sektor-3-0-narzedzia-i-dobre-praktyki-inkubacji/?utm_source=newsletter&utm_medium=email&utm_term=2026-03-24&utm_campaign=+Jak+korzysta%C4%87+z+Perplexity+
-published: 2025-02-25T00:00:00.000Z
-created: 2026-03-24T00:00:00.000Z
+published: 2025-02-25
+created: 2026-03-24
 tags:
   - strategia-organizacji
   - organizacje-społeczne

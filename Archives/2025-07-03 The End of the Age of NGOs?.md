@@ -3,8 +3,8 @@ type: Web
 authors: ["[[Sarah Bush]]", "[[Jennifer Hadden]]"]
 url: >-
   https://www.foreignaffairs.com/world/end-age-ngos?check_logged_in=1&utm_medium=promo_email&utm_source=lo_flows&utm_campaign=article_link&utm_term=article_email&utm_content=20250810
-published: 2025-07-03T00:00:00.000Z
-created: 2026-03-13T00:00:00.000Z
+published: 2025-07-03
+created: 2026-03-13
 tags:
   - organizacje-społeczne
   - strategia-organizacji

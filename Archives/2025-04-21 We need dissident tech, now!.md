@@ -4,7 +4,7 @@ authors: null
 url: >-
   https://www.linkedin.com/pulse/we-need-dissident-tech-now-dr-astrid-scholz-prhoc/
 published: '2025-04-21'
-created: 2026-03-19T00:00:00.000Z
+created: 2026-03-19
 tags:
   - organizacje-społeczne
   - strategia-organizacji

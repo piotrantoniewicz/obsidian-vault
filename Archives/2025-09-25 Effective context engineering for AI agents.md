@@ -3,8 +3,8 @@ type: Web
 authors: null
 url: >-
   https://www.anthropic.com/engineering/effective-context-engineering-for-ai-agents
-published: 2025-09-25T00:00:00.000Z
-created: 2026-03-13T00:00:00.000Z
+published: 2025-09-25
+created: 2026-03-13
 tags:
   - strategia-AI
   - automatyzacja

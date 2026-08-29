@@ -3,7 +3,7 @@ type: Web
 authors:
 url: https://campaigninnovation.org/articles/imagining-the-positive-possibilities-of-political-ai
 published: 2025-04-15
-created: 2026-03-19T00:00:00.000Z
+created: 2026-03-19
 tags:
   - strategia-AI
   - digital-campaigning

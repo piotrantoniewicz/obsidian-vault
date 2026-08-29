@@ -3,8 +3,8 @@ type: Web
 authors: '[[Sara Cederberg]]'
 url: >-
   https://www.civicshoutnewsletter.com/p/what-20-years-of-m-r-benchmarks-data-tells-us-about-email?utm_source=www.civicshoutnewsletter.com&utm_medium=newsletter&utm_campaign=are-your-emails-helping-or-hurting&_bhlid=fdda4c728145b2e1ba5434369ae30558c85e0f3f
-published: 2026-03-26T00:00:00.000Z
-created: 2026-04-11T00:00:00.000Z
+published: 2026-03-26
+created: 2026-04-11
 tags:
   - fundraising
   - digital-campaigning

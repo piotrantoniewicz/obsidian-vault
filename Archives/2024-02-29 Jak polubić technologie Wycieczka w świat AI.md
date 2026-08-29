@@ -2,8 +2,8 @@
 type: Web
 authors: '[[Aga Kozak]]'
 url: 'https://sektor3-0.pl/blog/jak-polubic-technologie-wycieczka-w-swiat-ai/'
-published: 2024-02-29T00:00:00.000Z
-created: 2026-03-24T00:00:00.000Z
+published: 2024-02-29
+created: 2026-03-24
 tags:
   - narzędzia-AI
   - szkolenia-AI

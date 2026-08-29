@@ -2,8 +2,8 @@
 type: Web
 authors: "[[AI for Good]]"
 url: https://www.linkedin.com/pulse/meet-finalists-2025-ai-good-impact-awards-ixlre/?trackingId=STisjIj7hkxqJQgPHt%2B3oQ%3D%3D&utm_source=substack&utm_medium=email
-published: 2025-06-10T00:00:00.000Z
-created: 2026-03-02T00:00:00.000Z
+published: 2025-06-10
+created: 2026-03-02
 tags:
   - narzędzia-AI
   - organizacje-społeczne

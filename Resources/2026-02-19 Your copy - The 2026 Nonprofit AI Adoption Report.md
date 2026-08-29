@@ -1,7 +1,7 @@
 ---
 categories:
   - "Emails"
-published: 19.02.2026
+published: 2026-02-19
 created: 2026-03-06
 labels:
   - "Virtuous"

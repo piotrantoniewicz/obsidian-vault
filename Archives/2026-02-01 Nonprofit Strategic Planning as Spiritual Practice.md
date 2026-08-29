@@ -2,8 +2,8 @@
 type: Web
 authors: "[[Timothy DeCelle]]"
 url: https://thenonprofithive.com/nonprofit-strategic-planning-in-uncertain-times/?utm_source=brevo&utm_campaign=Newsletter%20February%2013&utm_medium=email
-published: 2026-02-01T00:00:00.000Z
-created: 2026-03-04T00:00:00.000Z
+published: 2026-02-01
+created: 2026-03-04
 tags:
   - organizacje-społeczne
   - framing

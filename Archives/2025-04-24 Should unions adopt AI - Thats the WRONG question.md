@@ -3,8 +3,8 @@ type: Web
 authors: '[[Nick Scott]]'
 url: >-
   https://www.agileunions.ai/p/interview-unionbase-engage-adopt-ai-unions?utm_medium=email&_hsenc=p2ANqtz-9KIdWRleAqLJic2U2cP7gfcJQy1Jqcpq8MOo3f5itfXSO9-xyADVtfWSITQfN6yJV668kBND3bZJZ1qq6ic9kubD7SB-KmiN7vj-k1Smxms8aet5M&_hsmi=109001541&utm_content=109001541&utm_source=hs_email
-published: 2025-04-24T00:00:00.000Z
-created: 2026-03-19T00:00:00.000Z
+published: 2025-04-24
+created: 2026-03-19
 tags:
   - szkolenia-AI
   - strategia-AI

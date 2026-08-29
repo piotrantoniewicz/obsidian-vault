@@ -2,8 +2,8 @@
 type: Web
 authors: '[[Sektor 3.0]]'
 url: 'https://sektor3-0.pl/podcast/o-pierwszej-lekcji-z-ai/'
-published: 2023-05-03T00:00:00.000Z
-created: 2026-03-24T00:00:00.000Z
+published: 2023-05-03
+created: 2026-03-24
 tags:
   - szkolenia-AI
   - narzędzia-AI

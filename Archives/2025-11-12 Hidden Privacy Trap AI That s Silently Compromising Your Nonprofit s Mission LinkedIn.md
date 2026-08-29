@@ -3,8 +3,8 @@ type: Web
 authors: '[[Wayan Vota]]'
 url: >-
   https://www.linkedin.com/pulse/hidden-privacy-trap-ai-thats-silently-compromising-your-wayan-vota-jnqje/
-published: 2025-11-12T00:00:00.000Z
-created: 2026-03-20T00:00:00.000Z
+published: 2025-11-12
+created: 2026-03-20
 tags:
   - narzędzia-AI
   - organizacje-społeczne

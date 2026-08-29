@@ -3,8 +3,8 @@ type: Web
 authors: '[[Wendy Clow]]'
 url: >-
   https://www.linkedin.com/pulse/ai-policy-we-approved-last-week-wendy-clow-pvigf/
-published: 2026-08-11T00:00:00.000Z
-created: 2026-08-12T00:00:00.000Z
+published: 2026-08-11
+created: 2026-08-12
 tags:
   - strategia-AI
   - organizacje-społeczne

@@ -3,8 +3,8 @@ type: Web
 authors: '[[Make]]'
 url: >-
   https://www.make.com/en/blog/autonomous-ai?utm_campaign=Insights_Weekly_270426&utm_medium=email&utm_source=customer.io
-published: 2026-04-21T00:00:00.000Z
-created: 2026-04-27T00:00:00.000Z
+published: 2026-04-21
+created: 2026-04-27
 tags:
   - automatyzacja
   - strategia-AI

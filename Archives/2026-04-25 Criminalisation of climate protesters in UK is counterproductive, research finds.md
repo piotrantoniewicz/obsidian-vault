@@ -3,8 +3,8 @@ type: Web
 authors: '[[Damian Carrington]]'
 url: >-
   https://www.theguardian.com/environment/2026/apr/25/criminalisation-of-climate-protesters-in-uk-is-counterproductive-research-finds?mc_cid=bae5fa5f1b&mc_eid=UNIQID
-published: 2026-04-25T00:00:00.000Z
-created: 2026-05-07T00:00:00.000Z
+published: 2026-04-25
+created: 2026-05-07
 tags:
   - digital-campaigning
   - organizacje-społeczne

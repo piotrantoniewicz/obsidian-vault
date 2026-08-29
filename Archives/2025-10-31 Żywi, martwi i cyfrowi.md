@@ -2,8 +2,8 @@
 type: Web
 authors: '[[Jacek Mańko]]'
 url: 'https://blog.humanistyka.dev/2025/10/zywi-martwi-i-cyfrowi'
-published: 2025-10-31T00:00:00.000Z
-created: 2026-06-14T00:00:00.000Z
+published: 2025-10-31
+created: 2026-06-14
 tags:
   - trendy-AI
   - LLM

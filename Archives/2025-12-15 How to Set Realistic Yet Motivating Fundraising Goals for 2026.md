@@ -2,8 +2,8 @@
 type: Web
 authors: '[[Madison Barefield]]'
 url: 'https://www.causevox.com/blog/set-realistic-fundraising-goals/'
-published: 2025-12-15T00:00:00.000Z
-created: 2026-04-22T00:00:00.000Z
+published: 2025-12-15
+created: 2026-04-22
 tags:
   - fundraising
   - strategia-organizacji

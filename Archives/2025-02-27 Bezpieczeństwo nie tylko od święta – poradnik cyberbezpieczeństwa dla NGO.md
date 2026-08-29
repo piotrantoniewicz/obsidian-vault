@@ -3,8 +3,8 @@ type: Web
 authors: '[[Sektor 3.0]]'
 url: >-
   https://sektor3-0.pl/blog/cyberbezpieczenstwa-ngo-poradnik-nask/?utm_source=newsletter&utm_medium=email&utm_term=2026-03-24&utm_campaign=+Jak+korzysta%C4%87+z+Perplexity+
-published: 2025-02-27T00:00:00.000Z
-created: 2026-03-24T00:00:00.000Z
+published: 2025-02-27
+created: 2026-03-24
 tags:
   - organizacje-społeczne
   - strategia-organizacji

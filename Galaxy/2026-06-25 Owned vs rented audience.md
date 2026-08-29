@@ -5,7 +5,7 @@ tags:
   - strategia-organizacji
   - content-marketing
 created: 2026-06-25
-updated: 2026-08-28
+updated: 2026-08-29
 relevance: wysoka
 sources:
   - "[[2026-05-12 why newsletter ghostwriting (time to forget LinkedIn)]]"
@@ -37,6 +37,8 @@ sources:
   - "[[2026-08-26 The role of podcasts in political and social activism]]"
   - "[[2026-06-16 Donors Want Giving Platforms To Be Accurate, Transparent, Consent Of Charities]]"
   - "[[2026-08-03 The New Rules of LinkedIn are here. Now I’m tearing down my 100k account to follow them.]]"
+  - "[[2026-08-26 Stars, Stripes, and Server Farms 10 Groundbreaking Digital Techniques from the 2026 US Midterms]]"
+  - "[[2026-08-28 The most likely hole in your content strategy]]"
 ---
 
 # Owned vs rented audience (publiczność własna vs wynajęta)
@@ -134,6 +136,15 @@ Do tej pory ta strona traktowała „kanał wynajęty" jako media społeczności
 
 **24. Followersi przestali być fosą — najostrzejsza wersja „pułapki metryki wynajętej" ([[Devin Reed]])**
 Domknięcie mech. 5 twierdzeniem mocniejszym niż dotychczasowe: po przejściu [[LinkedIn]] z grafu społecznościowego na **graf zainteresowań** (oficjalnie potwierdzone **12 marca 2026**) zbudowana latami baza followersów **przestaje chronić zasięg** — każdy post jest oceniany po trafności tematycznej niezależnie od wielkości sieci autora, a konto z 8 tys. i konto z 80 tys. mają porównywalną szansę. To jest dokładnie ten scenariusz, przed którym ostrzega mech. 2 (asymetria zasobu): metryka wynajęta nie tylko nie jest przenośna — **właściciel platformy może ją jednostronnie unieważnić jako aktywo**, bez usuwania ani jednego kontaktu. Kontrast z listą mailową jest tu najczystszy w całej stronie: 100 tys. adresów jest warte tyle samo po zmianie algorytmu, 100 tys. followersów nie. Zastrzeżenie do rekomendacji: zmiana jest zarazem **korzystna dla małych kont** (wyrównuje szanse nowych graczy — odwrotnie niż typowa zmiana rankingu), więc dla organizacji społecznej wchodzącej na kanał to okno możliwości, nie tylko ryzyko; cena wstępu przesuwa się z rozmiaru sieci na **konsekwencję tematyczną przez 90 dni**. Siedem reguł wynikających z tej zmiany: [[2026-08-17 Marka osobista|Marka osobista]], mech. 15. *(Źródło: [[2026-08-03 The New Rules of LinkedIn are here. Now I’m tearing down my 100k account to follow them.]])*
+
+**25. Comment-to-get — mechanika przelewania zasięgu wynajętego w zasób własny ([[Ryan Carr]])**
+Konkretna odpowiedź na pytanie, które ta strona stawia od mech. 1: *jak* zamienić obecność na cudzej platformie w listę, której nikt nie może zabrać. Post na kanale wynajętym nie prowadzi do landing page'a, tylko prosi o **komentarz o określonej treści** — komentarz zwiększa zasięg posta w sieci komentującego (czyli algorytm platformy pracuje na rzecz akwizycji), a obiecany materiał wysyłany jest **prywatną wiadomością**, co otwiera kontakt 1:1 i naturalne domknięcie zapisem na listę. Skala z case'u agencyjnego: **cztery posty LinkedIn → 1000 subskrybentów w 27 dni**, największy z nich **3 529 komentarzy**. Znaczenie dla tej strony jest dwustronne: to najtańsza znana dźwignia konwersji rented → owned, ale zarazem **mechanika w całości zależna od reguł platformy** (zasięg komentarzy, limity DM-ów, tolerancja dla automatyzacji typu Manychat) — czyli dokładnie ten typ aktywa, który mech. 24 opisuje jako możliwy do unieważnienia decyzją właściciela z dnia na dzień. Wniosek operacyjny: używać jej jako pompy do listy, nigdy jako stałego kanału dystrybucji. *(Źródło: [[2026-08-14 How to grow your email list (fast)]])*
+
+**26. „Platform blackout" — wynajęty kanał potrafi zamknąć się w najważniejszym tygodniu ([[Partisan]])**
+Najostrzejszy dostępny dowód na tezę strony, bo nie dotyczy zasięgu ani algorytmu, tylko **dostępu w ogóle**: Meta blokuje nowe reklamy polityczne **na 7 dni przed wyborami**, a TikTok zakazuje reklam politycznych całkowicie. Kanał wynajęty nie degraduje się tu stopniowo (mech. 24, „followersi przestali być fosą") — **wyłącza się w z góry znanym, najgorszym możliwym momencie**. Wniosek operacyjny, przekładalny na każdą kampanię z twardą datą (nie tylko wyborczą — także finał zbiórki czy deadline konsultacji): **testy i optymalizacja przed oknem blackoutu, ostatni tydzień jako faza egzekucji gotowych treści, nie premiery**. To dokłada trzeci, proceduralny argument za kanałem własnym obok argumentu o zasięgu i o własności relacji: lista e-mailowa i SMS są jedynymi kanałami, których **regulamin platformy nie potrafi zamknąć w dniu D-7**. Dopełnia audyt TTPA opisany w „Zastosowaniu" — tam pytanie brzmiało „czy zakaz nas dotyczy", tu „co robimy, gdy dotyczy". Źródło: [[2026-08-26 Stars, Stripes, and Server Farms 10 Groundbreaking Digital Techniques from the 2026 US Midterms]].
+
+**27. Zaplanowana reakcja na zaangażowanie — brakująca połowa strategii treści ([[Josh Spector]])**
+Diagnoza luki, która w tej wiki dotąd nie miała nazwy: strategia treści zwykle opisuje **cel, odbiorcę, harmonogram i formaty**, czyli wszystko **do momentu publikacji** — i milczy o tym, **co się dzieje, gdy ktoś zareaguje**. Lajk, komentarz i udostępnienie zostają obsłużone podziękowaniem albo odpowiedzią ad hoc, czyli **zasięg wynajęty nie zamienia się w nic własnego**. Teza: *„strategia contentowa nie kończy się na publikacji — to dopiero połowa bitwy"*, a brakująca połowa to **powtarzalna, zaprojektowana ścieżka od zaangażowania do konkretnego statusu** (subskrybent, kontakt, darczyńca). To ta sama mechanika, którą mech. 25 opisuje w wariancie zautomatyzowanym (*comment-to-get*), ale postawiona ogólniej i jako **brak procesu, nie brak narzędzia**: pytanie kontrolne do audytu kanału brzmi „co dokładnie dzieje się z osobą, która skomentowała — kto, kiedy i czym się do niej odzywa". Zastrzeżenie do źródła: materiał promuje **własny produkt szkoleniowy autora** („Buyer Bridge") i nie podaje żadnych danych — wartość jest w pytaniu diagnostycznym, nie w metodzie. Dla organizacji społecznej najprostsza wersja tej ścieżki to **komentarz → wiadomość z jednym zasobem → zapis na listę**, czyli lejek rented → owned z mech. 4, uruchamiany ręcznie przez konkretną osobę z zespołu. *(Źródło: [[2026-08-28 The most likely hole in your content strategy]])*
 
 ## Powiązane pojęcia
 

@@ -3,8 +3,8 @@ type: Web
 authors: '[[Sara Cederberg]]'
 url: >-
   https://www.civicshoutnewsletter.com/p/the-deliverability-signal-you-might-be-ignoring?utm_source=nptechforgood&utm_campaign=deliverability
-published: 2026-03-24T00:00:00.000Z
-created: 2026-05-11T00:00:00.000Z
+published: 2026-03-24
+created: 2026-05-11
 tags:
   - digital-campaigning
   - fundraising

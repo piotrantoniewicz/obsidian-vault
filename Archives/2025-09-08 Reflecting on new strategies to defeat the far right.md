@@ -2,8 +2,8 @@
 type: Web
 authors: "[[Natasha Adams]]"
 url: https://thinkingdoingchanging.com/2025/09/08/reflecting-on-new-strategies-to-defeat-the-far-right/?utm_medium=email&_hsenc=p2ANqtz-_uOdMvxYIAKS0QM5Wqxtf_SXT-en-ZPm1s14oUfhNm0KoqFDY7YNkjbza5IGDKimrhV_P6rpq-r0Zfo951Tg7rRiGuhZh59gwdJ7_0AwfhMbsTfyo&_hsmi=117692597&utm_content=117692597&utm_source=hs_email
-published: 2025-09-08T00:00:00.000Z
-created: 2026-03-20T00:00:00.000Z
+published: 2025-09-08
+created: 2026-03-20
 tags:
   - strategia-organizacji
   - digital-campaigning

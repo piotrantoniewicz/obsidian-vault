@@ -3,8 +3,8 @@ type: Web
 authors: '[[Micah L. Sifry]]'
 url: >-
   https://theconnector.substack.com/p/bad-news-and-good-news-on-the-fundraising?utm_medium=email&_hsenc=p2ANqtz--HPPxVsk7oA74IaALWjQ4HQBVUDA9bp8lFZu4oVLGKap7sKrRAmtXFRDM0XFFd_Qls6pOFusKry2JzQSqf4xWCGyOX2nVIYE4gk6CunYgYe2veT78&_hsmi=115320471&utm_content=115320471&utm_source=hs_email
-published: 2025-08-07T00:00:00.000Z
-created: 2026-03-19T00:00:00.000Z
+published: 2025-08-07
+created: 2026-03-19
 tags:
   - fundraising
   - digital-campaigning

@@ -3,8 +3,8 @@ type: Web
 authors: '[[Fast Forward]]'
 url: >-
   https://www.ffwd.org/blog/rodrigo-camarena-believes-ai-can-help-workers-access-justice?utm_campaign=wgit&utm_medium=email&_hsenc=p2ANqtz-8TFPn0WbasODZe7D0By0XQT1O4F0rB46vdRLd7N45IvaDXTtuGBWl9SuxxLB9KyPKEbRiJ8np9npUysJqIMKw30sXWRO8JWLqPX1s_-5Ah-qBBiLQ&_hsmi=14846181&utm_source=hs_email
-published: 2025-09-30T00:00:00.000Z
-created: 2026-04-13T00:00:00.000Z
+published: 2025-09-30
+created: 2026-04-13
 tags:
   - narzędzia-AI
   - organizacje-społeczne

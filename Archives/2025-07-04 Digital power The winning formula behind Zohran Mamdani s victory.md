@@ -3,8 +3,8 @@ type: Web
 authors: '[[Philippe Bossin]]'
 url: >-
   https://www.centerfordigitalaction.eu/post/the-winning-formula-behind-mamdanis-victory?link_id=7&can_id=32cae499f95a9349c734a72403321b9c&source=email-pride-podcasts-and-plenty-of-ways-to-get-involved&email_referrer=email_2814397&email_subject=digital-solidarity-how-can-online-tools-help-strengthen-europes-unions-last-chance-to-join-our-discussion&&
-published: 2025-07-04T00:00:00.000Z
-created: 2026-04-05T00:00:00.000Z
+published: 2025-07-04
+created: 2026-04-05
 tags:
   - digital-campaigning
   - framing

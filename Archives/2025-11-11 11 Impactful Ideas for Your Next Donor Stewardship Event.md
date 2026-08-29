@@ -3,8 +3,8 @@ type: Web
 authors: '[[Allie Astor]]'
 url: >-
   https://neonone.com/resources/blog/donor-stewardship-events/?utm_source=nptechforgood&utm_medium=partner&utm_campaign=paid_nptechforgood_multichannel_tofu_april_feature_q2_2026
-published: 2025-11-11T00:00:00.000Z
-created: 2026-04-13T00:00:00.000Z
+published: 2025-11-11
+created: 2026-04-13
 tags:
   - fundraising
   - organizacje-społeczne

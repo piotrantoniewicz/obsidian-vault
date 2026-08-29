@@ -3,8 +3,8 @@ type: Web
 authors: '[[Bonterra]]'
 url: >-
   https://www.bonterratech.com/blog/2026-is-a-turning-point-for-social-impact?utm_source=www.civicshoutnewsletter.com&utm_medium=newsletter&utm_campaign=what-actually-worked-in-december&_bhlid=d8d9106359e236085838938c650de54034d350b1
-published: 2026-01-21T00:00:00.000Z
-created: 2026-03-22T00:00:00.000Z
+published: 2026-01-21
+created: 2026-03-22
 tags:
   - strategia-organizacji
   - narzędzia-AI

@@ -3,8 +3,8 @@ type: Web
 authors: '[[European Center for Digital Action]]'
 url: >-
   https://www.centerfordigitalaction.eu/post/the-death-of-the-follower?utm_medium=email&_hsenc=p2ANqtz-9nPkzEkVkLhHjNj6slIjXnrhJhHkh0PT-uyhQv3sTIu1ayMYwCHND_lXqlVpdP1bu-lPy0zj8N5gVhJJ2upy357LHQM9Bhy3G4IKGqg1UC-mlD4Lo&_hsmi=107126839&utm_content=107126839&utm_source=hs_email
-published: 2025-03-28T00:00:00.000Z
-created: 2026-03-19T00:00:00.000Z
+published: 2025-03-28
+created: 2026-03-19
 tags:
   - digital-campaigning
   - content-marketing

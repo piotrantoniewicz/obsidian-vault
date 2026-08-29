@@ -3,8 +3,8 @@ type: Web
 authors: '[[TechSoup]]'
 url: >-
   https://www.techsoup.pl/blog/ai-dla-zmiany-spo%C5%82ecznej-diagnoza-cyfrowej-tera%C5%BAniejszo%C5%9Bci-i-kierunki-rozwoju-organizacji?utm_source=newsletter&utm_medium=email_newsletter&utm_campaign=microsoft_ai_2025&utm_content=artykul_diagnoza
-published: 2026-02-05T00:00:00.000Z
-created: 2026-03-22T00:00:00.000Z
+published: 2026-02-05
+created: 2026-03-22
 tags:
   - strategia-AI
   - szkolenia-AI

@@ -3,8 +3,8 @@ type: Web
 authors: null
 url: >-
   https://thefix.media/2026/01/06/basta-a-french-investigative-media-outlet-that-relies-solely-on-donations/?link_id=17&can_id=32cae499f95a9349c734a72403321b9c&source=email-digital-organizing-is-our-superpower&email_referrer=email_3081630&email_subject=take-risks-be-brave-and-be-bold&&
-published: 2026-01-06T00:00:00.000Z
-created: 2026-04-06T00:00:00.000Z
+published: 2026-01-06
+created: 2026-04-06
 tags:
   - fundraising
   - organizacje-społeczne

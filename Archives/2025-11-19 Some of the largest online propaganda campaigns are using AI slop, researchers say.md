@@ -3,8 +3,8 @@ type: Web
 authors: '[[Kevin Collier]]'
 url: >-
   https://www.nbcnews.com/tech/security/online-propaganda-campaigns-are-using-ai-slop-researchers-say-rcna244618?utm_medium=email&_hsenc=p2ANqtz-9AL_7Hij4X1XExTYL0OxoSV8hbrqJ-5HVaYw2EYcNRFY6qProM0efoYBPyVbh4c8hPGRpJg8Mm0FCrZfSyZuY7jfYhCf23bmXO7QUxePVRPK7GUpQ&_hsmi=124279693&utm_content=124279693&utm_source=hs_email
-published: 2025-11-19T00:00:00.000Z
-created: 2026-03-20T00:00:00.000Z
+published: 2025-11-19
+created: 2026-03-20
 tags:
   - trendy-AI
   - digital-campaigning

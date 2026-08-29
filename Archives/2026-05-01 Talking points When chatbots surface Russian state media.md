@@ -3,8 +3,8 @@ type: Web
 authors: '[[Partisan]]'
 url: >-
   https://hub.partisan.community/m/news/talking-points-when-chatbots-surface-russian-state-media/d1a9a213-829a-4ea5-a0ff-76c995cff624
-published: 2026-05-01T00:00:00.000Z
-created: 2026-05-05T00:00:00.000Z
+published: 2026-05-01
+created: 2026-05-05
 tags:
   - LLM
   - digital-campaigning

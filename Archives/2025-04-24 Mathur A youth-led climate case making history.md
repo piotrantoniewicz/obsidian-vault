@@ -3,8 +3,8 @@ type: Web
 authors: '[[Ecojustice]]'
 url: >-
   https://ecojustice.ca/news/a-youth-led-climate-case-thats-set-to-make-history-again/
-published: 2025-04-24T00:00:00.000Z
-created: 2026-03-25T00:00:00.000Z
+published: 2025-04-24
+created: 2026-03-25
 tags:
   - organizacje-społeczne
   - digital-campaigning

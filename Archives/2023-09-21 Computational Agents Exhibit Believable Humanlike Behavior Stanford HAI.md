@@ -3,8 +3,8 @@ type: Web
 authors: null
 url: >-
   https://hai.stanford.edu/news/computational-agents-exhibit-believable-humanlike-behavior?utm_source=ActiveCampaign&utm_medium=email&utm_content=Marzec%20w%20CampusAI%3A%20co%C5%9B%20si%C4%99%20ko%C5%84czy%2C%20co%C5%9B%20si%C4%99%20tworzy%2C%20co%C5%9B%20si%C4%99%20zaczyna&utm_campaign=Newsletter%20Miesi%C4%99czny%20Community%20-%20Marzec%2025
-published: 2023-09-21T00:00:00.000Z
-created: 2026-03-24T00:00:00.000Z
+published: 2023-09-21
+created: 2026-03-24
 tags:
   - LLM
   - narzędzia-AI

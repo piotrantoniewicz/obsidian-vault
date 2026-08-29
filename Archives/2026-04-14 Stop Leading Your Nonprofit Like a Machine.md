@@ -3,8 +3,8 @@ type: Web
 authors: '[[Bryan Neider]]'
 url: >-
   https://www.linkedin.com/pulse/stop-leading-your-nonprofit-like-machine-bryan-neider-3xrlc/
-published: 2026-04-14T00:00:00.000Z
-created: 2026-04-14T00:00:00.000Z
+published: 2026-04-14
+created: 2026-04-14
 tags:
   - organizacje-społeczne
   - fundraising

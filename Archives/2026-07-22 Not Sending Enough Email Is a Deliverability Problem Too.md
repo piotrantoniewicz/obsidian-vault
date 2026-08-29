@@ -3,8 +3,8 @@ type: Web
 authors: '[[Beth O''Malley]]'
 url: >-
   https://weareastral.co.uk/thevault/not-sending-enough-email-is-a-deliverability-problem-too?utm_medium=email&_hsenc=p2ANqtz-_W6KKu30DR0HBXpUJjytu0UZbBhpQ1q_QTgh7t-rF0Z-rUu6mOxxJIMlGRSFTo7UBxuUnbVLzxtvOfipO12g3-gP1zAMhu0aAd5yItFn5hc_zEt9M&_hsmi=141442980&utm_content=141381565&utm_source=hs_email
-published: 2026-07-22T00:00:00.000Z
-created: 2026-07-24T00:00:00.000Z
+published: 2026-07-22
+created: 2026-07-24
 tags:
   - digital-campaigning
   - fundraising

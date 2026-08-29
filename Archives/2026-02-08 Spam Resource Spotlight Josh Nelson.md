@@ -3,8 +3,8 @@ type: Web
 authors: '[[Al Iverson]]'
 url: >-
   https://www.spamresource.com/2026/02/spam-resource-spotlight-josh-nelson.html?utm_source=www.civicshoutnewsletter.com&utm_medium=newsletter&utm_campaign=proof-first-story-second&_bhlid=f977aba58e04c2b2a5c2132a464461015ab2a41d
-published: 2026-02-08T00:00:00.000Z
-created: 2026-03-22T00:00:00.000Z
+published: 2026-02-08
+created: 2026-03-22
 tags:
   - fundraising
   - digital-campaigning

@@ -3,8 +3,8 @@ type: Web
 authors: '[[Colin Delany]]'
 url: >-
   https://epolitics.substack.com/p/the-end-of-political-advocacy?utm_medium=email&_hsenc=p2ANqtz-8o1ugMNT28mmd-Xr6zpp81O5qMePs7kSdQC4Xiry7d3Aa_ulL8GfZEKMdGokq5FNHoJh_5qtXZ261FI_zX7QXUDFlfmYSLQBU3tiFDLgpbHnjAcuk&_hsmi=105923428&utm_content=105923428&utm_source=hs_email
-published: 2025-02-21T00:00:00.000Z
-created: 2026-03-19T00:00:00.000Z
+published: 2025-02-21
+created: 2026-03-19
 tags:
   - digital-campaigning
   - strategia-organizacji

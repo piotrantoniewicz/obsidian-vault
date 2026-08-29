@@ -3,8 +3,8 @@ type: Web
 authors: '[[Bartłomiej Polakowski]]'
 url: >-
   https://sektor3-0.pl/blog/google-notebooklm-zarzadzania-wiedza-i-edukacji-w-ngo/?utm_source=newsletter&utm_medium=email&utm_term=2026-03-24&utm_campaign=+Jak+zbiera%C4%87+1+5+podatku+10+rad+ekspert%C3%B3w
-published: 2025-02-12T00:00:00.000Z
-created: 2026-03-24T00:00:00.000Z
+published: 2025-02-12
+created: 2026-03-24
 tags:
   - narzędzia-AI
   - organizacje-społeczne

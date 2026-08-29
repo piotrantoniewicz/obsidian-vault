@@ -3,8 +3,8 @@ type: Web
 authors: '[[David Tvrdon]]'
 url: >-
   https://thefix.media/2022/7/20/grow-your-podcast-audience-from-scratch-15-practical-strategies-to-get-you-started/?link_id=17&can_id=32cae499f95a9349c734a72403321b9c&source=email-everyone-should-do-more-surveys&email_referrer=email_2744583&email_subject=learning-from-polands-far-right
-published: 2022-07-20T00:00:00.000Z
-created: 2026-04-05T00:00:00.000Z
+published: 2022-07-20
+created: 2026-04-05
 tags:
   - content-marketing
   - digital-campaigning

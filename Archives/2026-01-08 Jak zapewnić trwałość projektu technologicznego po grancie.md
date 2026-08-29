@@ -3,8 +3,8 @@ type: Web
 authors: '[[Marzena Kacprowicz]]'
 url: >-
   https://sektor3-0.pl/blog/jak-zapewnic-trwalosc-projektu-technologicznego-po-grancie/?utm_source=newsletter&utm_medium=email&utm_term=2026-03-24&utm_campaign=+AI+w+r%C4%99kach+Gospody%C5%84+Wiejskich
-published: 2026-01-08T00:00:00.000Z
-created: 2026-03-24T00:00:00.000Z
+published: 2026-01-08
+created: 2026-03-24
 tags:
   - fundraising
   - strategia-organizacji

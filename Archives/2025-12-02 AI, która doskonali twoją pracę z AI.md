@@ -3,8 +3,8 @@ type: Web
 authors: '[[Kamil Śliwowski]]'
 url: >-
   https://sektor3-0.pl/blog/ai-ktora-doskonali-twoja-prace-z-ai/?utm_source=newsletter&utm_medium=email&utm_term=2026-03-24&utm_campaign=+130+milion%C3%B3w+obraz%C3%B3w+otwarte+zasoby+do+wykorzystania
-published: 2025-12-02T00:00:00.000Z
-created: 2026-03-24T00:00:00.000Z
+published: 2025-12-02
+created: 2026-03-24
 tags:
   - prompt-engineering
   - narzędzia-AI

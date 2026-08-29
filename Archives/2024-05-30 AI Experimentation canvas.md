@@ -2,8 +2,8 @@
 type: Web
 authors: '[[Dan Sutch]]'
 url: 'https://medium.com/we-are-cast/ai-experimentation-canvas-ddddeae34ad0'
-published: 2024-05-30T00:00:00.000Z
-created: 2026-03-25T00:00:00.000Z
+published: 2024-05-30
+created: 2026-03-25
 tags:
   - strategia-AI
   - narzędzia-AI

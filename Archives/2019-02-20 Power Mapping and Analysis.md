@@ -3,8 +3,8 @@ type: Web
 authors: '[[holly hammond]]'
 url: >-
   https://commonslibrary.org/guide-power-mapping-and-analysis/?link_id=19&can_id=32cae499f95a9349c734a72403321b9c&source=email-united-we-digitally-organize&email_referrer=email_2913437&email_subject=the-time-is-now
-published: 2019-02-20T00:00:00.000Z
-created: 2026-04-05T00:00:00.000Z
+published: 2019-02-20
+created: 2026-04-05
 tags:
   - organizacje-społeczne
   - strategia-organizacji

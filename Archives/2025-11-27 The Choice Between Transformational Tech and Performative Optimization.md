@@ -2,8 +2,8 @@
 type: Web
 authors: "[[Tectonica Digital Campaign Solutions]]"
 url: https://www.tectonica.co/posts/ai-faustian-bargain?utm_medium=email&_hsenc=p2ANqtz-8Iw1dQND3mVu-PekUzl-vPw1oTyJlRUlDlIfbr4mwTokBYAeY-p_zD72RpytFW9znrAaXtdA2pDBQq383f6n3Nx1tUiHXMug4VyGobgpu8maq478g&_hsmi=122752062&utm_content=122752062&utm_source=hs_email
-published: 2025-11-27T00:00:00.000Z
-created: 2026-03-20T00:00:00.000Z
+published: 2025-11-27
+created: 2026-03-20
 tags:
   - strategia-AI
   - digital-campaigning

@@ -2,8 +2,8 @@
 type: Web
 authors: "[[Miquel Duran-Frigola]]"
 url: https://builders.mozilla.org/community-code-and-chemistry/?utm_source=substack&utm_medium=email
-published: 2024-10-24T00:00:00.000Z
-created: 2026-03-02T00:00:00.000Z
+published: 2024-10-24
+created: 2026-03-02
 tags:
   - trendy-AI
   - narzędzia-AI

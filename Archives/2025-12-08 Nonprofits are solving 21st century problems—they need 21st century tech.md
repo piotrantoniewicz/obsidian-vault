@@ -3,8 +3,8 @@ type: Web
 authors: '[[Maggie Johnson]]'
 url: >-
   https://fortune.com/2025/12/08/google-org-philanthropy-nonprofits-need-ai-21st-century-tech/?utm_campaign=WGIT&utm_medium=email&_hsenc=p2ANqtz-8LJtIM-ehuRbDRDo1COKD8l8ImEK2Yw2e8c_W8fq4YzywHmcpAVJLKFNVbJhSsv9F-cxODx4JsZSmW0ji0ePbIoxW2_eoURSYOAshVlAXvUHfeVpk&_hsmi=19542885&utm_content=19542885&utm_source=hs_email
-published: 2025-12-08T00:00:00.000Z
-created: 2026-04-13T00:00:00.000Z
+published: 2025-12-08
+created: 2026-04-13
 tags:
   - organizacje-społeczne
   - strategia-AI

@@ -3,8 +3,8 @@ type: Web
 authors: '[[IBM]]'
 url: >-
   https://newsroom.ibm.com/2026-05-04-ibm-study-ceos-are-reshaping-c-suite-roles-for-the-ai-era?utm_source=ActiveCampaign&utm_medium=email&utm_content=AI%20Flash%20Business%20%2333&utm_campaign=AI%20Flash%20Business%20%2332%20%28Kopiuj%29
-published: 2026-05-04T00:00:00.000Z
-created: 2026-05-06T00:00:00.000Z
+published: 2026-05-04
+created: 2026-05-06
 tags:
   - trendy-AI
   - strategia-organizacji

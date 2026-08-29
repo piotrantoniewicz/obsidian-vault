@@ -2,8 +2,8 @@
 type: Web
 authors: "[[Dickie Bush]]"
 url: 'https://writewithai.substack.com/p/black-friday-blitz-how-to-create'
-published: 2023-11-12T00:00:00.000Z
-created: 2026-03-08T00:00:00.000Z
+published: 2023-11-12
+created: 2026-03-08
 tags:
   - produkty-cyfrowe
   - content-marketing

@@ -4,8 +4,8 @@ authors:
   - "[[Micah L. Sifry]]"
 url: https://theconnector.substack.com/p/bad-news-and-good-news-on-the-fundraising
 source: "[[2025-08-07 Bad News and Good News on the Fundraising Front]]"
-published: 2025-08-07T00:00:00.000Z
-created: 2026-03-19T00:00:00.000Z
+published: 2025-08-07
+created: 2026-03-19
 relevance: wysoka
 tags:
   - fundraising

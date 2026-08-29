@@ -3,8 +3,8 @@ type: Web
 authors: '[[Noam Segal]]'
 url: >-
   https://www.lennysnewsletter.com/p/ai-tools-are-overdelivering-results?utm_source=substack&utm_medium=email&utm_campaign=email-restack-comment&r=4zdnrk&triedRedirect=true
-published: 2025-12-23T00:00:00.000Z
-created: 2026-05-12T00:00:00.000Z
+published: 2025-12-23
+created: 2026-05-12
 tags:
   - trendy-AI
   - narzędzia-AI

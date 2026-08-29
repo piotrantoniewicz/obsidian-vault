@@ -3,8 +3,8 @@ type: Web
 authors: '[[Stephanie Wormington]]'
 url: >-
   https://candid.org/blogs/diversifying-revenue-sources-where-nonprofits-find-funding/
-published: 2026-04-07T00:00:00.000Z
-created: 2026-04-13T00:00:00.000Z
+published: 2026-04-07
+created: 2026-04-13
 tags:
   - fundraising
   - organizacje-społeczne

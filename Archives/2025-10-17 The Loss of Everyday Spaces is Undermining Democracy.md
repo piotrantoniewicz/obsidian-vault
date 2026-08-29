@@ -3,8 +3,8 @@ type: Web
 authors: '[[Sarah Stamper]]'
 url: >-
   https://www.fwiw.news/p/the-loss-of-everyday-spaces-is-undermining?utm_medium=email&_hsenc=p2ANqtz-9ZyBwMLhPW4_9OC97ZTqflTgyzru6hdbIR7J22Knc3yP_Xo3KrNZ-IFIbYZyYYVhKY4IK8vVQsW6jXVD719T3YGVJ3dX6nZbEBuvTbRLODfSPNCIs&_hsmi=121307777&utm_content=121307777&utm_source=hs_email
-published: 2025-10-17T00:00:00.000Z
-created: 2026-03-20T00:00:00.000Z
+published: 2025-10-17
+created: 2026-03-20
 tags:
   - digital-campaigning
   - organizacje-społeczne

@@ -3,8 +3,8 @@ type: Web
 authors: '[[Dickie Bush]]'
 url: >-
   https://x.com/dickiebush/status/2039320664364982446?s=20&ck_subscriber_id=3613653635&utm_source=convertkit&utm_medium=email&utm_campaign=How+to+close+your+next+ghostwriting+sales+call+-+21287804
-published: 2026-04-01T00:00:00.000Z
-created: 2026-04-11T00:00:00.000Z
+published: 2026-04-01
+created: 2026-04-11
 tags:
   - content-marketing
   - ghostwriting

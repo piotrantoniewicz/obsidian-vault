@@ -3,8 +3,8 @@ type: Web
 authors: '[[Aga Kozak]]'
 url: >-
   https://sektor3-0.pl/blog/czy-ai-nas-oglupia-mit-bada-co-dzieje-sie-z-mozgiem-uzytkownika-chatgpt/?utm_source=newsletter&utm_medium=email&utm_term=2026-03-24&utm_campaign=Czy+AI+Ci%C4%99+og%C5%82upia+
-published: 2025-09-09T00:00:00.000Z
-created: 2026-03-24T00:00:00.000Z
+published: 2025-09-09
+created: 2026-03-24
 tags:
   - szkolenia-AI
   - narzędzia-AI

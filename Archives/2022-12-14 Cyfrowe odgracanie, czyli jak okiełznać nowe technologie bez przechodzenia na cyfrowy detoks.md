@@ -3,8 +3,8 @@ type: Web
 authors: '[[Marzena Kacprowicz]]'
 url: >-
   https://sektor3-0.pl/blog/cyfrowe-odgracanie-czyli-jak-okielznac-nowe-technologie-bez-przechodzenia-na-cyfrowy-detoks/?utm_source=newsletter&utm_medium=email&utm_term=2026-03-24&utm_campaign=+Gdy+telefon+jest+zbyt+smart+i+szukasz+czego%C5%9B+prostszego
-published: 2022-12-14T00:00:00.000Z
-created: 2026-03-24T00:00:00.000Z
+published: 2022-12-14
+created: 2026-03-24
 tags:
   - strategia-organizacji
   - produkty-cyfrowe

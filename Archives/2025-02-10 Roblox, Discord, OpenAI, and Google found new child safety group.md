@@ -2,8 +2,8 @@
 type: Web
 authors: "[[Jess Weatherbed]]"
 url: https://www.theverge.com/news/609367/roblox-discord-openai-google-roost-online-safety-tools?utm_source=substack&utm_medium=email
-published: 2025-02-10T00:00:00.000Z
-created: 2026-03-02T00:00:00.000Z
+published: 2025-02-10
+created: 2026-03-02
 tags:
   - trendy-AI
   - organizacje-społeczne

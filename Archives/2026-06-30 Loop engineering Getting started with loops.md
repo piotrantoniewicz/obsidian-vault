@@ -1,13 +1,13 @@
 ---
-type: "Web"
+type: Web
 authors: "[[Anthropic]]"
-url: "https://claude.com/blog/getting-started-with-loops"
-published: 2000-06-30
+url: https://claude.com/blog/getting-started-with-loops
+published: 2026-06-30
 created: 2026-08-25
 tags:
-  - "automatyzacja"
-  - "narzędzia-AI"
-  - "context-engineering"
+  - automatyzacja
+  - narzędzia-AI
+  - context-engineering
 ---
 
 

@@ -1,13 +1,13 @@
 ---
-type: "Web"
+type: Web
 authors: "[[Anthropic]]"
-url: "https://claude.com/blog/claude-code-guide-for-startups"
-published: 2000-08-20
+url: https://claude.com/blog/claude-code-guide-for-startups
+published: 2026-08-20
 created: 2026-08-28
 tags:
-  - "narzędzia-AI"
-  - "automatyzacja"
-  - "strategia-AI"
+  - narzędzia-AI
+  - automatyzacja
+  - strategia-AI
 ---
 
 

@@ -1,16 +1,17 @@
 ---
 categories:
   - Clippings
-authors: ["[[Anthropic]]"]
-url: "https://claude.com/blog/getting-started-with-loops"
-source: "[[Archives/2000-06-30 Loop engineering Getting started with loops|2000-06-30 Loop engineering Getting started with loops]]"
-published: 2000-06-30
+authors:
+  - "[[Anthropic]]"
+url: https://claude.com/blog/getting-started-with-loops
+source: "[[Archives/2026-06-30 Loop engineering Getting started with loops|2026-06-30 Loop engineering Getting started with loops]]"
+published: 2026-06-30
 created: 2026-08-25
 relevance: wysoka
 tags:
-  - "automatyzacja"
-  - "narzędzia-AI"
-  - "context-engineering"
+  - automatyzacja
+  - narzędzia-AI
+  - context-engineering
 ---
 
 # Loop engineering Getting started with loops

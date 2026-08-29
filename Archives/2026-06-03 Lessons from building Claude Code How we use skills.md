@@ -1,13 +1,13 @@
 ---
-type: "Web"
+type: Web
 authors: "[[Anthropic]]"
-url: "https://claude.com/blog/lessons-from-building-claude-code-how-we-use-skills"
-published: 2000-06-03
+url: https://claude.com/blog/lessons-from-building-claude-code-how-we-use-skills
+published: 2026-06-03
 created: 2026-07-08
 tags:
-  - "vibe-coding"
-  - "narzędzia-AI"
-  - "context-engineering"
+  - vibe-coding
+  - narzędzia-AI
+  - context-engineering
 ---
 
 

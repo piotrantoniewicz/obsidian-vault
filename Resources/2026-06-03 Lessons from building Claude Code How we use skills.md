@@ -1,16 +1,17 @@
 ---
 categories:
   - Clippings
-authors: ["[[Anthropic]]"]
-url: "https://claude.com/blog/lessons-from-building-claude-code-how-we-use-skills"
-source: "[[Archives/2000-06-03 Lessons from building Claude Code How we use skills|2000-06-03 Lessons from building Claude Code How we use skills]]"
-published: 2000-06-03
+authors:
+  - "[[Anthropic]]"
+url: https://claude.com/blog/lessons-from-building-claude-code-how-we-use-skills
+source: "[[Archives/2026-06-03 Lessons from building Claude Code How we use skills|2026-06-03 Lessons from building Claude Code How we use skills]]"
+published: 2026-06-03
 created: 2026-07-08
 relevance: wysoka
 tags:
-  - "vibe-coding"
-  - "narzędzia-AI"
-  - "context-engineering"
+  - vibe-coding
+  - narzędzia-AI
+  - context-engineering
 ---
 
 # Lessons from building Claude Code How we use skills

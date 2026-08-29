@@ -1,16 +1,17 @@
 ---
 categories:
   - Clippings
-authors: ["[[Anthropic]]"]
-url: "https://claude.com/blog/claude-code-guide-for-startups"
-source: "[[Archives/2000-08-20 The Claude Code Guide For Startups|2000-08-20 The Claude Code Guide For Startups]]"
-published: 2000-08-20
+authors:
+  - "[[Anthropic]]"
+url: https://claude.com/blog/claude-code-guide-for-startups
+source: "[[Archives/2026-08-20 The Claude Code Guide For Startups|2026-08-20 The Claude Code Guide For Startups]]"
+published: 2026-08-20
 created: 2026-08-28
 relevance: wysoka
 tags:
-  - "narzędzia-AI"
-  - "automatyzacja"
-  - "strategia-AI"
+  - narzędzia-AI
+  - automatyzacja
+  - strategia-AI
 ---
 
 # The Claude Code Guide For Startups

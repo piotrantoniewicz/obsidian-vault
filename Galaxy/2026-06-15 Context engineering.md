@@ -5,7 +5,7 @@ tags:
   - LLM
   - narzędzia-AI
 created: 2026-06-15
-updated: 2026-08-28
+updated: 2026-08-30
 relevance: wysoka
 sources:
   - "[[2025-09-29 Effective context engineering for AI agents]]"
@@ -20,6 +20,7 @@ sources:
   - "[[2026-02-03 How to build AI product sense]]"
   - "[[2026-07-29 Jak przygotować landing page z ofertą, który zastąpi standardowy PDF]]"
   - "[[Archives/2026-07-24 The new rules of context engineering for Claude 5 generation models]]"
+  - "[[2026-08-14 Maximizing the value of your Claude Code sessions]]"
 ---
 
 # Context engineering (projektowanie kontekstu)
@@ -67,6 +68,13 @@ Konkretny, przenośny układ trzech warstw z mech. 2 i 7, pokazany na zadaniu, k
 
 **10. Sześć przesunięć „wtedy → teraz": mniej reguł, więcej osądu i progresywnego ujawniania ([[Anthropic]], generacja Claude 5)**
 Anthropic opisuje, jak zmienia się prowadzenie agenta wraz z generacją modeli Claude Opus 5 / Fable 5, i podaje twardą kotwicę: **z systemowego promptu Claude Code usunięto ponad 80% treści bez mierzalnej straty jakości w evalach kodowania**. Sześć przesunięć: (1) **sztywne reguły → osąd modelu** — nowsze modele lepiej radzą sobie z niejednoznacznością i sprzecznymi instrukcjami z różnych źródeł (system prompt, skille, `CLAUDE.md`, prośba użytkownika), więc twarde zakazy typu „nigdy nie…" częściej ograniczają, niż pomagają; (2) **przykłady użycia narzędzi → design interfejsu narzędzia** — przykłady **zawężają przestrzeń eksploracji**, lepiej inwestować w ekspresyjne parametry (np. enum statusów), które same podpowiadają sposób użycia; (3) **wszystko na starcie → progresywne ujawnianie** — drzewo małych plików (skille, `CLAUDE.md`) ładowanych wtedy, gdy są potrzebne, zamiast jednego centralnego repozytorium praktyk; dotyczy też narzędzi (deferred loading, żeby nie zajmowały okna); (4) **powtarzanie instrukcji → prosty opis narzędzia** — instrukcja obsługi raz, w opisie narzędzia, nie dodatkowo w promptcie; (5) **pamięć w `CLAUDE.md` → auto-memory** — model sam zapisuje istotne fakty, zamiast ręcznego dopisywania; (6) **proste specyfikacje → bogate referencje** — artefakty HTML, testy, kod z innego repo, **rubryki oceniające gust** („co to znaczy dobry design API") weryfikowane przez osobne agenty, zamiast tekstowych opisów planu. To bezpośrednia rewizja praktyki „im więcej reguł i przykładów, tym lepiej" — i wprost dotyczy własnych pluginów oraz plików `CLAUDE.md` w vaultcie. *(Źródło: [[Archives/2026-07-24 The new rules of context engineering for Claude 5 generation models]])*
+
+
+
+**11. Ekonomia sesji: cena tokena, cache i próg opłacalności subagenta ([[Anthropic]])**
+Techniczne dopełnienie mechanizmów 4 i 9–10 od strony kosztu, nie jakości: cena tokena zależy od modelu, kierunku (output ok. **5×** droższy od inputu — generowany token po tokenie, podczas gdy input jest prefillowany naraz) oraz od tego, czy fragment pochodzi z **cache promptów** (odczyt z cache: **0,1×** ceny normalnego inputu; zapis do cache: do **2×**, ale jednorazowo, potem tanie odczyty na każdej kolejnej turze). Cache wygasa po **1 godzinie** (subskrypcja) lub **5 minutach** (API, bez `ENABLE_PROMPT_CACHING_1H=1`) i zrywa się przy zmianie modelu, zmianie poziomu wysiłku, włączeniu fast mode oraz przy `/compact` — każde z tych zdarzeń kosztuje najmniej **na starcie świeżej sesji**, najwięcej **w środku długiej rozmowy** (traci się cały dotychczasowy prefill). Stąd sześć nawyków: `/clear` między niepowiązanymi zadaniami; ustalenie modelu i poziomu wysiłku przed startem; wołanie plików przez @-mention zamiast opisowo (trafia bezpośrednio do wiadomości, bez wywołania narzędzia Read); ciche flagi lub subagent dla hałaśliwych komend (output zostaje w kontekście do końca sesji, więc lepiej go tam nie wpuszczać); `/context` raz na starcie, żeby zobaczyć co już zajmuje okno; `/compact` **przed** przerwą, nie po niej, bo cache i tak wygaśnie. **Doprecyzowanie progu opłacalności subagenta (mech. 4):** izolacja kontekstu subagenta opłaca się przy zadaniach generujących dużo zbędnego outputu (przegląd logów, hałaśliwe komendy) — ale dla drobnych zadań to czysty narzut, bo subagent często musi odczytać rzeczy, które główna sesja już ma, płacąc pełną cenę bez cache. *(Źródło: [[2026-08-14 Maximizing the value of your Claude Code sessions]])*
+
+---
 
 ## Frameworki-kotwice
 

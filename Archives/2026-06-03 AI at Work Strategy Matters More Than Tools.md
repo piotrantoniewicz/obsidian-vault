@@ -1,6 +1,6 @@
 ---
 type: "Web"
-authors: "[[Vinciane Beauchene, Sylvain Duranton, David Martin, Vanessa Lyon, Jeff Walters]]"
+authors: ["[[Vinciane Beauchene]]", "[[Sylvain Duranton]]", "[[David Martin]]", "[[Vanessa Lyon]]", "[[Jeff Walters]]"]
 url: "https://www.bcg.com/publications/2026/ai-at-work-why-strategy-matters-more-than-tools?utm_source=ActiveCampaign&utm_medium=email&utm_content=AI%20Flash%20Business%20%2338&utm_campaign=AI%20Flash%20Business%20%2337%20%28Kopiuj%29"
 published: 2026-06-03
 created: 2026-07-24

@@ -5,6 +5,8 @@ url: "https://www.linkedin.com/pulse/niezadowolony-darczy%C5%84ca-co-robi%C4%87-
 published: 2026-08-20
 created: 2026-08-29
 tags:
+  - "fundraising"
+  - "organizacje-społeczne"
 ---
 
 

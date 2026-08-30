@@ -5,7 +5,7 @@ tags:
   - narzędzia-AI
   - szkolenia-AI
 created: 2026-06-15
-updated: 2026-08-29
+updated: 2026-08-30
 relevance: wysoka
 sources:
   - "[[2025-06-22 9 ChatGPT & Claude Writing Tips (to get CRAZY GOOD outputs)]]"
@@ -29,6 +29,7 @@ sources:
   - "[[2026-08-27 The best AI tool for beautiful branding]]"
   - "[[2026-07-07 Tutorial - Which Claude Model Should You Actually Use]]"
   - "[[2026-05-26 Czy AI kradnie kontakt człowiek człowiek-]]"
+  - "[[2026-08-28 Pułapka kontynuacji – czyli dlaczego AI raczej nie zbuduje dobrego scenariusza strategicznego]]"
 ---
 
 # Prompt engineering (projektowanie promptów)
@@ -92,6 +93,13 @@ Twarde ograniczenie promptowania, którego nie usuwa żadna technika z mech. 1�
 
 **17. Syntetyczny użytkownik jako trening przed rozmową, nie zamiast rozmowy ([[Piotr Kacała]], [[Wojtek Strzałkowski]] / [[AI Product Heroes]])**
 Niezależne, praktyczne potwierdzenie granicy z mech. 16 — tym razem nie z badania, tylko z warsztatu discovery produktowego, i z gotowym umiejscowieniem w procesie. **[[syntetyczny użytkownik]]** — awatar klienta wygenerowany przez model na podstawie bazy wiedzy o projekcie — jest w sekwencji discovery **krokiem 3, tuż przed krokiem 4, którym jest prawdziwy wywiad**, i został wprost zastrzeżony jako narzędzie **treningu rozmówcy** (przećwiczenie scenariusza, wychwycenie pytań naprowadzających), a nie substytut rozmowy z człowiekiem. To zawęża „zakres dopuszczalny" z mech. 16 o konkretną, tanią zastosowalność: persona jest dobra do **przygotowania badacza**, nie do **wyprodukowania danych**. Druga reguła tego samego źródła jest ostrzejsza i dotyczy całej sekwencji: AI wspiera w wywiadzie **transkrypcję i analizę wzorców, nie prowadzenie rozmowy**, a analityk ma **czytać transkrypty samodzielnie obok analizy modelu**. Źródło: [[2026-08-26 Podsumowanie webinaru - Przestań budować produkty, których nikt nie chce]].
+
+
+
+**21. „Pułapka kontynuacji" — model ekstrapoluje trendy, ale nie łamie dziś obowiązujących reguł ([[Marek Staniszewski]])**
+Drugie, niezależne potwierdzenie mechanizmu 16 (distributional collapse) w nowej domenie — planowaniu scenariuszowym, nie badaniach rynkowych — z tym samym autorem i tym samym wzorcem dowodowym: **sto niezależnych wywołań modelu nie daje panelu stu opinii, tylko jedną opinię powtórzoną sto razy z niewielkim szumem sformułowań** (test: 100× GPT-4o cofnięty do wiedzy sprzed cutoff, pytanie o przełom DeepSeek R1 — 100 razy „NIE", średnia 27,6% przy odchyleniu std. 3,7 pkt proc.). Nowy element wobec mech. 16: **drabina L1–L4** różnicująca, na czym dokładnie model zawodzi — dobrze radzi sobie z ekstrapolacją trendu (L1: test kontrolny WeWork trafiony na 77%) i umiarkowanie z wypełnianiem zadanej ramy wariantami (L2), słabiej przy kwestionowaniu założeń (L3), a przy przeformułowaniu samej ramy przyczynowej (L4) zawodzi niemal całkowicie — zjawisko nazwane „continuity trap". Stąd cztery przenośne reguły promptowania w pracy scenariuszowej, uzupełniające prompt adwersaryjny z mech. 12: (1) nie pytać „co się wydarzy" (zwraca konsensus) — narzucić trajektorię wprost („opisz świat, w którym teza X upada"); (2) prosić model o **atak na własną hipotezę**, nie o samą hipotezę — w tej roli model sprawdza się dobrze, tak jak w mech. 12; (3) wymuszać łamanie założeń **proceduralnie** — wypisać założenia kategorii, każde po kolei zanegować albo podmienić na założenie z odległej domeny; (4) nie uśredniać wielu wywołań (to jedna opinia z szumem, nie rozkład) i nie traktować pewności językowej jako wskaźnika trafności. Odwrócenie użyteczne praktycznie: zamiast prognozy, model jako **mapa konsensusu** — pytanie „co dziś uchodzi za oczywiste" wskazuje, gdzie szukać scenariuszy łamiących regułę, zamiast próbować je wygenerować wprost. *(Źródło: [[2026-08-28 Pułapka kontynuacji – czyli dlaczego AI raczej nie zbuduje dobrego scenariusza strategicznego]])*
+
+---
 
 ## Frameworki-kotwice
 

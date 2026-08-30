@@ -5,6 +5,9 @@ url: "https://www.youtube.com/watch?v=n8XYlLZKiZM"
 published: 2026-08-18
 created: 2026-08-28
 tags:
+  - "content-marketing"
+  - "narzędzia-AI"
+  - "automatyzacja"
 ---
 
 

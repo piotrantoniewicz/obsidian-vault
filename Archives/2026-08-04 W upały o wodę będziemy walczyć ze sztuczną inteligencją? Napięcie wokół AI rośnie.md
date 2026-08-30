@@ -1,6 +1,6 @@
 ---
 type: Web
-authors: '[[Nikola Bochyńska, Ireneusz Chojnacki]]'
+authors: ["[[Nikola Bochyńska]]", "[[Ireneusz Chojnacki]]"]
 url: >-
   https://www.wnp.pl/energia/ai-na-kredyt-natury-centra-danych-beda-konkurowac-o-wode-z-innymi-sektorami-napiecie-rosnie,1083593.html
 published: 2026-08-04

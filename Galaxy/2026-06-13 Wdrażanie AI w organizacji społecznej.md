@@ -5,7 +5,7 @@ tags:
   - organizacje-społeczne
   - szkolenia-AI
 created: 2026-06-13
-updated: 2026-08-29
+updated: 2026-08-30
 relevance: wysoka
 sources:
   - "[[2026-02-20 Why Most Nonprofits Arent Using AI (Yet)]]"
@@ -199,6 +199,13 @@ Dotychczasowe mechanizmy tej strony opisywały **warunki** udanego wdrożenia (g
 
 **44. Czwarta diagnoza bariery: darmowość nie wystarcza, bo przeszkodą jest wypalenie i abdykacja liderów ([[Kyle Behrend]] / [[AI Impact Hub]])**
 Najczystszy dostępny test tezy „bariera jest zasobowa" (mech. 23): autor udostępnił **bezpłatnie** komplet kursów AI dla organizacji społecznych (prompt engineering, custom GPT, szablony polityki AI) i sam od razu przyznaje, że **to prawdopodobnie nie wystarczy**. Jeśli cena spada do zera, a wdrożenia nie przyspieszają, to koszt nie był wąskim gardłem. Diagnoza zastępcza wskazuje trzy rzeczy naraz: **brak czasu i wypalenie** pracowników, **brak zaangażowania liderów** (przerzucanie odpowiedzialności za naukę AI na pracowników) i **kulturę normalizującą przeciążenie zadaniami** — czyli barierę **czasu i przywództwa**, odrębną od psychologicznej (mech. 9), zasobowej (mech. 23), systemowo-kulturowej (mech. 25) i kontrolnej (mech. 39). Dwie liczby kalibrujące: **70% organizacji nie ma budżetu na szkolenia z AI**, a **tylko 14% opublikowało politykę AI** — tę drugą autor czyta nie jako lukę compliance, lecz jako **wskaźnik, czy temat w ogóle zaistniał w świadomości zarządu** (zob. [[2026-06-15 AI governance|AI governance]], mech. 31). Interwencja proponowana jest celowo minimalna i mieści się w barierze, którą diagnozuje: **punktem dźwigni nie jest dostęp do szkoleń, tylko codzienny nawyk — 5 minut dziennie z narzędziem**, kumulujący się efektem kuli śnieżnej. Do tego teza o przewadze skali, użyteczna w rozmowie z małym klientem: **mniejsze, zwinne organizacje mogą wyprzedzić duże**, bo szybciej znajdują punkt dźwigni. Zastrzeżenie: to obserwacja praktyka, nie pomiar — ale jest to jedyny w tej Galaxy przypadek, w którym zmienną „koszt" faktycznie wyzerowano. *(Źródło: [[2026-03-24 I Made It Free. It Might Not Be Enough]])*
+
+
+
+**45. Ambicja dopasowana do przewagi, nie do wyścigu — trzy archetypy organizacji ([[Jacek Siadkowski]] / [[Tech To The Rescue]])**
+Piąty, niezależny framework gotowości do AI na tej stronie (obok mech. 1 czterech filarów Gatmaitana, mech. 16 pięciu filarów Neidera, mech. 4 Faster/Better/New i mech. 17 pięciu etapów dojrzałości) — ale inaczej sprofilowany: nie mierzy dystansu do celu, tylko **definiuje sam cel przed pomiarem dystansu**. Oparty na ponad 200 organizacjach [[Tech To The Rescue]], rozróżnia trzy typy wg tego, na czym opiera się przewaga organizacji: **relacyjne** (przewagą jest zaufanie i bliskość ze społecznością — wystarczającą ambicją jest skuteczne AI w kilku procesach wewnętrznych), **hybrydowe** (blisko beneficjentów, ale już dostarczające interwencje na skalę technologią — pytanie brzmi, jak AI zmienia samą logikę dostarczania) i **enablerzy ekosystemu** (nieliczna grupa strukturalnie przypominająca firmy technologiczne — tylko ona powinna dążyć do współdzielonych zasobów i standardów sektorowych). Teza operacyjna: mylenie poziomów dojrzałości z rankingiem szkodzi poczuciu sprawczości liderów niepokojących się o „nieuczestniczenie w wyścigu AI" — punktem wyjścia doradztwa powinna być właściwa ambicja, nie ocena na wspólnej skali. **To piąta niezgodna ze sobą rama gotowości do AI na tej stronie** (patrz sprzeczność 3 w `galaxy-strategia.md`) — w przeciwieństwie do pozostałych czterech nie ocenia *stopnia* gotowości, tylko *typu* celu, więc może działać jako warstwa nadrzędna wybierana przed użyciem którejkolwiek z pozostałych czterech, a nie kolejny konkurent do wyboru jednej kanonicznej ramy. *(Źródło: [[2026-08-25 Jacek Siadkowski - poziomy ambicji AI w organizacjach społecznych]])*
+
+---
 
 ## Powiązane pojęcia
 

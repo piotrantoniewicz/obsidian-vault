@@ -1,6 +1,6 @@
 ---
 type: "Web"
-authors: "[[Miriam Waldvogel, Gerrit De Vynck]]"
+authors: ["[[Miriam Waldvogel]]", "[[Gerrit De Vynck]]"]
 url: "https://www.washingtonpost.com/technology/2026/08/27/chatgpt-chats-are-being-swept-into-civil-criminal-court-cases/"
 published: 2026-08-27
 created: 2026-08-28

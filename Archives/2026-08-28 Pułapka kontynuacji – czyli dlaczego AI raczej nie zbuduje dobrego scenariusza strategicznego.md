@@ -5,6 +5,9 @@ url: "https://www.linkedin.com/pulse/pu%C5%82apka-kontynuacji-czyli-dlaczego-ai-
 published: 2026-08-28
 created: 2026-08-29
 tags:
+  - "strategia-AI"
+  - "LLM"
+  - "trendy-AI"
 ---
 
 

@@ -1,6 +1,6 @@
 ---
 type: "Web"
-authors: "[[Eli Stein, Jamie Wilkie, Julien Boudet, Lalit Bhagia, Kelsey Robinson]]"
+authors: ["[[Eli Stein]]", "[[Jamie Wilkie]]", "[[Julien Boudet]]", "[[Lalit Bhagia]]", "[[Kelsey Robinson]]"]
 url: "https://www.mckinsey.com/capabilities/growth-marketing-and-sales/our-insights/from-campaigns-to-continuous-growth-ai-capabilities-shaping-marketing?utm_source=ActiveCampaign&utm_medium=email&utm_content=AI%20Flash%20Business%20%2340&utm_campaign=AI%20Flash%20Business%20%2338%20%28Kopiuj%29"
 published: 2026-06-22
 created: 2026-08-02

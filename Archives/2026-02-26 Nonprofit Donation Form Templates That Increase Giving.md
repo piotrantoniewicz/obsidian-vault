@@ -1,10 +1,14 @@
 ---
-type: "Web"
-authors: "[[Julie Kennon]]"
-url: "https://charityengine.net/blog/nonprofit-donation-form-templates/?utm_campaign=30400573-Nonprofit%20Tech%20for%20Good&utm_source=Nonprofit%20Tech%20for%20Good%20Sponsored%20Post%20-%20Nonprofit%20Donation%20Forms%20Template&utm_medium=Nonprofit%20Tech%20for%20Good%20Sponsored%20Post%20-%20Nonprofit%20Donation%20Forms%20Template&utm_term=Nonprofit%20Tech%20for%20Good%20Sponsored%20Post%20-%20Nonprofit%20Donation%20Forms%20Template&utm_content=Nonprofit%20Tech%20for%20Good%20Sponsored%20Post%20-%20Nonprofit%20Donation%20Forms%20Template"
-published: 2026-02-26
-created: 2026-08-31
+type: Web
+authors: '[[Julie Kennon]]'
+url: >-
+  https://charityengine.net/blog/nonprofit-donation-form-templates/?utm_campaign=30400573-Nonprofit%20Tech%20for%20Good&utm_source=Nonprofit%20Tech%20for%20Good%20Sponsored%20Post%20-%20Nonprofit%20Donation%20Forms%20Template&utm_medium=Nonprofit%20Tech%20for%20Good%20Sponsored%20Post%20-%20Nonprofit%20Donation%20Forms%20Template&utm_term=Nonprofit%20Tech%20for%20Good%20Sponsored%20Post%20-%20Nonprofit%20Donation%20Forms%20Template&utm_content=Nonprofit%20Tech%20for%20Good%20Sponsored%20Post%20-%20Nonprofit%20Donation%20Forms%20Template
+published: '2026-02-26'
+created: '2026-08-31'
 tags:
+  - fundraising
+  - content-marketing
+  - digital-campaigning
 ---
 
 

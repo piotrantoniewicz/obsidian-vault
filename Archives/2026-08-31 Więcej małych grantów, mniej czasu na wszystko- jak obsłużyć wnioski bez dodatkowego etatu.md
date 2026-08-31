@@ -1,10 +1,14 @@
 ---
-type: "Web"
-authors: "[[Piotr Antoniewicz]]"
-url: "https://publicystyka.ngo.pl/wiecej-malych-grantow-mniej-czasu-na-wszystko-jak-obsluzyc-wnioski-bez-dodatkowego-etatu"
-published: 2026-08-31
-created: 2026-08-31
+type: Web
+authors: '[[Piotr Antoniewicz]]'
+url: >-
+  https://publicystyka.ngo.pl/wiecej-malych-grantow-mniej-czasu-na-wszystko-jak-obsluzyc-wnioski-bez-dodatkowego-etatu
+published: '2026-08-31'
+created: '2026-08-31'
 tags:
+  - fundraising
+  - automatyzacja
+  - organizacje-społeczne
 ---
 
 # Więcej małych grantów, mniej czasu na wszystko: jak obsłużyć wnioski bez dodatkowego etatu

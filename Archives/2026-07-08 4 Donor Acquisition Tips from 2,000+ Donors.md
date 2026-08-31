@@ -1,10 +1,14 @@
 ---
-type: "Web"
-authors: "[[Abby Jarvis]]"
-url: "https://neonone.com/resources/blog/donor-acquisition-tips/?utm_source=nptechforgood&utm_medium=partner&utm_campaign=paid_nptechforgood_multichannel_tofu_august_feature_q3_2026"
-published: 2026-07-08
-created: 2026-08-31
+type: Web
+authors: '[[Abby Jarvis]]'
+url: >-
+  https://neonone.com/resources/blog/donor-acquisition-tips/?utm_source=nptechforgood&utm_medium=partner&utm_campaign=paid_nptechforgood_multichannel_tofu_august_feature_q3_2026
+published: '2026-07-08'
+created: '2026-08-31'
 tags:
+  - fundraising
+  - content-marketing
+  - organizacje-społeczne
 ---
 
 

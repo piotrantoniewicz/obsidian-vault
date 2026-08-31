@@ -1,10 +1,13 @@
 ---
-type: "Web"
-authors: "[[Olivia Wheeler]]"
-url: "https://www.actoncircle.co/blog/annual-report-comms-asset"
-published: 2026-08-13
-created: 2026-08-31
+type: Web
+authors: '[[Olivia Wheeler]]'
+url: 'https://www.actoncircle.co/blog/annual-report-comms-asset'
+published: '2026-08-13'
+created: '2026-08-31'
 tags:
+  - content-marketing
+  - fundraising
+  - organizacje-społeczne
 ---
 
 

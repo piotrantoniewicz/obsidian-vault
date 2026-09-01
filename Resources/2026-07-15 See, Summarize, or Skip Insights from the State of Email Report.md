@@ -52,4 +52,4 @@ Webinar Validity "State of Email Trends" (transkrypcja własna nagrania wideo z 
 ## Zastosowanie
 Bezpośrednio przydatne przy doradztwie w komunikacji/digital campaigningu: warto promować "return on relationship" i trafność (relevance) zamiast open rate jako metrykę rozmów z klientami o skuteczności mailingu, zwłaszcza w kontekście fundraisingu i utrzymania darczyńców. Temat higieny danych i fundamentów przed automatyzacją oraz sceptycyzm wobec deklarowanego ROI AI (pomijane koszty) to dobre argumenty do wykorzystania w materiałach o AI dla organizacji społecznych.
 
-%% Transkrypcja własna (mlx-whisper) z pliku wideo pobranego z Downloads 2026-09-01; strona źródłowa validity.com dostarczyła tytuł, prelegentów i datę publikacji. Notatka do ręcznego przetworzenia — brak wpisu w Resources/index.md, docelowo do rozważenia przeniesienia do Resources/. %%
+

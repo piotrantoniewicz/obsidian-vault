@@ -2,9 +2,9 @@
 categories:
   - Project
 status: Aktywny
-created: 2026-07-08
-due: 2026-08-31
-area: "[[Marka osobista LinkedIn]]"
+created: '2026-07-08T00:00:00.000Z'
+due: '2026-09-30T00:00:00.000Z'
+area: '[[Marka osobista LinkedIn]]'
 tags:
   - produkty-cyfrowe
   - content-marketing
@@ -36,6 +36,8 @@ Wprowadzić lead magnet „Narzędzia AI dla organizacji społecznych" ([dobryai
 - [[content-marketing]] — domena tematyczna
 
 ## Log decyzji
+- 2026-09-01 — termin (`due`) przesunięty z 2026-08-31 na 2026-09-30 — 3 kroki dalej otwarte: konfiguracja listy w Hostinger Email Marketing, pomiar zapisów po każdym poście, pierwszy mailing do zapisanych.
+- 2026-09-01 — przygotowano nowy draft posta KONWERSJA promujący landing (hook „47 narzędzi AI vs 3", link do dobryai.pl/narzedzia w treści); nieopublikowany, nie zapisany do bazy „Posty" w Notion (poza standardową rotacją 3 postów/sesję).
 - 2026-07-08 — utworzenie notatki; zakres obejmuje mailing (nie tylko promocję w postach): wybór narzędzia + pierwszy mailing to warunek zamknięcia projektu
 - 2026-07-12 — 6 zapisów po 2 postach; wybrano Hostinger Email Marketing jako narzędzie mailingowe
 - 2026-07-12 — folder roboczy projektu przeniesiony do `~/Projekty/dobryai` (reorganizacja: wszystkie projekty w `~/Projekty`); ścieżki w notatce zaktualizowane

@@ -5,6 +5,9 @@ url: "https://www.linkedin.com/pulse/hiring-values-when-you-cant-compete-salary-
 published: 2026-08-31
 created: 2026-09-01
 tags:
+  - "organizacje-społeczne"
+  - "strategia-organizacji"
+  - "framing"
 ---
 
 

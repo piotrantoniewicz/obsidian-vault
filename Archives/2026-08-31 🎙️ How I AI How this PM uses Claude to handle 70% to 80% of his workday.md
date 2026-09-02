@@ -5,6 +5,9 @@ url: "https://www.lennysnewsletter.com/p/how-i-ai-how-this-pm-uses-claude?utm_so
 published: 2026-08-31
 created: 2026-09-01
 tags:
+  - "context-engineering"
+  - "automatyzacja"
+  - "narzędzia-AI"
 ---
 
 

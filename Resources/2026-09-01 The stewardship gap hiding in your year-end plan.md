@@ -2,37 +2,31 @@
 categories:
   - "Emails"
 published: 2026-09-01
-created: 2026-09-02
+created: 2026-09-03
 labels:
   - "Civic Shout"
 relevance: wysoka
 tags:
   - "fundraising"
-  - "strategia-organizacji"
+  - "digital-campaigning"
 ---
 
 # The stewardship gap hiding in your year-end plan
 
-Grudzień koncentruje największą falę pierwszorazowych darczyńców w roku, ale organizacje inwestują energię w sam ask, a nie w doświadczenie po darowiźnie. Retencja nowych darczyńców jest dramatycznie niska — od 18% do 24% w zależności od źródła — mimo że grudzień odpowiada za ponad jedną trzecią rocznych przychodów online. Autorka argumentuje, że konwersja pierwszego daru w drugi to najważniejszy nierozwiązany problem lejka fundraisingowego, i proponuje konkretne kroki do wdrożenia przed grudniem.
-
-## Frameworki i metody
-- Audyt doświadczenia z zeszłego roku — przejrzyj potwierdzenie e-mail, serię powitalną i kampanie wysyłane wokół 21 grudnia z perspektywy pierwszorazowego darczyńcy; oceń, czy wzmacniały decyzję o darowiźnie, czy od razu przechodziły do kolejnego aska.
-- Tagowanie kohorty grudniowych nowych darczyńców — oddzielne oznaczenie od pierwszego dnia pozwala śledzić zachowanie, testować oferty i budować listę prospektów pod monthly giving na styczeń.
-- Dopasowanie serii powitalnej do momentu — jeśli kampania roczna ma temat lub narrację, powinna być kontynuowana w mailach po darowiźnie, zamiast generycznego podziękowania.
-- Test okna supresji — zamiast automatycznie wykluczać niedawnych darczyńców z pozostałych maili końcoworocznych, przetestuj wersję z podziękowaniem za pierwszy dar i zmierz efekt (kolejna darowizna, wypisanie, brak reakcji).
+Newsletter Civic Shout zwraca uwagę na problem retencji nowych darczyńców pozyskanych w grudniu — miesiącu, w którym organizacje pozarządowe notują największy napływ pierwszorazowych darczyńców, ale też najsłabiej dbają o doświadczenie po darowiźnie. Autorka pokazuje, że skupienie się wyłącznie na kampanii końcoworocznej kosztem stewardshipu prowadzi do utraty większości nowych darczyńców już w pierwszym roku. Tekst proponuje konkretne kroki: audyt zeszłorocznego doświadczenia post-gift, tagowanie grudniowych darczyńców jako osobnej kohorty i dopasowanie serii powitalnej do kontekstu kampanii. Materiał bezpośrednio przydatny przy planowaniu kampanii końcoworocznych i budowaniu bazy darczyńców.
 
 ## Kluczowe dane
-- Organizacje społeczne otrzymały 37% całorocznych przychodów online w samym grudniu (M+R Benchmarks 2026), a ostatni dzień roku — 4%.
-- Retencja nowych darczyńców online: 24% wg M+R Benchmarks.
-- Retencja pierwszorazowych darczyńców w całym sektorze: ok. 18% wg Fundraising Effectiveness Project (Q1 2026).
+- Organizacje pozarządowe otrzymały w grudniu 37% całorocznych przychodów online, z czego 4% w ostatnim dniu roku (M+R 2026 Benchmarks)
+- Retencja nowych darczyńców online wynosi tylko 24% (M+R) — trzy na czterech nowych darczyńców online nie daje ponownie w kolejnym roku
+- Fundraising Effectiveness Project szacuje retencję pierwszorazowych darczyńców w sektorze na ok. 18%
 
 ## Wnioski
-- Skupianie się wyłącznie na segmentacji i kreacji roczącego aska bez planu stewardshipu marnuje największą falę nowych darczyńców w roku — to bezpośrednio dotyczy planowania kampanii końcoworocznych dla klientów [[fundraising]].
-- Tagowanie kohortowe nowych darczyńców to prosta higiena danych, która otwiera drogę do budowy listy prospektów monthly giving w styczniu — praktyczny element strategii [[digital-campaigning]].
-- Testowanie założeń o supresji mailowej (zamiast trzymania się reguły "nie wysyłać do niedawnych darczyńców") to przykład podejścia opartego na danych, które warto rekomendować organizacjom przy przeglądzie strategii mailowej.
+- Konwersja pierwszej darowizny na drugą to, według [[Fundraising Effectiveness Project]], "najbardziej konsekwentny nierozwiązany problem w lejku darczyńców" — warto to potraktować priorytetowo w strategii fundraisingowej
+- Tagowanie grudniowych pierwszorazowych darczyńców jako osobnej kohorty od pierwszego dnia to podstawowa higiena danych, która umożliwia dalsze testowanie i naukę o tej grupie
+- Warto przetestować, czy standardowe "okno wyciszenia" (suppression window) dla świeżych darczyńców faktycznie chroni relację, czy raczej kosztuje utraconą szansę na drugą darowiznę
 
 ## Cytat
-> Konwersja pierwszego daru w drugi to najbardziej doniosły nierozwiązany problem lejka darczyńców.
+> Okno po darowiźnie to najłatwiejsza rzecz do naprawienia przed końcem roku i może mieć największe znaczenie dla tego, czy tegoroczni darczyńcy staną się darczyńcami przyszłorocznymi.
 
 ## Zastosowanie
-Materiał wprost przydatny przy doradztwie dla organizacji społecznych planujących kampanie końcoworoczne — konkretna checklista (audyt zeszłorocznego doświadczenia, tagowanie kohort, dopasowanie serii powitalnej, test supresji) nadaje się do wykorzystania w kursie mailowym o fundraisingu z AI lub jako framework do warsztatu ze stewardshipu darczyńców.
+Przydatne przy doradztwie dla organizacji NGO w zakresie planowania kampanii końcoworocznych i budowy strategii stewardshipu nowych darczyńców. Konkretne kroki (tagowanie kohort, audyt welcome series, test suppression window) można zaproponować klientom jako gotową checklistę przed sezonem grudniowym.

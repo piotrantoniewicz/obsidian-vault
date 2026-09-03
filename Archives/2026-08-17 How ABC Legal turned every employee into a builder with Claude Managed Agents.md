@@ -5,6 +5,9 @@ url: "https://claude.com/blog/how-abc-legal-turned-every-employee-into-a-builder
 published: 2026-08-17
 created: 2026-09-03
 tags:
+  - "automatyzacja"
+  - "narzędzia-AI"
+  - "strategia-AI"
 ---
 
 

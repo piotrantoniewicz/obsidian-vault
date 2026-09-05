@@ -5,7 +5,7 @@ tags:
   - organizacje-społeczne
   - strategia-organizacji
 created: 2026-06-13
-updated: 2026-08-30
+updated: 2026-09-06
 relevance: wysoka
 sources:
   - "[[2026-05-27 Transparentność boli. Dlaczego większość liderów woli kłamać?]]"
@@ -31,6 +31,9 @@ sources:
   - "[[2026-07-24 Nonprofit Trust Holds at 56% in 2026 as Philanthropy Slides]]"
   - "[[2026-08-11 The True Cost of Your Nonprofit Annual Report]]"
   - "[[2026-08-29 Fundraise Up - utracone darowizny przez błędne metody płatności]]"
+  - "[[2026-07-08 4 Donor Acquisition Tips from 2,000+ Donors]]"
+  - "[[2026-08-13 Your Annual Report Is Your Best Comms Asset. Here's Why.]]"
+  - "[[2026-08-25 The Importance of Recurring Donors What Reports Miss]]"
 ---
 
 # Transparentność operacyjna (operational transparency)
@@ -109,6 +112,18 @@ Pierwszy na tej stronie mechanizm o **najbardziej kosztownym artefakcie transpar
 Warstwa techniczna pod mech. 10 i 17: nie *co* strona darowizny komunikuje, tylko *czy* darczyńca może w ogóle dokończyć płatność preferowaną metodą. **13% porzuconych darowizn online wynika wyłącznie z braku preferowanej przez darczyńcę metody płatności** — nie z braku chęci dawania. Doświadczenie płatnicze „swojskie" (lokalna pisownia, znane lokalnie metody) podnosi dokończenie checkoutu **3×** i wysokość darowizny średnio o **30%**; w Europie brak metod typowych dla rynku (np. Bacs w UK, iDEAL w Holandii) generuje do **46% porzuceń** na ostatnim etapie. Konsekwencja dla priorytetyzacji: audyt i lokalizacja checkoutu (dostępne metody płatności per rynek, waluta, format danych) może dać większy zwrot niż kolejna kampania komunikacyjna do tej samej bazy — to tarcie **techniczne**, poprzedzające tarcie **projektowe** z mech. 10 (skrócenie formularza, spójność wizualna) w kolejności lejka: zanim darczyńca oceni, czy stronie ufa, musi w ogóle zobaczyć swoją metodę płatności jako opcję. Zastrzeżenie źródła: liczby pochodzą od dostawcy narzędzia optymalizującego checkout ([[Fundraise Up]]) — warte traktowania jako benchmark branżowy, nie niezależny audyt. *(Źródło: [[2026-08-29 Fundraise Up - utracone darowizny przez błędne metody płatności]])*
 
 ---
+
+**22. Darczyńca sprawdza, zanim da — 89,5% robi research, a 79,1% z nich zaczyna od strony organizacji ([[Abby Jarvis]] / [[Neon One]])**
+Twarda podstawa liczbowa pod mech. 17 („sygnały zaufania biją optymalizację") i mech. 10 („strona donacyjna jako egzamin z zaufania"), z ankiety na **2006 darczyńcach** (Neon One, 2026): **89,5% deklaruje, że przed przekazaniem darowizny robi choć trochę researchu**, a **79,1% z nich sprawdza stronę WWW organizacji** — czyli strona nie jest kanałem komunikacji obok innych, tylko **powierzchnią weryfikacji**, na której zapada decyzja podjęta gdzie indziej. Wynika z tego kolejność, którą źródło stawia wprost: **widoczność i dowód wpływu poprzedzają apel**, bo apelu nie da się wysłać do kogoś, kogo nie ma jeszcze w bazie — a materiał do zweryfikowania musi już tam być, gdy ktoś przyjdzie sprawdzić. Inwentarz materiałów weryfikacyjnych podawany przez źródło: raporty wpływu, historie zmiany, dostępne sprawozdanie finansowe (w USA formularz 990), profil w zewnętrznym rejestrze oceniającym (GuideStar, Charity Navigator) i regularny newsletter. Polski odpowiednik tej pary jest tańszy, niż się wydaje: sprawozdanie w bazie sprawozdań organizacji plus własna podstrona „Finanse i wpływ" pełnią razem funkcję 990 i profilu w rejestrze. Trzecia teza, spinająca się z mech. 20 (raport roczny jako biblioteka treści): **ta sama treść obsługuje trzy kanały naraz** — stronę, social media i newsletter — więc kosztem transparentności jest jednorazowe wyprodukowanie materiału, a nie utrzymywanie trzech osobnych. Zastrzeżenie: to ankieta deklaratywna dostawcy oprogramowania fundraisingowego, mierząca **zadeklarowane zachowanie**, nie zaobserwowane. *(Źródło: [[2026-07-08 4 Donor Acquisition Tips from 2,000+ Donors]])*
+
+**23. Raport roczny projektowany pod recykling — cztery odbiorniki treści i test „czy raport żyje" ([[Olivia Wheeler]], Acton Circle)**
+Druga część materiału z mech. 20, od tej samej autorki (na stronie zapisanej też jako [[Olivia Lopez-Wheeler]]) i z pracy z **ponad 65 zespołami**. Mech. 20 mówi, **co raport robi po publikacji**; ten mechanizm dokłada warunek konstrukcyjny i dwa zastosowania, których tam nie było. Warunek: **recykling trzeba zaprojektować na starcie** — treść, format i design razem, z pytaniem „które dowody mają podróżować dalej" zadanym przed pisaniem, a nie po. Raport składany w pośpiechu tuż przed publikacją nie da się rozłożyć na kanały, choćby zawierał te same dane. Cztery odbiorniki: **(1) bank treści** dla całego zespołu w rozmowach z dużymi darczyńcami — dane finansowe jako **otwarcie prośby**, nie jako załącznik; **(2) wnioski grantowe i oferty** — zespół, który wie z góry, jakich dowodów szukają fundatorzy, zbiera je **do raportu**, a nie osobno pod każdy wniosek (to jedyne z czterech zastosowań, które zmienia treść samego raportu, nie tylko jego dystrybucję); **(3) fundament przekazu kampanijnego** — najsilniejszy wątek raportu staje się kotwicą kampanii, więc apel nie buduje kontekstu od zera; **(4) zaangażowanie zarządu** — członkowie zarządu dostają konkretny materiał do dzielenia się we własnych sieciach i argument do rozmowy o dużym darze lub partnerstwie (rozszerzenie funkcji „motywacja zespołu" z mech. 20 na zewnątrz, zob. [[2026-06-13 Major gifts|Major gifts]]). Dwa kryteria jakości, oba tanie do sprawdzenia: **spójność języka i dowodów między raportem a późniejszym apelem końcoworocznym** — rozjazd jest odczuwalny dla odbiorcy, nawet gdy nie potrafi go nazwać; oraz **test reakcji**: czy zespół potrafi natychmiast odpowiedzieć darczyńcy, który przeczytał raport i chce wiedzieć więcej. Jeśli nie potrafi, raport nie żyje poza dniem publikacji, niezależnie od tego, jak wygląda. *(Źródło: [[2026-08-13 Your Annual Report Is Your Best Comms Asset. Here's Why.]])*
+
+
+---
+
+**24. Czwarta oś koncentracji — nie źródła, tylko liczba relacji ([[Rob Burke]] / [[DonorDock]])**
+Mech. 6, 14 i 15 mierzą ryzyko koncentracji **po stronie źródeł** (udział największego grantodawcy, progi 25/30/40%). Ten dokłada oś, której tamte progi nie widzą: **koncentrację w liczbie relacji**. Sektor zbiera coraz więcej pieniędzy od coraz mniejszej liczby osób — **liczba darczyńców spadła w 2025 piąty rok z rzędu (o ok. 3,6%), przy wzroście łącznych wpływów o 5%** — więc organizacja może mieć wzorcowo zdywersyfikowane *źródła* i jednocześnie rosnące ryzyko, bo w każdym z nich stoi coraz mniej ludzi. Odejście kilku darczyńców z górnego decyla robi wtedy dziurę, której żaden wskaźnik udziału źródeł nie zapowiedział. Łagodzi to **stabilna baza darczyńców miesięcznych** (zob. [[2026-06-12 Recurring giving|Recurring giving]] mech. 22), a nie kolejny strumień przychodu. Wskaźnik do audytu, komplementarny wobec progu koncentracji źródeł: **jaki udział przychodu pochodzi od 10% największych darczyńców i jak ta liczba zmienia się rok do roku** — rosnąca oznacza, że dywersyfikacja źródeł maskuje kurczenie się bazy. *(Źródło: [[2026-08-25 The Importance of Recurring Donors What Reports Miss]])*
 
 ## Powiązane pojęcia
 

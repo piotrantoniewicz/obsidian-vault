@@ -5,7 +5,7 @@ tags:
   - organizacje-społeczne
   - digital-campaigning
 created: 2026-06-13
-updated: 2026-08-30
+updated: 2026-09-06
 relevance: wysoka
 sources:
   - "[[2026-04-24 Beyond the Ask Donor Stewardship]]"
@@ -47,6 +47,9 @@ sources:
   - "[[2026-08-25 Your Weekly Spark]]"
   - "[[2026-08-20 NIEZADOWOLONY DARCZYŃCA - CO ROBIĆ?]]"
   - "[[2026-08-28 Szczepan Kasiński - standard podziękowań dla darczyńców]]"
+  - "[[2025-08-19 7 Steps to Better GivingTuesday Donor Retention]]"
+  - "[[2026-08-20 Is GivingTuesday Worth It- Here's What the Data Says]]"
+  - "[[2026-08-25 The Importance of Recurring Donors What Reports Miss]]"
 ---
 
 # Stewardship (opieka nad darczyńcą)
@@ -158,6 +161,27 @@ Uzupełnienie warstwy operacyjnej (obok mech. 20 telefonu z podziękowaniem i me
 Konkretny, wdrożeniowy szkic dla luki, którą mech. 13 nazywa jakościowo („ponad 80% darczyńców nigdy nie dowiaduje się o efekcie daru") i mech. 20 domyka telefonem — tu domknięcie **listem i mailem**. Dwa kroki, oba obowiązkowe: **(1) list drukowany w ciągu 7 dni od wpłaty** — minimum dwie strony, ton osobisty („jak do przyjaciela"), odręczny podpis, zdjęcie nadawcy i pokazana sprawczość (konkretny efekt działań organizacji); **(2) mail natychmiastowy** — nie zastępuje listu, tylko daje darczyńcy szybki sygnał, że wpłata została zauważona, zanim nadejdzie wolniejsza poczta papierowa. **Zasada uniwersalności**: bez progów kwotowych — każdy, kto wpłacił, dostaje ten sam standard, co odwraca częstą praktykę rezerwowania personalizowanego podziękowania dla większych darów. Autor raportuje konwersję z darczyńców jednorazowych na regularnych na poziomie **3–5,26%** jako efekt konsekwentnego wdrożenia tego standardu, nie kreatywności — teza zbieżna z mech. 19 tej strony („fundraising bez właściciela i rytmu nie istnieje"): to nie technika listu jest unikalna, tylko fakt, że ktoś w organizacji systematycznie go wysyła. **Uwaga metodologiczna:** to inna metryka niż retencja nowych darczyńców (mech. 1, 26 — 14–19% / 19% / 24%) — konwersja jednorazowy→cykliczny mierzy inne zdarzenie (zmianę typu daru, nie samo ponowienie wpłaty), więc liczby nie są ze sobą bezpośrednio porównywalne ani sprzeczne. *(Źródło: [[2026-08-28 Szczepan Kasiński - standard podziękowań dla darczyńców]])*
 
 ---
+
+**30. Playbook retencyjny po kampanii jednodniowej — siedem kroków i rachunek, który je uzasadnia ([[Abby Jarvis]] / [[Neon One]])**
+Domknięcie mech. 17 (kampania jednodniowa planowana wstecz o 90 dni) od strony **tego, co dzieje się po niej**: kwota zebrana w [[GivingTuesday]] jest połową wyniku, druga połowa rozstrzyga się przy drugim darze. Rachunek podawany wprost i przenośny na dowolny apel: koszt pozyskania **40 USD**, pierwszy dar **50 USD** → zysk **10 USD**; **drugi dar tej samej wysokości podnosi zysk do 60 USD**, czyli sześciokrotnie, bez ponoszenia kosztu pozyskania po raz drugi. To ta sama teza co mech. 1, ale w postaci, którą da się położyć na stole zarządu jako jedno działanie. Siedem kroków: **(1) dobre dane** — imię, e-mail, wspierany program, kwota, kanał pozyskania, historia innych interakcji (wolontariat, dary rzeczowe), przy czym dane dodatkowe zbiera się **ankietą po darowiźnie, nie dłuższym formularzem** (rozbudowany formularz obniża konwersję — zob. [[2026-06-12 Recurring giving|Recurring giving]] mech. 18); **(2) opcja daru cyklicznego** na formularzu jako najtańsza dźwignia retencji; **(3) szybkie podziękowanie** — automatyczny, spersonalizowany paragon natychmiast plus osobny list dzień–dwa później, **bez ponownej prośby na tym etapie** (operacyjnie zgodne z dwuetapowym standardem z mech. 29); **(4) raport z realnego wpływu** — policzalne rezultaty, nie ogólniki; **(5) stałe zaproszenia do zaangażowania** — wolontariat, [[2026-06-13 Peer-to-peer fundraising|fundraising rówieśniczy]], wydarzenia dla darczyńców — jako element kalendarza, nie akcja; **(6) inwestycja w CRM** do segmentacji i automatyzacji; **(7) dopiero potem apel o kolejny dar**, pisany świadomie. Kolejność jest samym mechanizmem: **podziękowanie → raport z wpływu → prośba**, a jej odwrócenie jest najczęstszym sposobem spalenia świeżo pozyskanego darczyńcy (to mech. 13 tej strony, tu w wersji harmonogramu pokampanijnego). Uwaga do cytowania liczb: materiał opublikowano **19 sierpnia 2025**, czyli **przed** zmianą metodologii FEP z 2026 r. — jego „ok. 45% retencji ogółem" jest zgodne z kotwicą 42,9% / 40–45% z mech. 1 i **nie jest** dowodem, że stara kotwica żyje w materiałach z 2026 r. *(Źródło: [[2025-08-19 7 Steps to Better GivingTuesday Donor Retention]])*
+
+
+---
+
+**31. Cztery mity o kampanii jednodniowej, rozebrane danymi panelowymi ([[Abby Jarvis]] / [[Neon One]])**
+Kalibracja mech. 17 (kampania jednodniowa planowana wstecz) i mech. 30 (playbook retencyjny po niej) od strony pytania, które organizacje zadają **przed** planowaniem: czy w ogóle warto wchodzić w [[GivingTuesday]]. Cztery liczby, każda uderzająca w inną obiekcję. **(a) Mit przesycenia:** tylko **3,14%** darczyńców z grudnia 2024 dało akurat w GivingTuesday — z perspektywy darczyńcy dzień nie jest zatłoczony, choć z perspektywy organizacji patrzącej na własną skrzynkę i feed wygląda odwrotnie; obawa jest artefaktem pozycji obserwatora, nie zachowania bazy. **(b) Mit kanibalizacji grudnia:** **47,71%** darczyńców z GivingTuesday 2024 zrobiło **co najmniej jedną dodatkową darowiznę jeszcze w tym samym miesiącu** — dzień działa jak rozpęd sezonu, nie jak zabranie budżetu grudniowej kampanii. To odwraca domyślny lęk zarządu: pytanie brzmi nie „czy GT zje grudzień", tylko „czy mamy przygotowany drugi kontakt w grudniu, żeby te 47,71% miało gdzie trafić" — a odpowiedzią jest sekwencja z mech. 30. **(c) Jakość pozyskanego darczyńcy:** darczyńcy pozyskani w GivingTuesday mają **65% wskaźnik powtórnych darowizn wobec 52% średnio dla wszystkich darczyńców** ([[Blackbaud Institute]], 2025) — czyli akwizycja w tym dniu nie jest gorsza jakościowo od zwykłej, tylko lepsza. **(d) Zaangażowanie mailowe rośnie, nie spada:** open rate maili GivingTuesday **28,71% (2022) → 35,92% (2023)**, CTR **1,63% → 3,08%** (zob. [[2026-06-14 Email deliverability|Email deliverability]] mech. 32). **Uwaga do cytowania:** wszystkie cztery liczby pochodzą z paneli i raportów rynku amerykańskiego i mierzą zachowanie w kalendarzu, w którym GivingTuesday i Thanksgiving są instytucjami — do polskiego kontekstu przenosi się **mechanizm** (dzień jako otwarcie sezonu i punkt akwizycji), nie wartości. *(Źródło: [[2026-08-20 Is GivingTuesday Worth It- Here's What the Data Says]])*
+
+
+
+---
+
+**32. Kohorta bez właściciela — dlaczego stewardship darczyńców cyklicznych nie dzieje się sam ([[Rob Burke]] / [[DonorDock]])**
+Domknięcie mech. 19 („fundraising bez właściciela i rytmu nie istnieje") na konkretnej, najczęściej pomijanej kohorcie. Przyczyna jest strukturalna, nie motywacyjna: portfele opiekuńcze przydziela się według **potencjału kwotowego**, więc darczyńca miesięczny wpłacający niewielką kwotę nie trafia do niczyjego portfela — i całą jego relację z organizacją obsługuje operator płatności. Trzy przenośne ruchy naprawcze: **(a)** dodać do zestawu raportów jeden nowy — **„kto daje najdłużej bez przerwy"** — i traktować go jako równorzędny wobec rankingu kwotowego; **(b)** zmienić domyślną treść kontaktu z tą grupą z prośby na **relację z efektu**, bo prośba kierowana do kogoś, kto już daje co miesiąc, komunikuje, że organizacja nie widzi jego wsparcia; **(c)** ustawić sekwencję stewardshipową raz i automatycznie, żeby przetrwała sezon, w którym zespół zajmuje się kampanią (to ten sam ruch co „automate the tired, humanize the inspired" z mech. 5, tylko zastosowany do kohorty, która zwykle wypada z kolejki). Uzasadnienie priorytetu liczbami: **darczyńcy powracający to 37% osób i 60,8% środków**, nowo pozyskani **40,6% osób i 19,2% środków** — czyli budżet uwagi i budżet pozyskania są w większości organizacji ustawione odwrotnie do rozkładu przychodu. *(Źródło: [[2026-08-25 The Importance of Recurring Donors What Reports Miss]])*
+
+## Sprzeczności
+
+
+- **Powtórna darowizna „ogółem": 52% czy 42,9%?** [mech. 1, 30, 31] — A: retencja ogółem **42,9%**, w materiałach sprzed zmiany metodologii „ok. 45%" ([[2025-08-19 7 Steps to Better GivingTuesday Donor Retention|za mech. 30, FEP/Neon One]], 2025, dane sektorowe z rekordów organizacji, rynek US, bez podanego n). B: **52% darczyńców ogółem daje ponownie** ([[2026-08-20 Is GivingTuesday Worth It- Here's What the Data Says|Neon One za Blackbaud Institute]], 2025, panel darczyńców, rynek US, bez podanego n). *Wątpliwość nazwana:* prawdopodobnie inne denominatory (populacja sektorowa mierzona rekordami CRM vs panel darczyńców) i możliwie inna definicja zdarzenia („powtórna darowizna kiedykolwiek" vs „retencja rok do roku"), ale **żadne ze źródeł tego nie różnicuje**, a benchmark „65% vs 52%" traci sens, jeśli podstawa porównania jest inna niż kotwica używana na tej stronie. *Akt. 2026-09-06:* trzeci odczyt tej samej wielkości — **43,3% retencji ogółem w 2025** (FEP za [[2026-08-25 The Importance of Recurring Donors What Reports Miss|Rob Burke / DonorDock]], rynek US, dane sektorowe, bez podanego n) — **wzmacnia stronę A** i utrzymuje rozbieżność wobec 52% na poziomie ok. dziewięciu punktów. *Status: otwarte.*
 
 ## Powiązane pojęcia
 

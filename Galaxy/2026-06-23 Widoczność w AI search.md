@@ -5,7 +5,7 @@ tags:
   - content-marketing
   - digital-campaigning
 created: 2026-06-23
-updated: 2026-08-29
+updated: 2026-09-06
 relevance: wysoka
 sources:
   - "[[2025-07-30 Generative engine optimisation query]]"
@@ -35,6 +35,8 @@ sources:
   - "[[2026-08-26 Sweden on the spot 5 Digital Campaign Innovations Worth Following Before September 13]]"
   - "[[2026-08-17 How we grew revenue from $65.7K to $170.6K...]]"
   - "[[2025-05-06 TON - Visual Comms to Win Hearts, Democrats Digital Media Ditch, AI Fake Personas]]"
+  - "[[2026-07-08 4 Donor Acquisition Tips from 2,000+ Donors]]"
+  - "[[2026-08-31 It’s Peak Produce Season Stop Cherry-Picking Your Ads Results]]"
 ---
 
 # Widoczność w AI search (GEO / AEO)
@@ -130,6 +132,15 @@ Operacyjne domknięcie mech. 3 („SEO i AI search to naczynia połączone"): pr
 
 **23. Syntetyczni aktorzy, nie tylko syntetyczne źródła — ponad 100 fałszywych person politycznych na jednym modelu ([[Tectonica]] / [[Anthropic]])**
 Uzupełnienie mech. 12 (16% cytowanych źródeł jest syntetycznych) o drugą stronę tego samego zjawiska: zanieczyszczana jest nie tylko **treść**, ale i **warstwa tożsamości** rozmówców. [[Anthropic]] ujawniło wykorzystanie własnego modelu do operowania **ponad setką fałszywych person politycznych** prowadzących skoordynowane narracje. Dla organizacji społecznej konsekwencja jest podwójna i obie strony są operacyjne: **z zewnątrz** — kampanie dezinformacyjne mogą podszywać się pod głosy społeczności, co czyni monitoring wzmianek (mech. 20) elementem bezpieczeństwa, nie tylko marketingu; **od środka** — organizacja bez własnej strategii AI ryzykuje analogiczną wpadkę reputacyjną przy niekontrolowanym użyciu narzędzi (zob. [[2026-06-15 AI governance|AI governance]], mech. 5). Wniosek strukturalny spójny z mech. 13 (*trust economy*): im więcej syntetycznych aktorów i źródeł w ekosystemie, tym wyższa premia za **możliwe do zweryfikowania pochodzenie treści** — co jest przewagą organizacji publikujących własne dane, a nie ich kosztem. *(Źródło: [[2025-05-06 TON - Visual Comms to Win Hearts, Democrats Digital Media Ditch, AI Fake Personas]])*
+
+**24. Druga liczba po stronie popytu — i pierwsza z fundraisingu: 3,4% darczyńców trafia do organizacji przez model ([[Abby Jarvis]] / [[Neon One]])**
+Kontrapunkt do mech. 21 (popyt wyborczy w Szwecji) i najtrzeźwiejsza dostępna kalibracja całej strony. W ankiecie na **2006 darczyńcach** (Neon One, 2026, rynek USA) **tylko 3,4% wskazało, że trafiło do wspieranej organizacji przez narzędzia AI** (ChatGPT, Gemini), podczas gdy **43,1% poznało ją we własnej społeczności** — obecność lokalna bije w tym pomiarze wszystkie kanały cyfrowe razem wzięte. To nie obala żadnego mechanizmu tej strony: mech. 1 i 10 mówią o **cytowaniu i zero-click**, czyli o widoczności, która z definicji nie zostawia śladu w pytaniu „skąd o nas wiesz", a mech. 17 i 21 opisują zjawisko rosnące i mocno skoncentrowane pokoleniowo. Ale ustawia **wielkość zakładu**: dla organizacji społecznej w 2026 r. GEO jest inwestycją w kanał, który dopiero się formuje, a nie zamiennikiem obecności lokalnej i listy mailowej — i tak trzeba go wyceniać w rozmowie z zarządem, który usłyszał, że „SEO umarło". Uwaga metodologiczna, którą trzeba wypowiadać razem z tą liczbą: **atrybucja z deklaracji darczyńcy systematycznie zaniża kanały pośrednie** — ktoś, kto zapytał modelu o organizacje zajmujące się danym tematem, a potem wszedł na stronę z wyszukiwarki, zapamięta wyszukiwarkę. *(Źródło: [[2026-07-08 4 Donor Acquisition Tips from 2,000+ Donors]])*
+
+
+---
+
+**25. Skutek uboczny wyszukiwania przez modele: rozpada się atrybucja, a nie tylko ruch ([[M+R]])**
+Mech. 24 mierzy, ilu darczyńców **trafia** do organizacji przez model. Ten dotyczy tego, czy w ogóle **da się to zmierzyć** — i jest drugą, rzadziej wypowiadaną konsekwencją przejścia wyszukiwania do modeli. **[[Multi-touch attribution]]** (przypisywanie przychodu ścieżce kliknięć) traci wiarygodność z trzech nakładających się powodów naraz: rosnące ograniczenia prywatności danych, wyszukiwanie przez AI (odpowiedź bez kliknięcia = punkt styku bez śladu) oraz alternatywne formy dawania, które wychodzą poza mierzalny lejek — w tym [[2026-07-06 DAF|DAF]]. Proponowana odpowiedź metodologiczna to **marketing mix modeling (MMM)**: model statystyczny porównujący **wydatki na kanały** (reklama, direct mail, e-mail) z **wynikami fundraisingowymi w czasie**, przy kontroli czynników kontekstowych — sezonowości i siły marki. Pytania, na które MMM odpowiada, a MTA już nie: *ile przychodu wynikało z reklam, a ile z ogólnego kontekstu* oraz *czy warto puszczać reklamy display do istniejącej bazy darczyńców*. **Praktyczna wymowa dla tej strony:** spadek mierzalnego ruchu z wyszukiwarki nie dowodzi jeszcze spadku skuteczności — dopóki pomiar opiera się na atrybucji kliknięć, obie rzeczy są nierozróżnialne, więc **argument „GEO nie działa, bo nie widzę ruchu" jest w tym momencie nierozstrzygalny**. **Ograniczenia, wprost:** materiał jest zapowiedzią webinaru (M+R z USA for UNHCR), nie studium — nie podaje ani wymaganego horyzontu danych, ani minimalnego budżetu, przy którym MMM ma sens; źródło odnotowuje jedynie, że organizacje społeczne sięgają po tę metodę rzadziej niż firmy komercyjne. *(Źródło: [[2026-08-31 It’s Peak Produce Season Stop Cherry-Picking Your Ads Results]])*
 
 ## Powiązane pojęcia
 

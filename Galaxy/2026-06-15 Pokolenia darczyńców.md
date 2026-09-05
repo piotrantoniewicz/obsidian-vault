@@ -5,7 +5,7 @@ tags:
   - digital-campaigning
   - organizacje-społeczne
 created: 2026-06-15
-updated: 2026-08-28
+updated: 2026-09-05
 relevance: wysoka
 sources:
   - "[[2025-10-21 GivingTuesday x Blackbaud Institute Special Report]]"
@@ -20,6 +20,7 @@ sources:
   - "[[2026-08-07 Identify Major Donors with Predictive Intelligence]]"
   - "[[2026-08-05 The AI-Enabled Nonprofit A Strategy Guide for 2026]]"
   - "[[2026-06-16 Donors Want Giving Platforms To Be Accurate, Transparent, Consent Of Charities]]"
+  - "[[2026-02-26 Nonprofit Donation Form Templates That Increase Giving]]"
 ---
 
 # Pokolenia darczyńców (Donor Generations)
@@ -80,6 +81,10 @@ Uzupełnienie mech. 4 i danych *Giving Signals* z mech. 3 o wskaźnik, który do
 
 **10. Odkrywanie przez platformę, nie przez organizację — 88% Gen Z i millenialsów ([[BBB Give.org]])**
 Doprecyzowanie mech. 5 („kanał różni się generacyjnie") o **moment odkrycia**: **88% Gen Z i millenialsów korzysta z platform dawania specjalnie po to, by odkrywać nowe organizacje**, a **70% wszystkich darczyńców z ostatnich trzech lat** dało przez co najmniej jeden zewnętrzny kanał online. To zamyka pewną lukę w mech. 9 (otwartość na nową organizację, 80% vs 30%): młodsze pokolenia nie tylko **chcą** poznawać nowe organizacje — mają na to **konkretne, cudze miejsce**, którym organizacja nie zarządza. Konsekwencja pokoleniowa: dla tych roczników „pierwsze wrażenie" o organizacji powstaje w interfejsie platformy (opis, zdjęcie, kwoty domyślne, wiarygodność samego pośrednika), zanim ktokolwiek trafi na jej stronę — więc audyt obecności na platformach jest dla nich elementem strategii pozyskania, a nie tylko administracją. Warstwa zaufania działa dwukierunkowo: **62% użytkowników platform** deklaruje, że obecność organizacji na znanej platformie zwiększa ich zaufanie do niej. Rozwinięcie mechanizmu i ryzyk po stronie kanału: [[2026-06-25 Owned vs rented audience|Owned vs rented audience]] mech. 23. *(Źródło: [[2026-06-16 Donors Want Giving Platforms To Be Accurate, Transparent, Consent Of Charities]])*
+
+## Sprzeczności
+
+- **Efekt sugerowanych kwot generowanych przez AI: +10–15% czy +62%?** [mech. 10, liczby-kotwice kanału] — A: funkcje AI na formularzu (sugerowane kwoty, automatyczna częstotliwość) podnoszą **przychód o 10–15%** ([[2026-06-29 Pulse of the Donor 2026 Fundraising Benchmarks & Giving Trends|Pulse of the Donor 2026]], 2026, bez podanego n, rynek US/AU, badanie benchmarkowe dostawcy). B: **„smart ask strings" dopasowane przez AI podnoszą średnią wielkość darowizny r/r nawet o 62%** ([[2026-02-26 Nonprofit Donation Form Templates That Increase Giving|Nonprofit Donation Form Templates]], 2026, bez podanego n, rynek US, treść sponsorowana dostawcy formularzy [[CharityEngine]]). Wątpliwość nazwana wprost: metryki nie są tożsame (**przychód programu** vs **średnia wielkość pojedynczej darowizny**), więc może to być doprecyzowanie zakresu, a nie spór — ale różnica jest **czterokrotna**, oba pomiary pochodzą od dostawców narzędzi, żadne źródło nie podaje próby ani okresu, a obie liczby trafiają do tych samych materiałów o AI w fundraisingu. *Status: otwarte.*
 
 ## Powiązane pojęcia
 

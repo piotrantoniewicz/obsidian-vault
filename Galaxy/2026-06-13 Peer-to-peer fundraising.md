@@ -5,7 +5,7 @@ tags:
   - organizacje-społeczne
   - digital-campaigning
 created: 2026-06-13
-updated: 2026-08-28
+updated: 2026-09-06
 relevance: wysoka
 sources:
   - "[[2026-04-08 Społeczność Jako Twój Najlepszy Fundraiser Jak Wdrożyć Model Peer-to-Peer]]"
@@ -23,6 +23,7 @@ sources:
   - "[[2026-08-21 Peer-to-Peer Donor Retention Built for the Second Ask]]"
   - "[[2026-08-18 The drift how constituents stopped being the center]]"
   - "[[2026-07-28 Fall Fundraiser Ideas 10 Fundraising Campaigns for Nonprofits]]"
+  - "[[2026-08-28 Jack Milroy - relational organising kontra cold outreach]]"
 ---
 
 # Peer-to-peer fundraising (fundraising rówieśniczy)
@@ -75,6 +76,12 @@ Domknięcie mech. 1 (proxy trust) od strony retencji: skoro darczyńca P2P dał 
 
 **13. Trzecia oś doboru formatu: pojemność organizacyjna, nie atrakcyjność pomysłu ([[Engaging Networks]])**
 Do kalendarza (mech. 7) i typu społeczności (mech. 10) dochodzi oś, która w praktyce zabija najwięcej pierwszych edycji: **realny zasób zespołu, budżetu i wolontariuszy**. Reguła źródła jest jednoznaczna — format ma wynikać z pojemności, nie z tego, który pomysł brzmi najlepiej na burzy mózgów. Drabina nakładu, użyteczna jako narzędzie doradcze: **wysoki nakład** — festyn wieloprzychodowy (jedzenie, gry, stoiska sponsorów naraz) i koncert plenerowy, oba wymagające dużego zespołu i infrastruktury; **średni** — podchody wokół miejsc związanych z misją, marsz lub bieg (jedyny format, który **skaluje się sam**, bo uczestnicy rekrutują sponsorów we własnych sieciach — czysty P2P z mech. 1); **niski** — konkurs dyniowy lub fotograficzny (głosowanie w social media robi za dystrybucję), bake-off z biletami degustacyjnymi, aukcja cicha lub loteria na darowanych nagrodach, oraz **partnerstwo z lokalnym producentem** (stolik lub procent od sprzedaży — start bez budowania wydarzenia od zera). Cztery warunki wykonawcze poza samym formatem: **3–4 miesiące wyprzedzenia** (jesienne kalendarze zapełniają się szybko), **plan awaryjny na pogodę** przy każdym wydarzeniu plenerowym, **„momenty misji" wplecione w przebieg** (historia, oznakowanie, gadżet przypominający, po co to wszystko) — inaczej event zbiera pieniądze, ale nie zbiera powodu — i **równoległa promocja wielokanałowa** (mail, social, SMS, ulotki, prasa lokalna). Materiał jest treścią marketingową dostawcy narzędzi i osadzoną w kalendarzu amerykańskim (Halloween, Thanksgiving); mechanika jest przenośna, kalendarz wymaga podmiany na dożynki, początek roku szkolnego i andrzejki. *(Źródło: [[2026-07-28 Fall Fundraiser Ideas 10 Fundraising Campaigns for Nonprofits]])*
+
+
+---
+
+**14. Zaufanie jako nośnik przekazu — organizowanie relacyjne 2,5× skuteczniejsze od zimnego kontaktu ([[Jack Milroy]] za [[Greta Carnes]])**
+Najtwardsze dostępne uzasadnienie dla całej mechaniki P2P, przyniesione spoza fundraisingu — z organizowania politycznego w USA. Skala zimnego kontaktu była tam bezprecedensowa i nie pomogła: **300 mln prób połączeń telefonicznych przy dotarciu do 3% ludzi** i rekordowa w historii liczba odwiedzonych drzwi, bez przełożenia na wynik. **[[Relational organising]] — rozmowa z kimś, kogo już znamy — działa 2,5 raza lepiej.** Mechanizm przyczynowy jest ten sam, który stoi pod P2P: nośnikiem skuteczności nie jest zasięg, tylko **istniejące zaufanie między nadawcą a odbiorcą**, a ono nie skaluje się przez zwiększanie liczby prób. Konsekwencja praktyczna dla doboru narzędzi: przy spadającym zaufaniu do instytucji i nieznajomych **wzrost nakładu na kanał anonimowy zwiększa koszt, nie wynik** — dźwignia leży w uruchomieniu sieci osób, które już są z organizacją związane (ambasadorzy, komitet, wolontariusze), i to jest ta sama dźwignia, którą opisują mech. 1–3 tej strony. **Ograniczenie zakresu, wypowiedziane wprost:** dane pochodzą z amerykańskich kampanii wyborczych; źródło rozciąga wniosek na Australię, Kanadę i Wielką Brytanię **siłą kulturowego wpływu modelu amerykańskiego**, a nie własnym pomiarem w tych krajach — dla polskiej organizacji jest to więc hipoteza robocza o wysokiej wiarygodności mechanizmu i nieznanej wartości współczynnika. *(Źródło: [[2026-08-28 Jack Milroy - relational organising kontra cold outreach]])*
 
 ## Powiązane pojęcia
 

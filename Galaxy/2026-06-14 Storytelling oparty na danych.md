@@ -5,7 +5,7 @@ tags:
   - digital-campaigning
   - fundraising
 created: 2026-06-14
-updated: 2026-08-29
+updated: 2026-09-06
 relevance: wysoka
 sources:
   - "[[2025-06-17 Jak wizualizacja danych wspiera komunikację organizacji społecznej Sprawdź na przykładzie Fundacji Gajusz]]"
@@ -27,6 +27,7 @@ sources:
   - "[[2026-08-13 How to Write Donation Impact Statements (+ Examples)]]"
   - "[[2026-08-17 10 Powerful Nonprofit Videos to Inspire You]]"
   - "[[2023-11-26 Invite Donors Into Your Mission Storytelling in Your Fundraising Campaigns]]"
+  - "[[2026-09-01 Aleksandra Marciniak - wzrost zasięgów fanpage NGO na Facebooku]]"
 ---
 
 # Storytelling oparty na danych (data storytelling)
@@ -109,6 +110,12 @@ Operacyjne przedłużenie mech. 15: skoro narracja ma dwie osie, to feed nie mo�
 
 **17. Trauma-informed pozyskiwanie historii — zgoda jako proces, nie podpis ([[CauseVox]])**
 Warstwa, której ta strona nie miała: **czyja jest historia i na jakich warunkach organizacja może jej użyć**. Trzy reguły. (a) **Zgoda pełna, świadoma i entuzjastyczna — oraz odwoływalna w każdej chwili**; „nie odmówił" nie jest zgodą, a raz udzielona zgoda nie jest wieczysta. (b) **Timing**: należy dać osobie przestrzeń po tym, jak jej historia dojdzie do „nadziejnego" punktu, **zanim** poprosi się o publiczne udostępnienie — prośba w środku kryzysu jest prośbą do kogoś, kto nie ma realnego wyboru. (c) **Kontrola po stronie rozmówcy i pracownika pierwszego kontaktu** — w zbieranie historii angażuje się osoby pracujące bezpośrednio ze wspieranymi, z możliwością **przełożenia, wstrzymania lub przerwania rozmowy w dowolnym momencie**. Uzasadnienie nie jest wyłącznie etyczne, i to jest tu najważniejsze dla praktyki: *„poszanowanie osoby stojącej za historią jest tym, co czyni tę historię wiarygodną"* — czyli procedura zgody jest **elementem wiarygodności narracji**, nie kosztem administracyjnym doklejonym do niej z boku. Do materiałów szkoleniowych nadaje się wprost jako checklista przed pierwszą rozmową. *(Źródło: [[2026-08-17 Effective Storytelling & Social Media Strategy for Nonprofits]])*
+
+
+---
+
+**18. Kolejność: strategia przed reagowaniem — i wartości jako filtr doboru historii ([[Aleksandra Marciniak]] / [[Fundacja Gajusz]])**
+Domknięcie mech. 16 (siedem „content buckets" i kalendarz) i mech. 17 (zgoda jako proces) polskim case'em, który podaje **kolejność, a nie tylko elementy**. Punktem wyjścia nie jest trend ani algorytm, lecz **wiedza organizacji o sobie samej**: najpierw zasady i plan treści, **dopiero potem** elastyczność wobec zmian platformy. Dwa filtry doboru materiału: **wyłącznie historie prawdziwe lub oparte na faktach, anonimizowane** ze względu na dobro podopiecznych (operacyjna, minimalna wersja trauma-informed z mech. 17, wykonalna bez procedury), oraz **zakorzenienie w nazwanych wartościach organizacji** — u źródła: szacunek, odpowiedzialność, mądre pomaganie — spójnie z warstwą estetyczną. Efekt mierzony na zewnętrznym rankingu, nie deklarowany: **awans o 27 miejsc do top 20 polskich fanpage'y organizacji społecznych ([[Sotrender]])** przy średnim zasięgu **65 tys. → 260 tys.** rok do roku (zob. [[2026-06-25 Owned vs rented audience|Owned vs rented audience]] mech. 28). Wartość tego materiału dla strony jest przede wszystkim **dowodowa i polska**: większość mechanizmów tej strony pochodzi z rynku amerykańskiego, a to jest krajowy przykład, w którym „systematyczna narracja bije pojedynczą wiralowość" ma przypisaną liczbę. **Zastrzeżenie:** relacja własna organizacji, jeden rok, brak kontrgrupy — case do cytowania jako istniejący precedens, nie jako zmierzony efekt metody. *(Źródło: [[2026-09-01 Aleksandra Marciniak - wzrost zasięgów fanpage NGO na Facebooku]])*
 
 ## Powiązane pojęcia
 

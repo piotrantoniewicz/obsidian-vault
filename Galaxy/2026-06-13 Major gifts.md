@@ -5,7 +5,7 @@ tags:
   - strategia-organizacji
   - organizacje-społeczne
 created: 2026-06-13
-updated: 2026-08-28
+updated: 2026-09-05
 relevance: wysoka
 sources:
   - "[[2025-02-11 Best Practices for Major Gift Fundraising What You Need to Know to Raise More]]"
@@ -21,6 +21,7 @@ sources:
   - "[[2026-08-07 Identify Major Donors with Predictive Intelligence]]"
   - "[[2026-08-10 Can AI Close the Gap in Nonprofit Fundraising Without Sacrificing Its Human, Transformational Nature-]]"
   - "[[2026-04-28 Fundraising Solutions for Nonprofits]]"
+  - "[[2026-01-27 From Major Gifts to Legacy Giving Real Fundraising Strategies]]"
 ---
 
 # Major gifts (duże darowizny)
@@ -68,6 +69,9 @@ Operacyjne rozwinięcie mech. 5 i 10, a zarazem **częściowe rozstrzygnięcie n
 
 **12. Mikro-darczyńca jako drużyna farmerska pipeline'u — 29% dużych darów zaczyna się poniżej 250 USD ([[Click & Pledge]])**
 Argument liczbowy przeciw odpisywaniu mikro-darczyńców na koszt budowania świadomości, a zarazem uzupełnienie mech. 1 o **wejście do lejka poniżej progu kwalifikacji 3C**: **29% darczyńców, którzy ostatecznie dali 25 000 USD lub więcej, zaczynało od daru poniżej 250 USD** (analiza CCS Fundraising). Jeśli liczba jest prawdziwa, prospecting oparty wyłącznie na progu kwotowym odcina niemal jedną trzecią przyszłego portfela — i wzmacnia mech. 8 (majątek jako słaby predyktor) od zupełnie innej strony: to samo pytanie o sygnał wejściowy, tylko zadane o próg daru zamiast o zamożność. Ekonomia po drugiej stronie: przy koszcie pozyskania rzędu **20 USD na dar 10 USD** i **18% ponowień wśród darczyńców pierwszorazowych** (FEP) pojedynczy mikro-dar jest transakcją stratną — wartość leży wyłącznie w drugim i trzecim darze; darczyńcy średniego poziomu (100–1000 USD) osiągają **retencję powyżej 60% po drugim darze**, co wyznacza próg, po którym segment przestaje być kosztem. Kontekst rozkładu: w wielu organizacjach **mniej niż 1% darczyńców odpowiada za ponad 75% przychodów** — spójne z mech. 7 (2,3% → 74,4%). Mechanizm operacyjny proponowany przez źródło (dostawcę narzędzia, więc do traktowania jako hipoteza, nie dowód): **dynamiczne kotwiczenie kwot** na formularzu — zamiast statycznych przycisków 10/25/50/100 system podnosi sugerowane kwoty względem historii konkretnego darczyńcy (dający zwykle 10 USD widzi 12–15 USD), stosując [[Nudge Theory]] Thalera i Sunsteina. Teza: **rozmowa o podniesieniu daru**, dotąd zarezerwowana dla oficerów major gifts, daje się zautomatyzować w momencie darowizny — co uwalnia czas zespołu na kultywację, ale też przenosi decyzję o „ask" z relacji do interfejsu (patrz otwarte pytania). *(Źródło: [[2026-04-28 Fundraising Solutions for Nonprofits]])*
+
+**13. Notatka z każdej rozmowy jako warunek działania AI — i najbardziej wartościowe dziś zastosowanie modelu w portfelu ([[Rachel Gitner]] / [[Fundraising Lab]])**
+Mech. 5, 10 i 11 mówią, **co** AI liczy w portfelu; ten mechanizm mówi, **z czego** — i jest zarazem najskromniejszym, a najlepiej udokumentowanym zastosowaniem AI w pracy fundraisera major gifts. Praktyka wyjściowa jest analogowa: **każda rozmowa z darczyńcą trafia do bazy** (główne punkty plus zaplanowany follow-up), a baza pełni funkcję **„zewnętrznego mózgu"** — pamięć fundraisera nie skaluje się na cykl relacji liczony w latach, a przy odejściu osoby z organizacji znika razem z nią. Dopiero na tym zapisie model robi rzecz, którą źródło nazywa **najbardziej wartościowym obecnie użyciem AI w swojej pracy**: **odtworzenie historii kontaktu i darowizn w kilka sekund** zamiast ręcznego przeszukiwania lat notatek przed spotkaniem. Warunek jest twardy i wart wypowiedzenia klientowi wprost: **model nie odtworzy historii, której nikt nie zapisał** — to ten sam próg, co w [[2026-07-06 Context layer organizacji|Context layer organizacji]] (mech. 7: „mamy dane" to najdroższy mit wdrożeń). Drugi wątek, kalibrujący całą stronę do polskich realiów: **skala organizacji zmienia charakter pracy fundraisera bardziej niż jego kompetencje** — w małej organizacji jedna osoba projektuje i wdraża strategię samodzielnie (autonomia kosztem robienia wszystkiego), w dużej większość pracy to budowanie poparcia wielu interesariuszy. Trzecia zasada, spójna z mech. 3 (cierpliwość jako cecha konstrukcyjna): **zaufanie buduje konsekwencja** — zrobić to, co się zapowiedziało, wtedy, kiedy się zapowiedziało; follow-up jest tu fundamentem, nie uprzejmością. *(Źródło: [[2026-01-27 From Major Gifts to Legacy Giving Real Fundraising Strategies]])*
 
 ## Powiązane pojęcia
 

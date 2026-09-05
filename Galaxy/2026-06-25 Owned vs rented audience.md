@@ -5,7 +5,7 @@ tags:
   - strategia-organizacji
   - content-marketing
 created: 2026-06-25
-updated: 2026-08-29
+updated: 2026-09-06
 relevance: wysoka
 sources:
   - "[[2026-05-12 why newsletter ghostwriting (time to forget LinkedIn)]]"
@@ -39,6 +39,8 @@ sources:
   - "[[2026-08-03 The New Rules of LinkedIn are here. Now I’m tearing down my 100k account to follow them.]]"
   - "[[2026-08-26 Stars, Stripes, and Server Farms 10 Groundbreaking Digital Techniques from the 2026 US Midterms]]"
   - "[[2026-08-28 The most likely hole in your content strategy]]"
+  - "[[2026-09-01 Aleksandra Marciniak - wzrost zasięgów fanpage NGO na Facebooku]]"
+  - "[[2026-09-01 Bardzo łatwo osiągnąć dziś sukces na Instagramie]]"
 ---
 
 # Owned vs rented audience (publiczność własna vs wynajęta)
@@ -145,6 +147,18 @@ Najostrzejszy dostępny dowód na tezę strony, bo nie dotyczy zasięgu ani algo
 
 **27. Zaplanowana reakcja na zaangażowanie — brakująca połowa strategii treści ([[Josh Spector]])**
 Diagnoza luki, która w tej wiki dotąd nie miała nazwy: strategia treści zwykle opisuje **cel, odbiorcę, harmonogram i formaty**, czyli wszystko **do momentu publikacji** — i milczy o tym, **co się dzieje, gdy ktoś zareaguje**. Lajk, komentarz i udostępnienie zostają obsłużone podziękowaniem albo odpowiedzią ad hoc, czyli **zasięg wynajęty nie zamienia się w nic własnego**. Teza: *„strategia contentowa nie kończy się na publikacji — to dopiero połowa bitwy"*, a brakująca połowa to **powtarzalna, zaprojektowana ścieżka od zaangażowania do konkretnego statusu** (subskrybent, kontakt, darczyńca). To ta sama mechanika, którą mech. 25 opisuje w wariancie zautomatyzowanym (*comment-to-get*), ale postawiona ogólniej i jako **brak procesu, nie brak narzędzia**: pytanie kontrolne do audytu kanału brzmi „co dokładnie dzieje się z osobą, która skomentowała — kto, kiedy i czym się do niej odzywa". Zastrzeżenie do źródła: materiał promuje **własny produkt szkoleniowy autora** („Buyer Bridge") i nie podaje żadnych danych — wartość jest w pytaniu diagnostycznym, nie w metodzie. Dla organizacji społecznej najprostsza wersja tej ścieżki to **komentarz → wiadomość z jednym zasobem → zapis na listę**, czyli lejek rented → owned z mech. 4, uruchamiany ręcznie przez konkretną osobę z zespołu. *(Źródło: [[2026-08-28 The most likely hole in your content strategy]])*
+
+
+---
+
+**28. Zasięg organiczny na kanale wynajętym nadal rośnie — polski case z liczbami ([[Aleksandra Marciniak]] / [[Fundacja Gajusz]])**
+Kalibracja mech. 1 („zasięg organiczny topnieje bez decyzji organizacji", 7% / 17% treści od obserwowanych) o kontrprzykład z polskiego sektora — jeden z niewielu, jakie w ogóle mają publiczne liczby. Fanpage organizacji **awansował o 27 miejsc do pierwszej dwudziestki polskich fanpage'y organizacji społecznych w rankingu [[Sotrender]]**, przy średnim zasięgu **65 tys. (2025) → 260 tys. (2026)**, czyli około czterokrotnym, i to **organicznie**. Autorka przypisuje wynik trzem filarom, w podanej kolejności: **(a) strategia treści jako fundament** — najpierw zasady i plan wyprowadzone z wiedzy organizacji o sobie samej, **dopiero potem** elastyczność wobec trendów i zmian algorytmu (odwrotność domyślnego trybu „reagujemy na to, co akurat działa"); **(b) storytelling wyłącznie na faktach**, z anonimizacją ze względu na dobro podopiecznych; **(c) treści zakorzenione w wartościach organizacji** i konsekwentnie z nimi zestrojone estetycznie. Wymowa dla tej strony jest ostrożna, nie triumfalna: kontrprzykład **nie unieważnia** tezy o topniejącym zasięgu — pokazuje, że przy konsekwentnej strategii wynajęty kanał **wciąż potrafi oddać zasięg**, a więc decyzja „owned vs rented" nie jest wymuszona przez algorytm, tylko pozostaje decyzją o ryzyku (mech. 26: platform blackout dotyczy tego fanpage'a dokładnie tak samo). **Ograniczenia:** to relacja własna organizacji z jednego roku, bez kontrgrupy i bez informacji o zmianie nakładu pracy, budżetu ani składu zespołu — mierzalny efekt, niemierzalna przyczyna. *(Źródło: [[2026-09-01 Aleksandra Marciniak - wzrost zasięgów fanpage NGO na Facebooku]])*
+
+
+---
+
+**29. „Płatne albo twórcze" — środek przestał być pozycją ([[Jacek Kłosiński]])**
+Twarda liczba pod mech. 1 i zarazem reguła decyzyjna, której tamten nie podawał. Stan kanału: **średni zasięg organiczny na Instagramie spadł o 12% rok do roku i wynosi ok. 3,5% obserwujących** ([[Socialinsider]]), na Facebooku jest gorzej. Wniosek autora jest binarny: organizacja musi **wybrać jedną z dwóch strategii** — traktować social media jako **medium płatne** (i budżetować je jak reklamę) albo **wejść w logikę algorytmu do końca**, czyli bawić i edukować na poziomie twórców, nie marek. **Stanie pośrodku** — regularne posty produktowe/informacyjne bez budżetu i bez formatu — jest dziś pozycją najgorszą, bo ponosi koszt produkcji, nie kupując ani zasięgu, ani przywiązania. Case ilustrujący drugą ścieżkę: brytyjska marka [[Ffern]] zbudowała **1,3 mln obserwujących bez płatnej promocji** na **krótkich etiudach filmowych** zamiast spotów produktowych (przykładowy film: 810 tys. wyświetleń, 35 tys. polubień) — nośnikiem jest **rozpoznawalny format wizualny**, nie jakość pojedynczej realizacji. Dźwignia kosztowa, która to umożliwia: **jedno dobre wideo rozbija się na ponad 20 formatów pochodnych** (kulisy, ujęcia z drona, fotografia) — czyli budżet produkcyjny wydaje się raz, a zasila kalendarz na tygodnie. **Rozgraniczenie wobec mech. 28 (kontrprzykład Fundacji Gajusz):** te dwie liczby nie są w sporze, bo mierzą co innego — tu **średnia sektorowa jako procent obserwujących na Instagramie**, tam **zasięg bezwzględny jednego fanpage'a na Facebooku**. Pojedyncza organizacja może rosnąć w kurczącym się kanale i obie obserwacje są prawdziwe naraz; wspólny wniosek obu mechanizmów jest zresztą ten sam — decyduje konsekwentny format i strategia, nie częstotliwość publikacji. *(Źródło: [[2026-09-01 Bardzo łatwo osiągnąć dziś sukces na Instagramie]])*
 
 ## Powiązane pojęcia
 

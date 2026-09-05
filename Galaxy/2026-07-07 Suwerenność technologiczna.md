@@ -5,7 +5,7 @@ tags:
   - strategia-AI
   - narzędzia-AI
 created: 2026-07-07
-updated: 2026-08-28
+updated: 2026-09-06
 relevance: wysoka
 sources:
   - "[[2026-06-16 Suwerenność na wynajem]]"
@@ -36,6 +36,7 @@ sources:
   - "[[2026-08-17 Walloon minister blocks Google’s use of river water for data centre • Water News Europe]]"
   - "[[2026-07-13 The 20 Forces Shaping the Midterms My Map of the Kaleidoscopic Minefield]]"
   - "[[2026-08-11 Pod Warszawą budują centrum danych. Mieszkańcy już dziś są braki wody]]"
+  - "[[2026-08-28 The AI Backlash Gets Professional]]"
 ---
 
 # Suwerenność technologiczna (Technological Sovereignty)
@@ -103,6 +104,12 @@ Propozycja [[Audrey Tang]] (Wikimania 2026) przesuwa punkt ciężkości mechaniz
 
 **18. Woda jako pierwszy realny hamulec regulacyjny — precedens waloński i dwie liczby IEA**
 Piąty mechanizm o warstwie fizycznej AI (obok 9, 13, 15, 16), tym razem nie o proteście lokalnym, lecz o **decyzji administracyjnej, która weszła w życie**. Waloński minister François Desquesnes **odmówił [[Google]] zgody** na chłodzenie centrum danych w Farciennes wodą z rzeki Sambry (**600 m³/h**), utrzymując wcześniej zatwierdzone chłodzenie powietrzne; podstawą była **zasada przezorności** wobec suszy — w piętnastu gminach obowiązywał zakaz napełniania basenów i podlewania ogrodów. Google rozważa odwołanie do belgijskiej Rady Stanu. Znaczenie precedensu: **lokalny organ zablokował rozbudowę infrastruktury Big Tech, nie powołując się na klimat w ogóle, tylko na konkurencję o konkretny, mierzalny zasób tu i teraz** — to inna, znacznie skuteczniejsza rama niż ta z mech. 16, bo nie wymaga zgody co do wartości, tylko co do bilansu wody. Skala zjawiska: globalne zużycie wody przez centra danych **560 mld litrów w 2023 r.**, z prognozą **~1200 mld litrów rocznie do 2030 r.** (IEA) — czyli podwojenie w siedem lat. Dla organizacji społecznej to jednocześnie argument w rozmowie o **etycznym koszcie narzędzi AI** (zob. mech. 15) i praktyczna wskazówka kampanijna: *water-energy nexus* jest dziś słabo obecny w dyskusji o wdrażaniu AI, a jest tą warstwą, w której sprzeciw wobec centrów danych ma **umocowanie proceduralne**, nie tylko narracyjne. *(Źródło: [[2026-08-17 Walloon minister blocks Google’s use of river water for data centre • Water News Europe]])*
+
+
+---
+
+**21. Sprzeciw wobec AI się profesjonalizuje — transfer kadr i taktyk z ruchu klimatycznego ([[Matteo Wong]] / The Atlantic)**
+Domknięcie mech. 18 i 20 (woda, centra danych, protesty lokalne) od strony **podmiotu**: rozproszony niepokój dostaje organizację. **Irreplaceable** założyli byli organizatorzy ruchu klimatycznego (m.in. [[Sunrise Movement]], [[350.org]]) i świadomie przenoszą jego strategię, stawiając na **emocje i populistyczne poczucie utraty kontroli zamiast na white papers i rekomendacje polityczne**. Skala nastrojów, na których stoją: **ok. 75% Amerykanów sprzeciwia się budowie centrum danych w swojej okolicy**, **ok. 75% uważa, że AI zagrozi bezpieczeństwu ich pracy**, **blisko 70% sądzi, że technologia rozwija się zbyt szybko**. Deklarowana ścieżka: koalicja w tym roku, wspólny program polityczny w przyszłym, wdrożenie do końca 2029 — czyli **sprzeciw najpierw, program potem**, wprost na wzór wieloletniej drogi do Green New Deal. Trzy warunki, które sami sobie stawiają, są zarazem najlepszym testem tego ruchu: korzyści muszą być odczuwalne **„w portfelu" niemal natychmiast**, temat **i tak się spolaryzuje** (próba pozostania apolitycznym rozmywa przekaz), a taktyki skaluje się stopniowo — od chaotycznego pierwszego protestu do demonstracji z logistyką i jednym przekazem. **Ostrzeżenie wbudowane w źródło:** poparcie dla haseł bywa powierzchowne i wewnętrznie sprzeczne — ci sami ludzie krytykują centra danych i korzystają z produktów AI, więc **wysoki odsetek w sondażu nie jest zasobem mobilizacyjnym**, dopóki nie zostanie przełożony na lokalną, konkretną stawkę (to samo, co pokazuje mech. 20 na przykładzie Piaseczna). Znaczenie dla polskiej organizacji społecznej jest podwójne: to jednocześnie mapa taktyk i sygnał, że **AI staje się osią sporu, w którym trzeba będzie zająć stanowisko** — także organizacjom, które używają AI jako narzędzia. *(Źródło: [[2026-08-28 The AI Backlash Gets Professional]])*
 
 ## Frameworki-kotwice
 

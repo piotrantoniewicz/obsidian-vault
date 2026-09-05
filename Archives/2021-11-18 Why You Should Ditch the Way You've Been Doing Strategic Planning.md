@@ -1,10 +1,13 @@
 ---
-type: "Web"
-authors: "[[Bloomerang]]"
-url: "https://www.youtube.com/watch?v=KtZqa3PUL-Y"
-published: 2021-11-18
-created: 2026-09-05
+type: Web
+authors: '[[Bloomerang]]'
+url: 'https://www.youtube.com/watch?v=KtZqa3PUL-Y'
+published: '2021-11-18'
+created: '2026-09-05'
 tags:
+  - strategia-organizacji
+  - organizacje-społeczne
+  - fundraising
 ---
 
 

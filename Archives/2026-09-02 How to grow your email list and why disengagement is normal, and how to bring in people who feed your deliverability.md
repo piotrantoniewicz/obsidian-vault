@@ -5,6 +5,9 @@ url: "https://weareastral.co.uk/thevault/how-to-grow-your-email-list.-why-diseng
 published: 2026-09-02
 created: 2026-09-03
 tags:
+  - "digital-campaigning"
+  - "fundraising"
+  - "content-marketing"
 ---
 
 

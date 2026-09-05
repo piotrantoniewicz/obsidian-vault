@@ -1,10 +1,14 @@
 ---
-type: "Web"
-authors: "[[Partisan]]"
-url: "https://hub.partisan.community/m/news/how-political-campaigns-are-actually-using-ai-to-write/a78d608b-62cb-47df-8180-1a9f1e57bf1f"
-published:
-created: 2026-09-04
+type: Web
+authors: '[[Partisan]]'
+url: >-
+  https://hub.partisan.community/m/news/how-political-campaigns-are-actually-using-ai-to-write/a78d608b-62cb-47df-8180-1a9f1e57bf1f
+published: ''
+created: '2026-09-04'
 tags:
+  - digital-campaigning
+  - LLM
+  - strategia-AI
 ---
 
 

@@ -5,6 +5,9 @@ url: "https://www.sustainablegiving.org/articles/mistakes-every-leader-needs-to-
 published: 2026-09-04
 created: 2026-09-04
 tags:
+  - "fundraising"
+  - "organizacje-społeczne"
+  - "strategia-organizacji"
 ---
 
 

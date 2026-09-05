@@ -1,10 +1,14 @@
 ---
-type: "Web"
-authors: "[[Partisan]]"
-url: "https://hub.partisan.community/m/news/predicting-power-narrative-intelligence-and-the-new-campaign-science/d2d0e2fd-6070-4143-9be7-14e830e436d4"
-published:
-created: 2026-09-04
+type: Web
+authors: '[[Partisan]]'
+url: >-
+  https://hub.partisan.community/m/news/predicting-power-narrative-intelligence-and-the-new-campaign-science/d2d0e2fd-6070-4143-9be7-14e830e436d4
+published: ''
+created: '2026-09-04'
 tags:
+  - digital-campaigning
+  - narzędzia-AI
+  - trendy-AI
 ---
 
 

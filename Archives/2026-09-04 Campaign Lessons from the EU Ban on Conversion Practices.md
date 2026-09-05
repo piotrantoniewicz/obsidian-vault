@@ -1,10 +1,14 @@
 ---
-type: "Web"
-authors: "[[Partisan]]"
-url: "https://hub.partisan.community/m/news/campaign-lessons-from-the-eu-ban-on-conversion-practices/e970b652-0347-46c4-aefa-5f4e3e68868c"
-published:
-created: 2026-09-04
+type: Web
+authors: '[[Partisan]]'
+url: >-
+  https://hub.partisan.community/m/news/campaign-lessons-from-the-eu-ban-on-conversion-practices/e970b652-0347-46c4-aefa-5f4e3e68868c
+published: ''
+created: '2026-09-04'
 tags:
+  - digital-campaigning
+  - organizacje-społeczne
+  - strategia-organizacji
 ---
 
 

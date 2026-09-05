@@ -5,6 +5,8 @@ url: "https://weareastral.co.uk/thevault/how-to-know-your-sender-reputation.-why
 published: 2026-09-02
 created: 2026-09-03
 tags:
+  - "digital-campaigning"
+  - "fundraising"
 ---
 
 

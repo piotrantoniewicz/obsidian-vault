@@ -1,10 +1,14 @@
 ---
-type: "Web"
-authors: "[[Armiger]]"
-url: "https://www.linkedin.com/pulse/tylko-rutyna-mo%C5%BCe-nas-uratowa%C4%87-armiger-0lrrf/"
-published: 2026-09-03
-created: 2026-09-04
+type: Web
+authors: '[[Armiger]]'
+url: >-
+  https://www.linkedin.com/pulse/tylko-rutyna-mo%C5%BCe-nas-uratowa%C4%87-armiger-0lrrf/
+published: '2026-09-03'
+created: '2026-09-04'
 tags:
+  - fundraising
+  - organizacje-społeczne
+  - strategia-organizacji
 ---
 
 

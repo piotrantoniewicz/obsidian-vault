@@ -5,6 +5,8 @@ url: "https://weareastral.co.uk/thevault/do-you-have-a-forced-opt-in-list-what-i
 published: 2026-09-02
 created: 2026-09-03
 tags:
+  - "digital-campaigning"
+  - "fundraising"
 ---
 
 

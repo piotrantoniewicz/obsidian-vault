@@ -5,7 +5,7 @@ tags:
   - organizacje-społeczne
   - digital-campaigning
 created: 2026-06-12
-updated: 2026-09-06
+updated: 2026-09-07
 relevance: wysoka
 sources:
   - "[[2026-04-28 Neon One s 2026 Recurring Donor Report Key Findings]]"
@@ -156,6 +156,7 @@ Warstwa organizacyjna, poprzedzająca mechanizmy taktyczne 1–23: zanim zadzia�
 - [[2026-06-13 Pledge program|Pledge program]] (program zobowiązań) — kuzyn dawania cyklicznego: przenosi ciężar decyzji z kwoty na czas trwania relacji
 - [[2026-06-13 Peer-to-peer fundraising|Peer-to-peer fundraising]] — kanał rekrutacji darczyńców cyklicznych przez zaufanie przeniesione od znajomych
 - [[2026-06-13 Transparentność operacyjna|Transparentność operacyjna]] — warunek utrzymania darczyńcy, który sam wybrał organizację i sam ją rozliczy
+- [[2026-09-07 Rapid response|Rapid response]] — program cykliczny jako antidotum na zmęczenie apelami (spokojna, proaktywna forma dawania zamiast reaktywnej decyzji emocjonalnej) i jako treść „zakotwiczona", którą przy nagłym zdarzeniu się reframinguje, a nie kasuje
 
 ---
 

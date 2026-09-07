@@ -5,7 +5,7 @@ tags:
   - organizacje-społeczne
   - digital-campaigning
 created: 2026-06-13
-updated: 2026-09-06
+updated: 2026-09-07
 relevance: wysoka
 sources:
   - "[[2026-04-24 Beyond the Ask Donor Stewardship]]"
@@ -207,6 +207,7 @@ Operacyjne domknięcie mech. 26 (24%/66%/48%, grudzień = 37% roku): skoro grudz
 - [[2026-06-14 Email deliverability|Email deliverability]] — "momenty pomiędzy" (kontakt bez prośby) to nie tylko taktyka relacyjna: każda angażująca, niesprzedażowa wysyłka karmi reputację domeny i decyduje o tym, czy mail z apelem w ogóle trafi do skrzynki
 - [[2026-06-14 Framing|Framing]] (ramy narracyjne) — każdy kontakt stewardshipowy musi być rozdziałem tej samej historii co apel: spójność narracyjna (zamiast middlingu) decyduje, czy „moment pomiędzy" buduje relację, czy tylko dokłada szumu
 - [[2026-06-15 Newsletter jako kanał|Newsletter jako kanał]] — newsletter to silnik „momentów pomiędzy": regularny, non-ask kontakt budujący relację między apelami; welcome series otwiera okno po pierwszym darze
+- [[2026-09-07 Rapid response|Rapid response]] — darczyńcy pozyskani w momencie zdarzenia przyszli do chwili, nie do misji: wymagają osobnej ścieżki opieki, a pierwszy kontakt po zdarzeniu jest podziękowaniem, nie prośbą
 
 ---
 

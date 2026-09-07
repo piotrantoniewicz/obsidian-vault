@@ -5,6 +5,9 @@ url: "https://www.youtube.com/watch?v=HDmBwU5uvEE"
 published: 2026-09-02
 created: 2026-09-05
 tags:
+  - "prompt-engineering"
+  - "narzędzia-AI"
+  - "context-engineering"
 ---
 
 

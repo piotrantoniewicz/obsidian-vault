@@ -5,6 +5,9 @@ url: "https://www.donordock.com/articles/development-team-meeting-agenda?utm_cam
 published: 2026-09-03
 created: 2026-09-07
 tags:
+  - "fundraising"
+  - "strategia-organizacji"
+  - "organizacje-społeczne"
 ---
 
 

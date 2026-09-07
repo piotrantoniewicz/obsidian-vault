@@ -5,6 +5,9 @@ url: "https://www.donordock.com/articles/strategic-plan-donor-stewardship-tool?u
 published: 2026-09-02
 created: 2026-09-07
 tags:
+  - "fundraising"
+  - "organizacje-społeczne"
+  - "strategia-organizacji"
 ---
 
 

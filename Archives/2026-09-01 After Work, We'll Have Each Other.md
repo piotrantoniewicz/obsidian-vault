@@ -5,6 +5,8 @@ url: "https://asteriskmag.com/issues/15/after-work-we-ll-have-each-other"
 published: 2026-09-01
 created: 2026-09-07
 tags:
+  - "trendy-AI"
+  - "organizacje-społeczne"
 ---
 
 

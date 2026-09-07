@@ -5,6 +5,9 @@ url: "https://www.donordock.com/articles/peer-to-peer-donor-retention-second-ask
 published: 2026-09-03
 created: 2026-09-07
 tags:
+  - "fundraising"
+  - "organizacje-społeczne"
+  - "strategia-organizacji"
 ---
 
 

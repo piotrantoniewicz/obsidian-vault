@@ -5,6 +5,8 @@ url: "https://convergencemag.com/articles/yotam-marom-strategy-for-power/"
 published: 2026-07-07
 created: 2026-09-07
 tags:
+  - "organizacje-społeczne"
+  - "strategia-organizacji"
 ---
 
 

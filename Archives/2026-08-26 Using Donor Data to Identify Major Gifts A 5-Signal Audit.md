@@ -1,10 +1,14 @@
 ---
-type: "Web"
-authors: "[[Rob Burke]]"
-url: "https://www.donordock.com/articles/using-donor-data-to-identify-major-gifts?utm_medium=email&utm_source=hs_email&utm_campaign=19809586-Email%20Series%20-%20Weekly%20Roundup"
-published: 2026-08-26
-created: 2026-09-07
+type: Web
+authors: '[[Rob Burke]]'
+url: >-
+  https://www.donordock.com/articles/using-donor-data-to-identify-major-gifts?utm_medium=email&utm_source=hs_email&utm_campaign=19809586-Email%20Series%20-%20Weekly%20Roundup
+published: 2026-08-26T00:00:00.000Z
+created: 2026-09-07T00:00:00.000Z
 tags:
+  - fundraising
+  - organizacje-społeczne
+  - strategia-organizacji
 ---
 
 

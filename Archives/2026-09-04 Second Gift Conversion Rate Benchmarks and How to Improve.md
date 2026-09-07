@@ -1,10 +1,13 @@
 ---
-type: "Web"
-authors: "[[Rob Burke]]"
-url: "https://www.donordock.com/articles/second-gift-conversion-rate?utm_medium=email&utm_source=hs_email&utm_campaign=19809586-Email%20Series%20-%20Weekly%20Roundup"
-published: 2026-09-04
-created: 2026-09-07
+type: Web
+authors: '[[Rob Burke]]'
+url: >-
+  https://www.donordock.com/articles/second-gift-conversion-rate?utm_medium=email&utm_source=hs_email&utm_campaign=19809586-Email%20Series%20-%20Weekly%20Roundup
+published: 2026-09-04T00:00:00.000Z
+created: 2026-09-07T00:00:00.000Z
 tags:
+  - fundraising
+  - organizacje-społeczne
 ---
 
 

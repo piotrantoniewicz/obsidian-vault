@@ -1,10 +1,13 @@
 ---
-type: "Web"
-authors: "[[Steven Rouk]]"
-url: "https://stevenrouk.substack.com/p/why-its-worth-upskilling-animal-advocates"
-published: 2026-09-07
-created: 2026-09-07
+type: Web
+authors: '[[Steven Rouk]]'
+url: 'https://stevenrouk.substack.com/p/why-its-worth-upskilling-animal-advocates'
+published: 2026-09-07T00:00:00.000Z
+created: 2026-09-07T00:00:00.000Z
 tags:
+  - strategia-AI
+  - szkolenia-AI
+  - organizacje-społeczne
 ---
 
 

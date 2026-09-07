@@ -1,10 +1,13 @@
 ---
-type: "Web"
-authors: "[[Bryan Neider]]"
-url: "https://www.linkedin.com/pulse/leading-velocity-rethinking-drive-social-impact-bryan-neider-rn1kc/"
-published: 2026-09-07
-created: 2026-09-07
+type: Web
+authors: '[[Bryan Neider]]'
+url: >-
+  https://www.linkedin.com/pulse/leading-velocity-rethinking-drive-social-impact-bryan-neider-rn1kc/
+published: 2026-09-07T00:00:00.000Z
+created: 2026-09-07T00:00:00.000Z
 tags:
+  - strategia-organizacji
+  - organizacje-społeczne
 ---
 
 

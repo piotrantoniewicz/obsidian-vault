@@ -5,7 +5,7 @@ tags:
   - organizacje-społeczne
   - digital-campaigning
 created: 2026-06-03
-updated: 2026-08-29
+updated: 2026-09-06
 relevance: wysoka
 sources:
   - "[[2026-04-08 Społeczność Jako Twój Najlepszy Fundraiser Jak Wdrożyć Model Peer-to-Peer]]"
@@ -29,6 +29,7 @@ sources:
   - "[[2026-08-20 An email list that starts with advocacy first]]"
   - "[[2026-08-17 The loneliness and joylessness of today's politics]]"
   - "[[2026-08-28 Your Best Recurring Offer Isn't an Object]]"
+  - "[[2026-09-03 Piotr Twoi przyszli darczyńcy jeszcze Cię nie znają]]"
 ---
 
 # Tożsamość darczyńcy (Donor Identity)
@@ -94,6 +95,9 @@ Mech. 1 tej strony stoi na tezie Hahrie Han („przynależność przed przekonan
 
 **11. Działanie przed darowizną — akcja obywatelska jako pierwszy akt tożsamości**
 Trzecia droga do „przynależności przed przekonaniem" (mech. 1 i 10), obok pledge (mech. 2) i proxy trust (mech. 3): zanim ktoś da pieniądze, wykonuje **czyn o zerowym koszcie finansowym, ale realnym koszcie tożsamościowym** — podpisuje petycję, wypełnia formularz do polityka, dzwoni. Case Caring Across Generations pokazuje program mailowy zbudowany w tej kolejności: akcja z terminem, potem apel osadzony w kontekście już podjętego działania. Mechanizm psychologiczny jest ten sam, co przy pledge — **człowiek dopasowuje się do własnego wcześniejszego zachowania**, więc apel trafia do kogoś, kto już zdążył zobaczyć siebie jako osobę działającą w tej sprawie, a nie do obcego. Wzmocnienie mech. 7 (komunikacja jako lustro): najskuteczniejszy jest przy tym głos **osoby bezpośrednio dotkniętej problemem**, nie organizacji — darczyńca widzi w liście nie instytucję z prośbą, tylko człowieka, po którego stronie właśnie stanął.
+
+**12. Uniwersalny schemat: zatrzymać się → zrozumieć → poczuć że można pomóc → zaufać → wpłacić ([[Martyna Mazela]], Instytut Fundraisingu)**
+Sformułowanie sekwencji psychologicznej, przez którą przechodzi każdy nowy darczyńca niezależnie od kanału i narzędzia — kolejność się nie zmienia, zmienia się tylko medium. Praktyczna konsekwencja diagnostyczna: rekrutacja nowych darczyńców i stewardship obecnej bazy to **dwie różne kompetencje** — dobry opiekun relacji niekoniecznie umie systematycznie pozyskiwać ludzi spoza kręgu organizacji, więc organizacja z fundraiserem i budżetem wciąż może przeoczyć, że baza kurczy się „po cichu" bez systematycznego zasilania (minimum dwie kampanie akwizycyjne rocznie). Metryka operacyjna, komplementarna wobec „LTV, nie licznik pozyskań" z [[2026-06-12 Recurring giving|Recurring giving]] (mech. 10): po każdej kampanii liczyć nie tylko kwotę zebraną, lecz **liczbę nowych, pierwszorazowych darczyńców** — to ona pokazuje, czy baza faktycznie rośnie, a nie tylko czy obecni dali więcej. *(Źródło: [[2026-09-03 Piotr Twoi przyszli darczyńcy jeszcze Cię nie znają]])*
 
 ## Powiązane pojęcia
 

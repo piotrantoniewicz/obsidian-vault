@@ -5,7 +5,7 @@ tags:
   - narzędzia-AI
   - szkolenia-AI
 created: 2026-06-15
-updated: 2026-08-30
+updated: 2026-09-06
 relevance: wysoka
 sources:
   - "[[2025-06-22 9 ChatGPT & Claude Writing Tips (to get CRAZY GOOD outputs)]]"
@@ -29,7 +29,8 @@ sources:
   - "[[2026-08-27 The best AI tool for beautiful branding]]"
   - "[[2026-07-07 Tutorial - Which Claude Model Should You Actually Use]]"
   - "[[2026-05-26 Czy AI kradnie kontakt człowiek człowiek-]]"
-  - "[[2026-08-28 Pułapka kontynuacji – czyli dlaczego AI raczej nie zbuduje dobrego scenariusza strategicznego]]"
+  - "[[2026-08-28 Pułapka kontynuacji – czyli dlaczego AI raczej nie zbuduje dobrego scenariusza strategicznego]]"  - "[[2026-09-01 Marcin Sawicki - 5 zasad krytycznego korzystania z chatbotów]]"
+
 ---
 
 # Prompt engineering (projektowanie promptów)
@@ -129,6 +130,9 @@ Uzupełnienie, którego ta strona nie miała, a które stoi w widocznym napięci
 
 **20. „Prompt nie jest produktem — produktem jest proces poprawiania pracy" — sześć kroków z osobnym krokiem na research ([[Mirek Burnejko]] / [[AI Biznes Lab]])**
 Rozwinięcie mech. 5 (meta-prompting) o element, którego tam nie ma: **research domenowy jako osobny krok cyklu**, a nie materiał dostarczany na wejściu. Sześć kroków: **(1)** znajdź działający prompt w sieci i wybierz taki, który pasuje do zadania, firmy i stylu pracy — punkt wyjścia jest cudzy, nie własny; **(2)** poproś model o dopasowanie **do konkretnego celu**, nie o ogólne „ulepsz" (pomocny jest długi wywód głosowy zamiast pisanego briefu — zob. mech. 10); **(3)** przetestuj w kilku scenariuszach, a przy porażce wróć do (2) z feedbackiem; **(4)** **zrób research** — każ modelowi wygenerować pytania do Deep Research, sprawdź dokumentację dostawcy i wiedzę domenową; **(5)** wróć z wynikami i połącz przetestowany prompt z researchem; **(6)** przetestuj drugi raz i przyjmij nową wersję tylko wtedy, gdy bije poprzednią. Teza ramowa jest ostrzejsza niż sama procedura i warta cytowania na szkoleniach: **nie istnieje „magiczny prompt" do zdobycia — istnieje cykl, którego prompt jest produktem ubocznym**. To najprostsza dostępna odpowiedź na oczekiwanie klientów, że warsztat skończy się listą gotowych promptów do wklejenia. *(Źródło: [[2026-05-26 Czy AI kradnie kontakt człowiek człowiek-]])*
+
+**22. Pięć zasad krytycznego korzystania z chatbota — od materiału edukacyjnego dla młodzieży do checklisty trenerskiej ([[Marcin Sawicki]])**
+Zestaw przeniesiony z materiału „Critical Thinking Activities for the Age of AI" (edukacja krytycznego myślenia dla młodzieży) na pracę dorosłych profesjonalistów — teza wyjściowa: problem bezrefleksyjnego korzystania z chatbotów, który jako pierwsze odczuły szkoły, dotknie kolejno inne zawody. Pięć zasad: **(1)** nie automatyzuj tego, co chcesz umieć — świadoma decyzja, co zostaje kompetencją własną, a co można oddać AI; **(2)** zaczynaj od jasnego określenia celu, tonu, języka i perspektywy — czego nie określisz, model założy sam (domyka od strony szkoleniowej [[2026-06-15 Prompt engineering|„intent engineering"]], mech. 8); **(3)** pisz swoimi słowami zamiast przeklejać podpowiedź — więcej zapamiętujesz, treść staje się bardziej twoja; **(4)** zanim zaakceptujesz kluczową daną, zweryfikuj jej źródło (kto, gdzie, czy faktycznie tyle); **(5)** gdy odpowiedź wydaje się oczywista, bądź podwójnie czujny — zapytaj model, co przemawia za odwrotną tezą, bo brzmi pewnie nawet się myląc (rama bliska mech. 12, ale odwrócona: tu użytkownik żąda kontrargumentu dla siebie samego, nie dla decyzji o kliencie). Zastosowanie warsztatowe: gotowe ćwiczenie wprowadzające przed częścią techniczną szkolenia AI dla organizacji społecznych — buduje czujność, zanim padnie pierwszy prompt. *(Źródło: [[2026-09-01 Marcin Sawicki - 5 zasad krytycznego korzystania z chatbotów]])*
 
 ## Powiązane pojęcia
 

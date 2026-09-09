@@ -5,6 +5,9 @@ url: "https://mod-lab.com/insights/nonprofit-branding-corporate-partners"
 published: 2026-04-23
 created: 2026-09-08
 tags:
+  - "organizacje-społeczne"
+  - "fundraising"
+  - "framing"
 ---
 
 

@@ -5,6 +5,9 @@ url: "https://www.civicshoutnewsletter.com/p/the-glow-up-your-list-needs-before-
 published: 2025-08-05
 created: 2026-09-09
 tags:
+  - "fundraising"
+  - "digital-campaigning"
+  - "framing"
 ---
 
 

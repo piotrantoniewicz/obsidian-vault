@@ -5,6 +5,7 @@ url: "https://www.nptechforgood.com/2026/09/04/3-often-overlooked-groups-to-incl
 published: 2026-09-04
 created: 2026-09-08
 tags:
+  - "fundraising"
 ---
 
 

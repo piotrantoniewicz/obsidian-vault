@@ -5,7 +5,9 @@ url: "https://avidai.com/blog/treasure-coast-food-bank-increases-donor-conversio
 published: 2026-09-02
 created: 2026-09-09
 tags:
----
+  - "fundraising"
+  - "narzędzia-AI"
+  - "automatyzacja"---
 
 
 ![A 103% Increase in Donations Using Avid's Propensity Models - Featured Image](https://cdn-ilemclf.nitrocdn.com/DFURkezUyBWxbmrQUwhWUhvbvjHFAbBO/assets/images/optimized/rev-7a89d45/avidai.com/wp-content/uploads/2026/09/A-103-Increasein-Donations-Using-Avids-Propensity-Models-.png)

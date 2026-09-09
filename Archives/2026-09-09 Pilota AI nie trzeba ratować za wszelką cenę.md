@@ -5,6 +5,9 @@ url: "https://aileaders.pl/pilota-ai-nie-trzeba-ratowac-za-wszelka-cene-q-a/?ref
 published: 2026-09-09
 created: 2026-09-09
 tags:
+  - "strategia-AI"
+  - "organizacje-społeczne"
+  - "szkolenia-AI"
 ---
 
 

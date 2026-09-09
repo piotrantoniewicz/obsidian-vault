@@ -5,6 +5,9 @@ url: "https://www.linkedin.com/pulse/your-name-what-checking-ais-work-actually-m
 published: 2026-09-09
 created: 2026-09-09
 tags:
+  - "narzędzia-AI"
+  - "strategia-AI"
+  - "organizacje-społeczne"
 ---
 
 

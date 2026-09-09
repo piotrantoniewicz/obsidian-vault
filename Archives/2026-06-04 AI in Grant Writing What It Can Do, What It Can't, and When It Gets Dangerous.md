@@ -5,6 +5,9 @@ url: "https://www.linkedin.com/pulse/ai-grant-writing-what-can-do-cant-when-gets
 published: 2026-06-04
 created: 2026-09-09
 tags:
+  - "fundraising"
+  - "narzędzia-AI"
+  - "organizacje-społeczne"
 ---
 
 

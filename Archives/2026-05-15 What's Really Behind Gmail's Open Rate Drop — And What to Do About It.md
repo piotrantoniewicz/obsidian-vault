@@ -5,6 +5,8 @@ url: "https://www.validity.com/blog/whats-really-behind-gmails-open-rate-drop-an
 published: 2026-05-15
 created: 2026-09-09
 tags:
+  - "digital-campaigning"
+  - "organizacje-społeczne"
 ---
 
 

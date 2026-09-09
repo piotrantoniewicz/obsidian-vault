@@ -5,6 +5,8 @@ url: "https://www.nextafter.com/experiments/does-highlighting-a-professors-credi
 published: 2026-07-22
 created: 2026-09-08
 tags:
+  - "fundraising"
+  - "framing"
 ---
 
 

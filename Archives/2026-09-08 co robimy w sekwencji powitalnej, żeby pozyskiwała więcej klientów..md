@@ -5,6 +5,9 @@ url: "https://www.youtube.com/watch?v=KkIK7scff5E"
 published: 2026-09-08
 created: 2026-09-10
 tags:
+  - "automatyzacja"
+  - "digital-campaigning"
+  - "content-marketing"
 ---
 
 

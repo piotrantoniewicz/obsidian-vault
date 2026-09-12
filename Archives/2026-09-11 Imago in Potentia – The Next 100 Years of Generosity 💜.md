@@ -1,10 +1,13 @@
 ---
-type: "Web"
-authors: "[[Dave Raley]]"
-url: "https://www.sustainablegiving.org/articles/imago-in-potentia-the-next-100-years-of-generosity?utm_campaign=43216510-The%20Center&utm_medium=email&_hsenc=p2ANqtz--_ynLRkaL1Ejcc17D5x2IIVZY64pr9VHl2WAOvyew-02iz-xIkKyHO0EdS_JQmigXorAtswJoQjrK-22pAFbtN16m5zEfmOjjBxHISmeTg76zYLPQ&_hsmi=438510024&utm_content=438510024&utm_source=hs_email"
-published: 2026-09-11
-created: 2026-09-11
+type: Web
+authors: '[[Dave Raley]]'
+url: >-
+  https://www.sustainablegiving.org/articles/imago-in-potentia-the-next-100-years-of-generosity?utm_campaign=43216510-The%20Center&utm_medium=email&_hsenc=p2ANqtz--_ynLRkaL1Ejcc17D5x2IIVZY64pr9VHl2WAOvyew-02iz-xIkKyHO0EdS_JQmigXorAtswJoQjrK-22pAFbtN16m5zEfmOjjBxHISmeTg76zYLPQ&_hsmi=438510024&utm_content=438510024&utm_source=hs_email
+published: '2026-09-11'
+created: '2026-09-11'
 tags:
+  - fundraising
+  - framing
 ---
 
 

@@ -5,6 +5,9 @@ url: "https://www.linkedin.com/pulse/ngo-przesta%C5%84cie-na-chwil%C4%99-prosi%C
 published: 2026-09-11
 created: 2026-09-11
 tags:
+  - "fundraising"
+  - "framing"
+  - "organizacje-społeczne"
 ---
 
 

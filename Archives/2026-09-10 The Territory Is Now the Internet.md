@@ -5,6 +5,9 @@ url: "https://www.linkedin.com/pulse/territory-now-internet-pablo-defendini-lj90
 published: 2026-09-10
 created: 2026-09-11
 tags:
+  - "digital-campaigning"
+  - "strategia-AI"
+  - "organizacje-społeczne"
 ---
 
 

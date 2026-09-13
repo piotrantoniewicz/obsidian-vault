@@ -5,7 +5,7 @@ tags:
   - organizacje-społeczne
   - strategia-organizacji
 created: 2026-07-06
-updated: 2026-08-29
+updated: 2026-09-13
 relevance: wysoka
 sources:
   - "[[2025-09-02 AI Act & RODO 2025 Przewodnik po regulacjach UE karach i compliance]]"
@@ -24,6 +24,7 @@ sources:
   - "[[2026-08-18 Nie korzystasz z AI, bo boisz się RODO]]"
   - "[[2026-08-19 Dane, których nie masz, a właściwie nie wiesz, że masz. KSeF, e-Doręczenia i koniec wymówek]]"
   - "[[2026-08-27 They confided in ChatGPT. Their secrets ended up in court.]]"
+  - "[[2026-09-08 AI has deep memory now - how to use it]]"
 ---
 
 # RODO i dane wrażliwe (GDPR & Sensitive Data)
@@ -82,6 +83,9 @@ Pierwsze w tej Galaxy dane **od samego regulatora**, i to z próbą obejmującą
 **15. Rozmowa z modelem nie jest objęta żadną tajemnicą zawodową — i bywa dowodem w sądzie ([[Washington Post]] / Waldvogel, De Vynck)**
 Ryzyko, którego mech. 1–14 nie obejmowały, bo dotyczyły **danych powierzonych narzędziu przez organizację**, a nie **rozmowy pracownika z narzędziem**. Ustalenia śledztwa: logi z ChatGPT pojawiły się jako dowód w **co najmniej 12 sprawach sądowych** (cywilnych i karnych) w ciągu dwóch lat, m.in. w sprawie zakończonej **ośmioletnią probacją za stalking** częściowo na podstawie treści rozmów; w drugiej połowie 2025 r. OpenAI ujawniło na żądanie organów dane z **ponad 80 kont — ponad czterokrotnie więcej niż rok wcześniej**. Dwa wnioski, oba operacyjne. **(a) Brak przywileju.** Rozmowa z modelem **nie ma ochrony analogicznej do tajemnicy lekarskiej czy adwokackiej** — wchodzi do akt przez discovery, przeszukanie telefonu albo nakaz; postulat takiego zabezpieczenia (Sam Altman) pozostaje postulatem. **(b) Dostawca jest aktywnym nadzorcą, nie neutralnym narzędziem** — sam monitoruje rozmowy pod kątem zagrożeń i potrafi z własnej inicjatywy zgłosić użytkownika organom ścigania. Konsekwencja dla polityki AI w organizacji: reguła „czego nie wolno wysłać" (mech. 12–13) musi objąć także **treści, które pracownik uważa za prywatne** — konsultacje o współpracowniku, sytuacji podopiecznego czy własnym konflikcie w zespole — bo nie chroni ich ani ustawienie konta, ani intencja. Najprostszy test do materiałów szkoleniowych: **wpisuj do czatu tylko to, co zniósłbyś w załączniku do pozwu**. Źródło: [[2026-08-27 They confided in ChatGPT. Their secrets ended up in court.]].
 
+**16. Pamięć między rozmowami — nowa powierzchnia przetwarzania, włączana świadomie albo działająca w tle ([[2026-09-08 AI has deep memory now - how to use it|Natalie MacNeil]])**
+Domknięcie mech. 15 (rozmowa z modelem bez tajemnicy zawodowej) o warstwę, która tę rozmowę **utrwala**. Dwa różne modele domyślne u dwóch dostawców: w [[Claude]] pamięć z czatów jest **ustawieniem do włączenia** (Settings → Memory → „Generate memory from chats”), trzyma wiedzę w **edytowalnych plikach tematycznych** i **domyślnie wyklucza tematy wrażliwe** (zdrowie, przekonania, polityka) — czyli dokładnie szczególne kategorie z art. 9 RODO; w [[ChatGPT]] kontekst jest aktualizowany **automatycznie w tle** („dreaming”). Konsekwencja praktyczna dla organizacji: pamięć tworzy **zbiór danych, którego nikt nie zakładał świadomie** — składa się z tego, co pracownicy wkleili w czacie, więc przy danych beneficjentów dziedziczy ich kategorię. Dwóch rzeczy źródło nie rozstrzyga i nie rozstrzyga ich ta strona: czy edytowalne pliki pamięci spełniają prawo do usunięcia z art. 17, i jak pamięć jest traktowana w DPA głównych dostawców — do zweryfikowania w umowie, nie w interfejsie.
+
 ## Powiązane pojęcia
 
 - [[2026-06-15 AI governance|AI governance]] — governance to procesy, role i polityka; ta strona to jego prawny substrat: RODO/AI Act wyznaczają twarde minimum, wokół którego governance buduje praktykę („wyciek danych beneficjentów = incydent RODO").
@@ -102,6 +106,8 @@ Ryzyko, którego mech. 1–14 nie obejmowały, bo dotyczyły **danych powierzony
 - **Standard rekomendacji narzędzi**: płatne wersje jako minimum (nie opcja), API zamiast aplikacji webowej, DPA przy każdym zakupie, modele lokalne dla procesów z danymi beneficjentów.
 - **Argument odblokowujący wdrożenia**: „RODO nie blokuje AI — blokuje źle postawione AI" plus paradoks bezpieczeństwa (Shadow AI vs system z logami) — odpowiedź na najczęstszy bloker decyzyjny zarządów.
 
+- **Przegląd ustawień pamięci przy każdym wdrożeniu (mech. 16)**: **działa w skali 2–5 osób** — pięć minut na konto, żeby sprawdzić, czy pamięć jest włączona i co zawiera, plus jedno zdanie w polityce AI: dane beneficjentów nie trafiają do czatu, więc nie trafią też do pamięci. Bez etatu prawnika nie da się rozstrzygnąć, jak pamięć mieści się w DPA dostawcy — stąd ta wątpliwość w „Otwartych pytaniach”, a nie w rekomendacji.
+
 ---
 
 ## Otwarte pytania
@@ -111,3 +117,4 @@ Ryzyko, którego mech. 1–14 nie obejmowały, bo dotyczyły **danych powierzony
 - Jak pogodzić anonimizację z użytecznością — w którym momencie anonimizacja danych beneficjentów odbiera analizie AI wartość merytoryczną i co wtedy: model lokalny czy rezygnacja z automatyzacji?
 - Czy przesunięcie terminów compliance dla systemów wysokiego ryzyka (EU AI Act Digital Omnibus, XII 2027) to ulga dająca czas na przygotowanie, czy uśpienie czujności sektora?
 - Jak audytować zgodność łańcucha narzędzi no-code (Make.com, Zapier + LLM), gdzie dane osobowe przepływają przez kilku procesorów naraz — kto jest czyim podmiotem przetwarzającym?
+- Czy edytowalne pliki pamięci modelu (Claude) i syntezy w tle („dreaming” w ChatGPT) mieszczą się w DPA głównych dostawców — i czy usunięcie wpisu w interfejsie jest realizacją prawa do usunięcia z art. 17, czy tylko ukryciem go przed użytkownikiem?

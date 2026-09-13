@@ -5,7 +5,7 @@ tags:
   - fundraising
   - automatyzacja
 created: 2026-06-14
-updated: 2026-09-06
+updated: 2026-09-13
 relevance: wysoka
 sources:
   - "[[2024-07-25 Email deliverability guide]]"
@@ -48,6 +48,7 @@ sources:
   - "[[2026-07-15 See, Summarize, or Skip Insights from the State of Email Report]]"
   - "[[2026-08-20 Is GivingTuesday Worth It- Here's What the Data Says]]"
   - "[[2026-09-01 Send It Right - Escaping the Content Rut...and the Spam Folder]]"
+  - "[[2026-05-15 What's Really Behind Gmail's Open Rate Drop — And What to Do About It]]"
 
 ---
 
@@ -181,6 +182,9 @@ Uzupełnienie mech. 3 i 18 o procedurę: skoro nie ma jednego globalnego wskaźn
 **33. Wyjście z twórczej blokady jako rutyna prewencyjna — dopełnienie mech. 6 od strony proaktywnej ([[Lauren Meyer]])**
 Ta sama autorka co mech. 6 (proces naprawczy po spadku placementu), tym razem od strony zapobiegawczej: **czterostopniowy plan audytu**, uruchamiany zanim cokolwiek się popsuje, nie po fakcie. **(1)** rewizja celów mailowych pod kątem zgodności z celami organizacji; **(2)** naprawa najprostszych, najczęściej odkładanych błędów — uwierzytelnianie, domeny wysyłkowe, proces zapisu (pokrywa się z mech. 2, ale jako punkt cyklicznej kontroli, nie jednorazowy setup); **(3)** wprowadzanie małych, mierzalnych zmian (subject line, segmentacja, CTA) zamiast rewolucji w strategii — najlepszy stosunek efektu do ryzyka; **(4)** **planowanie awaryjne** na wypadek awarii dostawcy usług mailowych lub filtrów spamowych, zanim awaria nastąpi. Osobny, praktyczny wątek na twórczą blokadę: najbardziej dostępnym źródłem inspiracji na nowe treści są **własne statystyki mailowe** (open rate, klikalność, unsubskrypcje, skargi) — analiza tego, co już wysłano, zamiast czekania na natchnienie. *(Źródło: [[2026-09-01 Send It Right - Escaping the Content Rut...and the Spam Folder]])*
 
+**34. Sześć nałożonych zmian Gmaila za spadkiem open rate — i dlaczego to dobra wiadomość ([[2026-05-15 What's Really Behind Gmail's Open Rate Drop — And What to Do About It|Validity / Jessica Delahunt]])**
+Najpełniejsze dostępne wyjaśnienie zjawiska, które mech. 3, 18 i 22 opisują od strony metryk: kwartalne spadki open rate rzędu **30%+** u części nadawców nie mają jednej przyczyny, tylko sześć nałożonych: **(1)** ograniczenie prefetchowania pikseli śledzących (aktywność ładowania obrazów w Gmailu spadła o **ok. 1/3** pod koniec listopada 2025), **(2)** zaostrzone egzekwowanie wymogów dla nadawców masowych od listopada 2025 (mech. 2), **(3)** sortowanie zakładki Promocje **według zaangażowania, nie daty** (domknięcie mech. 13: Promocje to model uczenia maszynowego), **(4)** auto-adnotacje wyciągające treść oferty bez otwarcia maila, **(5)** Menedżer subskrypcji ułatwiający masowe wypisy, **(6)** podsumowania AI i wyszukiwanie przez [[Gemini]], które dają odpowiedź bez otwarcia wiadomości (mech. 15). Interpretacja źródła: spadek dotyczy głównie **otwarć fałszywych i bezrefleksyjnych**, bo **kliknięcia i przychód nie spadły analogicznie** — stąd praktyczny zakaz: **nie wygaszaj adresów Gmail na podstawie samego open rate** (zgodne z mech. 22 [[2026-06-29 Higiena listy|Higieny listy]]: segmentacja po otwarciach segmentuje boty). Dwa detale techniczne warte osobnej pamięci: Gmail **przycina wiadomość HTML powyżej 1024 bajtów**, więc piksel śledzący na końcu pliku może się nie odpalić (kolejna, czysto techniczna przyczyna „spadku”), a kluczowa treść powinna stać **na początku maila** — ta sama reguła front-loadingu, co w [[2026-06-23 Widoczność w AI search|Widoczności w AI search]]. Zakres liczb: źródło podaje spadek inbox placement w Gmailu o **ok. 3 punkty procentowe** w „ostatnich miesiącach” (maj 2026) — to inne okno pomiaru niż **91% → 84% (styczeń–lipiec 2026)** z mech. 31 tego samego dostawcy, więc liczb nie należy zestawiać jako sprzecznych.
+
 ## Sprzeczności
 
 - **Kierunek inbox placementu w 2026: rośnie czy spada?** [mech. 28 vs 31] — A: **globalny placement rośnie** — 87,2% w 2025 (+3,7 p.p. r/r) i **ok. 91% w I kw. 2026**, przy Gmailu 89,8% za 2025 ([[2026-08-28 State of Email Trends - Deliverability Benchmark 2026 webinar|Deliverability Benchmark 2026]], [[Validity]], pomiar globalny, wszyscy dostawcy, bez podanego n). B: **placement w Gmailu spada w ciągu 2026** — z **91% w styczniu do 84% w lipcu**, a w Google Apps z 98,39% do 77,45% ([[2026-07-15 See, Summarize, or Skip Insights from the State of Email Report|State of Email Report]], [[Validity]], pomiar per dostawca, bez podanego n). Wątpliwość nazwana wprost: to **ta sama pracownia**, a odczyty mogą mierzyć co innego (średnia globalna po wszystkich dostawcach vs jeden dostawca; kwartał vs miesięczna trajektoria; możliwa zmiana panelu). Jeśli jednak obie liczby opisują to samo, teza „placement rośnie dzięki upowszechnieniu uwierzytelniania" traci ważność w połowie 2026 r. — a to ona uzasadnia optymistyczną korektę baseline'u z mech. 22. *Status: otwarte.*
@@ -204,6 +208,8 @@ Ta sama autorka co mech. 6 (proces naprawczy po spadku placementu), tym razem od
 - **Odpowiedź na pytanie klienta „czy warto w BIMI?"**: najpierw sprawdź, czy DMARC jest na poziomie egzekwowania i czy lista jest zaangażowana — jeśli nie, koszt certyfikatu (£770–1 400/rok) jest przedwczesny. Jeśli tak, sprzedawaj to jako ochronę przed phishingiem, nie jako wzrost open rate.
 - **Argument „wysyłaj przez cały rok" wzmocniony**: organizacji, która maila tylko w grudniu, nie grozi tylko zimna reputacja — Gmail w międzyczasie sam zachęca jej subskrybentów do wypisania się. Restart po przerwie zaplanuj jako warm-up od najbardziej zaangażowanych.
 - **DMARC `p=none`** to bezpieczny pierwszy krok dla organizacji, które nigdy nie uwierzytelniały poczty — zero ryzyka odrzucenia, pełna widoczność problemów.
+
+- **Przestawienie raportu kampanii z otwarć na kliknięcia i konwersje (mech. 34)**: **działa w skali 2–5 osób** — zmiana dwóch kolumn w arkuszu podsumowania wysyłki i jedno zdanie w raporcie dla zarządu; przy okazji sprawdź, czy najważniejsze zdanie i przycisk stoją w pierwszym kilobajcie maila (limit przycinania Gmaila), bo to poprawka na kilka minut w szablonie.
 
 ---
 

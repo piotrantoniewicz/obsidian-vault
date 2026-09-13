@@ -5,6 +5,8 @@ url: "https://thenonprofithive.com/nonprofit-grant-research-tips/?utm_source=bre
 published: 2026-09-04
 created: 2026-09-12
 tags:
+  - "fundraising"
+  - "strategia-organizacji"
 ---
 
 

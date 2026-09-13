@@ -5,7 +5,7 @@ tags:
   - organizacje-społeczne
   - digital-campaigning
 created: 2026-06-03
-updated: 2026-09-06
+updated: 2026-09-13
 relevance: wysoka
 sources:
   - "[[2026-04-08 Społeczność Jako Twój Najlepszy Fundraiser Jak Wdrożyć Model Peer-to-Peer]]"
@@ -30,6 +30,7 @@ sources:
   - "[[2026-08-17 The loneliness and joylessness of today's politics]]"
   - "[[2026-08-28 Your Best Recurring Offer Isn't an Object]]"
   - "[[2026-09-03 Piotr Twoi przyszli darczyńcy jeszcze Cię nie znają]]"
+  - "[[2026-09-08 Do kogo musisz się zwrócić, żeby otrzymać darowizny]]"
 ---
 
 # Tożsamość darczyńcy (Donor Identity)
@@ -98,6 +99,9 @@ Trzecia droga do „przynależności przed przekonaniem" (mech. 1 i 10), obok pl
 
 **12. Uniwersalny schemat: zatrzymać się → zrozumieć → poczuć że można pomóc → zaufać → wpłacić ([[Martyna Mazela]], Instytut Fundraisingu)**
 Sformułowanie sekwencji psychologicznej, przez którą przechodzi każdy nowy darczyńca niezależnie od kanału i narzędzia — kolejność się nie zmienia, zmienia się tylko medium. Praktyczna konsekwencja diagnostyczna: rekrutacja nowych darczyńców i stewardship obecnej bazy to **dwie różne kompetencje** — dobry opiekun relacji niekoniecznie umie systematycznie pozyskiwać ludzi spoza kręgu organizacji, więc organizacja z fundraiserem i budżetem wciąż może przeoczyć, że baza kurczy się „po cichu" bez systematycznego zasilania (minimum dwie kampanie akwizycyjne rocznie). Metryka operacyjna, komplementarna wobec „LTV, nie licznik pozyskań" z [[2026-06-12 Recurring giving|Recurring giving]] (mech. 10): po każdej kampanii liczyć nie tylko kwotę zebraną, lecz **liczbę nowych, pierwszorazowych darczyńców** — to ona pokazuje, czy baza faktycznie rośnie, a nie tylko czy obecni dali więcej. *(Źródło: [[2026-09-03 Piotr Twoi przyszli darczyńcy jeszcze Cię nie znają]])*
+
+**13. Profil Idealnego Darczyńcy — twarz i imię przed napisaniem pierwszego zdania ([[Martyna Mazela]], Instytut Fundraisingu)**
+Krok poprzedzający test „lustra" z mech. 7: zanim sprawdzisz, czy darczyńca zobaczy w komunikacie siebie, musisz wiedzieć, **kto to jest**. Zasada w jednym zdaniu autorki: *„do wszystkich" w praktyce znaczy „do nikogo"* — darowiznę wpłaca zawsze jeden konkretny człowiek poruszony jedną konkretną historią, więc apel uniwersalny rozmywa przekaz i nikt nie czuje się adresatem. Praktyka: donor persona (Profil Idealnego Darczyńcy) z twarzą, imieniem i **powodem wpłaty**, a nie opisem segmentu demograficznego; ten sam zabieg działa w akwizycji, w [[digital campaigning|digital campaigningu]] i przy budowaniu bazy, nie tylko w dużych kampaniach. To polskie, sektorowe sformułowanie tej samej mechaniki, którą od strony treści opisują mech. 7 (lustro) i „konkret bije abstrakcję" w [[2026-06-14 Framing|Framingu]]. Proweniencja: mail sekwencji sprzedażowej płatnego warsztatu, bez danych — teza, nie pomiar.
 
 ## Powiązane pojęcia
 

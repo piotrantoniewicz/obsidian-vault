@@ -5,7 +5,7 @@ tags:
   - content-marketing
   - strategia-organizacji
 created: 2026-07-07
-updated: 2026-09-06
+updated: 2026-09-13
 relevance: wysoka
 sources:
   - "[[2026-03-06 5 lessons from ghostwriting for 300+ clients]]"
@@ -58,6 +58,8 @@ sources:
   - "[[2026-09-02 6 people you should send your best content to]]"
   - "[[2026-09-03 Search traffic made content creators lazy]]"
   - "[[2026-09-05 How Colby Kultgen built his 500k audience]]"
+  - "[[2026-09-08 5 (simple) steps to become a LinkedIn Ghostwriter]]"
+  - "[[2026-09-08 Wendy Clow - granica między szkicem AI a gotowym tekstem]]"
 
 ---
 
@@ -149,6 +151,9 @@ Dwa sygnały rynkowe, które zmieniają warunki brzegowe mech. 16 i 19 („ekstr
 **26. Creator-market fit i motywacja jako warunek trwałości — czego systemy produkcji nie wyceniają**
 Mechanizmy 12–13 opisują, **jak** utrzymać produkcję treści; ten opisuje, **dlaczego większość ludzi jej nie utrzymuje** — i jest to warstwa, o którą pyta każdy klient rozważający budowę własnej marki ([[Elena Verna]], ~230 tys. obserwujących na [[LinkedIn]], blisko 100 tys. subskrybentów na [[Substack]], w tym ponad 1000 płatnych). **(a) Filtr tematu „reguła trzech razy”:** jeśli powiedziałeś coś trzy razy w normalnych rozmowach, to jest temat na post — najprostsze dostępne domknięcie mech. 23 („origin story jako filtr redakcyjny”), bo źródłem jest powtarzalne pytanie odbiorcy, nie pomysł nadawcy. **(b) Dwa typy treści, które działają** (reguła [[Brian Balfour|Briana Balfoura]]): **teza kontrariańska** (mówisz to, co inni myślą, ale boją się powiedzieć) albo **wzorzec** (mózg nagradza rozpoznawanie wzorców). To użyteczne zawężenie ogólnego „dawaj wartość” do dwóch sprawdzalnych formatów. **(c) Creator-market fit** — analogia do product-market fit: celem nie jest zasięg, tylko **unikalna perspektywa trzymana konsekwentnie**, aż znajdą się „swoi” odbiorcy; *„twoim celem nie jest viralowość, jest nim znalezienie swoich ludzi”*. Spina się to wprost z mech. 2 (nisza i one-liner) i z mech. 12 (wąski, konsekwentny zestaw tematów). **(d) Koszt psychiczny jako realna pozycja w rachunku, nie przypis:** presja cyklu publikacji, ataki personalne, błędne interpretacje i utrata kontroli nad tym, jak odbiorcy postrzegają autora — autorka stawia tezę, że **przetrwa tylko motywacja „dzielę się wiedzą”, nie „chcę poklasku”**. Dla ghostwritera to argument diagnostyczny na pierwszą rozmowę z liderem organizacji: pytanie „po co chcesz publikować” jest predyktorem tego, czy współpraca dotrwa do momentu, w którym zaczyna działać. **(e) Detal rynkowy:** liczba obserwujących jest dziś realnie brana pod uwagę przy rekrutacji i ocenie wiarygodności biznesowej — kolejne udokumentowanie [[2026-08-17 Marka osobista|marki osobistej]] jako aktywa niezależnego od bieżącego stanowiska (por. mech. 22c). *(Źródło: [[2026-07-28 So, you want to be a content creator-]])*
 
+**48. Granica „szkic vs tekst gotowy" przeniesiona z kodu na pisanie — i dlaczego w organizacji społecznej stawka jest wyższa ([[Wendy Clow]])**
+Autorka przenosi na grunt pisania rozróżnienie vibe coding / agentic engineering (por. [[2026-07-06 Evale|Evale]] mech. 17): tak jak osoba nietechniczna może dziś „zvibe'ować" proste oprogramowanie, tak nie-pisarz może zbudować tekst z AI — i w obu przypadkach linia przebiega w tym samym miejscu, przy **weryfikacji przed publikacją**. Teza mocna: generatywne AI nigdy nie miało dostarczać gotowej, publikowalnej treści, tylko **przyspieszać powstanie pierwszego szkicu**, a mylenie tych dwóch celów jest źródłem obecnego zalewu treści bez jakości. Proces autorki (sama jest pisarką, wdraża AI w organizacjach społecznych): brain dump → AI układa go w ustrukturyzowany szkic → redakcja, aż tekst brzmi jej własnym głosem; nie-pisarzom zaleca dokładnie ten sam ruch — czytać, wymieniać słowa, przestawiać zdania, aż zabrzmi autentycznie. To niezależne potwierdzenie mech. 41 („głos uczony z poprawek, nie z briefu") od strony **uzasadnienia**, nie techniki: dla organizacji społecznej relacja z darczyńcami i wolontariuszami stoi na rozpoznawalnym, zaufanym głosie, więc surowy output modelu wypuszczony do publikacji podkopuje dokładnie ten zasób, na którym organizacja zarabia zaufanie. Etap „aż zabrzmi jak ja" jest więc warunkiem, nie fanaberią — i tak należy go sprzedawać klientowi.
+
 ## Frameworki-kotwice
 
 - **One-liner positioning + mirroring** — [FORMAT] dla [NISZA] szukających [WYNIK]; walidacja = klienci odbijają twój język.
@@ -223,6 +228,9 @@ Technika warsztatowa uzupełniająca mechanizmy o produkcji (12–13) i dystrybu
 **46. Szósty case kuracji — media business z trzema strumieniami monetyzacji zamiast jednej oferty flagowej ([[Matthew Brown]])**
 Szósty niezależny case audytowy po stronie kuracji (obok mech. 20, 22, 27, 32, 43), tym razem z pełną ekonomią przychodu, jakiej mech. 43 nie podawał. Colby Kultgen: **500k+ na LinkedIn i tyle samo na Instagramie** (wzrost ok. 100 tys./rok), zbudowane na **100% treści wizualnej** (carousel, image, zero postów tekstowych) i doborze **sprawdzonych, uniwersalnych idei** zamiast unikalnej ekspertyzy — ta sama mechanika co mech. 43 (kuracja i opakowanie, nie tworzenie od zera), ale bez interpretacji branżowej jako warstwy dodanej. Nowość wobec mech. 43: **trzy niezależne strumienie przychodu zamiast jednej wąskiej oferty** — sponsoring (**ok. 15 tys. USD/mies.**, ze stawką **wyższą za post na LinkedIn niż za newsletter**, co samo w sobie jest pomiarem, gdzie faktycznie koncentruje się uwaga odbiorców), newsletter i **kurs kohortowy** (**1300+ uczestników przy 3299 USD**, łącznie **1,25–1,65 mln USD**). Model jest bliżej „operatora biznesu medialnego" niż „lidera myśli" — dystrybucja i częstotliwość jako aktywo, ekspertyza jako opcjonalny dodatek. *(Źródło: [[2026-09-05 How Colby Kultgen built his 500k audience]])*
 
+**47. Mapa „przecieków i kranów” oraz pitch publiczny — dwie taktyki domykające mech. 6 i 9 ([[2026-09-08 5 (simple) steps to become a LinkedIn Ghostwriter|Premium Ghostwriting Academy]])**
+Operacyjne rozwinięcie „ciepło przed zimnem” (mech. 6) i „follow-up domyka sprzedaż” (mech. 9) o dwa konkretne ruchy. **(a) Lista „przecieków i kranów”**: własną sieć kontaktów dzieli się na „przecieki” (osoby, które potrzebują pomocy wprost) i „krany” (osoby, które znają kogoś takiego) — pierwszych zleceń szuka się na tej liście, nie na otwartych platformach typu Upwork, co jest tą samą logiką, która w mech. 2 kotwiczy cenę w dół. **(b) Pitch publiczny zamiast prywatnej wiadomości**: analizę konkretnego potencjalnego klienta publikuje się jako post na własnym profilu — ta sama praca, która w prywatnym DM działa raz, pracuje wtedy na całą branżę odbiorcy i jednocześnie dowodzi warsztatu (spina się z mech. 17 „bądź własnym case study”). Metryczka źródła: materiał sprzedażowy kursu — podane liczby (agencja 3 755 721 USD, 300+ klientów; kursantka 500 USD/mies. → 9 000 USD za zlecenie 6-miesięczne) to autoreferencje bez niezależnej weryfikacji i nie nadają się do cytowania jako benchmark rynkowy.
+
 ## Powiązane pojęcia
 
 - [[2026-06-14 Framing|Framing]] — etykieta zawodowa to framing tożsamości: rama „premium ghostwriter vs freelance writer" ustawia percepcję ceny, zanim zacznie się rozmowa o stawce.
@@ -244,6 +252,8 @@ Szósty niezależny case audytowy po stronie kuracji (obok mech. 20, 22, 27, 32,
 - **5 archetypów jako narzędzie diagnostyczne**: pierwsze spotkanie z liderem = rozpoznanie archetypu głosu; skraca kalibrację i daje profesjonalną strukturę startu współpracy ghostwritingowej.
 - **Newsletter ghostwriting jako usługa flagowa**: spina kompetencje (pisanie + AI + fundraising) z argumentem owned vs rented — organizacja dostaje jednocześnie treść i budowę własnego aktywu (listy).
 - **Checklista 6 odbiorców jako ostatni krok każdej publikacji (mech. 44)**: działa w organizacji 2–5 osób bez dodatkowego narzędzia — 10–15 minut po publikacji na przejrzenie listy i wysłanie 2–3 linków do konkretnych osób (dawni darczyńcy z podobnym pytaniem, dziennikarze/podcasterzy sektorowi, osoby komentujące ten sam temat).
+
+- **Lista „przecieków i kranów” jako pierwszy krok akwizycji (mech. 47)**: **działa w skali jednoosobowej i 2–5 osób** — arkusz i jedno popołudnie na przejrzenie kontaktów z LinkedIna i skrzynki, bez narzędzi i budżetu; w polskim sektorze społecznym to zwykle jedyna działająca ścieżka do pierwszego zlecenia, bo rynek otwartych platform freelancerskich nie obsługuje tej niszy.
 
 ---
 

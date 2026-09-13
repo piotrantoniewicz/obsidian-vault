@@ -5,7 +5,7 @@ tags:
   - organizacje-społeczne
   - strategia-organizacji
 created: 2026-06-15
-updated: 2026-09-06
+updated: 2026-09-13
 relevance: wysoka
 sources:
   - "[[2024-08-12 AI Governance Framework for Nonprofits]]"
@@ -48,6 +48,7 @@ sources:
   - "[[2026-03-24 I Made It Free. It Might Not Be Enough]]"
   - "[[2026-08-18 How can the public sector meet the AI moment-]]"
   - "[[2026-09-04 How Political Campaigns Are Actually Using AI to Write]]"
+  - "[[2026-06-04 AI in Grant Writing What It Can Do, What It Can't, and When It Gets Dangerous]]"
 
 ---
 
@@ -176,6 +177,9 @@ Kalibracja mech. 14 (polskie 20,3% firm z formalną polityką AI) danymi z sekto
 **32. Kontrola projektowana od startu przyspiesza wdrożenie, nie spowalnia — pięcioetapowy proces z trzema bramkami ([[McKinsey]])**
 Twarda empiryczna potwierdzenie mech. 4 i 17 z sektora publicznego: agencje, które wbudowują nadzór i kontrolę **od samego początku** projektowania systemu, wdrażają AI **szybciej i bezpieczniej** niż te traktujące governance jako komitet zatwierdzający na końcu procesu — bo kluczowe decyzje (jakich danych użyć, co system może samodzielnie zdecydować) zapadają wtedy miesiące wcześniej, zamiast blokować gotowy projekt na finiszu. Operacyjny szkielet, **pięć etapów, trzy bramki zatwierdzenia**: (1) **Design** — czy w ogóle użyć tu AI i ile autonomii dać systemowi, zależnie od złożoności zadania i kosztu błędu; (2) **Get data** — weryfikacja źródeł, zgodności prawnej i jakości danych wejściowych; (3) **Build and evaluate** (bramka 2: zgoda na wdrożenie) — testy powtarzalne, red-teaming, kontrola sprawiedliwości wyników między grupami; (4) **Industrialize** (bramka 3: zgoda na start) — wersjonowanie promptów i workflow, limity kosztów, wyznaczony właściciel, rejestr use case'u; (5) **Monitor** — ponad połowa całego nadzoru nad AI dzieje się **dopiero po wdrożeniu**, jako cykliczne pytanie, czy dane zastosowanie wciąż ma sens. Zasada właścicielska, spójna z mech. 26: właścicielem ryzyka i efektu jest **lider usługi/procesu**, nie centralna funkcja AI — centrum dostarcza platformę, standardy i rzadkie kompetencje techniczne, ale nie przejmuje odpowiedzialności za wynik. Liczba kalibrująca deficyt zaufania z mech. 13: **tylko 31% pracowników sektora publicznego ufa, że pracodawca rozwija AI bezpiecznie, wobec 71% średnio we wszystkich branżach** — czyli prawdziwym ograniczeniem tempa wdrożeń bywa zaufanie, nie budżet ani technologia. *(Źródło: [[2026-08-18 How can the public sector meet the AI moment-]])*
 
+**34. Wniosek grantowy to obietnica rozliczana później — trzy kontrole przed wysłaniem tekstu pisanego z AI ([[2026-06-04 AI in Grant Writing What It Can Do, What It Can't, and When It Gets Dangerous|Wendy Clow]])**
+Konkretyzacja mech. 33 (kategorie treści zawsze wymagające człowieka) w miejscu, w którym organizacje społeczne używają AI najchętniej. Diagnoza: model dobrze streszcza RFP, porządkuje myśli i daje szybki pierwszy szkic, ale jego **pewna siebie, dopracowana proza sama dokłada deklaracje skali i wpływu** — organizacja „wygląda na większą, niż jest”. Różnica wobec innych treści jest tu ustrojowa, nie stylistyczna: **grant nie jest tekstem marketingowym, tylko zobowiązaniem sprawozdawczym**, więc koszt przesady nie ujawnia się przy wysyłce, lecz przy rozliczeniu za rok. Stąd trzy kontrole, które musi przejść **każda** deklaracja: **(1)** czy jesteśmy w stanie zrealizować każdą wymienioną liczbę i każdy rezultat (jeśli nie — usuń); **(2)** czy odpowiedź trafia w pytania fundatora **jego językiem**, a nie ogólnym żargonem sektora; **(3)** czy będę się czuł komfortowo, raportując tę obietnicę za rok. Drugie ryzyko jest rynkowe: **fundatorzy rozpoznają generyczną aplikację**, która nie odpowiada precyzyjnie na zadane pytania, więc pozorna oszczędność czasu bywa kosztem utraconego grantu. Zasada nadrzędna autorki: *„AI to potężny asystent w pisaniu grantów. To nie jest grantwriter”*. Metryczka: tekst ekspercki na LinkedIn, bez danych i bez próby; wartość leży w procedurze, nie w dowodzie.
+
 ## Powiązane pojęcia
 
 - [[2026-06-13 Wdrażanie AI w organizacji społecznej|Wdrażanie AI w organizacji społecznej]] — AI governance to filar **etyki** tego wdrożenia: „AI odsłania istniejące słabości", a governance jest mechanizmem, który nie pozwala słabościom (bałagan w danych, brak zasad) skalować się razem z narzędziem. Czerwony link stąd zrealizowany.
@@ -200,6 +204,8 @@ Twarda empiryczna potwierdzenie mech. 4 i 17 z sektora publicznego: agencje, kt�
 - **Playbook pierwszego kwartału (Neider)**: granica danych opublikowana w tym tygodniu → anonimowy audyt użycia → migracja na licencje enterprise z umową → zespół przeglądowy → test biasu → komunikat do zarządu i społeczności. Gotowa checklista do sprzedania jako pakiet wdrożeniowy — konkretniejsza niż „napiszmy politykę".
 - **Trzy pytania do dostawcy AI** jako załącznik do każdej umowy: trenowanie na naszych danych, formalna umowa o ochronie danych, widoczność i kontrola po stronie IT. Krótkie, zrozumiałe dla zarządu, weryfikowalne.
 - **Element kursu „Fundraising z AI"**: moduł o odpowiedzialnym wdrożeniu — pięć etapów dojrzałości + szablon polityki jako praca domowa uczestników.
+
+- **Trzy pytania kontrolne jako ostatni krok każdego wniosku pisanego z AI (mech. 34)**: **działa w skali 2–5 osób** — kwadrans przed wysłaniem, bez narzędzi: przejrzyj wniosek zdanie po zdaniu i skreśl każdą liczbę i każdy rezultat, którego nie chcesz raportować za rok. W organizacji tej wielkości to zwykle **jedyna** bramka między szkicem a wysłaniem, więc ma sens wpisać ją do polityki AI jako kategorię treści wymagającą weryfikacji, a nie zostawić dobrej woli autora.
 
 ---
 

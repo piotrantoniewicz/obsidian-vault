@@ -5,6 +5,7 @@ url: "https://thenonprofithive.com/nonprofit-financial-transparency-autopilot/?u
 published: 2026-08-31
 created: 2026-09-12
 tags:
+  - "strategia-organizacji"
 ---
 
 

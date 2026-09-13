@@ -5,6 +5,8 @@ url: "https://www.linkedin.com/pulse/stewardship-age-intelligent-systems-bryan-n
 published: 2026-09-12
 created: 2026-09-12
 tags:
+  - "strategia-AI"
+  - "organizacje-społeczne"
 ---
 
 

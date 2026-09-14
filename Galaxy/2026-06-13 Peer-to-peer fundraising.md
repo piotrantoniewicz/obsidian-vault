@@ -5,7 +5,7 @@ tags:
   - organizacje-społeczne
   - digital-campaigning
 created: 2026-06-13
-updated: 2026-09-13
+updated: 2026-09-14
 relevance: wysoka
 sources:
   - "[[2026-04-08 Społeczność Jako Twój Najlepszy Fundraiser Jak Wdrożyć Model Peer-to-Peer]]"
@@ -27,6 +27,7 @@ sources:
   - "[[2026-09-08 Winning Over People Who Don't Know Your Mission]]"
   - "[[2025-01-14 How to Launch a Peer-to-Peer Campaign in 8 Steps]]"
   - "[[2025-11-15 Silent Auctions Everything You Need to Know]]"
+  - "[[2026-02-02 How to Calculate Event Fundraising ROI]]"
 ---
 
 # Peer-to-peer fundraising (fundraising rówieśniczy)
@@ -94,6 +95,9 @@ Rozróżnienie definicyjne, którego strona dotąd nie miała wprost: w **crowdf
 
 **17. Aukcja cicha jako format wydarzenia — kotwiczenie ceną i historia przy przedmiocie ([[Madison Barefield]] / [[CauseVox]])**
 Uzupełnienie osi doboru formatu (mech. 7, 10, 13) o format, który strona dotąd pomijała, i o mechanizm psychologiczny przenośny poza aukcje. **Kotwiczenie:** jeden lub dwa przedmioty aspiracyjne o wysokiej wartości podnoszą postrzeganą atrakcyjność całej reszty oferty — ta sama mechanika działa w sugerowanych kwotach darowizny, więc aukcja jest tanim poligonem do jej przetestowania. **Opis przedmiotu prowadzi historią** dawcy albo twórcy i wpływem, nie specyfikacją — przedmioty zgodne z misją i pakiety tematyczne z kilku mniejszych darowizn działają lepiej niż zbiór przypadkowych fantów. Logistyka w sześciu etapach: platforma mobilna z licytacją w czasie rzeczywistym i śledzeniem darczyńców → pozyskanie przedmiotów (lokalne firmy, zarząd, stali darczyńcy) → strona aukcji z nazwą nawiązującą do misji, zdjęciami i progami podbić → promocja z **oknem VIP preview** dla wybranych darczyńców i budowaniem napięcia na liście mailowej → prowadzenie z powiadomieniami o przebiciu i eksponowaniem przedmiotów niedoszacowanych → zamknięcie. Proweniencja: przewodnik dostawcy platformy, zasady uniwersalne, ale bez danych o efekcie.
+
+**18. ROI wydarzenia liczone z kosztem pracy — benchmark 35% i próg opłacalności formatu ([[Gia Chow]] / [[CauseVox]])**
+Domknięcie zdania z mech. 5 („rentowność trzeba liczyć z kosztem pracy") konkretną procedurą i liczbą progową. Teza wyjściowa: **dobra atmosfera wydarzenia i entuzjastyczne wiadomości od uczestników nie są dowodem sukcesu finansowego** — organizacja potrafi latami powtarzać event, który ledwo się zwraca, bo nikt nie policzył go do końca. Cztery kroki: (1) wszystkie koszty, także pomijane drobne (oznakowanie, wynajem sprzętu, oprogramowanie, promocja); (2) **godziny sztabu i wolontariuszy przeliczone po rozsądnej stawce** i dopisane do kosztów — bez tego ocena jest fałszywie optymistyczna; (3) realistyczny cel = liczba uczestników × realna średnia kwota na osobę; (4) ROI = (zebrane − koszty) ÷ koszty × 100. **Benchmark: wskaźnik kosztów ≤35%** (maks. 35 USD kosztu na każde 100 USD zebrane) jako dobry wynik eventu; przykład źródła — 50 000 USD zebranych przy 35 000 USD kosztów to 42,85% ROI. Liczba, która czyni z tego argument na rzecz całej tej strony: kampania P2P przy koszcie **ok. 3 USD na 100 USD zebrane** daje ROI rzędu **3000%** — czyli różnica między formatami nie jest kwestią gustu, tylko rzędu wielkości. Uwaga o zakresie: benchmark 35% i porównanie 3 USD pochodzą od dostawcy platformy P2P, więc kierunek jest wiarygodny, a sama wartość progu — do traktowania jako kotwica do własnego pomiaru, nie jako norma sektorowa. Nie koliduje z regułą portfelową z mech. 5 (pojedynczy event ≤50% przychodów) — tamta mierzy koncentrację przychodów, ta rentowność formatu.
 
 ## Powiązane pojęcia
 

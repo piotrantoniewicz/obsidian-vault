@@ -5,7 +5,7 @@ tags:
   - digital-campaigning
   - organizacje-społeczne
 created: 2026-06-15
-updated: 2026-09-05
+updated: 2026-09-14
 relevance: wysoka
 sources:
   - "[[2025-10-21 GivingTuesday x Blackbaud Institute Special Report]]"
@@ -21,6 +21,7 @@ sources:
   - "[[2026-08-05 The AI-Enabled Nonprofit A Strategy Guide for 2026]]"
   - "[[2026-06-16 Donors Want Giving Platforms To Be Accurate, Transparent, Consent Of Charities]]"
   - "[[2026-02-26 Nonprofit Donation Form Templates That Increase Giving]]"
+  - "[[2026-08-24 Expanding definitions of generosity Global and U.S. trends in helping others]]"
 ---
 
 # Pokolenia darczyńców (Donor Generations)
@@ -59,6 +60,9 @@ Darczyńcy coraz częściej **koncentrują** dary w organizacjach, którym ufaj�
 Rozszerzenie mech. 2 („młodzi dają czas, nie pieniądze") z relacji darczyńskiej na **relację pracowniczo-wolontariacką**, bo mechanika jest ta sama. Dane kotwiczące (Blackbaud Institute, *Gen. Z at the Table*, 2024): **84% przedstawicieli Gen Z wspiera organizacje, inicjatywy lub cele społeczne** w jakiejś formie — jako darczyńcy, wolontariusze albo rzecznicy — a mimo to trudno przełożyć to zaangażowanie na **długoterminowe związanie się z jedną organizacją**. Relacja jest więc chętnie nawiązywana i słabo instytucjonalizowana, dokładnie jak po stronie dawania. Perspektywa oddolna (Lidiia Tsiupera, koordynatorka projektów, ngo.pl) wskazuje trzy przyczyny odejść, z których **żadna nie jest wynagrodzeniem**: (a) **brak czytelnej ścieżki rozwoju** — w jednym projekcie asystent, w kolejnym koordynator; różnorodność ról jest wartością organizacji, ale przeszkodą w budowaniu tożsamości zawodowej młodej osoby, więc trzeba ją **nazwać wprost już na rekrutacji**, a nie sprzedawać jako awans; (b) **brak realnego wpływu na decyzje** — przestrzeń na własne pomysły, także odrzucane, ale **z uzasadnieniem**, buduje zaangażowanie mocniej niż lista obowiązków; (c) **jakość wdrożenia** — wyznaczona osoba kontaktowa od pierwszego dnia i prawo do błędu decydują o retencji bardziej niż pensja. Konsekwencja dla kultury: organizacja, w której nowa osoba boi się powiedzieć „nie daję rady", sama produkuje wypalenie. Zdanie, które warto cytować w rozmowie z zarządem: *„chciałabym tylko, żeby organizacji zależało na mnie tak samo, jak mnie zależy na organizacji"* — to ten sam **kontrakt wzajemności**, na którym stoi [[2026-06-13 Stewardship|stewardship]] darczyńcy, tylko przeniesiony do wewnątrz. *(Źródło: [[2026-07-31 Dlaczego młodzi odchodzą z organizacji- Perspektywa przedstawicielki pokolenia Z]])*
 
 ---
+
+**11. Kohorta 35–49 odchodzi od instytucji, nie od dawania ([[2026-08-24 Expanding definitions of generosity Global and U.S. trends in helping others|GivingTuesday, State of Generosity 2025]])**
+Uzupełnienie osi pokoleniowej o segment, który ta strona opisywała dotąd głównie przez medianę daru. W USA **młodsi dorośli (35–49 lat) przesuwają się w stronę bezpośredniej, personalnej pomocy potrzebującym kosztem darowizn instytucjonalnych** — to nie spadek hojności, tylko zmiana adresata. Tło liczbowe z tego samego raportu (dane 2025): **58%** dało pieniądze, **68,6%** rzeczy, **49,7%** czas, przy wzroście wolontariatu o **9 pkt proc. rok do roku**. Wniosek dla segmentacji: dla tej kohorty **spadek darowizn nie jest sygnałem churnu**, tylko sygnałem, że organizacja przegrała rywalizację o widoczność skutku z pomocą udzielaną bezpośrednio — i że ask powinien konkurować konkretem efektu, nie wielkością sprawy (spójne z regułą „apel konkretny bije ogólny"). Metryczka: GivingTuesday / Candid, dane 2025, USA, bez podanego n.
 
 ## Frameworki-kotwice
 

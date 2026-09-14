@@ -5,7 +5,7 @@ tags:
   - content-marketing
   - digital-campaigning
 created: 2026-06-23
-updated: 2026-09-06
+updated: 2026-09-14
 relevance: wysoka
 sources:
   - "[[2025-07-30 Generative engine optimisation query]]"
@@ -37,6 +37,7 @@ sources:
   - "[[2025-05-06 TON - Visual Comms to Win Hearts, Democrats Digital Media Ditch, AI Fake Personas]]"
   - "[[2026-07-08 4 Donor Acquisition Tips from 2,000+ Donors]]"
   - "[[2026-08-31 It’s Peak Produce Season Stop Cherry-Picking Your Ads Results]]"
+  - "[[2026-07-17 Anti choice lobbying tool]]"
 ---
 
 # Widoczność w AI search (GEO / AEO)
@@ -141,6 +142,9 @@ Kontrapunkt do mech. 21 (popyt wyborczy w Szwecji) i najtrzeźwiejsza dostępna 
 
 **25. Skutek uboczny wyszukiwania przez modele: rozpada się atrybucja, a nie tylko ruch ([[M+R]])**
 Mech. 24 mierzy, ilu darczyńców **trafia** do organizacji przez model. Ten dotyczy tego, czy w ogóle **da się to zmierzyć** — i jest drugą, rzadziej wypowiadaną konsekwencją przejścia wyszukiwania do modeli. **[[Multi-touch attribution]]** (przypisywanie przychodu ścieżce kliknięć) traci wiarygodność z trzech nakładających się powodów naraz: rosnące ograniczenia prywatności danych, wyszukiwanie przez AI (odpowiedź bez kliknięcia = punkt styku bez śladu) oraz alternatywne formy dawania, które wychodzą poza mierzalny lejek — w tym [[2026-07-06 DAF|DAF]]. Proponowana odpowiedź metodologiczna to **marketing mix modeling (MMM)**: model statystyczny porównujący **wydatki na kanały** (reklama, direct mail, e-mail) z **wynikami fundraisingowymi w czasie**, przy kontroli czynników kontekstowych — sezonowości i siły marki. Pytania, na które MMM odpowiada, a MTA już nie: *ile przychodu wynikało z reklam, a ile z ogólnego kontekstu* oraz *czy warto puszczać reklamy display do istniejącej bazy darczyńców*. **Praktyczna wymowa dla tej strony:** spadek mierzalnego ruchu z wyszukiwarki nie dowodzi jeszcze spadku skuteczności — dopóki pomiar opiera się na atrybucji kliknięć, obie rzeczy są nierozróżnialne, więc **argument „GEO nie działa, bo nie widzę ruchu" jest w tym momencie nierozstrzygalny**. **Ograniczenia, wprost:** materiał jest zapowiedzią webinaru (M+R z USA for UNHCR), nie studium — nie podaje ani wymaganego horyzontu danych, ani minimalnego budżetu, przy którym MMM ma sens; źródło odnotowuje jedynie, że organizacje społeczne sięgają po tę metodę rzadziej niż firmy komercyjne. *(Źródło: [[2026-08-31 It’s Peak Produce Season Stop Cherry-Picking Your Ads Results]])*
+
+**26. Nieindeksowanie nie daje niewidzialności — model opisuje stronę z sygnałów zewnętrznych ([[2026-07-17 Anti choice lobbying tool|forum ECF, wątek *Anti choice lobbying tool*]])**
+Odwrotna strona mech. 4 i 9, warta osobnego zapisu, bo dotyczy **ochrony**, nie promocji. Uczestnicy brytyjskiego forum kampanijnego próbowali ustalić, kto stoi za anonimowym narzędziem email-to-target używanym przez kampanię pro-life (domena zarejestrowana w 2024, jedna podstrona, **publicznie nieindeksowana**). Narzędzia AI mimo to potrafiły stronę opisać i wskazać powiązane konta w mediach społecznościowych, a zestawienie tych podpowiedzi z ręcznym researchem doprowadziło do konkretnej osoby. Mechanizm nie jest zaskoczeniem na gruncie tej strony — to ta sama zasada, co **85% cytowań pochodzi spoza samej witryny** (mech. 4): skoro model buduje obraz podmiotu głównie ze źródeł zewnętrznych, to brak indeksacji własnej strony **usuwa kontrolę nad opisem, a nie sam opis**. Praktyczna konsekwencja dwustronna: (a) dla organizacji, która chce być cytowana, blokada crawlerów jest samobójstwem (mech. 9); (b) dla organizacji prowadzącej działania wrażliwe — kampanię pod inną marką, stronę dla osób w kryzysie, narzędzie testowane przed premierą — **„nie zaindeksujemy tego" nie jest strategią bezpieczeństwa**, bo ślad i tak powstaje w powiązanych kontach, rejestrach domen i wzmiankach. Metryczka: wątek forum, jeden odtworzony przypadek, bez próby i bez pomiaru — wartość leży w obaleniu założenia, nie w liczbie. Wątek niesie też drugą obserwację, zapisaną na [[2026-06-13 Wdrażanie AI w organizacji społecznej|Wdrażaniu AI]]: narzędzie kampanijne da się dziś postawić metodą vibe-codingu w godzinę, więc próg wejścia spadł także po stronie przeciwników.
 
 ## Powiązane pojęcia
 

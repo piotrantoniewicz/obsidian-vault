@@ -5,7 +5,7 @@ tags:
   - narzędzia-AI
   - szkolenia-AI
 created: 2026-06-15
-updated: 2026-09-06
+updated: 2026-09-14
 relevance: wysoka
 sources:
   - "[[2025-06-22 9 ChatGPT & Claude Writing Tips (to get CRAZY GOOD outputs)]]"
@@ -29,7 +29,9 @@ sources:
   - "[[2026-08-27 The best AI tool for beautiful branding]]"
   - "[[2026-07-07 Tutorial - Which Claude Model Should You Actually Use]]"
   - "[[2026-05-26 Czy AI kradnie kontakt człowiek człowiek-]]"
-  - "[[2026-08-28 Pułapka kontynuacji – czyli dlaczego AI raczej nie zbuduje dobrego scenariusza strategicznego]]"  - "[[2026-09-01 Marcin Sawicki - 5 zasad krytycznego korzystania z chatbotów]]"
+  - "[[2026-08-28 Pułapka kontynuacji – czyli dlaczego AI raczej nie zbuduje dobrego scenariusza strategicznego]]"
+  - "[[2026-09-01 Marcin Sawicki - 5 zasad krytycznego korzystania z chatbotów]]"
+  - "[[2026-09-01 How to turn your AI into a world-class designer]]"
 
 ---
 
@@ -102,6 +104,9 @@ Drugie, niezależne potwierdzenie mechanizmu 16 (distributional collapse) w nowe
 
 ---
 
+**23. Model domyślnie wybiera odpowiedź najbardziej prawdopodobną — jak wypchnąć go poza środek rozkładu ([[2026-09-01 How to turn your AI into a world-class designer|Anshu Chimala]], Lenny's Newsletter)**
+Najczystsze dostępne wyjaśnienie, *dlaczego* wyjścia modeli bywają przewidywalne, i zarazem komplet technik przeciwdziałania. Przyczyna nie jest stylistyczna, tylko strukturalna: jako predyktor kolejnego tokenu model wybiera rozwiązanie **najbardziej prawdopodobne, a nie najodważniejsze** — a trening premiuje wybory bezpieczne i akceptowalne dla wszystkich. Konsekwencja, która ratuje wiele nieudanych promptów: **proszenie o „coś unikalnego" nie działa**, bo prośba o oryginalność sama jest wysoce prawdopodobnym poleceniem; potrzebne jest **zewnętrzne źródło losowości albo bardzo konkretny kierunek**. Techniki, przenośne poza design na dowolny tekst i kod: **(a) String Seed of Thought** — model generuje losowy ciąg alfanumeryczny i dopiero z niego wyprowadza kierunek (paleta, układ, ton), co wprowadza wariancję z zewnątrz; **(b) ambitna, konkretna kotwica inspiracyjna** (gra, styl architektoniczny, instalacja) zamiast abstrakcyjnego „bądź kreatywny"; **(c) pętla z osobnym agentem-krytykiem** — mocniejszy model ocenia **wyłącznie efekt** (np. zrzut ekranu) wg jawnych kryteriów i przyznaje ocenę do osiągnięcia progu, co odrywa krytykę od kontekstu wykonania; **(d) odejmowanie zamiast dodawania** — model chętnie dodaje, rzadko usuwa, a największym sygnałem „AI slop" jest nadmiar; **(e) traktowanie wygenerowanego tekstu jak lorem ipsum** — copy przepisuje człowiek. Rama porządkująca: **Discover → Define → Deliver** (wariant Double Diamond dla pracy z agentami). Zastrzeżenie: materiał opisuje praktykę projektanta produktów AI (12 lat w Apple), bez pomiaru — to zestaw technik z uzasadnieniem mechanizmu, nie wynik testu. Metryczka: artykuł branżowy, wrzesień 2026, bez n i bez porównania kontrolnego.
+
 ## Frameworki-kotwice
 
 - **9 technik pisania z AI (Cole)** / **8 technik dla ghostwritera** — pokrywający się rdzeń: 3 tryby promptowania, język obiektywny, nazwane formaty, singular/modular, zgodne przykłady, instrukcje formatu, iteracja z AI.
@@ -153,6 +158,9 @@ Zestaw przeniesiony z materiału „Critical Thinking Activities for the Age of 
 - **Próg wejścia**: prompt engineering to najtańsza dźwignia („lepszy output bez dodatkowych narzędzi") — idealny pierwszy moduł, zanim organizacja sięgnie po RAG czy automatyzacje.
 
 ---
+
+- **Agent-krytyk jako tania kontrola jakości wyjścia (mech. 23)**: zamiast prosić ten sam model o samoocenę, otwórz drugą rozmowę, wklej sam efekt (tekst, zrzut, plik) bez historii powstawania i poproś o ocenę wg trzech–pięciu jawnych kryteriów w skali 1–10 wraz z uzasadnieniem; poprawiaj do progu, który ustalasz z góry. **Działa w skali 2–5 osób** — to darmowy plan dowolnego czatu i kilka minut na materiał, bez API i bez kodu. Warto, by krytykiem był model inny (lub mocniejszy) niż wykonawca; jeśli organizacja ma dostęp tylko do jednego, **substytutem** jest czysta rozmowa bez kontekstu tworzenia — słabsza, ale nadal usuwa efekt zakochania modelu we własnym wyniku.
+- **Reguła odejmowania przed wysłaniem (mech. 23)**: każdy materiał wygenerowany przez model przechodzi jedno przejście „co da się usunąć bez straty", a tekst do publikacji jest **przepisywany ręcznie** — wygenerowany traktujemy jak wypełniacz. **Działa w skali 2–5 osób**: to nawyk, nie narzędzie; koszt to kilka minut na materiał, a zysk to usunięcie najczęstszego sygnału maszynowego wyjścia.
 
 ## Otwarte pytania
 

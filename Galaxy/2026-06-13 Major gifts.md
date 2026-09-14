@@ -5,7 +5,7 @@ tags:
   - strategia-organizacji
   - organizacje-społeczne
 created: 2026-06-13
-updated: 2026-09-13
+updated: 2026-09-14
 relevance: wysoka
 sources:
   - "[[2025-02-11 Best Practices for Major Gift Fundraising What You Need to Know to Raise More]]"
@@ -26,6 +26,7 @@ sources:
   - "[[2026-05-05 Stop Paying $25K for Strategic Plans That Never Get Used]]"
   - "[[2026-05-11 Annual Fund + Strategic Plan Fundraise With Confidence in Uncertain Times]]"
   - "[[2026-09-02 Treasure Coast Food Bank Increases Donor Conversion by 103% Using Avid’s Propensity Model » Avid]]"
+  - "[[2026-08-25 Why fundraising's record first half doesn't feel like one]]"
 ---
 
 # Major gifts (duże darowizny)
@@ -89,6 +90,9 @@ Odpowiedź operacyjna na lukę z mech. 15 (plan bez infrastruktury): zamiast dw�
 **17. Model propensity i „lookalike donors" — pierwszy czysty pomiar tego, ile warty jest sam dobór odbiorców ([[Karina Rodríguez]] / [[Avid]], case Treasure Coast Food Bank)**
 Rozwinięcie mech. 5, 10 i 11 o stronę **wykonawczą i pomiarową**. Wejście do modelu jest jedno: lista darczyńców poprzedniej edycji tej samej kampanii; model szuka w szerszej bazie osób o podobnych **wzorcach zachowań** (nie demografii — dane z CRM, platformy donacyjnej i zaangażowania mailowego) i zwraca listę tych, którzy jeszcze nie dali. Test był czysty: te same maile, te same treści, ta sama strona docelowa trafiły do listy z modelu i do listy standardowej, więc cała różnica przypada na dobór odbiorców. Wynik letniej kampanii matchingowej: konwersja **57% vs 28%** (wzrost o **103%**), średnia darowizna **+88%**, pewność statystyczna **96,9%**. Dwa wnioski osobno: (a) dobór odbiorców jest samodzielną dźwignią, niezależną od kreacji — organizacja może podnieść wynik, nie zmieniając ani słowa w apelu; (b) model trafia nie tylko w *więcej* darczyńców, ale w **hojniejszych**, co przesuwa propensity z narzędzia zasięgu do narzędzia jakości pipeline'u. Zastrzeżenie proweniencji: to case study dostawcy narzędzia, bez podanej wielkości próby — liczby traktuj jako ilustrację mechanizmu, nie benchmark. Case jest też praktyczną ilustracją obawy z „Otwartych pytań": lookalike z definicji szuka **profili podobnych do dotychczasowych darczyńców**, więc to samo, co daje skuteczność, zawęża krąg kwalifikowanych.
 
+**18. „Mniej ludzi, więcej pieniędzy" — rekord przychodu jako wskaźnik ryzyka koncentracji ([[2026-08-25 Why fundraising's record first half doesn't feel like one|Lori Collins]] / [[RKD Group]], 2026 Mid-Year Benchmark)**
+Domknięcie mech. 7 (74,4% wpłat od 2,3% bazy) od strony dynamiki: to nie jest stan, tylko piąty rok trendu. W I połowie 2026 przychód fundraisingowy w badanej puli osiągnął **10-letni rekord — 1,86 mld USD, +51% względem 2017** — a mimo to **liczba aktywnych darczyńców jest najniższa od 2019**, a liczba nowych i reaktywowanych spada **piąty rok z rzędu**; realnie, po inflacji, przychód jest **-3,0% względem 2021**. Autorka nazywa to dwiema ekonomiami darczyńców i domyka zdaniem wartym trzymania jako cytat roboczy: *„Mniej ludzi. Więcej pieniędzy. Mniej efektu na każdą wydaną złotówkę."* Tło makro: **1% najbogatszych gospodarstw domowych w USA trzyma ~31,7% majątku**, a przeciętny darczyńca z darem rzędu 25 USD jest wypychany przez inflację — **47% darczyńców deklaruje, że daje mniej z powodu inflacji**, **69%** uważa recesję w ciągu 12 miesięcy za prawdopodobną (+14 pkt vs Q1), a indeks nastrojów konsumenckich Uniwersytetu Michigan (**55**, ok. 30 pkt poniżej średniej historycznej) jest dużo gorszy, niż sugerowałyby rekordy giełdowe. Dwie konsekwencje, które odróżniają ten mechanizm od mech. 9: **(a)** rosnący przychód przy kurczącej się bazie jest **sygnałem ostrzegawczym o ryzyku koncentracji**, nie dowodem zdrowia programu — im większa część budżetu zależy od kilkunastu osób, tym silniej organizacja wchodzi w reżim opisany w [[2026-06-13 Transparentność operacyjna|Transparentności operacyjnej]]; **(b)** komunikacja ma adresować **realia budżetu domowego darczyńcy, a nie nastroje rynku**, bo giełda i portfel przeciętnego darczyńcy rozeszły się w przeciwne strony. Uwaga metodologiczna przy zestawianiu z mech. 9: to **nie jest sprzeczność z Giving USA** — tam mowa o całym sektorze USA za rok 2025 (+3,0% realnie r/r), tu o portfelu klientów jednej agencji w I połowie 2026 wobec bazy z 2021; inna populacja, inny okres, inna baza odniesienia. Jeden fakt zgodny w obu źródłach: **77% darczyńców uważa, że organizacje społeczne mają dziś większą potrzebę wsparcia niż rok temu** — deklarowana intencja nie jest wąskim gardłem. Metryczka: RKD Group, 2026 Mid-Year Benchmark, USA, pula klientów agencji, bez podanego n organizacji.
+
 ## Powiązane pojęcia
 
 - [[2026-06-13 Stewardship|Stewardship]] (opieka nad darczyńcą) — piąty etap pipeline'u i zarazem warunek powrotu darczyńcy z kolejnym, większym darem; bez stewardshipu major gift jest jednorazowy
@@ -109,6 +113,8 @@ Rozwinięcie mech. 5, 10 i 11 o stronę **wykonawczą i pomiarową**. Wejście d
 - **Sprawdzić polski rynek narzędzi:** odpowiedniki [[Blackbaud]] Prospect Insights — czy polskie CRM-y dla organizacji społecznych (Asari, Salesforce NPE) oferują scoring lub choćby raporty LYBUNT/RFM; możliwość zbudowania prostego scoringu prospektów w [[Make.com]] na danych z CRM.
 
 ---
+
+- **Test koncentracji przed świętowaniem rekordu (mech. 18)**: zanim organizacja uzna rosnący przychód za sukces, policz dwie liczby obok siebie — przychód i **liczbę darczyńców, którzy dali w tym roku** — oraz udział trzech największych darowizn w budżecie. **Działa w skali 2–5 osób**: to jedna tabela przestawna w arkuszu i godzina raz na kwartał. Jeśli przychód rośnie, a liczba darczyńców spada trzeci okres z rzędu, priorytetem przestaje być kolejny duży ask, a staje się kanał wejścia małych darów.
 
 ## Otwarte pytania
 

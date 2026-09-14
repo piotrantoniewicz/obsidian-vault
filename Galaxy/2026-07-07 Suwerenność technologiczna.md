@@ -5,7 +5,7 @@ tags:
   - strategia-AI
   - narzędzia-AI
 created: 2026-07-07
-updated: 2026-09-06
+updated: 2026-09-14
 relevance: wysoka
 sources:
   - "[[2026-06-16 Suwerenność na wynajem]]"
@@ -37,6 +37,7 @@ sources:
   - "[[2026-07-13 The 20 Forces Shaping the Midterms My Map of the Kaleidoscopic Minefield]]"
   - "[[2026-08-11 Pod Warszawą budują centrum danych. Mieszkańcy już dziś są braki wody]]"
   - "[[2026-08-28 The AI Backlash Gets Professional]]"
+  - "[[2026-09-04 Comparing OpenAI and Anthropic's Data Retention Policies]]"
 ---
 
 # Suwerenność technologiczna (Technological Sovereignty)
@@ -110,6 +111,9 @@ Piąty mechanizm o warstwie fizycznej AI (obok 9, 13, 15, 16), tym razem nie o p
 
 **21. Sprzeciw wobec AI się profesjonalizuje — transfer kadr i taktyk z ruchu klimatycznego ([[Matteo Wong]] / The Atlantic)**
 Domknięcie mech. 18 i 20 (woda, centra danych, protesty lokalne) od strony **podmiotu**: rozproszony niepokój dostaje organizację. **Irreplaceable** założyli byli organizatorzy ruchu klimatycznego (m.in. [[Sunrise Movement]], [[350.org]]) i świadomie przenoszą jego strategię, stawiając na **emocje i populistyczne poczucie utraty kontroli zamiast na white papers i rekomendacje polityczne**. Skala nastrojów, na których stoją: **ok. 75% Amerykanów sprzeciwia się budowie centrum danych w swojej okolicy**, **ok. 75% uważa, że AI zagrozi bezpieczeństwu ich pracy**, **blisko 70% sądzi, że technologia rozwija się zbyt szybko**. Deklarowana ścieżka: koalicja w tym roku, wspólny program polityczny w przyszłym, wdrożenie do końca 2029 — czyli **sprzeciw najpierw, program potem**, wprost na wzór wieloletniej drogi do Green New Deal. Trzy warunki, które sami sobie stawiają, są zarazem najlepszym testem tego ruchu: korzyści muszą być odczuwalne **„w portfelu" niemal natychmiast**, temat **i tak się spolaryzuje** (próba pozostania apolitycznym rozmywa przekaz), a taktyki skaluje się stopniowo — od chaotycznego pierwszego protestu do demonstracji z logistyką i jednym przekazem. **Ostrzeżenie wbudowane w źródło:** poparcie dla haseł bywa powierzchowne i wewnętrznie sprzeczne — ci sami ludzie krytykują centra danych i korzystają z produktów AI, więc **wysoki odsetek w sondażu nie jest zasobem mobilizacyjnym**, dopóki nie zostanie przełożony na lokalną, konkretną stawkę (to samo, co pokazuje mech. 20 na przykładzie Piaseczna). Znaczenie dla polskiej organizacji społecznej jest podwójne: to jednocześnie mapa taktyk i sygnał, że **AI staje się osią sporu, w którym trzeba będzie zająć stanowisko** — także organizacjom, które używają AI jako narzędzia. *(Źródło: [[2026-08-28 The AI Backlash Gets Professional]])*
+
+**21. Suwerenność mierzona dostępem dostawcy do danych, nie miejscem serwera ([[2026-09-04 Comparing OpenAI and Anthropic's Data Retention Policies|The Batch]] / DeepLearning.AI)**
+Uzupełnienie tej strony o kryterium, które w debacie o suwerenności zwykle przegrywa z pytaniem „gdzie stoi serwer". Dwaj najwięksi dostawcy modeli ogłaszają we wrześniu 2026 rozbieżne polityki retencji (łagodzenie 30-dniowego przechowywania po jednej stronie, **zero data retention** jako standard po drugiej), ale oba zapowiadane mechanizmy bezpieczeństwa wymagają **zdalnego odszyfrowania i przeskanowania danych klienta** — a żaden nie ma niezależnego audytu. Wniosek przenośny na całą stronę: **stopień suwerenności organizacji wyznacza to, czy dostawca ma techniczny dostęp do treści**, a nie jurysdykcja centrum danych ani deklaracja o nietrenowaniu na danych; w przywoływanym **czterostopniowym modelu prywatności AI w chmurze** poziom najwyższy to ten, na którym dostawca dostępu nie ma w ogóle. Drugi wniosek, ostrzejszy: warunki retencji **zmieniają się w obie strony w trakcie trwania relacji**, więc suwerenność oparta na polityce dostawcy jest stanem odnawialnym, nie nabytym — co jest dokładnie tą samą zależnością, którą [[2026-06-25 Owned vs rented audience|owned vs rented]] opisuje dla publiczności. Metryczka: newsletter branżowy, wrzesień 2026, porównanie deklaracji, bez audytu.
 
 ## Frameworki-kotwice
 

@@ -5,7 +5,7 @@ tags:
   - digital-campaigning
   - fundraising
 created: 2026-06-14
-updated: 2026-09-06
+updated: 2026-09-14
 relevance: wysoka
 sources:
   - "[[2025-06-17 Jak wizualizacja danych wspiera komunikację organizacji społecznej Sprawdź na przykładzie Fundacji Gajusz]]"
@@ -28,6 +28,7 @@ sources:
   - "[[2026-08-17 10 Powerful Nonprofit Videos to Inspire You]]"
   - "[[2023-11-26 Invite Donors Into Your Mission Storytelling in Your Fundraising Campaigns]]"
   - "[[2026-09-01 Aleksandra Marciniak - wzrost zasięgów fanpage NGO na Facebooku]]"
+  - "[[2026-08-20 Website behind widely shared fake election polls run by 21-year-old]]"
 ---
 
 # Storytelling oparty na danych (data storytelling)
@@ -117,6 +118,9 @@ Warstwa, której ta strona nie miała: **czyja jest historia i na jakich warunka
 **18. Kolejność: strategia przed reagowaniem — i wartości jako filtr doboru historii ([[Aleksandra Marciniak]] / [[Fundacja Gajusz]])**
 Domknięcie mech. 16 (siedem „content buckets" i kalendarz) i mech. 17 (zgoda jako proces) polskim case'em, który podaje **kolejność, a nie tylko elementy**. Punktem wyjścia nie jest trend ani algorytm, lecz **wiedza organizacji o sobie samej**: najpierw zasady i plan treści, **dopiero potem** elastyczność wobec zmian platformy. Dwa filtry doboru materiału: **wyłącznie historie prawdziwe lub oparte na faktach, anonimizowane** ze względu na dobro podopiecznych (operacyjna, minimalna wersja trauma-informed z mech. 17, wykonalna bez procedury), oraz **zakorzenienie w nazwanych wartościach organizacji** — u źródła: szacunek, odpowiedzialność, mądre pomaganie — spójnie z warstwą estetyczną. Efekt mierzony na zewnętrznym rankingu, nie deklarowany: **awans o 27 miejsc do top 20 polskich fanpage'y organizacji społecznych ([[Sotrender]])** przy średnim zasięgu **65 tys. → 260 tys.** rok do roku (zob. [[2026-06-25 Owned vs rented audience|Owned vs rented audience]] mech. 28). Wartość tego materiału dla strony jest przede wszystkim **dowodowa i polska**: większość mechanizmów tej strony pochodzi z rynku amerykańskiego, a to jest krajowy przykład, w którym „systematyczna narracja bije pojedynczą wiralowość" ma przypisaną liczbę. **Zastrzeżenie:** relacja własna organizacji, jeden rok, brak kontrgrupy — case do cytowania jako istniejący precedens, nie jako zmierzony efekt metody. *(Źródło: [[2026-09-01 Aleksandra Marciniak - wzrost zasięgów fanpage NGO na Facebooku]])*
 
+**19. Siódma pułapka: cudza liczba bez metodologii — proweniencja danych jako warunek cytowania ([[2026-08-20 Website behind widely shared fake election polls run by 21-year-old|Guardian]])**
+Pułapki z mech. 2 i 12 dotyczą tego, jak *interpretujemy* dane, które mamy. Ten case dokłada pułapkę wcześniejszą: **czy źródło w ogóle istnieje**. 21-letni absolwent zbudował przy pomocy generatywnej AI anonimową „pracownię sondażową" Median Strategies i publikował sfabrykowane wyniki z Wisconsin, Nevady i Kalifornii — jako eksperyment sprawdzający, czy fałszywe dane przenikną do obiegu bez weryfikacji. Przeniknęły: podchwyciły je redakcje (m.in. Los Angeles Times), sztab kandydatki i agregatory sondaży na [[X]], mimo że konto miało **ok. 20 obserwujących**, a wiarygodne organizacje sondażowe odmówiły uwzględnienia wyników **właśnie dlatego, że nie dało się zweryfikować metodologii**. Jeden sfabrykowany sondaż dawał ponad **20 pkt proc.** przewagi kandydatce, która prawybory przegrała; strona zamknęła się tydzień po pierwszym pytaniu dziennikarza. Trzy wnioski operacyjne dla organizacji, która cytuje dane w komunikacji: **(a)** próg wytworzenia wiarygodnie wyglądającej instytucji badawczej spadł do zera — koszt, zespół i finansowanie przestały być filtrem; **(b)** brak weryfikacji po stronie mediów i agregatorów oznacza, że **fakt „cytowali to inni" przestał być dowodem**; **(c)** jedyny działający filtr to ten, który zastosowały profesjonalne sondażownie — **dostępna metodologia (kto, kiedy, na kim, jaką metodą) jako warunek wejścia liczby do materiału**, ta sama dyscyplina, której mech. 2 wymaga wobec danych własnych. Konsekwencja symetryczna: publikując własne dane, podawaj metodologię, bo to ona odróżnia organizację od Median Strategies. Metryczka: reportaż Guardiana, sierpień 2026, USA, pojedynczy case bez pomiaru skali zjawiska. *Cytat sprawcy:* „jeśli tylko sprawi się, żeby coś wyglądało trochę ładnie, dość łatwo to rozprzestrzenić".
+
 ## Powiązane pojęcia
 
 - [[2026-06-14 Framing|Framing]] — data storytelling dostarcza dowodu i emocji, framing dobiera ramę wartości; „statystyka bez historii jest zapomniana, historia bez ram jest krucha" — to dwie strony tej samej dyscypliny narracyjnej.
@@ -137,6 +141,8 @@ Domknięcie mech. 16 (siedem „content buckets" i kalendarz) i mech. 17 (zgoda 
 - **Wolontariat kompetencji**: model BI_NGO (analitycy + graficy pro bono) jako sposób na profesjonalizację komunikacji organizacji bez budżetu — wart przetestowania w sieci LGD.
 
 ---
+
+- **Checklist proweniencji przed zacytowaniem cudzej liczby (mech. 19)**: zanim liczba wejdzie do posta, wniosku grantowego czy materiału prasowego — sprawdź, czy źródło podaje autora, datę, próbę i metodę, i czy instytucja ma ślad istnienia starszy niż sama publikacja. **Działa w skali 2–5 osób**: to pięć minut na liczbę i jedno pole „źródło + metodologia" w dokumencie roboczym; nie wymaga ani analityka, ani narzędzia. Reguła odrzucenia jest ta sama, której użyły sondażownie: brak metodologii = liczba nie wchodzi, niezależnie od tego, ilu innych ją cytuje.
 
 ## Otwarte pytania
 

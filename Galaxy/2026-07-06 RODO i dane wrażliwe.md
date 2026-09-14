@@ -5,7 +5,7 @@ tags:
   - organizacje-społeczne
   - strategia-organizacji
 created: 2026-07-06
-updated: 2026-09-13
+updated: 2026-09-14
 relevance: wysoka
 sources:
   - "[[2025-09-02 AI Act & RODO 2025 Przewodnik po regulacjach UE karach i compliance]]"
@@ -25,6 +25,7 @@ sources:
   - "[[2026-08-19 Dane, których nie masz, a właściwie nie wiesz, że masz. KSeF, e-Doręczenia i koniec wymówek]]"
   - "[[2026-08-27 They confided in ChatGPT. Their secrets ended up in court.]]"
   - "[[2026-09-08 AI has deep memory now - how to use it]]"
+  - "[[2026-09-04 Comparing OpenAI and Anthropic's Data Retention Policies]]"
 ---
 
 # RODO i dane wrażliwe (GDPR & Sensitive Data)
@@ -86,6 +87,9 @@ Ryzyko, którego mech. 1–14 nie obejmowały, bo dotyczyły **danych powierzony
 **16. Pamięć między rozmowami — nowa powierzchnia przetwarzania, włączana świadomie albo działająca w tle ([[2026-09-08 AI has deep memory now - how to use it|Natalie MacNeil]])**
 Domknięcie mech. 15 (rozmowa z modelem bez tajemnicy zawodowej) o warstwę, która tę rozmowę **utrwala**. Dwa różne modele domyślne u dwóch dostawców: w [[Claude]] pamięć z czatów jest **ustawieniem do włączenia** (Settings → Memory → „Generate memory from chats”), trzyma wiedzę w **edytowalnych plikach tematycznych** i **domyślnie wyklucza tematy wrażliwe** (zdrowie, przekonania, polityka) — czyli dokładnie szczególne kategorie z art. 9 RODO; w [[ChatGPT]] kontekst jest aktualizowany **automatycznie w tle** („dreaming”). Konsekwencja praktyczna dla organizacji: pamięć tworzy **zbiór danych, którego nikt nie zakładał świadomie** — składa się z tego, co pracownicy wkleili w czacie, więc przy danych beneficjentów dziedziczy ich kategorię. Dwóch rzeczy źródło nie rozstrzyga i nie rozstrzyga ich ta strona: czy edytowalne pliki pamięci spełniają prawo do usunięcia z art. 17, i jak pamięć jest traktowana w DPA głównych dostawców — do zweryfikowania w umowie, nie w interfejsie.
 
+**17. „Nie trenujemy na twoich danych" ≠ „nie mamy twoich danych" — retencja jako osobne kryterium oceny dostawcy ([[2026-09-04 Comparing OpenAI and Anthropic's Data Retention Policies|The Batch]] / DeepLearning.AI)**
+Rozróżnienie, które w rozmowie o RODO robi całą różnicę, a w marketingu dostawców zlewa się w jedno zdanie: **brak treningu na danych klienta to obietnica o sposobie użycia, a nie o posiadaniu**. Retencja jest drugim, niezależnym pytaniem — i to ona decyduje, czy dane beneficjentów w ogóle opuszczają organizację w sensie prawnym. Stan opisany przez źródło (wrzesień 2026): oba duże laboratoria ogłosiły zmiany niemal równocześnie i **poszły w różne strony** — Anthropic łagodzi wcześniejszą zasadę 30-dniowego przechowywania (wg źródła: od czerwca wymagane 30-dniowe przechowywanie rozmów, a treści oznaczone przez firmę mogą być trzymane **do 2 lat**), OpenAI potwierdza **zero data retention** jako standard dla klientów biznesowych. Zapowiedziane programy bezpieczeństwa (**Enterprise Frontier Safeguards** po stronie Anthropic, dostępny jesienią 2026; **Private Safety Processing** po stronie OpenAI) nie usuwają problemu strukturalnego: **system monitorujący nadużycia i tak musi odszyfrować dane, żeby je przeskanować**, więc *„pracownicy tego nie widzą"* nie znaczy *„system tego nie widzi"*, a **żadna z firm nie opublikowała niezależnego audytu** tego mechanizmu — to na razie mapa drogowa, nie gwarancja. Narzędzie oceny: **cztery poziomy prywatności AI w chmurze** (framework z 2024 przywoływany przez DeepLearning.AI), w którym najsilniejszy poziom to ten, gdzie **dostawca w ogóle nie ma dostępu do danych klienta** — i tylko ten poziom odpowiada na pytanie o powierzenie danych z art. 28 RODO. Praktyczna konsekwencja dla mech. o doborze narzędzia: warunki retencji **zmieniają się w trakcie trwania umowy i w obie strony**, więc data ostatniego sprawdzenia polityki jest częścią oceny ryzyka, a nie jednorazową czynnością przy wyborze dostawcy. *Cytat roboczy:* „»We won't train on your data« i »we don't have your data« to różne obietnice." Metryczka: newsletter branżowy (The Batch), wrzesień 2026, porównanie deklaracji dwóch dostawców — bez audytu i bez weryfikacji technicznej.
+
 ## Powiązane pojęcia
 
 - [[2026-06-15 AI governance|AI governance]] — governance to procesy, role i polityka; ta strona to jego prawny substrat: RODO/AI Act wyznaczają twarde minimum, wokół którego governance buduje praktykę („wyciek danych beneficjentów = incydent RODO").
@@ -110,6 +114,8 @@ Domknięcie mech. 15 (rozmowa z modelem bez tajemnicy zawodowej) o warstwę, kt�
 
 ---
 
+- **Dwa pytania do dostawcy zamiast jednego (mech. 17)**: przy wyborze narzędzia AI do pracy z danymi darczyńców lub beneficjentów pytaj osobno o **trening na danych** i osobno o **retencję** (ile dni, co z treściami oznaczonymi, czy istnieje tryb zerowej retencji i na jakim planie). **Działa w skali 2–5 osób**: to dwa akapity z polityki dostawcy skopiowane do jednej tabelki narzędzi, z datą sprawdzenia — dziesięć minut na narzędzie, przegląd raz na pół roku, bo warunki zmieniają się w trakcie. Tryb zerowej retencji **bywa dostępny dopiero od progu** planu biznesowego/enterprise; jeśli organizacja na niego nie wchodzi, **substytutem** jest niewprowadzanie danych identyfikujących do narzędzia (pseudonimizacja przed wklejeniem), a nie obietnica dostawcy.
+
 ## Otwarte pytania
 
 - Gdzie dokładnie przebiega próg obowiązkowej DPIA przy typowych zastosowaniach AI małej organizacji (transkrypcje spotkań, segmentacja bazy w CRM, chatbot informacyjny) — czy istnieje praktyczna lista kontrolna dla sektora?
@@ -118,3 +124,4 @@ Domknięcie mech. 15 (rozmowa z modelem bez tajemnicy zawodowej) o warstwę, kt�
 - Czy przesunięcie terminów compliance dla systemów wysokiego ryzyka (EU AI Act Digital Omnibus, XII 2027) to ulga dająca czas na przygotowanie, czy uśpienie czujności sektora?
 - Jak audytować zgodność łańcucha narzędzi no-code (Make.com, Zapier + LLM), gdzie dane osobowe przepływają przez kilku procesorów naraz — kto jest czyim podmiotem przetwarzającym?
 - Czy edytowalne pliki pamięci modelu (Claude) i syntezy w tle („dreaming” w ChatGPT) mieszczą się w DPA głównych dostawców — i czy usunięcie wpisu w interfejsie jest realizacją prawa do usunięcia z art. 17, czy tylko ukryciem go przed użytkownikiem?
+- Czy deklaracja „zero data retention" któregokolwiek dostawcy została kiedykolwiek potwierdzona **niezależnym audytem** — i czy istnieje dokument, który polska organizacja może załączyć do rejestru czynności przetwarzania jako dowód, a nie jako zapewnienie marketingowe (mech. 17)?

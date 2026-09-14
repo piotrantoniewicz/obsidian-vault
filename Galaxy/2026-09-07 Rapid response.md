@@ -5,7 +5,7 @@ tags:
   - digital-campaigning
   - organizacje-społeczne
 created: 2026-09-07
-updated: 2026-09-07
+updated: 2026-09-14
 relevance: wysoka
 sources:
   - "[[2023-05-01 Doctors Without Borders (Médecins Sans Frontières)]]"
@@ -17,6 +17,7 @@ sources:
   - "[[2026-04-09 Your content calendar vs. the news cycle]]"
   - "[[2026-05-05 Leading in the Era of the Permacrisis]]"
   - "[[2026-08-18 How MSF-USA raised $11M+ by fixing its approval chain]]"
+  - "[[2026-08-25 Why fundraising's record first half doesn't feel like one]]"
 ---
 
 # Rapid response (szybka reakcja)
@@ -65,6 +66,9 @@ Dwa mechanizmy po stronie zarządczej. **Decentralizacja**: w erze permanentnego
 **12. Zaufanie zamiast pilności: narrowcasting jako granica całej metody**
 Diagnoza „crisis fatigue": kolejne fale pilnych apeli męczą i darczyńców, i fundraiserów, a kiedy każda organizacja krzyczy „URGENT", wszystkie zamieniają się w szum. Proponowana odpowiedź to nie głośniejszy krzyk, tylko **narrowcasting** — zamiast masowej wysyłki do całej bazy, praca z trzema grupami: lojalni darczyńcy, lojalni wolontariusze i osoby zainteresowane misją pomijane w standardowych profilach prospektów. Dwa dopełnienia: **pierwszy kontakt to podziękowanie i raport z impaktu, nie prośba**, oraz **program cykliczny jako antidotum** — pozycjonowany nie jako wygoda organizacji, lecz jako spokojna, proaktywna forma dawania, która zamienia reaktywną decyzję emocjonalną w wyrażenie wartości ([[2026-02-12 Burning Questions Fundraising When Everyone is Exhausted|Lisa Z Greer]]).
 
+**13. Wybory jako problem uwagi, nie portfela — kalendarz drożejącego dotarcia ([[2026-08-25 Why fundraising's record first half doesn't feel like one|Lori Collins]] / [[RKD Group]])**
+Uzupełnienie mechanizmu o kalendarzu zakotwiczonym: obok zdarzeń, na które się reaguje, istnieją zdarzenia **przewidywalne co do daty, które podnoszą koszt każdego dotarcia**. Case: amerykańskie wybory śródokresowe **3 listopada**. Dwie mierzalne konsekwencje — **stawki reklam cyfrowych rosną w październiku**, a **nawet 18% darczyńców w stanach swing przestaje otwierać maile** przy szczycie natężenia politycznego. Autorka nazywa to wprost problemem uwagi, nie portfela: darowizny nie znikają, znika przepustowość skrzynki i taniość zasięgu. Reguła operacyjna: **rozgrzewaj listę wcześniej i nie umieszczaj kluczowych wysyłek w oknie przy dniu wyborów** — przesunięcie o dwa tygodnie w tył kosztuje mniej niż walka o uwagę w szczycie. Przenośność na polski kontekst jest wysoka co do mechanizmu (wybory, szczyty medialne, święta) i żadna co do liczb: 18% zmierzono w stanach swing w USA. Metryczka: RKD Group, 2026, USA, bez podanego n.
+
 ## Sprzeczności
 
 - **Tempo kontra świadoma pauza** [mech. 3 vs 10] — A: szybkość jest przewagą, mail ma wyjść w godziny, bo okno uwagi zamyka się w dniach ([[2026-01-20 What the fastest-moving orgs do BEFORE the crisis hits|Cederberg]], styczeń 2026, bez podanego n, USA; wsparte przez [[2026-08-18 How MSF-USA raised $11M+ by fixing its approval chain|MSF-USA]], 2023, jeden case, USA). B: prawdziwa responsywność to czasem **niewysłanie** — fundraising na cudzej tragedii niszczy zaufanie, a domyślnym ruchem w trudnym newsie jest pauza i treść pomocna zamiast apelu ([[2026-01-27 A 72-hour gut check for hard news cycles|Cederberg]], styczeń 2026, bez podanego n, USA). Obie tezy pochodzą od **tej samej autorki, w odstępie tygodnia**. Prawdopodobne rozdzielenie kontekstem (zdarzenie, w którym organizacja realnie działa, vs cudza tragedia w cyklu newsowym) nasuwa się samo, ale **żadne z dwóch źródeł go nie stawia** — nie ma progu ani testu rozstrzygającego, którym trybem iść. *Status: otwarte.*
@@ -97,6 +101,8 @@ Diagnoza „crisis fatigue": kolejne fale pilnych apeli męczą i darczyńców, 
 8. **Próba generalna z pomiarem czasu — działa od progu decyzyjnego, nie od wielkości.** Sensowna, gdy w łańcuchu jest **więcej niż dwie osoby akceptujące** albo gdy część zespołu pracuje zdalnie. Przy dwóch osobach symulacja niczego nie ujawni; zastępuje ją ustalenie jednego zdania: kto publikuje, gdy druga osoba nie odbiera telefonu.
 9. **Skrócenie ścieżki decyzyjnej jako element strategii, nie jako reakcja — działa w tej skali, ale kosztuje zaufanie, nie pieniądze.** „What If Briefing" (30 minut o jednym ryzyku i dwóch pivotach — mech. 11) w zespole 2–5 osób prowadzi się przy stole. Ograniczeniem nie jest procedura, tylko gotowość osoby kierującej do oddania decyzji taktycznej, gdy sama jest niedostępna; źródła są zgodne, że bez tego żaden playbook nie działa.
 10. **Odejście od masowego apelu na rzecz narrowcastingu — źródła nie mówią, jak to skaluje się w dół.** Rekomendacja z mech. 12 powstała w kontekście filantropii dużych darczyńców w USA. Przy bazie kilkuset kontaktów „cała baza" i „lojalni darczyńcy" to w praktyce ten sam zbiór, więc rozróżnienie może być bezprzedmiotowe — a jedyny wniosek, który przenosi się bez zastrzeżeń, to kolejność: pierwszy kontakt po zdarzeniu jest podziękowaniem, nie prośbą.
+
+- **Kalendarz drożejącej uwagi ustalony na rok z góry (mech. 13)**: wypisz daty, w których uwaga twojej publiczności będzie zajęta czymś innym (wybory, duże wydarzenia medialne, szczyty świąteczne) i cofnij kluczowe wysyłki o dwa–trzy tygodnie przed każdą z nich. **Działa w skali 2–5 osób** — to jedna kolumna w kalendarzu redakcyjnym i decyzja podejmowana raz na rok, bez narzędzi i bez budżetu. Nie przenoś progu 18% na polskie warunki: liczba pochodzi ze stanów swing w USA i służy jako argument za przesunięciem terminu, nie jako prognoza spadku otwieralności.
 
 ## Otwarte pytania
 - Gdzie leży granica między „reaguj w godziny" a „zrób pauzę"? Żadne źródło nie podaje testu; hipoteza robocza (czy organizacja realnie działa w tej sprawie, czy tylko komentuje cudze zdarzenie) jest niepotwierdzona — patrz „Sprzeczności".

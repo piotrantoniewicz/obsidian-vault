@@ -5,7 +5,7 @@ tags:
   - ghostwriting
   - organizacje-społeczne
 created: 2026-08-17
-updated: 2026-09-13
+updated: 2026-09-14
 relevance: wysoka
 sources:
   - "[[2024-06-26 Marka osobista w NGO jak zacząć budowanie wizerunku społecznika społeczniczki]]"
@@ -28,6 +28,7 @@ sources:
   - "[[2026-08-23 My LinkedIn profile was (accidentally) doing real damage. Here’s how I fixed it step by step.]]"
   - "[[2026-09-06 The 5-step system busy CEOs use to grow on LinkedIn without a team]]"
   - "[[2026-07-22 Does highlighting a professor’s credibility and authority increase course sign-ups-]]"
+  - "[[2026-07-29 The Croydon Story How losing an election taught us how to win]]"
 ---
 
 # Marka osobista
@@ -97,6 +98,9 @@ Trzeci materiał tego autora na tej stronie (obok mech. 14 i 15–16), tym razem
 
 **18. Ile realnie warto jest wyeksponowany autorytet — +16,2% konwersji na stronie zapisu ([[NextAfter]])**
 Pierwsza na tej stronie liczba z kontrolowanego testu na tezę, która przewija się przez mech. 7, 16 i 17 jako założenie: że dorobek i wiarygodność osoby są aktywem konwersyjnym, nie ozdobą profilu. Test A/B landing page'a kursu online: wariant opisujący **program** wobec wariantu eksponującego **doświadczenie, dorobek i autorytet prowadzącego** — konwersja **28,1% → 32,6%, +16,2% względnie, 95% poziom ufności, n=1578** (wymagane minimum próby: 790). Wniosek operacyjny dla lidera budującego markę: na stronie zapisu na webinar, kurs czy konsultację **biografia i dowód dorobku pracują mocniej niż rozbudowany opis programu** — i jest to najtańsza zmiana do przetestowania, bo nie wymaga nowej treści, tylko przestawienia kolejności tego, co już jest. Zastrzeżenie zakresu: jeden test, kurs o tematyce religijnej, prowadzący rozpoznawalny w swojej społeczności — wynik nie przenosi się automatycznie na nadawcę bez ugruntowanej pozycji ani na apel darowiznowy (pełny opis mechanizmu: [[2026-06-14 Framing|Framing]] mech. 44).
+
+**19. Tożsamość bardziej zaufana niż rola — „nie bądź politykiem, bądź sąsiadem" ([[2026-07-29 The Croydon Story How losing an election taught us how to win|Rowenna Davis]])**
+Uzupełnienie mech. 2 (autentyczność > perfekcja) i mech. 4 (przewodnik, nie ekspert) o regułę doboru **tożsamości nadawcy**, gdy rola instytucjonalna sama w sobie budzi nieufność. Kandydatka na burmistrza Croydon budowała wiarygodność nie jako polityczka, lecz jako **matka, nauczycielka i mieszkanka** — czyli przez tożsamości, którym ludzie ufają bardziej niż funkcji, i przegrała o 1% w kampanii prowadzonej bez zaplecza medialnego. Przenośne wprost na liderów organizacji społecznych, którym „dyrektor fundacji" zamyka rozmowę, zanim ta się zacznie. Druga warstwa, spójna z mech. 12 (granice argumentu o kanale): **komunikacja niefiltrowana ponad filtrowaną** — bezpośredni kontakt i własne materiały przed mediami tradycyjnymi, przy świadomym **ignorowaniu ataków online**, żeby nie dokładać im zasięgu. Metryczka: relacja własna z jednej kampanii lokalnej, bez pomiaru.
 
 ## Powiązane pojęcia
 

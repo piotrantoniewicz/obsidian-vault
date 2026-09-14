@@ -5,7 +5,7 @@ tags:
   - organizacje-społeczne
   - digital-campaigning
 created: 2026-06-03
-updated: 2026-09-13
+updated: 2026-09-14
 relevance: wysoka
 sources:
   - "[[2026-04-08 Społeczność Jako Twój Najlepszy Fundraiser Jak Wdrożyć Model Peer-to-Peer]]"
@@ -31,6 +31,7 @@ sources:
   - "[[2026-08-28 Your Best Recurring Offer Isn't an Object]]"
   - "[[2026-09-03 Piotr Twoi przyszli darczyńcy jeszcze Cię nie znają]]"
   - "[[2026-09-08 Do kogo musisz się zwrócić, żeby otrzymać darowizny]]"
+  - "[[2026-08-24 Expanding definitions of generosity Global and U.S. trends in helping others]]"
 ---
 
 # Tożsamość darczyńcy (Donor Identity)
@@ -78,6 +79,9 @@ Operacjonalizacja mechanizmu 1 (przynależność przed przekonaniem) na poziomie
 **12. Relacja jest nośnikiem tożsamości, obiekt nim nie jest — dlaczego „sponsoruj posiłek" nie utrzymuje darczyńcy ([[Dave Raley]], Center for Sustainable Giving)**
 Mechaniczne wyjaśnienie tezy z mech. 9 i 10 („od wybawcy do partnera", „przynależność poprzedza przekonanie") na poziomie **konstrukcji samej oferty**. Darowizna opisana jako zakup **obiektu** (posiłek, łóżko, jednostka pomocy) nie daje darczyńcy do czego przynależeć — nie ma po drugiej stronie nikogo, wobec kogo rezygnacja byłaby zerwaniem. Darowizna opisana jako udział w historii **konkretnej osoby, zwierzęcia lub miejsca** tworzy relację, a **rezygnacja z relacji kosztuje emocjonalnie i dlatego nie następuje**. Dowód: przepisanie oferty programu miesięcznego Union Rescue Mission z „Meal-A-Day" na historię konkretnej matki i syna podniosło **fulfillment o ponad 25%**. Wniosek dla tej strony jest ostrzejszy niż „opowiadaj historie": język oferty **decyduje, czy w ogóle powstaje tożsamość do utrzymania** — a najczęstsza przyczyna jego zepsucia jest nie strategiczna, tylko odruchowa („nawyk językowy", nie brak strategii). Rozwinięcie na stronie [[2026-06-12 Recurring giving|Recurring giving]], mech. 15. Źródło: [[2026-08-28 Your Best Recurring Offer Isn't an Object]].
 
+**14. Hojność jest szersza niż darowizna — i organizacja konkuruje z pomocą „z ręki do ręki" ([[2026-08-24 Expanding definitions of generosity Global and U.S. trends in helping others|GivingTuesday, State of Generosity 2025]])**
+Rozszerzenie definicji, na której stoi cała ta strona: jeśli dawanie jest aktem wyrazu tożsamości, to **rola darczyńcy realizuje się w wielu walutach naraz, a pieniądz dla organizacji jest tylko jedną z nich**. Raport (dane za 2025, siedem krajów + World Giving Index + Global Flourishing Study) podaje trzy kotwice. **(a) Skala nieinstytucjonalna:** globalna hojność indywidualna — przekazy, darowizny, spadki, dary kongregacyjne, DAF — to ok. **1,6 bln USD**, wobec **328 mld USD** pomocy instytucjonalnej; same **remittances** (przekazy od pracowników za granicą) to **690 mld USD**, ponad dwa razy więcej niż pomoc rządowa i filantropia USA razem, i ok. **75% z nich trafia bezpośrednio na potrzeby rodzin**. Strumień, którego statystyki filantropii zwykle nie widzą, jest większy od tego, który widzą. **(b) Wielokanałowość roli:** w USA **58%** przekazało pieniądze, **68,6%** rzeczy, **49,7%** czas — wolontariat **+9 pkt proc. rok do roku**; dawanie rzeczy jest częstsze niż dawanie pieniędzy. **(c) Konkurencja o rolę, nie o portfel:** młodsi dorośli (**35–49 lat**) przesuwają się w stronę bezpośredniej, personalnej pomocy kosztem darowizn instytucjonalnych — organizacja rywalizuje więc nie z inną organizacją, tylko z **pomocą sąsiedzką, w której darczyńca widzi skutek natychmiast**. To ostrzejsza wersja mechanizmu proxy trust: pośrednik musi udowodnić, po co w ogóle jest. Raport dokłada też sygnał sprzeczny z dominującą narracją — **depolaryzacja +3,8%** (rosnąca gotowość pomagania osobom o innych poglądach), co czyni z tożsamości „pomagającego sąsiada" ramę szerszą niż podział polityczny. Metryczka: GivingTuesday / Candid, dane 2025, siedem krajów + wskaźniki globalne, bez podanego n dla poszczególnych krajów.
+
 ## Różnice pokoleniowe w budowaniu tożsamości darczyńcy
 
 | | **Baby Boomers** | **Millenialsi** | **Gen Z** |
@@ -124,6 +128,8 @@ Krok poprzedzający test „lustra" z mech. 7: zanim sprawdzisz, czy darczyńca 
 - **58,6% stałych darczyńców zaczęło bez prośby organizacji** (Neon One 2026) — to darczyńcy, którzy sami uznali darowizny za część tożsamości. To właśnie powinna pielęgnować organizacja.
 
 ---
+
+- **Ask o rolę, nie o kwotę, gdy darczyńca już pomaga inaczej (mech. 14)**: skoro dawanie rzeczy i czasu jest częstsze niż dawanie pieniędzy, pierwszy kontakt z osobą spoza bazy prowadź od tego, co ona już robi — zbiórka rzeczowa, godzina wolontariatu, podwiezienie kogoś — a wpłatę stawiaj jako kolejny stopień tej samej roli. **Działa w skali 2–5 osób**: to zmiana treści jednego formularza i jednego maila powitalnego (pole „jak chcesz pomóc" z trzema opcjami), bez CRM-u i bez nowego programu. Obsługa wolontariatu na większą skalę **ma sens dopiero od progu**, na którym ktoś odpowiada za koordynację — inaczej organizacja obiecuje rolę, której nie umie obsłużyć.
 
 ## Otwarte pytania
 

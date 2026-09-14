@@ -5,7 +5,7 @@ tags:
   - organizacje-społeczne
   - strategia-organizacji
 created: 2026-06-15
-updated: 2026-09-13
+updated: 2026-09-14
 relevance: wysoka
 sources:
   - "[[2024-08-12 AI Governance Framework for Nonprofits]]"
@@ -49,6 +49,7 @@ sources:
   - "[[2026-08-18 How can the public sector meet the AI moment-]]"
   - "[[2026-09-04 How Political Campaigns Are Actually Using AI to Write]]"
   - "[[2026-06-04 AI in Grant Writing What It Can Do, What It Can't, and When It Gets Dangerous]]"
+  - "[[2026-07-21 AI policies for small charities]]"
 
 ---
 
@@ -180,6 +181,9 @@ Twarda empiryczna potwierdzenie mech. 4 i 17 z sektora publicznego: agencje, kt�
 **34. Wniosek grantowy to obietnica rozliczana później — trzy kontrole przed wysłaniem tekstu pisanego z AI ([[2026-06-04 AI in Grant Writing What It Can Do, What It Can't, and When It Gets Dangerous|Wendy Clow]])**
 Konkretyzacja mech. 33 (kategorie treści zawsze wymagające człowieka) w miejscu, w którym organizacje społeczne używają AI najchętniej. Diagnoza: model dobrze streszcza RFP, porządkuje myśli i daje szybki pierwszy szkic, ale jego **pewna siebie, dopracowana proza sama dokłada deklaracje skali i wpływu** — organizacja „wygląda na większą, niż jest”. Różnica wobec innych treści jest tu ustrojowa, nie stylistyczna: **grant nie jest tekstem marketingowym, tylko zobowiązaniem sprawozdawczym**, więc koszt przesady nie ujawnia się przy wysyłce, lecz przy rozliczeniu za rok. Stąd trzy kontrole, które musi przejść **każda** deklaracja: **(1)** czy jesteśmy w stanie zrealizować każdą wymienioną liczbę i każdy rezultat (jeśli nie — usuń); **(2)** czy odpowiedź trafia w pytania fundatora **jego językiem**, a nie ogólnym żargonem sektora; **(3)** czy będę się czuł komfortowo, raportując tę obietnicę za rok. Drugie ryzyko jest rynkowe: **fundatorzy rozpoznają generyczną aplikację**, która nie odpowiada precyzyjnie na zadane pytania, więc pozorna oszczędność czasu bywa kosztem utraconego grantu. Zasada nadrzędna autorki: *„AI to potężny asystent w pisaniu grantów. To nie jest grantwriter”*. Metryczka: tekst ekspercki na LinkedIn, bez danych i bez próby; wartość leży w procedurze, nie w dowodzie.
 
+**35. Polityka AI jako żywy dokument — gotowy kreator zamiast pisania od zera i osiem zasad utrzymania ([[2026-07-21 AI policies for small charities|forum ECF]] / [[Torchbox]])**
+Operacjonalizacja mech. 2 („lekka polityka bije obszerny regulamin") i mech. 31 (polityka jako wskaźnik uwagi zarządu) dla najmniejszych organizacji. Punkt startowy: **[[AI Policy Builder]]** (Torchbox, bezpłatny) generuje szkic polityki na podstawie kilku pytań o ryzyka i wartości organizacji, korzystając z polityk innych organizacji charytatywnych jako bazy — z wyraźnym zastrzeżeniem samego dostawcy, że **wynik to punkt wyjścia do pracy zespołu, nie gotowy dokument**. Istotniejsze od narzędzia jest osiem zasad utrzymania polityki przy życiu: traktować ją jako pierwszy szkic; przypisać **imiennie odpowiedzialność**; ustalić cykl przeglądu (pół roku albo rytm posiedzeń zarządu); włączyć osoby, które używają narzędzi na co dzień; **opisywać konkretne narzędzia i przypadki użycia zamiast ogólników**; podpiąć politykę pod istniejące zasady bezpieczeństwa danych i poufności; wbudować ścieżkę zgłaszania nowych narzędzi; utrzymać człowieka w pętli przy danych beneficjentów i treściach publicznych. Zdanie warte cytowania w doradztwie: *„Treat it as a first draft, not a finished policy… not sit untouched in a folder."* Sektor nie ma jednego standardu — organizacje wymieniają się konkretnymi przykładami (Torchbox, Outside Studio, Watershed), co samo w sobie jest diagnozą wczesnego etapu dojrzałości (mech. 14). Wątek niesie też warstwę, której ta strona dotąd nie miała: **spór o dostawcę i koszt środowiskowy** jako element governance, nie tylko etyki prywatnej — od pragmatycznego wdrażania po głęboki sceptycyzm (zużycie wody i energii przez centra danych, sporne pochodzenie danych treningowych, kontrakty wojskowe dostawców, Mistral przywoływany jako „mniej nieetyczna" alternatywa). Metryczka: wątek forum brytyjskich organizacji kampanijnych, kilku uczestników, bez danych; przywołany w nim szacunek śladu emisyjnego treningu jednego dużego modelu (≈300 lotów Nowy Jork–San Francisco w obie strony) pochodzi z dyskusji z 2025 roku i **nie ma w wątku źródła** — nie nadaje się do cytowania bez weryfikacji.
+
 ## Powiązane pojęcia
 
 - [[2026-06-13 Wdrażanie AI w organizacji społecznej|Wdrażanie AI w organizacji społecznej]] — AI governance to filar **etyki** tego wdrożenia: „AI odsłania istniejące słabości", a governance jest mechanizmem, który nie pozwala słabościom (bałagan w danych, brak zasad) skalować się razem z narzędziem. Czerwony link stąd zrealizowany.
@@ -208,6 +212,8 @@ Konkretyzacja mech. 33 (kategorie treści zawsze wymagające człowieka) w miejs
 - **Trzy pytania kontrolne jako ostatni krok każdego wniosku pisanego z AI (mech. 34)**: **działa w skali 2–5 osób** — kwadrans przed wysłaniem, bez narzędzi: przejrzyj wniosek zdanie po zdaniu i skreśl każdą liczbę i każdy rezultat, którego nie chcesz raportować za rok. W organizacji tej wielkości to zwykle **jedyna** bramka między szkicem a wysłaniem, więc ma sens wpisać ją do polityki AI jako kategorię treści wymagającą weryfikacji, a nie zostawić dobrej woli autora.
 
 ---
+
+- **Polityka AI dla organizacji 2–5 osób (mech. 35)**: **działa w tej skali** — szkic z [[AI Policy Builder]] plus dwie godziny warsztatu zespołu daje dwustronicowy dokument; warunkiem, żeby nie zamarł, jest **imienny właściciel i wpisany do kalendarza przegląd co pół roku**, a nie objętość dokumentu. Czego na tej skali nie rekomendować: audytu dostawcy i pełnej DPIA przy każdym narzędziu — to wchodzi dopiero, gdy do modelu trafiają dane beneficjentów (wtedy obowiązuje ścieżka z [[2026-07-06 RODO i dane wrażliwe|RODO i danych wrażliwych]]).
 
 ## Otwarte pytania
 

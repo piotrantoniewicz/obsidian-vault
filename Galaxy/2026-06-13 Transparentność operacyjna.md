@@ -5,7 +5,7 @@ tags:
   - organizacje-społeczne
   - strategia-organizacji
 created: 2026-06-13
-updated: 2026-09-13
+updated: 2026-09-14
 relevance: wysoka
 sources:
   - "[[2026-05-27 Transparentność boli. Dlaczego większość liderów woli kłamać?]]"
@@ -37,6 +37,7 @@ sources:
   - "[[2026-09-02 Your Strategic Plan Is a Donor Stewardship Tool]]"
   - "[[2026-05-05 Stop Paying $25K for Strategic Plans That Never Get Used]]"
   - "[[2026-05-11 Annual Fund + Strategic Plan Fundraise With Confidence in Uncertain Times]]"
+  - "[[2026-09-10 Jacek Olejarz - fundusze z potrąceń sądowych za kary ograniczenia wolności]]"
 ---
 
 # Transparentność operacyjna (operational transparency)
@@ -137,6 +138,9 @@ Mech. 25 traktuje plan strategiczny jako niewykorzystany dowód stewardshipu (pr
 **27. Trzy scenariusze zamiast jednej prognozy — i wzrost przychodu przy kurczącej się bazie jako sygnał ostrzegawczy ([[Rob Burke]] / [[DonorDock]])**
 Narzędzie do mówienia o niepewności finansowania bez wywoływania paniki, komplementarne wobec mech. 3 i 18 (rezerwa operacyjna) oraz progów koncentracji z mech. 14, 15 i 24. Zamiast jednej prognozy — **trzy scenariusze planowane z góry**: **bazowy** (standardowy miks kanałów), **wzrostowy** (skalowanie tego, co już działa, bez wymyślania nowych programów) i **kryzysowy** (ochrona retencji: re-forecast wg segmentu, tańsza oferta cykliczna, więcej kontaktów stewardshipowych, wstrzymanie taktyk bez wpływu na kluczowe metryki). Wartość dla przejrzystości jest podwójna: zespół reaguje szybko **bez porzucania kierunku**, a darczyńca nie dostaje co kwartał innej opowieści o kondycji organizacji. Drugi wniosek to sygnał ostrzegawczy do czytania własnych liczb, ukryty pod dobrą wiadomością: **darowizny w USA rosną (592,5 mld USD w 2024, +6,3%), ale liczba darczyńców i retencja spadają** — organizacja, której przychód rośnie dzięki kilku dużym darom przy kurczącej się bazie, jest **bardziej**, nie mniej narażona na wstrząs, choć jej sprawozdanie wygląda najlepiej w historii. To ta sama asymetria, którą mech. 20 opisuje jako granicę dywersyfikacji. Trzecia teza dotyczy spójności przekazu: rozdzielenie strategii i fundraisingu rocznego rozjeżdża komunikaty marketingu, fundraisingu i programów, a **darczyńcy wyczuwają to jako brak spójności** (zob. [[2026-06-13 Major gifts|Major gifts]] mech. 16). Kontekst danych: rynek amerykański, dane sektorowe Giving USA i FEP.
 
+**28. Potrącenia z kary ograniczenia wolności — źródło przychodu, o które nikt nie konkuruje ([[Jacek Olejarz]])**
+Konkretny, polski przykład dywersyfikacji z mech. 14 i 24 — i jedyny w tej stronie kanał, w którym **decyduje pojedynczy urzędnik, a nie konkurs**. Orzekając karę ograniczenia wolności wobec osoby mającej etat, sąd rejonowy może zamiast prac społecznych orzec **potrącenie 10–25% wynagrodzenia miesięcznie „na cel społeczny"**, przez cały okres kary (od kilku miesięcy do roku). Beneficjenta wskazuje **sąd**, a przepisy nie precyzują kryteriów wyboru — więc sędziowie domyślnie wpisują duże, rozpoznawalne fundacje, **nie z preferencji, tylko z braku zgłoszonej alternatywy**. Narzędzie jest jednostronicowe: **list do sądu rejonowego właściwego dla siedziby organizacji** — kim jesteśmy, co konkretnie robimy dla tej społeczności, numer [[KRS]], numer konta, prośba o uwzględnienie przy najbliższym orzeczeniu. Asymetria, która czyni z tego mechanizm dla małych: kilka tysięcy złotych jest niezauważalne w księgowości fundacji o budżecie liczonym w dziesiątkach milionów, a dla świetlicy, hospicjum czy klubu sportowego **to równowartość rocznego czynszu za salę**. Pojęciowo bliżej temu do direct fundraisingu niż do wnioskowania o dotacje: **skuteczność zależy od dotarcia do decydenta, nie od jakości wniosku**, a kanał nie niesie sprawozdawczości ani kosztu pozyskania typowego dla innych źródeł — co czyni go podręcznikowym ruchem obniżającym koncentrację przychodów z mech. 14. Metryczka: pojedynczy post praktyka na LinkedIn, Polska, **bez danych o skuteczności, liczbie orzeczeń ani odsetku odpowiedzi sądów** — teza o domyślnym wyborze dużych fundacji jest obserwacją autora, nie pomiarem. *(Źródło: [[2026-09-10 Jacek Olejarz - fundusze z potrąceń sądowych za kary ograniczenia wolności]])*
+
 ## Powiązane pojęcia
 
 - [[2026-06-03 Tożsamość darczyńcy|Tożsamość darczyńcy]] — transparentność potwierdza sprawczość darczyńcy w jego własnej narracji; niejasność tę narrację rozbija
@@ -158,6 +162,8 @@ Narzędzie do mówienia o niepewności finansowania bez wywoływania paniki, kom
 - **De-influencing w praktyce contentowej:** surowe materiały ze smartfona, relacje z zaplecza, przyznawanie się do trudności jako świadoma strategia komunikacji — szczególnie skuteczna wobec młodszych darczyńców i w modelu P2P.
 - **Bez planu formalnego — działa od zera:** spisać 3–4 realne decyzje podjęte w ostatnim roku (co wybrano, z czego świadomie zrezygnowano, po czym poznać skutek) i zamienić je na 2–3 zdania talking points dla zespołu fundraisingowego — nakład rzędu jednego popołudnia, bez konsultanta i bez procesu planowania strategicznego (mech. 25).
 - **AI a wiarygodność — ostrzeżenie metodyczne:** skoro siłą transparentności jest dowód "prawdziwego człowieka", automatyzacja komunikacji powinna *zwalniać* czas na autentyczny kontakt (model "automate the tired, humanize the inspired"), a nie zastępować go gładkim, generowanym przekazem. Stąd jawność wobec darczyńców co do roli AI jest częścią [[2026-06-13 Wdrażanie AI w organizacji społecznej|wdrażania AI]] — 92% darczyńców uważa ją za warunek konieczny.
+
+- **List do sądu rejonowego jako ruch dywersyfikacyjny (mech. 28)**: dla lokalnej organizacji z powiatowego miasta — jednostronicowe pismo z opisem działalności, KRS-em i numerem konta, wysłane do sądu właściwego dla siedziby. **Działa w skali 2–5 osób**: to jeden list i jedna wysyłka pocztowa, bez sprawozdawczości i bez kosztu pozyskania; sensownie powtarzać raz w roku, bo skład orzekający się zmienia. Zastrzeżenie do rozmowy z klientem: **żadne źródło nie podaje, jaki odsetek takich pism kończy się orzeczeniem**, więc planuj to jako opcję o niskim koszcie i nieznanym prawdopodobieństwie, nie jako pozycję w budżecie.
 
 ---
 

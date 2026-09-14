@@ -5,7 +5,7 @@ tags:
   - strategia-AI
   - strategia-organizacji
 created: 2026-07-06
-updated: 2026-09-13
+updated: 2026-09-14
 relevance: wysoka
 sources:
   - "[[2026-06-24 How a Former NYU Professor Uses Claude Code]]"
@@ -32,6 +32,7 @@ sources:
   - "[[2026-08-31 🎙️ How I AI How this PM uses Claude to handle 70% to 80% of his workday]]"
   - "[[2026-09-08 AI has deep memory now - how to use it]]"
   - "[[2026-09-08 Jak AI wspiera sprzedaż (2-2)]]"
+  - "[[2026-09-10 Jacek Siadkowski - kolejność wdrażania AI w organizacjach społecznych]]"
 ---
 
 # Context layer organizacji (organizacyjna warstwa kontekstu)
@@ -109,6 +110,9 @@ Mechanizmy 1–19 opisują warstwę **budowaną świadomie**; ta pozycja dotyczy
 **21. Warstwa zasilana transkryptem rozmowy — najtańsze dostępne źródło wiedzy, której organizacja i tak nie zapisuje ([[2026-09-08 Jak AI wspiera sprzedaż (2-2)|wPraktyce]])**
 Konkretny, opisany od strony operacyjnej wariant mech. 19 (warstwa jako proces ciągły), w którym **zasileniem warstwy jest sam przebieg pracy**, a nie osobna sesja porządkowania. Pętla po każdej rozmowie handlowej: nagranie (Fireflies dla wideo, dyktafon Plaud dla spotkań na żywo) → transkrypt do [[Claude Code]] → automatyczne podsumowanie do CRM (tu: Asana) → zadania z przypisaniem i terminem → draft follow-upu do akceptacji człowieka. Dwie konsekwencje ważniejsze od samej automatyzacji notatek: **(a) baza obiekcji rośnie sama** — model wyciąga z transkryptu nietypowe zastrzeżenia klientów i tego samego dnia dopisuje je do wspólnej bazy razem z odpowiedzią, a gdy odpowiedzi zabrakło, flaguje lukę; po **20–50–100 rozmowach** powstaje playbook z realnych rozmów zamiast szablonu od konsultanta (to samo rozróżnienie, co w mech. 7: archiwum rozwiązań ≠ archiwum zdarzeń); **(b) przekazanie relacji przestaje być utratą wiedzy** — przy zmianie osoby prowadzącej system składa historię kontaktu, briefing przed rozmową i draft maila w głosie osoby przejmującej (autor podaje ok. **2 „maszyno-godziny”**, w większości bezobsługowo). Metryczka źródła: materiał kończący się zaproszeniem na bezpłatną konsultację, jeden zespół, bez podanej próby — opis workflow jest przenośny, liczby nie są benchmarkiem.
 
+**22. Warstwa kontekstu ma swoje miejsce w kolejności — trzeci etap adopcji, nie pierwszy ruch ([[Jacek Siadkowski]] / [[Tech To The Rescue]])**
+Odpowiedź na pytanie, którego ta strona nie stawiała: **kiedy** organizacja jest gotowa budować warstwę. W pięcioetapowej drabinie adopcji (zob. [[2026-06-13 Wdrażanie AI w organizacji społecznej|Wdrażanie AI]] mech. 59) „kontekst organizacyjny dla całej organizacji" — polityki plus odpowiednik **second brain**: uporządkowana dokumentacja, połączone narzędzia, wspólne prompty i skille — jest **etapem trzecim**, poprzedzonym chaotycznym eksperymentowaniem zespołu (etap 1) i skoordynowanym wdrożeniem wewnętrznym z nazwaną osobą odpowiedzialną (etap 2). Konsekwencja praktyczna, zbieżna z mech. 5 (master context folder) i mech. 19 (warstwa jako proces, nie setup): **warstwa zbudowana przed etapem 1–2 nie ma czego utrwalać** — brakuje jej zarówno materiału z realnego użycia, jak i właściciela, który utrzyma ją między kampaniami. Ta sama drabina wyznacza też, po co się ją buduje: dopiero warstwa pozwala bezpiecznie wyjść z AI **na zewnątrz, do beneficjentów** (etap 4), więc jest warunkiem wyjścia, a nie jego alternatywą. Metryczka: post praktyka na LinkedIn, obserwacja setek organizacji bez podanego n i metodologii, Polska/Europa Środkowa. *(Źródło: [[2026-09-10 Jacek Siadkowski - kolejność wdrażania AI w organizacjach społecznych]])*
+
 ## Powiązane pojęcia
 
 - [[2026-06-15 Context engineering|Context engineering]] — strona macierzysta: warstwa kontekstu wydzieliła się z tamtejszego mechanizmu 8; context engineering zarządza oknem (mikro), ta strona — trwałą bazą, z której okno czerpie (makro).
@@ -136,6 +140,8 @@ Konkretny, opisany od strony operacyjnej wariant mech. 19 (warstwa jako proces c
 - **Pętla „rozmowa → transkrypt → notatka → zadania” dla spotkań z darczyńcami i partnerami (mech. 21)**: **działa od progu** — sensowna dopiero wtedy, gdy w organizacji jest miejsce, do którego notatka trafia (CRM, baza kontaktów, wspólny folder) i osoba, która odpowiada za jego porządek; przy dwóch osobach i kontaktach w prywatnych skrzynkach pętla produkuje podsumowania, których nikt nie czyta. Tańszym substytutem na tę skalę jest sama warstwa (a): jeden plik z obiekcjami i odpowiedziami, uzupełniany po rozmowie, bez nagrywania i bez integracji — zgoda na nagrywanie i podstawa prawna to zresztą osobna decyzja (por. [[2026-07-06 RODO i dane wrażliwe|RODO i dane wrażliwe]]).
 
 ---
+
+- **Kiedy zacząć budować warstwę u klienta (mech. 22)**: jeśli organizacja nie ma za sobą etapu swobodnego eksperymentowania ani osoby odpowiedzialnej za adopcję, budowa „second brainu" będzie pracą dla konsultanta, nie dla niej. **Działa w skali 2–5 osób** dopiero **od progu jednej nazwanej osoby** z blokiem czasu na utrzymanie warstwy (rzędu godziny tygodniowo); poniżej tego progu **substytutem** jest jeden plik master context na dysku, aktualizowany przy okazji każdej większej kampanii, zamiast systemu połączonych narzędzi i skilli.
 
 ## Otwarte pytania
 

@@ -38,6 +38,7 @@ sources:
   - "[[2026-08-11 Pod Warszawą budują centrum danych. Mieszkańcy już dziś są braki wody]]"
   - "[[2026-08-28 The AI Backlash Gets Professional]]"
   - "[[2026-09-04 Comparing OpenAI and Anthropic's Data Retention Policies]]"
+  - "[[2026-09-09 Taniej, ale z haczykiem – nowa strategia Mety]]"
 ---
 
 # Suwerenność technologiczna (Technological Sovereignty)
@@ -115,6 +116,9 @@ Domknięcie mech. 18 i 20 (woda, centra danych, protesty lokalne) od strony **po
 **21. Suwerenność mierzona dostępem dostawcy do danych, nie miejscem serwera ([[2026-09-04 Comparing OpenAI and Anthropic's Data Retention Policies|The Batch]] / DeepLearning.AI)**
 Uzupełnienie tej strony o kryterium, które w debacie o suwerenności zwykle przegrywa z pytaniem „gdzie stoi serwer". Dwaj najwięksi dostawcy modeli ogłaszają we wrześniu 2026 rozbieżne polityki retencji (łagodzenie 30-dniowego przechowywania po jednej stronie, **zero data retention** jako standard po drugiej), ale oba zapowiadane mechanizmy bezpieczeństwa wymagają **zdalnego odszyfrowania i przeskanowania danych klienta** — a żaden nie ma niezależnego audytu. Wniosek przenośny na całą stronę: **stopień suwerenności organizacji wyznacza to, czy dostawca ma techniczny dostęp do treści**, a nie jurysdykcja centrum danych ani deklaracja o nietrenowaniu na danych; w przywoływanym **czterostopniowym modelu prywatności AI w chmurze** poziom najwyższy to ten, na którym dostawca dostępu nie ma w ogóle. Drugi wniosek, ostrzejszy: warunki retencji **zmieniają się w obie strony w trakcie trwania relacji**, więc suwerenność oparta na polityce dostawcy jest stanem odnawialnym, nie nabytym — co jest dokładnie tą samą zależnością, którą [[2026-06-25 Owned vs rented audience|owned vs rented]] opisuje dla publiczności. Metryczka: newsletter branżowy, wrzesień 2026, porównanie deklaracji, bez audytu.
 
+**22. Suwerenność z cennikiem — dostęp dostawcy do treści staje się pozycją do wyceny ([[Meta]] / [[Moonwise]])**
+Bezpośrednie domknięcie mech. 21 (suwerenność mierzona **technicznym dostępem dostawcy do treści**, nie lokalizacją serwera) o wymiar, którego tam nie było: ten dostęp **ma już jawną cenę rynkową**. [[Meta]] wycenia zgodę na trenowanie na promptach na **ok. 95 proc. rabatu** na model Muse Spark 1.3 — czyli podmiot, który chce zachować poufność, płaci za nią **kilkunastokrotność** ceny tego samego modelu. To zmienia charakter problemu: suwerenność przestaje być pytaniem o architekturę i staje się **pozycją budżetową**, a organizacje o najmniejszych zasobach są najsilniej popychane w stronę oddania danych — dokładnie odwrotnie niż w dotychczasowym założeniu, że suwerenność to problem dużych instytucji. Metryczka: digest branżowy, wrzesień 2026, oferta jednego dostawcy, **bez n**; czy taka wycena się utrwali, źródło nie rozstrzyga. *(Źródło: [[2026-09-09 Taniej, ale z haczykiem – nowa strategia Mety]])*
+
 ## Frameworki-kotwice
 
 - **4 analogie historyczne (Jemielniak)** — Suez / PGP / Minitel / **Galileo**: buduj infrastrukturę zamiast pisać regulacje do cudzych maszyn.
@@ -156,6 +160,8 @@ Domknięcie wątku „polskiego do obserwacji" z mech. 13 konkretnym konfliktem:
 - **Nisza doradcza**: moment kryzysowy otworzył organizacje na rozmowę o alternatywach — audyt suwerenności może być osobną usługą konsultingową, spinającą wątki AI, danych i fundraisingu (płatności!).
 
 ---
+
+- **Policz, ile kosztuje poufność, zanim ją odrzucisz (mech. 22)**: przy wyborze narzędzia zestaw cenę planu, w którym dane nie służą do trenowania, z realnym miesięcznym zużyciem organizacji — przy kilkuset kontaktach i kilkudziesięciu dokumentach miesięcznie różnica bywa rzędu jednej subskrypcji, nie budżetu projektu. **Działa w skali 2–5 osób** — jedna tabela i godzina; **od progu** intensywnego przetwarzania (setki dokumentów miesięcznie, przetwarzanie wsadowe) rachunek przestaje być trywialny i wtedy trzeba rozdzielić tory pracy ([[2026-07-06 RODO i dane wrażliwe|RODO i dane wrażliwe]], mech. 19).
 
 ## Otwarte pytania
 

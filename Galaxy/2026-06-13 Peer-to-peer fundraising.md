@@ -28,6 +28,7 @@ sources:
   - "[[2025-01-14 How to Launch a Peer-to-Peer Campaign in 8 Steps]]"
   - "[[2025-11-15 Silent Auctions Everything You Need to Know]]"
   - "[[2026-02-02 How to Calculate Event Fundraising ROI]]"
+  - "[[2026-09-09 The Spectator Paradox Reaching the people unmoved by social pressure]]"
 ---
 
 # Peer-to-peer fundraising (fundraising rówieśniczy)
@@ -99,6 +100,9 @@ Uzupełnienie osi doboru formatu (mech. 7, 10, 13) o format, który strona dotą
 **18. ROI wydarzenia liczone z kosztem pracy — benchmark 35% i próg opłacalności formatu ([[Gia Chow]] / [[CauseVox]])**
 Domknięcie zdania z mech. 5 („rentowność trzeba liczyć z kosztem pracy") konkretną procedurą i liczbą progową. Teza wyjściowa: **dobra atmosfera wydarzenia i entuzjastyczne wiadomości od uczestników nie są dowodem sukcesu finansowego** — organizacja potrafi latami powtarzać event, który ledwo się zwraca, bo nikt nie policzył go do końca. Cztery kroki: (1) wszystkie koszty, także pomijane drobne (oznakowanie, wynajem sprzętu, oprogramowanie, promocja); (2) **godziny sztabu i wolontariuszy przeliczone po rozsądnej stawce** i dopisane do kosztów — bez tego ocena jest fałszywie optymistyczna; (3) realistyczny cel = liczba uczestników × realna średnia kwota na osobę; (4) ROI = (zebrane − koszty) ÷ koszty × 100. **Benchmark: wskaźnik kosztów ≤35%** (maks. 35 USD kosztu na każde 100 USD zebrane) jako dobry wynik eventu; przykład źródła — 50 000 USD zebranych przy 35 000 USD kosztów to 42,85% ROI. Liczba, która czyni z tego argument na rzecz całej tej strony: kampania P2P przy koszcie **ok. 3 USD na 100 USD zebrane** daje ROI rzędu **3000%** — czyli różnica między formatami nie jest kwestią gustu, tylko rzędu wielkości. Uwaga o zakresie: benchmark 35% i porównanie 3 USD pochodzą od dostawcy platformy P2P, więc kierunek jest wiarygodny, a sama wartość progu — do traktowania jako kotwica do własnego pomiaru, nie jako norma sektorowa. Nie koliduje z regułą portfelową z mech. 5 (pojedynczy event ≤50% przychodów) — tamta mierzy koncentrację przychodów, ta rentowność formatu.
 
+**19. Warunek graniczny proxy trust — dla ok. 11 proc. odbiorców dowód społeczny otwiera drzwi, ale nie pogłębia ([[GivingTuesday]] / [[Perception Effect]])**
+Ograniczenie zakresu dla mech. 1 i całego mechanizmu proxy trust, na którym stoi ta strona: widoczność cudzej hojności **nie działa jednakowo na wszystkich**. W grupie **Spectatorów (ok. 11 proc.** badanych — widzą hojność wokół siebie, ale sami nie mają dawania w swojej tożsamości) ekspozycja na sygnały dawania obniża prawdopodobieństwo niedawania tak samo jak u innych (**ok. 38 proc.**), ale **poszerzenie liczby sposobów angażowania się wynosi u nich ok. 4 proc. wobec 22–25 proc. w pozostałych grupach**. Znaczenie dla kampanii rówieśniczej: ambasador wprowadza takiego odbiorcę **w pierwszy gest**, ale **nie zamieni go w kolejnego ambasadora** — drabina zaangażowania zatrzymuje się na pierwszym szczeblu, dopóki nie pojawi się osobisty powód związany ze samą sprawą. Praktycznie: nie każdy pozyskany rówieśniczo kontakt jest kandydatem na nano-ambasadora, a odsiew nie wynika z jakości relacji, tylko z tego, czym dawanie jest dla tej osoby ([[2026-06-03 Tożsamość darczyńcy|Tożsamość darczyńcy]], mech. 15). Metryczka: badanie ankietowe [[GivingTuesday]] / Perception Effect, wrzesień 2026, **bez podanego n i kraju w notatce**, deklaracje zamiast rekordów wpłat. *(Źródło: [[2026-09-09 The Spectator Paradox Reaching the people unmoved by social pressure]])*
+
 ## Powiązane pojęcia
 
 - [[2026-06-03 Tożsamość darczyńcy|Tożsamość darczyńcy]] — P2P to mechanizm tożsamościowy, nie kanał dystrybucji: ambasador transferuje własną narrację o sobie wraz z prośbą o wpłatę
@@ -123,6 +127,8 @@ Domknięcie zdania z mech. 5 („rentowność trzeba liczyć z kosztem pracy") k
 - **Mikro-kit zamiast prośby o udostępnienie (mech. 15)**: **działa w skali 2–5 osób** — jedna strona A4 albo jeden folder w chmurze na kampanię: dwa akapity historii, jedno wideo z telefonu, trzy pytania do rozmowy; przygotowanie to pół dnia, a odbiorcą jest kilkanaście osób z zarządu i wolontariatu, nie masowa baza.
 
 ---
+
+- **Nie każdy nowy kontakt jest kandydatem na ambasadora (mech. 19)**: przy rekrutacji nano-ambasadorów filtruj nie po tym, kto wpłacił, a po tym, **kto sam z siebie opowiada o sprawie** (odpisał, zadał pytanie, przyszedł na spotkanie). **Działa w skali 2–5 osób** — to obserwacja i notatka przy kilkudziesięciu osobach, bez narzędzi; **od progu** kilkuset kontaktów potrzebny jest jeden tag w bazie („sam zainicjował kontakt"), bo pamięć przestaje wystarczać.
 
 ## Otwarte pytania
 

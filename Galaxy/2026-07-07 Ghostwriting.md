@@ -5,7 +5,7 @@ tags:
   - content-marketing
   - strategia-organizacji
 created: 2026-07-07
-updated: 2026-09-13
+updated: 2026-09-14
 relevance: wysoka
 sources:
   - "[[2026-03-06 5 lessons from ghostwriting for 300+ clients]]"
@@ -60,6 +60,7 @@ sources:
   - "[[2026-09-05 How Colby Kultgen built his 500k audience]]"
   - "[[2026-09-08 5 (simple) steps to become a LinkedIn Ghostwriter]]"
   - "[[2026-09-08 Wendy Clow - granica między szkicem AI a gotowym tekstem]]"
+  - "[[2026-09-09 Taniej, ale z haczykiem – nowa strategia Mety]]"
 
 ---
 
@@ -231,6 +232,9 @@ Szósty niezależny case audytowy po stronie kuracji (obok mech. 20, 22, 27, 32,
 **47. Mapa „przecieków i kranów” oraz pitch publiczny — dwie taktyki domykające mech. 6 i 9 ([[2026-09-08 5 (simple) steps to become a LinkedIn Ghostwriter|Premium Ghostwriting Academy]])**
 Operacyjne rozwinięcie „ciepło przed zimnem” (mech. 6) i „follow-up domyka sprzedaż” (mech. 9) o dwa konkretne ruchy. **(a) Lista „przecieków i kranów”**: własną sieć kontaktów dzieli się na „przecieki” (osoby, które potrzebują pomocy wprost) i „krany” (osoby, które znają kogoś takiego) — pierwszych zleceń szuka się na tej liście, nie na otwartych platformach typu Upwork, co jest tą samą logiką, która w mech. 2 kotwiczy cenę w dół. **(b) Pitch publiczny zamiast prywatnej wiadomości**: analizę konkretnego potencjalnego klienta publikuje się jako post na własnym profilu — ta sama praca, która w prywatnym DM działa raz, pracuje wtedy na całą branżę odbiorcy i jednocześnie dowodzi warsztatu (spina się z mech. 17 „bądź własnym case study”). Metryczka źródła: materiał sprzedażowy kursu — podane liczby (agencja 3 755 721 USD, 300+ klientów; kursantka 500 USD/mies. → 9 000 USD za zlecenie 6-miesięczne) to autoreferencje bez niezależnej weryfikacji i nie nadają się do cytowania jako benchmark rynkowy.
 
+**49. Platforma zaczyna etykietować i karać ukrywanie AI — oznaczanie przestaje być tylko kwestią prawa ([[Instagram]] / [[Moonwise]])**
+Kalibracja mech. 34 i 36 (ryzyko braku oznaczenia, „human in the loop" jako zwolnienie z oznaczania) od strony, która nie pyta o przepisy: **[[Instagram]] wprowadza obowiązkowe etykiety „AI-generated profile" i obniża zasięgi kontom ukrywającym cyfrową tożsamość**. Znaczenie dla ghostwritingu i pracy z awatarami: dotychczasowa kalkulacja opierała się na ryzyku prawnym i reputacyjnym, więc dało się ją odłożyć; egzekwowanie po stronie platformy zamienia ją w **koszt dystrybucji płacony natychmiast**, niezależnie od tego, czy ktokolwiek zgłosi sprawę. Praktyczna reguła robocza: przy treściach opartych na awatarze albo profilu prowadzonym „w imieniu" kogoś, kto nie istnieje, **oznaczenie taniej zrobić samemu**, niż dać się oznaczyć algorytmowi. Zastrzeżenie: zapowiedź jednej platformy opisana w digeście branżowym (wrzesień 2026), **bez danych o skali kary zasięgowej i bez potwierdzenia, jak rozpoznawane są konta** — to sygnał kierunku, nie zmierzony mechanizm. *(Źródło: [[2026-09-09 Taniej, ale z haczykiem – nowa strategia Mety]])*
+
 ## Powiązane pojęcia
 
 - [[2026-06-14 Framing|Framing]] — etykieta zawodowa to framing tożsamości: rama „premium ghostwriter vs freelance writer" ustawia percepcję ceny, zanim zacznie się rozmowa o stawce.
@@ -256,6 +260,8 @@ Operacyjne rozwinięcie „ciepło przed zimnem” (mech. 6) i „follow-up domy
 - **Lista „przecieków i kranów” jako pierwszy krok akwizycji (mech. 47)**: **działa w skali jednoosobowej i 2–5 osób** — arkusz i jedno popołudnie na przejrzenie kontaktów z LinkedIna i skrzynki, bez narzędzi i budżetu; w polskim sektorze społecznym to zwykle jedyna działająca ścieżka do pierwszego zlecenia, bo rynek otwartych platform freelancerskich nie obsługuje tej niszy.
 
 ---
+
+- **Oznaczaj sam, zanim oznaczy platforma (mech. 49)**: jeśli organizacja prowadzi profil z awatarem albo publikuje wizualia generowane modelem, dopisz oznaczenie w opisie konta i przy materiale. **Działa w skali 2–5 osób** — to jedno zdanie w bio i nawyk przy publikacji, zero kosztu; **substytutem** przy niechęci do oznaczania jest rezygnacja z awatara na rzecz treści pod nazwiskiem realnej osoby, co i tak działa lepiej na zaufanie (mech. 12–13).
 
 ## Otwarte pytania
 

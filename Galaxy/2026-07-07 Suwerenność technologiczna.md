@@ -5,7 +5,7 @@ tags:
   - strategia-AI
   - narzędzia-AI
 created: 2026-07-07
-updated: 2026-09-14
+updated: 2026-09-15
 relevance: wysoka
 sources:
   - "[[2026-06-16 Suwerenność na wynajem]]"
@@ -39,6 +39,7 @@ sources:
   - "[[2026-08-28 The AI Backlash Gets Professional]]"
   - "[[2026-09-04 Comparing OpenAI and Anthropic's Data Retention Policies]]"
   - "[[2026-09-09 Taniej, ale z haczykiem – nowa strategia Mety]]"
+  - "[[2026-09-10 The Territory Is Now the Internet]]"
 ---
 
 # Suwerenność technologiczna (Technological Sovereignty)
@@ -119,6 +120,9 @@ Uzupełnienie tej strony o kryterium, które w debacie o suwerenności zwykle pr
 **22. Suwerenność z cennikiem — dostęp dostawcy do treści staje się pozycją do wyceny ([[Meta]] / [[Moonwise]])**
 Bezpośrednie domknięcie mech. 21 (suwerenność mierzona **technicznym dostępem dostawcy do treści**, nie lokalizacją serwera) o wymiar, którego tam nie było: ten dostęp **ma już jawną cenę rynkową**. [[Meta]] wycenia zgodę na trenowanie na promptach na **ok. 95 proc. rabatu** na model Muse Spark 1.3 — czyli podmiot, który chce zachować poufność, płaci za nią **kilkunastokrotność** ceny tego samego modelu. To zmienia charakter problemu: suwerenność przestaje być pytaniem o architekturę i staje się **pozycją budżetową**, a organizacje o najmniejszych zasobach są najsilniej popychane w stronę oddania danych — dokładnie odwrotnie niż w dotychczasowym założeniu, że suwerenność to problem dużych instytucji. Metryczka: digest branżowy, wrzesień 2026, oferta jednego dostawcy, **bez n**; czy taka wycena się utrwali, źródło nie rozstrzyga. *(Źródło: [[2026-09-09 Taniej, ale z haczykiem – nowa strategia Mety]])*
 
+**23. Trzecia oś suwerenności — osąd (Pablo Defendini)**
+Rozszerzenie mech. 3 (warstwy stosu) i mech. 14 (cztery pytania diagnostyczne) o wymiar, którego żadna z dotychczasowych ram nie nazywa: obok **danych** i **infrastruktury** stoi **osąd**. Teza: AI może wykonać niemal każde zadanie organizacji, ale kompetencja, której organizacja będzie potrzebować za pięć lat, powstaje właśnie w tych zadaniach, z których rezygnuje dziś na rzecz modelu — a różnica przebiega wewnątrz pozornie jednej czynności: **transkrypcja zebrania to zadanie mechaniczne, polityczne podsumowanie tego samego zebrania to ćwiczenie osądu**. Stąd **trzy pytania o suwerenność** jako narzędzie diagnostyczne każdego wdrożenia: *czyje są dane* (czy wychodzą poza kontrolę organizacji), *czyja jest infrastruktura* (czy jej koszt środowiskowy jest widoczny i poddany świadomej decyzji), *czyj jest osąd* (jakie zadania oddajemy maszynie na stałe, tracąc kompetencję budowaną latami). Pytanie trzecie jest najtrudniejsze do obrony, bo jego koszt jest odroczony i niewidoczny w żadnym rachunku wdrożeniowym. Podział zastosowań, który z tego wynika, jest ostrzejszy niż hybryda z mech. 6: **modele open-weights uruchamiane lokalnie do materiałów wrażliwych** (listy członkowskie ruchów działających pod inwigilacją), **usługi komercyjne wyłącznie do treści już publicznych lub przeznaczonych do publikacji** — z zastrzeżeniem, że *prywatność zależy od typu konta, a nie od ceny*, oraz że **suwerenność nad oprogramowaniem bez suwerenności nad sprzętem to połowa suwerenności**. Warstwa fizyczna dostaje tu trzecią geografię obok USA i Europy (mech. 9, 13, 18, 20): planowane centrum danych [[Google]] w **Canelones w Urugwaju** — **do 7,6 mln litrów wody pitnej dziennie**, równowartość zużycia ok. **55 000 gospodarstw domowych**, przy czym realny koszt ujawniono dopiero wbrew klauzulom tajemnicy handlowej. Dwa punkty odniesienia po stronie pozytywnej, uzupełniające „buduj infrastrukturę zamiast regulacji" (Galileo, mech. 1): **[[Latam-GPT]]** (CENIA, Chile) — ponad **60 instytucji z 15 krajów**, model na Llamie, ale trenowany na chmurze Amazona, czyli dokładna ilustracja paradoksu Benaicha; oraz **[[Current AI]]** — francuska organizacja non-profit zbudowała otwartego chatbota z **10 organizacjami w niecałe dwa miesiące** na **suwerennym publicznym compute w Szwajcarii**, co jest pierwszym w tej stronie dowodem, że publiczny compute bywa dostępny operacyjnie, nie tylko postulowany. Wskazówka rzecznicza spójna z mech. 18: regulacje powstają bez udziału Globalnego Południa, ale konkretne żądania — **jawność zużycia wody i energii, ujawnianie danych treningowych, inwestycje w publiczny compute** — wygrywa się **lokalnie, na poziomie gminy i pozwolenia budowlanego**. Metryczka: artykuł branżowy (LinkedIn Pulse), wrzesień 2026, analiza jakościowa, bez n. *(Źródło: [[2026-09-10 The Territory Is Now the Internet]])*
+
 ## Frameworki-kotwice
 
 - **4 analogie historyczne (Jemielniak)** — Suez / PGP / Minitel / **Galileo**: buduj infrastrukturę zamiast pisać regulacje do cudzych maszyn.
@@ -163,6 +167,8 @@ Domknięcie wątku „polskiego do obserwacji" z mech. 13 konkretnym konfliktem:
 
 - **Policz, ile kosztuje poufność, zanim ją odrzucisz (mech. 22)**: przy wyborze narzędzia zestaw cenę planu, w którym dane nie służą do trenowania, z realnym miesięcznym zużyciem organizacji — przy kilkuset kontaktach i kilkudziesięciu dokumentach miesięcznie różnica bywa rzędu jednej subskrypcji, nie budżetu projektu. **Działa w skali 2–5 osób** — jedna tabela i godzina; **od progu** intensywnego przetwarzania (setki dokumentów miesięcznie, przetwarzanie wsadowe) rachunek przestaje być trywialny i wtedy trzeba rozdzielić tory pracy ([[2026-07-06 RODO i dane wrażliwe|RODO i dane wrażliwe]], mech. 19).
 
+- **Trzy pytania o suwerenność jako 20-minutowy moduł diagnostyczny (mech. 23)**: przed każdym nowym wdrożeniem AI przejdź z zespołem *czyje dane / czyja infrastruktura / czyj osąd* i wypisz jedno zadanie, którego świadomie **nie** oddajecie modelowi, bo to w nim powstaje kompetencja organizacji (najczęściej: interpretacja polityczna, decyzja o priorytetach, rozmowa z osobą w kryzysie). **Działa w skali 2–5 osób** — rozmowa na zespole i jedna kartka, zero kosztu narzędziowego; jedyny warunek to zapisanie wyniku w polityce AI, żeby nie był jednorazowym postanowieniem ([[2026-06-15 AI governance|AI governance]]).
+
 ## Otwarte pytania
 
 - Gdzie leży próg opłacalności dla małej organizacji: koszt migracji (czas, kompetencje, tarcie zespołu) vs realne prawdopodobieństwo odcięcia — kiedy pozostanie przy Big Tech jest racjonalną decyzją, a kiedy hazardem?
@@ -170,3 +176,4 @@ Domknięcie wątku „polskiego do obserwacji" z mech. 13 konkretnym konfliktem:
 - Jak pogodzić suwerenność z konkurencyjnością, skoro czołówka modeli LLM jest amerykańska i chińska — czy multi-model z lokalnym fallbackiem to trwały kompromis, czy tylko odroczenie wyboru?
 - Kto sfinansuje infrastrukturę sektora? Scholz: filantropia nie inwestuje w technologię infrastrukturalną — czy europejscy grantodawcy uczynią suwerenność cyfrową linią budżetową, tak jak kiedyś cyberbezpieczeństwo?
 - Czego brakuje, by temat przeszedł drogę aktywizmu klimatycznego (Foale) — jaki jest odpowiednik „śladu węglowego" dla stosu technologicznego: mierzalny, porównywalny wskaźnik zależności, który organizacja może policzyć i raportować?
+- Jak zmierzyć erozję osądu (mech. 23), skoro jej koszt ujawnia się dopiero po latach — czy istnieje wskaźnik wcześniejszy niż „nikt w zespole nie potrafi już tego napisać sam"?

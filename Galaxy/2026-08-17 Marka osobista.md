@@ -5,7 +5,7 @@ tags:
   - ghostwriting
   - organizacje-społeczne
 created: 2026-08-17
-updated: 2026-09-14
+updated: 2026-09-15
 relevance: wysoka
 sources:
   - "[[2024-06-26 Marka osobista w NGO jak zacząć budowanie wizerunku społecznika społeczniczki]]"
@@ -29,6 +29,7 @@ sources:
   - "[[2026-09-06 The 5-step system busy CEOs use to grow on LinkedIn without a team]]"
   - "[[2026-07-22 Does highlighting a professor’s credibility and authority increase course sign-ups-]]"
   - "[[2026-07-29 The Croydon Story How losing an election taught us how to win]]"
+  - "[[2026-09-14 Matthew C Brown - teardowny jako dowód kompetencji]]"
 ---
 
 # Marka osobista
@@ -102,6 +103,9 @@ Pierwsza na tej stronie liczba z kontrolowanego testu na tezę, która przewija 
 **19. Tożsamość bardziej zaufana niż rola — „nie bądź politykiem, bądź sąsiadem" ([[2026-07-29 The Croydon Story How losing an election taught us how to win|Rowenna Davis]])**
 Uzupełnienie mech. 2 (autentyczność > perfekcja) i mech. 4 (przewodnik, nie ekspert) o regułę doboru **tożsamości nadawcy**, gdy rola instytucjonalna sama w sobie budzi nieufność. Kandydatka na burmistrza Croydon budowała wiarygodność nie jako polityczka, lecz jako **matka, nauczycielka i mieszkanka** — czyli przez tożsamości, którym ludzie ufają bardziej niż funkcji, i przegrała o 1% w kampanii prowadzonej bez zaplecza medialnego. Przenośne wprost na liderów organizacji społecznych, którym „dyrektor fundacji" zamyka rozmowę, zanim ta się zacznie. Druga warstwa, spójna z mech. 12 (granice argumentu o kanale): **komunikacja niefiltrowana ponad filtrowaną** — bezpośredni kontakt i własne materiały przed mediami tradycyjnymi, przy świadomym **ignorowaniu ataków online**, żeby nie dokładać im zasięgu. Metryczka: relacja własna z jednej kampanii lokalnej, bez pomiaru.
 
+**20. Teardown jako dowód kompetencji — demonstracja osądu zamiast autoprezentacji ([[Matthew C Brown]])**
+Format, który realizuje zasadę „pokaż, nie deklaruj" z mech. 14 (*buyability*) i 17 (*earned moments*) w jednym powtarzalnym artefakcie: **publiczna analiza konkretnego cudzego zasobu** znanej marki — landing page'a, reklamy, procesu sprzedaży, strategii treści — zamiast opisu własnego doświadczenia. Mechanizm perswazyjny jest pośredni i dlatego mocniejszy: czytelnik obserwuje **sposób myślenia i standardy oceny**, a wniosek o kompetencji wyciąga sam; autor nie musi się chwalić. Pięć kroków: **(1) trafny przykład** — zasób bliski sytuacji grupy, którą chcesz przyciągnąć; **(2) jeden kąt** — nie analizuj wszystkiego, wybierz jeden element i trzymaj jedną myśl przewodnią; **(3) wyjaśnij mechanizm** — wyjdź poza „dobre/złe": dlaczego to działa, dlaczego może zawieść, co autor optymalizuje i jaki kompromis przyjmuje; **(4) pokaż swój osąd** — co byś zostawił, co zmienił i dlaczego (tu widać standardy decyzyjne); **(5) wyciągnij lekcję** — zamień analizę w zasadę przenośną na sytuację czytelnika. Bez kroków 3 i 4 tekst zostaje recenzją; z nimi staje się **próbką sposobu pracy**, czyli materiałem sprzedażowym bez formy sprzedażowej. Dwie konsekwencje strategiczne: teardown jest jednym z **pięciu typów treści „proof of competence"** (pozostałych źródło nie wymienia), więc nadaje się na **stały slot w kalendarzu publikacji**, nie na jednorazowy pomysł; oraz **wybór analizowanego zasobu jest wyborem odbiorcy** — rozbierając kampanię z konkretnego sektora, autor deklaruje, dla kogo pracuje. Metryczka: post ekspercki (LinkedIn), wrzesień 2026, **bez danych o skuteczności i bez n** — procedura warsztatowa, nie pomiar. *(Źródło: [[2026-09-14 Matthew C Brown - teardowny jako dowód kompetencji]])*
+
 ## Powiązane pojęcia
 
 - [[2026-07-07 Ghostwriting|Ghostwriting]] — marka osobista to cel, ghostwriting jedna z metod jej obsługi; napięcie „destylacja głosu vs autentyczność" żyje na obu stronach, a mech. 4 („scena, nie temat") jest tu wspólnym kryterium jakości briefu.
@@ -127,6 +131,8 @@ Uzupełnienie mech. 2 (autentyczność > perfekcja) i mech. 4 (przewodnik, nie e
 - **Zastrzeżenie przy przenoszeniu liczb**: dane o CAC ≈ 0 i przychodach kont 6–30 tys. obserwujących pochodzą z rynku usług B2B; w organizacji społecznej mierz efekt marki osobistej w partnerstwach, wolontariacie kompetencji i zaproszeniach, nie w darowiznach.
 
 ---
+
+- **Teardown cudzej kampanii zamiast opisu własnych osiągnięć (mech. 20)**: raz w miesiącu rozbierz publicznie jeden materiał z sektora — stronę zbiórki, mail apelowy, sekwencję powitalną innej organizacji — trzymając się pięciu kroków i kończąc zasadą, nie oceną. **Działa w skali 2–5 osób** — jedna godzina i materiał, który i tak jest publicznie dostępny; **warunek, nie próg**: analizuj materiał organizacji, z którą nie konkurujesz o tych samych darczyńców, i pisz o mechanizmie, nie o ludziach — inaczej koszt relacyjny w małym sektorze przewyższa zysk wizerunkowy. Ten sam schemat działa jako ćwiczenie na szkoleniu: uczestnicy rozbierają realny materiał zamiast słuchać wykładu o zasadach.
 
 ## Otwarte pytania
 

@@ -5,7 +5,7 @@ tags:
   - organizacje-społeczne
   - digital-campaigning
 created: 2026-06-13
-updated: 2026-09-14
+updated: 2026-09-15
 relevance: wysoka
 sources:
   - "[[2026-04-24 Beyond the Ask Donor Stewardship]]"
@@ -60,6 +60,7 @@ sources:
   - "[[2026-09-08 co robimy w sekwencji powitalnej, żeby pozyskiwała więcej klientów.]]"
   - "[[2026-09-09 How to get reviews without asking. Why review request emails fail, and how to earn the review instead]]"
   - "[[2026-09-10 KARTKI ŚWIĄTECZNE - JAK JE PISAĆ-]]"
+  - "[[2026-09-11 Imago in Potentia – The Next 100 Years of Generosity 💜]]"
 ---
 
 # Stewardship (opieka nad darczyńcą)
@@ -212,6 +213,9 @@ Podstawa psychologiczna pod mech. 3 („triggery zamiast kalendarza"), której t
 **41. Kartka świąteczna jako pełnoprawny akt stewardshipu — trzy zasady i pętla „produkcja jako treść" ([[Armiger]])**
 Rozwinięcie kartek z opisu case'u [[Chive Charities]] (sekcja wyżej) z gestu przy zmianie poziomu daru na **sezonowy materiał relacyjny bez prośby** — i zarazem najprostszy dostępny nośnik zasady *give przed ask* (mech. 40, norma wzajemności). Trzy zasady oceny takiego materiału: (1) **personalizacja to nie imię w nagłówku**, tylko odwołanie do tego, co konkretnie łączy organizację z tym odbiorcą (por. mech. 21: personalizacja ukryta bije personalizację deklarowaną); (2) **wyjątkowość samego materiału** — kartka zaprojektowana przez zaprzyjaźnionego grafika albo złożona z rysunków podopiecznych; (3) **storytelling bez apelu** — historia powstania kartki, sukcesu organizacji albo codziennego wyzwania jest formą dawania wartości, nie preludium do prośby. Dźwignia, która czyni z tego coś więcej niż uprzejmość: **proces powstawania materiału sam jest treścią** do newslettera i mediów społecznościowych, więc jeden nakład produkcyjny obsługuje dwa kanały naraz — kartkę i kalendarz treści. Teza domykająca, spójna z całą stroną: te same trzy zasady obowiązują w **każdej** komunikacji fundraisingowej, niezależnie od tego, czy zawiera prośbę. Metryczka: krótki wpis praktyka (Polska), **bez danych o efekcie, bez n** — to checklista jakościowa, nie wynik pomiaru. *(Źródło: [[2026-09-10 KARTKI ŚWIĄTECZNE - JAK JE PISAĆ-]])*
 
+**42. Cztery typy momentów jako audyt ścieżki darczyńcy — peaks, pits, milestones, transitions ([[Dave Raley]] / Center for Sustainable Giving)**
+Nadbudowa nad mech. 40: peak-end mówi, **czym** mózg mierzy doświadczenie, a ta rama mówi, **gdzie w ścieżce darczyńcy szukać punktów do zaprojektowania**. Cztery kategorie (za *The Power of Moments*, Dan i Chip Heath): **ELEVATE the PEAKS** — wzmocnij najlepsze doświadczenia darczyńcy, żeby były wyjątkowe, a nie tylko poprawne; **FLIP the PITS** — słabego momentu nie wystarczy naprawić, ma się stać szczytem (ta sama logika, co bezbłędna obsługa reklamacji w mech. 40); **MARK the MILESTONES** — nazwij i uczcij znaczące punkty relacji; **CELEBRATE the TRANSITIONS** — świętuj przejścia między etapami, przede wszystkim z daru jednorazowego na cykliczny ([[2026-06-12 Recurring giving|Recurring giving]]). Teza nośna, która robi z tego narzędzie operacyjne: **kamienie milowe nie oznaczają się same** — jeśli organizacja ich nie nazwie, mijają niezauważone, choć są jednymi z nielicznych momentów, które ludzie faktycznie zapamiętują. Rama pokrywa lukę widoczną w mech. 35 (grudniowa kohorta bez tagu): tam problem powstaje w planowaniu, tu dostaje listę miejsc, w których planowanie ma się odbyć. Drugi wątek tego samego źródła, istotny dla ramowania prośby: **dar cykliczny komunikowany jako jeden z wielu wyrazów hojności** (czas, talent, zaufanie, więzi, świadectwo), a nie jako cel sam w sobie — rama szersza niż transakcyjna, zbieżna z [[2026-06-03 Tożsamość darczyńcy|tożsamością darczyńcy]]. Metryczka: tekst rocznicowy/manifestowy praktyka (USA), wrzesień 2026, **bez własnych danych i bez n** — wartość leży w checkliście audytowej, nie w pomiarze; sama rama Heathów pochodzi z literatury popularnonaukowej, nie z badania sektorowego. *(Źródło: [[2026-09-11 Imago in Potentia – The Next 100 Years of Generosity 💜]])*
+
 ## Sprzeczności
 
 
@@ -255,6 +259,8 @@ Domknięcie operacyjne mech. 1 i 9 (pierwszy rok relacji jako najsłabsze ogniwo
 - **Jedna nieobiecana wartość przed pierwszą prośbą (mech. 40)**: w pierwszym miesiącu relacji wyślij coś, czego nikt nie obiecywał i co nie zawiera asku — krótki materiał, zaproszenie, informację przydatną później. **Działa w skali 2–5 osób** — to jeden mail w serii powitalnej; **warunek, nie opcja**: w tym samym okresie nie prowadzi się do tej osoby kampanii (punkt 7 listy „przed prośbą"), co w małej organizacji oznacza jawną regułę wykluczenia nowych kontaktów z bieżącej wysyłki.
 
 - **Kartka świąteczna z podwójnym zwrotem (mech. 41)**: zaplanuj ją jako materiał relacyjny bez prośby i **od razu jako temat treści** — zdjęcia z pracowni, rysunki podopiecznych, kilka zdań o tym, skąd wziął się motyw. **Działa w skali 2–5 osób**: jedna sesja zdjęciowa telefonem przy powstawaniu kartki daje materiał na dwa–trzy posty i akapit w newsletterze, bez dodatkowego budżetu. Personalizacja **od progu**: odwołanie do tego, co łączy organizację z konkretną osobą, jest wykonalne ręcznie do kilkudziesięciu adresatów — powyżej tej liczby **substytutem** jest personalizacja na poziomie segmentu (darczyńcy cykliczni / wolontariusze / partnerzy), a nie generyczne życzenia do wszystkich.
+
+- **Audyt czterech momentów w jedno popołudnie (mech. 42)**: wypisz ścieżkę darczyńcy od pierwszej wpłaty do dziś i zaznacz przy każdym etapie, czy jest tam szczyt, dół, kamień milowy czy przejście — a potem wybierz **jeden** nieoznaczony kamień milowy (najczęściej: rocznica pierwszej wpłaty) i nadaj mu stały rytuał. **Działa w skali 2–5 osób** — arkusz, godzina na zespole i jedna automatyzacja w narzędziu mailowym; **próg** pojawia się dopiero przy „flip the pits", które wymaga wiedzy o tym, gdzie darczyńcy się zniechęcają, czyli jakiegokolwiek zapisu skarg i rezygnacji — bez niego zostaje sama intuicja.
 
 ## Otwarte pytania
 

@@ -5,7 +5,7 @@ tags:
   - content-marketing
   - strategia-organizacji
 created: 2026-07-07
-updated: 2026-09-14
+updated: 2026-09-15
 relevance: wysoka
 sources:
   - "[[2026-03-06 5 lessons from ghostwriting for 300+ clients]]"
@@ -62,6 +62,7 @@ sources:
   - "[[2026-09-08 Wendy Clow - granica między szkicem AI a gotowym tekstem]]"
   - "[[2026-09-09 Taniej, ale z haczykiem – nowa strategia Mety]]"
 
+  - "[[2026-09-12 He has 604,000 followers and 0 text posts]]"
 ---
 
 # Ghostwriting (pisanie w cudzym imieniu)
@@ -235,6 +236,13 @@ Operacyjne rozwinięcie „ciepło przed zimnem” (mech. 6) i „follow-up domy
 **49. Platforma zaczyna etykietować i karać ukrywanie AI — oznaczanie przestaje być tylko kwestią prawa ([[Instagram]] / [[Moonwise]])**
 Kalibracja mech. 34 i 36 (ryzyko braku oznaczenia, „human in the loop" jako zwolnienie z oznaczania) od strony, która nie pyta o przepisy: **[[Instagram]] wprowadza obowiązkowe etykiety „AI-generated profile" i obniża zasięgi kontom ukrywającym cyfrową tożsamość**. Znaczenie dla ghostwritingu i pracy z awatarami: dotychczasowa kalkulacja opierała się na ryzyku prawnym i reputacyjnym, więc dało się ją odłożyć; egzekwowanie po stronie platformy zamienia ją w **koszt dystrybucji płacony natychmiast**, niezależnie od tego, czy ktokolwiek zgłosi sprawę. Praktyczna reguła robocza: przy treściach opartych na awatarze albo profilu prowadzonym „w imieniu" kogoś, kto nie istnieje, **oznaczenie taniej zrobić samemu**, niż dać się oznaczyć algorytmowi. Zastrzeżenie: zapowiedź jednej platformy opisana w digeście branżowym (wrzesień 2026), **bez danych o skali kary zasięgowej i bez potwierdzenia, jak rozpoznawane są konta** — to sygnał kierunku, nie zmierzony mechanizm. *(Źródło: [[2026-09-09 Taniej, ale z haczykiem – nowa strategia Mety]])*
 
+**50. Trzeci audyt Tribe Digital — wolumen finansowany biblioteką, nie produkcją ([[Tim Denning]], analiza [[Matthew Brown]] / Tribe Digital)**
+Ten sam format audytu co mech. 20 (Foo) i 22 (Donnelly), ale wynik przesuwa spór o wolumen na inną oś. Liczby: **604 260 followersów, 36 postów w 30 dni, zero postów czysto tekstowych** — wszystkie to **zrzuty ekranu własnych tweetów** z krótkim komentarzem; **25 z 36 z CTA** (link albo „comment-to-get") kierującym do newslettera; obok tego ok. **400 tys. na Instagramie i 200+ tys. subskrybentów newslettera**, zasilanych **tą samą treścią stworzoną pierwotnie na [[Twitter]]/X**. Mechanizm: aktywem nie jest profil ani platforma, tylko **biblioteka sprawdzonych treści zbudowana gdzie indziej**, a LinkedIn jest kanałem **republikacji**, nie produkcji. Podział wysiłku podany wprost: **70–80% na tworzenie IP, 20–30% na systematyczną republikację** w nowym formacie — z zastrzeżeniem, że **sama biblioteka bez procesu dystrybucji nie działa**: potrzebny jest jawny rytuał (np. cotygodniowy przegląd najlepszych postów sprzed roku i ich przeredagowanie), czyli międzyplatformowe rozszerzenie mech. 37 (recykling w kalendarzu) i mech. 44 (dystrybucja jako osobny krok). Zastrzeżenie skalowe, ważne przy przenoszeniu na organizację: ten model zakłada **istniejącą, sprawdzoną bibliotekę** — konto bez historii publikacji nie ma czego republikować, więc dla organizacji zaczynającej od zera jest to cel na drugi rok, nie taktyka startowa. W tle prosty lejek monetyzacji (case study → strona aplikacyjna → rozmowa → oferta). Metryczka: audyt jednego konta przez agencję (Tribe Digital), wrzesień 2026, **n=1, bez grupy porównawczej**. *(Źródło: [[2026-09-12 He has 604,000 followers and 0 text posts]])*
+
+## Sprzeczności
+
+- **Jakość vs wolumen — trzeci case i pytanie, co wolumen w ogóle mierzy** [mech. 12–13 vs 20, 22, 50] — A: kanał porzuca się przy ~40% jego pułapu, więc właściwym ruchem jest **pogłębianie jednego kanału**, a sufit publikacyjny to ok. **1 post dziennie na LinkedIn** ([[2026-08-06 Most people quit a channel at 40% capacity|Tribe Digital]], 2026, obserwacja praktyka, bez n). B: trzy niezależne audyty kont pokazują **16 postów dziennie** (Foo, n=1), **34 posty w 30 dni** (Donnelly, n=1) i **36 postów w 30 dni przy zerze treści oryginalnych na tej platformie** (Denning, [[2026-09-12 He has 604,000 followers and 0 text posts]], 2026, n=1, rynek anglojęzyczny). **Wątpliwość nazwana wprost:** trzeci case może nie być argumentem po stronie B, tylko **przedefiniowaniem sporu** — u Denninga wolumen publikacji nie oznacza wolumenu produkcji, bo koszt niesie biblioteka zbudowana na innej platformie; jeśli tak, to A i B mierzą co innego (nakład na kanał vs liczba wyświetleń treści) i spór jest pozorny. Żadne ze źródeł tego nie rozstrzyga, a wszystkie trzy audyty pochodzą od **tej samej agencji**, więc niezależność obserwacji jest ograniczona. *Status: otwarte.*
+
 ## Powiązane pojęcia
 
 - [[2026-06-14 Framing|Framing]] — etykieta zawodowa to framing tożsamości: rama „premium ghostwriter vs freelance writer" ustawia percepcję ceny, zanim zacznie się rozmowa o stawce.
@@ -262,6 +270,8 @@ Kalibracja mech. 34 i 36 (ryzyko braku oznaczenia, „human in the loop" jako zw
 ---
 
 - **Oznaczaj sam, zanim oznaczy platforma (mech. 49)**: jeśli organizacja prowadzi profil z awatarem albo publikuje wizualia generowane modelem, dopisz oznaczenie w opisie konta i przy materiale. **Działa w skali 2–5 osób** — to jedno zdanie w bio i nawyk przy publikacji, zero kosztu; **substytutem** przy niechęci do oznaczania jest rezygnacja z awatara na rzecz treści pod nazwiskiem realnej osoby, co i tak działa lepiej na zaufanie (mech. 12–13).
+
+- **Biblioteka przed kalendarzem (mech. 50)**: zanim organizacja zwiększy częstotliwość publikacji, wypisz dziesięć materiałów, które już ma i które zadziałały (post, fragment raportu, wypowiedź w mediach, slajd ze szkolenia), i zaplanuj ich republikację w innym formacie zamiast pisania nowych. **Działa w skali 2–5 osób** — godzina na przegląd i stały slot w kalendarzu, bez nowego narzędzia; **nie działa** w organizacji bez historii publikacji: tam nie ma czego republikować i tańszym substytutem jest mech. 12 (biblioteka 90 treści budowana od jednego celu), a republikacja wraca jako temat dopiero po kilku miesiącach publikowania.
 
 ## Otwarte pytania
 

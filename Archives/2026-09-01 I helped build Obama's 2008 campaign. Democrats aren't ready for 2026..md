@@ -5,6 +5,9 @@ url: "https://eu.usatoday.com/story/opinion/2026/09/01/campaign-ads-midterms-mis
 published: 2026-09-01
 created: 2026-09-15
 tags:
+  - "digital-campaigning"
+  - "framing"
+  - "trendy-AI"
 ---
 
 

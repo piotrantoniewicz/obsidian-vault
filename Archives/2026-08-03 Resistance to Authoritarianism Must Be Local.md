@@ -5,6 +5,9 @@ url: "https://www.persuasion.community/p/resistance-to-authoritarianism-must?utm
 published: 2026-08-03
 created: 2026-09-15
 tags:
+  - "organizacje-społeczne"
+  - "strategia-organizacji"
+  - "framing"
 ---
 
 

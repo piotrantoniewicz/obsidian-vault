@@ -1,10 +1,14 @@
 ---
-type: "Web"
-authors: "[[Owen Dahlkamp]]"
-url: "https://www.politico.com/news/2026/08/17/ai-slop-lawmakers-congress-01008376?utm_medium=email&_hsenc=p2ANqtz-9oNOGjuWxo7-mKuHc8hYvrhpk6uicFcegGAhUAuXgvOgf7tXnwKbbLl5x6rkshvv_80aWVlkg9VRn9cWX0ibvIAd_4116pVnyDz6XleYlY-Y231Ts&_hsmi=144592174&utm_content=144592174&utm_source=hs_email"
-published: 2026-08-17
-created: 2026-09-15
+type: Web
+authors: '[[Owen Dahlkamp]]'
+url: >-
+  https://www.politico.com/news/2026/08/17/ai-slop-lawmakers-congress-01008376?utm_medium=email&_hsenc=p2ANqtz-9oNOGjuWxo7-mKuHc8hYvrhpk6uicFcegGAhUAuXgvOgf7tXnwKbbLl5x6rkshvv_80aWVlkg9VRn9cWX0ibvIAd_4116pVnyDz6XleYlY-Y231Ts&_hsmi=144592174&utm_content=144592174&utm_source=hs_email
+published: '2026-08-17'
+created: '2026-09-15'
 tags:
+  - trendy-AI
+  - LLM
+  - strategia-AI
 ---
 
 

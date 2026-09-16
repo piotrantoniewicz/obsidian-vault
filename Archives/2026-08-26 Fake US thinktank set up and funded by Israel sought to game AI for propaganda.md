@@ -5,6 +5,9 @@ url: "https://www.theguardian.com/world/2026/aug/26/fake-thinktank-israel-ai-pro
 published: 2026-08-26
 created: 2026-09-15
 tags:
+  - "framing"
+  - "digital-campaigning"
+  - "LLM"
 ---
 
 

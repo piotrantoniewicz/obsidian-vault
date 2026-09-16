@@ -5,6 +5,9 @@ url: "https://brianfabes.substack.com/p/ai-will-scale-the-culture-we-hand?utm_me
 published: 2026-08-31
 created: 2026-09-15
 tags:
+  - "strategia-AI"
+  - "trendy-AI"
+  - "strategia-organizacji"
 ---
 
 

@@ -5,6 +5,8 @@ url: "https://organizingtowin.substack.com/p/what-does-power-look-like?utm_mediu
 published: 2026-08-31
 created: 2026-09-15
 tags:
+  - "organizacje-społeczne"
+  - "digital-campaigning"
 ---
 
 

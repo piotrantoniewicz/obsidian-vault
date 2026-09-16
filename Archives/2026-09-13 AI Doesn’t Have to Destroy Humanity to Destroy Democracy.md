@@ -1,10 +1,14 @@
 ---
-type: "Web"
-authors: "[[Will Robinson]]"
-url: "https://willrobinson.substack.com/p/ai-doesnt-have-to-destroy-humanity?utm_medium=email&_hsenc=p2ANqtz-9ILXs0Pp6fgy9xGDHAPvRTwV2QuvKe4Gh1ehtHgBTdcOko9cn9V0CScPJQjwLOwxbDvMFJnAsUnHEsARpKWQEMCq1YUV8PgxgP4k8a3ozXABVQr3Q&_hsmi=145809882&utm_content=145809882&utm_source=hs_email"
-published: 2026-09-13
-created: 2026-09-15
+type: Web
+authors: '[[Will Robinson]]'
+url: >-
+  https://willrobinson.substack.com/p/ai-doesnt-have-to-destroy-humanity?utm_medium=email&_hsenc=p2ANqtz-9ILXs0Pp6fgy9xGDHAPvRTwV2QuvKe4Gh1ehtHgBTdcOko9cn9V0CScPJQjwLOwxbDvMFJnAsUnHEsARpKWQEMCq1YUV8PgxgP4k8a3ozXABVQr3Q&_hsmi=145809882&utm_content=145809882&utm_source=hs_email
+published: '2026-09-13'
+created: '2026-09-15'
 tags:
+  - digital-campaigning
+  - trendy-AI
+  - framing
 ---
 
 

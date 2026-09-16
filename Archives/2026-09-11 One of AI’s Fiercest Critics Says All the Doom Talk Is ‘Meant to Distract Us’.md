@@ -5,6 +5,9 @@ url: "https://www.wired.com/story/one-of-ais-fiercest-critics-says-all-the-doom-
 published: 2026-09-11
 created: 2026-09-14
 tags:
+  - "framing"
+  - "trendy-AI"
+  - "LLM"
 ---
 
 

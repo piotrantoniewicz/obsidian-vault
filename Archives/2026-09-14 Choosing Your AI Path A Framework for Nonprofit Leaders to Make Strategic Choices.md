@@ -5,6 +5,9 @@ url: "https://www.bridgespan.org/insights/choosing-your-ai-path-a-framework-for-
 published:
 created: 2026-09-14
 tags:
+  - "strategia-AI"
+  - "organizacje-społeczne"
+  - "narzędzia-AI"
 ---
 
 

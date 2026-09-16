@@ -5,6 +5,9 @@ url: "https://www.charitychangecollective.uk/ai-transformation?utm_medium=email&
 published:
 created: 2026-09-15
 tags:
+  - "strategia-AI"
+  - "organizacje-społeczne"
+  - "strategia-organizacji"
 ---
 
 

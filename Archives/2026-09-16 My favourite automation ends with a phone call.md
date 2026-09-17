@@ -5,6 +5,9 @@ url: "https://kylebehrend.substack.com/p/my-favourite-automation-ends-with"
 published: 2026-09-16
 created: 2026-09-17
 tags:
+  - "automatyzacja"
+  - "narzędzia-AI"
+  - "organizacje-społeczne"
 ---
 
 

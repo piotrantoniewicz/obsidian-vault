@@ -5,6 +5,9 @@ url: "https://humanistreview.ai/issue-1/tang-ai-democracy-optimization/?utm_medi
 published: 2026-07-15
 created: 2026-09-15
 tags:
+  - "trendy-AI"
+  - "framing"
+  - "digital-campaigning"
 ---
 
 

@@ -5,6 +5,9 @@ url: "https://publicystyka.ngo.pl/ai-ktore-zna-twoja-organizacje-jak-zbudowac-as
 published: 2026-09-16
 created: 2026-09-16
 tags:
+  - "narzędzia-AI"
+  - "organizacje-społeczne"
+  - "automatyzacja"
 ---
 
 

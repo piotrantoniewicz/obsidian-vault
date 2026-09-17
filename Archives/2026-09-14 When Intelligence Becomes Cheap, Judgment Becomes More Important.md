@@ -5,6 +5,9 @@ url: "https://www.linkedin.com/pulse/when-intelligence-becomes-cheap-judgment-mo
 published: 2026-09-14
 created: 2026-09-14
 tags:
+  - "strategia-AI"
+  - "szkolenia-AI"
+  - "organizacje-społeczne"
 ---
 
 

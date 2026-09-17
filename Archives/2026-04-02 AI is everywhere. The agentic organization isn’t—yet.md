@@ -5,6 +5,9 @@ url: "https://www.mckinsey.com/capabilities/people-and-organization/our-insights
 published: 2026-04-02
 created: 2026-09-14
 tags:
+  - "strategia-AI"
+  - "trendy-AI"
+  - "strategia-organizacji"
 ---
 
 

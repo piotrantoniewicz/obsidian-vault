@@ -5,6 +5,8 @@ url: "https://www.linkedin.com/pulse/pressure-builds-team-makes-stronger-bryan-n
 published: 2026-09-17
 created: 2026-09-17
 tags:
+  - "strategia-organizacji"
+  - "organizacje-społeczne"
 ---
 
 

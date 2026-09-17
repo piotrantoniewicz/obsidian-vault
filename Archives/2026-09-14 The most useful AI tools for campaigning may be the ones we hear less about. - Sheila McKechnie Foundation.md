@@ -5,6 +5,9 @@ url: "https://smk.org.uk/the-most-useful-ai-tools-for-campaigning-may-be-the-one
 published: 2026-09-14
 created: 2026-09-17
 tags:
+  - "digital-campaigning"
+  - "narzędzia-AI"
+  - "strategia-AI"
 ---
 
 

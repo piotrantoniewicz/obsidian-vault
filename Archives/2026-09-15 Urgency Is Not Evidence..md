@@ -5,6 +5,9 @@ url: "https://www.linkedin.com/pulse/urgency-evidence-meenakshi-meena-das-cjjie/
 published: 2026-09-15
 created: 2026-09-17
 tags:
+  - "strategia-AI"
+  - "organizacje-społeczne"
+  - "trendy-AI"
 ---
 
 

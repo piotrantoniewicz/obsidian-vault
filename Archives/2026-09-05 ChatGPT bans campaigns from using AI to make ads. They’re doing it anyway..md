@@ -5,6 +5,9 @@ url: "https://www.washingtonpost.com/politics/2026/09/05/chatgpt-bans-campaigns-
 published: 2026-09-05
 created: 2026-09-15
 tags:
+  - "digital-campaigning"
+  - "narzędzia-AI"
+  - "trendy-AI"
 ---
 
 

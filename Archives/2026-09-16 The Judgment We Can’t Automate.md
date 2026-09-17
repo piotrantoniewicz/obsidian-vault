@@ -5,6 +5,9 @@ url: "https://www.linkedin.com/pulse/judgment-we-cant-automate-bryan-neider-g2ir
 published: 2026-09-16
 created: 2026-09-16
 tags:
+  - "strategia-AI"
+  - "organizacje-społeczne"
+  - "trendy-AI"
 ---
 
 

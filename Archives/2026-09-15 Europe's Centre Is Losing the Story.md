@@ -5,6 +5,9 @@ url: "https://www.euractiv.com/opinion/europes-centre-is-losing-the-story/"
 published: 2026-09-15
 created: 2026-09-15
 tags:
+  - "framing"
+  - "digital-campaigning"
+  - "strategia-organizacji"
 ---
 
 

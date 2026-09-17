@@ -5,6 +5,9 @@ url: "https://theshortansweris.substack.com/p/can-regular-people-help-solve-demo
 published: 2026-08-27
 created: 2026-09-15
 tags:
+  - "fundraising"
+  - "digital-campaigning"
+  - "organizacje-społeczne"
 ---
 
 

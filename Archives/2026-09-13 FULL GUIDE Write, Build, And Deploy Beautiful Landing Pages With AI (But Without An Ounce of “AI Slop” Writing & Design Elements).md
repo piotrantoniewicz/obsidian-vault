@@ -5,6 +5,9 @@ url: "https://aioperatornewsletter.substack.com/p/full-guide-write-build-and-dep
 published: 2026-09-13
 created: 2026-09-13
 tags:
+  - "vibe-coding"
+  - "narzędzia-AI"
+  - "produkty-cyfrowe"
 ---
 
 

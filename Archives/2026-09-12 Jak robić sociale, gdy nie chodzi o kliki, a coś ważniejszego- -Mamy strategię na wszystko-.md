@@ -5,6 +5,9 @@ url: "https://www.wirtualnemedia.pl/jak-robic-sociale-gdy-nie-chodzi-o-kliki-a-c
 published: 2026-09-12
 created: 2026-09-16
 tags:
+  - "content-marketing"
+  - "organizacje-społeczne"
+  - "framing"
 ---
 
 

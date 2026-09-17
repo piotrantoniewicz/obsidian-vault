@@ -5,6 +5,9 @@ url: "https://publicystyka.ngo.pl/sztuczna-inteligencja-w-ngo-jak-wprowadzac-ai-
 published: 2025-10-29
 created: 2026-09-16
 tags:
+  - "strategia-AI"
+  - "organizacje-społeczne"
+  - "narzędzia-AI"
 ---
 
 

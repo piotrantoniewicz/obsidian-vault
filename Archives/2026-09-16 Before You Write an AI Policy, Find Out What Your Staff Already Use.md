@@ -5,6 +5,9 @@ url: "https://www.linkedin.com/pulse/before-you-write-ai-policy-find-out-what-yo
 published: 2026-09-16
 created: 2026-09-16
 tags:
+  - "strategia-AI"
+  - "organizacje-społeczne"
+  - "narzędzia-AI"
 ---
 
 

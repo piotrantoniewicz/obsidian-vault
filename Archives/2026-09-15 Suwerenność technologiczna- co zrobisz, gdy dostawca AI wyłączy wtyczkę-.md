@@ -5,6 +5,9 @@ url: "https://publicystyka.ngo.pl/suwerennosc-technologiczna-co-zrobisz-gdy-dost
 published: 2026-09-15
 created: 2026-09-16
 tags:
+  - "strategia-AI"
+  - "organizacje-społeczne"
+  - "strategia-organizacji"
 ---
 
 ## Suwerenność technologiczna: co zrobisz, gdy dostawca AI wyłączy wtyczkę?

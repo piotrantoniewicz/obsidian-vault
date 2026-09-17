@@ -5,6 +5,9 @@ url: "https://convergencemag.com/articles/how-to-keep-organizers-in-the-movement
 published: 2026-08-25
 created: 2026-09-15
 tags:
+  - "organizacje-społeczne"
+  - "strategia-organizacji"
+  - "fundraising"
 ---
 
 

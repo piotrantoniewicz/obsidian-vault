@@ -5,6 +5,9 @@ url: "https://ssir.org/articles/entry/nonprofits-AI-integration-behind-the-scene
 published: 2026-08-18
 created: 2026-09-15
 tags:
+  - "narzędzia-AI"
+  - "strategia-AI"
+  - "organizacje-społeczne"
 ---
 
 

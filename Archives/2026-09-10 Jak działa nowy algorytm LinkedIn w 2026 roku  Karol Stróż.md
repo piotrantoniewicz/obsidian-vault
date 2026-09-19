@@ -5,6 +5,9 @@ url: "https://www.youtube.com/watch?v=bQ6XeCy8D9o"
 published: 2026-09-10
 created: 2026-09-17
 tags:
+  - "content-marketing"
+  - "LLM"
+  - "digital-campaigning"
 ---
 
 

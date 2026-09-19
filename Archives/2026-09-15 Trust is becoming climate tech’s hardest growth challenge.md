@@ -5,6 +5,9 @@ url: "https://forster.co.uk/trust-is-becoming-climate-techs-hardest-growth-chall
 published: 2026-09-15
 created: 2026-09-18
 tags:
+  - "framing"
+  - "strategia-organizacji"
+  - "organizacje-społeczne"
 ---
 
 

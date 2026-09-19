@@ -5,6 +5,9 @@ url: "https://www.sustainablegiving.org/articles/your-recurring-donors-arent-don
 published: 2026-07-24
 created: 2026-09-18
 tags:
+  - "fundraising"
+  - "strategia-organizacji"
+  - "organizacje-społeczne"
 ---
 
 

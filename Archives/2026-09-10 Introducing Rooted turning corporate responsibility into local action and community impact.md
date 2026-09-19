@@ -1,10 +1,13 @@
 ---
-type: "Web"
-authors: "[[George Ames]]"
-url: "https://forster.co.uk/introducing-rooted-turning-corporate-responsibility-into-local-action-and-community-impact/?utm_campaign=Main%20newsletter&utm_source=hs_email&utm_medium=email&_hsenc=p2ANqtz-8rTZv-aPkgEr1bKHQlCQAAO2RqoMRhjyOyTlapE5XrZFatI0PI_j4wVUTgpdj7tga5V7mS"
-published: 2026-09-10
-created: 2026-09-18
+type: Web
+authors: '[[George Ames]]'
+url: >-
+  https://forster.co.uk/introducing-rooted-turning-corporate-responsibility-into-local-action-and-community-impact/?utm_campaign=Main%20newsletter&utm_source=hs_email&utm_medium=email&_hsenc=p2ANqtz-8rTZv-aPkgEr1bKHQlCQAAO2RqoMRhjyOyTlapE5XrZFatI0PI_j4wVUTgpdj7tga5V7mS
+published: '2026-09-10'
+created: '2026-09-18'
 tags:
+  - strategia-organizacji
+  - organizacje-społeczne
 ---
 
 

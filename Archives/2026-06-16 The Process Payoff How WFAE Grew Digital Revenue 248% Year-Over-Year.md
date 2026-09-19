@@ -5,6 +5,9 @@ url: "https://greaterpublic.org/blog/the-process-payoff-how-wfae-grew-digital-re
 published: 2026-06-16
 created: 2026-09-18
 tags:
+  - "fundraising"
+  - "digital-campaigning"
+  - "strategia-organizacji"
 ---
 
 

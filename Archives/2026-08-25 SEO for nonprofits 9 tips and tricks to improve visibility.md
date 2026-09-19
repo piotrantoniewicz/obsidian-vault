@@ -1,10 +1,13 @@
 ---
-type: "Web"
-authors: "[[Korrin Bishop]]"
-url: "https://pro.gofundme.com/c/blog/seo-nonprofits/"
-published: 2026-08-25
-created: 2026-09-17
+type: Web
+authors: '[[Korrin Bishop]]'
+url: 'https://pro.gofundme.com/c/blog/seo-nonprofits/'
+published: '2026-08-25'
+created: '2026-09-17'
 tags:
+  - digital-campaigning
+  - content-marketing
+  - narzędzia-AI
 ---
 
 

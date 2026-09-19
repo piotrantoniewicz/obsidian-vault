@@ -5,6 +5,9 @@ url: "https://www.sustainablegiving.org/articles/your-next-major-donor-is-alread
 published: 2026-08-21
 created: 2026-09-18
 tags:
+  - "fundraising"
+  - "strategia-organizacji"
+  - "organizacje-społeczne"
 ---
 
 

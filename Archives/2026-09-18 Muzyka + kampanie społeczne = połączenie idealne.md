@@ -1,10 +1,14 @@
 ---
-type: "Web"
-authors: "[[Anna Jadwiga Orzech]]"
-url: "https://www.linkedin.com/pulse/muzyka-kampanie-spo%C5%82eczne-po%C5%82%C4%85czenie-idealne-anna-jadwiga-orzech-6j4ae/"
-published: 2026-09-18
-created: 2026-09-18
+type: Web
+authors: '[[Anna Jadwiga Orzech]]'
+url: >-
+  https://www.linkedin.com/pulse/muzyka-kampanie-spo%C5%82eczne-po%C5%82%C4%85czenie-idealne-anna-jadwiga-orzech-6j4ae/
+published: '2026-09-18'
+created: '2026-09-18'
 tags:
+  - digital-campaigning
+  - framing
+  - organizacje-społeczne
 ---
 
 

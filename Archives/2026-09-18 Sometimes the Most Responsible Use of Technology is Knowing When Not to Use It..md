@@ -5,6 +5,9 @@ url: "https://www.linkedin.com/pulse/sometimes-most-responsible-use-technology-k
 published: 2026-09-18
 created: 2026-09-18
 tags:
+  - "strategia-AI"
+  - "organizacje-społeczne"
+  - "trendy-AI"
 ---
 
 

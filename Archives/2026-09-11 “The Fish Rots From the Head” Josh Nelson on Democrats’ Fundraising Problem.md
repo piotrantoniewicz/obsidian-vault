@@ -5,6 +5,9 @@ url: "https://insidepoliticalmoney.com/news/the-fish-rots-from-the-head-josh-nel
 published: 2026-09-11
 created: 2026-09-18
 tags:
+  - "digital-campaigning"
+  - "fundraising"
+  - "framing"
 ---
 
 

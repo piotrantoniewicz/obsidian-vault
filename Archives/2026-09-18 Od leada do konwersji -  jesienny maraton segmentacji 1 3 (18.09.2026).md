@@ -5,6 +5,9 @@ url: "https://www.youtube.com/watch?v=Q-gJb8kD3_8"
 published: 2026-09-18
 created: 2026-09-18
 tags:
+  - "fundraising"
+  - "digital-campaigning"
+  - "strategia-organizacji"
 ---
 
 

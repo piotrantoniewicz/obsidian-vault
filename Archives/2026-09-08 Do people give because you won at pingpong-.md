@@ -5,6 +5,9 @@ url: "https://blog.chorusai.co/p/do-people-give-because-you-won-at-pingpong?utm_
 published: 2026-09-08
 created: 2026-09-18
 tags:
+  - "fundraising"
+  - "digital-campaigning"
+  - "organizacje-społeczne"
 ---
 
 

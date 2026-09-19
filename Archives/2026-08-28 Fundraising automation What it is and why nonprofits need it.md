@@ -5,6 +5,9 @@ url: "https://www.bonterratech.com/blog/fundraising-automation"
 published: 2026-08-28
 created: 2026-09-17
 tags:
+  - "automatyzacja"
+  - "fundraising"
+  - "organizacje-społeczne"
 ---
 
 

@@ -5,6 +5,9 @@ url: "https://www.sustainablegiving.org/articles/the-ask-most-nonprofits-never-m
 published: 2026-07-31
 created: 2026-09-18
 tags:
+  - "fundraising"
+  - "digital-campaigning"
+  - "framing"
 ---
 
 

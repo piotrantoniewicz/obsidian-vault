@@ -5,7 +5,7 @@ tags:
   - strategia-AI
   - narzędzia-AI
 created: 2026-07-07
-updated: 2026-09-15
+updated: 2026-09-21
 relevance: wysoka
 sources:
   - "[[2026-06-16 Suwerenność na wynajem]]"
@@ -40,6 +40,7 @@ sources:
   - "[[2026-09-04 Comparing OpenAI and Anthropic's Data Retention Policies]]"
   - "[[2026-09-09 Taniej, ale z haczykiem – nowa strategia Mety]]"
   - "[[2026-09-10 The Territory Is Now the Internet]]"
+  - "[[2026-07-15 AI and democracy the right to resist optimization]]"
 ---
 
 # Suwerenność technologiczna (Technological Sovereignty)
@@ -141,6 +142,9 @@ Systematyczna checklista tego, jak AI przebudowuje ekosystem informacyjny wokó�
 
 **20. Pierwszy polski case warstwy fizycznej — Piaseczno, 286 m³/dobę i brak konsultacji jako iskra ([[Wirtualna Polska]] / money.pl)**
 Domknięcie wątku „polskiego do obserwacji" z mech. 13 konkretnym konfliktem: pod Warszawą, przy ul. Energetycznej w Piasecznie, spółka Sien Real (z Budimeksem w akcjonariacie) buduje centrum danych — **cztery budynki po 4,5 tys. m²** — w gminie, która **już dziś ma problem z ciśnieniem wody**. Liczba, która przenosi spór z poziomu wizerunkowego na materialny: piaseczyńskie MPWiK podaje maksymalne zapotrzebowanie inwestycji na **do 286 m³ wody na dobę**, czyli **tyle, ile dziennie zużywa 2–3 tys. mieszkańców**. To pierwszy w tej stronie przypadek, w którym rama „konkurencja o konkretny, mierzalny zasób tu i teraz" (mech. 18, precedens waloński) ma **polskie dane po obu stronach bilansu** — i jest gotowa do użycia w rzecznictwie lokalnym bez tłumaczenia z kontekstu amerykańskiego. Mechanizm zapłonu jest przy tym proceduralny, nie środowiskowy: inwestycja jest **formalnie legalna** (decyzję środowiskową wydał burmistrz), a konflikt wybuchł dlatego, że **ruszyła bez wcześniejszych konsultacji społecznych** — legalność nie zastępuje zgody, co jest bezpośrednim wejściem w wątek autentyczności uczestnictwa opisany przy [[2026-06-15 AI governance|AI governance]] (mech. 27). Punkt odniesienia dla skali zorganizowania drugiej strony, uzupełniający mech. 16: **142 grupy aktywistyczne w 24 stanach USA** sprzeciwiające się centrom danych (stan na koniec 2025). Cytat oddający rejestr, w jakim ten spór jest prowadzony lokalnie: *„Już teraz mamy tu duży problem z wodą, a oni budują nam tu data center. Wszyscy są tu przerażeni"* — rejestr strachu, nie sprawczości, co wobec ustaleń o rejestrach emocjonalnych w [[2026-06-14 Framing|Framingu]] jest raczej diagnozą słabości kampanii niż jej atutem. *(Źródło: [[2026-08-11 Pod Warszawą budują centrum danych. Mieszkańcy już dziś są braki wody]])*
+
+**24. Federacja zamiast jednego asystenta — i „prawo do oporu wobec optymalizacji" jako czwarta oś ([[Audrey Tang]])**
+Rozwinięcie mech. 17 (*Kami*) z poziomu pojedynczego narzędzia na **poziom architektury**, z tego samego źródła co mech. 23 porządkuje osąd: skoro suwerenność jest właściwością wdrożenia, a nie tylko stosu, to jej formą organizacyjną jest **federacja** — wiele małych systemów o wspólnych standardach i interoperacyjnych protokołach, każdy **rozliczalny lokalnie wobec społeczności, której dotyczy** — a nie jeden uniwersalny asystent obejmujący pracę, edukację, komunikację i życie obywatelskie naraz. Tang wprost zastrzega, że alternatywą dla uniwersalnego asystenta **nie jest fragmentacja na izolowane silosy** (to najczęstszy zarzut wobec lokalnych wdrożeń z mech. 11), tylko ta sama figura, którą zna architektura internetu. Dwa dopełnienia. **(a) „Total ledger"** (za Stanem Shih) — rachunek uwzględniający to, czego standardowe bilanse nie liczą: ukryty koszt organizowania społeczeństwa wyłącznie wokół PKB (nieufność, izolacja, zużycie) i systemowo niedocenianą wartość opieki i życia wspólnotowego; to narzędzie retoryczne do tej samej rozmowy, w której mech. 15 i 18 podają wodę i energię — koszt zewnętrzny wdrożenia liczony poza fakturą. **(b) „Prawo do oporu wobec optymalizacji"** — obrona przestrzeni ciszy, rytuału, prywatności i spowolnienia jako **warunku dojrzewania osądu**, a nie straty efektywności. To domyka mech. 23 od strony organizacyjnej: jeśli osąd jest trzecią osią suwerenności, a osąd dojrzewa w czasie nieoptymalizowanym, to **organizacja, która zautomatyzowała każdą lukę w kalendarzu, oddaje osąd nie modelowi, tylko tempu**. Zastrzeżenie: to esej programowy, nie zmierzony przypadek wdrożenia — federacja jest tu propozycją architektoniczną z analogią historyczną, a nie rozwiązaniem o policzonym koszcie. *(Źródło: [[2026-07-15 AI and democracy the right to resist optimization]])*
 
 ## Powiązane pojęcia
 

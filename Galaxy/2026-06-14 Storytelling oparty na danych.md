@@ -5,7 +5,7 @@ tags:
   - digital-campaigning
   - fundraising
 created: 2026-06-14
-updated: 2026-09-14
+updated: 2026-09-21
 relevance: wysoka
 sources:
   - "[[2025-06-17 Jak wizualizacja danych wspiera komunikację organizacji społecznej Sprawdź na przykładzie Fundacji Gajusz]]"
@@ -30,6 +30,7 @@ sources:
   - "[[2026-09-01 Aleksandra Marciniak - wzrost zasięgów fanpage NGO na Facebooku]]"
   - "[[2026-08-20 Website behind widely shared fake election polls run by 21-year-old]]"
   - "[[2026-09-10 World Refugee Day Campaign Strategy BRAC USA]]"
+  - "[[2026-08-31 What Does Power Look Like?]]"
 ---
 
 # Storytelling oparty na danych (data storytelling)
@@ -124,6 +125,9 @@ Pułapki z mech. 2 i 12 dotyczą tego, jak *interpretujemy* dane, które mamy. T
 
 **20. Siedem dni, siedem potrzeb — seria treściowa z terenu jako silnik kampanii ([[Caroline Griffin]] / [[BRAC USA]])**
 Najpełniejszy dostępny przykład mech. 4 (systematyczne pozyskiwanie surowca) i mech. 14 (wideo bez budżetu) zastosowanych w jednej kampanii: siedmiodniowa seria **„7 Days With the Rohingya"**, w której **każdy dzień ma jedną potrzebę** (woda, jedzenie, schronienie, edukacja, zdrowie, praca, ochrona), a każdy dzień to **wpis plus wideo nakręcone w obozie**. Rozstrzygnięcie jakościowe, które źródło stawia wprost: działa **treść autentyczna i sensoryczna, nie estetyczna produkcja** — „show, don't tell" przekłada się na wynik fundraisingowy silniej niż dopracowana forma (to samo rozstrzygnięcie co mech. 11: historia w porę bije historię idealną). Trzy elementy wzmacniające, warte zapamiętania jako wzorzec: **jeden temat dziennie** zamiast ogólnej opowieści o kryzysie (operacyjna wersja mech. 9 — psychic numbing rozbrajany konkretem), **reflection prompty** przy miękkiej prośbie w trakcie serii oraz **narzędzie interaktywne** („Ration Calculator"), które zamienia liczbę na doświadczenie (mech. 10: metryka wyobrażalna). Twarde liczby całej kampanii, przydatne jako benchmark w rozmowie z klientem: **34 500 USD przychodu (+130% r/r)**, **13 000 nowych kontaktów** (w tym 3 000 numerów telefonu), **48 nowych darczyńców, z tego 10 cyklicznych**; **koszt pozyskania kontaktu 2,40 USD wobec benchmarku [[M+R]] 3,64 USD**, **koszt pozyskania darowizny 38 USD wobec 74 USD**; [[LinkedIn Ads]] — bez skuteczności. Zastrzeżenie skali podane przez samo źródło: taka kampania wymaga **zespołu komunikacyjnego zdolnego obsłużyć produkcję treści na dużą skalę** — to wyjątek, nie reguła dla mniejszych organizacji. Metryczka: jeden case konsultantki, kampania 2026, USA/Bangladesz, bez grupy kontrolnej. *(Źródło: [[2026-09-10 World Refugee Day Campaign Strategy BRAC USA]])*
+
+**21. Granica całej strony: dane przekonują ludzi, nie władzę ([[Mira Weinstein]])**
+Zastrzeżenie domykające mech. 6 („dane otwierają drzwi, historia przez nie przechodzi") od strony, w której **żadne drzwi się nie otwierają**. W kampanii adresowanej do decydenta komplet rzetelnych danych bywa wysłuchany do końca i pozostawiony bez reakcji — nie dlatego, że był słaby, tylko dlatego, że **adresat nie ponosi kosztu zignorowania go**. Wniosek operacyjny dla organizacji, która „ma świetny raport i zero efektu": problem leży w warstwie władzy i żądania, nie w warstwie prezentacji liczb, więc kolejna iteracja infografiki niczego nie zmieni (rozwinięcie: [[2026-06-14 Framing|Framing]] mech. 48). Rozróżnienie warte utrzymania w doradztwie: **dane są dobrym narzędziem wobec darczyńcy, mediów i osoby niezdecydowanej — a słabym wobec adresata, który już podjął decyzję i ma prawo jej nie uzasadniać**. Metryczka: esej praktyczki organizingu (Substack, USA, sierpień 2026), **bez n i bez pomiaru** — obserwacja z ćwiczenia symulacyjnego i case'u historycznego. *(Źródło: [[2026-08-31 What Does Power Look Like?]])*
 
 ## Powiązane pojęcia
 

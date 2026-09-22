@@ -1,52 +1,36 @@
 ---
-categories: Clippings
+categories:
+  - Clippings
 authors: ["[[Heather Mansfield]]"]
-url: https://www.nptechforgood.com/101-best-practices/social-media-statistics-for-nonprofits/
+url: "https://www.nptechforgood.com/101-best-practices/social-media-statistics-for-nonprofits/"
 source: "[[Archives/2024-05-07 2026 Social Media Statistics for Nonprofits|2024-05-07 2026 Social Media Statistics for Nonprofits]]"
 published: 2024-05-07
-created: 2026-04-18
-relevance: średnia
+created: 2026-09-22
+relevance: wysoka
 tags:
-  - "digital-campaigning"
   - "fundraising"
+  - "organizacje-społeczne"
   - "content-marketing"
 ---
 
 # 2026 Social Media Statistics for Nonprofits
 
-Artykuł gromadzi kluczowe statystyki social media dla sektora NGO na 2026 rok, obejmując 8 platform: Facebook, LinkedIn, Instagram, Threads, Bluesky, X i TikTok. Dla strategii NGO najważniejsza konkluzja to dramatyczna różnica efektywności reklamowej w fundraisingu: Meta platforms kosztują średnio $106 za donację, podczas gdy TikTok $1040 — a Facebook/Meta daje ROAS $0,48 vs TikTok $0,03. Instagram ma zaskakująco wysoki organiczny zasięg (15,3% followersów vs 2,2% na Facebooku), a LinkedIn wyróżnia się najwyższym engagement rate wśród NGO (1,91%), co czyni go niedocenionym kanałem do budowania relacji z partnerami i darczyńcami instytucjonalnymi.
+Heather Mansfield (Nonprofit Tech for Good) zestawia aktualne dane liczbowe o użyciu poszczególnych platform społecznościowych przez organizacje pozarządowe — Facebook, LinkedIn, Instagram, Threads, Bluesky, X i TikTok. Zestawienie pokazuje wyraźne przetasowanie: Facebook pozostaje dominujący liczbą użytkowników, ale jego organiczny zasięg i skuteczność reklamowa spadają, podczas gdy LinkedIn i Instagram odnotowują gwałtowny wzrost adopcji wśród NGO. X traci na znaczeniu wśród organizacji, a nowsze platformy (Threads, Bluesky) mają wciąż marginalny udział. Dane pochodzą głównie z M+R Benchmarks Report i 2026 Nonprofit Tech for Good Report, więc są wiarygodnym punktem odniesienia do benchmarkingu własnych wyników.
 
 ## Kluczowe dane
 
-**Facebook:**
-- Organiczny zasięg postów NGO: 2,2% followersów; engagement rate: 0,046%
-- Koszt za donację przez Facebook Ads: $106; ROAS fundraisingowy: $0,48
-- 97% wszystkich przychodów z Facebook Fundraising Tools pochodzi z Fundraiserów
-- Giving przez Facebook Fundraising Tools: 0,2% wszystkich online przychodów NGO w 2024 (spadek z 1,1% w 2023)
-
-**Instagram:**
-- Organiczny zasięg postów NGO: 15,3% followersów; engagement rate: 0,623%
-- 85% NGO na świecie używa Instagrama; 94% influencer campaigns NGO prowadzonych na Instagramie
-
-**LinkedIn:**
-- Engagement rate NGO: 1,91% (najwyższy spośród wszystkich platform)
-- 42% US donors używa LinkedIn do research NGO; 26% odkrywa możliwości donacji na LinkedIn
-- 44% użytkowników LinkedIn w USA zarabia ponad $75k/rok
-
-**TikTok:**
-- Koszt za donację przez TikTok: $1,040 (10x drożej niż Meta)
-- ROAS fundraisingowy TikTok: $0,03; engagement rate: 7,5%
-
-**X (Twitter):**
-- Engagement rate NGO: 0,03% (najniższy); 24% NGO nadal używa X
-- 13% NGO z aktywnymi kontami X planuje opuścić platformę
+- Facebook: 93% organizacji NGO ma stronę, średnio 53 tys. obserwujących, ale organiczny zasięg to tylko 5% followersów, a engagement rate zaledwie 0,046%; koszt pozyskania donacji to $74 (vs $590 na TikTok).
+- LinkedIn: użycie wśród NGO wzrosło z 49% (2023) do 78% (2026); 42% amerykańskich darczyńców sprawdza organizacje na LinkedIn przed wsparciem.
+- Instagram: użycie wzrosło z 49% do 84%; to najpopularniejsza platforma kampanii z influencerami (94% NGO prowadzących takie kampanie działa właśnie tam).
+- X: użycie wśród NGO spadło z 59% (2023) do 22% (2026), a 13% organizacji aktywnych na X planuje opuścić platformę.
 
 ## Wnioski
 
-- Instagram ma 7× wyższy organiczny zasięg niż Facebook (15,3% vs 2,2%) — NGO z ograniczonym budżetem powinny priorytetyzować Instagram jako główny kanał organiczny zamiast inwestować czasu w Facebook
-- LinkedIn generuje najwyższy engagement wśród NGO (1,91%) i 42% US donors używa go do research'u organizacji — niedoceniany kanał do budowania relacji z darczyńcami korporacyjnymi i partnerami strategicznymi
-- Meta platforms są 10× bardziej efektywne kosztowo w fundraisingu niż TikTok ($106 vs $1040 za donację) — NGO powinny kierować budżety reklamowe na [[Meta Business Suite|Facebook/Meta]], nie na TikTok, mimo wysokiego engagement TikToka
+- Samo posiadanie konta przestaje wystarczać — niski organiczny zasięg (3–8% followersów) i niskie engagement rate na większości platform oznaczają, że budowanie widoczności NGO wymaga albo budżetu reklamowego, albo dywersyfikacji kanałów (np. e-mail, LinkedIn).
+- LinkedIn i Instagram to platformy o najszybszym wzroście adopcji wśród NGO — przy ograniczonych zasobach klientów warto priorytetyzować właśnie je, zamiast rozpraszać uwagę na wszystkie kanały naraz.
+- Mimo rosnącej popularności TikToka wśród organizacji, efektywność kosztowa fundraisingu wciąż wyraźnie wygrywa po stronie Meta ($74 vs $590 za donację) — TikTok lepiej sprawdza się do budowania zasięgu/świadomości niż do bezpośredniego fundraisingu.
 
 ## Zastosowanie
 
-Dane benchmarkowe są nieocenione przy tworzeniu szkoleń z digital marketingu dla NGO — pozwalają uargumentować decyzje o alokacji zasobów i obalić popularne mity (np. o opłacalności TikToka). Szczególnie użyteczna jest dysproporcja Meta vs TikTok przy fundraisingu jako konkretny argument przy rekomendowaniu strategii mediów płatnych klientom. Statystyki LinkedIn warto włączyć do materiałów dla NGO zainteresowanych pozyskiwaniem partnerów korporacyjnych i darczyńców instytucjonalnych.
+Gotowy zestaw benchmarków do audytów strategii social media dla klientów NGO oraz materiał referencyjny do kursu mailowego o fundraisingu z AI (dobryai.pl) — konkretne liczby (koszt donacji, engagement rate, tempo adopcji platform) ułatwiają uzasadnienie rekomendacji kanałowych w rozmowach z klientami.
+</content>

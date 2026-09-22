@@ -5,7 +5,7 @@ tags:
   - content-marketing
   - digital-campaigning
 created: 2026-06-23
-updated: 2026-09-21
+updated: 2026-09-22
 relevance: wysoka
 sources:
   - "[[2025-07-30 Generative engine optimisation query]]"
@@ -40,6 +40,7 @@ sources:
   - "[[2026-07-17 Anti choice lobbying tool]]"
   - "[[2026-08-26 Fake US thinktank set up and funded by Israel sought to game AI for propaganda]]"
   - "[[2026-09-13 AI Doesn’t Have to Destroy Humanity to Destroy Democracy]]"
+  - "[[2026-08-25 SEO for nonprofits 9 tips and tricks to improve visibility]]"
 ---
 
 # Widoczność w AI search (GEO / AEO)
@@ -154,6 +155,9 @@ Twarde, udokumentowane domknięcie wątku otwartego w mech. 12 (16% cytowanych �
 **28. Model jako wtórny uwiarygodniacz fałszu — i 45 proc. wadliwych odpowiedzi o wiadomościach ([[BBC]] / [[European Broadcasting Union]], za [[Will Robinson]])**
 Czwarty niezależny sygnał degradacji podłoża, obok 16 proc. źródeł syntetycznych (mech. 12), antyspamowej aktualizacji Google (mech. 14c) i „odwróconego lejka" blokowania crawlerów (mech. 15c) — ale pierwszy mierzący **jakość wyjścia, a nie skład wejścia**. Badanie [[BBC]] i European Broadcasting Union z 2025 wykazało istotne problemy z dokładnością lub źródłami w **45 proc. testowanych odpowiedzi generowanych przez AI na pytania o wiadomości**. Konsekwencja, którą źródło stawia w centrum: model nie tylko powtarza fałsz, ale **nadaje mu wtórną wiarygodność**, bo odpowiada tonem autorytatywnym i bez metryczki — czyli ten sam mechanizm, który w mech. 1–3 działa **na korzyść** organizacji cytowanej jako źródło, obraca się przeciw niej, gdy w polu krąży twierdzenie fałszywe. Dwa wnioski praktyczne dla tej strony: **(1)** monitoring z mech. 20 („co model mówi o mnie") przestaje być narzędziem wizerunkowym, a staje się **elementem wykrywania dezinformacji** — model bywa miejscem, w którym fałsz o organizacji zmaterializuje się wcześniej niż w mediach; **(2)** front-loading faktów i E-E-A-T (mech. 3, 4) to nie tylko taktyka bycia cytowanym, ale **jedyna dostępna organizacji forma korekty w polu, w którym nie ma sprostowania** — nie ma do kogo napisać z prośbą o poprawkę. Metryczka: liczba pochodzi z badania dwóch instytucji publicznych mediów (2025), referowanego w eseju praktyka — **źródło wtórne, bez podanej metodologii, wielkości próby, listy testowanych modeli i języków**; przy cytowaniu wobec klienta sięgnij do raportu EBU, nie do tego przekazu. *(Źródło: [[2026-09-13 AI Doesn’t Have to Destroy Humanity to Destroy Democracy]])*
 
+**29. Klasyczny SERP jako podłoże GEO — trzy liczby o kliknięciach i dwie pomijane tanie dźwignie ([[GoFundMe]] Pro, Korrin Bishop)**
+Doprecyzowanie mech. 3 (SEO i AI search to naczynia połączone) i mech. 16 (płatna reklama nie kupuje cytowania) od strony klasycznego wyniku wyszukiwania, na materiale pisanym wprost dla organizacji społecznych. **(a) Rozkład kliknięć w klasycznym SERP:** trzy pierwsze wyniki Google zbierają **blisko 69 proc. wszystkich kliknięć**, pierwszy wynik organiczny daje **19× więcej kliknięć niż pierwsza reklama płatna**, a wyniki z drugiej strony mają **CTR poniżej 1 proc.** Razem z mech. 3 (TOP 3 Google = 65,9 proc. cytowań w AI Overview) daje to spójny obraz: ta sama wąska czołówka zgarnia i kliknięcia, i cytowania, więc pozycja organiczna jest wejściem do obu kanałów naraz. To nie konflikt z zero-click z mech. 1 — tamta liczba mierzy wyszukiwania kończące się bez kliknięcia, ta rozkład kliknięć, które jednak padają. **(b) Dwie dźwignie, które mniejsze organizacje najczęściej pomijają mimo niskiego kosztu:** **lokalne SEO** (profil Google Business Profile pod zapytania z kontekstem miejsca) oraz **dane strukturalne poza `Organization`** — `Event`, `FAQPage`, `BreadcrumbList` (uzupełnienie `Organization`/`Person`/`Service` z mech. 11 i 22). **(c) Katalogi sektorowe jako źródło linków zwrotnych** (w USA Charity Navigator, GuideStar; obok mediów lokalnych, partnerstw i gościnnych tekstów) — wariant mech. 4 i 18 dostępny bez budżetu PR. Źródło zamyka listę dziewięciu praktyk punktem o GEO/AEO (odpowiedzi wprost na konkretne pytania, śledzenie ruchu z AI w GA4), który powtarza mech. 5–8 i nie wnosi nowych danych. Metryczka: materiał poradnikowy dostawcy platformy fundraisingowej (sierpień 2026, USA), **liczby CTR bez podanego źródła badania ani roku pomiaru** — przy cytowaniu traktuj je jako orientacyjne. *(Źródło: [[2026-08-25 SEO for nonprofits 9 tips and tricks to improve visibility]])*
+
 ## Powiązane pojęcia
 
 - [[2026-06-15 Newsletter jako kanał|Newsletter jako kanał]] / [[2026-06-25 Owned vs rented audience|Owned vs rented audience]] — **lista mailingowa to bufor niezależny od AI search**: gdy ruch organiczny topnieje, e-mail pozostaje kanałem bezpośrednim, odpornym na zmiany algorytmów. Najczęstsza rekomendacja sektorowa (ECF, Jean O'Brien) na niepewność AI search. „Owned vs rented" — strona napisana.
@@ -174,6 +178,7 @@ Czwarty niezależny sygnał degradacji podłoża, obok 16 proc. źródeł syntet
 - **Obecność zewnętrzna**: 85% cytowań spoza strony — buduj cytowania w mediach branżowych, raportach, dyskusjach; **LinkedIn thought leadership** (oryginalne artykuły 500–2000 słów, regularnie) jako kanał o realnej cytowalności.
 - **Pomiar bez budżetu**: kanał AI w GA4 + Trakkr (free) lub Semrush AI Visibility — zacznij mierzyć footprint, póki robi to <1/4 rynku.
 - **Moduł kursu „Fundraising z AI"**: jak organizacja społeczna buduje widoczność misji w rozmowach AI z potencjalnymi darczyńcami — od audytu, przez reguły GEO, po politykę organizacyjną wobec AI search.
+- **Lokalne SEO i schema jako pierwszy, najtańszy ruch techniczny** (mech. 29): uzupełniony profil Google Business Profile i znaczniki `Organization`, `Event` i `FAQPage` na stronie. **Działa w skali 2–5 osób** — to konto w usłudze Google i wtyczka schema w typowym CMS, bez programisty; źródło mówi o „niskim koszcie wdrożenia”, ale nie podaje nakładu w godzinach. Najwięcej daje organizacjom działającym lokalnie (świetlica, schronisko, bank żywności), bo zapytania z kontekstem miejsca to ich główny kanał odkrywania.
 
 ---
 

@@ -1,10 +1,14 @@
 ---
-type: "Web"
-authors: "[[Adriene Chisolm]]"
-url: "https://blog.blackbaud.com/donor-data-ready-ai-powered-fundraising/?utm_source=NonprofitTech&utm_medium=paid+email&utm_campaign=donor-data-ready-ai-powered-fundraising"
-published: 2026-07-24
-created: 2026-09-22
+type: Web
+authors: '[[Adriene Chisolm]]'
+url: >-
+  https://blog.blackbaud.com/donor-data-ready-ai-powered-fundraising/?utm_source=NonprofitTech&utm_medium=paid+email&utm_campaign=donor-data-ready-ai-powered-fundraising
+published: '2026-07-24'
+created: '2026-09-22'
 tags:
+  - strategia-AI
+  - fundraising
+  - automatyzacja
 ---
 
 

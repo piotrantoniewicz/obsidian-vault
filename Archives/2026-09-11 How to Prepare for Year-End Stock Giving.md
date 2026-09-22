@@ -1,10 +1,12 @@
 ---
-type: "Web"
-authors: "[[Jamy-Lee Holt]]"
-url: "https://www.donorbox.org/nonprofit-blog/year-end-stock-giving"
-published: 2026-09-11
-created: 2026-09-22
+type: Web
+authors: '[[Jamy-Lee Holt]]'
+url: 'https://www.donorbox.org/nonprofit-blog/year-end-stock-giving'
+published: '2026-09-11'
+created: '2026-09-22'
 tags:
+  - fundraising
+  - organizacje-społeczne
 ---
 
 

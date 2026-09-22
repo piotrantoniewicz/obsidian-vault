@@ -1,10 +1,14 @@
 ---
-type: "Web"
-authors: "[[Tom Orbach]]"
-url: "https://www.lennysnewsletter.com/p/60-creative-growth-ideas?utm_source=substack%2Csubstack&utm_medium=email%2Cemail&utm_campaign=email-restack-comment&r=4zdnrk&triedRedirect=true"
-published: 2026-09-15
-created: 2026-09-22
+type: Web
+authors: '[[Tom Orbach]]'
+url: >-
+  https://www.lennysnewsletter.com/p/60-creative-growth-ideas?utm_source=substack%2Csubstack&utm_medium=email%2Cemail&utm_campaign=email-restack-comment&r=4zdnrk&triedRedirect=true
+published: '2026-09-15'
+created: '2026-09-22'
 tags:
+  - content-marketing
+  - digital-campaigning
+  - framing
 ---
 
 

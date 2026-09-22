@@ -1,10 +1,13 @@
 ---
-type: "Web"
-authors: "[[Rob Burke]]"
-url: "https://www.donordock.com/articles/how-to-build-planned-giving-program-nonprofit?utm_campaign=21239977-The%20Focused%20Fundraiser&utm_medium=email&_hsenc=p2ANqtz-9VWqM_h81DGjYXHWrWLFlpdBjD5Vj6xKfzkGu2ZdGtH0E0AQQodfywSD8iahhIsBzEBslVrsPeCAuImupqRolGwe48UMjBlItBvTtoSJ-lszeoGK8&_hsmi=440062809&utm_content=435054232&utm_source=hs_email"
-published: 2026-09-03
-created: 2026-09-22
+type: Web
+authors: '[[Rob Burke]]'
+url: >-
+  https://www.donordock.com/articles/how-to-build-planned-giving-program-nonprofit?utm_campaign=21239977-The%20Focused%20Fundraiser&utm_medium=email&_hsenc=p2ANqtz-9VWqM_h81DGjYXHWrWLFlpdBjD5Vj6xKfzkGu2ZdGtH0E0AQQodfywSD8iahhIsBzEBslVrsPeCAuImupqRolGwe48UMjBlItBvTtoSJ-lszeoGK8&_hsmi=440062809&utm_content=435054232&utm_source=hs_email
+published: '2026-09-03'
+created: '2026-09-22'
 tags:
+  - fundraising
+  - strategia-organizacji
 ---
 
 

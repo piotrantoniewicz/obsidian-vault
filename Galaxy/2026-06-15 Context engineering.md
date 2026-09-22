@@ -5,7 +5,7 @@ tags:
   - LLM
   - narzędzia-AI
 created: 2026-06-15
-updated: 2026-08-30
+updated: 2026-09-22
 relevance: wysoka
 sources:
   - "[[2025-09-29 Effective context engineering for AI agents]]"
@@ -21,6 +21,7 @@ sources:
   - "[[2026-07-29 Jak przygotować landing page z ofertą, który zastąpi standardowy PDF]]"
   - "[[Archives/2026-07-24 The new rules of context engineering for Claude 5 generation models]]"
   - "[[2026-08-14 Maximizing the value of your Claude Code sessions]]"
+  - "[[2026-09-16 The Leadership Brief 16Sep2026 - AI updates by Marcelina]]"
 ---
 
 # Context engineering (projektowanie kontekstu)
@@ -74,6 +75,9 @@ Anthropic opisuje, jak zmienia się prowadzenie agenta wraz z generacją modeli 
 **11. Ekonomia sesji: cena tokena, cache i próg opłacalności subagenta ([[Anthropic]])**
 Techniczne dopełnienie mechanizmów 4 i 9–10 od strony kosztu, nie jakości: cena tokena zależy od modelu, kierunku (output ok. **5×** droższy od inputu — generowany token po tokenie, podczas gdy input jest prefillowany naraz) oraz od tego, czy fragment pochodzi z **cache promptów** (odczyt z cache: **0,1×** ceny normalnego inputu; zapis do cache: do **2×**, ale jednorazowo, potem tanie odczyty na każdej kolejnej turze). Cache wygasa po **1 godzinie** (subskrypcja) lub **5 minutach** (API, bez `ENABLE_PROMPT_CACHING_1H=1`) i zrywa się przy zmianie modelu, zmianie poziomu wysiłku, włączeniu fast mode oraz przy `/compact` — każde z tych zdarzeń kosztuje najmniej **na starcie świeżej sesji**, najwięcej **w środku długiej rozmowy** (traci się cały dotychczasowy prefill). Stąd sześć nawyków: `/clear` między niepowiązanymi zadaniami; ustalenie modelu i poziomu wysiłku przed startem; wołanie plików przez @-mention zamiast opisowo (trafia bezpośrednio do wiadomości, bez wywołania narzędzia Read); ciche flagi lub subagent dla hałaśliwych komend (output zostaje w kontekście do końca sesji, więc lepiej go tam nie wpuszczać); `/context` raz na starcie, żeby zobaczyć co już zajmuje okno; `/compact` **przed** przerwą, nie po niej, bo cache i tak wygaśnie. **Doprecyzowanie progu opłacalności subagenta (mech. 4):** izolacja kontekstu subagenta opłaca się przy zadaniach generujących dużo zbędnego outputu (przegląd logów, hałaśliwe komendy) — ale dla drobnych zadań to czysty narzut, bo subagent często musi odczytać rzeczy, które główna sesja już ma, płacąc pełną cenę bez cache. *(Źródło: [[2026-08-14 Maximizing the value of your Claude Code sessions]])*
 
+**12. Od szkolenia z promptowania do infrastruktury: project brains i skills zamiast dużego promptu za każdym razem ([[Marcelina Dutkiewicz]])**
+Obserwacja rynkowa z wdrożeń korporacyjnych w 2026 r., potwierdzająca od strony popytu kierunek mech. 9 (kontekst → skill → artefakt): klienci **przestają zamawiać naukę promptowania, a zaczynają budować nawyki i systemy wokół pracowników**. Dwie jednostki tej infrastruktury: **project brains** — projekty z predefiniowanymi instrukcjami i źródłami wiedzy, uczące się na historii rozmów (dostępne w [[Claude]], ChatGPT i Copilot) — oraz **skills** — zdefiniowany sparingpartner albo sekwencja kroków i reguł do konkretnego zadania. Zmienia to charakter szkolenia z jednorazowego warsztatu na **budowę trwałej infrastruktury pracy**, a nacisk przenosi z obsługi narzędzia na **jakość myślenia i formułowania celu** (przewagę zyskują osoby, które komunikują jasno i myślą celowo). Sygnał platformowy podany w źródle: **OpenAI ma wycofać Custom GPTs do końca 2026 r.**, a użytkownicy — przejść na model projektów i skills; to podważa środkowy szczebel analogii „prompt = stażysta, Custom GPT = freelancer, pełny kontekst = wieloletni pracownik” z [[2026-06-15 Prompt engineering|Prompt engineering]] i przypomina (jak [[2026-07-07 Suwerenność technologiczna|Suwerenność technologiczna]]), że konfiguracja zbudowana w formacie jednego dostawcy może wymagać migracji. Wątek pomiarowy tego samego źródła — **liczba promptów pokazuje, kto korzysta, nie jaki był wpływ**; mierz produktywność, jakość decyzji i wynik — powiela mechanizmy już zapisane w [[2026-06-13 Wdrażanie AI w organizacji społecznej|Wdrażaniu AI]]; nowe są tylko liczby po szkoleniach: **niemal +40 proc.** uczestników zgłaszających poprawę jakości pracy i **ponad 30 proc.** wyższą produktywność przy już przyzwoitym poziomie adopcji. Metryczka: newsletter konsultantki (wrzesień 2026, klienci korporacyjni), **deklaracje uczestników własnych szkoleń autorki, bez n i bez grupy kontrolnej**; informacja o Custom GPTs niezweryfikowana w komunikacie OpenAI. *(Źródło: [[2026-09-16 The Leadership Brief 16Sep2026 - AI updates by Marcelina]])*
+
 ---
 
 ## Frameworki-kotwice
@@ -108,6 +112,7 @@ Techniczne dopełnienie mechanizmów 4 i 9–10 od strony kosztu, nie jakości: 
 - **Argument sprzedażowy / strategiczny**: „warstwa kontekstu to fosa" — przy doradztwie warto pokazać, że trwała przewaga (i trudność zastąpienia narzędzia) leży w jakości kontekstu, nie w dostępie do modelu, który ma każdy.
 - **Higiena pamięci agenta**: parametr długości okna pamięci (np. Simple Memory w [[n8n]]) to konkretna decyzja projektowa — zbyt mały kontekst = „złota rybka", zbyt duży = koszt i context rot; wartość dobiera się do charakteru aplikacji. Plik pamięci (`AGENTS.md`/`CLAUDE.md`) dołączany na starcie każdej rozmowy też *zajmuje* okno — to nie „darmowy" kontekst, lecz koszt do zważenia.
 - **Nauka przez robienie (Raviv)**: najszybsza droga do „product sense" wokół kontekstu to codzienne używanie coding-agentów ([[Claude Code]], [[Cursor]]) do pracy niemerytorycznej (strategia, analiza danych) — bo „pokazują pracę": widać reasoning, wywołania narzędzi i **zapełniające się okno kontekstu**, więc context rot, subagenty, RAG i pamięć agenta przestają być abstrakcją. Gotowy format szkoleniowy: zbuduj z uczestnikami lekki „Personal OS" (foldery `Knowledge/`, `Tasks/`, `GOALS.md` + `AGENTS.md`), gdzie każda sesja rozbudowuje bazę zamiast żyć w historii czatu — żywy wzorzec stałego rdzenia + eksploracji na żądanie.
+- **Zamiast warsztatu z promptowania — jeden projekt z instrukcjami i źródłami na obszar pracy (mech. 12)**: np. osobny projekt na wnioski grantowe i osobny na komunikację, z wgranymi dokumentami organizacji i jednym skillem do najczęstszego zadania. **Działa w skali 2–5 osób** — projekt zakłada się w narzędziu czatowym, którego zespół już używa, bez programisty; **warunek**: ktoś odpowiada za aktualność wgranych dokumentów. Konfigurację trzymaj też poza platformą (instrukcje i pliki w zwykłym folderze), żeby migracja przy zmianie formatu u dostawcy nie oznaczała budowy od zera.
 
 ---
 

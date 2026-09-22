@@ -1,10 +1,14 @@
 ---
-type: "Web"
-authors: "[[Bryan Neider]]"
-url: "https://www.linkedin.com/pulse/teams-talent-edition-september-21-2026-bryan-neider-by53c/"
-published: 2026-09-21
-created: 2026-09-21
+type: Web
+authors: '[[Bryan Neider]]'
+url: >-
+  https://www.linkedin.com/pulse/teams-talent-edition-september-21-2026-bryan-neider-by53c/
+published: '2026-09-21'
+created: '2026-09-21'
 tags:
+  - szkolenia-AI
+  - organizacje-społeczne
+  - strategia-organizacji
 ---
 
 

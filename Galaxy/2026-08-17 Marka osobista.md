@@ -5,7 +5,7 @@ tags:
   - ghostwriting
   - organizacje-społeczne
 created: 2026-08-17
-updated: 2026-09-15
+updated: 2026-09-22
 relevance: wysoka
 sources:
   - "[[2024-06-26 Marka osobista w NGO jak zacząć budowanie wizerunku społecznika społeczniczki]]"
@@ -30,6 +30,7 @@ sources:
   - "[[2026-07-22 Does highlighting a professor’s credibility and authority increase course sign-ups-]]"
   - "[[2026-07-29 The Croydon Story How losing an election taught us how to win]]"
   - "[[2026-09-14 Matthew C Brown - teardowny jako dowód kompetencji]]"
+  - "[[2026-09-10 Jak działa nowy algorytm LinkedIn w 2026 roku  Karol Stróż]]"
 ---
 
 # Marka osobista
@@ -106,6 +107,9 @@ Uzupełnienie mech. 2 (autentyczność > perfekcja) i mech. 4 (przewodnik, nie e
 **20. Teardown jako dowód kompetencji — demonstracja osądu zamiast autoprezentacji ([[Matthew C Brown]])**
 Format, który realizuje zasadę „pokaż, nie deklaruj" z mech. 14 (*buyability*) i 17 (*earned moments*) w jednym powtarzalnym artefakcie: **publiczna analiza konkretnego cudzego zasobu** znanej marki — landing page'a, reklamy, procesu sprzedaży, strategii treści — zamiast opisu własnego doświadczenia. Mechanizm perswazyjny jest pośredni i dlatego mocniejszy: czytelnik obserwuje **sposób myślenia i standardy oceny**, a wniosek o kompetencji wyciąga sam; autor nie musi się chwalić. Pięć kroków: **(1) trafny przykład** — zasób bliski sytuacji grupy, którą chcesz przyciągnąć; **(2) jeden kąt** — nie analizuj wszystkiego, wybierz jeden element i trzymaj jedną myśl przewodnią; **(3) wyjaśnij mechanizm** — wyjdź poza „dobre/złe": dlaczego to działa, dlaczego może zawieść, co autor optymalizuje i jaki kompromis przyjmuje; **(4) pokaż swój osąd** — co byś zostawił, co zmienił i dlaczego (tu widać standardy decyzyjne); **(5) wyciągnij lekcję** — zamień analizę w zasadę przenośną na sytuację czytelnika. Bez kroków 3 i 4 tekst zostaje recenzją; z nimi staje się **próbką sposobu pracy**, czyli materiałem sprzedażowym bez formy sprzedażowej. Dwie konsekwencje strategiczne: teardown jest jednym z **pięciu typów treści „proof of competence"** (pozostałych źródło nie wymienia), więc nadaje się na **stały slot w kalendarzu publikacji**, nie na jednorazowy pomysł; oraz **wybór analizowanego zasobu jest wyborem odbiorcy** — rozbierając kampanię z konkretnego sektora, autor deklaruje, dla kogo pracuje. Metryczka: post ekspercki (LinkedIn), wrzesień 2026, **bez danych o skuteczności i bez n** — procedura warsztatowa, nie pomiar. *(Źródło: [[2026-09-14 Matthew C Brown - teardowny jako dowód kompetencji]])*
 
+**21. Motywacja ambasadorów i format współautorstwa — premia kupuje posty tylko na czas wypłat (Karol Stróż / [[Sharebee]], rozmowa z [[Adam Wojda|Adamem Wojdą]])**
+Dwa uzupełnienia mech. 9 (employee advocacy) od strony utrzymania programu, nie jego startu. **(a) Bezpośrednia premia finansowa jest ryzykowną podstawą programu ambasadorskiego:** case firmy, która płaciła ambasadorom wyłącznie w okresie kryzysu wizerunkowego — posty zniknęły razem z wypłatami. Wniosek źródła: program trzyma się na motywacji wewnętrznej (misja, rozpoznawalność własnego nazwiska), a pieniądz kupuje aktywność, nie nawyk. Dla organizacji społecznej to akurat dobra wiadomość — jej naturalną walutą jest misja, nie budżet na premie. **(b) Collaborative Post** — zapowiadana funkcja [[LinkedIn]] pozwalająca oznaczyć **do 5 osób jako współautorów jednego posta**; to natywny format dla programu rozłożonego na zespół (jeden materiał, kilka profili, wspólny zasięg), który zmniejsza koszt „każdy musi pisać sam”. Kontekst algorytmiczny zgodny z mech. 15: przejście z grafu kontaktów na **graf zainteresowań** i ocena **całego profilu** i jego spójności tematycznej, nie pojedynczego posta. **(c) Hierarchia zaufania modeli do źródeł wiedzy o organizacji** (w ujęciu employer brandingu): Reddit → **LinkedIn** (treść podpisana imieniem, nazwiskiem i stanowiskiem) → Wikipedia → YouTube → GoWork → **strona kariery firmy na samym dole** (czytana jako marketing) — kolejny argument za mech. 7: profil osoby pracuje na widoczność organizacji mocniej niż jej własna strona. Metryczka: rozmowa podcastowa praktyków (wrzesień 2026, Polska), **case bez nazwy firmy i bez liczb, hierarchia bez podanego badania**. *(Źródło: [[2026-09-10 Jak działa nowy algorytm LinkedIn w 2026 roku  Karol Stróż]])*
+
 ## Powiązane pojęcia
 
 - [[2026-07-07 Ghostwriting|Ghostwriting]] — marka osobista to cel, ghostwriting jedna z metod jej obsługi; napięcie „destylacja głosu vs autentyczność" żyje na obu stronach, a mech. 4 („scena, nie temat") jest tu wspólnym kryterium jakości briefu.
@@ -133,6 +137,7 @@ Format, który realizuje zasadę „pokaż, nie deklaruj" z mech. 14 (*buyabilit
 ---
 
 - **Teardown cudzej kampanii zamiast opisu własnych osiągnięć (mech. 20)**: raz w miesiącu rozbierz publicznie jeden materiał z sektora — stronę zbiórki, mail apelowy, sekwencję powitalną innej organizacji — trzymając się pięciu kroków i kończąc zasadą, nie oceną. **Działa w skali 2–5 osób** — jedna godzina i materiał, który i tak jest publicznie dostępny; **warunek, nie próg**: analizuj materiał organizacji, z którą nie konkurujesz o tych samych darczyńców, i pisz o mechanizmie, nie o ludziach — inaczej koszt relacyjny w małym sektorze przewyższa zysk wizerunkowy. Ten sam schemat działa jako ćwiczenie na szkoleniu: uczestnicy rozbierają realny materiał zamiast słuchać wykładu o zasadach.
+- **Program ambasadorski bez premii pieniężnej (mech. 21)**: motywuj rozpoznawalnością i misją, nie bonusem za post — premia wypłacana doraźnie (np. w kryzysie) uczy, że publikowanie jest płatnym zleceniem, i znika razem z nią. **Działa w skali 2–5 osób** — wymaga jedynie wspólnego rytmu i jednej osoby, która podsuwa tematy; Collaborative Post (do 5 współautorów) pozwala takiemu zespołowi wydać jeden materiał pod kilkoma nazwiskami naraz, gdy funkcja będzie dostępna.
 
 ## Otwarte pytania
 

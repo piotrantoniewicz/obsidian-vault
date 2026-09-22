@@ -5,7 +5,7 @@ tags:
   - organizacje-społeczne
   - digital-campaigning
 created: 2026-06-13
-updated: 2026-09-14
+updated: 2026-09-22
 relevance: wysoka
 sources:
   - "[[2026-04-08 Społeczność Jako Twój Najlepszy Fundraiser Jak Wdrożyć Model Peer-to-Peer]]"
@@ -29,6 +29,7 @@ sources:
   - "[[2025-11-15 Silent Auctions Everything You Need to Know]]"
   - "[[2026-02-02 How to Calculate Event Fundraising ROI]]"
   - "[[2026-09-09 The Spectator Paradox Reaching the people unmoved by social pressure]]"
+  - "[[2024-07-19 How to Secure & Promote a Matching Grant for GivingTuesday]]"
 ---
 
 # Peer-to-peer fundraising (fundraising rówieśniczy)
@@ -103,6 +104,9 @@ Domknięcie zdania z mech. 5 („rentowność trzeba liczyć z kosztem pracy") k
 **19. Warunek graniczny proxy trust — dla ok. 11 proc. odbiorców dowód społeczny otwiera drzwi, ale nie pogłębia ([[GivingTuesday]] / [[Perception Effect]])**
 Ograniczenie zakresu dla mech. 1 i całego mechanizmu proxy trust, na którym stoi ta strona: widoczność cudzej hojności **nie działa jednakowo na wszystkich**. W grupie **Spectatorów (ok. 11 proc.** badanych — widzą hojność wokół siebie, ale sami nie mają dawania w swojej tożsamości) ekspozycja na sygnały dawania obniża prawdopodobieństwo niedawania tak samo jak u innych (**ok. 38 proc.**), ale **poszerzenie liczby sposobów angażowania się wynosi u nich ok. 4 proc. wobec 22–25 proc. w pozostałych grupach**. Znaczenie dla kampanii rówieśniczej: ambasador wprowadza takiego odbiorcę **w pierwszy gest**, ale **nie zamieni go w kolejnego ambasadora** — drabina zaangażowania zatrzymuje się na pierwszym szczeblu, dopóki nie pojawi się osobisty powód związany ze samą sprawą. Praktycznie: nie każdy pozyskany rówieśniczo kontakt jest kandydatem na nano-ambasadora, a odsiew nie wynika z jakości relacji, tylko z tego, czym dawanie jest dla tej osoby ([[2026-06-03 Tożsamość darczyńcy|Tożsamość darczyńcy]], mech. 15). Metryczka: badanie ankietowe [[GivingTuesday]] / Perception Effect, wrzesień 2026, **bez podanego n i kraju w notatce**, deklaracje zamiast rekordów wpłat. *(Źródło: [[2026-09-09 The Spectator Paradox Reaching the people unmoved by social pressure]])*
 
+**20. Licznik w czasie rzeczywistym jako mechanizm konwersji — i matching jako spoiwo kampanii wielokanałowej ([[Madison Barefield]] / [[CauseVox]])**
+Uzupełnienie mech. 5 (ekosystem zamiast sezonowej kampanii) o element techniczny, który w opisach kampanii zwykle ginie jako szczegół wdrożeniowy: **widoczny, automatycznie aktualizowany licznik postępu puli matchingowej**. Teza źródła: matching działa najsilniej, gdy darczyńca **widzi efekt swojej wpłaty od razu**, bo licznik usuwa niepewność *„czy to naprawdę się dzieje"* — ręczne, opóźnione aktualizacje tę niepewność przywracają. Drugi element to **presja czasowa**, której nie zbuduje pojedynczy kanał: strona lub landing kampanii, e-mail, media społecznościowe i **ambasadorzy P2P pracują na ten sam licznik**, a nie na osobne cele — matching jest tu spoiwem, bo daje wszystkim kanałom **jeden wspólny, rosnący komunikat** zamiast czterech różnych apeli (uzupełnienie mech. 15 o mikro-kicie ambasadora: to najprostsza treść, jaką ambasador może przekazać dalej). Dwa case'y ze źródła, **z rynku USA i bez metodologii** — kotwice skali, nie benchmarki: kampania **Shower Strike** z automatycznym dopasowaniem zebrała **ponad 307 tys. USD** powyżej celu, a **Spur Local** zebrał **ponad 1 mln USD** w kampanii GivingTuesday opartej na fundraisingu peer-to-peer. Warunek brzegowy, o którym źródło nie mówi, a który wynika z mech. 18 tej strony: licznik i matching podnoszą konwersję, ale **nie zmniejszają kosztu pracy** przy obsłudze ambasadorów — to dźwignia na konwersję, nie na pojemność organizacyjną. Metryczka: poradnik dostawcy oprogramowania fundraisingowego (CauseVox, lipiec 2024, USA), **bez n, przykłady dobrane przez autora**. *(Źródło: [[2024-07-19 How to Secure & Promote a Matching Grant for GivingTuesday]])*
+
 ## Powiązane pojęcia
 
 - [[2026-06-03 Tożsamość darczyńcy|Tożsamość darczyńcy]] — P2P to mechanizm tożsamościowy, nie kanał dystrybucji: ambasador transferuje własną narrację o sobie wraz z prośbą o wpłatę
@@ -129,6 +133,8 @@ Ograniczenie zakresu dla mech. 1 i całego mechanizmu proxy trust, na którym st
 ---
 
 - **Nie każdy nowy kontakt jest kandydatem na ambasadora (mech. 19)**: przy rekrutacji nano-ambasadorów filtruj nie po tym, kto wpłacił, a po tym, **kto sam z siebie opowiada o sprawie** (odpisał, zadał pytanie, przyszedł na spotkanie). **Działa w skali 2–5 osób** — to obserwacja i notatka przy kilkudziesięciu osobach, bez narzędzi; **od progu** kilkuset kontaktów potrzebny jest jeden tag w bazie („sam zainicjował kontakt"), bo pamięć przestaje wystarczać.
+
+- **Jedna liczba widoczna we wszystkich kanałach kampanii (mech. 20)**: **działa w skali 2–5 osób** — warunkiem nie jest technologia, tylko decyzja, że **wszystkie kanały pokazują ten sam licznik** zamiast osobnych celów; przy braku systemu podającego stan na żywo wystarczy **ręczna aktualizacja raz dziennie o stałej porze** (pięć minut) i zapowiedziana z góry, żeby cisza między aktualizacjami nie czytała się jako zastój. **Działa od progu** automatyczny licznik — wymaga systemu wpłat z taką funkcją, czyli realnie przejścia na płatny plan narzędzia fundraisingowego; sensowne przy kampanii, w której pula matchingowa przewyższa roczny koszt tego narzędzia. **Nie działa w tej skali** kampania prowadzona równolegle na czterech kanałach z osobnymi treściami; **substytutem jest jeden kanał główny plus mail**, a pozostałe wyłącznie jako miejsce, w którym ambasadorzy podają dalej tę samą liczbę i ten sam link.
 
 ## Otwarte pytania
 

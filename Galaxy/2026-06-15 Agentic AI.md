@@ -5,7 +5,7 @@ tags:
   - narzędzia-AI
   - organizacje-społeczne
 created: 2026-06-15
-updated: 2026-09-21
+updated: 2026-09-22
 relevance: wysoka
 sources:
   - "[[2026-05-01 Understanding Agentic AI What It Means for Not-for-Profits]]"
@@ -37,6 +37,7 @@ sources:
   - "[[2026-08-17 How ABC Legal turned every employee into a builder with Claude Managed Agents]]"
   - "[[2026-09-03 Maszyna Sprzedażowa w 7 dni (1-2)]]"
   - "[[2026-09-14 Anthropic CEO AI Warning Walkthrough and Explanation]]"
+  - "[[2026-09-16 AI przyspieszyło pracę. Teraz firma musi nadążyć]]"
 ---
 
 # Agentic AI (AI agentowe / autonomiczne agenty)
@@ -106,6 +107,9 @@ Domknięcie mech. 22 od strony danych i nazwy zjawiska. Nieformalny opiekun stos
 
 **24. AgentOS — przeprojektuj proces, zanim dołożysz agenta; framework AGENT i pomiar misyjny zamiast adopcyjnego ([[Bryan Neider]] / [[DAIN Studios]])**
 Diagnoza spinająca mech. 4 („bolt-on nie dowozi") z warstwą wdrożeniową: **78% organizacji wdraża AI, a 80% z nich nie widzi mierzalnego wzrostu produktywności** — bo AI zostaje **doklejona do przestarzałego, ręcznego procesu**, więc automatyzuje istniejący bałagan administracyjny zamiast go usuwać. Propozycja docelowa — **Agent-Supported Organization (AgentOS)**: technologia jako **niewidzialna warstwa operacyjna**, agenci przejmują pracę administracyjną, a uwolniony czas wraca do bezpośredniego kontaktu z beneficjentem (skala problemu: **klinicyści i case managerowie potrafią spędzać do 40% czasu na kodach rozliczeniowych, dokumentacji zgodności i grafikach**). Framework **AGENT**, cykl dwunastotygodniowy: **Audit** — mapowanie drzew decyzyjnych i **niepisanych zasad** codziennych procesów (przedmiotem audytu są zadania, nie stos technologiczny); **Gauge** — filtr powtarzalność × wpływ × złożoność, żeby wybrać cele o najwyższej wartości; **Engineer** — briefy procesowe i prototypy low-code definiujące „persony" cyfrowych pracowników, granice danych i przypadki brzegowe, **bez pisania kodu**; **Navigate** — jawny system zarządzania („centralny układ nerwowy") z granicami bezpieczeństwa, prywatności i zgodności (styk z [[2026-06-15 AI governance|AI governance]]); **Track** — pomiar. Najmocniejszy element to właśnie zestaw wskaźników z fazy Track: **spadek liczby błędów, retencja kadry i wzrost godzin pracy bezpośredniej z beneficjentem** — czyli **miary misyjne zamiast adopcyjnych**. To bezpośredni kontrapunkt do raportowania „ilu pracowników używa narzędzia", które w tej wiki pojawia się jako domyślna metryka wdrożenia, i praktyczne domknięcie mech. 3: skoro wartością jest przesunięcie uwagi ludzi, to trzeba mierzyć, **na co ta uwaga poszła**. Faza Audit i Gauge nadają się wprost na ćwiczenie warsztatowe. *(Źródło: [[2026-08-26 Creating an Agent-Supported Organization]])*
+
+**30. Brief dla agenta to brief dla człowieka — cztery pytania przed delegowaniem i koszt zaakceptowanego wyniku zamiast zużycia tokenów ([[Karol Harabasz]], [[Adam Zasada]] / [[Dropbox]], rozm. [[Artur Kurasiński]])**
+Najprostsza dostępna operacjonalizacja checkpointów z mech. 2 i nadzoru z mech. 9: zanim zadanie trafi do agenta, ustala się **cztery rzeczy — te same, które ustala się, delegując pracę człowiekowi**: *(1) jaki wynik ma powstać i na jakich źródłach ma się opierać; (2) po czym poznamy, że zadanie jest wykonane dobrze* (kryterium odbioru spisane **przed** uruchomieniem, nie ocena po fakcie — ta sama logika, co „kryterium spisane przed pomiarem" w [[2026-07-06 Evale|Evalach]]); *(3) jakie działania wymagają dodatkowej zgody* (to jest miejsce, w którym „człowiek ponad pętlą" z mech. 3 zamienia się w konkretną listę); *(4) kto sprawdzi rezultat i podejmie decyzję o jego użyciu* — imiennie, bo rezultat bez odbiorcy dołącza do kolejki rzeczy czekających na sprawdzenie. Druga teza, ważna dla każdego, kto chce raportować zysk z agentów: **zużycie tokenów jest złym wskaźnikiem produktywności**; sensowny rachunek to **pełny koszt uzyskania zaakceptowanego wyniku** — przygotowanie, praca modelu, weryfikacja i poprawki — porównany z dotychczasowym sposobem pracy. Stąd obserwacja, która najlepiej opisuje pierwszy etap pracy z agentami: *„potrafię zrobić w trzy godziny coś, co zajęłoby trzy dni"* — przy jednoczesnym wzroście **kosztu przełączania uwagi i liczby rezultatów czekających na sprawdzenie** (to ta sama dynamika co „AI slop" w [[2026-06-13 Wdrażanie AI w organizacji społecznej|Wdrażaniu AI]], mech. 62, tylko widziana od strony pojedynczego delegowania). Metryczka: relacja z rozmowy z liderami jednej firmy technologicznej (ai-leaders.pl, wrzesień 2026), **bez n, bez pomiaru** — praktyka zespołu inżynierskiego, przenośna jako procedura, nie jako dowód. *(Źródło: [[2026-09-16 AI przyspieszyło pracę. Teraz firma musi nadążyć]])*
 
 ## Frameworki-kotwice
 
@@ -182,6 +186,8 @@ Najostrzejszy dotąd na tej stronie kontrpunkt do założenia, na którym stoi c
 - **Pętla harvester-tuner (mech. 27) bez infrastruktury git**: działa od progu jednego agenta w regularnym użyciu — cotygodniowy przegląd reakcji zespołu (kanał czatu, arkusz) i ręczna korekta promptu zamiast pełnej automatyzacji pull requestów; pełne „agent jako kod" z wersjonowaniem ma sens dopiero przy kilku–kilkunastu agentach naraz, gdy ręczne śledzenie zmian przestaje się skalować.
 
 ---
+
+- **Cztery pytania dopisane do jednego zadania agentowego (mech. 30)**: **działa w skali 2–5 osób** — cztery linijki dokleja się do promptu albo do opisu zadania w tym, czego organizacja już używa (dokument, karta zadania, notatka), koszt to kilka minut przy pierwszym uruchomieniu; największą wartość daje pytanie czwarte, bo w małym zespole „sprawdzi ktoś" oznacza w praktyce „nikt". **Działa od progu** rachunek pełnego kosztu zaakceptowanego wyniku — ma sens, gdy to samo zadanie powtarza się **co najmniej kilka razy w miesiącu**; przy zadaniu jednorazowym sam pomiar kosztuje więcej niż oszczędza, a wystarczy jedno zdanie „czy było szybciej niż poprzednio". **Nie działa w tej skali** koordynacja między zespołami opisana w źródle (pokazy zastosowań, przenoszenie praktyk między działami) — w organizacji 2–5 osób nie ma między kim koordynować; **substytutem jest jedno wspólne miejsce na działające prompty i zadania agentowe**, żeby praktyka nie została w historii czatu jednej osoby.
 
 ## Otwarte pytania
 

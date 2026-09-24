@@ -1,10 +1,14 @@
 ---
-type: "Web"
-authors: "[[Wheeler Mission]]"
-url: "https://fundraiseup.com/case-studies/wheeler-mission/?utm_campaign=Prospect%20Newsletter&utm_medium=email&_hsenc=p2ANqtz-_AWWl8gryqHDRN8dQWbk_GryzAI7-0UOSJ5759dh-sxBzrijwCFFEOcxjnnMIGQnY8crnWMNCCAiA8KoBMusgB9kimWg&_hsmi=439345428&utm_content=439345428&utm_source=hs_email"
-published:
-created: 2026-09-24
+type: Web
+authors: '[[Wheeler Mission]]'
+url: >-
+  https://fundraiseup.com/case-studies/wheeler-mission/?utm_campaign=Prospect%20Newsletter&utm_medium=email&_hsenc=p2ANqtz-_AWWl8gryqHDRN8dQWbk_GryzAI7-0UOSJ5759dh-sxBzrijwCFFEOcxjnnMIGQnY8crnWMNCCAiA8KoBMusgB9kimWg&_hsmi=439345428&utm_content=439345428&utm_source=hs_email
+published: null
+created: 2026-09-24T00:00:00.000Z
 tags:
+  - fundraising
+  - organizacje-społeczne
+  - produkty-cyfrowe
 ---
 
 

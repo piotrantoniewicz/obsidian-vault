@@ -1,10 +1,14 @@
 ---
-type: "Web"
-authors: "[[Kasia Szczesna]]"
-url: "https://behavioralinsight.substack.com/p/companies-are-rolling-out-ai-faster?utm_source=substack%2Csubstack&utm_medium=email%2Cemail&utm_campaign=email-restack-comment&r=4zdnrk&triedRedirect=true"
-published: 2026-09-23
-created: 2026-09-23
+authors: '[[Kasia Szczesna]]'
+created: '2026-09-23'
+published: '2026-09-23'
 tags:
+  - strategia-AI
+  - szkolenia-AI
+  - trendy-AI
+type: Web
+url: >-
+  https://behavioralinsight.substack.com/p/companies-are-rolling-out-ai-faster?utm_source=substack%2Csubstack&utm_medium=email%2Cemail&utm_campaign=email-restack-comment&r=4zdnrk&triedRedirect=true
 ---
 
 
@@ -106,7 +110,7 @@ Najlepiej tłumaczy to analogia, którą przywołuje [McKinsey w tym samym rapor
 
 ### Czy problemem naprawdę jest opór pracowników?
 
-Zadaję to pytanie na prawie każdym warsztacie, bo słowo „opór” pada zwykle w pierwszych minutach. Tymczasem dane pokazują coś, co powinno zmienić kierunek tej rozmowy. W [badaniu McKinsey](https://www.mckinsey.com/capabilities/people-and-organization/our-insights/from-adoption-to-impact-three-horizons-of-ai-transformation) 70% respondentów czuje się osobiście gotowych do pracy z AI, ale tylko 27% liderów uważa, że ich organizacja jest gotowa na potrzebne zmiany. Gotowość organizacji wyjaśnia 48% różnicy między firmami, które widzą wartość z AI, a tymi, które jej nie widzą. Gotowość indywidualna wyjaśnia 25%.
+Zadaję to pytanie na prawie każdym warsztacie, bo słowo „opór" pada zwykle w pierwszych minutach. Tymczasem dane pokazują coś, co powinno zmienić kierunek tej rozmowy. W [badaniu McKinsey](https://www.mckinsey.com/capabilities/people-and-organization/our-insights/from-adoption-to-impact-three-horizons-of-ai-transformation) 70% respondentów czuje się osobiście gotowych do pracy z AI, ale tylko 27% liderów uważa, że ich organizacja jest gotowa na potrzebne zmiany. Gotowość organizacji wyjaśnia 48% różnicy między firmami, które widzą wartość z AI, a tymi, które jej nie widzą. Gotowość indywidualna wyjaśnia 25%.
 
 Microsoft w raporcie *[2026 Work Trend Index](https://www.microsoft.com/en-us/worklab/work-trend-index/agents-human-agency-and-the-opportunity-for-every-organization)* dochodzi do bardzo podobnego wniosku na znacznie większej próbie, obejmującej 20 000 osób korzystających z AI w dziesięciu krajach. Czynniki organizacyjne, czyli kultura, wsparcie menedżera i praktyki kadrowe, odpowiadają za ponad dwa razy większą część deklarowanego wpływu AI niż nastawienie i zachowanie samego pracownika (67% wobec 32%). Autorzy raportu piszą wprost, że w wielu przypadkach ludzie są gotowi, a systemy wokół nich nie.
 
@@ -116,7 +120,7 @@ Jako projektantka mam na to jedno porównanie. Kiedy użytkownicy nie klikają w
 
 Jedno z najciekawszych odkryć w [raporcie Microsoftu](https://www.microsoft.com/en-us/worklab/work-trend-index/agents-human-agency-and-the-opportunity-for-every-organization) autorzy nazywają paradoksem transformacji. 65% osób korzystających z AI obawia się, że zostanie w tyle, jeśli nie zacznie szybko się dostosowywać. Jednocześnie 45% mówi, że bezpieczniej jest skupić się na bieżących celach niż przeprojektowywać swoją pracę z AI. Tylko 13% czuje, że jest nagradzanych za próbę zmiany sposobu pracy, nawet jeśli wynik nie będzie od razu dobry.
 
-Z perspektywy ekonomii behawioralnej to zachowanie jest całkowicie racjonalne. Eksperymentowanie oznacza ryzyko, że wyniki w tym kwartale będą słabsze, a za wyniki w tym kwartale ktoś jest rozliczany. Awersja do strat sprawia, że potencjalna strata waży dla nas więcej niż podobny zysk, więc wybieramy ścieżkę znaną i bezpieczną. Organizacja mówi „eksperymentujcie”, a jednocześnie mierzy, premiuje i awansuje za coś zupełnie innego. Kiedy system wysyła dwa sprzeczne komunikaty, ludzie wybierają ten, za którym stoją konsekwencje.
+Z perspektywy ekonomii behawioralnej to zachowanie jest całkowicie racjonalne. Eksperymentowanie oznacza ryzyko, że wyniki w tym kwartale będą słabsze, a za wyniki w tym kwartale ktoś jest rozliczany. Awersja do strat sprawia, że potencjalna strata waży dla nas więcej niż podobny zysk, więc wybieramy ścieżkę znaną i bezpieczną. Organizacja mówi „eksperymentujcie", a jednocześnie mierzy, premiuje i awansuje za coś zupełnie innego. Kiedy system wysyła dwa sprzeczne komunikaty, ludzie wybierają ten, za którym stoją konsekwencje.
 
 Dochodzi do tego brak spójności na górze. Tylko co czwarta osoba w [badaniu Microsoftu](https://www.microsoft.com/en-us/worklab/work-trend-index/agents-human-agency-and-the-opportunity-for-every-organization) uważa, że jej kierownictwo jest jasno i konsekwentnie zgodne w sprawie AI. Trudno oczekiwać, że pracownicy zmienią sposób pracy, skoro nie wiedzą, który z dyrektorów ma rację.
 
@@ -146,11 +150,11 @@ Tu dane są wyjątkowo zgodne. W [badaniu Microsoftu na 1800 pracownikach](https
 
 [McKinsey](https://www.mckinsey.com/capabilities/people-and-organization/our-insights/from-adoption-to-impact-three-horizons-of-ai-transformation) wskazuje zaufanie do organizacji jako najważniejszy czynnik gotowości na każdym poziomie dojrzałości. Osoby, które nisko oceniają wsparcie swojej firmy w czasie zmian, półtora raza częściej odczuwają niepokój związany z AI. Najwyższy poziom niepokoju deklarują menedżerowie średniego szczebla, czyli dokładnie ci ludzie, od których w największym stopniu zależy, czy zmiana przyjmie się w zespołach. To moim zdaniem jedno z najważniejszych miejsc do zaprojektowania w każdym wdrożeniu.
 
-Autorzy raportu McKinsey robią też rozróżnienie, które bardzo lubię. Uspokajanie ludzi i budowanie ich zaufania to dwie różne rzeczy. Zapewnienie, że „nic się nie zmieni”, może chwilowo obniżyć niepokój, ale nie buduje zaufania, zwłaszcza gdy ludzie przeczuwają, że ta obietnica nie wytrzyma próby czasu. Zaufanie rośnie wtedy, gdy liderzy mówią, co wiedzą, czego jeszcze nie wiedzą i jak będą podejmowane decyzje. Podobnie myśli Stephen Wunker, opisując w [artykule dla Forbesa](https://www.forbes.com/sites/stephenwunker/2026/03/22/why-ai-adoption-keeps-stalling-and-the-emotional-solution/) koncepcję SAVE Gerber. Jej zdaniem bezpieczeństwo psychologiczne nie powstaje podczas dużych spotkań z całą firmą. Powstaje w drobnych momentach, w tym, jak lider reaguje na czyjąś wątpliwość, pomyłkę albo pytanie zadane na korytarzu. Wunker łączy to z wcześniejszym [tekstem o tym, jak Amazon buduje kulturę opartą na inteligencji emocjonalnej](https://www.forbes.com/sites/stephenwunker/2026/02/18/how-amazon-uses-emotional-intelligence-to-craft-a-corporate-culture/).
+Autorzy raportu McKinsey robią też rozróżnienie, które bardzo lubię. Uspokajanie ludzi i budowanie ich zaufania to dwie różne rzeczy. Zapewnienie, że „nic się nie zmieni", może chwilowo obniżyć niepokój, ale nie buduje zaufania, zwłaszcza gdy ludzie przeczuwają, że ta obietnica nie wytrzyma próby czasu. Zaufanie rośnie wtedy, gdy liderzy mówią, co wiedzą, czego jeszcze nie wiedzą i jak będą podejmowane decyzje. Podobnie myśli Stephen Wunker, opisując w [artykule dla Forbesa](https://www.forbes.com/sites/stephenwunker/2026/03/22/why-ai-adoption-keeps-stalling-and-the-emotional-solution/) koncepcję SAVE Gerber. Jej zdaniem bezpieczeństwo psychologiczne nie powstaje podczas dużych spotkań z całą firmą. Powstaje w drobnych momentach, w tym, jak lider reaguje na czyjąś wątpliwość, pomyłkę albo pytanie zadane na korytarzu. Wunker łączy to z wcześniejszym [tekstem o tym, jak Amazon buduje kulturę opartą na inteligencji emocjonalnej](https://www.forbes.com/sites/stephenwunker/2026/02/18/how-amazon-uses-emotional-intelligence-to-craft-a-corporate-culture/).
 
 ### Jak wygląda projektowanie zmiany zachowań w praktyce?
 
-Kiedy pracuję z zespołami wdrażającymi AI, zaczynamy od pytania, które zaskakująco rzadko pada na początku projektu: jakie konkretne zachowanie ma się zmienić i u kogo? Samo „korzystanie z Copilota” nie jest zachowaniem, które da się zaprojektować. Zachowaniem jest na przykład to, że analityk przed przygotowaniem raportu sprawdza w modelu trzy alternatywne hipotezy, a potem sam decyduje, którą z nich przedstawić, lub to, że konsultant w obsłudze klienta weryfikuje podpowiedź AI zawsze wtedy, gdy dotyczy ona reklamacji powyżej określonej kwoty.
+Kiedy pracuję z zespołami wdrażającymi AI, zaczynamy od pytania, które zaskakująco rzadko pada na początku projektu: jakie konkretne zachowanie ma się zmienić i u kogo? Samo „korzystanie z Copilota" nie jest zachowaniem, które da się zaprojektować. Zachowaniem jest na przykład to, że analityk przed przygotowaniem raportu sprawdza w modelu trzy alternatywne hipotezy, a potem sam decyduje, którą z nich przedstawić, lub to, że konsultant w obsłudze klienta weryfikuje podpowiedź AI zawsze wtedy, gdy dotyczy ona reklamacji powyżej określonej kwoty.
 
 Następnie szukamy momentów decyzji, czyli miejsc w codziennej pracy, w których człowiek wybiera, czy użyć AI, czy zaufać wynikowi i czy go sprawdzić. W tych momentach ustalamy role: co należy do modelu, co do człowieka, kto ma ostatnie słowo i kto odpowiada za błąd. Potem patrzymy na otoczenie. Co dziś wspiera stary sposób pracy? Gdzie potrzebujemy więcej tarcia, bo pośpiech jest ryzykowny, a gdzie tarcie trzeba usunąć, bo zniechęca bez powodu? Jakie wskaźniki i nagrody mówią ludziom, że eksperymentowanie się opłaca?
 

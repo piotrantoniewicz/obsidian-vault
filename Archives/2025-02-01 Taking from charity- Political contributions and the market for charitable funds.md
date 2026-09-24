@@ -1,10 +1,14 @@
 ---
-type: "Web"
-authors: "[[Stephanie Karol]]"
-url: "https://www.sciencedirect.com/science/article/abs/pii/S0167268124004918?_bhlid=a54113ace0aa8157970b20991f07fb4c944e5e6c&utm_campaign=the-biggest-threat-to-your-fall-fundraising-isn-t-the-election&utm_medium=newsletter&utm_source=www.civicshoutnewsletter.com"
-published: 2025-02-01
-created: 2026-09-22
+type: Web
+authors: '[[Stephanie Karol]]'
+url: >-
+  https://www.sciencedirect.com/science/article/abs/pii/S0167268124004918?_bhlid=a54113ace0aa8157970b20991f07fb4c944e5e6c&utm_campaign=the-biggest-threat-to-your-fall-fundraising-isn-t-the-election&utm_medium=newsletter&utm_source=www.civicshoutnewsletter.com
+published: '2025-02-01'
+created: '2026-09-22'
 tags:
+  - fundraising
+  - organizacje-społeczne
+  - strategia-organizacji
 ---
 
 

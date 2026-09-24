@@ -1,10 +1,14 @@
 ---
-type: "Web"
-authors: "[[ai-leaders]]"
-url: "https://aileaders.pl/prawo-ai-bez-znieczulenia-za-ai-zawsze-ktos-odpowiada-podsumowanie-webinaru/?ref=aileaders-pl-newsletter"
-published: 2026-09-23
-created: 2026-09-23
+type: Web
+authors: '[[ai-leaders]]'
+url: >-
+  https://aileaders.pl/prawo-ai-bez-znieczulenia-za-ai-zawsze-ktos-odpowiada-podsumowanie-webinaru/?ref=aileaders-pl-newsletter
+published: '2026-09-23'
+created: '2026-09-23'
 tags:
+  - strategia-AI
+  - szkolenia-AI
+  - organizacje-społeczne
 ---
 
 

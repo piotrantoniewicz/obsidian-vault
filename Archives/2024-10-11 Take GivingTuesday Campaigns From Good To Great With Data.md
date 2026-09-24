@@ -1,10 +1,13 @@
 ---
-type: "Web"
-authors: "[[Ann Fellman]]"
-url: "https://bloomerang.com/blog/take-givingtuesday-campaigns-from-good-to-great-with-data?utm_medium=email&utm_source=marketo&utm_campaign=26Q3_EN1_FNL_in-bloom&utm_targeting=NA_all&utm_content=blog_GT-campaigns_email-09-18&mkt_tok=NjE4LVdHSS00NTkAAAGkVN_Up2QUuDpfJFJs55yvGOdNFPEP90JNDrmriCMafqLXyYRKRbMNwoRC8q_BgU63LyzP310ilode53Dr21nt9J-jlzsaVCW9_kpqyN2jPo8MnFY"
-published: 2024-10-11
-created: 2026-09-22
+authors: '[[Ann Fellman]]'
+created: '2026-09-22'
+published: '2024-10-11'
 tags:
+  - fundraising
+  - digital-campaigning
+type: Web
+url: >-
+  https://bloomerang.com/blog/take-givingtuesday-campaigns-from-good-to-great-with-data?utm_medium=email&utm_source=marketo&utm_campaign=26Q3_EN1_FNL_in-bloom&utm_targeting=NA_all&utm_content=blog_GT-campaigns_email-09-18&mkt_tok=NjE4LVdHSS00NTkAAAGkVN_Up2QUuDpfJFJs55yvGOdNFPEP90JNDrmriCMafqLXyYRKRbMNwoRC8q_BgU63LyzP310ilode53Dr21nt9J-jlzsaVCW9_kpqyN2jPo8MnFY
 ---
 
 

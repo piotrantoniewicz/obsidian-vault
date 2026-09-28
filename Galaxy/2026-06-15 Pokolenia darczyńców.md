@@ -5,7 +5,7 @@ tags:
   - digital-campaigning
   - organizacje-społeczne
 created: 2026-06-15
-updated: 2026-09-14
+updated: 2026-09-28
 relevance: wysoka
 sources:
   - "[[2025-10-21 GivingTuesday x Blackbaud Institute Special Report]]"
@@ -22,6 +22,8 @@ sources:
   - "[[2026-06-16 Donors Want Giving Platforms To Be Accurate, Transparent, Consent Of Charities]]"
   - "[[2026-02-26 Nonprofit Donation Form Templates That Increase Giving]]"
   - "[[2026-08-24 Expanding definitions of generosity Global and U.S. trends in helping others]]"
+  - "[[2024-05-07 2026 Social Media Statistics for Nonprofits]]"
+  - "[[2026-09-03 How to Build a Planned Giving Program A Step-by-Step Guide]]"
 ---
 
 # Pokolenia darczyńców (Donor Generations)
@@ -86,9 +88,17 @@ Uzupełnienie mech. 4 i danych *Giving Signals* z mech. 3 o wskaźnik, który do
 **10. Odkrywanie przez platformę, nie przez organizację — 88% Gen Z i millenialsów ([[BBB Give.org]])**
 Doprecyzowanie mech. 5 („kanał różni się generacyjnie") o **moment odkrycia**: **88% Gen Z i millenialsów korzysta z platform dawania specjalnie po to, by odkrywać nowe organizacje**, a **70% wszystkich darczyńców z ostatnich trzech lat** dało przez co najmniej jeden zewnętrzny kanał online. To zamyka pewną lukę w mech. 9 (otwartość na nową organizację, 80% vs 30%): młodsze pokolenia nie tylko **chcą** poznawać nowe organizacje — mają na to **konkretne, cudze miejsce**, którym organizacja nie zarządza. Konsekwencja pokoleniowa: dla tych roczników „pierwsze wrażenie" o organizacji powstaje w interfejsie platformy (opis, zdjęcie, kwoty domyślne, wiarygodność samego pośrednika), zanim ktokolwiek trafi na jej stronę — więc audyt obecności na platformach jest dla nich elementem strategii pozyskania, a nie tylko administracją. Warstwa zaufania działa dwukierunkowo: **62% użytkowników platform** deklaruje, że obecność organizacji na znanej platformie zwiększa ich zaufanie do niej. Rozwinięcie mechanizmu i ryzyk po stronie kanału: [[2026-06-25 Owned vs rented audience|Owned vs rented audience]] mech. 23. *(Źródło: [[2026-06-16 Donors Want Giving Platforms To Be Accurate, Transparent, Consent Of Charities]])*
 
+**12. Ekonomia płatnej akwizycji na TikToku — 590 USD za darowiznę wobec 74 USD na Meta (M+R, za [[Heather Mansfield]])**
+Kontrapunkt kosztowy do mech. 2 (TikTok jako kanał najczęstszych zapisów na dawanie cykliczne): w reklamach fundraisingowych **koszt pozyskania jednej darowizny wynosi 590 USD na TikToku wobec 74 USD na platformach Meta**, a **ROAS 0,04 USD wobec 0,76 USD** (M+R Benchmarks). Wniosek źródła: TikTok lepiej służy zasięgowi i świadomości niż bezpośredniemu fundraisingowi. Adopcja rośnie (**14% organizacji na TikToku wobec 6% w 2023**; inne źródło w tym samym zestawieniu podaje 27%), ale tylko **1% organizacji wydających na reklamy w social media** kieruje budżet na TikToka. Zob. Sprzeczności. *(Źródło: [[2024-05-07 2026 Social Media Statistics for Nonprofits]])*
+
+**13. Gen Z najczęściej deklaruje zapis testamentowy — 19%, najwięcej ze wszystkich pokoleń (FreeWill, za [[Rob Burke]] / [[DonorDock]])**
+Uzupełnienie mapy z mech. 1 o oś, której ta strona nie miała: **19% darczyńców z pokolenia Gen Z uwzględniło już organizację w planach spadkowych — najwyższy odsetek spośród badanych pokoleń** (badanie planned giving [[FreeWill]]). Liczba łamie domyślne przypisanie legatów do Boomersów ([[2026-07-06 Transfer międzypokoleniowy majątku|Transfer międzypokoleniowy majątku]], mech. 6; tam zapisana jako sprzeczność), ale czytać ją trzeba razem z mech. 1: to odsetek **wewnątrz** kohorty stanowiącej <4% darczyńców i **deklaracja**, nie zrealizowany zapis. Wniosek operacyjny źródła: o zapisach warto mówić wszystkim grupom wiekowym, nie tylko najstarszym. Metryczka: FreeWill, rok i n niepodane w notatce, USA. *(Źródło: [[2026-09-03 How to Build a Planned Giving Program A Step-by-Step Guide]])*
+
 ## Sprzeczności
 
 - **Efekt sugerowanych kwot generowanych przez AI: +10–15% czy +62%?** [mech. 10, liczby-kotwice kanału] — A: funkcje AI na formularzu (sugerowane kwoty, automatyczna częstotliwość) podnoszą **przychód o 10–15%** ([[2026-06-29 Pulse of the Donor 2026 Fundraising Benchmarks & Giving Trends|Pulse of the Donor 2026]], 2026, bez podanego n, rynek US/AU, badanie benchmarkowe dostawcy). B: **„smart ask strings" dopasowane przez AI podnoszą średnią wielkość darowizny r/r nawet o 62%** ([[2026-02-26 Nonprofit Donation Form Templates That Increase Giving|Nonprofit Donation Form Templates]], 2026, bez podanego n, rynek US, treść sponsorowana dostawcy formularzy [[CharityEngine]]). Wątpliwość nazwana wprost: metryki nie są tożsame (**przychód programu** vs **średnia wielkość pojedynczej darowizny**), więc może to być doprecyzowanie zakresu, a nie spór — ale różnica jest **czterokrotna**, oba pomiary pochodzą od dostawców narzędzi, żadne źródło nie podaje próby ani okresu, a obie liczby trafiają do tych samych materiałów o AI w fundraisingu. *Status: otwarte.*
+
+- **TikTok: inwestycja w recurring czy najdroższy kanał fundraisingu?** [mech. 2, 12] — A: darczyńcy pozyskani przez TikTok zapisują się na dawanie cykliczne w ciągu 60 dni w **18,7% (USA) / 22,2% (Australia)** wobec 5,8% z e-maila, więc akwizycja przez kanały młodych to „inwestycja w cykliczność, nie strata" ([[2026-06-29 Pulse of the Donor 2026 Fundraising Benchmarks & Giving Trends|Pulse of the Donor 2026]], 2026, bez podanego n, USA/Australia, dane dostawcy formularzy). B: płatnie pozyskana darowizna z TikToka kosztuje **590 USD wobec 74 USD na Meta**, ROAS **0,04 wobec 0,76**, a kanał lepiej służy zasięgowi niż fundraisingowi ([[2024-05-07 2026 Social Media Statistics for Nonprofits|Mansfield za M+R Benchmarks]], zestawienie na 2026, bez podanego n, USA). Wątpliwość nazwana wprost: metryki są różne (A — konwersja na recurring wśród już pozyskanych, bez rozróżnienia ruchu płatnego i organicznego; B — koszt i zwrot z reklam płatnych), więc obie liczby mogą być prawdziwe naraz; ale rekomendacje budżetowe są przeciwne, a żadne źródło nie zestawia wartości życiowej darczyńcy z TikToka z kosztem jego pozyskania. *Status: otwarte.*
 
 ## Powiązane pojęcia
 

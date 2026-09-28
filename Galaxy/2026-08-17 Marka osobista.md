@@ -5,7 +5,7 @@ tags:
   - ghostwriting
   - organizacje-społeczne
 created: 2026-08-17
-updated: 2026-09-22
+updated: 2026-09-28
 relevance: wysoka
 sources:
   - "[[2024-06-26 Marka osobista w NGO jak zacząć budowanie wizerunku społecznika społeczniczki]]"
@@ -31,6 +31,7 @@ sources:
   - "[[2026-07-29 The Croydon Story How losing an election taught us how to win]]"
   - "[[2026-09-14 Matthew C Brown - teardowny jako dowód kompetencji]]"
   - "[[2026-09-10 Jak działa nowy algorytm LinkedIn w 2026 roku  Karol Stróż]]"
+  - "[[2024-05-07 2026 Social Media Statistics for Nonprofits]]"
 ---
 
 # Marka osobista
@@ -109,6 +110,9 @@ Format, który realizuje zasadę „pokaż, nie deklaruj" z mech. 14 (*buyabilit
 
 **21. Motywacja ambasadorów i format współautorstwa — premia kupuje posty tylko na czas wypłat (Karol Stróż / [[Sharebee]], rozmowa z [[Adam Wojda|Adamem Wojdą]])**
 Dwa uzupełnienia mech. 9 (employee advocacy) od strony utrzymania programu, nie jego startu. **(a) Bezpośrednia premia finansowa jest ryzykowną podstawą programu ambasadorskiego:** case firmy, która płaciła ambasadorom wyłącznie w okresie kryzysu wizerunkowego — posty zniknęły razem z wypłatami. Wniosek źródła: program trzyma się na motywacji wewnętrznej (misja, rozpoznawalność własnego nazwiska), a pieniądz kupuje aktywność, nie nawyk. Dla organizacji społecznej to akurat dobra wiadomość — jej naturalną walutą jest misja, nie budżet na premie. **(b) Collaborative Post** — zapowiadana funkcja [[LinkedIn]] pozwalająca oznaczyć **do 5 osób jako współautorów jednego posta**; to natywny format dla programu rozłożonego na zespół (jeden materiał, kilka profili, wspólny zasięg), który zmniejsza koszt „każdy musi pisać sam”. Kontekst algorytmiczny zgodny z mech. 15: przejście z grafu kontaktów na **graf zainteresowań** i ocena **całego profilu** i jego spójności tematycznej, nie pojedynczego posta. **(c) Hierarchia zaufania modeli do źródeł wiedzy o organizacji** (w ujęciu employer brandingu): Reddit → **LinkedIn** (treść podpisana imieniem, nazwiskiem i stanowiskiem) → Wikipedia → YouTube → GoWork → **strona kariery firmy na samym dole** (czytana jako marketing) — kolejny argument za mech. 7: profil osoby pracuje na widoczność organizacji mocniej niż jej własna strona. Metryczka: rozmowa podcastowa praktyków (wrzesień 2026, Polska), **case bez nazwy firmy i bez liczb, hierarchia bez podanego badania**. *(Źródło: [[2026-09-10 Jak działa nowy algorytm LinkedIn w 2026 roku  Karol Stróż]])*
+
+**22. Darczyńca sprawdza organizację na LinkedIn — 42% i 26% (Classy, za [[Heather Mansfield]])**
+Liczba po stronie popytu pod mech. 7 (profil jako landing page) i 14 („buyability"): **42% darczyńców w USA używa LinkedIn do sprawdzania organizacji, które zamierzają wesprzeć, a 26% odkrywa tam okazje do darowizny** (Classy). Po stronie podaży użycie LinkedIn przez organizacje wzrosło z **49% (2023) do 78% (2026)**, przy średnim zasięgu organicznym postów rzędu **3% obserwujących** — czyli obecność na LinkedIn pracuje głównie jako **powierzchnia weryfikacji przed decyzją**, a nie kanał zasięgu, co wzmacnia argument za profilami osób (mech. 7, 9) obok strony organizacji. Metryczka: dane Classy bez podanego roku i n, USA; zasięg — Social Status. *(Źródło: [[2024-05-07 2026 Social Media Statistics for Nonprofits]])*
 
 ## Powiązane pojęcia
 

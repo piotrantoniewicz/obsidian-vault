@@ -5,7 +5,7 @@ tags:
   - strategia-organizacji
   - organizacje-społeczne
 created: 2026-06-13
-updated: 2026-09-22
+updated: 2026-09-28
 relevance: wysoka
 sources:
   - "[[2025-02-11 Best Practices for Major Gift Fundraising What You Need to Know to Raise More]]"
@@ -31,6 +31,7 @@ sources:
   - "[[2024-07-19 How to Secure & Promote a Matching Grant for GivingTuesday]]"
   - "[[2026-09-15 Caroline Griffin - multiplier i długość dopasowania darowizn]]"
   - "[[2026-08-21 Your Next Major Donor Is Already Giving Monthly]]"
+  - "[[2026-09-03 How to Build a Planned Giving Program A Step-by-Step Guide]]"
 ---
 
 # Major gifts (duże darowizny)
@@ -108,6 +109,10 @@ Dopowiedzenie do dwóch z czterech parametrów mech. 20 (**termin i proporcja**)
 
 **22. Sustainer jako prospekt dużego daru — próg dodatkowych punktów kontaktu i „wjazdówki” z istniejących wydarzeń ([[Dave Raley]], Center for Sustainable Giving)**
 Case i reguła operacyjna dla dźwigni (4) z [[2026-06-12 Recurring giving|Recurring giving]] mech. 13 („zniesienie silosu wobec dużych darczyńców”). Case: darczyńca [[Bible League International]] dający **100 USD miesięcznie**, zaproszony na wizytę terenową, przekazał potem **100 000 USD ze swojej fundacji rodzinnej**. Kalibracja: analiza [[Masterworks]] pokazuje, że **wartość darczyńcy rośnie po przejściu na dawanie cykliczne w każdym przedziale kwotowym**, a **najbardziej u darczyńców 5000+ USD** — co podważa obawę, że dawanie miesięczne „kanibalizuje” duże dary (ten sam kierunek co Recurring giving mech. 23 z niszy rescue mission). Trzy kroki: (1) traktuj każdego sustainera jako potencjalnego dużego darczyńcę; (2) ustaw **próg dodatkowych punktów kontaktu** — np. powyżej 100 lub 250 USD miesięcznie telefon, odręczna notka, zaproszenie; (3) daj **„wjazdówki” (on-ramps)** przez istniejące okazje — gala, wizyta terenowa, turniej — zamiast budować nowy program. Arytmetyka do rozmowy z zarządem: **500 USD/mies. = co najmniej 6000 USD w 12 miesięcy, szacunkowo 20 000+ USD w długim terminie**. Spina się z mech. 12 (29% dużych darów zaczyna się poniżej 250 USD) i mech. 8 (majątek słabo przewiduje hojność): regularność wpłat jest sygnałem skłonności, którego wealth screening nie widzi. Metryczka: artykuł doradcy promujący własne narzędzie audytowe (*Sustainable Giving Growth Assessment*), 2026, USA, **jeden case i analiza Masterworks bez podanego n**. *(Źródło: [[2026-08-21 Your Next Major Donor Is Already Giving Monthly]])*
+
+## Sprzeczności
+
+- **Wealth screening: pierwszy filtr czy ślepa uliczka przy typowaniu darczyńców planowych i dużych?** [Transfer mech. 2; Major gifts mech. 8, 14] — A: profil legatariusza to **wierność, nie zamożność** — „darczyńcy planowi często nie są największymi rocznymi darczyńcami", a wealth screening tego nie wykryje ([[2026-04-15 Developing Major Donors and Planned Giving for Long-Term Sustainability|CauseVox]], 2026, bez podanego n, USA); szerzej: **bogactwo koreluje z hojnością w mniej niż 10% przypadków**, więc prospecting oparty na majątku stoi na słabszym sygnale ([[2026-07-29 Preserving Humanity in AI-Powered Fundraising Key Insights from Nonprofit Tech Leaders » Avid|webinar Avid]], 2026, bez podanego n, USA); ten sam autor co w B proponował wcześniej punktację gotowości **bez wealth screeningu** (Major gifts mech. 14). B: **krok 1 programu planned giving to wealth screening bazy** (DonorSearch, iWave, WealthEngine), z filtrem stażu 3+ lat i regularności wpłat niezależnie od wysokości rocznego daru ([[2026-09-03 How to Build a Planned Giving Program A Step-by-Step Guide|Burke / DonorDock]], 2026, poradnik bez danych o skuteczności, USA). Wątpliwość nazwana wprost: B łączy wskaźniki majątkowe z wiernością, więc może to być kombinacja, a nie spór — ale kolejność (narzędzie majątkowe jako pierwszy filtr, płatne) jest odwrotna niż w A, a dla małej organizacji decyduje o tym, czy start programu wymaga zakupu bazy. *Status: otwarte.*
 
 ## Powiązane pojęcia
 

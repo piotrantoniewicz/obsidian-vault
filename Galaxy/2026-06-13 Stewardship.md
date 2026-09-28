@@ -5,7 +5,7 @@ tags:
   - organizacje-społeczne
   - digital-campaigning
 created: 2026-06-13
-updated: 2026-09-22
+updated: 2026-09-28
 relevance: wysoka
 sources:
   - "[[2026-09-15 Nobody told your board what the job is]]"
@@ -65,6 +65,7 @@ sources:
   - "[[2026-09-08 Do people give because you won at pingpong-]]"
   - "[[2026-06-16 The Process Payoff How WFAE Grew Digital Revenue 248% Year-Over-Year]]"
   - "[[2026-08-28 Racheli Edelkopf - AI w komunikacji emocjonalnej budzi obrzydzenie darczyńców]]"
+  - "[[2026-09-15 What can you afford to cut]]"
 ---
 
 # Stewardship (opieka nad darczyńcą)
@@ -229,6 +230,9 @@ Twardy case dla mech. 19 („fundraising bez właściciela i rytmu nie istnieje�
 **45. Rada nie jest bierna, jest niepoinformowana — pętla odpowiedzialności przeniesiona z darczyńców na zarząd ([[BoardSource]] *Leading with Intent* za DonorDock, case [[Laurie Sallarulo]] / Junior Achievement of South Florida)**
 Rozszerzenie mech. 19 („fundraising bez właściciela i rytmu nie istnieje") na kohortę, której ta strona dotąd nie obejmowała: **zarząd/radę**. Diagnoza identyczna jak przy darczyńcach — bierność wynika **nie z braku zaangażowania, tylko z braku przypisanego właściciela i braku informacji zwrotnej**: **45% prezesów NGO ocenia fundraisingowe zaangażowanie swojej rady na D lub F** (mniej niż 3% daje A), mimo że **70% organizacji ma spisane opisy stanowisk** dla członków rady — tylko **5% prezesów** mówi, że rada w dużym stopniu rozlicza się nawzajem z tych obowiązków. Spisany dokument bez właściciela egzekwowania to ten sam „PDF-owy" tryb awarii co w mech. 19, przeniesiony na poziom zarządu. Procedura naprawcza — **pętla odpowiedzialności**: (1) spisz oczekiwania na jednej stronie (datek finansowy i „get", osobisty dar, czas wolontariacki, wprowadzenia); (2) przypisz **każdemu** członkowi rady **jednego właściciela z zespołu**; (3) loguj kontakty z radą **tym samym rekordem CRM co darczyńców** (tagi, odznaki); (4) wysyłaj kwartalny „report card" bez oceniania i wstydzenia; (5) dopiero potem skaluj na całą radę. Case kontrapunktowy do odruchu „skurcz bierną radę": Sallarulo **rozbudowała** radę Junior Achievement of South Florida z ~50 do 68 osób, stosując cztery filtry rekrutacji (pasja do misji, gotowość otwarcia sieci kontaktów, znajomość branży lepsza niż u zespołu, brak nadmiernego ego) zamiast cięcia liczby. *(Źródło: [[2026-09-15 Nobody told your board what the job is]])*
 
+**46. Sezon końcoworoczny jako decyzja o skreśleniach — lista „zostaje / wypada" ([[Jess Campbell]] / Out in the Boons)**
+Przeniesienie mech. 10 („robienie więcej jest wrogiem") na jeden konkretny okres. Diagnoza z ankiety wśród liderów organizacji: kłopotem przed końcem roku nie jest brak czasu, tylko **nadmiar konkurujących priorytetów** — więc plan kampanii potrzebuje nie tylko listy zadań, ale **listy rezygnacji**, spisanej z wyprzedzeniem, a nie w listopadzie. **Zostaje:** stały (np. cotygodniowy) rytm kontaktu z darczyńcami jako „rozgrzanie" bazy, zanim wzrośnie częstotliwość wysyłek (spójne z mech. 24); wzmożona wdzięczność — maile, odręczne notatki, telefony, wiadomości prywatne (mech. 20); **prośby do dużych darczyńców o dar lub pulę matchingową już teraz, nie w listopadzie** (mech. 23). **Wypada:** zbędne spotkania, **budowanie nowej publiczności**, **zmiany narzędzi** (migracja CRM, zmiana dostawcy poczty — ryzyko przerwy w komunikacji w szczycie sezonu; zob. [[2026-06-14 Email deliverability|Email deliverability]]) oraz wydarzenia typu gala czy turniej golfowy. Stawka według autorki: kampanie końcoworoczne to **do 36% rocznego przychodu** organizacji — rząd wielkości zgodny z mech. 26 (grudzień = 37% roku wg M+R), choć liczby mierzą co innego (kampania vs miesiąc kalendarzowy). Metryczka: newsletter praktyczki (USA, wrzesień 2026), ankieta bez podanego n, źródło liczby 36% niepodane. *(Źródło: [[2026-09-15 What can you afford to cut]])*
+
 ## Sprzeczności
 
 
@@ -282,6 +286,7 @@ Domknięcie operacyjne mech. 1 i 9 (pierwszy rok relacji jako najsłabsze ogniwo
 - **Pętla odpowiedzialności rady w jednej stronie (mech. 45)**: spisz oczekiwania wobec rady (dar finansowy i „get", wolontariat, wprowadzenia) na jednej stronie, przypisz każdemu członkowi rady jedną osobę z zespołu jako właściciela kontaktu i wyślij kwartalny „report card" bez oceniania. **Działa w skali 2–5 osób** — nie wymaga CRM ani osobnego narzędzia, wystarczy arkusz z listą rady i datami ostatniego kontaktu; przy CRM-ie już używanym do darczyńców wystarczy dodać tag „rada" do tych samych rekordów.
 
 - **Dwutygodniowy sprint z jednym celem (mech. 44)**: wybierz jedną zmianę (np. moduł darowizny na górze strony programu), zapisz baseline, sprawdź wynik po dwóch tygodniach. **Działa w skali 2–5 osób** — kalendarz i arkusz. Pełna macierz RACI **działa od progu**: gdy decyzja przechodzi przez więcej niż jeden dział albo przez zarząd; źródło nie mówi, czy w zespole 2–3 osób daje coś ponad jedno zdanie „kto decyduje, kto robi” — pytanie idzie do otwartych.
+- **Lista „wypada" na sezon końcoworoczny** (za mech. 46): **działa w skali 2–5 osób** — to jedna kartka spisana we wrześniu podczas godzinnej rozmowy zespołu, bez narzędzi i budżetu; najważniejsza pozycja dla małej organizacji to przesunięcie każdej zmiany narzędzia (CRM, dostawca poczty) poza okres od października do końca roku, bo źródło wskazuje ją jako ryzyko przerwy w komunikacji w szczycie.
 
 ## Otwarte pytania
 

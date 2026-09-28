@@ -5,7 +5,7 @@ tags:
   - strategia-organizacji
   - content-marketing
 created: 2026-06-25
-updated: 2026-09-14
+updated: 2026-09-28
 relevance: wysoka
 sources:
   - "[[2026-05-12 why newsletter ghostwriting (time to forget LinkedIn)]]"
@@ -46,6 +46,7 @@ sources:
   - "[[2026-08-17 Experiences of using WhatsApp Communities for engagement]]"
   - "[[2026-08-20 Meta Ads data sharing restrictions]]"
   - "[[2026-08-21 Community messaging for movements]]"
+  - "[[2024-05-07 2026 Social Media Statistics for Nonprofits]]"
 ---
 
 # Owned vs rented audience (publiczność własna vs wynajęta)
@@ -179,6 +180,13 @@ Kolejny stopień mech. 26 („platform blackout"): Meta ogranicza **udostępnian
 
 **33. Facylitacja przed narzędziem — dlaczego społeczność zawsze „spada" do WhatsAppa ([[2026-08-21 Community messaging for movements|wątek ECF]])**
 Domknięcie mech. 31 od strony przyczyny. Wątek stawia obserwację, którą praktycy potwierdzają: dedykowane platformy społecznościowe ([[Slack]], [[Discord]], [[Mattermost]], [[Discourse]], [[Circle]]) przegrywają z WhatsAppem i [[Signal]]em nie dlatego, że są gorsze, tylko dlatego, że tamte **są już na telefonie i nie wymagają nowego nawyku**. Teza wątku — potwierdzona przez praktyka z organizacji z kilkuset wolontariuszami — brzmi: **wybór platformy jest wtórny wobec facylitacji i governance**; bez kogoś, kto realnie prowadzi przestrzeń, żadne narzędzie nie utrzyma zaangażowania dłużej niż kilka tygodni. Dwa wnioski konstrukcyjne: **(a) model hybrydowy** — WhatsApp/Signal jako warstwa zasięgu i mobilizacji (niski próg wejścia), ustrukturyzowana platforma jako **warstwa pamięci instytucjonalnej** (dokumenty, decyzje, grupy robocze); **(b) integracja zamiast nowej platformy** — dyskusję wpina się w narzędzie, które już daje inną, samoistną wartość (SSO, podpowiadanie powiązanych wątków), bo im ciaśniejsza integracja, tym większa wartość; *„Building a »better« discussion platform. It's been tried enough."* Uwaga do mech. 31: obie warstwy pozostają kanałem wynajętym, a warstwa zasięgu jest nim najmocniej — numery telefonów w cudzej aplikacji to nie baza organizacji. Metryczka: wątek forum ECF, sierpień 2026, jedna odpowiedź praktyka (organizacja z kilkuset wolontariuszami), bez pomiaru.
+
+**34. Mapa platform 2026 w liczbach — sektor wychodzi z X, wchodzi na LinkedIn i Instagram, a płatny Meta bije TikToka ([[Heather Mansfield]] / Nonprofit Tech for Good)**
+Zestawienie benchmarków (M+R Benchmarks, *2026 Nonprofit Tech for Good Report*, Social Status i in.) pokazuje ryzyko kanału wynajętego z mech. 1–3 jako **zachowanie całego sektora**, nie pojedynczych organizacji. **(a) Migracja:** użycie X wśród organizacji spadło z **59% (2023) do 22% (2026)**, a **13%** wciąż obecnych planuje odejść; LinkedIn wzrósł z **49% do 78%**, Instagram z **49% do 84%**; Threads i Bluesky pozostają marginalne. **(b) Zasięg organiczny jako procent obserwujących:** Facebook **5%** (przy średnio 53 tys. obserwujących organizacji i engagement rate **0,046%**), LinkedIn **3%**, Instagram **8%** — ta ostatnia liczba kłóci się z mech. 29 (zob. Sprzeczności). **(c) Ekonomia płatna (M+R):** koszt pozyskania darowizny z reklam **Meta 74 USD vs TikTok 590 USD**, ROAS reklam fundraisingowych **0,76 vs 0,04 USD**, koszt leada **3,64 vs 10,69 USD**. Wniosek zgodny z mech. 29 („płatne albo twórcze"): przy zasięgu rzędu kilku procent sama obecność nie jest strategią — albo budżet, albo przelewanie zasięgu w zasób własny. **(d) Proporcja owned/rented w jednej liczbie:** na każde **1000 adresów e-mail** organizacje mają średnio **36 obserwujących na TikToku** (M+R). Metryczka: agregat benchmarków z różnych lat i metodologii (artykuł z 2024 r. aktualizowany na 2026), głównie USA, bez jednolitego n. *(Źródło: [[2024-05-07 2026 Social Media Statistics for Nonprofits]])*
+
+## Sprzeczności
+
+- **Zasięg organiczny Instagrama: 3,5% czy 8% obserwujących?** [mech. 29, 34] — A: średni zasięg organiczny na Instagramie spadł o 12% r/r i wynosi **ok. 3,5% obserwujących** ([[Socialinsider]] za [[2026-09-01 Bardzo łatwo osiągnąć dziś sukces na Instagramie|Kłosiński]], 2026, bez podanego n, konta marek, rynek globalny). B: posty na Instagramie docierają średnio do **8% obserwujących** ([[Social Status]] za [[2024-05-07 2026 Social Media Statistics for Nonprofits|Mansfield / Nonprofit Tech for Good]], zestawienie aktualizowane na 2026, bez podanego n, bez rozbicia na sektor). Wątpliwość nazwana wprost: to dwaj różni dostawcy analityki z własną definicją zasięgu i doborem kont, więc różnica może być metodologiczna — ale metryka jest ta sama (procent obserwujących), różnica ponad dwukrotna, a od niej zależy, czy w rozmowie z klientem kanał jest „resztkowy", czy „słaby". *Status: otwarte.*
 
 ## Powiązane pojęcia
 

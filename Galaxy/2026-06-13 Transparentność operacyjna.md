@@ -5,7 +5,7 @@ tags:
   - organizacje-społeczne
   - strategia-organizacji
 created: 2026-06-13
-updated: 2026-09-22
+updated: 2026-09-28
 relevance: wysoka
 sources:
   - "[[2026-05-27 Transparentność boli. Dlaczego większość liderów woli kłamać?]]"
@@ -47,6 +47,7 @@ sources:
   - "[[2026-08-28 Racheli Edelkopf - AI w komunikacji emocjonalnej budzi obrzydzenie darczyńców]]"
   - "[[2026-09-15 Trust is becoming climate tech’s hardest growth challenge]]"
   - "[[2026-09-11 “The Fish Rots From the Head” Josh Nelson on Democrats’ Fundraising Problem]]"
+  - "[[2025-02-01 Taking from charity- Political contributions and the market for charitable funds]]"
 ---
 
 # Transparentność operacyjna (operational transparency)
@@ -171,6 +172,9 @@ Doprecyzowanie mech. 9 („human-made”) i 33 (nieufność wobec treści oznacz
 **35. Trzy rejestry pewności — co udowodnione, co jest ambicją, co zależy od przyszłości ([[James Montague]] / [[Forster]])**
 Operacyjne dopełnienie mech. 2 („brzydka transparentność”) od strony twierdzeń o wpływie, przeniesione z climate tech — sektora, w którym zaufanie stało się główną barierą wzrostu, bo inwestorzy, decydenci i społeczności lokalne oczekują dowodu, że deklarowany wpływ jest realny i mierzalny. Zdanie-kotwica: *„zaufanie rzadko jest naruszane przez przyznanie się do niepewności — bywa naruszane, gdy organizacje nie są wobec niej szczere”*. Narzędzie: każde twierdzenie o wpływie ma jeden z trzech rejestrów — **udowodnione** (mamy dane), **ambicja** (do tego zmierzamy), **zależne** (wydarzy się, jeśli spełnią się warunki poza naszą kontrolą) — zamiast wszystkich podanych w trybie oznajmującym; organizacje tracą wiarygodność na obietnicach „srebrnej kuli”, nie na przyznanych granicach wiedzy. Dwa dalsze wnioski: **(a) rozjazd komunikatów między kanałami** (materiały dla partnerów, strona, media) buduje nieufność nawet wtedy, gdy każdy komunikat z osobna jest mocny — ta sama teza co spójność międzykanałowa w [[2026-06-14 Framing|Framing]] mech. 24; **(b) konsultacja spóźniona jest odbierana jako pozorna** — interesariuszy angażuje się, zanim zapadną decyzje. Metryczka: tekst agencji komunikacyjnej (Wielka Brytania, wrzesień 2026), **bez danych i bez n**; przeniesienie na organizacje społeczne jest analogią, nie pomiarem. *(Źródło: [[2026-09-15 Trust is becoming climate tech’s hardest growth challenge]])*
 
+**36. Cięcie fundraisingu w odpowiedzi na konkurencję o darczyńcę pogłębia stratę — 133% efektu wypierania to reakcja samej organizacji ([[Stephanie Karol]])**
+Rozszerzenie mech. 4 (cykl głodzenia) z presji fundatorów na **autocenzurę budżetową samej organizacji** — tym razem z danych, nie z opinii. Recenzowane badanie ekonomiczne (dane na poziomie pojedynczych organizacji, USA; liczba wyborów federalnych i gubernatorskich jako zmienna instrumentalna) mierzy, jak darowizny polityczne wypierają charytatywne: **wzrost darowizn politycznych o 10% obniża wydatki organizacji na fundraising o ok. 0,92%, a wpływy z darowizn prywatnych o ok. 0,78%**; łącznie to **ok. 0,37 USD straty na każdy dolar wzrostu darowizn politycznych**, a strata **nie odrabia się w kolejnym roku**. Rozkład efektu jest tu ważniejszy niż jego wielkość: **kanał pośredni — cięcie wydatków na fundraising — tłumaczy 133% całkowitego wypierania**, czyli gdyby organizacje utrzymały nakłady, darowizny polityczne raczej zwiększałyby, niż zmniejszały wpływy charytatywne. To ten sam mechanizm co cykl głodzenia, uruchamiany od wewnątrz: w okresie konkurencji o uwagę darczyńcy organizacja „oszczędza" na pozyskiwaniu i sama wytwarza stratę, którą potem przypisuje otoczeniu. Wrażliwość jest nierówna — **zdrowie i usługi społeczne tracą wyraźnie więcej niż kultura i edukacja**. Metryczka: artykuł recenzowany (2025), USA, wielkość próby niepodana w notatce; polski odpowiednik (inny model finansowania polityki) niezbadany. *(Źródło: [[2025-02-01 Taking from charity- Political contributions and the market for charitable funds]])*
+
 ## Sprzeczności
 
 - **Czy darczyńcy odrzucają AI ukrytą, czy AI w rejestrze emocjonalnym?** [Stewardship mech. 21; Transparentność operacyjna mech. 18, 34] — A: „darczyńcy nie odrzucają AI — odrzucają AI, którą przed nimi ukryto”: jawność zasad podnosi akceptację personalizacji AI o **28,1 p.p.** ([[2026-08-10 Can AI Close the Gap in Nonprofit Fundraising Without Sacrificing Its Human, Transformational Nature-|Dobosz za Virtuous i Fundraising.AI]], 2026, bez podanego n, USA); ta sama teza w wersji „opór budzi brak przejrzystości, nie sama technologia” (Blackbaud Institute za [[2026-07-21 AI in Fundraising What Donors Actually Want|AI in Fundraising What Donors Actually Want]], 2026, bez podanego n, USA). B: gdy odbiorca **dowiaduje się**, że emocjonalną wiadomość napisała AI, deklarowane obrzydzenie moralne rośnie o **58,4%**, a skłonność do polecenia marki spada o **24,6%**; wersja rzeczowa tej reakcji nie wywołuje (**64% vs 15,9%** obrzydzenia) ([[2026-08-28 Racheli Edelkopf - AI w komunikacji emocjonalnej budzi obrzydzenie darczyńców|Racheli Edelkopf]], post LinkedIn 2026 referujący badanie, bez podanego autora badania, roku, n i kraju). Wątpliwość nazwana: A dotyczy jawności **zasad użycia danych i personalizacji**, B — **autorstwa AI tekstu emocjonalnego**, więc część konfliktu może być pozorna; źródło B nie mówi też, czy odbiorca dowiadywał się z ujawnienia nadawcy, czy po fakcie — a to dokładnie rozróżnienie, na którym stoi A. *Status: otwarte.*
@@ -221,3 +225,4 @@ Operacyjne dopełnienie mech. 2 („brzydka transparentność”) od strony twie
 - Czy "brzydka transparentność" da się skalować i powtarzać, czy traci moc, gdy staje się estetyką (kolejny wystudiowany "surowy" content)?
 - Jak mierzyć zwrot z transparentności — czy istnieje sposób powiązania komunikatów o wpływie z retencją i drugim darem, czy to akt wiary?
 - Na ile polski "cykl głodzenia" różni się od amerykańskiego — jaką rolę grają tu oczekiwania grantodawców publicznych i unijnych wobec kosztów pośrednich?
+- Czy polskie kampanie wyborcze konkurują z organizacjami o tych samych darczyńców (inny model finansowania partii niż w USA) — i czy polskie organizacje też odruchowo wstrzymują apele w latach wyborczych, powtarzając samoograniczenie opisane w mech. 36?

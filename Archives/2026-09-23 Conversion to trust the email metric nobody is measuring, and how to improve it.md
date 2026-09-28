@@ -5,6 +5,9 @@ url: "https://weareastral.co.uk/thevault/conversion-to-trust-the-email-metric-no
 published: 2026-09-23
 created: 2026-09-24
 tags:
+  - "digital-campaigning"
+  - "fundraising"
+  - "content-marketing"
 ---
 
 

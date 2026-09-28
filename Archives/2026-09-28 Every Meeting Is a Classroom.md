@@ -5,6 +5,8 @@ url: "https://www.linkedin.com/pulse/every-meeting-classroom-bryan-neider-rclbc/
 published: 2026-09-28
 created: 2026-09-28
 tags:
+  - "strategia-organizacji"
+  - "organizacje-społeczne"
 ---
 
 

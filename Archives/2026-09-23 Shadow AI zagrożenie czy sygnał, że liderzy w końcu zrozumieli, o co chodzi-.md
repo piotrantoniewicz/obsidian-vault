@@ -5,6 +5,9 @@ url: "https://www.linkedin.com/pulse/shadow-ai-zagro%C5%BCenie-czy-sygna%C5%82-%
 published: 2026-09-23
 created: 2026-09-23
 tags:
+  - "strategia-AI"
+  - "szkolenia-AI"
+  - "trendy-AI"
 ---
 
 

@@ -5,6 +5,9 @@ url: "https://fundraiseup.com/blog/agentic-giving-the-future-of-donor-experience
 published: 2026-07-29
 created: 2026-09-23
 tags:
+  - "fundraising"
+  - "trendy-AI"
+  - "organizacje-społeczne"
 ---
 
 

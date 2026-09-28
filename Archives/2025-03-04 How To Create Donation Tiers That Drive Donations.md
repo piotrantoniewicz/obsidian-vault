@@ -5,6 +5,8 @@ url: "https://www.causevox.com/blog/donation-tiers/?cv_t=yP2YEWqGl3nA38Lm.brQzk5
 published: 2025-03-04
 created: 2026-09-23
 tags:
+  - "fundraising"
+  - "organizacje-społeczne"
 ---
 
 

@@ -5,6 +5,8 @@ url: "https://bloomerang.com/blog/whats-the-best-way-to-thank-monthly-donors?utm
 published: 2026-01-23
 created: 2026-09-28
 tags:
+  - "fundraising"
+  - "organizacje-społeczne"
 ---
 
 

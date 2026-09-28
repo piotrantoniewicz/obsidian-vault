@@ -5,6 +5,9 @@ url: "https://bigduck.com/insights/seven-ways-to-build-stronger-donor-relationsh
 published: 2026-09-22
 created: 2026-09-24
 tags:
+  - "fundraising"
+  - "framing"
+  - "organizacje-społeczne"
 ---
 
 

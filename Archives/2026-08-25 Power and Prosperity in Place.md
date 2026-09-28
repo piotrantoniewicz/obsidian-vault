@@ -5,6 +5,9 @@ url: "https://thesocialchangenest.org/power-and-prosperity-in-place/?utm_campaig
 published: 2026-08-25
 created: 2026-09-28
 tags:
+  - "organizacje-społeczne"
+  - "fundraising"
+  - "strategia-organizacji"
 ---
 
 

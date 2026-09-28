@@ -5,6 +5,9 @@ url: "https://www.causevox.com/blog/ai-and-search-discoverability-for-nonprofits
 published: 2026-01-28
 created: 2026-09-24
 tags:
+  - "narzędzia-AI"
+  - "strategia-AI"
+  - "organizacje-społeczne"
 ---
 
 

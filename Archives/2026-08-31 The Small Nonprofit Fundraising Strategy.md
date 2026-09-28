@@ -5,6 +5,9 @@ url: "https://bloomerang.com/blog/the-small-nonprofit-advantage-strategy-for-sma
 published: 2026-08-31
 created: 2026-09-22
 tags:
+  - "fundraising"
+  - "organizacje-społeczne"
+  - "strategia-organizacji"
 ---
 
 

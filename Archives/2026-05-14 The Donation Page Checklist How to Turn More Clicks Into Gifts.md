@@ -5,6 +5,8 @@ url: "https://www.causevox.com/blog/the-donation-page-checklist/?cv_t=yP2YEWqGl3
 published: 2026-05-14
 created: 2026-09-23
 tags:
+  - "fundraising"
+  - "produkty-cyfrowe"
 ---
 
 

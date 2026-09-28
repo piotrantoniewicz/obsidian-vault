@@ -5,6 +5,9 @@ url: "https://www.linkedin.com/pulse/w-twojej-organizacji-ju%C5%BC-jest-wykorzys
 published: 2026-09-23
 created: 2026-09-23
 tags:
+  - "organizacje-społeczne"
+  - "narzędzia-AI"
+  - "strategia-AI"
 ---
 
 

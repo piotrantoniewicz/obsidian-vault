@@ -1,20 +1,17 @@
 ---
 authors:
-  - '[[Beth O''Malley]]'
+  - "[[Beth O'Malley]]"
 categories:
   - Clippings
-created: '2026-09-24'
-published: '2026-09-23'
+url: https://weareastral.co.uk/thevault/who-owns-email-deliverability-not-it?utm_medium=email&_hsenc=p2ANqtz-82BUhpAr8HryV5NLaN4YlhuiDYtdDON6Y_edGlga3XdCA6jjWUzKmV2xUc9ka8TBrPRycWUQW6OLgmZwlkJvXWKqWivnwVsSFBn8kgc1_ipihTOtg&_hsmi=146462425&utm_content=146421244&utm_source=hs_email
+source: "[[Archives/2026-09-23 Who owns email deliverability?|2026-09-23 Who owns email deliverability?]]"
+created: 2026-09-24
+published: 2026-09-23
 relevance: wysoka
-source: >-
-  [[Archives/2026-09-23 Who owns email deliverability?|2026-09-23 Who owns email
-  deliverability?]]
 tags:
   - digital-campaigning
   - fundraising
   - strategia-organizacji
-url: >-
-  https://weareastral.co.uk/thevault/who-owns-email-deliverability-not-it?utm_medium=email&_hsenc=p2ANqtz-82BUhpAr8HryV5NLaN4YlhuiDYtdDON6Y_edGlga3XdCA6jjWUzKmV2xUc9ka8TBrPRycWUQW6OLgmZwlkJvXWKqWivnwVsSFBn8kgc1_ipihTOtg&_hsmi=146462425&utm_content=146421244&utm_source=hs_email
 ---
 # Who owns email deliverability?
 

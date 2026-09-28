@@ -1,19 +1,17 @@
 ---
 authors:
-  - '[[Kyle Behrend]]'
+  - "[[Kyle Behrend]]"
 categories:
   - Clippings
-created: '2026-09-24'
-published: '2026-09-24'
+url: https://kylebehrend.substack.com/p/who-played-with-lego-as-a-kid
+source: "[[Archives/2026-09-24 Who Played With Lego as a Kid-|2026-09-24 Who Played With Lego as a Kid-]]"
+created: 2026-09-24
+published: 2026-09-24
 relevance: wysoka
-source: >-
-  [[Archives/2026-09-24 Who Played With Lego as a Kid-|2026-09-24 Who Played
-  With Lego as a Kid-]]
 tags:
   - automatyzacja
   - organizacje-społeczne
   - narzędzia-AI
-url: 'https://kylebehrend.substack.com/p/who-played-with-lego-as-a-kid'
 ---
 # Who Played With Lego as a Kid?
 

@@ -5,6 +5,9 @@ url: "https://bloomerang.com/blog/winning-donor-retention-message?utm_medium=ema
 published: 2026-09-09
 created: 2026-09-22
 tags:
+  - "fundraising"
+  - "digital-campaigning"
+  - "framing"
 ---
 
 

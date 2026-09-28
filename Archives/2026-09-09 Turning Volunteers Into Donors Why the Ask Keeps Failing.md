@@ -5,6 +5,9 @@ url: "https://www.donordock.com/articles/turning-volunteers-into-donors?utm_camp
 published: 2026-09-09
 created: 2026-09-23
 tags:
+  - "fundraising"
+  - "organizacje-społeczne"
+  - "strategia-organizacji"
 ---
 
 

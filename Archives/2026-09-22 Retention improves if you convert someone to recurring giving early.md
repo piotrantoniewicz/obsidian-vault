@@ -5,6 +5,8 @@ url: "https://adirectsolution.com/2026/09/08/retention-improves-if-you-convert-s
 published:
 created: 2026-09-22
 tags:
+  - "fundraising"
+  - "organizacje-społeczne"
 ---
 
 

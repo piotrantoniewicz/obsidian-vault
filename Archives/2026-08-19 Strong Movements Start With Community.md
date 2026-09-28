@@ -5,6 +5,8 @@ url: "https://thesocialchangenest.org/collective-care-as-the-path-and-the-goal/?
 published: 2026-08-19
 created: 2026-09-28
 tags:
+  - "organizacje-społeczne"
+  - "strategia-organizacji"
 ---
 
 

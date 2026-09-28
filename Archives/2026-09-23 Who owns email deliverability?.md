@@ -1,10 +1,14 @@
 ---
-type: "Web"
-authors: "[[Beth O'Malley]]"
-url: "https://weareastral.co.uk/thevault/who-owns-email-deliverability-not-it?utm_medium=email&_hsenc=p2ANqtz-82BUhpAr8HryV5NLaN4YlhuiDYtdDON6Y_edGlga3XdCA6jjWUzKmV2xUc9ka8TBrPRycWUQW6OLgmZwlkJvXWKqWivnwVsSFBn8kgc1_ipihTOtg&_hsmi=146462425&utm_content=146421244&utm_source=hs_email"
-published: 2026-09-23
-created: 2026-09-24
+type: Web
+authors: '[[Beth O''Malley]]'
+url: >-
+  https://weareastral.co.uk/thevault/who-owns-email-deliverability-not-it?utm_medium=email&_hsenc=p2ANqtz-82BUhpAr8HryV5NLaN4YlhuiDYtdDON6Y_edGlga3XdCA6jjWUzKmV2xUc9ka8TBrPRycWUQW6OLgmZwlkJvXWKqWivnwVsSFBn8kgc1_ipihTOtg&_hsmi=146462425&utm_content=146421244&utm_source=hs_email
+published: '2026-09-23'
+created: '2026-09-24'
 tags:
+  - digital-campaigning
+  - fundraising
+  - strategia-organizacji
 ---
 
 

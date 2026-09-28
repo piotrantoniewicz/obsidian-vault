@@ -5,6 +5,9 @@ url: "https://www.linkedin.com/pulse/well-marked-road-bryan-neider-zsibc/"
 published: 2026-09-23
 created: 2026-09-23
 tags:
+  - "strategia-AI"
+  - "organizacje-społeczne"
+  - "szkolenia-AI"
 ---
 
 

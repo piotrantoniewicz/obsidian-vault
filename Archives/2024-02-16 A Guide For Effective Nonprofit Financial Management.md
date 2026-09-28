@@ -1,10 +1,14 @@
 ---
-type: "Web"
-authors: "[[Daniel Grunstein]]"
-url: "https://bloomerang.com/blog/a-guide-for-effective-nonprofit-financial-management?utm_medium=email&utm_source=marketo&utm_campaign=26Q3_EN1_FNL_in-bloom&utm_targeting=NA_all&utm_content=blog_financial_email-09-11&mkt_tok=NjE4LVdHSS00NTkAAAGkMNNCrViMUsCe89z4odP-xMB0224cL2ktrI-62Lrzj4NYDPeN7jjpTYx1-f3PPrCu5uXmqEZKEjoedweZNAfPbC6WqLMhdNH8OhwAW38qeZDm9EQ"
-published: 2024-02-16
-created: 2026-09-22
+type: Web
+authors: '[[Daniel Grunstein]]'
+url: >-
+  https://bloomerang.com/blog/a-guide-for-effective-nonprofit-financial-management?utm_medium=email&utm_source=marketo&utm_campaign=26Q3_EN1_FNL_in-bloom&utm_targeting=NA_all&utm_content=blog_financial_email-09-11&mkt_tok=NjE4LVdHSS00NTkAAAGkMNNCrViMUsCe89z4odP-xMB0224cL2ktrI-62Lrzj4NYDPeN7jjpTYx1-f3PPrCu5uXmqEZKEjoedweZNAfPbC6WqLMhdNH8OhwAW38qeZDm9EQ
+published: '2024-02-16'
+created: '2026-09-22'
 tags:
+  - organizacje-społeczne
+  - strategia-organizacji
+  - fundraising
 ---
 
 

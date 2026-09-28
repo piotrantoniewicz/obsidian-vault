@@ -5,6 +5,9 @@ url: "https://fundraiseup.com/reports/pulse-check-giving-season-decoded/?utm_cam
 published:
 created: 2026-09-28
 tags:
+  - "fundraising"
+  - "digital-campaigning"
+  - "organizacje-społeczne"
 ---
 
 

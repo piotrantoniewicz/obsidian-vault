@@ -5,6 +5,9 @@ url: "https://www.donordock.com/articles/nonprofit-mission-drift?utm_medium=emai
 published: 2026-09-15
 created: 2026-09-23
 tags:
+  - "fundraising"
+  - "strategia-organizacji"
+  - "organizacje-społeczne"
 ---
 
 

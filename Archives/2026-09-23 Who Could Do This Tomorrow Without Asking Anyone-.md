@@ -5,6 +5,9 @@ url: "https://www.linkedin.com/pulse/who-could-do-tomorrow-without-asking-anyone
 published: 2026-09-23
 created: 2026-09-23
 tags:
+  - "automatyzacja"
+  - "strategia-organizacji"
+  - "narzędzia-AI"
 ---
 
 

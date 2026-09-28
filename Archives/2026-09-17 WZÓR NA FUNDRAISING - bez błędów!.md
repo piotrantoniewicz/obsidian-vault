@@ -1,10 +1,14 @@
 ---
-type: "Web"
-authors: "[[Armiger]]"
-url: "https://www.linkedin.com/pulse/wz%C3%B3r-na-fundraising-bez-b%C5%82%C4%99d%C3%B3w-armiger-jc10f/"
-published: 2026-09-17
-created: 2026-09-22
+type: Web
+authors: '[[Armiger]]'
+url: >-
+  https://www.linkedin.com/pulse/wz%C3%B3r-na-fundraising-bez-b%C5%82%C4%99d%C3%B3w-armiger-jc10f/
+published: '2026-09-17'
+created: '2026-09-22'
 tags:
+  - fundraising
+  - organizacje-społeczne
+  - framing
 ---
 
 

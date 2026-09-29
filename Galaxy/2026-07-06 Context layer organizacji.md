@@ -5,7 +5,7 @@ tags:
   - strategia-AI
   - strategia-organizacji
 created: 2026-07-06
-updated: 2026-09-14
+updated: 2026-09-29
 relevance: wysoka
 sources:
   - "[[2026-06-24 How a Former NYU Professor Uses Claude Code]]"
@@ -33,6 +33,7 @@ sources:
   - "[[2026-09-08 AI has deep memory now - how to use it]]"
   - "[[2026-09-08 Jak AI wspiera sprzedaż (2-2)]]"
   - "[[2026-09-10 Jacek Siadkowski - kolejność wdrażania AI w organizacjach społecznych]]"
+  - "[[2026-09-23 Who Could Do This Tomorrow Without Asking Anyone-]]"
 ---
 
 # Context layer organizacji (organizacyjna warstwa kontekstu)
@@ -113,6 +114,9 @@ Konkretny, opisany od strony operacyjnej wariant mech. 19 (warstwa jako proces c
 **22. Warstwa kontekstu ma swoje miejsce w kolejności — trzeci etap adopcji, nie pierwszy ruch ([[Jacek Siadkowski]] / [[Tech To The Rescue]])**
 Odpowiedź na pytanie, którego ta strona nie stawiała: **kiedy** organizacja jest gotowa budować warstwę. W pięcioetapowej drabinie adopcji (zob. [[2026-06-13 Wdrażanie AI w organizacji społecznej|Wdrażanie AI]] mech. 59) „kontekst organizacyjny dla całej organizacji" — polityki plus odpowiednik **second brain**: uporządkowana dokumentacja, połączone narzędzia, wspólne prompty i skille — jest **etapem trzecim**, poprzedzonym chaotycznym eksperymentowaniem zespołu (etap 1) i skoordynowanym wdrożeniem wewnętrznym z nazwaną osobą odpowiedzialną (etap 2). Konsekwencja praktyczna, zbieżna z mech. 5 (master context folder) i mech. 19 (warstwa jako proces, nie setup): **warstwa zbudowana przed etapem 1–2 nie ma czego utrwalać** — brakuje jej zarówno materiału z realnego użycia, jak i właściciela, który utrzyma ją między kampaniami. Ta sama drabina wyznacza też, po co się ją buduje: dopiero warstwa pozwala bezpiecznie wyjść z AI **na zewnątrz, do beneficjentów** (etap 4), więc jest warunkiem wyjścia, a nie jego alternatywą. Metryczka: post praktyka na LinkedIn, obserwacja setek organizacji bez podanego n i metodologii, Polska/Europa Środkowa. *(Źródło: [[2026-09-10 Jacek Siadkowski - kolejność wdrażania AI w organizacjach społecznych]])*
 
+**23. „Kto mógłby to zrobić jutro bez pytania kogokolwiek?” — wiedza w jednej głowie jako policzalne ryzyko i AI jako prowadzący wywiad ([[Wendy Clow]])**
+Operacyjna odpowiedź na trzecie pytanie testu z mech. 7 (*gdzie ta wiedza żyje naprawdę?*) — z audytów organizacji społecznych, tej samej autorki co mech. 12. Diagnoza: kluczowa wiedza o tym, **jak** faktycznie działają procesy (raporty cykliczne, procesy selekcji, zastępstwa), istnieje wyłącznie w głowach pojedynczych osób, a dokumentacja przegrywa z bieżącą pracą, bo **osoba posiadająca wiedzę jest najgorzej przygotowana do jej opisania** — czynności wykonywanej automatycznie nie da się zrekonstruować na pustej kartce. Zmiana pytania z audytowego na diagnostyczne: zamiast *„czy to jest udokumentowane?”* (odpowiedź: wzruszenie ramion) — **„kto mógłby to zrobić jutro bez pytania kogokolwiek?”** (odpowiedź: nazwisko, lista albo cisza o sekundę za długa — wszystko policzalne i do pokazania zarządowi). Procedura na godzinę: (1) spisz każdy powtarzalny proces, od którego zależy ktoś spoza zespołu (przepływy pieniędzy, wnioski, raporty dla grantodawców, płace); (2) przy każdym — kto naprawdę potrafi go uruchomić, nie kto jest formalnie przypisany; (3) zaznacz pozycje z **dokładnie jednym nazwiskiem**; (4) dla każdej: co działoby się w pierwszym tygodniu, gdyby ta osoba była niedostępna przez trzy miesiące; (5) uszereguj po koszcie tego tygodnia i zacznij od góry. Rola AI jest wąska i dlatego skuteczna: **nie generator dokumentacji, tylko prowadzący wywiad** — rozmowa z modelem zadającym pytania i dopytującym (albo transkrypt nagranej sesji roboczej) daje szkic procedury o **ok. 70% trafności**, który posiadacz wiedzy poprawia, bo rozpoznanie błędu jest łatwiejsze niż napisanie od zera. Rozróżnienie, którego strona dotąd nie miała: ryzyko koncentracji wiedzy to **co innego niż plan nieobecności** — dobry plan delegowania zadań nie mówi nic o tym, jak zadanie się wykonuje. Pilność bez kryzysu: interwencja działa **tylko dopóki luka jest teoretyczna** — po odejściu osoby nie ma z czego rekonstruować. To wejście do warstwy zasilane rozmową, tak jak mech. 21 jest zasilany rozmową handlową. Metryczka: esej praktyczki (LinkedIn, wrzesień 2026) z doświadczeń audytowych, **bez n**; 70% to szacunek autorki, nie pomiar. *(Źródło: [[2026-09-23 Who Could Do This Tomorrow Without Asking Anyone-]])*
+
 ## Powiązane pojęcia
 
 - [[2026-06-15 Context engineering|Context engineering]] — strona macierzysta: warstwa kontekstu wydzieliła się z tamtejszego mechanizmu 8; context engineering zarządza oknem (mikro), ta strona — trwałą bazą, z której okno czerpie (makro).
@@ -142,6 +146,8 @@ Odpowiedź na pytanie, którego ta strona nie stawiała: **kiedy** organizacja j
 ---
 
 - **Kiedy zacząć budować warstwę u klienta (mech. 22)**: jeśli organizacja nie ma za sobą etapu swobodnego eksperymentowania ani osoby odpowiedzialnej za adopcję, budowa „second brainu" będzie pracą dla konsultanta, nie dla niej. **Działa w skali 2–5 osób** dopiero **od progu jednej nazwanej osoby** z blokiem czasu na utrzymanie warstwy (rzędu godziny tygodniowo); poniżej tego progu **substytutem** jest jeden plik master context na dysku, aktualizowany przy okazji każdej większej kampanii, zamiast systemu połączonych narzędzi i skilli.
+
+- **Godzina „jednego nazwiska” jako pierwszy krok wdrożenia (mech. 23)**: spisz procesy, od których zależy ktoś z zewnątrz, zaznacz te z jednym nazwiskiem i dla najdroższego z nich przeprowadź wywiad z modelem jako pytającym, a szkic procedury daj do poprawy posiadaczowi wiedzy. **Działa w skali 2–5 osób** — godzina na listę i ok. godzina rozmowy na proces, bez narzędzi poza zwykłym czatem; w tej skali niemal każdy proces ma jedno nazwisko, więc ranking po koszcie pierwszego tygodnia jest jedynym sposobem, żeby nie utknąć na liście. To zarazem najtańsze wejście do master context folderu (mech. 5) — procedury z wywiadów są jego pierwszą zawartością.
 
 ## Otwarte pytania
 

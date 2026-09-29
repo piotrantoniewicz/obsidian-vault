@@ -5,6 +5,8 @@ url: "https://www.socialinsider.io/social-media-benchmarks/social-media-video-st
 published: 2026-08-21
 created: 2026-09-28
 tags:
+  - "content-marketing"
+  - "digital-campaigning"
 ---
 
 

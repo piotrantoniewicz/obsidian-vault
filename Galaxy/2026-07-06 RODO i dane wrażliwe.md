@@ -5,7 +5,7 @@ tags:
   - organizacje-społeczne
   - strategia-organizacji
 created: 2026-07-06
-updated: 2026-09-14
+updated: 2026-09-29
 relevance: wysoka
 sources:
   - "[[2025-09-02 AI Act & RODO 2025 Przewodnik po regulacjach UE karach i compliance]]"
@@ -28,6 +28,7 @@ sources:
   - "[[2026-09-04 Comparing OpenAI and Anthropic's Data Retention Policies]]"
   - "[[2026-09-09 Najlepsze taktyki z wdrożenia 150+ sekwencji na porzucone koszyki.]]"
   - "[[2026-09-09 Taniej, ale z haczykiem – nowa strategia Mety]]"
+  - "[[2026-09-23 W Twojej organizacji już jest wykorzystywana sztuczna inteligencja!]]"
 ---
 
 # RODO i dane wrażliwe (GDPR & Sensitive Data)
@@ -98,6 +99,9 @@ Rozróżnienie, którego ta strona nie miała, a które w praktyce decyduje, czy
 **19. Prywatność wyceniona wprost — rabat za zgodę na trenowanie na promptach ([[Meta]] / [[Moonwise]])**
 Domknięcie mech. 17 („nie trenujemy na twoich danych ≠ nie mamy twoich danych") przez przypadek, w którym dostawca **przestaje to ukrywać w regulaminie i zamienia w cennik**: [[Meta]] oferuje model Muse Spark 1.3 za **1,25 USD / mln tokenów wejściowych i 4,25 USD / mln wyjściowych — ok. 95 proc. taniej — w zamian za zgodę na trenowanie na promptach i danych użytkownika**. Konsekwencja praktyczna, ostrzejsza niż dotychczasowa rekomendacja „sprawdź retencję": jeśli poufność jest **pozycją w cenniku**, to w organizacji nie da się jej rozstrzygnąć raz dla całego narzędzia — trzeba **rozdzielić dwa tory pracy**: tańszy model do danych publicznych i treści syntetycznych, droższy i odseparowany do materiałów wrażliwych (dane darczyńców, dokumenty beneficjentów, strategie przed publikacją). Zdanie, które warto cytować na szkoleniach: *prywatność przestaje być prawem, a staje się towarem premium* — z zastrzeżeniem, że to teza autora newslettera, nie ustalenie prawne, a RODO nie przestaje obowiązywać dlatego, że dostawca zaproponował rabat: **zgoda administratora danych na trenowanie modelu na danych osobowych beneficjentów nie jest ceną do rozważenia, tylko decyzją, której nie wolno podjąć**. Metryczka: digest branżowy, wrzesień 2026, oferta jednego dostawcy, **bez n i bez analizy prawnej**. *(Źródło: [[2026-09-09 Taniej, ale z haczykiem – nowa strategia Mety]])*
 
+**20. Wolontariusze jako niewidoczny kanał shadow AI — i odpowiedzialność organizacji jako osoby prawnej ([[Legalden]])**
+Dopowiedzenie do mech. 6 i 10 od strony specyficznej dla sektora: nieformalne użycie AI w organizacji społecznej to nie tylko etat, ale **wolontariusze** przygotowujący raporty, komunikaty i posty — czyli osoby, które zwykle nie przechodzą onboardingu, nie podpisują polityki i korzystają z własnych kont. Teza prawna, która czyni to pilnym: **za szkodę odpowiada organizacja jako osoba prawna, niezależnie od tego, czy narzędziem był system AI** i kto go użył — więc brak polityki AI jest luką w zarządzaniu ryzykiem tej samej wagi co brak polityki ochrony danych, a nie brakiem „nowinki”. Autor zamyka to **listą dziesięciu zasad**, która w większości powtarza już opisane mechanizmy (podstawa prawna i minimalizacja — mech. 2; umowa powierzenia i polityka dostawcy — mech. 5; wyłączenie trenowania — mech. 3 i 17; [[DPIA]] — mech. 2 i 8), ale dokłada dwa elementy, których ta strona nie miała w jednym miejscu: **oznaczanie treści wygenerowanych przez AI** jako część polityki danych (por. [[2026-07-20 AI Act|AI Act]]) oraz **uzupełnienie istniejącej polityki ochrony danych o AI** zamiast pisania osobnego dokumentu od zera. Liczba do ostrożnego użycia: **1 na 5 organizacji doświadczyła już naruszenia bezpieczeństwa danych związanego z shadow AI** — notatka **nie podaje źródła, próby ani rynku**, więc nadaje się jako ilustracja, nie jako argument w rozmowie z zarządem. Metryczka: materiał kancelarii (LinkedIn, Polska, wrzesień 2026), bez n. *(Źródło: [[2026-09-23 W Twojej organizacji już jest wykorzystywana sztuczna inteligencja!]])*
+
 ## Powiązane pojęcia
 
 - [[2026-06-15 AI governance|AI governance]] — governance to procesy, role i polityka; ta strona to jego prawny substrat: RODO/AI Act wyznaczają twarde minimum, wokół którego governance buduje praktykę („wyciek danych beneficjentów = incydent RODO").
@@ -127,6 +131,8 @@ Domknięcie mech. 17 („nie trenujemy na twoich danych ≠ nie mamy twoich dany
 - **Dwie ścieżki przypomnień zamiast jednej (mech. 18)**: rozdziel w systemie mailowym adresy „ze zgodą marketingową" i „z transakcji" — do pierwszych sekwencja, do drugich **jeden mail informacyjny bez oferty**. **Działa w skali 2–5 osób**: to jeden dodatkowy tag i jeden krótszy szablon; koszt to godzina konfiguracji. **Od progu** regularnych kampanii płatnych albo bazy liczonej w dziesiątkach tysięcy adresów treść tego jednego maila warto dać do sprawdzenia prawnikowi — źródła nie rozstrzygają, gdzie dokładnie leży granica „treści promocyjnej".
 
 - **Dwa tory narzędzi zamiast jednego (mech. 19)**: wypisz na jednej kartce, co w organizacji jest jawne (treści, opisy projektów, materiały promocyjne), a co wrażliwe (dane darczyńców i beneficjentów, dokumenty przed publikacją) i przypisz temu drugiemu **jedno** narzędzie z jawnie sprawdzoną retencją — także wtedy, gdy jest droższe. **Działa w skali 2–5 osób** — to jedna strona w polityce AI i jedna subskrypcja; **nie działa** próba oszczędzenia przez wrzucanie wszystkiego do najtańszego planu, a **substytutem** przy zerowym budżecie jest reguła „danych osobowych nie wkleja się nigdzie" plus praca na materiale zanonimizowanym.
+
+- **Akapit o AI w porozumieniu wolontariackim (mech. 20)**: dopisz do porozumienia z wolontariuszem (albo do krótkiego onboardingu) trzy zdania z polityki AI — czego nie wklejamy, jakich narzędzi używamy, jak oznaczamy treści z AI — i dopisz AI do istniejącej polityki ochrony danych zamiast tworzyć nowy dokument. **Działa w skali 2–5 osób** — jeden akapit i pięć minut przy podpisywaniu porozumienia; w tej skali wolontariusze bywają liczniejsi niż etat, więc to często większa część powierzchni ryzyka niż zespół. Pełna lista dziesięciu zasad z DPIA **działa od progu** przetwarzania danych beneficjentów w narzędziu AI (wtedy obowiązuje ścieżka z mech. 8 i 14).
 
 ## Otwarte pytania
 

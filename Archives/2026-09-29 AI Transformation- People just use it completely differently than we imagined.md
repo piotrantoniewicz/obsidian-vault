@@ -5,6 +5,9 @@ url: "https://behavioralinsight.substack.com/p/ai-transformation-people-just-use
 published: 2026-09-29
 created: 2026-09-29
 tags:
+  - "strategia-AI"
+  - "szkolenia-AI"
+  - "strategia-organizacji"
 ---
 
 

@@ -5,7 +5,7 @@ tags:
   - organizacje-społeczne
   - digital-campaigning
 created: 2026-06-03
-updated: 2026-09-14
+updated: 2026-09-29
 relevance: wysoka
 sources:
   - "[[2026-04-08 Społeczność Jako Twój Najlepszy Fundraiser Jak Wdrożyć Model Peer-to-Peer]]"
@@ -33,6 +33,7 @@ sources:
   - "[[2026-09-08 Do kogo musisz się zwrócić, żeby otrzymać darowizny]]"
   - "[[2026-08-24 Expanding definitions of generosity Global and U.S. trends in helping others]]"
   - "[[2026-09-09 The Spectator Paradox Reaching the people unmoved by social pressure]]"
+  - "[[2026-09-22 Frank O’Brien on what’s wrong with your fundraising copy (and how to fix it)]]"
 ---
 
 # Tożsamość darczyńcy (Donor Identity)
@@ -110,6 +111,9 @@ Sformułowanie sekwencji psychologicznej, przez którą przechodzi każdy nowy d
 
 **13. Profil Idealnego Darczyńcy — twarz i imię przed napisaniem pierwszego zdania ([[Martyna Mazela]], Instytut Fundraisingu)**
 Krok poprzedzający test „lustra" z mech. 7: zanim sprawdzisz, czy darczyńca zobaczy w komunikacie siebie, musisz wiedzieć, **kto to jest**. Zasada w jednym zdaniu autorki: *„do wszystkich" w praktyce znaczy „do nikogo"* — darowiznę wpłaca zawsze jeden konkretny człowiek poruszony jedną konkretną historią, więc apel uniwersalny rozmywa przekaz i nikt nie czuje się adresatem. Praktyka: donor persona (Profil Idealnego Darczyńcy) z twarzą, imieniem i **powodem wpłaty**, a nie opisem segmentu demograficznego; ten sam zabieg działa w akwizycji, w [[digital campaigning|digital campaigningu]] i przy budowaniu bazy, nie tylko w dużych kampaniach. To polskie, sektorowe sformułowanie tej samej mechaniki, którą od strony treści opisują mech. 7 (lustro) i „konkret bije abstrakcję" w [[2026-06-14 Framing|Framingu]]. Proweniencja: mail sekwencji sprzedażowej płatnego warsztatu, bez danych — teza, nie pomiar.
+
+**16. Od „darów z obowiązku" do „darów z ekscytacji" — lojalność trzeba odnawiać przekazem, nie zakładać ([[Frank O'Brien]], rozm. [[Sara Cederberg]] / [[Civic Shout]])**
+Obserwacja praktyka z kilku dekad pisania dla dużych organizacji (ACLU, Lekarze bez Granic, Greenpeace, ASPCA): darczyńcy odeszli od dawania jednej organizacji **z poczucia obowiązku** na rzecz dawania tej, która **akurat robi najciekawszą rzecz w ich sprawie**. Dla tej strony to przesunięcie ciężaru: tożsamość darczyńcy wiąże się coraz silniej ze **sprawą**, a słabiej z konkretną organizacją — więc przynależność z mech. 1 i lustro z mech. 7 nie są stanem osiągniętym raz, tylko czymś, co każdy komunikat musi odnowić. Wniosek operacyjny źródła: **zapraszać do udziału w pracy i łączyć to z tożsamością odbiorcy**, zamiast raportować o działaniach organizacji. Metryczka: opinia ekspercka w wywiadzie (wrzesień 2026, USA), bez danych o zmianie zachowań. *(Źródło: [[2026-09-22 Frank O’Brien on what’s wrong with your fundraising copy (and how to fix it)]]; szczegóły warsztatowe — [[2026-06-14 Framing|Framing]], mech. 54)*
 
 ## Sprzeczności
 

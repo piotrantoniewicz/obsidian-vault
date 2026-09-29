@@ -5,7 +5,7 @@ tags:
   - digital-campaigning
   - fundraising
 created: 2026-06-14
-updated: 2026-09-22
+updated: 2026-09-29
 relevance: wysoka
 sources:
   - "[[2025-06-17 Jak wizualizacja danych wspiera komunikację organizacji społecznej Sprawdź na przykładzie Fundacji Gajusz]]"
@@ -32,6 +32,7 @@ sources:
   - "[[2026-09-10 World Refugee Day Campaign Strategy BRAC USA]]"
   - "[[2026-08-31 What Does Power Look Like?]]"
   - "[[2026-09-12 Jak robić sociale, gdy nie chodzi o kliki, a coś ważniejszego- -Mamy strategię na wszystko-]]"
+  - "[[2025-03-04 How To Create Donation Tiers That Drive Donations]]"
 ---
 
 # Storytelling oparty na danych (data storytelling)
@@ -133,6 +134,9 @@ Najpełniejszy dostępny przykład mech. 4 (systematyczne pozyskiwanie surowca) 
 **21. Granica całej strony: dane przekonują ludzi, nie władzę ([[Mira Weinstein]])**
 Zastrzeżenie domykające mech. 6 („dane otwierają drzwi, historia przez nie przechodzi") od strony, w której **żadne drzwi się nie otwierają**. W kampanii adresowanej do decydenta komplet rzetelnych danych bywa wysłuchany do końca i pozostawiony bez reakcji — nie dlatego, że był słaby, tylko dlatego, że **adresat nie ponosi kosztu zignorowania go**. Wniosek operacyjny dla organizacji, która „ma świetny raport i zero efektu": problem leży w warstwie władzy i żądania, nie w warstwie prezentacji liczb, więc kolejna iteracja infografiki niczego nie zmieni (rozwinięcie: [[2026-06-14 Framing|Framing]] mech. 48). Rozróżnienie warte utrzymania w doradztwie: **dane są dobrym narzędziem wobec darczyńcy, mediów i osoby niezdecydowanej — a słabym wobec adresata, który już podjął decyzję i ma prawo jej nie uzasadniać**. Metryczka: esej praktyczki organizingu (Substack, USA, sierpień 2026), **bez n i bez pomiaru** — obserwacja z ćwiczenia symulacyjnego i case'u historycznego. *(Źródło: [[2026-08-31 What Does Power Look Like?]])*
 
+**23. Progi darowizn jako typologia — pięć typów, 4–6 progów i kotwica we własnej średniej ([[Madison Barefield]] / [[CauseVox]])**
+Rozwinięcie mech. 13 (impact statement per próg) o wybór **typu** progu zależnie od tego, czy efekt da się policzyć. Zasady doboru: **ok. 4–6 progów** z krótkimi opisami (więcej przeciąża wybór; spójne z 3–6 tierami z [[2026-06-12 Recurring giving|Recurring giving]] mech. 4); **jeden próg blisko średniej darowizny i jeden wyraźnie powyżej** (na platformie autora średnia ok. **78 USD**, górny próg **>150 USD**) — ale **kotwicą ma być własna średnia organizacji**, nie benchmark platformy. Pięć typów: (1) **osoba do osoby** — ilu ludziom pomaga kwota (dla usług o jednorodnej potrzebie; case Well Aware *Shower Strike*, **>300 tys. USD**); (2) **przedmiot lub usługa** z ceną; (3) **czas** — godziny, dni, miesiące sfinansowanej pracy (projekty długie, terapia) — ta sama technika co „zakotwiczenie w czasie" z mech. 13(4); (4) **uznanie i nagrody** — gdy wpływu nie da się zmierzyć (badania, kampanie kapitałowe); (5) **tytuły poziomów** dopasowane do tematu kampanii zamiast brąz-srebro-złoto, co przenosi wybór progu na poziom tożsamości (zob. [[2026-06-03 Tożsamość darczyńcy|Tożsamość darczyńcy]], mech. 9). Typy można łączyć. Reguła wyboru: **gdy wpływ jest policzalny — typy 1–3; gdy nie — 4–5**. Metryczka: blog platformy fundraisingowej (2025, USA), częściowo promocyjny, **bez testów porównujących typy progów**. *(Źródło: [[2025-03-04 How To Create Donation Tiers That Drive Donations]])*
+
 ## Powiązane pojęcia
 
 - [[2026-06-14 Framing|Framing]] — data storytelling dostarcza dowodu i emocji, framing dobiera ramę wartości; „statystyka bez historii jest zapomniana, historia bez ram jest krucha" — to dwie strony tej samej dyscypliny narracyjnej.
@@ -159,6 +163,7 @@ Zastrzeżenie domykające mech. 6 („dane otwierają drzwi, historia przez nie 
 - **Mikroseria „siedem dni, siedem potrzeb" w wersji dla małej organizacji (mech. 20)**: zamiast jednej opowieści o problemie — siedem krótkich materiałów, każdy o jednej potrzebie, każdy z jednym obrazem z terenu. **Działa w skali 2–5 osób pod dwoma warunkami**: materiał zbiera się **przy okazji zwykłej pracy** (telefon, jedno zdjęcie i trzy zdania dziennie od osoby, która i tak tam jest), a seria idzie na kanał, który organizacja już obsługuje. Pełny wariant BRAC — wideo z terenu, narzędzie interaktywne, płatna dystrybucja na czterech platformach — **nie działa w tej skali**; **substytutem** narzędzia interaktywnego jest jedno zdanie przeliczające kwotę na jednostkę pomocy (mech. 13), a substytutem wideo — zdjęcie z podpisem.
 
 - **Reguła „nie ma story, nie ma posta" plus jedno źródło historii (mech. 22)**: **działa w skali 2–5 osób** — regułę wpisuje się do szablonu posta, a rolę „dostawcy historii" przypisuje **imiennie jednej osobie pracującej bezpośrednio z odbiorcami pomocy**, z jednym rytuałem: kwadrans raz w tygodniu na spisanie tego, co się wydarzyło, do wspólnego dokumentu. Koszt: kwadrans tygodniowo, bez narzędzia. **Działa od progu** integracja komunikacji z fundraisingiem opisana w źródle — ma sens dopiero, gdy te dwie funkcje pełnią **różne osoby**; tam, gdzie robi to jedna osoba, nie ma czego integrować i zostaje sam nawyk zapisywania historii, zanim będą potrzebne. **Nie działa w tej skali** rezerwa operacyjna na „złoty strzał" (gotowy system wpłat i zespół zdolny obsłużyć skok zainteresowania); **tańszym substytutem jest jedna strona instrukcji na wypadek nagłego zasięgu** — kto sprawdza, czy wpłaty przechodzą, kto odpowiada na komentarze przez pierwsze 48 godzin i co się mówi, gdy nie ma mocy odpowiedzieć wszystkim.
+- **Progi z własnej średniej (mech. 23)**: **działa w skali 2–5 osób** — z eksportu wpłat z ostatniego roku policz średnią darowiznę, ustaw jeden próg w jej pobliżu i jeden wyraźnie powyżej, razem 4–6 kwot, każdą z jednym zdaniem efektu wg mech. 13; to godzina pracy w arkuszu i edycja formularza. Typ „uznanie i nagrody" **ma koszt rzeczowy** (koszulki, losowanie), więc przy małym budżecie tańszym substytutem są tytuły poziomów, które nic nie kosztują.
 
 ## Otwarte pytania
 

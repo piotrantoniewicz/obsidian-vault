@@ -12,7 +12,7 @@ Rejestr tematów, które mogą dostać własną stronę (`/galaxy:pisz`). **Jedn
 | Klaster | Status | Masa | Osiadł na / uwaga | Akt. |
 |---|---|---|---|---|
 | Partnerstwa z biznesem (CSR / ESG) | obserwować | ~22 szeroko | — | 2026-09-22 |
-| Segmentacja bazy darczyńców i odbiorców | kandydat realny | ~64 | Higiena listy, Stewardship, Transfer | 2026-09-14 |
+| Segmentacja bazy darczyńców i odbiorców | kandydat realny | ~80 | Higiena listy, Stewardship, Transfer, Recurring giving mech. 30, Framing mech. 55 | 2026-09-29 |
 | Generowanie obrazów AI i spójność wizualna marki | kandydat realny | ~14 „Midjourney” + ~5 „obrazy AI” | — | 2026-09-14 |
 | Marketing automation i sekwencje mailowe | obserwować | ~9 wąsko | Stewardship mech. 39, Newsletter | — |
 | Dostępność komunikacji cyfrowej (mail, WWW) | obserwować | ~6 | Newsletter mech. 34, Email deliverability mech. 37 | — |
@@ -33,7 +33,7 @@ Rejestr tematów, które mogą dostać własną stronę (`/galaxy:pisz`). **Jedn
 | Produktywność osobista i ekonomika praktyki konsultanta | obserwować | ~5 | — | 2026-08-28 |
 | Walidacja produktu przed zbudowaniem | obserwować | słaba | — | — |
 | Techniczne SEO stron organizacji | obserwować | ~46 szeroko | — | — |
-| Kampania końcoworoczna (year-end appeal) | kandydat realny | ~45–55; szeroko ~89 | Rapid response mech. 14, Stewardship mech. 17, 24, 46 | 2026-09-28 |
+| Kampania końcoworoczna (year-end appeal) | kandydat realny | ~65; szeroko ~89 | Rapid response mech. 14, Stewardship mech. 17, 24, 46, Recurring giving mech. 30 | 2026-09-29 |
 | Wydarzenia fundraisingowe (eventy) | obserwować | ~6 wąsko, ~35 szeroko | — | — |
 | Copy kampanijne: hasło, nagłówek, hook | obserwować | ~34 szeroko | Framing mech. 15, 18, 21 | — |
 | Sprzedaż i działalność odpłatna organizacji | obserwować | ~51 szeroko | Framing mech. 25, Stewardship mech. 19 | — |

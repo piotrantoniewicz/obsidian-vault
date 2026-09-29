@@ -5,7 +5,7 @@ tags:
   - fundraising
   - automatyzacja
 created: 2026-06-29
-updated: 2026-09-22
+updated: 2026-09-29
 relevance: wysoka
 sources:
   - "[[2025-08-13 Why I deleted 786 subscribers from my list]]"
@@ -178,6 +178,8 @@ Polskie, operacyjne rozwinięcie mech. 12 (jakość pozyskania rozstrzyga wynik)
 - **Gdzie weryfikować adres: przy zapisie czy tuż przed wysyłką** [mech. 21 vs 25] — A: weryfikuj **tuż przed wysyłką, nie w momencie pozyskania**, a rekordy starsze niż kilka tygodni re-weryfikuj, bo odbicie płaci się reputacją w dniu wysyłki ([[2026-08-25 How to run cold email without destroying your deliverability|Beth O'Malley / Astral]], 2026, bez podanego n, rynek anglosaski, reżim cold outreachu). B: weryfikacja ma sens **w czasie rzeczywistym przy zapisie**, a **powtarzalna walidacja tej samej, stabilnej listy to wyrzucone pieniądze** ([[2026-09-08 Why Email Validation ≠ Inbox|Send It Right]], 2026, bez podanego n, rynek anglosaski, lista własna opt-in). Wątpliwość nazwana: strony mówią o dwóch różnych reżimach (lista zimna, importowana vs lista własna i „stabilna”) i o dwóch różnych kosztach (ryzyko reputacyjne vs koszt narzędzia) — może to być doprecyzowanie zakresu, a nie spór; żadne ze źródeł nie podaje jednak progu „stabilności” ani wieku rekordu, przy którym odpowiedź się zmienia. *Status: otwarte.*
 
 - **Jak szybko wypisywać nieaktywnego subskrybenta** [mech. 8 vs 29] — A: **wygaszaj po działaniu, nie po otwarciu**, a nadgorliwe czyszczenie szkodzi — otwarcia są niewiarygodne (do trzech czwartych „otwarć" może nie być otwarciami, mech. 22), a próg nieaktywności liczy się w miesiącach, nie tygodniach ([[2026-07-22 Not Sending Enough Email Is a Deliverability Problem Too|Beth O'Malley]] i [[2026-08-12 Email list churn what's normal, and what isn't- And when should you stop emailing someone-]], 2026, bez podanego n, rynek anglosaski, listy marketingowe i sektorowe). B: **brak otwarcia w oknie 7 dni po pierwszych 30 dniach → automatyczny wypis**, test powtarzany po 14 dniach, cała procedura ok. dwóch miesięcy — po to, by liczyć koszt pozyskania **zaangażowanego** subskrybenta ([[2026-09-10 You're leaving a 2x on the table|Matthew Brown / Tribe Digital]], 2026, bez podanego n, rynek anglosaski, B2B SaaS). Wątpliwość nazwana: strony mogą optymalizować **co innego** — A chroni wartość awareness i reputację listy, B chroni czystość rachunku akwizycyjnego — a populacje są różne (darczyńcy o rzadkim, sezonowym kontakcie vs leady B2B). Nie rozstrzygam: dla organizacji sezonowej próg B usunąłby darczyńców między kampaniami, ale żadne źródło nie podaje progu, przy którym rachunek akwizycyjny zaczyna być wart tej straty. *Status: otwarte.*
+
+- **Dezaktualizacja listy: 22–30% (B2B) vs 12–16% (organizacje społeczne)** — dwie kotwice obok siebie na jednej stronie. *Status: otwarte.* *(Przeniesione z galaxy-strategia.md, 2026-09-29.)*
 
 ## Powiązane pojęcia
 

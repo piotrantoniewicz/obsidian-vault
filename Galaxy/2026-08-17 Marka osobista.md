@@ -5,7 +5,7 @@ tags:
   - ghostwriting
   - organizacje-społeczne
 created: 2026-08-17
-updated: 2026-09-28
+updated: 2026-09-29
 relevance: wysoka
 sources:
   - "[[2024-06-26 Marka osobista w NGO jak zacząć budowanie wizerunku społecznika społeczniczki]]"
@@ -32,6 +32,7 @@ sources:
   - "[[2026-09-14 Matthew C Brown - teardowny jako dowód kompetencji]]"
   - "[[2026-09-10 Jak działa nowy algorytm LinkedIn w 2026 roku  Karol Stróż]]"
   - "[[2024-05-07 2026 Social Media Statistics for Nonprofits]]"
+  - "[[2026-09-23 Kevin L. Brown - nauczanie zamiast promocji w fundraisingu]]"
 ---
 
 # Marka osobista
@@ -114,6 +115,13 @@ Dwa uzupełnienia mech. 9 (employee advocacy) od strony utrzymania programu, nie
 **22. Darczyńca sprawdza organizację na LinkedIn — 42% i 26% (Classy, za [[Heather Mansfield]])**
 Liczba po stronie popytu pod mech. 7 (profil jako landing page) i 14 („buyability"): **42% darczyńców w USA używa LinkedIn do sprawdzania organizacji, które zamierzają wesprzeć, a 26% odkrywa tam okazje do darowizny** (Classy). Po stronie podaży użycie LinkedIn przez organizacje wzrosło z **49% (2023) do 78% (2026)**, przy średnim zasięgu organicznym postów rzędu **3% obserwujących** — czyli obecność na LinkedIn pracuje głównie jako **powierzchnia weryfikacji przed decyzją**, a nie kanał zasięgu, co wzmacnia argument za profilami osób (mech. 7, 9) obok strony organizacji. Metryczka: dane Classy bez podanego roku i n, USA; zasięg — Social Status. *(Źródło: [[2024-05-07 2026 Social Media Statistics for Nonprofits]])*
 
+**23. Uczyć zamiast promować — ekspertyza pokazana w debacie publicznej jako droga do rozmowy o finansowaniu ([[Kevin L. Brown]])**
+Przeniesienie zasady „pokaż, nie deklaruj” (mech. 14, 20) z rynku usług na fundraising lidera organizacji. Diagnoza: wśród **10 mln organizacji non-profit** walczących o uwagę komunikacja typu „zobacz, co robimy” przestaje działać, bo darczyńcy są nią przesyceni. Łańcuch przyczynowy autora: promocja przez wszystkich → darczyńcy ją ignorują → **nauczanie demonstruje ekspertyzę** → ekspertyza buduje wiarygodność → **wiarygodność otwiera rozmowy o finansowaniu**. Reguła praktyczna: zamiast „jesteśmy liderem w zdrowiu szkolnym” pokazać coś istotnego z tej dziedziny — odsłonić wgląd, nie ogłosić status. Case: Sabrina Habib (Kidogo) opublikowała w dużym amerykańskim dzienniku tekst opinii krytykujący politykę dopłat do opieki nad dziećmi, **nie promując przy tym organizacji** — głos ekspercki w szerszej debacie jako kapitał zaufania budowany przed jakąkolwiek prośbą. Metryczka: post LinkedIn (wrzesień 2026), jeden case, bez danych o efekcie finansowym, USA. *(Źródło: [[2026-09-23 Kevin L. Brown - nauczanie zamiast promocji w fundraisingu]])*
+
+## Sprzeczności
+
+- **Marka osoby czy marka organizacji: gdzie inwestować uwagę?** — *Marka osobista* mech. 7 (za LinkediNGO/Marciniak) podaje, że **~75% cytowań LinkedIn w odpowiedziach AI pochodzi z profili osobistych, nie firmowych**, a kompletny profil daje 21× wyświetleń — czyli racjonalna alokacja to profile ludzi, nie strona organizacji. Mech. 11 (za Sektor 3.0/ngo.pl) mówi, że **uzależnienie komunikacji od jednej twarzy jest ryzykiem operacyjnym** (choroba, odejście, wpadka wizerunkowa). Employee advocacy (mech. 9, case Fundacji Gajusz) jest najlepszą dostępną syntezą — wiele profili zamiast jednego — ale nie rozwiązuje przypadku granicznego, w którym rozpoznawalność jest silnie skoncentrowana na założycielu i to ona przynosi pieniądze. *Status: otwarte.* *(Przeniesione z galaxy-strategia.md, 2026-09-29.)*
+
 ## Powiązane pojęcia
 
 - [[2026-07-07 Ghostwriting|Ghostwriting]] — marka osobista to cel, ghostwriting jedna z metod jej obsługi; napięcie „destylacja głosu vs autentyczność" żyje na obu stronach, a mech. 4 („scena, nie temat") jest tu wspólnym kryterium jakości briefu.
@@ -142,6 +150,7 @@ Liczba po stronie popytu pod mech. 7 (profil jako landing page) i 14 („buyabil
 
 - **Teardown cudzej kampanii zamiast opisu własnych osiągnięć (mech. 20)**: raz w miesiącu rozbierz publicznie jeden materiał z sektora — stronę zbiórki, mail apelowy, sekwencję powitalną innej organizacji — trzymając się pięciu kroków i kończąc zasadą, nie oceną. **Działa w skali 2–5 osób** — jedna godzina i materiał, który i tak jest publicznie dostępny; **warunek, nie próg**: analizuj materiał organizacji, z którą nie konkurujesz o tych samych darczyńców, i pisz o mechanizmie, nie o ludziach — inaczej koszt relacyjny w małym sektorze przewyższa zysk wizerunkowy. Ten sam schemat działa jako ćwiczenie na szkoleniu: uczestnicy rozbierają realny materiał zamiast słuchać wykładu o zasadach.
 - **Program ambasadorski bez premii pieniężnej (mech. 21)**: motywuj rozpoznawalnością i misją, nie bonusem za post — premia wypłacana doraźnie (np. w kryzysie) uczy, że publikowanie jest płatnym zleceniem, i znika razem z nią. **Działa w skali 2–5 osób** — wymaga jedynie wspólnego rytmu i jednej osoby, która podsuwa tematy; Collaborative Post (do 5 współautorów) pozwala takiemu zespołowi wydać jeden materiał pod kilkoma nazwiskami naraz, gdy funkcja będzie dostępna.
+- **Jeden tekst opinii lidera zamiast kolejnego raportu „co zrobiliśmy”** (za mech. 23): **działa w skali 2–5 osób** — kilka godzin pracy lidera nad tekstem do lokalnego medium, portalu branżowego albo jako dłuższy post, z tezą z obszaru, w którym organizacja ma wiedzę z pierwszej ręki; źródło nie mierzy efektu finansowego, więc oczekiwanym wynikiem jest rozmowa, nie przelew.
 
 ## Otwarte pytania
 

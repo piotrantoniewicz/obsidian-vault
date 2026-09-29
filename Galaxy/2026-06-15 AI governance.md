@@ -5,7 +5,7 @@ tags:
   - organizacje-społeczne
   - strategia-organizacji
 created: 2026-06-15
-updated: 2026-09-22
+updated: 2026-09-29
 relevance: wysoka
 sources:
   - "[[2024-08-12 AI Governance Framework for Nonprofits]]"
@@ -60,6 +60,7 @@ sources:
   - "[[2025-10-29 Sztuczna inteligencja w NGO. Jak wprowadzać AI w zgodzie z wartościami i misją organizacji?]]"
   - "[[2026-09-16 Before You Write an AI Policy, Find Out What Your Staff Already Use]]"
   - "[[2026-09-18 Sometimes the Most Responsible Use of Technology is Knowing When Not to Use It.]]"
+  - "[[2026-09-23 Prawo AI bez znieczulenia za AI zawsze ktoś odpowiada (podsumowanie webinaru)]]"
 ---
 
 # AI governance (zarządzanie AI w organizacji)
@@ -217,6 +218,15 @@ Krytyka wymierzona wprost w domyślne ujęcie tej strony i warta trzymania obok 
 **43. Wybór to nie firmowanie — rezygnacja z wdrożenia jako decyzja governance ([[Bryan Neider]] / [[AbilityPath]])**
 Pierwszy na tej stronie udokumentowany przypadek, w którym proces z mech. 7 (Reguła Trzech) i mech. 11 (gdzie AI nie wolno decydować o człowieku) zakończył się **odmową**, a nie warunkowym zatwierdzeniem. Po pół roku analiz AbilityPath zrezygnowało z wdrożenia **AI companion chatbots** dla dorosłych z niepełnosprawnościami rozwojowymi zmagających się z samotnością (**do 85%** młodych dorosłych z tej grupy zgłasza samotność niemal codziennie). Decyzję przechyliły badania ze Stanford ([[Diyi Yang]], *Nature Human Behavior*): osoby otwierające się przed AI companion w sprawach osobistych, **zwłaszcza z małą siecią realnych kontaktów**, czuły się **gorzej, nie lepiej** — AI companion działa jak „social snack”, chwilowa satysfakcja bez wartości odżywczej relacji. Ryzyko rośnie więc dokładnie w grupie, którą program miał wspierać. Rozróżnienie, które robi z tego narzędzie, a nie anegdotę: **choice vs endorsement** — organizacja nie zabrania podopiecznym korzystania z takich aplikacji prywatnie (autonomia), ale odmawia postawienia za nimi własnej marki i włączenia ich do programu (poręczenie). W zamian uruchomiła droższy, wolniej skalujący się program popołudniowych spotkań na żywo — stewardship (mech. 36) bywa wyborem kosztowniejszej opcji ludzkiej. Pytanie porządkujące: *„czy powinniśmy”* obok *„czy AI może”*. Zbieżne z [[2026-06-13 Wdrażanie AI w organizacji społecznej|Wdrażaniem AI]] mech. 63 (AI za kulisami, nie na froncie trudnej rozmowy). Metryczka: relacja szefa organizacji (LinkedIn, wrzesień 2026, USA), jedna organizacja, decyzja bez grupy porównawczej; wyniki badania Stanford przytoczone za autorem, **bez n w notatce**. *(Źródło: [[2026-09-18 Sometimes the Most Responsible Use of Technology is Knowing When Not to Use It.]])*
 
+**44. Cotygodniowa checklista zgodności w czterech pytaniach ([[AI Leaders]], podsumowanie webinaru prawnego)**
+Najkrótsza operacyjna wersja governance na tej stronie, zbudowana z kazusów, w których odpowiedzialność ląduje u konkretnej osoby (zob. [[2026-07-20 AI Act|AI Act]], mech. 23): (1) **kto w organizacji wie, czego nie wolno wkleić do chatbota — i czy jest na to dowód** (szkolenie, polityka, quiz); (2) **narzędzia do nagrywania spotkań** — czy uczestnicy słyszą pytanie o zgodę przed nagraniem, gdzie leżą nagrania i transkrypcje, jak długo i kto ma do nich dostęp; (3) **publikowane treści z AI** — realistyczne sceny oznaczone, ewidentna fikcja nie; (4) **warunki dostawców** — czy dostawca zobowiązał się, że agent zapyta przed czynnością wymagającą zgody (zob. [[2026-06-15 Agentic AI|Agentic AI]], mech. 36). Rama współgra z mech. 40 (regulamin dostawcy nie jest kontrolą): punkt 4 nie zakłada zaufania do regulaminu, tylko sprawdzenie konkretnego zobowiązania. Metryczka: materiał redakcyjny (wrzesień 2026), prawo PL/UE, bez n. *(Źródło: [[2026-09-23 Prawo AI bez znieczulenia za AI zawsze ktoś odpowiada (podsumowanie webinaru)]])*
+
+## Sprzeczności
+
+- **Art. 50 AI Act karze tych, którzy go przestrzegają** — AI governance mech. 25 (Szczesna): **ujawnienie korzystania z AI obniża postrzeganą pracowitość i wiarygodność** osoby, która to ujawnia. Zestawione z AI Act mech. 9 i 11 (obowiązek transparentności od 2 sierpnia 2026) daje to napięcie, którego żadne źródło nie rozwiązuje: **zgodność z prawem ma dla pracownika koszt reputacyjny wewnątrz zespołu**. *Status: otwarte.* *(Przeniesione z galaxy-strategia.md, 2026-09-29.)*
+
+- **AI ukrywać czy deklarować?** — *AI governance* mech. 29 (Politico) stawia regułę **„zaplecze, nie front"**: AI wolno używać tam, gdzie odbiorca jej nie zobaczy, bo widoczna AI kosztuje wizerunkowo. Nowy mech. 30 (Partisan, Szwecja) mówi odwrotnie: przy tle, w którym **90% badanych spodziewa się celowej dezinformacji AI**, **jawna deklaracja „gdzie i jak używamy AI" jest przewagą wizerunkową**, nie kosztem zgodności. Robocze pogodzenie zapisane w mechanizmie — rozdzielić **AI w produkcie komunikatu** (ukrywana) od **AI w procesie organizacji** (deklarowana) — nie pochodzi z żadnego źródła, tylko z tej strony, i wchodzi dodatkowo w konflikt z obowiązkiem oznaczania z art. 50. *Dalsze źródło — „zaplecze, nie front" jako reguła wdrożeniowa:* *AI governance* mech. 29 wprowadza rozdzielenie **decyzji o użyciu** od **decyzji o ekspozycji**: AI działa najlepiej jako niewidoczna efektywność operacyjna, a eksponowana jako element tożsamości publicznej ściąga backlash. To spina napięcie „ujawnienie karze ujawniającego” i asymetrię 37% vs 22% w **regułę praktyczną**, ale stoi w poprzek obowiązku oznaczania z *AI Act* mech. 14 wszędzie tam, gdzie zaplecze dotyka treści publikowanej — czyli dokładnie tam, gdzie pracuje ghostwriter. *Status: otwarte.* *(Przeniesione z galaxy-strategia.md, 2026-09-29.)*
+
 ## Powiązane pojęcia
 
 - [[2026-06-13 Wdrażanie AI w organizacji społecznej|Wdrażanie AI w organizacji społecznej]] — AI governance to filar **etyki** tego wdrożenia: „AI odsłania istniejące słabości", a governance jest mechanizmem, który nie pozwala słabościom (bałagan w danych, brak zasad) skalować się razem z narzędziem. Czerwony link stąd zrealizowany.
@@ -257,6 +267,7 @@ Pierwszy na tej stronie udokumentowany przypadek, w którym proces z mech. 7 (Re
 - **Inwentaryzacja pięcioma pytaniami przed pisaniem polityki (mech. 42)**: **działa w skali 2–5 osób** — pięć pytań w formularzu albo po prostu przy stole, z wypowiedzianą na głos gwarancją braku konsekwencji; zajmuje jedno spotkanie i nie wymaga narzędzia. W tej skali szczególnie opłaca się krok czwarty: **policzyć prywatne subskrypcje zespołu i sprawdzić, czy asystent nie jest już opłacony** w pakiecie biurowym — w małej organizacji to zwykle wystarcza, żeby przenieść pracę z kont prywatnych na jedno wspólne bez nowego wydatku. **Działa od progu** krok piąty (pytanie do organizacji nadrzędnej) — dotyczy organizacji działających w federacji, sieci lub ze wspólnym brandem; samodzielna organizacja pisze jednostronicowe zasady od razu i nie czeka na nikogo. **Nie działa w tej skali** anonimowość ankiety — przy pięciu osobach każdy wie, kto co napisał, więc obietnica braku konsekwencji musi być **realna, a nie proceduralna**; substytutem anonimowości jest rozmowa, którą zaczyna osoba kierująca organizacją od **własnej odpowiedzi na te same pięć pytań**.
 
 - **Kolumna „tolerujemy czy firmujemy” w rejestrze narzędzi (mech. 43)**: przy każdym narzędziu AI, które dotyka podopiecznych, zapisz, czy organizacja je tylko toleruje (ktoś używa prywatnie), czy poleca lub wdraża pod własną marką — i tylko w drugim przypadku przepuszczaj je przez pełny filtr z mech. 7. **Działa w skali 2–5 osób** — jedna kolumna w arkuszu z inwentaryzacji z mech. 42, bez narzędzia; w organizacjach pracujących z osobami osamotnionymi lub w kryzysie domyślna odpowiedź dla chatbotów towarzyszących to „nie firmujemy”.
+- **Cztery pytania zgodności — w małej organizacji raz w miesiącu zamiast co tydzień** (za mech. 44): **działa w skali 2–5 osób** — dziesięć minut na zebraniu zespołu; najpilniejsze jest pytanie o nagrywanie spotkań, bo notatniki AI transkrybujące rozmowy z darczyńcami i odbiorcami wchodzą do małych organizacji bez żadnej formalnej decyzji.
 
 ## Otwarte pytania
 

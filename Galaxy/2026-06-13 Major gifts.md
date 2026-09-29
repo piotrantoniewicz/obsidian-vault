@@ -5,7 +5,7 @@ tags:
   - strategia-organizacji
   - organizacje-społeczne
 created: 2026-06-13
-updated: 2026-09-28
+updated: 2026-09-29
 relevance: wysoka
 sources:
   - "[[2025-02-11 Best Practices for Major Gift Fundraising What You Need to Know to Raise More]]"
@@ -32,6 +32,8 @@ sources:
   - "[[2026-09-15 Caroline Griffin - multiplier i długość dopasowania darowizn]]"
   - "[[2026-08-21 Your Next Major Donor Is Already Giving Monthly]]"
   - "[[2026-09-03 How to Build a Planned Giving Program A Step-by-Step Guide]]"
+  - "[[2026-09-15 How to Identify Planned Giving Prospects in Your Database]]"
+  - "[[2026-09-15 Planned Giving Strategies Why Loyalty Beats Wealth]]"
 ---
 
 # Major gifts (duże darowizny)
@@ -113,6 +115,10 @@ Case i reguła operacyjna dla dźwigni (4) z [[2026-06-12 Recurring giving|Recur
 ## Sprzeczności
 
 - **Wealth screening: pierwszy filtr czy ślepa uliczka przy typowaniu darczyńców planowych i dużych?** [Transfer mech. 2; Major gifts mech. 8, 14] — A: profil legatariusza to **wierność, nie zamożność** — „darczyńcy planowi często nie są największymi rocznymi darczyńcami", a wealth screening tego nie wykryje ([[2026-04-15 Developing Major Donors and Planned Giving for Long-Term Sustainability|CauseVox]], 2026, bez podanego n, USA); szerzej: **bogactwo koreluje z hojnością w mniej niż 10% przypadków**, więc prospecting oparty na majątku stoi na słabszym sygnale ([[2026-07-29 Preserving Humanity in AI-Powered Fundraising Key Insights from Nonprofit Tech Leaders » Avid|webinar Avid]], 2026, bez podanego n, USA); ten sam autor co w B proponował wcześniej punktację gotowości **bez wealth screeningu** (Major gifts mech. 14). B: **krok 1 programu planned giving to wealth screening bazy** (DonorSearch, iWave, WealthEngine), z filtrem stażu 3+ lat i regularności wpłat niezależnie od wysokości rocznego daru ([[2026-09-03 How to Build a Planned Giving Program A Step-by-Step Guide|Burke / DonorDock]], 2026, poradnik bez danych o skuteczności, USA). Wątpliwość nazwana wprost: B łączy wskaźniki majątkowe z wiernością, więc może to być kombinacja, a nie spór — ale kolejność (narzędzie majątkowe jako pierwszy filtr, płatne) jest odwrotna niż w A, a dla małej organizacji decyduje o tym, czy start programu wymaga zakupu bazy. *Status: otwarte.*
+
+- **Wealth screening: ten sam autor po obu stronach sporu** [Transfer mech. 2, 10, 11, 12; Major gifts mech. 8, 14] — eskalacja pozycji o wealth screeningu. A: typowanie legatariuszy **bez wealth screeningu** — zapisany segment lojalnościowy z CRM (10+ lat dawania w dowolnej kwocie, stałe wpłaty 5+ lat) jako kompletna lista startowa, z tezą, że pipeline zapisów „nie czeka, by go kupić” ([[2026-09-15 How to Identify Planned Giving Prospects in Your Database|Burke / DonorDock, How to Identify…]], 15 września 2026, poradnik bez danych o skuteczności, USA); wzmocnione rankingiem Russella Jamesa, w którym majątek zajmuje miejsca 10–13 z 32 predyktorów ([[2026-09-15 Planned Giving Strategies Why Loyalty Beats Wealth|Burke / DonorDock za Jamesem, Planned Giving Strategies…]], 15 września 2026, bez podanego roku badania i n, USA). B: **krok 1 programu planned giving to wealth screening bazy** (DonorSearch, iWave, WealthEngine) ([[2026-09-03 How to Build a Planned Giving Program A Step-by-Step Guide|Burke / DonorDock]], 3 września 2026, poradnik bez danych o skuteczności, USA). Wątpliwość nazwana wprost: ten sam autor i wydawca w odstępie 12 dni — może to być zmiana stanowiska, różny cel tekstów (budowa całego programu vs pierwsza lista) albo różni redaktorzy pod jednym nazwiskiem; źródła tego nie wyjaśniają. *Status: otwarte.*
+
+- **Retencja nowych darczyńców: trzy różne liczby na to samo zjawisko** — Stewardship mech. 1 podaje **14–19%**, DonorDock (2026-07-30) — „tylko ok. **19%** nowych darczyńców daje drugi raz”, a Stewardship mech. 9 za FEP Q1 2026 — konwersja nowych na powtarzających **7,1%**. Możliwe, że mierzą różne rzeczy (retencja pierwszoroczna vs konwersja w kwartale), ale żadne źródło tego nie różnicuje. *Dalsze źródło — Retencja nowych darczyńców: 7,1% czy 14–19%?:* Nowe źródło (Pledge It za DonorDock, dane kwartalne FEP) podaje **retencję ogólną 18,0%**, **nowych darczyńców 7,1%** i **powracających 25,8%**; Stewardship mech. 1 stoi na **14–19%** dla nowych, a DonorDock z 30 lipca 2026 mówił o **~19%**. Liczba 7,1% jest już na stronie (Stewardship mech. 9, z zastrzeżeniem o zmianie metodologii FEP 2026) — ale teraz żyje **równolegle** z 14–19% w mechanizmie otwierającym tę samą stronę, a nowe źródło powtarza ją bez zastrzeżenia. To zaostrza wcześniejszy odczyt: różnica jest **ponaddwukrotna**, a obie liczby idą do tych samych materiałów. *Dalsze źródło — Ponowienie daru pierwszorazowego: 18%:* *Major gifts* mech. 12 (Click & Pledge za FEP) podaje, że **tylko 18% darczyńców pierwszorazowych daje ponownie**. Na innych stronach żyją równolegle **14–19%** (*Stewardship* mech. 1), **~19%** (DonorDock, 30.07.2026) i **7,1%** (*Stewardship* mech. 9, z zastrzeżeniem o zmianie metodologii FEP 2026). Cztery odczyty tej samej wielkości z tego samego źródła pierwotnego to już nie rozbieżność między badaniami, tylko **brak jednej kanonicznej wersji po naszej stronie**. *Dalsze źródło — Retencja nowego darczyńcy ma teraz czwartą liczbę: 24%:* *Stewardship* mech. 1 podaje **14–19%**, DonorDock **ok. 19%**, a nowy mech. 26 za M+R Benchmarks 2026 — **24% dla nowych darczyńców jednorazowych**, przy **66% dla powracających od lat** i **48% średniej**. Rozbicie na trzy warstwy jest samo w sobie wartościowe (jedna średnia opisuje dwie różne populacje), ale kotwica dla nowego darczyńcy rozjeżdża się już o **dziesięć punktów** między źródłami. *Status: otwarte.* *(Przeniesione z galaxy-strategia.md, 2026-09-29.)*
 
 ## Powiązane pojęcia
 

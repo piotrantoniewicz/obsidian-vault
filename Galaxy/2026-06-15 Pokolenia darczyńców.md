@@ -5,7 +5,7 @@ tags:
   - digital-campaigning
   - organizacje-społeczne
 created: 2026-06-15
-updated: 2026-09-28
+updated: 2026-09-29
 relevance: wysoka
 sources:
   - "[[2025-10-21 GivingTuesday x Blackbaud Institute Special Report]]"
@@ -99,6 +99,8 @@ Uzupełnienie mapy z mech. 1 o oś, której ta strona nie miała: **19% darczyń
 - **Efekt sugerowanych kwot generowanych przez AI: +10–15% czy +62%?** [mech. 10, liczby-kotwice kanału] — A: funkcje AI na formularzu (sugerowane kwoty, automatyczna częstotliwość) podnoszą **przychód o 10–15%** ([[2026-06-29 Pulse of the Donor 2026 Fundraising Benchmarks & Giving Trends|Pulse of the Donor 2026]], 2026, bez podanego n, rynek US/AU, badanie benchmarkowe dostawcy). B: **„smart ask strings" dopasowane przez AI podnoszą średnią wielkość darowizny r/r nawet o 62%** ([[2026-02-26 Nonprofit Donation Form Templates That Increase Giving|Nonprofit Donation Form Templates]], 2026, bez podanego n, rynek US, treść sponsorowana dostawcy formularzy [[CharityEngine]]). Wątpliwość nazwana wprost: metryki nie są tożsame (**przychód programu** vs **średnia wielkość pojedynczej darowizny**), więc może to być doprecyzowanie zakresu, a nie spór — ale różnica jest **czterokrotna**, oba pomiary pochodzą od dostawców narzędzi, żadne źródło nie podaje próby ani okresu, a obie liczby trafiają do tych samych materiałów o AI w fundraisingu. *Status: otwarte.*
 
 - **TikTok: inwestycja w recurring czy najdroższy kanał fundraisingu?** [mech. 2, 12] — A: darczyńcy pozyskani przez TikTok zapisują się na dawanie cykliczne w ciągu 60 dni w **18,7% (USA) / 22,2% (Australia)** wobec 5,8% z e-maila, więc akwizycja przez kanały młodych to „inwestycja w cykliczność, nie strata" ([[2026-06-29 Pulse of the Donor 2026 Fundraising Benchmarks & Giving Trends|Pulse of the Donor 2026]], 2026, bez podanego n, USA/Australia, dane dostawcy formularzy). B: płatnie pozyskana darowizna z TikToka kosztuje **590 USD wobec 74 USD na Meta**, ROAS **0,04 wobec 0,76**, a kanał lepiej służy zasięgowi niż fundraisingowi ([[2024-05-07 2026 Social Media Statistics for Nonprofits|Mansfield za M+R Benchmarks]], zestawienie na 2026, bez podanego n, USA). Wątpliwość nazwana wprost: metryki są różne (A — konwersja na recurring wśród już pozyskanych, bez rozróżnienia ruchu płatnego i organicznego; B — koszt i zwrot z reklam płatnych), więc obie liczby mogą być prawdziwe naraz; ale rekomendacje budżetowe są przeciwne, a żadne źródło nie zestawia wartości życiowej darczyńcy z TikToka z kosztem jego pozyskania. *Status: otwarte.*
+
+- **Gen Z: 84% zaangażowanych czy poniżej 4% darczyńców?** — *Pokolenia darczyńców* mech. 1 opisuje Gen Z jako **<4% darczyńców** (mediana daru 50 USD, retencja 55%), a nowy mech. 7 cytuje Blackbaud Institute: **84% Gen Z wspiera organizacje, inicjatywy lub cele społeczne**. Obie liczby są prawdziwe i mierzą co innego (udział w bazie darczyńców vs deklarowane zaangażowanie w dowolnej formie), ale zestawione w jednym materiale brzmią jak sprzeczność i zapraszają do nadużycia w obie strony — „młodzi nie dają" albo „młodzi to 84% rynku". *Status: otwarte.* *(Przeniesione z galaxy-strategia.md, 2026-09-29.)*
 
 ## Powiązane pojęcia
 

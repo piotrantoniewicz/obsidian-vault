@@ -5,6 +5,9 @@ url: "https://www.eventgroove.com/virtual-auction-fundraisers-cheatsheet-for-non
 published: 2026-08-28
 created: 2026-09-28
 tags:
+  - "fundraising"
+  - "organizacje-społeczne"
+  - "content-marketing"
 ---
 
 

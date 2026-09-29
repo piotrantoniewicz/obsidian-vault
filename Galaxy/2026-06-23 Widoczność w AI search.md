@@ -5,7 +5,7 @@ tags:
   - content-marketing
   - digital-campaigning
 created: 2026-06-23
-updated: 2026-09-22
+updated: 2026-09-29
 relevance: wysoka
 sources:
   - "[[2025-07-30 Generative engine optimisation query]]"
@@ -41,6 +41,8 @@ sources:
   - "[[2026-08-26 Fake US thinktank set up and funded by Israel sought to game AI for propaganda]]"
   - "[[2026-09-13 AI Doesn’t Have to Destroy Humanity to Destroy Democracy]]"
   - "[[2026-08-25 SEO for nonprofits 9 tips and tricks to improve visibility]]"
+  - "[[2026-07-29 Agentic Giving the future of donor experience]]"
+  - "[[2026-09-21 How we grew organic leads by 205% in a year...]]"
 ---
 
 # Widoczność w AI search (GEO / AEO)
@@ -158,6 +160,16 @@ Czwarty niezależny sygnał degradacji podłoża, obok 16 proc. źródeł syntet
 **29. Klasyczny SERP jako podłoże GEO — trzy liczby o kliknięciach i dwie pomijane tanie dźwignie ([[GoFundMe]] Pro, Korrin Bishop)**
 Doprecyzowanie mech. 3 (SEO i AI search to naczynia połączone) i mech. 16 (płatna reklama nie kupuje cytowania) od strony klasycznego wyniku wyszukiwania, na materiale pisanym wprost dla organizacji społecznych. **(a) Rozkład kliknięć w klasycznym SERP:** trzy pierwsze wyniki Google zbierają **blisko 69 proc. wszystkich kliknięć**, pierwszy wynik organiczny daje **19× więcej kliknięć niż pierwsza reklama płatna**, a wyniki z drugiej strony mają **CTR poniżej 1 proc.** Razem z mech. 3 (TOP 3 Google = 65,9 proc. cytowań w AI Overview) daje to spójny obraz: ta sama wąska czołówka zgarnia i kliknięcia, i cytowania, więc pozycja organiczna jest wejściem do obu kanałów naraz. To nie konflikt z zero-click z mech. 1 — tamta liczba mierzy wyszukiwania kończące się bez kliknięcia, ta rozkład kliknięć, które jednak padają. **(b) Dwie dźwignie, które mniejsze organizacje najczęściej pomijają mimo niskiego kosztu:** **lokalne SEO** (profil Google Business Profile pod zapytania z kontekstem miejsca) oraz **dane strukturalne poza `Organization`** — `Event`, `FAQPage`, `BreadcrumbList` (uzupełnienie `Organization`/`Person`/`Service` z mech. 11 i 22). **(c) Katalogi sektorowe jako źródło linków zwrotnych** (w USA Charity Navigator, GuideStar; obok mediów lokalnych, partnerstw i gościnnych tekstów) — wariant mech. 4 i 18 dostępny bez budżetu PR. Źródło zamyka listę dziewięciu praktyk punktem o GEO/AEO (odpowiedzi wprost na konkretne pytania, śledzenie ruchu z AI w GA4), który powtarza mech. 5–8 i nie wnosi nowych danych. Metryczka: materiał poradnikowy dostawcy platformy fundraisingowej (sierpień 2026, USA), **liczby CTR bez podanego źródła badania ani roku pomiaru** — przy cytowaniu traktuj je jako orientacyjne. *(Źródło: [[2026-08-25 SEO for nonprofits 9 tips and tricks to improve visibility]])*
 
+**30. Źródło prawdy o organizacji w sześciu obszarach — i cztery warunki przejścia od odpowiedzi do darowizny ([[Fundraise Up]])**
+Rozszerzenie stawki GEO poza ruch na stronie: skoro asystenci AI stają się „drzwiami wejściowymi”, organizacja konkuruje **nie o kliknięcie, lecz o to, by zostać poprawnie zrozumiana i z przekonaniem włączona do odpowiedzi** — a w wariancie agentowym także o to, by odpowiedź mogła przejść w darowiznę (zob. [[2026-06-15 Agentic AI|Agentic AI]], mech. 35). Rama porządkowania: **źródło prawdy dla AI w sześciu obszarach** — tożsamość, misja, programy, wpływ, kampanie, zaufanie — przy czym **każdy ważny fakt ma właściciela, źródło i datę przeglądu**, a dane kampanii i sytuacji kryzysowych odświeża się częściej niż misję czy sprawozdania finansowe (konkretyzacja *System of Record* z frameworków-kotwic tej strony). Cztery warunki przejścia od odpowiedzi do darowizny: organizacja **zrozumiała** (asystent trafnie ją opisuje), **zaufana** (wiarygodne dowody), **połączona** (dostęp do aktualnych, zatwierdzonych informacji o kampaniach), **wykonalna** (zaufane usługi realizują potwierdzoną intencję). Zasada postępowania: sprawdzać, jak AI opisuje organizację, i **poprawiać źródła, które organizacja kontroluje** (strona, raporty, dane kampanii), zamiast próbować manipulować modelem. Metryczka: biała księga producenta platformy (lipiec 2026), bez danych ilościowych, USA. *(Źródło: [[2026-07-29 Agentic Giving the future of donor experience]])*
+
+**31. Cytowania w AI Overviews jako osobny sygnał — i ruch organiczny, który nie konwertuje ([[The Search Initiative]], case z sektora finansowego)**
+Doprecyzowanie mech. 3 i 29 (SEO i AI search jako naczynia połączone) od strony pomiaru: **widoczność w AI Overviews monitoruje się osobno od klasycznego rankingu**, bo **spadek cytowań przy stabilnej pozycji** jest samodzielnym sygnałem do odświeżenia treści, którego sama pozycja nie pokaże; treść pod cytowanie to jasne, faktograficzne odpowiedzi, które system może przytoczyć. Druga lekcja dotyczy celu: ruch nie jest wynikiem — źródło łączy dane SEO z danymi konwersji i zaczyna od stron „ruch wysoki, konwersja niska” (w organizacji: zapis na newsletter, wpłata, podpis). Trzecia: w obszarze regulowanym ograniczenia wbudowuje się w proces publikacji (SEO → treść → akceptacja prawnika), zamiast omijać trudne tematy — treść edukacyjna zamiast zakazanych twierdzeń. Liczby case'u: **sesje organiczne +80,32%**, **zgłoszenia z formularzy +205,56%**, **fraz w top 10: z 19 do 81** w niecały rok. Metryczka: mailing agencji SEO o własnym kliencie (wrzesień 2026), jeden case, rynek finansowy, bez nazwy klienta i bez danych o kosztach — ilustracja metody, nie benchmark. *(Źródło: [[2026-09-21 How we grew organic leads by 205% in a year...]])*
+
+## Sprzeczności
+
+- **Otwierać czy blokować crawlery AI?** — Widoczność w AI search mech. 9 i 11 mówią jednoznacznie: **dopuść GPTBot, ClaudeBot, PerplexityBot w `robots.txt`**, bo treść niedostępna dla botów nie istnieje. Nowy mech. 15(c) (Dewey Square dla PSG Consulting, luty 2026) pokazuje **„odwrócony lejek"**: media o wysokiej wiarygodności blokują crawlery AI **częściej** niż strony niskiej jakości i silnie partyjne — czyli racjonalna decyzja pojedynczego wiarygodnego wydawcy degraduje wspólne podłoże, na którym uczą się modele. To trzeci niezależny sygnał degradacji, obok 16% źródeł syntetycznych (mech. 12) i aktualizacji antyspamowej Google (mech. 14c). Dla organizacji społecznej rachunek jest łatwiejszy niż dla wydawcy (nie sprzedaje treści, tylko wiarygodność), ale rekomendacja „otwieraj domyślnie" wymaga teraz zastrzeżenia. *Status: otwarte.* *(Przeniesione z galaxy-strategia.md, 2026-09-29.)*
+
 ## Powiązane pojęcia
 
 - [[2026-06-15 Newsletter jako kanał|Newsletter jako kanał]] / [[2026-06-25 Owned vs rented audience|Owned vs rented audience]] — **lista mailingowa to bufor niezależny od AI search**: gdy ruch organiczny topnieje, e-mail pozostaje kanałem bezpośrednim, odpornym na zmiany algorytmów. Najczęstsza rekomendacja sektorowa (ECF, Jean O'Brien) na niepewność AI search. „Owned vs rented" — strona napisana.
@@ -179,6 +191,8 @@ Doprecyzowanie mech. 3 (SEO i AI search to naczynia połączone) i mech. 16 (pł
 - **Pomiar bez budżetu**: kanał AI w GA4 + Trakkr (free) lub Semrush AI Visibility — zacznij mierzyć footprint, póki robi to <1/4 rynku.
 - **Moduł kursu „Fundraising z AI"**: jak organizacja społeczna buduje widoczność misji w rozmowach AI z potencjalnymi darczyńcami — od audytu, przez reguły GEO, po politykę organizacyjną wobec AI search.
 - **Lokalne SEO i schema jako pierwszy, najtańszy ruch techniczny** (mech. 29): uzupełniony profil Google Business Profile i znaczniki `Organization`, `Event` i `FAQPage` na stronie. **Działa w skali 2–5 osób** — to konto w usłudze Google i wtyczka schema w typowym CMS, bez programisty; źródło mówi o „niskim koszcie wdrożenia”, ale nie podaje nakładu w godzinach. Najwięcej daje organizacjom działającym lokalnie (świetlica, schronisko, bank żywności), bo zapytania z kontekstem miejsca to ich główny kanał odkrywania.
+- **Arkusz „źródło prawdy” w sześciu obszarach** (za mech. 30): **działa w skali 2–5 osób** — jeden arkusz z kolumnami fakt / właściciel / źródło / data przeglądu, wypełniony w dwie–trzy godziny i przeglądany kwartalnie (kampanie i sytuacje kryzysowe częściej); ten sam arkusz jest wsadem do strony „o nas”, notki dla mediów i materiałów dla zarządu.
+- **Osobny pomiar cytowań w AI obok pozycji w Google** (za mech. 31): **działa w tej skali w wersji ręcznej** — raz w miesiącu te same 5–10 pytań zadanych asystentom i zapis, czy organizacja jest cytowana; płatne narzędzia do monitoringu cytowań **mają sens od progu**, gdy strona jest realnym kanałem pozyskania darczyńców (źródło nie podaje progu ruchu).
 
 ---
 

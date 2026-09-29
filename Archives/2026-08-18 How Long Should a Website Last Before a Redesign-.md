@@ -5,6 +5,9 @@ url: "https://www.arcstone.com/how-long-should-a-website-last-before-a-redesign/
 published: 2026-08-18
 created: 2026-09-28
 tags:
+  - "organizacje-społeczne"
+  - "produkty-cyfrowe"
+  - "strategia-organizacji"
 ---
 
 

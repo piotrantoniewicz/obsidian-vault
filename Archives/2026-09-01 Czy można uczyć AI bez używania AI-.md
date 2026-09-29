@@ -5,6 +5,9 @@ url: "https://haimagazine.com/pl/ai_branza/edukacja/uczyc-ai-bez-uzywania-ai/?ut
 published: 2026-09-01
 created: 2026-09-28
 tags:
+  - "szkolenia-AI"
+  - "trendy-AI"
+  - "strategia-AI"
 ---
 
 

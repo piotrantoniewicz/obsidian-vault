@@ -5,6 +5,9 @@ url: "https://devstockacademy.pl/blog/narzedzia-i-automatyzacja/jak-pisac-prompt
 published: 2026-09-28
 created: 2026-09-29
 tags:
+  - "prompt-engineering"
+  - "szkolenia-AI"
+  - "narzędzia-AI"
 ---
 
 

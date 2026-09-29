@@ -5,6 +5,9 @@ url: "https://www.donordock.com/articles/when-grants-arent-enough-how-to-strengt
 published: 2026-05-11
 created: 2026-09-29
 tags:
+  - "fundraising"
+  - "organizacje-społeczne"
+  - "strategia-organizacji"
 ---
 
 

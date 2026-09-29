@@ -5,6 +5,9 @@ url: "https://raisely.com/blog/givingtuesday-posts"
 published: 2026-09-02
 created: 2026-09-28
 tags:
+  - "fundraising"
+  - "digital-campaigning"
+  - "content-marketing"
 ---
 
 

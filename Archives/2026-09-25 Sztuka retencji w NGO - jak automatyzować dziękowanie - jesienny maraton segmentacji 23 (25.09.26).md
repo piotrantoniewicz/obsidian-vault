@@ -5,6 +5,9 @@ url: "https://www.youtube.com/watch?v=KAcojPqjAZY"
 published: 2026-09-25
 created: 2026-09-29
 tags:
+  - "fundraising"
+  - "automatyzacja"
+  - "organizacje-społeczne"
 ---
 
 

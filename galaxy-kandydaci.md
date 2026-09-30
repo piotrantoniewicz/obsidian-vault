@@ -12,9 +12,9 @@ Rejestr tematów, które mogą dostać własną stronę (`/galaxy:pisz`). **Jedn
 | Klaster | Status | Masa | Osiadł na / uwaga | Akt. |
 |---|---|---|---|---|
 | Partnerstwa z biznesem (CSR / ESG) | obserwować | ~22 szeroko | — | 2026-09-22 |
-| Segmentacja bazy darczyńców i odbiorców | kandydat realny | ~80 | Higiena listy, Stewardship mech. 52–53, Transfer, Recurring giving mech. 30, Framing mech. 55 | 2026-09-30 |
+| Segmentacja bazy darczyńców i odbiorców | kandydat realny | ~80 | Higiena listy, Stewardship mech. 5, Kampania końcoworoczna mech. 1, Transfer, Recurring giving mech. 30, Framing mech. 55 | 2026-09-30 |
 | Generowanie obrazów AI i spójność wizualna marki | kandydat realny | ~14 „Midjourney” + ~5 „obrazy AI” | — | 2026-09-14 |
-| Marketing automation i sekwencje mailowe | obserwować | ~9 wąsko | Stewardship mech. 33, 39, 52; Newsletter | 2026-09-30 |
+| Marketing automation i sekwencje mailowe | obserwować | ~9 wąsko | Stewardship mech. 5; Newsletter | 2026-09-30 |
 | Dostępność komunikacji cyfrowej (mail, WWW) | obserwować | ~6 | Newsletter mech. 34, Email deliverability mech. 37 | — |
 | Strategia organizacji (wybór, koszt alternatywny, konflikt) | obserwować | ~11 wąsko, ~236 szeroko | Transparentność mech. 37 | — |
 | Ludzie, role i zmiana w organizacji (mentoring, sukcesja, wypalenie, rotacja) | kandydat realny | 12+ źródeł; ~22 + ~5 o mentoringu | Wdrażanie AI, Stewardship; zazębia się z „Przywództwo i zarząd” | 2026-09-22 |
@@ -33,10 +33,9 @@ Rejestr tematów, które mogą dostać własną stronę (`/galaxy:pisz`). **Jedn
 | Produktywność osobista i ekonomika praktyki konsultanta | obserwować | ~5 | — | 2026-08-28 |
 | Walidacja produktu przed zbudowaniem | obserwować | słaba | — | — |
 | Techniczne SEO stron organizacji | obserwować | ~46 szeroko | — | — |
-| Kampania końcoworoczna (year-end appeal) | kandydat realny | ~65; szeroko ~89 | Stewardship mech. 17, 24, 46, 53 (pięć okien sezonu); Rapid response mech. 14; Recurring giving mech. 30, 33; P2P mech. 21 | 2026-09-30 |
-| Wydarzenia fundraisingowe (eventy) | obserwować | ~6 wąsko, ~35 szeroko; ~15 „aukcja/gala/wydarzenie” | Stewardship mech. 51 (aukcja) | 2026-09-30 |
+| Wydarzenia fundraisingowe (eventy) | obserwować | ~6 wąsko, ~35 szeroko; ~15 „aukcja/gala/wydarzenie” | Stewardship mech. 10 (aukcja) | 2026-09-30 |
 | Copy kampanijne: hasło, nagłówek, hook | obserwować | ~34 szeroko | Framing mech. 15, 18, 21 | — |
-| Sprzedaż i działalność odpłatna organizacji | obserwować | ~51 szeroko | Framing mech. 25, Stewardship mech. 19 | — |
+| Sprzedaż i działalność odpłatna organizacji | obserwować | ~51 szeroko | Framing mech. 25, Stewardship mech. 13 | — |
 | Społeczność jako struktura projektowa (community building) | obserwować | ~39 | — | — |
 | SMS / texting jako kanał | kandydat realny | ~23 | Storytelling, Higiena listy, Stewardship | 2026-09-14 |
 | Branding programu dawania cyklicznego | obserwować | — | Recurring giving mech. 9, Tożsamość darczyńcy mech. 9 | — |

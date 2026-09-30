@@ -5,7 +5,7 @@ tags:
   - digital-campaigning
   - organizacje-społeczne
 created: 2026-09-07
-updated: 2026-09-29
+updated: 2026-09-30
 relevance: wysoka
 sources:
   - "[[2023-05-01 Doctors Without Borders (Médecins Sans Frontières)]]"
@@ -109,7 +109,7 @@ Rozszerzenie mech. 1 (wyzwalaczem bywa szansa, nie tylko katastrofa) o **trzeci 
 - [[2026-06-03 Tożsamość darczyńcy|Tożsamość darczyńcy]] — „przyszedł do chwili, nie do misji" (mech. 7) to problem tożsamościowy, nie tylko segmentacyjny
 - [[2026-06-13 Wdrażanie AI w organizacji społecznej|Wdrażanie AI w organizacji społecznej]] — próba generalna i mapowanie łańcucha akceptacji (mech. 2, 11) to ta sama praca procesowa, którą wymusza wdrożenie narzędzi
 - [[Sprawczość organizacyjna]] — zdecentralizowana decyzja bez czekania na zarząd (mech. 11) jako warunek tempa
-- [[Kampania końcoworoczna]] — najbardziej „zakotwiczona" treść w roku (mech. 8); pivot POST dotyczył właśnie Giving Tuesday
+- [[2026-09-30 Kampania końcoworoczna|Kampania końcoworoczna]] — najbardziej „zakotwiczona" treść w roku (mech. 8); pivot POST dotyczył właśnie Giving Tuesday
 
 ## Zastosowanie w kontekście organizacji społecznych
 

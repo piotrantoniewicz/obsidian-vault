@@ -5,7 +5,7 @@ tags:
   - organizacje-społeczne
   - digital-campaigning
 created: 2026-06-13
-updated: 2026-09-22
+updated: 2026-09-30
 relevance: wysoka
 sources:
   - "[[2026-04-08 Społeczność Jako Twój Najlepszy Fundraiser Jak Wdrożyć Model Peer-to-Peer]]"
@@ -30,6 +30,7 @@ sources:
   - "[[2026-02-02 How to Calculate Event Fundraising ROI]]"
   - "[[2026-09-09 The Spectator Paradox Reaching the people unmoved by social pressure]]"
   - "[[2024-07-19 How to Secure & Promote a Matching Grant for GivingTuesday]]"
+  - "[[2026-09-02 8 Strategic ideas for GivingTuesday posts on social media]]"
 ---
 
 # Peer-to-peer fundraising (fundraising rówieśniczy)
@@ -107,6 +108,9 @@ Ograniczenie zakresu dla mech. 1 i całego mechanizmu proxy trust, na którym st
 **20. Licznik w czasie rzeczywistym jako mechanizm konwersji — i matching jako spoiwo kampanii wielokanałowej ([[Madison Barefield]] / [[CauseVox]])**
 Uzupełnienie mech. 5 (ekosystem zamiast sezonowej kampanii) o element techniczny, który w opisach kampanii zwykle ginie jako szczegół wdrożeniowy: **widoczny, automatycznie aktualizowany licznik postępu puli matchingowej**. Teza źródła: matching działa najsilniej, gdy darczyńca **widzi efekt swojej wpłaty od razu**, bo licznik usuwa niepewność *„czy to naprawdę się dzieje"* — ręczne, opóźnione aktualizacje tę niepewność przywracają. Drugi element to **presja czasowa**, której nie zbuduje pojedynczy kanał: strona lub landing kampanii, e-mail, media społecznościowe i **ambasadorzy P2P pracują na ten sam licznik**, a nie na osobne cele — matching jest tu spoiwem, bo daje wszystkim kanałom **jeden wspólny, rosnący komunikat** zamiast czterech różnych apeli (uzupełnienie mech. 15 o mikro-kicie ambasadora: to najprostsza treść, jaką ambasador może przekazać dalej). Dwa case'y ze źródła, **z rynku USA i bez metodologii** — kotwice skali, nie benchmarki: kampania **Shower Strike** z automatycznym dopasowaniem zebrała **ponad 307 tys. USD** powyżej celu, a **Spur Local** zebrał **ponad 1 mln USD** w kampanii GivingTuesday opartej na fundraisingu peer-to-peer. Warunek brzegowy, o którym źródło nie mówi, a który wynika z mech. 18 tej strony: licznik i matching podnoszą konwersję, ale **nie zmniejszają kosztu pracy** przy obsłudze ambasadorów — to dźwignia na konwersję, nie na pojemność organizacyjną. Metryczka: poradnik dostawcy oprogramowania fundraisingowego (CauseVox, lipiec 2024, USA), **bez n, przykłady dobrane przez autora**. *(Źródło: [[2024-07-19 How to Secure & Promote a Matching Grant for GivingTuesday]])*
 
+**21. Osiem typów postów na jeden dzień dawania — kalendarz według funkcji, nie godzin ([[Kelsey Hoff]] / [[Raisely]])**
+Rozwinięcie mech. 20 (licznik i matching) do pełnej sekwencji kampanii jednodniowej ([[GivingTuesday]]), w której trzy ostatnie ogniwa to mechanika P2P. Osiem typów postów, każdy z inną funkcją w ścieżce wsparcia: (1) **odliczanie** i zbieranie adresów przez landing page (w dniu kampanii link zmienia się na stronę darowizn), (2) **wpływ** — na co pójdą pieniądze, (3) **matching i zachęty**, (4) **prośba wprost**, kilka razy w ciągu dnia, (5) **postęp** przy kamieniach milowych (termometr), (6) **wyróżnienie darczyńców z oznaczeniem**, (7) **przejęcie kont** przez lokalną osobę znaną lub sponsora, z gotowymi postami do skopiowania przez partnerów, (8) **szablony do udostępniania** dla darczyńców i fundraiserów. Kolejność układa się w łańcuch uwaga → zaufanie → prośba → dowód społeczny → polecenie; ogniwa 6–8 przerzucają dystrybucję na sieć darczyńców, co zwiększa zasięg bez budżetu reklamowego. Test treści wartej udostępnienia: *„czy ludzie podzieliliby się tym, nawet gdyby nie wspierało to słusznej sprawy?"*. Warunki wykonalności: sponsor matchingu i szablony grafik oraz podpisów przygotowane **co najmniej miesiąc** wcześniej. Metryczka: poradnik dostawcy platformy zbiórkowej, 2026, dane tła z GivingTuesday Data Commons (37 mln dorosłych w USA w 2022), **bez pomiaru skuteczności poszczególnych typów postów**. *(Źródło: [[2026-09-02 8 Strategic ideas for GivingTuesday posts on social media]])*
+
 ## Powiązane pojęcia
 
 - [[2026-06-03 Tożsamość darczyńcy|Tożsamość darczyńcy]] — P2P to mechanizm tożsamościowy, nie kanał dystrybucji: ambasador transferuje własną narrację o sobie wraz z prośbą o wpłatę
@@ -135,6 +139,8 @@ Uzupełnienie mech. 5 (ekosystem zamiast sezonowej kampanii) o element techniczn
 - **Nie każdy nowy kontakt jest kandydatem na ambasadora (mech. 19)**: przy rekrutacji nano-ambasadorów filtruj nie po tym, kto wpłacił, a po tym, **kto sam z siebie opowiada o sprawie** (odpisał, zadał pytanie, przyszedł na spotkanie). **Działa w skali 2–5 osób** — to obserwacja i notatka przy kilkudziesięciu osobach, bez narzędzi; **od progu** kilkuset kontaktów potrzebny jest jeden tag w bazie („sam zainicjował kontakt"), bo pamięć przestaje wystarczać.
 
 - **Jedna liczba widoczna we wszystkich kanałach kampanii (mech. 20)**: **działa w skali 2–5 osób** — warunkiem nie jest technologia, tylko decyzja, że **wszystkie kanały pokazują ten sam licznik** zamiast osobnych celów; przy braku systemu podającego stan na żywo wystarczy **ręczna aktualizacja raz dziennie o stałej porze** (pięć minut) i zapowiedziana z góry, żeby cisza między aktualizacjami nie czytała się jako zastój. **Działa od progu** automatyczny licznik — wymaga systemu wpłat z taką funkcją, czyli realnie przejścia na płatny plan narzędzia fundraisingowego; sensowne przy kampanii, w której pula matchingowa przewyższa roczny koszt tego narzędzia. **Nie działa w tej skali** kampania prowadzona równolegle na czterech kanałach z osobnymi treściami; **substytutem jest jeden kanał główny plus mail**, a pozostałe wyłącznie jako miejsce, w którym ambasadorzy podają dalej tę samą liczbę i ten sam link.
+
+- **Trzy ogniwa zamiast ośmiu w dniu kampanii (mech. 21)**: pełny zestaw ośmiu typów postów publikowanych co godzinę **nie działa w skali 2–5 osób** — substytut: przygotuj z wyprzedzeniem tylko ogniwa 5, 6 i 8 (jedna grafika postępu aktualizowana 2–3 razy w ciągu dnia, jeden szablon podziękowania z oznaczeniem, jeden gotowy tekst do udostępnienia dla darczyńców). Źródło nie podaje progu, od którego pełny rytm się opłaca.
 
 ## Otwarte pytania
 

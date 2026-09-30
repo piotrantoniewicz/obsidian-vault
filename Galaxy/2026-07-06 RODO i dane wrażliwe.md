@@ -5,7 +5,7 @@ tags:
   - organizacje-społeczne
   - strategia-organizacji
 created: 2026-07-06
-updated: 2026-09-29
+updated: 2026-09-30
 relevance: wysoka
 sources:
   - "[[2025-09-02 AI Act & RODO 2025 Przewodnik po regulacjach UE karach i compliance]]"
@@ -29,6 +29,7 @@ sources:
   - "[[2026-09-09 Najlepsze taktyki z wdrożenia 150+ sekwencji na porzucone koszyki.]]"
   - "[[2026-09-09 Taniej, ale z haczykiem – nowa strategia Mety]]"
   - "[[2026-09-23 W Twojej organizacji już jest wykorzystywana sztuczna inteligencja!]]"
+  - "[[2026-09-15 Najlepsza jest AI, która niczego nie pamięta-]]"
 ---
 
 # RODO i dane wrażliwe (GDPR & Sensitive Data)
@@ -102,6 +103,13 @@ Domknięcie mech. 17 („nie trenujemy na twoich danych ≠ nie mamy twoich dany
 **20. Wolontariusze jako niewidoczny kanał shadow AI — i odpowiedzialność organizacji jako osoby prawnej ([[Legalden]])**
 Dopowiedzenie do mech. 6 i 10 od strony specyficznej dla sektora: nieformalne użycie AI w organizacji społecznej to nie tylko etat, ale **wolontariusze** przygotowujący raporty, komunikaty i posty — czyli osoby, które zwykle nie przechodzą onboardingu, nie podpisują polityki i korzystają z własnych kont. Teza prawna, która czyni to pilnym: **za szkodę odpowiada organizacja jako osoba prawna, niezależnie od tego, czy narzędziem był system AI** i kto go użył — więc brak polityki AI jest luką w zarządzaniu ryzykiem tej samej wagi co brak polityki ochrony danych, a nie brakiem „nowinki”. Autor zamyka to **listą dziesięciu zasad**, która w większości powtarza już opisane mechanizmy (podstawa prawna i minimalizacja — mech. 2; umowa powierzenia i polityka dostawcy — mech. 5; wyłączenie trenowania — mech. 3 i 17; [[DPIA]] — mech. 2 i 8), ale dokłada dwa elementy, których ta strona nie miała w jednym miejscu: **oznaczanie treści wygenerowanych przez AI** jako część polityki danych (por. [[2026-07-20 AI Act|AI Act]]) oraz **uzupełnienie istniejącej polityki ochrony danych o AI** zamiast pisania osobnego dokumentu od zera. Liczba do ostrożnego użycia: **1 na 5 organizacji doświadczyła już naruszenia bezpieczeństwa danych związanego z shadow AI** — notatka **nie podaje źródła, próby ani rynku**, więc nadaje się jako ilustracja, nie jako argument w rozmowie z zarządem. Metryczka: materiał kancelarii (LinkedIn, Polska, wrzesień 2026), bez n. *(Źródło: [[2026-09-23 W Twojej organizacji już jest wykorzystywana sztuczna inteligencja!]])*
 
+**21. Retencja, trening, dostęp, monitoring — cztery osobne pytania i dobór modelu według wrażliwości danych ([[Krzysztof Mirończuk]])**
+Rozszerzenie mech. 17 z dwóch pytań (trening vs retencja) do czterech, które w rozmowie o ryzyku AI zwykle się zlewają: **retencja** (jak długo dostawca przechowuje prompty i odpowiedzi), **trening** (czy uczy na nich modele), **dostęp** (kto może je zobaczyć) i **monitoring bezpieczeństwa** (czy system skanuje serie zapytań pod kątem nadużyć). Punkt zapalny według źródła: [[Anthropic]] wprowadził kategorię **Covered Models**, w której prompty i odpowiedzi klientów biznesowych są przechowywane **30 dni**, a potem automatycznie usuwane (chyba że oznaczone ze względów bezpieczeństwa lub prawnych) — **także u klientów z Zero Data Retention**; według [[Reuters]] skłoniło to [[Palantir]], [[Nvidia]] i [[Booz Allen Hamilton]] do ograniczeń w używaniu Claude. Domyślnie dane z produktów komercyjnych nie trafiają do treningu bez zgody klienta; [[OpenAI]] w sierpniu rozszerzyło Zero Data Retention na modele frontier i zapowiada Private Safety Processing. Źródłem konfliktu jest zderzenie dwóch „bezpieczeństw": **dostawcy** (wykrywanie nadużyć wymaga wglądu w serie zapytań) i **klienta** (kontrola nad własnymi danymi). Wniosek operacyjny: pytanie „który model jest najlepszy?" ustępuje pytaniu **„któremu modelowi możemy pokazać te dane?"** — organizacje będą dobierać **kilka modeli według poziomu wrażliwości danych**, a nie jeden model firmowy; im większa samodzielność agenta z dostępem do skrzynki i dokumentów, tym więcej widzi. Lista pytań do dostawcy: gdzie przetwarzane są dane, jak długo, kto ma dostęp, **czy zasady można zmienić jednostronnie**, **czy możliwe są własne klucze szyfrujące**; alternatywa — hosting modeli w środowisku klienta ([[Microsoft]] Foundry). Metryczka: artykuł publicystyczny, wrzesień 2026, opis zmian w zasadach dostawców i doniesień Reuters, **bez weryfikacji technicznej**. *(Źródło: [[2026-09-15 Najlepsza jest AI, która niczego nie pamięta-]])*
+
+## Sprzeczności
+
+- **Retencja u Anthropic: 30-dniowa zasada łagodzona czy wprowadzana?** [mech. 17, 21] — A: Anthropic **łagodzi wcześniejszą zasadę** 30-dniowego przechowywania rozmów (wg źródła od czerwca wymagane 30 dni, treści oznaczone do 2 lat), podczas gdy OpenAI potwierdza zero data retention jako standard dla klientów biznesowych ([[2026-09-04 Comparing OpenAI and Anthropic's Data Retention Policies|The Batch / DeepLearning.AI]], wrzesień 2026, bez podanego n, porównanie deklaracji dostawców, rynek globalny). B: Anthropic **wprowadził** kategorię Covered Models z 30-dniową retencją promptów i odpowiedzi **także dla klientów z Zero Data Retention**, co wywołało ograniczenia u dużych klientów korporacyjnych ([[2026-09-15 Najlepsza jest AI, która niczego nie pamięta-|Mirończuk / HAI Magazine]], wrzesień 2026, bez podanego n, za Reuters, rynek USA). Wątpliwość nazwana: oba opisy mogą dotyczyć różnych etapów tej samej zmiany (wprowadzenie, potem korekta) albo różnych produktów — żadne źródło nie podaje precyzyjnych dat obowiązywania. *Status: otwarte.*
+
 ## Powiązane pojęcia
 
 - [[2026-06-15 AI governance|AI governance]] — governance to procesy, role i polityka; ta strona to jego prawny substrat: RODO/AI Act wyznaczają twarde minimum, wokół którego governance buduje praktykę („wyciek danych beneficjentów = incydent RODO").
@@ -133,6 +141,8 @@ Dopowiedzenie do mech. 6 i 10 od strony specyficznej dla sektora: nieformalne u�
 - **Dwa tory narzędzi zamiast jednego (mech. 19)**: wypisz na jednej kartce, co w organizacji jest jawne (treści, opisy projektów, materiały promocyjne), a co wrażliwe (dane darczyńców i beneficjentów, dokumenty przed publikacją) i przypisz temu drugiemu **jedno** narzędzie z jawnie sprawdzoną retencją — także wtedy, gdy jest droższe. **Działa w skali 2–5 osób** — to jedna strona w polityce AI i jedna subskrypcja; **nie działa** próba oszczędzenia przez wrzucanie wszystkiego do najtańszego planu, a **substytutem** przy zerowym budżecie jest reguła „danych osobowych nie wkleja się nigdzie" plus praca na materiale zanonimizowanym.
 
 - **Akapit o AI w porozumieniu wolontariackim (mech. 20)**: dopisz do porozumienia z wolontariuszem (albo do krótkiego onboardingu) trzy zdania z polityki AI — czego nie wklejamy, jakich narzędzi używamy, jak oznaczamy treści z AI — i dopisz AI do istniejącej polityki ochrony danych zamiast tworzyć nowy dokument. **Działa w skali 2–5 osób** — jeden akapit i pięć minut przy podpisywaniu porozumienia; w tej skali wolontariusze bywają liczniejsi niż etat, więc to często większa część powierzchni ryzyka niż zespół. Pełna lista dziesięciu zasad z DPIA **działa od progu** przetwarzania danych beneficjentów w narzędziu AI (wtedy obowiązuje ścieżka z mech. 8 i 14).
+
+- **Mapa „który model widzi które dane" zamiast jednego modelu firmowego (mech. 21)**: **działa w skali 2–5 osób** — dwa tory z mech. 19 rozszerzone o kolumny „dostawca / retencja / trening / data sprawdzenia polityki"; nakład: godzina przy wyborze narzędzia i kwadrans raz na kwartał. Własne klucze szyfrujące i hosting modelu w środowisku organizacji **nie działają w tej skali** bez osoby technicznej — substytut: dane beneficjentów w ogóle nie trafiają do narzędzi AI.
 
 ## Otwarte pytania
 

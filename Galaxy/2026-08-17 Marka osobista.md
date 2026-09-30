@@ -5,7 +5,7 @@ tags:
   - ghostwriting
   - organizacje-społeczne
 created: 2026-08-17
-updated: 2026-09-29
+updated: 2026-09-30
 relevance: wysoka
 sources:
   - "[[2024-06-26 Marka osobista w NGO jak zacząć budowanie wizerunku społecznika społeczniczki]]"
@@ -33,6 +33,7 @@ sources:
   - "[[2026-09-10 Jak działa nowy algorytm LinkedIn w 2026 roku  Karol Stróż]]"
   - "[[2024-05-07 2026 Social Media Statistics for Nonprofits]]"
   - "[[2026-09-23 Kevin L. Brown - nauczanie zamiast promocji w fundraisingu]]"
+  - "[[2026-09-27 13 Things That Become More Important As AI Becomes More Powerful]]"
 ---
 
 # Marka osobista
@@ -117,6 +118,9 @@ Liczba po stronie popytu pod mech. 7 (profil jako landing page) i 14 („buyabil
 
 **23. Uczyć zamiast promować — ekspertyza pokazana w debacie publicznej jako droga do rozmowy o finansowaniu ([[Kevin L. Brown]])**
 Przeniesienie zasady „pokaż, nie deklaruj” (mech. 14, 20) z rynku usług na fundraising lidera organizacji. Diagnoza: wśród **10 mln organizacji non-profit** walczących o uwagę komunikacja typu „zobacz, co robimy” przestaje działać, bo darczyńcy są nią przesyceni. Łańcuch przyczynowy autora: promocja przez wszystkich → darczyńcy ją ignorują → **nauczanie demonstruje ekspertyzę** → ekspertyza buduje wiarygodność → **wiarygodność otwiera rozmowy o finansowaniu**. Reguła praktyczna: zamiast „jesteśmy liderem w zdrowiu szkolnym” pokazać coś istotnego z tej dziedziny — odsłonić wgląd, nie ogłosić status. Case: Sabrina Habib (Kidogo) opublikowała w dużym amerykańskim dzienniku tekst opinii krytykujący politykę dopłat do opieki nad dziećmi, **nie promując przy tym organizacji** — głos ekspercki w szerszej debacie jako kapitał zaufania budowany przed jakąkolwiek prośbą. Metryczka: post LinkedIn (wrzesień 2026), jeden case, bez danych o efekcie finansowym, USA. *(Źródło: [[2026-09-23 Kevin L. Brown - nauczanie zamiast promocji w fundraisingu]])*
+
+**24. Osobista historia i dowód pracy jako wyróżnik, gdy treść staje się towarem ([[Dickie Bush]])**
+Uzasadnienie mech. 1–2 (archeologia, autentyczność) i mech. 20 (teardown jako dowód kompetencji) od strony ekonomii treści: AI produkuje insighty **commoditowe** — powtarzalne i łatwe do zreplikowania — więc gdy informacja tanieje, ludzie kupują na podstawie tego, **kto stoi za produktem i czy faktycznie robił to, co deklaruje**. Dwa zasoby, których model nie odtworzy: **osobiste historie** (doświadczenia, błędy, przeżycia autora) i **udokumentowany dowód pracy**. Ta sama lista stawia obok nich **sąd i rozliczalność** jako zasoby rzadkie, bo AI przejmuje wykonanie, ale nie wybór celu ani ocenę rezultatu. Metryczka: lista-esej z newslettera o AI (13 punktów), wrzesień 2026, **bez danych**. *(Źródło: [[2026-09-27 13 Things That Become More Important As AI Becomes More Powerful]])*
 
 ## Sprzeczności
 

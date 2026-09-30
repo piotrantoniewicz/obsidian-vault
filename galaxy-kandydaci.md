@@ -12,13 +12,13 @@ Rejestr tematów, które mogą dostać własną stronę (`/galaxy:pisz`). **Jedn
 | Klaster | Status | Masa | Osiadł na / uwaga | Akt. |
 |---|---|---|---|---|
 | Partnerstwa z biznesem (CSR / ESG) | obserwować | ~22 szeroko | — | 2026-09-22 |
-| Segmentacja bazy darczyńców i odbiorców | kandydat realny | ~80 | Higiena listy, Stewardship, Transfer, Recurring giving mech. 30, Framing mech. 55 | 2026-09-29 |
+| Segmentacja bazy darczyńców i odbiorców | kandydat realny | ~80 | Higiena listy, Stewardship mech. 52–53, Transfer, Recurring giving mech. 30, Framing mech. 55 | 2026-09-30 |
 | Generowanie obrazów AI i spójność wizualna marki | kandydat realny | ~14 „Midjourney” + ~5 „obrazy AI” | — | 2026-09-14 |
-| Marketing automation i sekwencje mailowe | obserwować | ~9 wąsko | Stewardship mech. 39, Newsletter | — |
+| Marketing automation i sekwencje mailowe | obserwować | ~9 wąsko | Stewardship mech. 33, 39, 52; Newsletter | 2026-09-30 |
 | Dostępność komunikacji cyfrowej (mail, WWW) | obserwować | ~6 | Newsletter mech. 34, Email deliverability mech. 37 | — |
 | Strategia organizacji (wybór, koszt alternatywny, konflikt) | obserwować | ~11 wąsko, ~236 szeroko | Transparentność mech. 37 | — |
 | Ludzie, role i zmiana w organizacji (mentoring, sukcesja, wypalenie, rotacja) | kandydat realny | 12+ źródeł; ~22 + ~5 o mentoringu | Wdrażanie AI, Stewardship; zazębia się z „Przywództwo i zarząd” | 2026-09-22 |
-| Przywództwo i zarząd w organizacji społecznej | obserwować | ~32 „przywództwo”, ~97 „zarząd” | zazębia się z „Ludzie, role i zmiana” | — |
+| Przywództwo i zarząd w organizacji społecznej | obserwować | ~32 „przywództwo”, ~97 „zarząd”, ~20 „spotkania” | zazębia się z „Ludzie, role i zmiana”; kultura spotkań (Neider) | 2026-09-30 |
 | Pomiar, analityka i atrybucja (GA4, UTM, MTA → MMM) | obserwować | ~4 „atrybucja”, ~9 wąsko, ~34 szeroko | — | — |
 | Wnioski grantowe i obsługa dotacji | kandydat realny | ~47 | — | 2026-09-05 |
 | Badania, ankiety i predykcja zachowań z AI | obserwować | ~24 szeroko, ~3 wąsko | Prompt engineering | — |
@@ -33,18 +33,18 @@ Rejestr tematów, które mogą dostać własną stronę (`/galaxy:pisz`). **Jedn
 | Produktywność osobista i ekonomika praktyki konsultanta | obserwować | ~5 | — | 2026-08-28 |
 | Walidacja produktu przed zbudowaniem | obserwować | słaba | — | — |
 | Techniczne SEO stron organizacji | obserwować | ~46 szeroko | — | — |
-| Kampania końcoworoczna (year-end appeal) | kandydat realny | ~65; szeroko ~89 | Rapid response mech. 14, Stewardship mech. 17, 24, 46, Recurring giving mech. 30 | 2026-09-29 |
-| Wydarzenia fundraisingowe (eventy) | obserwować | ~6 wąsko, ~35 szeroko | — | — |
+| Kampania końcoworoczna (year-end appeal) | kandydat realny | ~65; szeroko ~89 | Stewardship mech. 17, 24, 46, 53 (pięć okien sezonu); Rapid response mech. 14; Recurring giving mech. 30, 33; P2P mech. 21 | 2026-09-30 |
+| Wydarzenia fundraisingowe (eventy) | obserwować | ~6 wąsko, ~35 szeroko; ~15 „aukcja/gala/wydarzenie” | Stewardship mech. 51 (aukcja) | 2026-09-30 |
 | Copy kampanijne: hasło, nagłówek, hook | obserwować | ~34 szeroko | Framing mech. 15, 18, 21 | — |
 | Sprzedaż i działalność odpłatna organizacji | obserwować | ~51 szeroko | Framing mech. 25, Stewardship mech. 19 | — |
 | Społeczność jako struktura projektowa (community building) | obserwować | ~39 | — | — |
 | SMS / texting jako kanał | kandydat realny | ~23 | Storytelling, Higiena listy, Stewardship | 2026-09-14 |
 | Branding programu dawania cyklicznego | obserwować | — | Recurring giving mech. 9, Tożsamość darczyńcy mech. 9 | — |
-| Dywersyfikacja przychodów / odporność finansowa | obserwować | ≥6 źródeł; ~9 + ~4 „płynność” | Transparentność mech. 12, 18 | — |
+| Dywersyfikacja przychodów / odporność finansowa | kandydat realny | ≥9 źródeł; ~7 „dywersyfikac”, ~11 z płynnością i rezerwą | Transparentność mech. 6, 14, 15, 24, 27, 37, 38 (grant jako mnożnik), 39 (cash flow) | 2026-09-30 |
 | Vibe-coding | kandydat realny | ~12 wąsko, ~92 szeroko | Context engineering mech. 9, Wdrażanie AI mech. 56, Widoczność w AI search mech. 26 | 2026-09-13 |
 | Produkty cyfrowe budowane przez organizacje (MVP, iteracja) | obserwować | ~40 szeroko | — | — |
 | Monetyzacja wiedzy / produkty cyfrowe | obserwować | ~6 | — | — |
 | Prawa autorskie, dane treningowe i ekstrakcja stylu | obserwować | ~3 | Ghostwriting mech. 19 | — |
 | Twórcy, influencerzy i „amplifierzy” w kampaniach | obserwować | ~36 | Owned vs rented mech. 6–8, 14; Ghostwriting mech. 20 | — |
 | Centra danych AI, woda i energia | obserwować | ~22 | Suwerenność technologiczna mech. 9, 13, 16, 18, 20 (najgęstszy podwątek; dotyczy ewentualnego rozbicia tej strony) | — |
-| Partycypacja i wynagradzanie osób z doświadczeniem (lived experience) | obserwować | ~3 + ~6 | — | 2026-09-14 |
+| Partycypacja i wynagradzanie osób z doświadczeniem (lived experience; participatory grantmaking) | obserwować | ~3 + ~6 + ~2 „participatory grantmaking” | — | 2026-09-30 |

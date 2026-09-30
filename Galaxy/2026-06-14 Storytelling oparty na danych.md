@@ -5,7 +5,7 @@ tags:
   - digital-campaigning
   - fundraising
 created: 2026-06-14
-updated: 2026-09-29
+updated: 2026-09-30
 relevance: wysoka
 sources:
   - "[[2025-06-17 Jak wizualizacja danych wspiera komunikację organizacji społecznej Sprawdź na przykładzie Fundacji Gajusz]]"
@@ -33,6 +33,7 @@ sources:
   - "[[2026-08-31 What Does Power Look Like?]]"
   - "[[2026-09-12 Jak robić sociale, gdy nie chodzi o kliki, a coś ważniejszego- -Mamy strategię na wszystko-]]"
   - "[[2025-03-04 How To Create Donation Tiers That Drive Donations]]"
+  - "[[2026-08-21 Social Media Video Statistics 2026 Engagement & Views]]"
 ---
 
 # Storytelling oparty na danych (data storytelling)
@@ -140,6 +141,8 @@ Rozwinięcie mech. 13 (impact statement per próg) o wybór **typu** progu zale�
 ## Sprzeczności
 
 - **Ile trwa dobre wideo fundraisingowe: 2 czy 3 minuty?** — Storytelling mech. 11 przyjmuje **2 minuty** jako górną granicę użyteczności formatu (za praktyką eventową, fala 17–19.08); nowy mech. 14 (CauseVox) podaje **poniżej 3 minut** dla wideo fundraisingowego i **poniżej 90 sekund** na social media. Najprostsze wyjaśnienie — inny kanał i inny cel — jest moje, nie źródeł; żadne z nich nie różnicuje progu. *Status: otwarte.* *(Przeniesione z galaxy-strategia.md, 2026-09-29.)*
+
+- **Wideo w social media: poniżej 90 s czy 120–180 s?** [mech. 14] — A: wideo na social media powinno trwać **poniżej 90 sekund** (wideo fundraisingowe: poniżej 3 minut) ([[2026-08-17 10 Powerful Nonprofit Videos to Inspire You|CauseVox]], 2026, bez podanego n, przykłady wideo organizacji społecznych, rynek USA). B: przedział **120–180 s** daje najwyższe lub bardzo dobre zaangażowanie na Instagramie, Facebooku, TikToku i LinkedInie (poza krótkim formatem TikToka poniżej 30 s), a jedyną twardą granicą jest **180 s na Instagramie** ([[2026-08-21 Social Media Video Statistics 2026 Engagement & Views|Socialinsider]], 2026, n=111 tys. wideo, strony marek, rynek globalny; szczegóły w [[2026-06-25 Owned vs rented audience|Owned vs rented audience]] mech. 36). Wątpliwość nazwana: B mierzy wskaźnik zaangażowania i wyświetlenia wideo marek komercyjnych, A dotyczy wideo organizacji, którego celem jest wpłata — konflikt może być pozorny (inna populacja i metryka), ale żadne ze źródeł nie różnicuje progu według celu materiału. *Status: otwarte.*
 
 ## Powiązane pojęcia
 

@@ -1,33 +1,35 @@
-# Strategia rozbudowy Galaxy/ — 2026-09-29 (`/galaxy:ingest 10 notatek`, siedemnasta partia kolejkowa — 9 stron zaktualizowanych, 11 nowych mechanizmów, 1 nowa pozycja w sekcjach Sprzeczności)
+# Strategia rozbudowy Galaxy/ — 2026-09-30 (`/galaxy:ingest 10 notatek`, dziewiętnasta partia kolejkowa — 11 stron zaktualizowanych, 14 nowych mechanizmów, 2 nowe spory w sekcjach Sprzeczności)
 
 *Konwencja: data w tytule H1 = data ostatniej istotnej aktualizacji tego pliku. Przy każdej zmianie (nowe pojęcia, zamknięta fala, korekta planu) zaktualizuj datę w tytule.*
 
 > **Reguła dziennika:** sekcja „Gdzie jesteśmy" to **jeden, nadpisywany** snapshot bieżącego stanu — **nie** rosnący log dopisków. Przy każdej sesji **nadpisz jej treść** (liczba stron, ostatnia operacja, następny krok, backlog), zamiast dopisywać kolejny akapit „Dopisek RRRR-MM-DD". Historię trzymają same notatki, `git` i `Galaxy/index.md`.
 
-## Gdzie jesteśmy (akt. 2026-09-29, ostatnia operacja: **`/galaxy:ingest 10 notatek`**, siedemnasta partia kolejkowa)
+## Gdzie jesteśmy (akt. 2026-09-30, ostatnia operacja: **`/galaxy:ingest 10 notatek`**, dziewiętnasta partia kolejkowa)
 
 **Galaxy/ = 32 strony** (bez zmian liczby stron — sesja dopisywała do istniejących) w trzech działach indeksu:
 - **Fundraising** (10) — Tożsamość darczyńcy, Recurring giving, Stewardship, Peer-to-peer fundraising, Pledge program, Transparentność operacyjna, Major gifts, Pokolenia darczyńców, Transfer międzypokoleniowy majątku, DAF
 - **AI w organizacjach** (12) — Wdrażanie AI w organizacji społecznej, AI governance, Agentic AI, RAG, Context engineering, Prompt engineering, RODO i dane wrażliwe, Evale, Context layer organizacji, LLM Wiki, Suwerenność technologiczna, AI Act
 - **Komunikacja i digital campaigning** (10) — Email deliverability, Framing, Storytelling oparty na danych, Newsletter jako kanał, Widoczność w AI search (GEO/AEO), Owned vs rented audience, Higiena listy, Ghostwriting, Marka osobista, Rapid response
 
-**Ostatnia operacja — `/galaxy:ingest 10 notatek` (2026-09-29, siedemnasta partia kolejkowa).** Argument `10` bez jednostki — Piotr wybrał **10 notatek z kolejki**. Tym razem pełny indeks zbudowany awk-iem na komputerze Piotra; kontrola kompletności: **3483 wiersze = 3483 notatki**, brak plików poza indeksem. Partia: 7 notatek z `created: 2026-09-24`, 1 z 09-25, 2 pierwsze z 09-28. Wynik: **11 nowych mechanizmów na 8 stronach** (+ dopisek do istniejącego sporu na 9. stronie), **9 nowych punktów w „Zastosowaniach"** (każdy z testem skali w dół), **1 nowa pozycja w `## Sprzeczności`**, **1 notatka bez wkładu** (redesign strony WWW — brak strony i klastra).
-- **Email deliverability** (+ mech. 41): właściciel deliverability to nie IT — sześć warunków zarządzania (O'Malley; luka kompetencyjna na 5000+ specjalistach).
-- **Newsletter jako kanał** (+ mech. 41): *measurement mismatch*, „przychód jako opóźniony wskaźnik zaufania", osiem kroków „fundamenty przed wyrafinowaniem".
-- **Higiena listy** (+ mech. 33): konwersja do zaufania — siedem poziomów siły zapisu, portfolio listy, *trust decay*; nowe otwarte pytanie o próg kohort.
-- **Recurring giving** (+ mech. 30, 31): sustainerzy w apelu końcoworocznym (Avid: ok. 30% daje dodatkowo, mediana 77 USD); case Wheeler Mission (retencja sustainerów 87%, seria powitalna między 1. a 2. wpłatą). **Nowa pozycja w `## Sprzeczności`**: skala dodatkowego daru (+25% vs 30% × 77 USD).
-- **Stewardship** (+ mech. 49, 50): 3 „P" Burk i rytm 12 miesięcy z podwyżką w rocznicę (Axelrad); reaktywacja z kwotą i datą ostatniej wpłaty (+247%, jeden test). Dopisek po stronie A w sporze „Podziękowanie po darowiźnie".
-- **Framing** (+ mech. 55): własność problemu bije dystrybucję, architektura marki jako taktyka (Partisan, wybory w Niemczech).
-- **Widoczność w AI search** (+ mech. 34): LinkedIn jako kanał AEO — indeksacja 1–2 dni, pierwsza linia jako odpowiedź (Zutrau).
-- **Wdrażanie AI w organizacji społecznej** (+ mech. 72): „playground" i „priorytety, nie czas" (Behrend) — doprecyzowanie mech. 44, nie sprzeczność.
+**Ostatnia operacja — `/galaxy:ingest 10 notatek` (2026-09-30, dziewiętnasta partia kolejkowa).** Argument `10` bez jednostki — Piotr wybrał **10 notatek z kolejki**. Kontrola kompletności indeksu: **3483 wiersze = 3483 notatki**. Partia: 2 notatki z `created: 2026-09-28` i 8 z `created: 2026-09-29`. Wynik: **wszystkie 10 notatek wniosło coś do Galaxy** — **14 nowych mechanizmów na 11 stronach**, **13 nowych punktów w „Zastosowaniach"** (każdy z testem skali w dół), **2 nowe spory w `## Sprzeczności`** (jeden zapisany na dwóch stronach), **4 dopiski do istniejących sporów**.
+- **Stewardship** (+ mech. 52, 53): polska sekwencja „48 h / 30 dni" wpisana w segmentację (Armiger / Impact Creator) i sezon końcoworoczny rozłożony na pięć okien i segmenty (Fundraise Up, *Pulse Check*). **Nowy spór**: tempo sekwencji po pierwszej wpłacie — miesiąc (Armiger) czy kwartał (CauseVox, mech. 33). Dopisek do sporu o retencję nowych darczyńców (polski odczyt: ok. 70% daje tylko raz).
+- **Recurring giving** (+ mech. 32, 33): polskie formy wpłat regularnych (polecenie zapłaty, zlecenie stałe, karta, BLIK) i pierwszorazowi jako najbardziej skłonni do daru cyklicznego w sezonie. Dopisek po stronie B w sporze „drugi rok czy pierwsze trzy miesiące".
+- **Higiena listy** (+ mech. 34): deduplikacja z raportem możliwych duplikatów i profil darczyńcy w CRM.
+- **Newsletter jako kanał** (+ mech. 42): +81% przy niemal codziennej wysyłce i test częstotliwości (Civic Shout / LSSN). **Nowy spór**, zapisany też na *Higienie listy*: częstsze wysyłki — szybsza habituacja (O'Malley, mech. 11) czy wyższy przychód przy wypisach <1%?
+- **Transparentność operacyjna** (+ mech. 38, 39): grant jako mnożnik, spis wsparcia rzeczowego i 90-dniowa kampania „proof" (DonorDock: Lebby, Burke); cash flow zamiast budżetu i rozmowa z zarządem (Kim Nagle). Dopisek do sporu o próg koncentracji: drugi głos za 40%.
+- **Prompt engineering** (+ mech. 26): siedem zasad wspólnych dla Anthropic, Google i OpenAI oraz halucynacje ograniczane procesem (Wojdalski).
+- **Wdrażanie AI** (+ mech. 73): adopcja płytka vs głęboka i siedem problemów behawioralnych (Szczesna). Dopisek do sporu o lukę wdrożeniową (MIT NANDA 40% vs 5%).
+- **AI governance** (+ mech. 47): człowiek w pętli bez wpływu, czasu i wiedzy — test przeciw „moralnej strefie zgniotu" (Szczesna).
+- **Context layer organizacji** (+ mech. 24): „konwersja dokumentów na markdown" jako produkt, test sześciu miesięcy (agencja Boom).
+- **Framing** (+ mech. 56) i **Owned vs rented audience** (+ mech. 37): czytelnik jako bohater i wskazany złoczyńca; CTA do newslettera w każdym poście vs lead magnety (Tribe Digital / Rohan Sheth).
 
-**Klastry-kandydaci** (`galaxy-kandydaci.md`): podbite wiersze **Segmentacja bazy darczyńców i odbiorców** (masa ~80, osiadł też na Recurring giving mech. 30 i Framing mech. 55) oraz **Kampania końcoworoczna** (~65, Recurring giving mech. 30). Redesign strony WWW — pojedyncze źródło, bez wiersza.
+**Klastry-kandydaci** (`galaxy-kandydaci.md`): **Dywersyfikacja przychodów / odporność finansowa** podniesiona do „kandydat realny" (trzy nowe źródła, temat rozlany po ośmiu mechanizmach Transparentności). Podbite wiersze: **Kampania końcoworoczna** (Stewardship mech. 53, Recurring giving mech. 33), **Segmentacja bazy darczyńców** i **Marketing automation i sekwencje mailowe** (Stewardship mech. 52).
 
-**Następny krok.** Kolejna partia startuje od pierwszej notatki po kursorze (2026-08-21 Social Media Video Statistics…, 2026-08-25 Power and Prosperity in Place…, 2026-08-28 A Virtual Auction Success Cheatsheet…). **Priorytet strukturalny bez zmian: rozbić stronę *Wdrażanie AI w organizacji społecznej*** (ok. 178 KB po tej partii) — najtańszą drogą jest `/galaxy:pisz` dla kandydata „Wdrożenie i własność stosu technologicznego w organizacji społecznej". Backlog czerwonych linków **bez zmian**: żadna sekcja „Powiązane pojęcia" nie była ruszana; nowe wikilinki to wyłącznie encje w treści mechanizmów (`[[Avid]]`, `[[Nathan Hill]]`, `[[Claire Axelrad]]`, `[[Bloomerang]]`, `[[Penelope Burk]]`, `[[Die Linke]]`, `[[Manuela Schwesig]]`, `[[Gabriella Zutrau]]`).
+**Następny krok.** **Kolejka jest pusta** — kolejny ingest ma sens po dopływie nowych notatek do `Resources/`. **Priorytet strukturalny: rozbić stronę *Wdrażanie AI w organizacji społecznej*** (ok. 182 KB po tej partii) — najtańszą drogą jest `/galaxy:pisz` dla kandydata „Wdrożenie i własność stosu technologicznego w organizacji społecznej". Drugi kandydat do rozbicia to *Stewardship* (ok. 129 KB). Wśród klastrów najmocniej dojrzała **Dywersyfikacja przychodów / odporność finansowa** — strona odciążyłaby *Transparentność operacyjną*. Backlog czerwonych linków **bez zmian**: żadna sekcja „Powiązane pojęcia" nie była ruszana; nowe wikilinki to wyłącznie encje w treści mechanizmów (`[[Armiger]]`, `[[Impact Creator]]`, `[[Fundraise Up]]`, `[[Kim Nagle]]`, `[[Audubon]]`, `[[Lichen Sclerosus Support Network]]`, `[[Tribe Digital]]`, `[[Rohan Sheth]]`, `[[Mateusz Wojdalski]]`, `[[MIT NANDA]]`, `[[Gallup]]`, `[[Microsoft]]`, `[[Cory Doctorow]]`, `[[ChatGPT]]`).
 
-**Pozostało w kolejce: 20** (policzone metodą kursora po jego przesunięciu: 12 z `created: 2026-09-28`, 8 z 2026-09-29).
+**Pozostało w kolejce: 0** (policzone metodą kursora po jego przesunięciu).
 
-<!-- ingest-cursor: 2026-09-28 | 2026-08-18 How Long Should a Website Last Before a Redesign-.md -->
+<!-- ingest-cursor: 2026-09-29 | 2026-09-29 The grant that would have sunk them.md -->
 
 
 **Sprzeczności między źródłami** zapisuje się wyłącznie w sekcjach `## Sprzeczności` na stronach Galaxy — ten plik ich nie zbiera i nie prowadzi ich listy.

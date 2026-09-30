@@ -20,6 +20,7 @@ tags:
 created: YYYY-MM-DD
 updated: YYYY-MM-DD
 relevance: wysoka | średnia | niska
+rekompilacja: YYYY-MM-DD   # opcjonalne — data ostatniego /galaxy:przepisz
 sources:
   - "[[YYYY-MM-DD Tytuł notatki]]"
 ---
@@ -40,11 +41,19 @@ Format pozycji:
 ```
 
 - **Nie rozstrzygaj i nie uśredniaj** — ani „prawda leży pośrodku", ani ciche przyjęcie nowszej liczby. Zapisujesz obie wersje z metryczkami i zostawiasz decyzję człowiekowi.
-- **Nie nadpisuj mechanizmu**, z którym nowe źródło się kłóci (append, never overwrite) — sprzeczność jest komentarzem do mechanizmu, nie jego zamiennikiem.
+- **Nie nadpisuj mechanizmu**, z którym nowe źródło się kłóci — sprzeczność jest komentarzem do mechanizmu, nie jego zamiennikiem.
 - **Metryczka po obu stronach:** źródło (wersja z `Resources/`), rok, n, kraj/rynek; brak którejś → napisz to wprost.
 - **Pozorny konflikt** (inna populacja, inna definicja metryki, inny rynek) to doprecyzowanie zakresu w mechanizmie, nie sprzeczność.
 - **Status zmienia wyłącznie człowiek:** `*Status: rozstrzygnięte RRRR-MM-DD — <co przyjęto i dlaczego>.*` Pozycji nie usuwaj — to ślad proweniencji.
 - Spór dotykający kilku stron zapisz na każdej z nich.
+
+## Wplatanie i rekompilacja — „nie kasuj wiedzy, porządkuj formę"
+
+Liczba, przypisanie do źródła, pozycja w `sources`, wikilink i pozycja w `## Sprzeczności` nie znikają bez decyzji człowieka. Forma strony ma się zmieniać — inaczej strona staje się dziennikiem lektur zamiast hasła encyklopedii.
+
+- **Mechanizm = temat pojęcia**, nie streszczenie źródła. Tytuł tematyczny, bez nazw źródeł, autorów i firm; przypisanie w treści. Bez meta-komentarza o historii strony („Uzupełnienie mech. N o…").
+- **Ingest i query wplatają:** nowe źródło domyślnie trafia do istniejącego mechanizmu (1–3 zdania z przypisaniem); nowy mechanizm tylko dla nowego wątku, najwyżej jeden na stronę w przebiegu. Definicji nie ruszają — zgłaszają „definicja do przeglądu".
+- **Rekompilacja** (scalanie mechanizmów, nowa definicja, przemapowanie `mech. N` także na innych stronach) — wyłącznie przez `/galaxy:przepisz`: plik projektu w `.galaxy-wersje/`, skrypt kontrolny bez błędów twardych, akceptacja człowieka, snapshot `.bak`. Progi: >25 mechanizmów lub >8000 słów.
 
 ## Test skali w dół (warunek wejścia do „Zastosowania")
 
@@ -81,9 +90,11 @@ Dwie powtarzalne pułapki:
 
 ## Trzy operacje (metoda Karpathy'ego)
 
-**Ingest** — po dodaniu notatki do Resources/ sprawdź, które strony Galaxy/ dotyczą tego tematu i zaktualizuj je o nowe wnioski. Jedno źródło może zaktualizować kilka stron Galaxy/. Jeśli pojęcie nie istnieje w Galaxy/ a zasługuje na własną stronę — utwórz ją.
+**Ingest** — po dodaniu notatki do Resources/ sprawdź, które strony Galaxy/ dotyczą tego tematu i wpleć nowe wnioski w istniejące mechanizmy (patrz „Wplatanie i rekompilacja"). Jedno źródło może zaktualizować kilka stron Galaxy/. Jeśli pojęcie nie istnieje w Galaxy/ a zasługuje na własną stronę — utwórz ją.
 
 **Query** — gdy odpowiedź na pytanie jest wartościowa i nowa (nie wynika wprost z jednej notatki), zapisz ją jako nową stronę Galaxy/ lub rozszerz istniejącą.
+
+**Rekompilacja** — gdy strona przekroczy próg: scal mechanizmy w tematy i odśwież definicję, nie gubiąc żadnej liczby, źródła ani sprzeczności (`/galaxy:przepisz`).
 
 **Lint** — okresowo: szukaj stron Galaxy/ bez linków przychodzących (sieroty), nieaktualnych twierdzeń, luk tematycznych. Zaproponuj uzupełnienia.
 

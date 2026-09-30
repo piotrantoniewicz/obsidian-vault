@@ -16,7 +16,7 @@ Piotr/
 └── References/   — w budowie
 ```
 
-Szczegółowe formaty notatek i procedury poszczególnych folderów ładują się automatycznie z `.claude/rules/` przy pracy z plikami danego folderu: `resources.md` (format Resources/ + praca z index.md), `galaxy.md` (format Galaxy/, walidacja wikilinków, liczniki czerwonych linków, operacje Karpathy'ego), `projects-areas.md` (PARA: routing, relacje, formaty).
+Szczegółowe formaty notatek i procedury poszczególnych folderów ładują się automatycznie z `.claude/rules/` przy pracy z plikami danego folderu: `resources.md` (format Resources/ + praca z index.md), `galaxy.md` (format Galaxy/, wplatanie i rekompilacja, walidacja wikilinków, liczniki czerwonych linków, operacje Karpathy'ego), `projects-areas.md` (PARA: routing, relacje, formaty).
 
 ## Zasady
 
@@ -103,7 +103,8 @@ Cztery pierwsze (Clippings/Emails/Reports/LinkedIn) to wzory referencyjne — pl
 | `/pdfs-to-notes:extract [podfolder]` | `~/Documents/Email/` | raporty PDF → `Resources/` |
 | `/linkedin-to-notes:save` | wklejony post LinkedIn | post → `Resources/` |
 | `/index:update vault` | `Resources/` | weryfikacja i naprawa `Resources/index.md` |
-| `/galaxy:ingest [notatka\|dni]` | nowe notatki w `Resources/` | aktualizacja istniejących stron `Galaxy/` + flagowanie sprzeczności |
+| `/galaxy:ingest [notatka\|dni]` | nowe notatki w `Resources/` | wplatanie nowych źródeł w istniejące mechanizmy stron `Galaxy/` (max 1 nowy mechanizm na stronę) + sprzeczności na stronie |
 | `/galaxy:query <pytanie>` | `Galaxy/` + `Resources/` | odpowiedź z cytowaniami; wartościowa synteza → propozycja utrwalenia |
 | `/galaxy:pisz <pojęcie>` | `Resources/` (3 kanały recall) | nowa strona pojęciowa `Galaxy/` + indeks + liczniki |
+| `/galaxy:przepisz [strona]` | przerośnięta strona `Galaxy/` | rekompilacja: mechanizmy scalone w tematy, nowa definicja, przemapowane odsyłacze; skrypt kontrolny + dwie bramki + snapshot w `.galaxy-wersje/`; bez argumentu — lista stron powyżej progu |
 | `/galaxy:lint` | `Galaxy/` | miesięczny health-check: sieroty, czerwone linki, zepsute wikilinki, format |

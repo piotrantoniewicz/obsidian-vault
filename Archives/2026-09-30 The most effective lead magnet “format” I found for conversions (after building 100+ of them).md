@@ -5,6 +5,8 @@ url: "https://www.linkedin.com/pulse/most-effective-lead-magnet-format-i-found-c
 published: 2026-09-30
 created: 2026-09-30
 tags:
+  - "content-marketing"
+  - "produkty-cyfrowe"
 ---
 
 

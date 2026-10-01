@@ -5,6 +5,9 @@ url: "https://www.engagingnetworks.net/blog/recurring-donations-for-nonprofits/?
 published: 2026-08-28
 created: 2026-10-01
 tags:
+  - "fundraising"
+  - "automatyzacja"
+  - "organizacje-społeczne"
 ---
 
 

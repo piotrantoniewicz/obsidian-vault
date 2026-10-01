@@ -5,6 +5,8 @@ url: "https://climateoutreach.org/new-polling-climate-change-top-priorities/"
 published: 2026-09-28
 created: 2026-10-01
 tags:
+  - "framing"
+  - "digital-campaigning"
 ---
 
 

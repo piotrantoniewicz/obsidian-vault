@@ -5,6 +5,9 @@ url: "https://www.engagingnetworks.net/blog/virtual-fundraising-ideas/?utm_campa
 published: 2026-09-04
 created: 2026-10-01
 tags:
+  - "fundraising"
+  - "digital-campaigning"
+  - "organizacje-społeczne"
 ---
 
 

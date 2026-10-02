@@ -5,6 +5,8 @@ url: "https://climateoutreach.org/labour-climate-story/"
 published: 2026-09-29
 created: 2026-10-01
 tags:
+  - "framing"
+  - "digital-campaigning"
 ---
 
 

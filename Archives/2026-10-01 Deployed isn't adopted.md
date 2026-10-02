@@ -5,6 +5,9 @@ url: "https://behavioralinsight.substack.com/p/deployed-isnt-adopted?utm_source=
 published: 2026-10-01
 created: 2026-10-01
 tags:
+  - "strategia-AI"
+  - "szkolenia-AI"
+  - "organizacje-społeczne"
 ---
 
 

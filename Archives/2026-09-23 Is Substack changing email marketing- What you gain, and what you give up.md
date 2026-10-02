@@ -5,6 +5,9 @@ url: "https://weareastral.co.uk/thevault/is-substack-changing-email-marketing-wh
 published: 2026-09-23
 created: 2026-10-01
 tags:
+  - "content-marketing"
+  - "digital-campaigning"
+  - "produkty-cyfrowe"
 ---
 
 

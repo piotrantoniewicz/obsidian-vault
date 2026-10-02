@@ -5,6 +5,8 @@ url: "https://www.linkedin.com/pulse/pierwsza-pomoc-na-ostatni-kwarta%C5%82-armi
 published: 2026-10-01
 created: 2026-10-01
 tags:
+  - "strategia-organizacji"
+  - "organizacje-społeczne"
 ---
 
 

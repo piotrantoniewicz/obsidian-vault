@@ -5,6 +5,8 @@ url: "https://weareastral.co.uk/thevault/email-contingency-planning-what-to-do-w
 published: 2026-09-23
 created: 2026-10-01
 tags:
+  - "digital-campaigning"
+  - "content-marketing"
 ---
 
 

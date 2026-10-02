@@ -5,6 +5,9 @@ url: "https://www.linkedin.com/pulse/ai-gap-your-team-more-tools-less-teaching-b
 published: 2026-09-30
 created: 2026-09-30
 tags:
+  - "szkolenia-AI"
+  - "strategia-AI"
+  - "organizacje-społeczne"
 ---
 
 

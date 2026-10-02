@@ -5,6 +5,9 @@ url: "https://www.linkedin.com/pulse/before-you-connect-ai-your-shared-drive-fin
 published: 2026-09-30
 created: 2026-09-30
 tags:
+  - "strategia-AI"
+  - "organizacje-społeczne"
+  - "narzędzia-AI"
 ---
 
 

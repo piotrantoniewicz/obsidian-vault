@@ -5,6 +5,8 @@ url: "https://www.linkedin.com/pulse/founder-problem-progressive-organisations-i
 published: 2026-10-03
 created: 2026-10-03
 tags:
+  - "strategia-organizacji"
+  - "organizacje-społeczne"
 ---
 
 

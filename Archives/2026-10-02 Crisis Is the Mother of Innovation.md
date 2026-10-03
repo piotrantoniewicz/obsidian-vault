@@ -5,6 +5,8 @@ url: "https://www.sustainablegiving.org/articles/crisis-is-the-mother-of-innovat
 published: 2026-10-02
 created: 2026-10-02
 tags:
+  - "fundraising"
+  - "strategia-organizacji"
 ---
 
 

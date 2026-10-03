@@ -5,6 +5,8 @@ url: "https://aininjas.pl/priv/d599ecfd-f26a-47fa-992c-2195f921cc7b/"
 published:
 created: 2026-10-02
 tags:
+  - "prompt-engineering"
+  - "szkolenia-AI"
 ---
 
 

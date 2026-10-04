@@ -1,23 +1,23 @@
-# Strategia rozbudowy Galaxy/ — 2026-09-30 (`/galaxy:przepisz Stewardship` — rekompilacja 53 → 15 mechanizmów i wydzielenie strony *Kampania końcoworoczna*)
+# Strategia rozbudowy Galaxy/ — 2026-10-04 (`/galaxy:ingest 10 notatek` — partia 10 notatek z kolejki, 9 stron zaktualizowanych)
 
 *Konwencja: data w tytule H1 = data ostatniej istotnej aktualizacji tego pliku. Przy każdej zmianie (nowe pojęcia, zamknięta fala, korekta planu) zaktualizuj datę w tytule.*
 
 > **Reguła dziennika:** sekcja „Gdzie jesteśmy" to **jeden, nadpisywany** snapshot bieżącego stanu — **nie** rosnący log dopisków. Przy każdej sesji **nadpisz jej treść** (liczba stron, ostatnia operacja, następny krok, backlog), zamiast dopisywać kolejny akapit „Dopisek RRRR-MM-DD". Historię trzymają same notatki, `git` i `Galaxy/index.md`.
 
-## Gdzie jesteśmy (akt. 2026-09-30, ostatnia operacja: **`/galaxy:przepisz Stewardship`**)
+## Gdzie jesteśmy (akt. 2026-10-04, ostatnia operacja: **`/galaxy:ingest 10 notatek`**)
 
-**Galaxy/ = 33 strony** (+1: *Kampania końcoworoczna*, wydzielona ze *Stewardship*) w trzech działach indeksu:
+**Galaxy/ = 33 strony** (bez zmian) w trzech działach indeksu:
 - **Fundraising** (11) — Tożsamość darczyńcy, Recurring giving, Stewardship, Kampania końcoworoczna, Peer-to-peer fundraising, Pledge program, Transparentność operacyjna, Major gifts, Pokolenia darczyńców, Transfer międzypokoleniowy majątku, DAF
 - **AI w organizacjach** (12) — Wdrażanie AI w organizacji społecznej, AI governance, Agentic AI, RAG, Context engineering, Prompt engineering, RODO i dane wrażliwe, Evale, Context layer organizacji, LLM Wiki, Suwerenność technologiczna, AI Act
 - **Komunikacja i digital campaigning** (10) — Email deliverability, Framing, Storytelling oparty na danych, Newsletter jako kanał, Widoczność w AI search (GEO/AEO), Owned vs rented audience, Higiena listy, Ghostwriting, Marka osobista, Rapid response
 
-**Ostatnia operacja — `/galaxy:przepisz Stewardship` (2026-09-30).** Rekompilacja *Stewardship*: **16 304 → 9 550 słów, 53 → 15 mechanizmów** (tematy: ekonomia retencji, drugi dar, podziękowanie, raport z wpływu, onboarding, triggery, momenty, kohorty, regularni, uczestnicy → darczyńcy, personalizacja i AI, wczesne ostrzeganie, właściciel i rytm, fokus, stewardship instytucji). Decyzją Piotra od razu **wydzielona nowa strona *Kampania końcoworoczna*** (2726 słów, 7 mechanizmów, 10 źródeł — dawne mech. 8, 12, 17, 24, 27, 31, 35, 37, 46, 53); wiersz usunięty z `galaxy-kandydaci.md`. Sprzeczności *Stewardship* uporządkowane za zgodą Piotra (9 pozycji, format A/B z metryczkami, spór „42,9% czy 52%” zapisany na obu stronach); Zastosowanie scalone, każdy punkt z testem skali. Do `sources` dopisane dwie notatki cytowane w treści, a nieobecne we frontmatterze. Kontrola skryptem: zero zgubionych liczb i wikilinków w sumie obu stron. Snapshot: `.galaxy-wersje/2026-06-13 Stewardship — przed 2026-09-30.md.bak`. Przemapowano **32 odsyłacze na 14 stronach** (4 przekierowane na *Kampanię końcoworoczną*); czerwony link `[[Kampania końcoworoczna]]` na *Rapid response* przepięty na nową stronę.
+**Ostatnia operacja — `/galaxy:ingest 10 notatek` (2026-10-04).** Przejrzane 10 najstarszych notatek z kolejki (created 2026-09-30 → 2026-10-01); wszystkie wniosły coś do Galaxy. Zaktualizowano 9 stron: *RODO i dane wrażliwe* (jedyny nowy mechanizm w partii — mech. 22, audyt dysku współdzielonego przed podłączeniem AI, plus punkt w Zastosowaniu), *AI governance*, *Wdrażanie AI*, *Owned vs rented*, *Newsletter jako kanał*, *Rapid response*, *Framing*, *Recurring giving*, *Peer-to-peer* — pozostałe zmiany to wplecenia w istniejące mechanizmy. Bez nowych sprzeczności; sekcje „Powiązane pojęcia” nietknięte, więc liczniki czerwonych linków bez zmian. W `galaxy-kandydaci.md`: *Komunikacja kryzysowa* osiągnęła próg (4 źródła → kandydat realny), nowy wiersz *Lead magnety i budowa listy*, odświeżony wiersz *Wydarzenia fundraisingowe*.
 
-**Następny krok.** *Stewardship* nadal przekracza próg słów (9 550 > 8000) — następny kandydat do wydzielenia to jego wątek instytucjonalny (mech. 13–15: właściciel i rytm, fokus, stewardship instytucji), zazębiony z klastrem „Przywództwo i zarząd”. **Priorytet strukturalny bez zmian: rozbić *Wdrażanie AI w organizacji społecznej*** (ok. 182 KB) przez `/galaxy:pisz` dla kandydata „Wdrożenie i własność stosu technologicznego w organizacji społecznej”. Kolejka ingestu pusta. Backlog czerwonych linków: *Kampania końcoworoczna* domknięta; pozostałe liczniki bez zmian.
+**Następny krok.** Kolejna partia ingestu (kolejka niepusta). Strukturalnie bez zmian: **rozbić *Wdrażanie AI w organizacji społecznej*** (23 083 słów, 73 mech.) przez `/galaxy:pisz` dla kandydata „Wdrożenie i własność stosu technologicznego w organizacji społecznej”; *Stewardship* nadal nad progiem słów (wątek instytucjonalny do wydzielenia). Ponad progiem rekompilacji są też: Framing, AI governance, Newsletter jako kanał, Recurring giving, Owned vs rented audience. Backlog czerwonych linków: liczniki bez zmian od 2026-09-30.
 
-**Pozostało w kolejce: 0** (policzone metodą kursora po jego przesunięciu).
+**Pozostało w kolejce: 31** (policzone metodą kursora po jego przesunięciu).
 
-<!-- ingest-cursor: 2026-09-29 | 2026-09-29 The grant that would have sunk them.md -->
+<!-- ingest-cursor: 2026-10-01 | 2026-10-01 Deployed isn't adopted.md -->
 
 
 **Sprzeczności między źródłami** zapisuje się wyłącznie w sekcjach `## Sprzeczności` na stronach Galaxy — ten plik ich nie zbiera i nie prowadzi ich listy.

@@ -15,6 +15,7 @@ Rejestr tematów, które mogą dostać własną stronę (`/galaxy:pisz`). **Jedn
 | Segmentacja bazy darczyńców i odbiorców | kandydat realny | ~80 | Higiena listy, Stewardship mech. 5, Kampania końcoworoczna mech. 1, Transfer, Recurring giving mech. 30, Framing mech. 55 | 2026-09-30 |
 | Generowanie obrazów AI i spójność wizualna marki | kandydat realny | ~14 „Midjourney” + ~5 „obrazy AI” | — | 2026-09-14 |
 | Marketing automation i sekwencje mailowe | obserwować | ~9 wąsko | Stewardship mech. 5; Newsletter | 2026-09-30 |
+| Lead magnety i budowa listy (kurs mailowy, opt-in) | kandydat realny | ~25 wąsko | Owned vs rented mech. 37, Newsletter mech. 7; zazębia się z „Marketing automation” | 2026-10-04 |
 | Dostępność komunikacji cyfrowej (mail, WWW) | obserwować | ~6 | Newsletter mech. 34, Email deliverability mech. 37 | — |
 | Strategia organizacji (wybór, koszt alternatywny, konflikt) | obserwować | ~11 wąsko, ~236 szeroko | Transparentność mech. 37 | — |
 | Ludzie, role i zmiana w organizacji (mentoring, sukcesja, wypalenie, rotacja) | kandydat realny | 12+ źródeł; ~22 + ~5 o mentoringu | Wdrażanie AI, Stewardship; zazębia się z „Przywództwo i zarząd” | 2026-09-22 |
@@ -29,11 +30,11 @@ Rejestr tematów, które mogą dostać własną stronę (`/galaxy:pisz`). **Jedn
 | Podcast jako kanał organizacji | obserwować | ~35 | Owned vs rented mech. 22 | — |
 | Oznaczanie treści AI i zgodność publikacyjna | kandydat realny | ~12 + 2 „watermark” | AI Act, AI governance, Ghostwriting | 2026-08-29 |
 | Wdrożenie i własność stosu technologicznego w organizacji społecznej | kandydat realny (materiał kompletny; najtańszy sposób na rozbicie strony Wdrażanie AI) | — | Wdrażanie AI | 2026-08-29 |
-| Komunikacja kryzysowa | obserwować | 3 źródła (próg ≥4 niespełniony) | wydzielona z Rapid response | 2026-09-07 |
+| Komunikacja kryzysowa | kandydat realny | 4 źródła (próg osiągnięty) | wydzielona z Rapid response; Rapid response mech. 3, Newsletter mech. 40 | 2026-10-04 |
 | Produktywność osobista i ekonomika praktyki konsultanta | obserwować | ~5 | — | 2026-08-28 |
 | Walidacja produktu przed zbudowaniem | obserwować | słaba | — | — |
 | Techniczne SEO stron organizacji | obserwować | ~46 szeroko | — | — |
-| Wydarzenia fundraisingowe (eventy) | obserwować | ~6 wąsko, ~35 szeroko; ~15 „aukcja/gala/wydarzenie” | Stewardship mech. 10 (aukcja) | 2026-09-30 |
+| Wydarzenia fundraisingowe (eventy) | obserwować | ~6 wąsko, ~35 szeroko; ~19 „aukcja/gala/wydarzenie/giving day” | Stewardship mech. 10 (aukcja); P2P mech. 13, 17, 20 | 2026-10-04 |
 | Copy kampanijne: hasło, nagłówek, hook | obserwować | ~34 szeroko | Framing mech. 15, 18, 21 | — |
 | Sprzedaż i działalność odpłatna organizacji | obserwować | ~51 szeroko | Framing mech. 25, Stewardship mech. 13 | — |
 | Społeczność jako struktura projektowa (community building) | obserwować | ~39 | — | — |

@@ -5,6 +5,8 @@ url: "https://www.infor.pl/prawo/nowosci-prawne/7668177,ustawa-o-systemach-sztuc
 published: 2026-09-28
 created: 2026-10-04
 tags:
+  - "strategia-AI"
+  - "szkolenia-AI"
 ---
 
 

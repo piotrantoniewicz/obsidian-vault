@@ -5,6 +5,8 @@ url: "https://filarybiznesu.pl/innowacje/nowe-technologie/koniec-entuzjazmu-ai-w
 published: 2026-05-05
 created: 2026-10-04
 tags:
+  - "strategia-AI"
+  - "trendy-AI"
 ---
 
 

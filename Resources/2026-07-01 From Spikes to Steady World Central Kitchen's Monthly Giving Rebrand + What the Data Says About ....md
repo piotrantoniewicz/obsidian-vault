@@ -18,11 +18,11 @@ tags:
 ---
 # From Spikes to Steady: World Central Kitchen's Monthly Giving Rebrand + What the Data Says About ...
 
-Odcinek podcastu Missions to Movements (Dana Snyder) z cyklu „State of Recurring Giving" łączy najnowsze benchmarki recurring giving (Charity Engine, GivingTuesday Data Commons) z case study World Central Kitchen (WCK), który zrebrandował program dawania cyklicznego na „Kitchen Core". Dane sektorowe pokazują, że recurring giving rośnie, ale powoli — i jest napędzane przez niewielką grupę organizacji, podczas gdy większość ledwo angażuje nowych darczyńców w schematy cykliczne. Case WCK pokazuje, że nawet kampania, która nie osiąga liczbowego celu, może wygenerować ogromną wartość długoterminową, jeśli dobrze policzy się lifetime value. Główna teza: monthly giving to nie tylko przewidywalny przychód, ale i budowanie tożsamości oraz relacji z darczyńcami — a to wymaga świadomego brandingu, segmentacji i strategii retencji po pozyskaniu.
+Odcinek podcastu Missions to Movements (Dana Snyder) z cyklu „State of Recurring Giving" łączy najnowsze benchmarki recurring giving (Charity Engine, GivingTuesday Data Commons) z case study World Central Kitchen (WCK), który zrebrandował program dawania cyklicznego na „Kitchen Corps". Dane sektorowe pokazują, że recurring giving rośnie, ale powoli — i jest napędzane przez niewielką grupę organizacji, podczas gdy większość ledwo angażuje nowych darczyńców w schematy cykliczne. Case WCK pokazuje, że nawet kampania, która nie osiąga liczbowego celu, może wygenerować ogromną wartość długoterminową, jeśli dobrze policzy się lifetime value. Główna teza: monthly giving to nie tylko przewidywalny przychód, ale i budowanie tożsamości oraz relacji z darczyńcami — a to wymaga świadomego brandingu, segmentacji i strategii retencji po pozyskaniu.
 
 ## Frameworki i metody
 
-**Kitchen Core — rebrand programu dawania cyklicznego WCK, 4 filary:**
+**Kitchen Corps — rebrand programu dawania cyklicznego WCK, 4 filary:**
 1. Poczucie przynależności — darczyńcy jako stała, kluczowa energia stojąca za pracą organizacji.
 2. Jasność roli — odzwierciedla wspólnotowy model „kuchni", w którym każdy uczestniczy w karmieniu społeczności.
 3. Spójność marki — wewnętrzna i zewnętrzna (nawiązanie do istniejącego „volunteer corps" i „chef corps").

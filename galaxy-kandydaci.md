@@ -17,7 +17,7 @@ Rejestr tematów, które mogą dostać własną stronę (`/galaxy:pisz`). **Jedn
 | Marketing automation i sekwencje mailowe | obserwować | ~9 wąsko | Stewardship mech. 5; Newsletter | 2026-09-30 |
 | Lead magnety i budowa listy (kurs mailowy, opt-in) | kandydat realny | ~25 wąsko | Owned vs rented mech. 37, Newsletter mech. 7; zazębia się z „Marketing automation” | 2026-10-04 |
 | Dostępność komunikacji cyfrowej (mail, WWW) | obserwować | ~6 | Newsletter mech. 34, Email deliverability mech. 37 | — |
-| Strategia organizacji (wybór, koszt alternatywny, konflikt) | obserwować | ~11 wąsko, ~236 szeroko | Transparentność mech. 37 | — |
+| Strategia organizacji (wybór, koszt alternatywny, konflikt) | obserwować | ~11 wąsko, ~236 szeroko | Transparentność mech. 11 | — |
 | Ludzie, role i zmiana w organizacji (mentoring, sukcesja, wypalenie, rotacja) | kandydat realny | 12+ źródeł; ~22 + ~5 o mentoringu | Wdrażanie AI, Stewardship; zazębia się z „Przywództwo i zarząd” | 2026-09-22 |
 | Przywództwo i zarząd w organizacji społecznej | obserwować | ~32 „przywództwo”, ~97 „zarząd”, ~20 „spotkania” | zazębia się z „Ludzie, role i zmiana”; kultura spotkań (Neider) | 2026-09-30 |
 | Pomiar, analityka i atrybucja (GA4, UTM, MTA → MMM) | obserwować | ~4 „atrybucja”, ~9 wąsko, ~34 szeroko | — | — |
@@ -40,7 +40,7 @@ Rejestr tematów, które mogą dostać własną stronę (`/galaxy:pisz`). **Jedn
 | Społeczność jako struktura projektowa (community building) | obserwować | ~39 | — | — |
 | SMS / texting jako kanał | kandydat realny | ~23 | Storytelling, Higiena listy, Stewardship | 2026-09-14 |
 | Branding programu dawania cyklicznego | obserwować | — | Recurring giving mech. 9, Tożsamość darczyńcy mech. 9 | — |
-| Dywersyfikacja przychodów / odporność finansowa | kandydat realny | ≥9 źródeł; ~7 „dywersyfikac”, ~11 z płynnością i rezerwą | Transparentność mech. 6, 14, 15, 24, 27, 37, 38 (grant jako mnożnik), 39 (cash flow) | 2026-09-30 |
+| Niezależność finansowa i dywersyfikacja przychodów | kandydat realny | ≥9 źródeł; ~7 „dywersyfikac”, ~11 z płynnością i rezerwą | Transparentność mech. 7, 10–13 (5 mech., ok. 2600 słów); zazębia się z „Wnioski grantowe i obsługa dotacji” | 2026-10-05 |
 | Vibe-coding | kandydat realny | ~12 wąsko, ~92 szeroko | Context engineering mech. 9, Wdrażanie AI mech. 56, Widoczność w AI search mech. 26 | 2026-09-13 |
 | Produkty cyfrowe budowane przez organizacje (MVP, iteracja) | obserwować | ~40 szeroko | — | — |
 | Monetyzacja wiedzy / produkty cyfrowe | obserwować | ~6 | — | — |

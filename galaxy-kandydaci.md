@@ -48,3 +48,5 @@ Rejestr tematów, które mogą dostać własną stronę (`/galaxy:pisz`). **Jedn
 | Twórcy, influencerzy i „amplifierzy” w kampaniach | obserwować | ~36 | Owned vs rented mech. 6–8, 14; Ghostwriting mech. 20 | — |
 | Centra danych AI, woda i energia | obserwować | ~22 | Suwerenność technologiczna mech. 9, 13, 16, 18, 20 (najgęstszy podwątek; dotyczy ewentualnego rozbicia tej strony) | — |
 | Partycypacja i wynagradzanie osób z doświadczeniem (lived experience; participatory grantmaking) | obserwować | ~3 + ~6 + ~2 „participatory grantmaking” | — | 2026-09-30 |
+| Matching grant (pula od jednego darczyńcy, mnożnik, okno) | kandydat realny | ~11 wąsko (część szumu), ~75 szeroko (GivingTuesday / giving day) | Major gifts mech. 11; Recurring giving, P2P, Kampania końcoworoczna, Stewardship | 2026-10-05 |
+| Prospect research i scoring z AI (propensity, wealth screening, sygnały zachowania) | obserwować | ~11 wąsko, ~30 szeroko | Major gifts mech. 5–8 (główny dom); Transfer, DAF, Evale | 2026-10-05 |

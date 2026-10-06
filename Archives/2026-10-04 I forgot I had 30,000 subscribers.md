@@ -5,6 +5,8 @@ url: "https://www.linkedin.com/pulse/i-forgot-had-30000-subscribers-devin-reed-2
 published: 2026-10-04
 created: 2026-10-04
 tags:
+  - "content-marketing"
+  - "produkty-cyfrowe"
 ---
 
 

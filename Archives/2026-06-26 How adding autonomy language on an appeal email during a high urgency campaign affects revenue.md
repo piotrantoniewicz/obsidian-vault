@@ -5,6 +5,8 @@ url: "https://www.nextafter.com/experiments/how-adding-autonomy-language-on-an-a
 published: 2026-06-26
 created: 2026-10-05
 tags:
+  - "fundraising"
+  - "digital-campaigning"
 ---
 
 

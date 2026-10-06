@@ -5,6 +5,8 @@ url: "https://doublethedonation.com/fundraising-thermometer/"
 published: 2026-09-09
 created: 2026-10-06
 tags:
+  - "fundraising"
+  - "digital-campaigning"
 ---
 
 

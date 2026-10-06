@@ -5,6 +5,9 @@ url: "https://www.blackbaud.com/industry-insights/glossary/agentic-ai"
 published: 2025-12-18
 created: 2026-10-06
 tags:
+  - "trendy-AI"
+  - "fundraising"
+  - "automatyzacja"
 ---
 
 

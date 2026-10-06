@@ -5,6 +5,8 @@ url: "https://www.memoryfox.io/video-fundraising-strategy/"
 published: 2026-08-31
 created: 2026-10-06
 tags:
+  - "fundraising"
+  - "content-marketing"
 ---
 
 

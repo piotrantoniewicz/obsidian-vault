@@ -5,6 +5,9 @@ url: "https://aioperatornewsletter.substack.com/p/i-am-begging-you-to-start-writ
 published: 2026-10-04
 created: 2026-10-04
 tags:
+  - "ghostwriting"
+  - "content-marketing"
+  - "context-engineering"
 ---
 
 

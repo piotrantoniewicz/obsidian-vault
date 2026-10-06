@@ -5,6 +5,8 @@ url: "https://stratlabs.us/why-your-next-impact-report-should-include-a-live-map
 published: 2026-08-26
 created: 2026-10-06
 tags:
+  - "content-marketing"
+  - "organizacje-społeczne"
 ---
 
 

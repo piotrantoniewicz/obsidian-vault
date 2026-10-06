@@ -18,7 +18,7 @@ Rejestr tematów, które mogą dostać własną stronę (`/galaxy:pisz`). **Jedn
 | Lead magnety i budowa listy (kurs mailowy, opt-in) | kandydat realny | ~25 wąsko | Owned vs rented mech. 37, Newsletter mech. 7; zazębia się z „Marketing automation” | 2026-10-04 |
 | Dostępność komunikacji cyfrowej (mail, WWW) | obserwować | ~6 | Newsletter mech. 34, Email deliverability mech. 37 | — |
 | Strategia organizacji (wybór, koszt alternatywny, konflikt) | obserwować | ~11 wąsko, ~236 szeroko | Transparentność mech. 11 | — |
-| Ludzie, role i zmiana w organizacji — poza wdrażaniem AI (sukcesja, wypalenie, rotacja; strona o tym tytule powstała 2026-10-06 tylko w ujęciu wdrażania AI — rozszerzyć ją albo wydzielić osobną) | kandydat realny | 12+ źródeł; ~22 + ~5 o mentoringu | Ludzie, role i zmiana w organizacji, Stewardship; zazębia się z „Przywództwo i zarząd” | 2026-09-22 |
+| Ludzie, role i zmiana w organizacji — poza wdrażaniem AI (sukcesja, wypalenie, rotacja; strona o tym tytule powstała 2026-10-06 tylko w ujęciu wdrażania AI — rozszerzyć ją albo wydzielić osobną) | kandydat realny | 12+ źródeł; ~22 + ~5 o mentoringu | Ludzie, role i zmiana w organizacji, Stewardship, Pokolenia darczyńców mech. 7 (Gen Z w pracy, onboarding); zazębia się z „Przywództwo i zarząd” | 2026-10-06 |
 | Przywództwo i zarząd w organizacji społecznej | obserwować | ~32 „przywództwo”, ~97 „zarząd”, ~20 „spotkania” | zazębia się z „Ludzie, role i zmiana”; kultura spotkań (Neider) | 2026-09-30 |
 | Pomiar, analityka i atrybucja (GA4, UTM, MTA → MMM) | obserwować | ~4 „atrybucja”, ~9 wąsko, ~34 szeroko | — | — |
 | Wnioski grantowe i obsługa dotacji | kandydat realny | ~47 | — | 2026-09-05 |
@@ -37,7 +37,7 @@ Rejestr tematów, które mogą dostać własną stronę (`/galaxy:pisz`). **Jedn
 | Copy kampanijne: hasło, nagłówek, hook | obserwować | ~34 szeroko | Framing mech. 15, 18, 21 | — |
 | Sprzedaż i działalność odpłatna organizacji | obserwować | ~51 szeroko | Framing mech. 25, Stewardship mech. 13 | — |
 | Społeczność jako struktura projektowa (community building) | obserwować | ~39 | — | — |
-| SMS / texting jako kanał | kandydat realny | ~23 | Storytelling, Higiena listy, Stewardship | 2026-09-14 |
+| SMS / texting jako kanał | kandydat realny | ~23 | Storytelling, Higiena listy, Stewardship; Newsletter mech. 18 i Sprzeczności (SMS vs „bańka”) | 2026-10-06 |
 | Branding programu dawania cyklicznego | obserwować | — | Recurring giving mech. 9, Tożsamość darczyńcy mech. 9 | — |
 | Niezależność finansowa i dywersyfikacja przychodów | kandydat realny | ≥9 źródeł; ~7 „dywersyfikac”, ~11 z płynnością i rezerwą | Transparentność mech. 7, 10–13 (5 mech., ok. 2600 słów); zazębia się z „Wnioski grantowe i obsługa dotacji” | 2026-10-05 |
 | Vibe-coding | kandydat realny | ~12 wąsko, ~92 szeroko | Context engineering mech. 9, Wdrażanie AI mech. 4, Widoczność w AI search mech. 26 | 2026-09-13 |
@@ -49,3 +49,4 @@ Rejestr tematów, które mogą dostać własną stronę (`/galaxy:pisz`). **Jedn
 | Partycypacja i wynagradzanie osób z doświadczeniem (lived experience; participatory grantmaking) | obserwować | ~3 + ~6 + ~2 „participatory grantmaking” | — | 2026-09-30 |
 | Matching grant (pula od jednego darczyńcy, mnożnik, okno) | kandydat realny | ~11 wąsko (część szumu), ~75 szeroko (GivingTuesday / giving day) | Major gifts mech. 11; Recurring giving, P2P, Kampania końcoworoczna, Stewardship | 2026-10-05 |
 | Prospect research i scoring z AI (propensity, wealth screening, sygnały zachowania) | obserwować | ~11 wąsko, ~30 szeroko | Major gifts mech. 5–8 (główny dom); Transfer, DAF, Evale | 2026-10-05 |
+| Eksperymentowanie i testowanie (A/B, holdout, rejestr testów, „folklor” best practices) | kandydat realny | ~36 wąsko (A/B, holdout; część szum), ~34 „eksperyment” | Email deliverability mech. 25, Newsletter mech. 20, 27, 29; Marka osobista mech. 18 | 2026-10-06 |

@@ -18,7 +18,7 @@ Rejestr tematów, które mogą dostać własną stronę (`/galaxy:pisz`). **Jedn
 | Lead magnety i budowa listy (kurs mailowy, opt-in) | kandydat realny | ~25 wąsko | Owned vs rented mech. 37, Newsletter mech. 7; zazębia się z „Marketing automation” | 2026-10-04 |
 | Dostępność komunikacji cyfrowej (mail, WWW) | obserwować | ~6 | Newsletter mech. 34, Email deliverability mech. 37 | — |
 | Strategia organizacji (wybór, koszt alternatywny, konflikt) | obserwować | ~11 wąsko, ~236 szeroko | Transparentność mech. 11 | — |
-| Ludzie, role i zmiana w organizacji (mentoring, sukcesja, wypalenie, rotacja) | kandydat realny | 12+ źródeł; ~22 + ~5 o mentoringu | Wdrażanie AI, Stewardship; zazębia się z „Przywództwo i zarząd” | 2026-09-22 |
+| Ludzie, role i zmiana w organizacji — poza wdrażaniem AI (sukcesja, wypalenie, rotacja; strona o tym tytule powstała 2026-10-06 tylko w ujęciu wdrażania AI — rozszerzyć ją albo wydzielić osobną) | kandydat realny | 12+ źródeł; ~22 + ~5 o mentoringu | Ludzie, role i zmiana w organizacji, Stewardship; zazębia się z „Przywództwo i zarząd” | 2026-09-22 |
 | Przywództwo i zarząd w organizacji społecznej | obserwować | ~32 „przywództwo”, ~97 „zarząd”, ~20 „spotkania” | zazębia się z „Ludzie, role i zmiana”; kultura spotkań (Neider) | 2026-09-30 |
 | Pomiar, analityka i atrybucja (GA4, UTM, MTA → MMM) | obserwować | ~4 „atrybucja”, ~9 wąsko, ~34 szeroko | — | — |
 | Wnioski grantowe i obsługa dotacji | kandydat realny | ~47 | — | 2026-09-05 |
@@ -29,7 +29,6 @@ Rejestr tematów, które mogą dostać własną stronę (`/galaxy:pisz`). **Jedn
 | Ekonomika współpracy z dostawcami zewnętrznymi | obserwować | słaba | — | — |
 | Podcast jako kanał organizacji | obserwować | ~35 | Owned vs rented mech. 22 | — |
 | Oznaczanie treści AI i zgodność publikacyjna | kandydat realny | ~12 + 2 „watermark” | AI Act, AI governance, Ghostwriting | 2026-08-29 |
-| Wdrożenie i własność stosu technologicznego w organizacji społecznej | kandydat realny (materiał kompletny; najtańszy sposób na rozbicie strony Wdrażanie AI) | — | Wdrażanie AI | 2026-08-29 |
 | Komunikacja kryzysowa | kandydat realny | 4 źródła (próg osiągnięty) | wydzielona z Rapid response; Rapid response mech. 3, Newsletter mech. 40 | 2026-10-04 |
 | Produktywność osobista i ekonomika praktyki konsultanta | obserwować | ~5 | — | 2026-08-28 |
 | Walidacja produktu przed zbudowaniem | obserwować | słaba | — | — |
@@ -41,7 +40,7 @@ Rejestr tematów, które mogą dostać własną stronę (`/galaxy:pisz`). **Jedn
 | SMS / texting jako kanał | kandydat realny | ~23 | Storytelling, Higiena listy, Stewardship | 2026-09-14 |
 | Branding programu dawania cyklicznego | obserwować | — | Recurring giving mech. 9, Tożsamość darczyńcy mech. 9 | — |
 | Niezależność finansowa i dywersyfikacja przychodów | kandydat realny | ≥9 źródeł; ~7 „dywersyfikac”, ~11 z płynnością i rezerwą | Transparentność mech. 7, 10–13 (5 mech., ok. 2600 słów); zazębia się z „Wnioski grantowe i obsługa dotacji” | 2026-10-05 |
-| Vibe-coding | kandydat realny | ~12 wąsko, ~92 szeroko | Context engineering mech. 9, Wdrażanie AI mech. 56, Widoczność w AI search mech. 26 | 2026-09-13 |
+| Vibe-coding | kandydat realny | ~12 wąsko, ~92 szeroko | Context engineering mech. 9, Wdrażanie AI mech. 4, Widoczność w AI search mech. 26 | 2026-09-13 |
 | Produkty cyfrowe budowane przez organizacje (MVP, iteracja) | obserwować | ~40 szeroko | — | — |
 | Monetyzacja wiedzy / produkty cyfrowe | obserwować | ~6 | — | — |
 | Prawa autorskie, dane treningowe i ekstrakcja stylu | obserwować | ~3 | Ghostwriting mech. 19 | — |

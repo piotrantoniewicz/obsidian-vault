@@ -12,7 +12,7 @@ Rejestr tematów, które mogą dostać własną stronę (`/galaxy:pisz`). **Jedn
 | Klaster | Status | Masa | Osiadł na / uwaga | Akt. |
 |---|---|---|---|---|
 | Partnerstwa z biznesem (CSR / ESG) | obserwować | ~22 szeroko | — | 2026-09-22 |
-| Segmentacja bazy darczyńców i odbiorców | kandydat realny | ~80 | Higiena listy, Stewardship mech. 5, Kampania końcoworoczna mech. 1, Transfer, Recurring giving mech. 30, Framing mech. 55 | 2026-09-30 |
+| Segmentacja bazy darczyńców i odbiorców | kandydat realny | ~80 | Higiena listy mech. 34, Stewardship mech. 5, P2P mech. 2, Newsletter mech. 13, Kampania końcoworoczna mech. 1, Recurring giving mech. 30, Framing mech. 55 | 2026-10-07 |
 | Generowanie obrazów AI i spójność wizualna marki | kandydat realny | ~14 „Midjourney” + ~5 „obrazy AI” | — | 2026-09-14 |
 | Marketing automation i sekwencje mailowe | obserwować | ~9 wąsko | Stewardship mech. 5; Newsletter | 2026-09-30 |
 | Lead magnety i budowa listy (kurs mailowy, opt-in) | kandydat realny | ~25 wąsko | Owned vs rented mech. 37, Newsletter mech. 7; zazębia się z „Marketing automation” | 2026-10-04 |
@@ -50,3 +50,4 @@ Rejestr tematów, które mogą dostać własną stronę (`/galaxy:pisz`). **Jedn
 | Matching grant (pula od jednego darczyńcy, mnożnik, okno) | kandydat realny | ~11 wąsko (część szumu), ~75 szeroko (GivingTuesday / giving day) | Major gifts mech. 11; Recurring giving, P2P, Kampania końcoworoczna, Stewardship | 2026-10-05 |
 | Prospect research i scoring z AI (propensity, wealth screening, sygnały zachowania) | obserwować | ~11 wąsko, ~30 szeroko | Major gifts mech. 5–8 (główny dom); Transfer, DAF, Evale | 2026-10-05 |
 | Eksperymentowanie i testowanie (A/B, holdout, rejestr testów, „folklor” best practices) | kandydat realny | ~36 wąsko (A/B, holdout; część szum), ~34 „eksperyment” | Email deliverability mech. 25, Newsletter mech. 20, 27, 29; Marka osobista mech. 18 | 2026-10-06 |
+| Kampanie wyborcze: field, wolontariusze, organizowanie relacyjne (Mamdani, Connolly, TTPA) | kandydat realny | ~30 „Mamdani”, ~15 field/GOTV/kampania, ~2 organizowanie relacyjne | Framing mech. 7, P2P mech. 3 i 14, Owned vs rented mech. 26 i 32, Rapid response mech. 1 | 2026-10-07 |

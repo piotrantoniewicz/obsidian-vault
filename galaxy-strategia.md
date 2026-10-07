@@ -1,23 +1,23 @@
-# Strategia rozbudowy Galaxy/ — 2026-10-06 (`/galaxy:ingest 10 notatek` — wplecione w 12 stron, 5 nowych pozycji w Sprzecznościach)
+# Strategia rozbudowy Galaxy/ — 2026-10-07 (`/galaxy:ingest 10 notatek` — wplecione w 14 stron, 5 nowych pozycji w Sprzecznościach)
 
 *Konwencja: data w tytule H1 = data ostatniej istotnej aktualizacji tego pliku. Przy każdej zmianie (nowe pojęcia, zamknięta fala, korekta planu) zaktualizuj datę w tytule.*
 
 > **Reguła dziennika:** sekcja „Gdzie jesteśmy" to **jeden, nadpisywany** snapshot bieżącego stanu — **nie** rosnący log dopisków. Przy każdej sesji **nadpisz jej treść** (liczba stron, ostatnia operacja, następny krok, backlog), zamiast dopisywać kolejny akapit „Dopisek RRRR-MM-DD". Historię trzymają same notatki, `git` i `Galaxy/index.md`.
 
-## Gdzie jesteśmy (akt. 2026-10-06, ostatnia operacja: **`/galaxy:ingest 10 notatek`**)
+## Gdzie jesteśmy (akt. 2026-10-07, ostatnia operacja: **`/galaxy:ingest 10 notatek`**)
 
 **Galaxy/ = 36 stron** (+3 wydzielone z *Wdrażania AI*) w trzech działach indeksu:
 - **Fundraising** (11) — Tożsamość darczyńcy, Recurring giving, Stewardship, Kampania końcoworoczna, Peer-to-peer fundraising, Pledge program, Transparentność operacyjna, Major gifts, Pokolenia darczyńców, Transfer międzypokoleniowy majątku, DAF
 - **AI w organizacjach** (15) — Wdrażanie AI w organizacji społecznej, Wdrożenie i własność stosu technologicznego, Ludzie, role i zmiana w organizacji, Luka adopcyjna, AI governance, Agentic AI, RAG, Context engineering, Prompt engineering, RODO i dane wrażliwe, Evale, Context layer organizacji, LLM Wiki, Suwerenność technologiczna, AI Act
 - **Komunikacja i digital campaigning** (10) — Email deliverability, Framing, Storytelling oparty na danych, Newsletter jako kanał, Widoczność w AI search (GEO/AEO), Owned vs rented audience, Higiena listy, Ghostwriting, Marka osobista, Rapid response
 
-**Ostatnia operacja — `/galaxy:ingest 10 notatek` (2026-10-06).** Partia 10 najstarszych nieprzejrzanych notatek (od *2026-10-01 PIERWSZA POMOC NA OSTATNI KWARTAŁ* do *2026-10-01 How one cause earned $508,770 in free Civic Shout ad credits in 3 months*) wplecione w 12 stron: Transfer międzypokoleniowy majątku, Major gifts, Pokolenia darczyńców, Tożsamość darczyńcy, Email deliverability, Newsletter jako kanał, Higiena listy, Recurring giving, Marka osobista, Ludzie role i zmiana w organizacji, Luka adopcyjna, Transparentność operacyjna. Nowe pozycje w `## Sprzeczności`: horyzont transferu 2045 vs 2048 (Transfer, Major gifts), czy pokolenie wyjaśnia dawanie (Pokolenia darczyńców), jedno CTA vs jedno zadanie oraz SMS vs „bańka” (Newsletter jako kanał). Żadnej strony nie utworzono, żadnej definicji nie ruszono; sekcje „Powiązane pojęcia” nietknięte, więc liczniki czerwonych linków bez zmian. Jedna notatka bez trafień w Galaxy (*PIERWSZA POMOC NA OSTATNI KWARTAŁ*).
+**Ostatnia operacja — `/galaxy:ingest 10 notatek` (2026-10-07).** Partia 10 najstarszych nieprzejrzanych notatek (od *2026-10-01 Not everything important needs a score* do *2026-09-16 8 (stupidly simple) rules to grow on social media*) wplecione w 14 stron: Wdrażanie AI w organizacji społecznej, Luka adopcyjna, AI governance, Framing, Peer-to-peer fundraising, Recurring giving, Higiena listy, Newsletter jako kanał, Stewardship, Owned vs rented audience, Rapid response, Marka osobista, Ghostwriting, Prompt engineering. Nowe pozycje w `## Sprzeczności`: skuteczność kampanii a odwiedzone drzwi (Peer-to-peer — sekcja założona od zera), osobisty kontakt dla wszystkich czy dla 10–20% (Stewardship), Google Ads jako zamiennik zakazanych reklam oraz grupa WhatsApp jako kanał własny (Owned vs rented), odpowiadanie na pytania czy dawanie uczucia (Ghostwriting). Żadnej strony nie utworzono, żadnej definicji nie ruszono; sekcje „Powiązane pojęcia” nietknięte, więc liczniki czerwonych linków bez zmian. Wszystkie 10 notatek miało trafienia w Galaxy.
 
-**Następny krok.** Kolejna partia ingestu (kolejka niepusta). Progi rekompilacji (skrypt, 2026-10-06) przekraczają: *Email deliverability* (41 mech.), *Newsletter jako kanał* (42 mech.), *Higiena listy* (34 mech.), *Recurring giving* (9073 słów) i *Transparentność operacyjna* (10 725 słów); wg stanu sprzed tej partii (nie mierzone ponownie) także *Stewardship*, *Wdrażanie AI*, *Framing*, *AI governance* i *Owned vs rented audience*. Do poprawy: w *Framing* i *Rapid response* trzy wpisy Sprzeczności mają `[[[` (potrójny nawias) przed wikilinkiem. Backlog czerwonych linków: liczniki bez zmian.
+**Następny krok.** Kolejna partia ingestu (kolejka niepusta). Progi rekompilacji (skrypt, 2026-10-07) przekraczają: *Recurring giving* (9258 słów), *Stewardship* (10 119), *Wdrażanie AI* (15 022), *Framing* (58 mech.), *AI governance* (47), *Newsletter jako kanał* (42), *Prompt engineering* (26), *Owned vs rented audience* (38), *Higiena listy* (34), *Ghostwriting* (53); wg stanu sprzed tej partii (nie mierzone ponownie) także *Email deliverability* i *Transparentność operacyjna*. Backlog czerwonych linków: liczniki bez zmian.
 
-**Pozostało w kolejce: 35** (policzone metodą kursora po jego przesunięciu).
+**Pozostało w kolejce: 25** (policzone metodą kursora po jego przesunięciu).
 
-<!-- ingest-cursor: 2026-10-02 | 2026-10-01 How one cause earned $508,770 in free Civic Shout ad credits in 3 months.md -->
+<!-- ingest-cursor: 2026-10-03 | 2026-09-16 8 (stupidly simple) rules to grow on social media.md -->
 
 
 **Sprzeczności między źródłami** zapisuje się wyłącznie w sekcjach `## Sprzeczności` na stronach Galaxy — ten plik ich nie zbiera i nie prowadzi ich listy.

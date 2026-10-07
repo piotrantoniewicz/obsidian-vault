@@ -5,7 +5,7 @@ tags:
   - organizacje-społeczne
   - szkolenia-AI
 created: 2026-10-06
-updated: 2026-10-06
+updated: 2026-10-07
 relevance: wysoka
 sources:
   - "[[2026-06-08 The Nonprofit of 2030 What It Takes to Get There]]"
@@ -37,6 +37,8 @@ Luka adopcyjna to rozjazd między szerokim używaniem AI a mierzalnym efektem: w
 
 **1. Luka między adopcją a efektem: pomiary i ich rozrzut**
 Luka między używaniem AI a efektem jest mierzona z kilku stron i każdy pomiar daje inną liczbę, ale wszystkie wskazują ten sam kierunek: adopcja znacznie wyprzedza wynik. Pomiary różnią się tym, co mierzą (strategię, wynik, sukces, samoocenę) — zob. Sprzeczności. Pomiar po stronie pracowników w Polsce ([[2026-09-25 Od TikToka do targetu. Czego rekrutacja Gen Z nauczyła nas o dobrym HR|Laba Group]] za Randstad Workmonitor 2026, dane z drugiej ręki): **64%** pracowników używa AI w pracy, a tylko **38%** firm deklaruje inwestycje w AI. Zbieżność z 64% z PwC *Hopes and Fears 2026* (Ludzie, role i zmiana w organizacji, mech. 3) jest przypadkowa — tam respondenci z 48 krajów i regionów, tu pracownicy w Polsce.
+
+Pomiar po stronie organizacji, który rozdziela gotowość od adopcji ([[Meena Das]], AI Equity Project, 2026, 880 odpowiedzi organizacji — z ponad 2400 w trzech edycjach; rynek niepodany): **prawie 70% używa AI w organizacji, ale tylko 12% ma zasady lub oczekiwania obowiązujące w całej organizacji i tylko 21% formalny proces odpowiedzialności na wypadek szkód wyrządzonych przez AI**. Autorka czyta to tak, że o powodzeniu decyduje ekosystem wokół narzędzia (czas na weryfikację, przyzwolenie na krytykę, jasne granice), nie sama adopcja ([[2026-06-13 Wdrażanie AI w organizacji społecznej|Wdrażanie AI w organizacji społecznej]], mech. 2). Czasownik to „używa", nie „eksploruje" jak w pomiarach 85–88% (zob. Sprzeczności), i inna próba, więc tych liczb nie zestawia się wprost. *(Źródło: [[2026-10-01 Not everything important needs a score.]])*
 
 **Luka strategia–wdrożenie: dokument to nie decyzja.** Najczęstszy punkt, w którym adopcja AI się zatrzymuje, leży *po* strategii, nie przed nią. Skala rozjazdu: **86% organizacji eksploruje narzędzia AI, ale tylko 24% ma sformalizowaną strategię** (Bloomerang) — organizacje testują bez polityki, nadzoru i pomiaru ROI, co jest głównym ryzykiem wdrożeniowym; **30% zgłasza wzrost przychodów z fundraisingu dzięki AI**, ale tylko **15% jawnie ujawnia użycie generatywnej AI** (zob. [[2026-06-13 Transparentność operacyjna|Transparentność operacyjna]], mech. 17). Drugą stronę tej samej luki opisuje Anna Ratajczak-Piotrowska: firmy i organizacje przychodzą dziś z **gotowym dokumentem strategii wygenerowanym przez AI na kupionym frameworku** — i wciąż pytają „co dalej?". **AI przyspieszyło tworzenie dokumentów strategicznych, ale nie rozwiązało najtrudniejszego etapu: decyzji o priorytetach, właścicielach zadań i kolejności wdrożenia.** Cytat-kotwica: *„Wartość strategii nie powstaje wtedy, kiedy powstaje dokument. Wartość powstaje wtedy, kiedy ktoś potrafi powiedzieć: to robimy teraz, tego nie robimy, za to odpowiada ten zespół"*. Konsekwencja dla oferty doradczej: produktem nie jest dokument strategii AI, lecz **przełożenie go na „robimy / nie robimy" z właścicielami** — inaczej klient kupuje koszt bez efektu.
 
@@ -87,6 +89,7 @@ Adopcja AI jest problemem projektowym i behawioralnym, nie komunikacyjnym ani sz
 - [[2026-07-06 Evale|Evale]] — „skąd wiesz, że jest dobrze": zaprzestanie sprawdzania wyników to brak proporcjonalnej weryfikacji
 - [[2026-07-06 Context layer organizacji|Context layer organizacji]] — chatbot jest tak dobry, jak dokumentacja procesów organizacji
 
+  - "[[2026-10-01 Not everything important needs a score.]]"
 ---
 
 ## Zastosowanie w kontekście organizacji społecznych

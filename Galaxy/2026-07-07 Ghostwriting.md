@@ -5,7 +5,7 @@ tags:
   - content-marketing
   - strategia-organizacji
 created: 2026-07-07
-updated: 2026-09-29
+updated: 2026-10-07
 relevance: wysoka
 sources:
   - "[[2026-09-15 find writing clients with ChatGPT work]]"
@@ -255,6 +255,7 @@ Uzupełnienie mech. 47 (lista „przecieków i kranów”) o narzędzie: najciek
 
 - **Jakość vs wolumen — trzeci case i pytanie, co wolumen w ogóle mierzy** [mech. 12–13 vs 20, 22, 50] — A: kanał porzuca się przy ~40% jego pułapu, więc właściwym ruchem jest **pogłębianie jednego kanału**, a sufit publikacyjny to ok. **1 post dziennie na LinkedIn** ([[2026-08-06 Most people quit a channel at 40% capacity|Tribe Digital]], 2026, obserwacja praktyka, bez n). B: trzy niezależne audyty kont pokazują **16 postów dziennie** (Foo, n=1), **34 posty w 30 dni** (Donnelly, n=1) i **36 postów w 30 dni przy zerze treści oryginalnych na tej platformie** (Denning, [[2026-09-12 He has 604,000 followers and 0 text posts]], 2026, n=1, rynek anglojęzyczny). **Wątpliwość nazwana wprost:** trzeci case może nie być argumentem po stronie B, tylko **przedefiniowaniem sporu** — u Denninga wolumen publikacji nie oznacza wolumenu produkcji, bo koszt niesie biblioteka zbudowana na innej platformie; jeśli tak, to A i B mierzą co innego (nakład na kanał vs liczba wyświetleń treści) i spór jest pozorny. Żadne ze źródeł tego nie rozstrzyga, a wszystkie trzy audyty pochodzą od **tej samej agencji**, więc niezależność obserwacji jest ograniczona. *Status: otwarte.*
 - **Model redakcyjny: ograniczony do niszy newsjackingowej, czy przenośny na pozycjonowanie eksperckie?** [mech. 20, 51] — A: model „wymaga jasnej niszy o wysokim tempie odświeżania (newsy AI)" i „nie przenosi się na pozycjonowanie eksperckie oparte na autorytecie" ([[2026-08-01 Alvin Foo's 512k LinkedIn account (16 posts per day!)|za mech. 20, Tribe Digital]], 2026, n=1, bez podanych wskaźników zaangażowania per post). B: konto o tezie ogólnotematycznej (AI, marki, rekrutacja), nie newsjackingowej, stosuje ten sam wzorzec redakcyjny (teza + kondensacja artykułów + tagowanie) i raportuje **10M+ wyświetleń w miesiąc** przy 55 postach ([[2026-09-19 How this 50k LI account gets 10M+ impressions in a month|za mech. 51, Matthew Brown]], 2026, n=1, bez podanych wskaźników zaangażowania per post). **Wątpliwość:** żadne źródło nie podaje porównywalnych metryk skuteczności (tylko wyświetlenia całkowite vs followers), więc nie wiadomo, czy przenośność jest realna, czy pozorna — ale sam fakt zastosowania modelu poza zdefiniowaną niszą podważa kategoryczność zastrzeżenia w mech. 20. *Status: otwarte.*
+- **Czy treść ma odpowiadać na pytania, czy dawać uczucie?** [mech. 21] — A: poza branżą rozrywkową jedynym pytaniem strategicznym jest to, jakie pytania ma czytelnik, a treść i outreach działają, gdy brzmią jak wiadomość do znajomego ([[2026-05-18 How to Make Outreach and Content Feel More Human|Cole / Ship 30 for 30]], 2026, praktyk, bez n). B: ludzie rzadko pamiętają konkrety, pamiętają emocję — kanał ma sprzedawać jedno uczucie (podziw, poczucie kontroli, satysfakcjonujące zmęczenie), nie informację ([[2026-09-16 8 (stupidly simple) rules to grow on social media|Puri / My First Million]], 2026, podcast, doświadczenie własne prowadzącego, bez pomiaru). Wątpliwość: A dotyczy treści B2B poza rozrywką i pierwszej wiadomości do konkretnego odbiorcy, B budowania szerokiej publiczności; pytania czytelnika i dominujące uczucie mogą się uzupełniać, ale żadne źródło nie mówi, co ma pierwszeństwo, gdy się rozchodzą. *Status: otwarte.*
 
 ## Powiązane pojęcia
 
@@ -280,6 +281,7 @@ Uzupełnienie mech. 47 (lista „przecieków i kranów”) o narzędzie: najciek
 
 - **Lista „przecieków i kranów” jako pierwszy krok akwizycji (mech. 47)**: **działa w skali jednoosobowej i 2–5 osób** — arkusz i jedno popołudnie na przejrzenie kontaktów z LinkedIna i skrzynki, bez narzędzi i budżetu; w polskim sektorze społecznym to zwykle jedyna działająca ścieżka do pierwszego zlecenia, bo rynek otwartych platform freelancerskich nie obsługuje tej niszy.
 
+  - "[[2026-09-16 8 (stupidly simple) rules to grow on social media]]"
 ---
 
 - **Oznaczaj sam, zanim oznaczy platforma (mech. 49)**: jeśli organizacja prowadzi profil z awatarem albo publikuje wizualia generowane modelem, dopisz oznaczenie w opisie konta i przy materiale. **Działa w skali 2–5 osób** — to jedno zdanie w bio i nawyk przy publikacji, zero kosztu; **substytutem** przy niechęci do oznaczania jest rezygnacja z awatara na rzecz treści pod nazwiskiem realnej osoby, co i tak działa lepiej na zaufanie (mech. 12–13).

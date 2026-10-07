@@ -5,7 +5,7 @@ tags:
   - narzędzia-AI
   - szkolenia-AI
 created: 2026-06-15
-updated: 2026-09-30
+updated: 2026-10-07
 relevance: wysoka
 sources:
   - "[[2025-06-22 9 ChatGPT & Claude Writing Tips (to get CRAZY GOOD outputs)]]"
@@ -71,7 +71,7 @@ Gdy output jest słaby, nie zgaduj — zapytaj model: „Zauważyłem [konkretny
 Odwrotność „jednego wielkiego promptu": zamiast wrzucać wszystkie wymagania naraz, każ modelowi **przeprowadzić ustrukturyzowany wywiad** — AI zadaje 5–6 pytań pojedynczo (co, dla kogo, korzyści, USP, cena, CTA), a dopiero na końcu składa gotowy prompt/efekt. Sekwencja wymusza klarowność i eliminuje generyczne copy, bo model pracuje na konkretach, nie na domysłach. Wzorzec jest przenośny (ten sam meta-prompt działa dla różnych klientów/produktów) i łączy się z singular/modular: pytania to dekompozycja *przed* wykonaniem. Voice-to-text przyspiesza odpowiadanie w trybie wywiadu — rozmowa naturalniejsza niż pisanie.
 
 **6. Framing delegowania i role — w tym walka z sycophancy**
-Skuteczny framing: „deleguj jak bardzo zdolnemu członkowi zespołu — im jaśniejsze instrukcje i więcej tła, tym lepszy wynik". Przypisanie modelowi **roli** kieruje zachowaniem. Ważne nowe ryzyko ([[Ethan Mollick]]): **sycophancy** — model potakuje użytkownikowi zamiast krytykować, co szczególnie szkodzi przy recenzji dokumentów. Antidotum jest promptowe: *wprost* poproś AI o rolę krytyka.
+Skuteczny framing: „deleguj jak bardzo zdolnemu członkowi zespołu — im jaśniejsze instrukcje i więcej tła, tym lepszy wynik". Przypisanie modelowi **roli** kieruje zachowaniem. Ważne nowe ryzyko ([[Ethan Mollick]]): **sycophancy** — model potakuje użytkownikowi zamiast krytykować, co szczególnie szkodzi przy recenzji dokumentów. Antidotum jest promptowe: *wprost* poproś AI o rolę krytyka. Framework R-F-K-A (Rola, Format, Kontekst, Akcja; materiał szkoleniowy aininjas.pl, zasada „garbage in, garbage out”) rozpisuje te zasady na cztery elementy. **Rola** aktywuje wzorce z danych treningowych i narzuca styl komunikacji, w trzech poziomach (sam zawód; zawód plus specjalizacja i doświadczenie; plus perspektywa i ograniczenia), a rola „supermana” z mnóstwem superlatyw rozmywa fokus — lepiej wskazać jedną specjalizację i jeden akcent (zob. mech. 16: persona ustawia styl i perspektywę jednej odpowiedzi, nie tworzy rozkładu). **Kontekst** to wszystko, co powiedziałoby się nowemu pracownikowi w pierwszy dzień pracy (odbiorca, cel, ograniczenia, tło), z heurystyką, by powyżej ok. 500 słów kontekstu rozważyć podział zadania lub streszczenie; **format** (tekstowy, strukturalny, długość) i **akcja** (czasownik operacyjny, przy złożonych zadaniach kroki w sekwencji) dopełniają całość. Źródło nie podaje danych o skuteczności frameworka; jego ćwiczenie „napraw prompt” polega na przepisaniu słabego polecenia i porównaniu jakości odpowiedzi. *(Źródło: [[2026-10-02 Jak pisać dobre prompty (Framework R-F-K-A)]])*
 
 ---
 
@@ -175,6 +175,7 @@ Polska synteza oficjalnych przewodników trzech dostawców, pokazana na przykła
 - **Recenzja dokumentów (granty, strategie)**: naucz zespół promptu „bądź krytykiem, wskaż 3 najsłabsze miejsca" jako antidotum na sycophancy — inaczej AI potwierdzi słaby wniosek grantowy.
 - **Próg wejścia**: prompt engineering to najtańsza dźwignia („lepszy output bez dodatkowych narzędzi") — idealny pierwszy moduł, zanim organizacja sięgnie po RAG czy automatyzacje.
 
+  - "[[2026-10-02 Jak pisać dobre prompty (Framework R-F-K-A)]]"
 ---
 
 - **Agent-krytyk jako tania kontrola jakości wyjścia (mech. 23)**: zamiast prosić ten sam model o samoocenę, otwórz drugą rozmowę, wklej sam efekt (tekst, zrzut, plik) bez historii powstawania i poproś o ocenę wg trzech–pięciu jawnych kryteriów w skali 1–10 wraz z uzasadnieniem; poprawiaj do progu, który ustalasz z góry. **Działa w skali 2–5 osób** — to darmowy plan dowolnego czatu i kilka minut na materiał, bez API i bez kodu. Warto, by krytykiem był model inny (lub mocniejszy) niż wykonawca; jeśli organizacja ma dostęp tylko do jednego, **substytutem** jest czysta rozmowa bez kontekstu tworzenia — słabsza, ale nadal usuwa efekt zakochania modelu we własnym wyniku.

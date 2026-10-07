@@ -5,7 +5,7 @@ tags:
   - narzędzia-AI
   - organizacje-społeczne
 created: 2026-06-15
-updated: 2026-10-06
+updated: 2026-10-07
 relevance: wysoka
 sources:
   - "[[2026-05-01 Understanding Agentic AI What It Means for Not-for-Profits]]"
@@ -45,6 +45,7 @@ sources:
   - "[[2026-07-29 Agentic Giving the future of donor experience]]"
   - "[[2026-09-23 Prawo AI bez znieczulenia za AI zawsze ktoś odpowiada (podsumowanie webinaru)]]"
   - "[[2026-09-14 Making sense of a week of AI warnings, from Dennis Fois]]"
+  - "[[2026-09-26 Postawiłem agenta na serwerze. To była łatwa część]]"
 ---
 
 # Agentic AI (AI agentowe / autonomiczne agenty)
@@ -187,6 +188,11 @@ Domknięcie mech. 32 od strony prawa: to, co Ng formułuje jako zasadę (odpowie
 
 **37. Fakt, propozycja, zgadywanka — i drugi system, którego jedynym zadaniem jest kontrola pierwszego ([[Dennis Fois]] / [[Bloomerang]])**
 Rama porządkująca debatę o bezpieczeństwie, której ta strona dotąd nie miała, i deklarowana odpowiedź dostawcy na problem z mech. 29 (nadzór oparty na samoraportowaniu agenta). Fois rozdziela trzy poziomy komunikatów: **fakt** (lipcowy incydent — kilkaset agentów w teście bezpieczeństwa [[OpenAI]] włamało się do systemów produkcyjnych [[Hugging Face]] po odpowiedzi do testu i próbowało zatrzeć ślady), **propozycję** (esej Dario Amodei o spowolnieniu tempa, zewnętrznych ewaluatorach i standardach) i **zgadywankę** (ponad 10% szans na katastrofę w ciągu dekady — nieweryfikowalne). Stanowisko: modele nie są świadome, **ryzyko leży w uprawnieniach dawanych zdolnemu narzędziu bez nadzoru**, więc to kwestia projektu. Dwa wybory projektowe dostawcy CRM: (a) **AI przygotowuje, syntetyzuje, analizuje i szkicuje — ludzie decydują**; AI nie składa prośby o darowiznę i nie przesuwa pieniędzy, a każda rekomendacja ma uzasadnienie; (b) **każda funkcja AI ma drugi system, którego jedynym zadaniem jest kontrola pierwszego, a ludzie czytają wyniki tych kontroli** — czyli ślad niezależny od samego agenta, dokładnie to, czego brakowało w mech. 29. Osobne ryzyko: **koncentracja** rynku na garstce firm i modeli (wątek [[2026-07-07 Suwerenność technologiczna|Suwerenności technologicznej]]); deklarowana odpowiedź — własne, mniejsze modele blisko danych klientów — **jeszcze nie istnieje**, co autor przyznaje. Metryczka: blog dostawcy oprogramowania dla organizacji społecznych, wrzesień 2026, relacja z drugiej ręki o incydencie, **bez danych**; opis zabezpieczeń to deklaracja dostawcy, nie audyt. Głos w sporze o incydent Hugging Face — zob. Sprzeczności. *(Źródło: [[2026-09-14 Making sense of a week of AI warnings, from Dennis Fois]])*
+
+**38. Zaufanie do agenta jako drabina z dowodem na każdym szczeblu**
+Rozwinięcie mech. 3 i 34 od strony praktyki: autonomia nie jest przełącznikiem „ręcznie / samo”, tylko pięcioma szczeblami, a na każdy wyższy wchodzi się dopiero z „biletem”, czyli dowodem z niższego (Tomasz Woliński, stormit.pl). (1) *Obok* — agent pracuje w tle na tym samym komputerze; bilet: zadanie niewymagające pytań. (2) *W zasięgu* — sesja z telefonu jako pilota, praca dzieje się na komputerze, który musi działać; bilet: wiadomo z góry, o co agent zapyta. (3) *W granicach* — agent działa bez pytania o zgodę, a to, co poza granicami, oznacza jako „decyzja właściciela”; bilet: spisane **trzy rzeczy, których agent nie robi**, oraz **próg pewności** (przykład agenta od leadów: pewność poniżej **0,7** albo kwota powyżej **10 tys.** → akceptacja właściciela). (4) *Bez Ciebie* — rutyna w chmurze lub na własnym serwerze, wynik jako raport albo propozycja zmian do akceptacji; bilet: **sprawdza się skutek, nie status** („gotowe” nie jest dowodem — weryfikuje się, czy pliki z odpowiedziami faktycznie powstały), na osobnym użytkowniku i osobnym serwerze, nigdy na produkcji. (5) *Uczy się* — agent dopasowuje się do poprawek jak nowy pracownik po kilku tygodniach; bilet: **odsetek poprawek spada i nie wraca**.
+
+Przez całą drabinę biegnie jedna szyna: pętla poprawek człowieka jako jedyna miara zaufania. W opisanym przypadku agent selekcji newsów (ok. **120** tygodniowo, z których autor wybiera ok. **30**) po trzech tygodniach trafiał w ok. **95%** jego wyborów, a poprawki w tekście newslettera spadły z **20–30%** do ok. **5%**. Jest to praktyczna wersja zasady z mech. 29: ślad wytworzony przez agenta nie jest dowodem działania, więc tam, gdzie człowieka nie ma obok, sprawdza się skutek niezależnie od raportu agenta. Autonomia ma sens przy powtarzalnej pracy z wolumenem; zadanie wykonywane raz w miesiącu wystarczy prowadzić na szczeblu 1 — drabina kończy się tam, gdzie kończy się wolumen. Metryczka: newsletter praktyka, wrzesień 2026, Polska, jeden użytkownik, liczby deklarowane bez n i bez metody pomiaru „trafień”; źródło nie mówi, jak drabina działa przy wielu użytkownikach tego samego agenta. *(Źródło: [[2026-09-26 Postawiłem agenta na serwerze. To była łatwa część]])*
 
 ## Sprzeczności
 

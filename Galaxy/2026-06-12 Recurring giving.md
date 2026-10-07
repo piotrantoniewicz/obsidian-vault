@@ -53,6 +53,7 @@ sources:
   - "[[2026-09-28 Pulse Check- Giving Season Decoded]]"
   - "[[2026-08-28 Recurring Donations for Nonprofits The Ultimate How-to Guide]]"
   - "[[2026-10-01 How one cause earned $508,770 in free Civic Shout ad credits in 3 months]]"
+  - "[[2026-09-24 5 działań, które po cichu obniżają skuteczność fundraisingu]]"
 ---
 
 # Recurring giving (dawanie cykliczne)
@@ -83,7 +84,7 @@ Profil darczyńcy cyklicznego (GivingPulse):
 - Bardziej ufa organizacjom, ale jest też bardziej wyczulony na ich nieefektywność — transparentność raportowania jest tu podwójnie istotna
 
 **5. Luka „organizacje nie proszą"**
-Największy potencjał wzrostu leży nie w nowych taktykach, lecz w domknięciu podstawowych sekwencji komunikacji. Benchmark NextAfter (138 organizacji): tylko **36%** prosi jednorazowych darczyńców o przejście na datek miesięczny w ciągu 30 dni, a zaledwie **27%** prosi aktywnych darczyńców cyklicznych o podniesienie kwoty — mimo że darczyńcy po upgrade mają retencję **83% vs 44%** i o 36% wyższą wartość życiową. 65% organizacji nigdy nie zaprasza darczyńców cyklicznych do dialogu. Ilustruje to [[Chive Charities]]: dodanie **nowego tieru** (Platinum, $200+/mies.) odblokowało ukryty potencjał — darczyńcy ograniczeni dotąd do $100 przeszli na $500; tier daje dziś 20% przychodów. Sufit, jaki ta dyscyplina wyznacza, to **98% retencji miesięcznej** przy 70%+ przychodu z cyklicznych.
+Największy potencjał wzrostu leży nie w nowych taktykach, lecz w domknięciu podstawowych sekwencji komunikacji. Benchmark NextAfter (138 organizacji): tylko **36%** prosi jednorazowych darczyńców o przejście na datek miesięczny w ciągu 30 dni, a zaledwie **27%** prosi aktywnych darczyńców cyklicznych o podniesienie kwoty — mimo że darczyńcy po upgrade mają retencję **83% vs 44%** i o 36% wyższą wartość życiową. 65% organizacji nigdy nie zaprasza darczyńców cyklicznych do dialogu. Ilustruje to [[Chive Charities]]: dodanie **nowego tieru** (Platinum, $200+/mies.) odblokowało ukryty potencjał — darczyńcy ograniczeni dotąd do $100 przeszli na $500; tier daje dziś 20% przychodów. Sufit, jaki ta dyscyplina wyznacza, to **98% retencji miesięcznej** przy 70%+ przychodu z cyklicznych. Polska obserwacja tej samej luki: w ścieżce komunikacji brakuje prośby o kolejną wpłatę lub darowiznę regularną, a wpłat jednorazowych i cyklicznych nie rozróżnia się w obsłudze ([[2026-09-24 5 działań, które po cichu obniżają skuteczność fundraisingu]]).
 
 **6. Trade-off zobowiązania na stronie wpłaty**
 Im wyższe oczekiwane zobowiązanie, tym mniej osób działa. Eksperyment NextAfter: prominentny „monthly ask" na stronie donacji **podwoił konwersję na datki cykliczne (+100,5%), ale obniżył ogólną konwersję i przychód o ~35%**. Dla ruchu z kampanii pilnościowych domyślny powinien być więc datek jednorazowy, a propozycja cykliczna działa najlepiej jako **upsell po pierwszej wpłacie** — gdy darczyńca jest już zaangażowany, a bariera decyzyjna niższa. Kiedy dokładnie ten upsell pokazać i komu — mech. 7 i 8.

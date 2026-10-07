@@ -19,7 +19,7 @@ Rejestr tematów, które mogą dostać własną stronę (`/galaxy:pisz`). **Jedn
 | Dostępność komunikacji cyfrowej (mail, WWW) | obserwować | ~6 | Newsletter mech. 34, Email deliverability mech. 37 | — |
 | Strategia organizacji (wybór, koszt alternatywny, konflikt) | obserwować | ~11 wąsko, ~236 szeroko | Transparentność mech. 11 | — |
 | Ludzie, role i zmiana w organizacji — poza wdrażaniem AI (sukcesja, wypalenie, rotacja; strona o tym tytule powstała 2026-10-06 tylko w ujęciu wdrażania AI — rozszerzyć ją albo wydzielić osobną) | kandydat realny | 12+ źródeł; ~22 + ~5 o mentoringu | Ludzie, role i zmiana w organizacji, Stewardship, Pokolenia darczyńców mech. 7 (Gen Z w pracy, onboarding); zazębia się z „Przywództwo i zarząd” | 2026-10-06 |
-| Przywództwo i zarząd w organizacji społecznej | obserwować | ~32 „przywództwo”, ~97 „zarząd”, ~20 „spotkania” | zazębia się z „Ludzie, role i zmiana”; kultura spotkań (Neider) | 2026-09-30 |
+| Przywództwo i zarząd w organizacji społecznej | kandydat realny | ~32 „przywództwo”, ~97 „zarząd”; ≥6 notatek o radzie (burnout dyrektora, retreat, fundraising rady, syndrom założyciela) | Stewardship mech. 13 (rada); zazębia się z „Ludzie, role i zmiana”; kultura spotkań (Neider) | 2026-10-07 |
 | Pomiar, analityka i atrybucja (GA4, UTM, MTA → MMM) | obserwować | ~4 „atrybucja”, ~9 wąsko, ~34 szeroko | — | — |
 | Wnioski grantowe i obsługa dotacji | kandydat realny | ~47 | — | 2026-09-05 |
 | Badania, ankiety i predykcja zachowań z AI | obserwować | ~24 szeroko, ~3 wąsko | Prompt engineering | — |

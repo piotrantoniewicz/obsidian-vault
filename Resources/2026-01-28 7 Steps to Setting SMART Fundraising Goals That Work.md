@@ -2,7 +2,7 @@
 categories: Clippings
 authors: "[[Leah Holt]]"
 url: https://mvpphilanthropy.com/2026/01/28/nonprofit-fundraising-goals/
-source: "[[2026-01-28 7 Steps to Setting SMART Fundraising Goals That Work]]"
+source: "[[Archives/2026-01-28 7 Steps to Setting SMART Fundraising Goals That Work|2026-01-28 7 Steps to Setting SMART Fundraising Goals That Work]]"
 published: 2026-01-28
 created: 2026-03-04
 relevance: wysoka

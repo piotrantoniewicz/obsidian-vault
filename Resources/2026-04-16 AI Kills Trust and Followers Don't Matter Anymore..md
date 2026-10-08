@@ -2,7 +2,7 @@
 categories: Clippings
 authors: ["[[Ryan Davis]]"]
 url: "https://people1st.substack.com/p/ai-kills-trust-and-followers-dont"
-source: "[[Archives/2026-04-16 AI Kills Trust and Followers Don't Matter Anymore.|2026-04-16 AI Kills Trust and Followers Don't Matter Anymore.]]"
+source: "[[Archives/2026-04-16 AI Kills Trust and Followers Don’t Matter Anymore.|2026-04-16 AI Kills Trust and Followers Don't Matter Anymore.]]"
 published: 2026-04-16
 created: 2026-05-27
 relevance: średnia

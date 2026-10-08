@@ -2,10 +2,10 @@
 categories: Clippings
 authors: "[[Korrin Bishop]]"
 url: https://pro.gofundme.com/c/blog/plan-emergency-fundraising-campaign/
-source: "[[2025-09-08 Fundraising for disaster relief A guide to mobilize support and maximize impact]]"
+source: "[[Archives/2025-09-08 Fundraising for disaster relief A guide to mobilize support and maximize impact|2025-09-08 Fundraising for disaster relief A guide to mobilize support and maximize impact]]"
 published: 2025-09-08
 created: 2026-03-09
-relevance: Średnio
+relevance: średnia
 tags:
   - fundraising
   - organizacje-społeczne

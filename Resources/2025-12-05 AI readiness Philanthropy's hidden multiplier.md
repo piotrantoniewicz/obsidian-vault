@@ -2,7 +2,7 @@
 categories: Clippings
 authors: "[[Jacek Siadkowski]]"
 url: https://www.fastcompany.com/91454955/ai-readiness-philanthropys-hidden-multiplier
-source: "[[2025-12-05 AI readiness Philanthropy's hidden multiplier]]"
+source: "[[Archives/2025-12-05 AI readiness Philanthropy's hidden multiplier|2025-12-05 AI readiness Philanthropy's hidden multiplier]]"
 published: 2025-12-05
 created: 2026-03-10
 relevance: wysoka

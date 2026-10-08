@@ -2,7 +2,7 @@
 categories: Clippings
 authors: "[[Chris Doan]]"
 url: https://blog.google/products-and-platforms/products/gmail/one-stop-purchase-tracking-in-gmail/
-source: "[[2025-09-11 Introducing a new purchase tracking view and more relevant promotions in Gmail]]"
+source: "[[Archives/2025-09-11 Introducing a new purchase tracking view and more relevant promotions in Gmail|2025-09-11 Introducing a new purchase tracking view and more relevant promotions in Gmail]]"
 published: 2025-09-11
 created: 2026-03-09
 relevance: niska

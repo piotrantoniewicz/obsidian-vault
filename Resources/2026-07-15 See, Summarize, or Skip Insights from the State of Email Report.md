@@ -7,7 +7,6 @@ authors:
   - "[[Stafford Sumner]]"
   - "[[Danielle Gallant]]"
 url: https://www.validity.com/resource-center/see-summarize-or-skip-insights-from-the-state-of-email-report/
-source:
 published: 2026-07-15
 created: 2026-09-01
 relevance: średnia

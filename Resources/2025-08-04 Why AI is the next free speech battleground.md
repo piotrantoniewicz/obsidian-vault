@@ -3,7 +3,7 @@ categories: Clippings
 authors:
   - "[[Center for Humane Technology]]"
 url: https://centerforhumanetechnology.substack.com/p/why-ai-is-the-next-free-speech-battleground
-source: "[[2025-08-04 Why AI is the next free speech battleground]]"
+source: "[[Archives/2025-08-04 Why AI is the next free speech battleground|2025-08-04 Why AI is the next free speech battleground]]"
 published: 2025-08-04
 created: 2026-03-19
 relevance: wysoka

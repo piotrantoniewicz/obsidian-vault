@@ -2,7 +2,7 @@
 categories: Clippings
 authors: "[[Kevin Barenblat]]"
 url: https://aiforhumanity.ffwd.org/p/agent-of-change?utm_source=substack&utm_medium=email
-source: "[[2025-01-28 Agent of Change]]"
+source: "[[Archives/2025-01-28 Agent of Change|2025-01-28 Agent of Change]]"
 published: 2025-01-28
 created: 2026-03-03
 relevance: wysoka

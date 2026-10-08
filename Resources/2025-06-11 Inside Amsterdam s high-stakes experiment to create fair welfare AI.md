@@ -3,7 +3,7 @@ categories: Clippings
 authors:
   - "[[Eileen Guo]]"
 url: https://www.technologyreview.com/2025/06/11/1118233/amsterdam-fair-welfare-ai-discriminatory-algorithms-failure/
-source: "[[2025-06-11 Inside Amsterdam s high-stakes experiment to create fair welfare AI]]"
+source: "[[Archives/2025-06-11 Inside Amsterdam s high-stakes experiment to create fair welfare AI|2025-06-11 Inside Amsterdam s high-stakes experiment to create fair welfare AI]]"
 published: 2025-06-11
 created: 2026-03-19
 relevance: wysoka

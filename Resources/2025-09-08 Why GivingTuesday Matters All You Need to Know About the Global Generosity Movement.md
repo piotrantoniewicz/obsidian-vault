@@ -3,7 +3,7 @@ categories: Clippings
 authors:
   - "[[GivingTuesday]]"
 url: https://www.givingtuesday.org/blog/why-givingtuesday-matters/
-source: "[[2025-09-08 Why GivingTuesday Matters All You Need to Know About the Global Generosity Movement]]"
+source: "[[Archives/2025-09-08 Why GivingTuesday Matters All You Need to Know About the Global Generosity Movement|2025-09-08 Why GivingTuesday Matters All You Need to Know About the Global Generosity Movement]]"
 published: 2025-09-08
 created: 2026-03-20
 relevance: wysoka

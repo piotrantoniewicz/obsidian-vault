@@ -2,7 +2,7 @@
 categories: Clippings
 authors: "[[Jacek Siadkowski]]"
 url: https://www.fastcompany.com/91303723/from-side-project-to-core-strategy
-source: "[[2025-03-22 From side project to core strategy]]"
+source: "[[Archives/2025-03-22 From side project to core strategy|2025-03-22 From side project to core strategy]]"
 published: 2025-03-22
 created: 2026-03-10
 relevance: wysoka

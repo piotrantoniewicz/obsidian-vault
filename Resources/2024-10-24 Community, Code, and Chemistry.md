@@ -2,7 +2,7 @@
 categories: Clippings
 authors: "[[Miquel Duran-Frigola]]"
 url: https://builders.mozilla.org/community-code-and-chemistry/
-source: "[[2024-10-24 Community, Code, and Chemistry]]"
+source: "[[Archives/2024-10-24 Community, Code, and Chemistry|2024-10-24 Community, Code, and Chemistry]]"
 published: 2024-10-24
 created: 2026-03-02
 relevance: niska

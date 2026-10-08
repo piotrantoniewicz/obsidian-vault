@@ -3,7 +3,6 @@ categories: Clippings
 authors:
   - "[[Blackbaud Institute]]"
 url: https://institute.blackbaud.com/resources/givingtuesday-special-report
-source: "[[2025-10-21 GivingTuesday x Blackbaud Institute Special Report]]"
 published: 2025-10-21
 created: 2026-03-20
 relevance: wysoka

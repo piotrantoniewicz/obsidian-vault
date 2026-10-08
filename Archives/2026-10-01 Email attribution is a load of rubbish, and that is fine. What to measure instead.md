@@ -5,6 +5,8 @@ url: "https://weareastral.co.uk/thevault/email-attribution-is-garbage-and-that-i
 published: 2026-10-01
 created: 2026-10-08
 tags:
+  - "digital-campaigning"
+  - "content-marketing"
 ---
 
 

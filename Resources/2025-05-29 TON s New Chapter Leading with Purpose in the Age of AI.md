@@ -3,7 +3,7 @@ categories: Clippings
 authors:
   - "[[Tectonica Digital Campaign Solutions]]"
 url: https://www.tectonica.co/posts/leading-with-purpose-in-the-age-of-ai
-source: "[[2025-05-29 TON s New Chapter Leading with Purpose in the Age of AI]]"
+source: "[[Archives/2025-05-29 TON s New Chapter Leading with Purpose in the Age of AI|2025-05-29 TON s New Chapter Leading with Purpose in the Age of AI]]"
 published: 2025-05-29
 created: 2026-03-19
 relevance: wysoka

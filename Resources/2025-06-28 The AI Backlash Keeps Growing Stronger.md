@@ -3,7 +3,7 @@ categories: Clippings
 authors:
   - "[[Reece Rogers]]"
 url: https://www.wired.com/story/generative-ai-backlash/
-source: "[[2025-06-28 The AI Backlash Keeps Growing Stronger]]"
+source: "[[Archives/2025-06-28 The AI Backlash Keeps Growing Stronger|2025-06-28 The AI Backlash Keeps Growing Stronger]]"
 published: 2025-06-28
 created: 2026-03-19
 relevance: wysoka

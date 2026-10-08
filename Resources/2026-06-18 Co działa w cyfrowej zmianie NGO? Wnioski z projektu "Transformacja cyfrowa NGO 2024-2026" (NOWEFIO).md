@@ -3,7 +3,7 @@ categories:
   - Clippings
 authors: ["[[Karina Janus]]"]
 url: "https://www.techsoup.pl/blog/fio/co-dziala-w-cyfrowej-zmianie-ngo-wnioski-z-projektu-transformacja-cyfrowa-ngo-fio"
-source: "[[Archives/2026-06-18 Co działa w cyfrowej zmianie NGO? Wnioski z projektu \"Transformacja cyfrowa NGO 2024-2026\" (NOWEFIO)|2026-06-18 Co działa w cyfrowej zmianie NGO? Wnioski z projektu \"Transformacja cyfrowa NGO 2024-2026\" (NOWEFIO)]]"
+source: '[[Archives/2026-06-18 Co działa w cyfrowej zmianie NGO? Wnioski z projektu "Transformacja cyfrowa NGO 2024-2026" (NOWEFIO)|2026-06-18 Co działa w cyfrowej zmianie NGO? Wnioski z projektu "Transformacja cyfrowa NGO 2024-2026" (NOWEFIO)]]'
 published: 2026-06-18
 created: 2026-06-22
 relevance: wysoka

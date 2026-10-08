@@ -3,7 +3,6 @@ categories: Clippings
 authors:
   - "[[Nathan E. Sanders]]"
 url: https://time.com/7331883/how-ai-will-transform-democracy/
-source: "[[2025-11-07 How AI Will Transform Democracy]]"
 published: 2025-11-07
 created: 2026-03-20
 relevance: średnia

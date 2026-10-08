@@ -2,8 +2,8 @@
 categories:
   - Project
 status: Aktywny
-created: '2026-07-08T00:00:00.000Z'
-due: '2026-09-30T00:00:00.000Z'
+created: 2026-07-08
+due: 2026-09-30
 area: '[[Marka osobista LinkedIn]]'
 tags:
   - produkty-cyfrowe

@@ -2,7 +2,7 @@
 categories: Clippings
 authors: ["[[Michał Serwiński]]"]
 url: https://sektor3-0.pl/aktualnosci/ai-nie-zalezy-ale-ludziom-tak-festiwal-sektor-3-0-masz-wplyw-relacja/
-source: "[[Archives/2026-05-22 AI nie zależy, ale ludziom tak. Festiwal Sektor 3.0 pod hasłem „Masz Wpływ"|2026-05-22 AI nie zależy, ale ludziom tak. Festiwal Sektor 3.0 pod hasłem „Masz Wpływ"]]"
+source: '[[Archives/2026-05-22 AI nie zależy, ale ludziom tak. Festiwal Sektor 3.0 pod hasłem „Masz Wpływ”|2026-05-22 AI nie zależy, ale ludziom tak. Festiwal Sektor 3.0 pod hasłem „Masz Wpływ"]]'
 published: 2026-05-22
 created: 2026-05-29
 relevance: wysoka

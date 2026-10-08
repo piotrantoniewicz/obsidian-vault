@@ -2,7 +2,7 @@
 categories: Clippings
 authors: "[[Fast Forward – Where Tech Meets Social Impact]]"
 url: https://www.ffwd.org/blog/philanthropists-guide-to-nonprofit-ai-investments
-source: "[[2026-03-02 The Philanthropists Guide to Nonprofit AI Investments]]"
+source: "[[Archives/2026-03-02 The Philanthropists Guide to Nonprofit AI Investments|2026-03-02 The Philanthropists Guide to Nonprofit AI Investments]]"
 published: 2024-08-15
 created: 2026-03-08
 relevance: wysoka

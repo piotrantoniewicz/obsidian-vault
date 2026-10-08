@@ -2,7 +2,7 @@
 categories: Clippings
 authors: "[[Lisa Aragon]]"
 url: https://www.nonprofitautomationagency.com/podcast/how-to-turn-your-impact-statement-into-a-fundraising-offer
-source: "[[2025-12-01 How to turn your impact statement into a fundraising offer]]"
+source: "[[Archives/2025-12-01 How to turn your impact statement into a fundraising offer|2025-12-01 How to turn your impact statement into a fundraising offer]]"
 published: 2025-12-01
 created: 2026-03-04
 relevance: wysoka

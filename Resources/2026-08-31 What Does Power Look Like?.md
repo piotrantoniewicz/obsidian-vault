@@ -1,7 +1,7 @@
 ---
 categories:
   - Clippings
-authors: ["[[Mira Weinstein (she, her)]]"]
+authors: ["[[Mira Weinstein]]"]
 url: "https://organizingtowin.substack.com/p/what-does-power-look-like?utm_medium=email&_hsenc=p2ANqtz-9uX_4kldulVYr125YZmEfiB6p-yCSXpz717jJxkMX1YuNUK8KlWMdQW5LXOQbOVfC09cwfV9J1MtYFXV497A9jBGB_cPNm73SQwrS2gTijBwo4LmI&_hsmi=145268394&utm_content=145268394&utm_source=hs_email"
 source: "[[Archives/2026-08-31 What Does Power Look Like?|2026-08-31 What Does Power Look Like?]]"
 published: 2026-08-31

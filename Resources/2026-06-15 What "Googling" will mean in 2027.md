@@ -6,7 +6,7 @@ url: "https://www.mrss.com/lab/what-googling-will-mean-in-2027/"
 published: 2026-06-15
 created: 2026-06-16
 relevance: wysoka
-source: "[[Archives/2026-06-15 What "Googling" will mean in 2027|2026-06-15 What "Googling" will mean in 2027]]"
+source: '[[Archives/2026-06-15 What “Googling” will mean in 2027|2026-06-15 What "Googling" will mean in 2027]]'
 tags:
   - "digital-campaigning"
   - "strategia-AI"

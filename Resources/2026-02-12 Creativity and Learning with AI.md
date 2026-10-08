@@ -4,7 +4,7 @@ authors:
   - "[[Kristen Mack]]"
   - "[[Eric Sears]]"
 url: https://www.macfound.org/press/perspectives/creativity-and-learning-with-ai
-source: "[[2026-02-12 Creativity and Learning with AI]]"
+source: "[[Archives/2026-02-12 Creativity and Learning with AI|2026-02-12 Creativity and Learning with AI]]"
 published: 2026-02-12
 created: 2026-03-20
 relevance: wysoka

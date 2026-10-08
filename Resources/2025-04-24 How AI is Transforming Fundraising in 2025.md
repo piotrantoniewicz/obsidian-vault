@@ -2,7 +2,7 @@
 categories: Clippings
 authors: "[[Marina Moreira]]"
 url: https://www.raisely.com/blog/ai-for-nonprofits/
-source: "[[2025-04-24 How AI is Transforming Fundraising in 2025]]"
+source: "[[Archives/2025-04-24 How AI is Transforming Fundraising in 2025|2025-04-24 How AI is Transforming Fundraising in 2025]]"
 published: 2025-04-24
 created: 2026-03-11
 relevance: wysoka

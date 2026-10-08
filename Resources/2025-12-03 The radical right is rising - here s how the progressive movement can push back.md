@@ -3,7 +3,7 @@ categories: Clippings
 authors:
   - "[[Krystal]]"
 url: https://forwardaction.uk/blog/the-radical-right-is-rising-heres-how-the-progressive-movement-can-push-back/
-source: "[[2025-12-03 The radical right is rising - here s how the progressive movement can push back]]"
+source: "[[Archives/2025-12-03 The radical right is rising - here s how the progressive movement can push back|2025-12-03 The radical right is rising - here s how the progressive movement can push back]]"
 published: 2025-12-03
 created: 2026-03-19
 relevance: wysoka

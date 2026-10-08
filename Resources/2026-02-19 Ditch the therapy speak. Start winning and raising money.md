@@ -5,8 +5,7 @@ published: 2026-02-19
 created: 2026-03-18
 labels:
   - ECDA
-relevance:
-  - wysoka
+relevance: wysoka
 tags:
   - fundraising
   - digital-campaigning

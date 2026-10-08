@@ -3,7 +3,7 @@ categories: Clippings
 authors:
   - "[[Micah Sifry]]"
 url: https://theconnector.substack.com/p/in-search-of-tactics-that-win
-source: "[[2025-05-14 In Search of Tactics That Win]]"
+source: "[[Archives/2025-05-14 In Search of Tactics That Win|2025-05-14 In Search of Tactics That Win]]"
 published: 2025-05-14
 created: 2026-03-19
 relevance: średnia

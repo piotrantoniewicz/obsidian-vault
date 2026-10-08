@@ -2,7 +2,7 @@
 categories: Clippings
 authors: "[[Dickie Bush]]"
 url: https://writewithai.substack.com/p/black-friday-blitz-how-to-create
-source: "[[2023-11-12 Black Friday Blitz How To Create Your First $100,000 Digital Product]]"
+source: "[[Archives/2023-11-12 Black Friday Blitz How To Create Your First $100,000 Digital Product|2023-11-12 Black Friday Blitz How To Create Your First $100,000 Digital Product]]"
 published: 2023-11-12
 created: 2026-03-08
 relevance: średnia

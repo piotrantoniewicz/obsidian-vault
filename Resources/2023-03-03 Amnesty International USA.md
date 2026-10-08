@@ -3,7 +3,7 @@ categories: Clippings
 authors:
   - "[[Blue State]]"
 url: https://www.bluestate.co/case-studies/amnesty-international-usa/
-source: "[[2023-03-03 Amnesty International USA]]"
+source: "[[Archives/2023-03-03 Amnesty International USA|2023-03-03 Amnesty International USA]]"
 published: 2023-03-03
 created: 2026-03-18
 relevance: wysoka

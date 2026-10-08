@@ -1,13 +1,11 @@
 ---
 categories: Resources
 authors: "[[Anthropic]]"
-source: "The Founder's Playbook: Building an AI-Native Startup"
 published: 2026-05-06
 created: 2026-05-20
 relevance: wysoka
 tags:
   - strategia-AI
-  - organizacje-społeczne
   - automatyzacja
   - narzędzia-AI
 ---

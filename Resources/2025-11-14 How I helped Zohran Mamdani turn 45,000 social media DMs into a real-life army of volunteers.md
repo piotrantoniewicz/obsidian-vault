@@ -3,7 +3,6 @@ categories: Clippings
 authors:
   - "[[Gabriella Zutrau]]"
 url: https://www.fwiw.news/p/how-i-helped-zohran-mamdani-turn
-source: "[[2025-11-14 How I helped Zohran Mamdani turn 45,000 social media DMs into a real-life army of volunteers]]"
 published: 2025-11-14
 created: 2026-03-20
 relevance: wysoka

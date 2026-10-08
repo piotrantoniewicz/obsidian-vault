@@ -3,7 +3,6 @@ categories: Clippings
 authors:
   - "[[Association of Fundraising Professionals]]"
 url: https://afpglobal.org/news/fundraising-effectiveness-project-data-q2-2025-shows-increases-dollars-raised-suggesting
-source: "[[2025-10-29 Fundraising Effectiveness Project Data for Q2 2025 Shows Increases in Dollars Raised, Suggesting Potential Donor Growth Stability]]"
 published: 2025-10-29
 created: 2026-03-20
 relevance: wysoka

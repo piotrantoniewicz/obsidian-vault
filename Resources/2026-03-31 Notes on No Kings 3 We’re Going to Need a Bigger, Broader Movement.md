@@ -2,7 +2,7 @@
 categories: Clippings
 authors: ["[[Micah L. Sifry]]"]
 url: "https://theconnector.substack.com/p/notes-on-no-kings-3-were-going-to?utm_medium=email&_hsenc=p2ANqtz-87NMA_AvsB6Ghjq8v278_dA_CXBllUwnvScjHXjIdxF8SxGfKcO_iBWVbsU6oeTcRm8YOA_JqfeDDCFHEIKYe6I1UEQRNYK11dMr2N_6UyxDwcBus&_hsmi=136128316&utm_content=136128316&utm_source=hs_email"
-source: "[[Archives/2026-03-31 Notes on No Kings 3 We’re Going to Need a Bigger, Broader Movement|2026-03-31 Notes on No Kings 3 We’re Going to Need a Bigger, Broader Movement]]"
+source: "[[Archives/2026-03-31 Notes on No Kings 3 We're Going to Need a Bigger, Broader Movement|2026-03-31 Notes on No Kings 3 We’re Going to Need a Bigger, Broader Movement]]"
 published: 2026-03-31
 created: 2026-05-27
 relevance: niska

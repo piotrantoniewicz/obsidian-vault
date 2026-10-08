@@ -3,7 +3,7 @@ categories: Clippings
 authors:
   - "[[Ned Howey]]"
 url: https://substack.com/@nedhowey/p-176166086
-source: "[[2025-10-14 Image and Imagination in the Polities of AI]]"
+source: "[[Archives/2025-10-14 Image and Imagination in the Polities of AI|2025-10-14 Image and Imagination in the Polities of AI]]"
 published: 2025-10-14
 created: 2026-03-20
 relevance: średnia

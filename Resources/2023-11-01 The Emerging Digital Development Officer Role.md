@@ -3,7 +3,7 @@ categories: Clippings
 authors:
   - "[[CASE]]"
 url: https://www.case.org/resources/issues/november-december-2023/emerging-digital-development-officer-role
-source: "[[2023-11-01 The Emerging Digital Development Officer Role]]"
+source: "[[Archives/2023-11-01 The Emerging Digital Development Officer Role|2023-11-01 The Emerging Digital Development Officer Role]]"
 published: 2023-11-01
 created: 2026-03-18
 relevance: średnia

@@ -2,7 +2,7 @@
 categories: Clippings
 authors: "[[Quiller Team]]"
 url: https://medium.com/quiller-ai/introducing-quiller-by-grassroots-analytics-building-the-next-chapter-in-progressive-ai-0ba8c40a0a4b
-source: "[[2025-08-06 Introducing Quiller by Grassroots Analytics Building the Next Chapter in Progressive AI]]"
+source: "[[Archives/2025-08-06 Introducing Quiller by Grassroots Analytics Building the Next Chapter in Progressive AI|2025-08-06 Introducing Quiller by Grassroots Analytics Building the Next Chapter in Progressive AI]]"
 published: 2025-08-06
 created: 2026-03-04
 relevance: średnia

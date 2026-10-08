@@ -2,7 +2,7 @@
 categories: Clippings
 authors: "[[MarTech Edge]]"
 url: https://martechedge.com/news/nonprofits-use-aibut-only-7-see-real-impact-says-2026-benchmark-report
-source: "[[2026-02-17 Nonprofits Use AI—But Only 7% See Real Impact, Says 2026 Benchmark Report]]"
+source: "[[Archives/2026-02-17 Nonprofits Use AI—But Only 7% See Real Impact, Says 2026 Benchmark Report|2026-02-17 Nonprofits Use AI—But Only 7% See Real Impact, Says 2026 Benchmark Report]]"
 published: 2026-02-17
 created: 2026-03-03
 relevance: wysoka

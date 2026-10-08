@@ -4,7 +4,7 @@ authors:
   - "[[Anne Paschkopić]]"
   - "[[Josh VanDavier (M+R)]]"
 url: https://www.mrss.com/lab/icymi-email-deliverability-have-the-rules-changed-webinar-recording/
-source: "[[2025-06-13 ICYMI Email Deliverability Have the Rules Changed? WEBINAR RECORDING - M+R]]"
+source: "[[Archives/2025-06-13 ICYMI Email Deliverability Have the Rules Changed? WEBINAR RECORDING - M+R|2025-06-13 ICYMI Email Deliverability Have the Rules Changed? WEBINAR RECORDING - M+R]]"
 published: 2025-06-13
 created: 2026-03-04
 relevance: wysoka

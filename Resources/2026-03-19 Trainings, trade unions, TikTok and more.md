@@ -5,8 +5,7 @@ published: 2026-03-19
 created: 2026-03-19
 labels:
   - ECDA
-relevance:
-  - wysoka
+relevance: wysoka
 tags:
   - digital-campaigning
   - automatyzacja

@@ -5,7 +5,7 @@ authors:
   - "[[Allison Fine]]"
   - "[[Philip Deng]]"
 url: https://ssir.org/articles/entry/8_steps_nonprofits_can_take_to_adopt_ai_responsibly
-source: "[[2023-09-07 8 Steps Nonprofits Can Take to Adopt AI Responsibly]]"
+source: "[[Archives/2023-09-07 8 Steps Nonprofits Can Take to Adopt AI Responsibly|2023-09-07 8 Steps Nonprofits Can Take to Adopt AI Responsibly]]"
 published: 2023-09-07
 created: 2026-03-19
 relevance: wysoka

@@ -3,7 +3,7 @@ categories: Clippings
 authors:
   - "[[Higher Ground Labs]]"
 url: https://highergroundlabs.com/building-power-in-a-time-of-crisis/
-source: "[[2025-02-27 Building Power in a Time of Crisis]]"
+source: "[[Archives/2025-02-27 Building Power in a Time of Crisis|2025-02-27 Building Power in a Time of Crisis]]"
 published: 2025-02-27
 created: 2026-03-19
 relevance: wysoka

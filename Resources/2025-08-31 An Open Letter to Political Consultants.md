@@ -3,7 +3,7 @@ categories: Clippings
 authors:
   - "[[Jaime Harrison]]"
 url: https://jaimeharrison.substack.com/p/an-open-letter-to-political-consultants
-source: "[[2025-08-31 An Open Letter to Political Consultants]]"
+source: "[[Archives/2025-08-31 An Open Letter to Political Consultants|2025-08-31 An Open Letter to Political Consultants]]"
 published: 2025-08-31
 created: 2026-03-20
 relevance: średnia

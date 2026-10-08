@@ -3,7 +3,7 @@ categories: Clippings
 authors:
   - "[[GivingTuesday]]"
 url: https://www.globenewswire.com/news-release/2025/12/03/3199386/0/en/Generosity-Sweeps-the-Globe-Participation-and-Donations-Rise-on-Another-Record-Breaking-GivingTuesday.html
-source: "[[2025-12-03 Generosity Sweeps the Globe Participation and Donations Rise on Another Record-Breaking GivingTuesday]]"
+source: "[[Archives/2025-12-03 Generosity Sweeps the Globe Participation and Donations Rise on Another Record-Breaking GivingTuesday|2025-12-03 Generosity Sweeps the Globe Participation and Donations Rise on Another Record-Breaking GivingTuesday]]"
 published: 2025-12-03
 created: 2026-03-20
 relevance: wysoka

@@ -2,7 +2,7 @@
 categories: Clippings
 authors: "[[Climate Outreach]]"
 url: https://www.climatevisuals.org/climate-migration/
-source: "[[2025-03-27 Visualising climate-linked migration]]"
+source: "[[Archives/2025-03-27 Visualising climate-linked migration|2025-03-27 Visualising climate-linked migration]]"
 published: 2025-03-27
 created: 2026-03-02
 relevance: średnia

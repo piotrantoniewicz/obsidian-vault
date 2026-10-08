@@ -3,7 +3,7 @@ categories: Clippings
 authors:
   - "[[Maggie Johnson]]"
 url: https://blog.google/company-news/outreach-and-initiatives/google-org/google-nonprofits-updates-june-2025/
-source: "[[2025-06-11 Google for Nonprofits will expand to 100+ new countries and launch 10+ new no-cost AI features]]"
+source: "[[Archives/2025-06-11 Google for Nonprofits will expand to 100+ new countries and launch 10+ new no-cost AI features|2025-06-11 Google for Nonprofits will expand to 100+ new countries and launch 10+ new no-cost AI features]]"
 published: 2025-06-11
 created: 2026-03-19
 relevance: wysoka

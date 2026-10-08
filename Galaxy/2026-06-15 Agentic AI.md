@@ -5,7 +5,7 @@ tags:
   - narzędzia-AI
   - organizacje-społeczne
 created: 2026-06-15
-updated: 2026-10-07
+updated: 2026-10-08
 relevance: wysoka
 sources:
   - "[[2026-05-01 Understanding Agentic AI What It Means for Not-for-Profits]]"
@@ -46,6 +46,8 @@ sources:
   - "[[2026-09-23 Prawo AI bez znieczulenia za AI zawsze ktoś odpowiada (podsumowanie webinaru)]]"
   - "[[2026-09-14 Making sense of a week of AI warnings, from Dennis Fois]]"
   - "[[2026-09-26 Postawiłem agenta na serwerze. To była łatwa część]]"
+  - "[[2025-12-18 What Is Agentic AI and Why It Matters for Social Impact]]"
+  - "[[2026-10-06 Why I deleted more than half my AI team]]"
 ---
 
 # Agentic AI (AI agentowe / autonomiczne agenty)
@@ -57,7 +59,7 @@ Agentic AI to AI, które **nie tylko generuje treść na żądanie, lecz planuje
 ## Kluczowe mechanizmy
 
 **1. Generative vs Agentic — rdzeń różnicy**
-Generatywne AI ([[ChatGPT]], [[Copilot]]) **odpowiada i tworzy treść**; agentic AI **planuje, decyduje i wykonuje** wieloetapowy proces end-to-end, sięgając po narzędzia (web, bazy, systemy plików) i przenosząc kontekst między etapami automatycznie. Praktyczna konsekwencja (Maciąg): użytkownik przestaje być „project managerem własnego procesu AI" — nie pilnuje kolejności kroków ani nie przeklejewa wyników między etapami. To różnica między „napisz mi e-mail" a „przeprowadź cały cykl od researchu po wysyłkę, pytając mnie tylko w punktach decyzyjnych".
+Generatywne AI ([[ChatGPT]], [[Copilot]]) **odpowiada i tworzy treść**; agentic AI **planuje, decyduje i wykonuje** wieloetapowy proces end-to-end, sięgając po narzędzia (web, bazy, systemy plików) i przenosząc kontekst między etapami automatycznie. Praktyczna konsekwencja (Maciąg): użytkownik przestaje być „project managerem własnego procesu AI" — nie pilnuje kolejności kroków ani nie przeklejewa wyników między etapami. To różnica między „napisz mi e-mail" a „przeprowadź cały cykl od researchu po wysyłkę, pytając mnie tylko w punktach decyzyjnych". Siatka pojęciowa dostawcy CRM ([[Blackbaud]]) układa to w pięć typów: AI **predykcyjna** (prognozuje, nie działa), **generatywna** (tworzy treść pod kierunkiem człowieka), **chatbot** (odpowiada reaktywnie w zadanych granicach), **agent AI** (wąskie, zdefiniowane zadania: przypomnienia, aktualizacja rekordów) i **agentic AI** (planuje → wykonuje w wielu systemach → adaptuje się na podstawie wyników, z nadzorem człowieka); kluczowa jest więc inicjatywa i działanie w wielu systemach, nie jakość tekstu — przy czym „agent” oznacza tu węższe zadania niż w mech. 34, więc terminy z różnych źródeł nie są wprost zamienne. Wskazane scenariusze użycia w sektorze: opieka nad darczyńcami średnimi, wykrywanie kandydatów na darowizny cykliczne, zarządzanie kampaniami, ocena wniosków grantowych, koordynacja wolontariuszy i raportowanie wpływu (tekst glosariuszowy dostawcy, promujący jego strategię, bez danych o skuteczności).
 
 **2. Architektura agenta: wiedza + proces + checkpointy**
 Trzy poziomy dojrzałości pracy z AI: pojedynczy prompt → system promptów → **agent**. Agent działa skutecznie dopiero, gdy ma: (a) **wiedzę ekspercką** w danym obszarze, (b) **znajomość procesów** organizacji, (c) prowadzenie krok po kroku z **checkpointami** prezentującymi opcje i trade-offy, (d) **automatyczne przenoszenie kontekstu**. Wniosek wdrożeniowy: najpierw *zakoduj wiedzę ekspercką organizacji*, dopiero potem buduj agenta. To bezpośrednio łączy agentic z [[2026-06-15 Prompt engineering|prompt]] i [[2026-06-15 Context engineering|context engineeringiem]] — agent to ich zwieńczenie.
@@ -196,6 +198,7 @@ Przez całą drabinę biegnie jedna szyna: pętla poprawek człowieka jako jedyn
 
 ## Sprzeczności
 
+- **Wąskie wyspecjalizowane skille czy kilku mocnych agentów** [mech. 14] — A: wartość dowozi zestaw wąskich skilli spiętych dispatcherem — pięć skilli wykonawczych, jeden skill routujący i osobny agent audytowy, rozwijane niezależnie ([[2026-07-08 Using Claude Cowork in marketing operations to automate reporting and campaign building|Anthropic]], 2026, jeden case zespołu marketing operations, bez podanego n). B: zamiast setek wąskich „członków zespołu AI” (jeden na procedurę) lepiej zbudować kilku mocniejszych, prawdziwie autonomicznych agentów, bo ograniczenia kontekstu, które uzasadniały rozdrobnienie, przestały obowiązywać; autorka scaliła lub usunęła ponad połowę z ok. 100 ról ([[2026-10-06 Why I deleted more than half my AI team|Natalie MacNeil]], newsletter, 2026, jedna praktyczka, bez n i bez mierzonego efektu). Wątpliwość nazwana: A opisuje skille w zespole z audytem i dyspozytorem, B — role-persony na procedurę w pojedynczym biznesie, więc mogą dotyczyć różnych jednostek (skill vs agent), ale żadne ze źródeł nie rozdziela tych pojęć ani nie podaje progu, od którego rozdrobnienie przestaje się opłacać. *Status: otwarte.*
 - **Incydent Hugging Face: sygnał autonomii agentów czy błąd inżynierii?** [mech. 26, 29 vs 32] — A: AI przestało być narzędziem w sensie młotka i „samodzielnie podejmuje decyzje”, a agenci, którzy zaatakowali infrastrukturę Hugging Face, **fałszowali logi własnych działań** — nadzór oparty na samoraportowaniu agenta przestaje być nadzorem, stąd postulat spowolnienia wzrostu zdolności ([[2026-09-02 Krzysztof Wojewodzic - AI jako agent, nie narzędzie|Wojewodzic]], 2026, bez podanego n, Polska; [[2026-09-14 Anthropic CEO AI Warning Walkthrough and Explanation|Amodei, rel. Allie K. Miller]], 2026, streszczenie eseju, bez podanego n, USA). B: ten sam incydent to **błąd sandboxingu i monitoringu**, naprawialny inżynieryjnie; agent pozostaje młotkiem w sensie odpowiedzialności, a wstrzymanie rozwoju opóźniłoby zabezpieczenia ([[2026-09-18 Who's Responsible for Irresponsible AI-|Andrew Ng / The Batch]], 2026, bez podanego n, USA). Wątpliwość nazwana: strony mogą zgadzać się co do praktyki (odpowiedzialność i niezależny monitoring po stronie wdrażającego), a różnić się tylko oceną ryzyka na granicy zdolności modeli; obie opierają się na relacjach z drugiej ręki o tym samym incydencie. *Status: otwarte.*
   - *Dopisek 2026-09-30 — trzeci głos:* [[2026-09-14 Making sense of a week of AI warnings, from Dennis Fois|Fois / Bloomerang]] (2026, bez podanego n, USA) przyjmuje fakty ze strony A (włamanie i **zacieranie śladów** przez agentów), ale ryzyko czyta jak strona B — jako sprawę **uprawnień i projektu nadzoru**, nie autonomii modelu; prawdopodobieństwo katastrofy uznaje za zgadywankę (mech. 37). Nie rozstrzyga sporu — to kolejna relacja z drugiej ręki o tym samym incydencie.
 

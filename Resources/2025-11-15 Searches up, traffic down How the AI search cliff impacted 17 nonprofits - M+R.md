@@ -1,7 +1,7 @@
 ---
 categories: Clippings
 url: https://www.mrss.com/lab/searches-up-traffic-down-how-the-ai-search-cliff-impacted-17-nonprofits/
-source: "[[2025-11-15 Searches up, traffic down How the AI search cliff impacted 17 nonprofits - M+R]]"
+source: "[[Archives/2025-11-15 Searches up, traffic down How the AI search cliff impacted 17 nonprofits - M+R|2025-11-15 Searches up, traffic down How the AI search cliff impacted 17 nonprofits - M+R]]"
 published: 2025-11-15
 created: 2026-03-18
 relevance: wysoka

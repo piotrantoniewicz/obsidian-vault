@@ -2,7 +2,7 @@
 categories: Clippings
 authors: "[[Cath Everett]]"
 url: https://diginomica.com/career-coaching-farming-how-two-ngos-driving-change-agentic-ai
-source: "[[2025-03-24 From career coaching to farming - how two NGOs are driving change with agentic AI]]"
+source: "[[Archives/2025-03-24 From career coaching to farming - how two NGOs are driving change with agentic AI|2025-03-24 From career coaching to farming - how two NGOs are driving change with agentic AI]]"
 published: 2025-03-24
 created: 2026-03-03
 relevance: wysoka

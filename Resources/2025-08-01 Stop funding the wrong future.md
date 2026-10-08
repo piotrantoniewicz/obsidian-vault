@@ -2,7 +2,7 @@
 categories: Clippings
 authors: "[[Jacek Siadkowski]]"
 url: https://www.fastcompany.com/91377756/stop-funding-the-wrong-future
-source: "[[2025-08-01 Stop funding the wrong future]]"
+source: "[[Archives/2025-08-01 Stop funding the wrong future|2025-08-01 Stop funding the wrong future]]"
 published: 2025-08-01
 created: 2026-03-10
 relevance: wysoka

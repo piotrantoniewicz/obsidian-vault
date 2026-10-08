@@ -3,7 +3,7 @@ categories: Clippings
 authors:
   - "[[Teal Media]]"
 url: https://tealmedia.com/work/equimundo/
-source: "[[2025-09-03 Equimundo]]"
+source: "[[Archives/2025-09-03 Equimundo|2025-09-03 Equimundo]]"
 published: 2025-09-03
 created: 2026-03-18
 relevance: wysoka

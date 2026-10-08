@@ -2,7 +2,7 @@
 categories: Clippings
 authors: "[[Bonterra]]"
 url: https://www.bonterratech.com/blog/dont-leave-money-on-the-table-smarter-year-end-fundraising
-source: "[[2025-09-25 Don't leave money on the table Smarter year-end fundraising]]"
+source: "[[Archives/2025-09-25 Don't leave money on the table Smarter year-end fundraising|2025-09-25 Don't leave money on the table Smarter year-end fundraising]]"
 published: 2025-09-25
 created: 2026-03-09
 relevance: wysoka

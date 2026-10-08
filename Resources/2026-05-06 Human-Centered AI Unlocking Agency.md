@@ -9,7 +9,7 @@ source: >-
   Human-Centered AI Unlocking Agency]]"
 published: '2026-05-06'
 created: '2026-05-06'
-relevance: srednia
+relevance: średnia
 tags:
   - strategia-AI
   - szkolenia-AI

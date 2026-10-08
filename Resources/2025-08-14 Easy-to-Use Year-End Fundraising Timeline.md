@@ -2,7 +2,7 @@
 categories: Clippings
 authors: "[[Kara Schmid]]"
 url: https://mvpphilanthropy.com/2025/08/14/year-end-fundraising-timeline/
-source: "[[2025-08-14 Easy-to-Use Year-End Fundraising Timeline]]"
+source: "[[Archives/2025-08-14 Easy-to-Use Year-End Fundraising Timeline|2025-08-14 Easy-to-Use Year-End Fundraising Timeline]]"
 published: 2025-08-14
 created: 2026-03-04
 relevance: wysoka

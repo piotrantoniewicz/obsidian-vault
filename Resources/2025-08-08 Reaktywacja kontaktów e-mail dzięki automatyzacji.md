@@ -2,7 +2,7 @@
 categories: Clippings
 authors: "[[Ecomail.pl]]"
 url: https://ecomail.pl/blog/pl/reaktywacja-kontaktow-za-pomoca-automatyzacji-jak-obudzic-uspione-leady-i-zwiekszyc-sprzedaz/
-source: "[[2025-08-08 Reaktywacja kontaktów e-mail dzięki automatyzacji]]"
+source: "[[Archives/2025-08-08 Reaktywacja kontaktów e-mail dzięki automatyzacji|2025-08-08 Reaktywacja kontaktów e-mail dzięki automatyzacji]]"
 published: 2025-08-08
 created: 2026-03-02
 relevance: średnia

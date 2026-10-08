@@ -1,7 +1,7 @@
 ---
 categories: Clippings
 authors:
-  - "[[Gayle Roberts, CFRM]]"
+  - "[[Gayle Roberts]]"
 url: https://www.linkedin.com/pulse/beyond-prompts-how-context-engineering-could-your-ai-roberts-cfrm-fxozc/
 source: "[[Archives/2025-07-28 Beyond Prompts How Context Engineering Could Revolutionize Your Nonprofit AI Workflows|2025-07-28 Beyond Prompts How Context Engineering Could Revolutionize Your Nonprofit AI Workflows]]"
 published: 2025-07-28

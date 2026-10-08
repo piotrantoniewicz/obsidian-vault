@@ -2,7 +2,7 @@
 categories: Clippings
 authors: "[[Nicolas Cole]]"
 url: https://writewithai.substack.com/p/9-chatgpt-and-claude-writing-tips
-source: "[[2025-06-22 9 ChatGPT & Claude Writing Tips (to get CRAZY GOOD outputs)]]"
+source: "[[Archives/2025-06-22 9 ChatGPT & Claude Writing Tips (to get CRAZY GOOD outputs)|2025-06-22 9 ChatGPT & Claude Writing Tips (to get CRAZY GOOD outputs)]]"
 published: 2025-06-22
 created: 2026-03-08
 relevance: wysoka

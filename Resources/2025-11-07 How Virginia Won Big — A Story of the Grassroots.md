@@ -3,7 +3,7 @@ categories: Clippings
 authors:
   - "[[Robbin Warner]]"
 url: https://grassrootsconnector.substack.com/p/how-virginia-won-big-a-story-of-the
-source: "[[2025-11-07 How Virginia Won Big — A Story of the Grassroots]]"
+source: "[[Archives/2025-11-07 How Virginia Won Big — A Story of the Grassroots|2025-11-07 How Virginia Won Big — A Story of the Grassroots]]"
 published: 2025-11-07
 created: 2026-03-20
 relevance: średnia

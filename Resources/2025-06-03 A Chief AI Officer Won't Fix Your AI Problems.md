@@ -2,7 +2,7 @@
 categories: Clippings
 authors: "[[Rohit Choudhary]]"
 url: https://thenewstack.io/a-chief-ai-officer-wont-fix-your-ai-problems/
-source: "[[2025-06-03 A Chief AI Officer Won't Fix Your AI Problems]]"
+source: "[[Archives/2025-06-03 A Chief AI Officer Won't Fix Your AI Problems|2025-06-03 A Chief AI Officer Won't Fix Your AI Problems]]"
 published: 2025-06-03
 created: 2026-03-03
 relevance: średnia

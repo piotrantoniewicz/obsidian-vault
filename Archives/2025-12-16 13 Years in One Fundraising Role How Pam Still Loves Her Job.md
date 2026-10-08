@@ -5,6 +5,8 @@ url: "https://www.youtube.com/watch?v=SdwznP2jvfU"
 published: 2025-12-16
 created: 2026-10-06
 tags:
+  - "fundraising"
+  - "organizacje-społeczne"
 ---
 
 

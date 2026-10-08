@@ -2,7 +2,7 @@
 categories: Clippings
 authors: "[[Ryan Davis]]"
 url: https://monthindigital.substack.com/p/9-trends-driving-digital-strategy
-source: "[[2025-12-15 9 Trends Driving Digital Strategy in 2026]]"
+source: "[[Archives/2025-12-15 9 Trends Driving Digital Strategy in 2026|2025-12-15 9 Trends Driving Digital Strategy in 2026]]"
 published: 2025-12-15
 created: 2026-03-03
 relevance: wysoka

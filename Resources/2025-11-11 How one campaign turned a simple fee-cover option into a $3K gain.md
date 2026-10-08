@@ -5,7 +5,7 @@ published: 2025-11-11
 created: 2026-03-18
 labels:
   - Civic Shout
-relevance: Średnio
+relevance: średnia
 tags:
   - fundraising
   - organizacje-społeczne

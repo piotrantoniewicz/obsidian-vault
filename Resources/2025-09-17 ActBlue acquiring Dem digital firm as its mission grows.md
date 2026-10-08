@@ -3,7 +3,7 @@ categories: Clippings
 authors:
   - "[[Jessica Piper]]"
 url: https://www.politico.com/news/2025/09/17/actblue-impactive-acquisition-fundraising-campaigns-00567356
-source: "[[2025-09-17 ActBlue acquiring Dem digital firm as its mission grows]]"
+source: "[[Archives/2025-09-17 ActBlue acquiring Dem digital firm as its mission grows|2025-09-17 ActBlue acquiring Dem digital firm as its mission grows]]"
 published: 2025-09-17
 created: 2026-03-20
 relevance: średnia

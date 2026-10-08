@@ -28,8 +28,8 @@ Przykłady (profil: konsultant/trener organizacji społecznych — AI, fundraisi
 
 ```yaml
 ---
-type: project
-status: aktywny | wstrzymany | zakończony
+categories: Project
+status: Aktywny | Wstrzymany | Zakończony
 created: YYYY-MM-DD
 due: YYYY-MM-DD
 area: "[[Areas/Nazwa obszaru]]"
@@ -45,8 +45,8 @@ Sekcje: cel i definicja sukcesu (1–2 zdania) → kolejne kroki / zadania → p
 
 ```yaml
 ---
-type: area
-status: aktywny
+categories: Area
+status: Aktywny
 created: YYYY-MM-DD
 updated: YYYY-MM-DD
 tags:

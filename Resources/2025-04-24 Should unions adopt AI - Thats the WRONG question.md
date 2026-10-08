@@ -3,7 +3,7 @@ categories: Clippings
 authors:
   - "[[Nick Scott]]"
 url: https://www.agileunions.ai/p/interview-unionbase-engage-adopt-ai-unions
-source: "[[2025-04-24 Should unions adopt AI - Thats the WRONG question]]"
+source: "[[Archives/2025-04-24 Should unions adopt AI - Thats the WRONG question|2025-04-24 Should unions adopt AI - Thats the WRONG question]]"
 published: 2025-04-24
 created: 2026-03-19
 relevance: wysoka

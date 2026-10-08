@@ -3,7 +3,7 @@ categories: Clippings
 authors:
   - "[[Aisha Down]]"
 url: https://www.theguardian.com/global-development/2025/oct/20/ai-generated-poverty-porn-fake-images-being-used-by-aid-agencies
-source: "[[2025-10-20 AI-generated poverty porn fake images being used by aid agencies]]"
+source: "[[Archives/2025-10-20 AI-generated poverty porn fake images being used by aid agencies|2025-10-20 AI-generated poverty porn fake images being used by aid agencies]]"
 published: 2025-10-20
 created: 2026-03-20
 relevance: wysoka

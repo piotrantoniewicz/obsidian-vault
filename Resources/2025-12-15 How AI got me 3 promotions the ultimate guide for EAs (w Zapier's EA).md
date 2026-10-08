@@ -2,7 +2,7 @@
 categories: Clippings
 authors: ["[[How I AI]]"]
 url: https://www.youtube.com/watch?v=SXCtQnJE8_I
-source: "[[Archives/2025-12-15 How AI got me 3 promotions the ultimate guide for EAs (w Zapier's EA)|2025-12-15 How AI got me 3 promotions the ultimate guide for EAs (w Zapier's EA)]]"
+source: "[[Archives/2025-12-15 How AI got me 3 promotions the ultimate guide for EAs (w Zapier’s EA)|2025-12-15 How AI got me 3 promotions the ultimate guide for EAs (w Zapier's EA)]]"
 published: 2025-12-15
 created: 2026-05-12
 relevance: średnia

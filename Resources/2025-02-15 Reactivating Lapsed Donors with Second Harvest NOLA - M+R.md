@@ -2,7 +2,7 @@
 categories: Clippings
 authors: "[[M+R]]"
 url: https://www.mrss.com/what-we-do/case-studies/reactivating-lapsed-donors-with-second-harvest-nola/
-source: "[[2025-02-15 Reactivating Lapsed Donors with Second Harvest NOLA - M+R]]"
+source: "[[Archives/2025-02-15 Reactivating Lapsed Donors with Second Harvest NOLA - M+R|2025-02-15 Reactivating Lapsed Donors with Second Harvest NOLA - M+R]]"
 published: 2025-02-15
 created: 2026-03-04
 relevance: wysoka

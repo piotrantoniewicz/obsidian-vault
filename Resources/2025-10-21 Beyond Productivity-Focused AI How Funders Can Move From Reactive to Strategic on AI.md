@@ -3,7 +3,6 @@ categories: Clippings
 authors:
   - "[[Albert Chen]]"
 url: https://cep.org/blog/beyond-productivity-focused-ai-how-funders-can-move-from-reactive-to-strategic-on-ai/
-source: "[[2025-10-21 Beyond Productivity-Focused AI How Funders Can Move From Reactive to Strategic on AI]]"
 published: 2025-10-21
 created: 2026-03-20
 relevance: wysoka

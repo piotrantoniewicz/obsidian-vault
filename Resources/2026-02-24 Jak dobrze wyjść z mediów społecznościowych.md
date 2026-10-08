@@ -8,7 +8,7 @@ source: >-
   Jak dobrze wyjść z mediów społecznościowych]]
 published: '2026-02-24'
 created: '2026-03-24'
-relevance: Średnia
+relevance: średnia
 tags:
   - digital-campaigning
   - organizacje-społeczne

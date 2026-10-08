@@ -3,7 +3,7 @@ categories: Clippings
 authors:
   - "[[Bonterra]]"
 url: https://www.bonterratech.com/blog/strengthening-nonprofit-digital-presence-for-year-end
-source: "[[2025-10-30 Reclaiming trust How nonprofits can strengthen their digital presence before year-end]]"
+source: "[[Archives/2025-10-30 Reclaiming trust How nonprofits can strengthen their digital presence before year-end|2025-10-30 Reclaiming trust How nonprofits can strengthen their digital presence before year-end]]"
 published: 2025-10-30
 created: 2026-03-18
 relevance: wysoka

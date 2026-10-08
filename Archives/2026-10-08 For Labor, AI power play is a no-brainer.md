@@ -5,6 +5,8 @@ url: "https://www.linkedin.com/pulse/labor-ai-power-play-no-brainer-jack-milroy-
 published: 2026-10-08
 created: 2026-10-08
 tags:
+  - "trendy-AI"
+  - "strategia-organizacji"
 ---
 
 

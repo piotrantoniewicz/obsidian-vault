@@ -2,7 +2,7 @@
 categories: Clippings
 authors: "[[Garima Verma]]"
 url: https://www.fwiw.news/p/fail-to-win
-source: "[[2025-09-12 Fail to Win]]"
+source: "[[Archives/2025-09-12 Fail to Win|2025-09-12 Fail to Win]]"
 published: 2025-09-12
 created: 2026-03-03
 relevance: wysoka

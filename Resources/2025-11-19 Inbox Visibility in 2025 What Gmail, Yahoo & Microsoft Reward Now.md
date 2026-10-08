@@ -3,7 +3,7 @@ categories: Clippings
 authors:
   - "[[Lauren Meyer]]"
 url: https://send-it-right.com/blog/inbox-visibility-guide-2025
-source: "[[2025-11-19 Inbox Visibility in 2025 What Gmail, Yahoo & Microsoft Reward Now]]"
+source: "[[Archives/2025-11-19 Inbox Visibility in 2025 What Gmail, Yahoo & Microsoft Reward Now|2025-11-19 Inbox Visibility in 2025 What Gmail, Yahoo & Microsoft Reward Now]]"
 published: 2025-11-19
 created: 2026-03-18
 relevance: średnia

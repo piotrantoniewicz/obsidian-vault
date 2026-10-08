@@ -2,7 +2,7 @@
 categories: Clippings
 authors: "[[Sean Hale]]"
 url: https://thenonprofithive.com/nonprofit-financial-blind-spots/
-source: "[[2025-11-25 Nonprofit Financial Blind Spots 7 Risks to Avoid]]"
+source: "[[Archives/2025-11-25 Nonprofit Financial Blind Spots 7 Risks to Avoid|2025-11-25 Nonprofit Financial Blind Spots 7 Risks to Avoid]]"
 published: 2025-11-25
 created: 2026-03-04
 relevance: wysoka

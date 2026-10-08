@@ -3,7 +3,7 @@ categories:
   - Clippings
 authors: ["[[Laura Paddison]]"]
 url: "https://edition.cnn.com/2026/03/30/climate/data-centers-are-having-an-underrported?Date=20260330&Profile=cnn&utm_content=1774893115&utm_medium=social&utm_source=threads&fbclid=IwdGRleAQ5C0lleHRuA2FlbQIxMQBzcnRjBmFwcF9pZAo2NjI4NTY4Mzc5AAEeNQXRmfNzwFIyzwur4VKkiCiWAxtWjwRF5vx5DPQQ1qDrCSQ40vw7fpsy6U8_aem_tNv02JvFG1iekXSmjw8NDA"
-source: "[[Archives/2026-03-30 Data centers are creating 'heat islands' and warming the land around them by up to 16 degrees|2026-03-30 Data centers are creating 'heat islands' and warming the land around them by up to 16 degrees]]"
+source: "[[Archives/2026-03-30 Data centers are creating ‘heat islands’ and warming the land around them by up to 16 degrees|2026-03-30 Data centers are creating 'heat islands' and warming the land around them by up to 16 degrees]]"
 published: 2026-03-30
 created: 2026-06-17
 relevance: niska

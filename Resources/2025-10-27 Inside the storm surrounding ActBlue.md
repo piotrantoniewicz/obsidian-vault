@@ -3,7 +3,7 @@ categories: Clippings
 authors:
   - "[[Issie Lapowsky]]"
 url: https://www.fastcompany.com/91428737/inside-actblue-crisis
-source: "[[2025-10-27 Inside the storm surrounding ActBlue]]"
+source: "[[Archives/2025-10-27 Inside the storm surrounding ActBlue|2025-10-27 Inside the storm surrounding ActBlue]]"
 published: 2025-10-27
 created: 2026-03-18
 relevance: niska

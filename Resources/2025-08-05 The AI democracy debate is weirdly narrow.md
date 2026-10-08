@@ -3,7 +3,7 @@ categories: Clippings
 authors:
   - "[[Henry Farrell]]"
 url: https://www.programmablemutter.com/p/the-ai-democracy-debate-is-weirdly
-source: "[[2025-08-05 The AI democracy debate is weirdly narrow]]"
+source: "[[Archives/2025-08-05 The AI democracy debate is weirdly narrow|2025-08-05 The AI democracy debate is weirdly narrow]]"
 published: 2025-08-05
 created: 2026-03-19
 relevance: średnia

@@ -10,7 +10,7 @@ source: >-
   prime minister on Discord]]
 published: '2025-09-15'
 created: '2026-03-26'
-relevance: Średnio
+relevance: średnia
 tags:
   - digital-campaigning
   - organizacje-społeczne

@@ -3,7 +3,7 @@ categories:
   - Clippings
 authors: ["[[Marcin Wilkowski]]"]
 url: "https://blog.humanistyka.dev/2025/07/nasi-chlopcy-i-niemozliwosc-historii-maszynowej"
-source: "[[Archives/2025-07-27 \"Nasi chłopcy\" i niemożliwość historii maszynowej|2025-07-27 \"Nasi chłopcy\" i niemożliwość historii maszynowej]]"
+source: '[[Archives/2025-07-27 "Nasi chłopcy" i niemożliwość historii maszynowej|2025-07-27 "Nasi chłopcy" i niemożliwość historii maszynowej]]'
 published: 2025-07-27
 created: 2026-06-14
 relevance: średnia

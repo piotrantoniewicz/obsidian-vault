@@ -2,7 +2,7 @@
 categories: Clippings
 authors: "[[Karolina Pacoń]]"
 url: https://pomagam.pl/blog/psychologia-w-fundraisingu
-source: "[[2025-09-29 Psychologia w Fundraisingu 7 Sprawdzonych Metod dla NGO]]"
+source: "[[Archives/2025-09-29 Psychologia w Fundraisingu 7 Sprawdzonych Metod dla NGO|2025-09-29 Psychologia w Fundraisingu 7 Sprawdzonych Metod dla NGO]]"
 published: 2025-09-29
 created: 2026-03-04
 relevance: wysoka

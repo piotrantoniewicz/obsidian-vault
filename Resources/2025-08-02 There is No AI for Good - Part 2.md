@@ -3,7 +3,7 @@ categories: Clippings
 authors:
   - "[[Tracy Kronzak]]"
 url: https://www.linkedin.com/pulse/ai-good-part-2-rev-tracy-kronzak-mpa--va6uc/
-source: "[[2025-08-02 There is No AI for Good - Part 2]]"
+source: "[[Archives/2025-08-02 There is No AI for Good - Part 2|2025-08-02 There is No AI for Good - Part 2]]"
 published: 2025-08-02
 created: 2026-03-19
 relevance: średnia

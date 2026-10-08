@@ -3,7 +3,7 @@ categories: Clippings
 authors:
   - "[[Engaging Networks]]"
 url: https://www.engagingnetworks.net/blog/nonprofit-fundraising-guide-9-proven-online-fundraising-strategies-for-sustainable-growth/
-source: "[[2025-09-16 The Ultimate Fundraising Strategy Guide for 2026]]"
+source: "[[Archives/2025-09-16 The Ultimate Fundraising Strategy Guide for 2026|2025-09-16 The Ultimate Fundraising Strategy Guide for 2026]]"
 published: 2025-09-16
 created: 2026-03-18
 relevance: wysoka

@@ -5,6 +5,8 @@ url: "https://aileaders.pl/asystent-tak-sedzia-nie-co-mowia-o-ai-dwa-nowe-raport
 published: 2026-10-07
 created: 2026-10-07
 tags:
+  - "strategia-AI"
+  - "trendy-AI"
 ---
 
 

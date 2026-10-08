@@ -2,7 +2,7 @@
 categories: Clippings
 authors: "[[Tasha Van Vlack]]"
 url: https://thenonprofithive.com/nonprofit-crisis-of-depth/
-source: "[[2025-09-20 Nonprofit Crisis of Depth Connection Over Giving]]"
+source: "[[Archives/2025-09-20 Nonprofit Crisis of Depth Connection Over Giving|2025-09-20 Nonprofit Crisis of Depth Connection Over Giving]]"
 published: 2025-09-20
 created: 2026-03-04
 relevance: wysoka

@@ -10,7 +10,7 @@ source: >-
   obserwacjach. Jak czytać raporty i wyciągać z nich jak najwięcej]]
 published: '2025-01-31'
 created: '2026-03-24'
-relevance: Średnia
+relevance: średnia
 tags:
   - strategia-organizacji
   - trendy-AI

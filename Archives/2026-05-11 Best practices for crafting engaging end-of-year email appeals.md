@@ -5,6 +5,9 @@ url: "https://www.donordock.com/articles/end-of-year-email-appeal-create-an-emai
 published: 2026-05-11
 created: 2026-10-06
 tags:
+  - "fundraising"
+  - "digital-campaigning"
+  - "content-marketing"
 ---
 
 

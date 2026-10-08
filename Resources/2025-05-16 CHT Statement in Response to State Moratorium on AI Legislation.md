@@ -3,7 +3,7 @@ categories: Clippings
 authors:
   - "[[Center for Humane Technology]]"
 url: https://centerforhumanetechnology.substack.com/p/cht-statement-in-response-to-state
-source: "[[2025-05-16 CHT Statement in Response to State Moratorium on AI Legislation]]"
+source: "[[Archives/2025-05-16 CHT Statement in Response to State Moratorium on AI Legislation|2025-05-16 CHT Statement in Response to State Moratorium on AI Legislation]]"
 published: 2025-05-16
 created: 2026-03-19
 relevance: niska

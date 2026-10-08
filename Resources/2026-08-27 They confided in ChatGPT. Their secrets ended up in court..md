@@ -3,7 +3,7 @@ categories:
   - Clippings
 authors: ["[[Miriam Waldvogel]]", "[[Gerrit De Vynck]]"]
 url: "https://www.washingtonpost.com/technology/2026/08/27/chatgpt-chats-are-being-swept-into-civil-criminal-court-cases/"
-source: "[[Archives/2026-08-27 They confided in ChatGPT. Their secrets ended up in court..|2026-08-27 They confided in ChatGPT. Their secrets ended up in court..]]"
+source: "[[Archives/2026-08-27 They confided in ChatGPT. Their secrets ended up in court.|2026-08-27 They confided in ChatGPT. Their secrets ended up in court..]]"
 published: 2026-08-27
 created: 2026-08-28
 relevance: wysoka

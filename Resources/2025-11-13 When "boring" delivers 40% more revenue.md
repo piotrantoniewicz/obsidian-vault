@@ -2,7 +2,7 @@
 categories: Clippings
 authors: ["[[Sara Cederberg]]"]
 url: "https://www.civicshoutnewsletter.com/p/when-boring-delivers-40-more-revenue"
-source: "[[Archives/2025-11-13 When \"boring\" delivers 40% more revenue|2025-11-13 When \"boring\" delivers 40% more revenue]]"
+source: '[[Archives/2025-11-13 When "boring" delivers 40% more revenue|2025-11-13 When "boring" delivers 40% more revenue]]'
 published: 2025-11-13
 created: 2026-05-19
 relevance: wysoka

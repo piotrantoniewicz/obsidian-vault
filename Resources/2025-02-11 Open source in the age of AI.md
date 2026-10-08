@@ -6,7 +6,7 @@ authors:
   - "[[Brittany Presten]]"
   - "[[Katherine Ottenbreit]]"
 url: https://www.mckinsey.com/capabilities/tech-and-ai/our-insights/tech-forward/open-source-in-the-age-of-ai
-source: "[[2025-02-11 Open source in the age of AI]]"
+source: "[[Archives/2025-02-11 Open source in the age of AI|2025-02-11 Open source in the age of AI]]"
 published: 2025-02-11
 created: 2026-03-04
 relevance: średnia

@@ -3,7 +3,7 @@ categories: Clippings
 authors:
   - "[[Julien Vincent]]"
 url: https://ahns.substack.com/p/positive-v-negative-campaign-strategy
-source: "[[2025-06-24 Positive v Negative campaign strategy]]"
+source: "[[Archives/2025-06-24 Positive v Negative campaign strategy|2025-06-24 Positive v Negative campaign strategy]]"
 published: 2025-06-24
 created: 2026-03-19
 relevance: wysoka

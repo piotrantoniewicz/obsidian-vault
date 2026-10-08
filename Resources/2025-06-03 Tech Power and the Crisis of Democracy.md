@@ -4,7 +4,7 @@ authors:
   - "[[Jacob Metcalf]]"
   - "[[Meg Young]]"
 url: https://www.techpolicy.press/tech-power-and-the-crisis-of-democracy/
-source: "[[2025-06-03 Tech Power and the Crisis of Democracy]]"
+source: "[[Archives/2025-06-03 Tech Power and the Crisis of Democracy|2025-06-03 Tech Power and the Crisis of Democracy]]"
 published: 2025-06-03
 created: 2026-03-19
 relevance: średnia

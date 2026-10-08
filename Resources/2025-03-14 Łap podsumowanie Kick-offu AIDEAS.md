@@ -9,7 +9,6 @@ relevance: średnia
 tags:
   - szkolenia-AI
   - narzędzia-AI
-topics: null
 ---
 # Łap podsumowanie Kick-offu AIDEAS
 

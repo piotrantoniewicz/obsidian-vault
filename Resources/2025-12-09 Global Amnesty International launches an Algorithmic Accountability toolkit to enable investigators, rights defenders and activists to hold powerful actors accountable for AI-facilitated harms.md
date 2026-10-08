@@ -3,7 +3,7 @@ categories: Clippings
 authors:
   - "[[Amnesty International]]"
 url: https://www.amnesty.org/en/latest/news/2025/12/global-amnesty-international-launches-an-algorithmic-accountability-toolkit-to-enable-investigators-rights-defenders-and-activists-to-hold-powerfu/
-source: "[[2025-12-09 Global Amnesty International launches an Algorithmic Accountability toolkit to enable investigators, rights defenders and activists to hold powerful actors accountable for AI-facilitated harms]]"
+source: "[[Archives/2025-12-09 Global Amnesty International launches an Algorithmic Accountability toolkit to enable investigators, rights defenders and activists to hold powerful actors accountable for AI-facilitated harms|2025-12-09 Global Amnesty International launches an Algorithmic Accountability toolkit to enable investigators, rights defenders and activists to hold powerful actors accountable for AI-facilitated harms]]"
 published: 2025-12-09
 created: 2026-03-20
 relevance: wysoka

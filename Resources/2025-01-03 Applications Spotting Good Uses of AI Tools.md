@@ -2,7 +2,7 @@
 categories: Clippings
 authors: "[[Joshua Essex]]"
 url: https://technicallyoptimistic.substack.com/p/applications-spotting-good-uses-of
-source: "[[2025-01-03 Applications Spotting Good Uses of AI Tools]]"
+source: "[[Archives/2025-01-03 Applications Spotting Good Uses of AI Tools|2025-01-03 Applications Spotting Good Uses of AI Tools]]"
 published: 2025-01-03
 created: 2026-03-04
 relevance: wysoka

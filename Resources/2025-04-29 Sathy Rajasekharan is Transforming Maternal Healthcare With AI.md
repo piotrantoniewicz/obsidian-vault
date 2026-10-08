@@ -2,7 +2,7 @@
 categories: Clippings
 authors: "[[Patrick J. McGovern Foundation]]"
 url: https://www.ffwd.org/blog/sathy-rajasekharan-is-transforming-maternal-health-care-with-ai
-source: "[[2026-03-02 Sathy Rajasekharan is Transforming Maternal Healthcare With AI]]"
+source: "[[Archives/2026-03-02 Sathy Rajasekharan is Transforming Maternal Healthcare With AI|2026-03-02 Sathy Rajasekharan is Transforming Maternal Healthcare With AI]]"
 published: 2025-04-29
 created: 2026-03-02
 relevance: średnia

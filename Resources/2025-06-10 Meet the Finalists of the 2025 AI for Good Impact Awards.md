@@ -2,7 +2,7 @@
 categories: Clippings
 authors: "[[AI for Good]]"
 url: https://www.linkedin.com/pulse/meet-finalists-2025-ai-good-impact-awards-ixlre/
-source: "[[2025-06-10 Meet the Finalists of the 2025 AI for Good Impact Awards]]"
+source: "[[Archives/2025-06-10 Meet the Finalists of the 2025 AI for Good Impact Awards|2025-06-10 Meet the Finalists of the 2025 AI for Good Impact Awards]]"
 published: 2025-06-10
 created: 2026-03-03
 relevance: średnia

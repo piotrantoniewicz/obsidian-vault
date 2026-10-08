@@ -3,7 +3,7 @@ categories: Clippings
 authors:
   - "[[The Democracy Labs]]"
 url: https://thedemlabs.org/2025/05/31/how-to-create-videos-with-google-veo-3-ai-video-generator/
-source: "[[2025-05-31 How to create videos with Google Veo 3 AI video generator]]"
+source: "[[Archives/2025-05-31 How to create videos with Google Veo 3 AI video generator|2025-05-31 How to create videos with Google Veo 3 AI video generator]]"
 published: 2025-05-31
 created: 2026-03-19
 relevance: średnia

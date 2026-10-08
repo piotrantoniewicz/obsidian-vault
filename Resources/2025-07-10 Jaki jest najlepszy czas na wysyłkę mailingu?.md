@@ -2,7 +2,7 @@
 categories: Clippings
 authors: "[[Ecomail.pl]]"
 url: https://ecomail.pl/blog/pl/jaki-jest-najlepszy-czas-na-wysylke-kampanii-mailingowej-i-co-na-ten-temat-mowia-dane/
-source: "[[2025-07-10 Jaki jest najlepszy czas na wysyłkę mailingu?]]"
+source: "[[Archives/2025-07-10 Jaki jest najlepszy czas na wysyłkę mailingu?|2025-07-10 Jaki jest najlepszy czas na wysyłkę mailingu?]]"
 published: 2025-07-10
 created: 2026-03-02
 relevance: wysoka

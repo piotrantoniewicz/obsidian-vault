@@ -2,7 +2,7 @@
 categories: Clippings
 authors: "[[Harry Booth]]"
 url: https://time.com/7290554/yoshua-bengio-launches-lawzero-for-safer-ai/
-source: "[[2025-06-03 The Most-Cited Computer Scientist Plans to Make AI More Trustworthy]]"
+source: "[[Archives/2025-06-03 The Most-Cited Computer Scientist Plans to Make AI More Trustworthy|2025-06-03 The Most-Cited Computer Scientist Plans to Make AI More Trustworthy]]"
 published: 2025-06-03
 created: 2026-03-02
 relevance: średnia

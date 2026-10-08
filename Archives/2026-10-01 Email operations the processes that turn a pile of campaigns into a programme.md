@@ -5,6 +5,8 @@ url: "https://weareastral.co.uk/thevault/email-operations-the-processes-that-tur
 published: 2026-10-01
 created: 2026-10-08
 tags:
+  - "digital-campaigning"
+  - "strategia-organizacji"
 ---
 
 

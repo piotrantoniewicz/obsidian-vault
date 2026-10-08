@@ -3,7 +3,7 @@ categories: Clippings
 authors:
   - "[[Center for Humane Technology]]"
 url: https://centerforhumanetechnology.substack.com/p/chts-2026-policy-forecast
-source: "[[2026-02-18 CHT s 2026 Policy Forecast]]"
+source: "[[Archives/2026-02-18 CHT s 2026 Policy Forecast|2026-02-18 CHT s 2026 Policy Forecast]]"
 published: 2026-02-18
 created: 2026-03-20
 relevance: średnia

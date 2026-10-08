@@ -2,7 +2,7 @@
 categories: Clippings
 authors: '[[Addison Y. Liu]]'
 url: https://www.thecrimson.com/article/2025/11/9/ganz-advising-mamdani/
-source: "[[2025-11-08 HKS Lecturer Advised Zohran Mamdani on Sustaining Momentum, Avoiding the Obama Trap]]"
+source: "[[Archives/2025-11-08 HKS Lecturer Advised Zohran Mamdani on Sustaining Momentum, Avoiding the Obama Trap|2025-11-08 HKS Lecturer Advised Zohran Mamdani on Sustaining Momentum, Avoiding the Obama Trap]]"
 published: 2025-11-08
 created: 2026-03-20
 relevance: wysoka

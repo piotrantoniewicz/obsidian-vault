@@ -2,7 +2,7 @@
 categories: Clippings
 authors: "[[Aakash Gupta]]"
 url: https://www.news.aakashg.com/p/context-engineering
-source: "[[2025-11-26 The Ultimate Guide to Context Engineering for PMs]]"
+source: "[[Archives/2025-11-26 The Ultimate Guide to Context Engineering for PMs|2025-11-26 The Ultimate Guide to Context Engineering for PMs]]"
 published: 2025-11-26
 created: 2026-03-03
 relevance: wysoka

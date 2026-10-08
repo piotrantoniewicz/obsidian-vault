@@ -3,7 +3,6 @@ categories: Clippings
 authors:
   - "[[Sara Cederberg]]"
 url: https://www.civicshoutnewsletter.com/p/how-audubon-raised-71-more
-source: "[[2025-09-23 How Audubon raised 71% more]]"
 published: 2025-09-23
 created: 2026-03-20
 relevance: wysoka

@@ -3,7 +3,7 @@ categories: Clippings
 authors:
   - "[[web4agoodcause]]"
 url: https://4agoodcause.com/the-importance-of-donor-retention-how-to-calculate-and-track/
-source: "[[2025-11-03 Donor Retention Rate Current Benchmarks, How to Calculate + Improve]]"
+source: "[[Archives/2025-11-03 Donor Retention Rate Current Benchmarks, How to Calculate + Improve|2025-11-03 Donor Retention Rate Current Benchmarks, How to Calculate + Improve]]"
 published: 2025-11-03
 created: 2026-03-20
 relevance: wysoka

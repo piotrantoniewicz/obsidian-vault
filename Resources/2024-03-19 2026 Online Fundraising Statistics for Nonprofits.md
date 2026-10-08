@@ -2,7 +2,7 @@
 categories: Clippings
 authors: "[[Heather Mansfield]]"
 url: https://www.nptechforgood.com/101-best-practices/online-fundraising-statistics-for-nonprofits/
-source: "[[2024-03-19 2026 Online Fundraising Statistics for Nonprofits]]"
+source: "[[Archives/2024-03-19 2026 Online Fundraising Statistics for Nonprofits|2024-03-19 2026 Online Fundraising Statistics for Nonprofits]]"
 published: 2024-03-19
 created: 2026-03-04
 relevance: wysoka

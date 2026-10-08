@@ -2,7 +2,7 @@
 categories: Clippings
 authors: ["[[M+R]]"]
 url: "https://www.mrss.com/lab/paid-search-in-2026-diversify-or-decay/"
-source: "[[Archives/2026-06-09 Google's new AI + paid search Diversify or decay (UPDATED)|2026-06-09 Google's new AI + paid search Diversify or decay (UPDATED)]]"
+source: "[[Archives/2026-06-09 Google’s new AI + paid search Diversify or decay (UPDATED)|2026-06-09 Google's new AI + paid search Diversify or decay (UPDATED)]]"
 published: 2026-06-09
 created: 2026-06-10
 relevance: wysoka

@@ -2,7 +2,7 @@
 categories: Clippings
 authors: "[[Sara Herschander]]"
 url: https://www.philanthropy.com/news/how-philanthropy-built-lost-and-could-reclaim-the-a-i-race/
-source: "[[2025-02-11 How Philanthropy Built, Lost, and Could Reclaim the A.I. Race]]"
+source: "[[Archives/2025-02-11 How Philanthropy Built, Lost, and Could Reclaim the A.I. Race|2025-02-11 How Philanthropy Built, Lost, and Could Reclaim the A.I. Race]]"
 published: 2025-02-11
 created: 2026-03-03
 relevance: wysoka

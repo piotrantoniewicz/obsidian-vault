@@ -3,7 +3,7 @@ categories: Clippings
 authors:
   - "[[Colin Delany]]"
 url: https://epolitics.substack.com/p/the-end-of-political-advocacy
-source: "[[2025-02-21 The End of Political Advocacy]]"
+source: "[[Archives/2025-02-21 The End of Political Advocacy|2025-02-21 The End of Political Advocacy]]"
 published: 2025-02-21
 created: 2026-03-19
 relevance: średnia

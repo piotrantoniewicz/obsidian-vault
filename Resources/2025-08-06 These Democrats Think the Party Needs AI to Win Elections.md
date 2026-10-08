@@ -3,7 +3,7 @@ categories: Clippings
 authors:
   - "[[Makena Kelly]]"
 url: https://www.wired.com/story/democrats-midterm-elections-ai/
-source: "[[2025-08-06 These Democrats Think the Party Needs AI to Win Elections]]"
+source: "[[Archives/2025-08-06 These Democrats Think the Party Needs AI to Win Elections|2025-08-06 These Democrats Think the Party Needs AI to Win Elections]]"
 published: 2025-08-06
 created: 2026-03-19
 relevance: wysoka

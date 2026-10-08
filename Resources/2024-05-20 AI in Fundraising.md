@@ -2,7 +2,7 @@
 categories: Clippings
 authors: "[[CCS Fundraising]]"
 url: https://www.ccsfundraising.com/insights/ai-in-fundraising/
-source: "[[2024-05-20 AI in Fundraising]]"
+source: "[[Archives/2024-05-20 AI in Fundraising|2024-05-20 AI in Fundraising]]"
 published: 2024-05-20
 created: 2026-03-11
 relevance: wysoka

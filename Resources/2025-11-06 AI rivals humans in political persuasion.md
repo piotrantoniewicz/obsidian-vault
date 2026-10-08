@@ -3,7 +3,7 @@ categories: Clippings
 authors:
   - "[[Stanford University]]"
 url: https://news.stanford.edu/stories/2025/11/ai-generated-political-messages-persuasion-research
-source: "[[2025-11-06 AI rivals humans in political persuasion]]"
+source: "[[Archives/2025-11-06 AI rivals humans in political persuasion|2025-11-06 AI rivals humans in political persuasion]]"
 published: 2025-11-06
 created: 2026-03-20
 relevance: wysoka

@@ -3,7 +3,6 @@ categories: Clippings
 authors:
   - "[[Higher Ground Institute]]"
 url: https://highergroundlabs.com/progressive-crm-guide/
-source: "[[2025-12-03 Progressive CRM Guide by Higher Ground Institute]]"
 published: 2025-12-03
 created: 2026-03-20
 relevance: średnia

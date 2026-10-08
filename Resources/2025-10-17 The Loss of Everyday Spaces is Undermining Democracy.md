@@ -3,7 +3,7 @@ categories: Clippings
 authors:
   - "[[Sarah Stamper]]"
 url: https://www.fwiw.news/p/the-loss-of-everyday-spaces-is-undermining
-source: "[[2025-10-17 The Loss of Everyday Spaces is Undermining Democracy]]"
+source: "[[Archives/2025-10-17 The Loss of Everyday Spaces is Undermining Democracy|2025-10-17 The Loss of Everyday Spaces is Undermining Democracy]]"
 published: 2025-10-17
 created: 2026-03-20
 relevance: średnia

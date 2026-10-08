@@ -4,7 +4,6 @@ authors:
   - "[[David Autor]]"
   - "[[James Manyika]]"
 url: https://www.theatlantic.com/technology/archive/2025/08/ai-job-loss-human-enhancement-google/683963/
-source: "[[2025-08-24 A Better Way to Think About AI]]"
 published: 2025-08-24
 created: 2026-03-20
 relevance: wysoka

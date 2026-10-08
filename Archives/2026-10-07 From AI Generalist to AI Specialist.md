@@ -5,6 +5,9 @@ url: "https://www.linkedin.com/pulse/from-ai-generalist-specialist-bryan-neider-
 published: 2026-10-07
 created: 2026-10-07
 tags:
+  - "strategia-AI"
+  - "organizacje-społeczne"
+  - "context-engineering"
 ---
 
 

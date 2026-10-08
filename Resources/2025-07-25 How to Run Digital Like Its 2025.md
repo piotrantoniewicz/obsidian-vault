@@ -2,7 +2,7 @@
 categories: Clippings
 authors: "[[Patrick Stevenson]]"
 url: https://www.fwiw.news/p/how-to-run-digital-like-its-2025
-source: "[[2025-07-25 How to Run Digital Like Its 2025]]"
+source: "[[Archives/2025-07-25 How to Run Digital Like Its 2025|2025-07-25 How to Run Digital Like Its 2025]]"
 published: 2025-07-25
 created: 2026-03-02
 relevance: wysoka

@@ -1,4 +1,11 @@
-
+---
+categories: Area
+status: Aktywny
+created: 2026-05-16
+tags:
+  - szkolenia-AI
+  - organizacje-społeczne
+---
 # Szkolenia i warsztaty AI
 
 Trwała rola: projektowanie i prowadzenie szkoleń oraz warsztatów z generatywnej AI dla organizacji społecznych i ich odbiorców (m.in. przedsiębiorczyń), a także dla instytucji edukacyjnych. Interfejs narzędzi → prompting → budowanie asystentów/Projects → praktyczne workflow (research, brand voice, prospecting, CRM) → bezpieczeństwo i etyka. „W porządku" = każde zlecenie ma scenariusz, materiały dla uczestników i wymagania techniczne dopięte przed terminem, a powtarzalne moduły (program, ćwiczenia, szablony promptów) są wersjonowane i gotowe do ponownego użycia.

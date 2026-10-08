@@ -2,7 +2,7 @@
 categories: Clippings
 authors: "[[Caroline Griffin]]"
 url: https://www.idonate.com/blog/top-tips-to-reduce-online-friction-and-capture-more-gifts
-source: "[[2025-08-21 Top Tips to Reduce Online Friction and Capture More Gifts]]"
+source: "[[Archives/2025-08-21 Top Tips to Reduce Online Friction and Capture More Gifts|2025-08-21 Top Tips to Reduce Online Friction and Capture More Gifts]]"
 published: 2025-08-21
 created: 2026-03-03
 relevance: średnia

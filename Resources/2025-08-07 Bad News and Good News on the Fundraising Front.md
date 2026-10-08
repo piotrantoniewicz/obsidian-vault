@@ -3,7 +3,7 @@ categories: Clippings
 authors:
   - "[[Micah L. Sifry]]"
 url: https://theconnector.substack.com/p/bad-news-and-good-news-on-the-fundraising
-source: "[[2025-08-07 Bad News and Good News on the Fundraising Front]]"
+source: "[[Archives/2025-08-07 Bad News and Good News on the Fundraising Front|2025-08-07 Bad News and Good News on the Fundraising Front]]"
 published: 2025-08-07
 created: 2026-03-19
 relevance: wysoka

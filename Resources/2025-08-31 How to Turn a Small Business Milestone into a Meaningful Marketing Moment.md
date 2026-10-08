@@ -2,7 +2,7 @@
 categories: Clippings
 authors: "[[Carleen Moore (via Kimberly B. Lewis)]]"
 url: https://www.motivationalmuse.com/post/how-to-turn-a-small-business-milestone-into-a-meaningful-marketing-moment
-source: "[[2025-08-31 How to Turn a Small Business Milestone into a Meaningful Marketing Moment]]"
+source: "[[Archives/2025-08-31 How to Turn a Small Business Milestone into a Meaningful Marketing Moment|2025-08-31 How to Turn a Small Business Milestone into a Meaningful Marketing Moment]]"
 published: 2025-08-31
 created: 2026-03-04
 relevance: niska

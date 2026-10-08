@@ -6,7 +6,7 @@ authors:
   - "[[Lareina Yee]]"
   - "[[Michael Chui]]"
 url: https://www.mckinsey.com/capabilities/quantumblack/our-insights/the-state-of-ai
-source: "[[2025-11-05 The state of AI in 2025 Agents, innovation, and transformation 1]]"
+source: "[[Archives/2025-11-05 The state of AI in 2025 Agents, innovation, and transformation|2025-11-05 The state of AI in 2025 Agents, innovation, and transformation]]"
 published: 2025-11-05
 created: 2026-03-04
 relevance: wysoka

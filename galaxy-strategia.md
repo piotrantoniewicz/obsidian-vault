@@ -1,23 +1,23 @@
-# Strategia rozbudowy Galaxy/ — 2026-10-07 (`/galaxy:ingest 10 notatek` — wplecione w 11 stron, nowy mechanizm w Agentic AI, 4 zapisy w Sprzecznościach)
+# Strategia rozbudowy Galaxy/ — 2026-10-08 (`/galaxy:ingest 10 notatek` — wplecione w 13 stron, 1 nowy zapis w Sprzecznościach, bez nowych mechanizmów)
 
 *Konwencja: data w tytule H1 = data ostatniej istotnej aktualizacji tego pliku. Przy każdej zmianie (nowe pojęcia, zamknięta fala, korekta planu) zaktualizuj datę w tytule.*
 
 > **Reguła dziennika:** sekcja „Gdzie jesteśmy" to **jeden, nadpisywany** snapshot bieżącego stanu — **nie** rosnący log dopisków. Przy każdej sesji **nadpisz jej treść** (liczba stron, ostatnia operacja, następny krok, backlog), zamiast dopisywać kolejny akapit „Dopisek RRRR-MM-DD". Historię trzymają same notatki, `git` i `Galaxy/index.md`.
 
-## Gdzie jesteśmy (akt. 2026-10-07, ostatnia operacja: **`/galaxy:ingest 10 notatek`**)
+## Gdzie jesteśmy (akt. 2026-10-08, ostatnia operacja: **`/galaxy:ingest 10 notatek`**)
 
 **Galaxy/ = 36 stron** (+3 wydzielone z *Wdrażania AI*) w trzech działach indeksu:
 - **Fundraising** (11) — Tożsamość darczyńcy, Recurring giving, Stewardship, Kampania końcoworoczna, Peer-to-peer fundraising, Pledge program, Transparentność operacyjna, Major gifts, Pokolenia darczyńców, Transfer międzypokoleniowy majątku, DAF
 - **AI w organizacjach** (15) — Wdrażanie AI w organizacji społecznej, Wdrożenie i własność stosu technologicznego, Ludzie, role i zmiana w organizacji, Luka adopcyjna, AI governance, Agentic AI, RAG, Context engineering, Prompt engineering, RODO i dane wrażliwe, Evale, Context layer organizacji, LLM Wiki, Suwerenność technologiczna, AI Act
 - **Komunikacja i digital campaigning** (10) — Email deliverability, Framing, Storytelling oparty na danych, Newsletter jako kanał, Widoczność w AI search (GEO/AEO), Owned vs rented audience, Higiena listy, Ghostwriting, Marka osobista, Rapid response
 
-**Ostatnia operacja — `/galaxy:ingest 10 notatek` (2026-10-07, druga partia tego dnia).** Partia 10 najstarszych nieprzejrzanych notatek (od *2026-09-24 5 działań, które po cichu obniżają skuteczność fundraisingu* do *2026-05-05 Koniec entuzjazmu AI w polskich firmach…*; wszystkie `created` 2026-10-03/04) wplecione w 11 stron: Stewardship, Recurring giving, Wdrożenie i własność stosu, Agentic AI, Newsletter jako kanał, Tożsamość darczyńcy, Luka adopcyjna, Transparentność operacyjna, Wdrażanie AI, Ghostwriting, Owned vs rented audience. Jeden nowy mechanizm: *Agentic AI* mech. 38 (zaufanie do agenta jako drabina z dowodem na każdym szczeblu). Zapisy w `## Sprzeczności`: dopisek o położeniu linku w sporze o liczbę CTA (Newsletter), zalecenie 3–5 postów tygodniowo przy koncie z 54 postami w sporze o wolumen (Ghostwriting), pomiar 69% vs 13% w sporze o głębokość luki wdrożeniowej (Luka adopcyjna i Transparentność operacyjna) oraz nowy spór o samodzielne wdrażanie AI (Luka adopcyjna i Wdrażanie AI). Żadnej strony nie utworzono, żadnej definicji nie ruszono; sekcje „Powiązane pojęcia” nietknięte, więc liczniki czerwonych linków bez zmian. Notatka o syndromie założyciela nie miała strony w Galaxy (klaster „Przywództwo i zarząd” awansował w `galaxy-kandydaci.md` na „kandydat realny”).
+**Ostatnia operacja — `/galaxy:ingest 10 notatek` (2026-10-08).** Partia 10 najstarszych nieprzejrzanych notatek (od *2026-08-26 Why Your Next Impact Report Should Include a Live Map* do *2026-10-07 Asystent tak, sędzia nie. Co mówią o AI dwa nowe raporty*; `created` 2026-10-06…07) wplecione w 13 stron: Storytelling oparty na danych, Stewardship, Peer-to-peer fundraising, Ludzie, role i zmiana w organizacji, Rapid response, Agentic AI, Context layer organizacji, Ghostwriting, Newsletter jako kanał, Transparentność operacyjna, Wdrażanie AI w organizacji społecznej, AI governance, Luka adopcyjna. Żadnego nowego mechanizmu, żadnej strony, żadnej definicji nie ruszono; sekcje „Powiązane pojęcia” nietknięte, więc liczniki czerwonych linków bez zmian. Nowy zapis w `## Sprzeczności`: wąskie wyspecjalizowane skille czy kilku mocnych agentów (Agentic AI, mech. 14). W `galaxy-kandydaci.md`: nowy wiersz „Wideo w komunikacji i fundraisingu” (kandydat realny) i uzupełniony wiersz „Copy kampanijne”.
 
-**Następny krok.** Kolejna partia ingestu (kolejka niepusta). Progi rekompilacji (skrypt, 2026-10-07) przekraczają: *Recurring giving* (9293 słów), *Stewardship* (10 306), *Transparentność operacyjna* (10 812), *Wdrażanie AI* (15 268), *Agentic AI* (38 mech.), *Newsletter jako kanał* (42), *Owned vs rented audience* (38), *Ghostwriting* (53); wg stanu sprzed tej partii (nie mierzone ponownie) także *Framing*, *AI governance*, *Higiena listy*, *Prompt engineering* i *Email deliverability*. Backlog czerwonych linków: liczniki bez zmian.
+**Następny krok.** Kolejna partia ingestu (kolejka niepusta). Progi rekompilacji (skrypt, 2026-10-08) przekraczają: *Stewardship* (10 533 słów), *Transparentność operacyjna* (10 982 słów), *Wdrażanie AI* (15 316 słów), *AI governance* (13 615 słów, 47 mech.), *Agentic AI* (38 mech.), *Newsletter jako kanał* (42 mech.), *Ghostwriting* (53 mech.); wg stanu sprzed tej partii (nie mierzone ponownie) także *Owned vs rented audience*, *Framing*, *Widoczność w AI search*, *Recurring giving*, *Higiena listy*, *Prompt engineering* i *Email deliverability*. Backlog czerwonych linków: liczniki bez zmian.
 
-**Pozostało w kolejce: 16** (policzone metodą kursora po jego przesunięciu).
+**Pozostało w kolejce: 9** (policzone metodą kursora po jego przesunięciu).
 
-<!-- ingest-cursor: 2026-10-04 | 2026-05-05 Koniec entuzjazmu AI w polskich firmach. Tylko 7% jest gotowych na tę technologię.md -->
+<!-- ingest-cursor: 2026-10-07 | 2026-10-07 Asystent tak, sędzia nie. Co mówią o AI dwa nowe raporty.md -->
 
 
 **Sprzeczności między źródłami** zapisuje się wyłącznie w sekcjach `## Sprzeczności` na stronach Galaxy — ten plik ich nie zbiera i nie prowadzi ich listy.

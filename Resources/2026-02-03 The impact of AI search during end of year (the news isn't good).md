@@ -2,7 +2,7 @@
 categories: Clippings
 authors: ["[[M+R]]"]
 url: "https://www.mrss.com/lab/the-impact-of-ai-search-during-end-of-year-the-news-isnt-good/"
-source: "[[Archives/2026-02-03 The impact of AI search during end of year (the news isn't good)|2026-02-03 The impact of AI search during end of year (the news isn't good)]]"
+source: "[[Archives/2026-02-03 The impact of AI search during end of year (the news isn’t good)|2026-02-03 The impact of AI search during end of year (the news isn't good)]]"
 published: 2026-02-03
 created: 2026-05-31
 relevance: wysoka

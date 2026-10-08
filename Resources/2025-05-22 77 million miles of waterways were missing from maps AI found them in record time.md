@@ -6,8 +6,7 @@ url: https://www.businessinsider.com/bridges-to-prosperity-nonprofit-ai-mapping-
 source: "[[Archives/2025-05-22 77 million miles of waterways were missing from maps AI found them in record time|2025-05-22 77 million miles of waterways were missing from maps AI found them in record time]]"
 published: 2025-05-22
 created: 2026-04-12
-relevance:
-  - niska
+relevance: niska
 tags:
   - narzędzia-AI
   - organizacje-społeczne

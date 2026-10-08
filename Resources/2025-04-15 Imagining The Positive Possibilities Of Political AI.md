@@ -1,7 +1,7 @@
 ---
 categories: Clippings
 url: https://campaigninnovation.org/articles/imagining-the-positive-possibilities-of-political-ai
-source: "[[2025-04-15 Imagining The Positive Possibilities Of Political AI]]"
+source: "[[Archives/2025-04-15 Imagining The Positive Possibilities Of Political AI|2025-04-15 Imagining The Positive Possibilities Of Political AI]]"
 published: 2025-04-15
 created: 2026-03-19
 relevance: średnia

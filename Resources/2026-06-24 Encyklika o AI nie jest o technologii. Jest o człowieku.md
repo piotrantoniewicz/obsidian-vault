@@ -3,7 +3,7 @@ categories:
   - Clippings
 authors: ["[[Aga Kozak]]"]
 url: "https://sektor3-0.pl/podcast/encyklika-o-ai-nie-jest-o-technologii-jest-o-czlowieku/?utm_source=newsletter&utm_medium=email&utm_term=2026-06-25&utm_campaign=+Encyklika+o+AI+ale+tak+naprawd%C4%99+o+nas"
-source: "[[Archives/2026-06-24 Encyklika o AI nie jest o technologii. Jest o człowieku.|2026-06-24 Encyklika o AI nie jest o technologii. Jest o człowieku.]]"
+source: "[[Archives/2026-06-24 Encyklika o AI nie jest o technologii. Jest o człowieku|2026-06-24 Encyklika o AI nie jest o technologii. Jest o człowieku.]]"
 published: 2026-06-24
 created: 2026-06-25
 relevance: średnia

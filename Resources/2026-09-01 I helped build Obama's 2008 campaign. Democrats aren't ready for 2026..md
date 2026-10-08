@@ -1,7 +1,7 @@
 ---
 categories:
   - Clippings
-authors: ["[[Scott Goodstein, USA TODAY]]"]
+authors: ["[[Scott Goodstein]]"]
 url: "https://eu.usatoday.com/story/opinion/2026/09/01/campaign-ads-midterms-misinformation-social-media-influencers/91547477007/?utm_medium=email&_hsenc=p2ANqtz-9C2iVdNtORKfrW9GsuYLJ015jnA-6uiBPhofNjIx46SETGq3WJ5bkUxTynK-GF_HixBNHT36apJdm1nqNESdbezstkNsTojmBSNcRZTIwedJdAOLc&_hsmi=145268394&utm_content=145268394&utm_source=hs_email"
 source: "[[Archives/2026-09-01 I helped build Obama's 2008 campaign. Democrats aren't ready for 2026.|2026-09-01 I helped build Obama's 2008 campaign. Democrats aren't ready for 2026.]]"
 published: 2026-09-01

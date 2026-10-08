@@ -5,8 +5,7 @@ published: 2026-03-08
 created: 2026-03-18
 labels:
   - ECDA
-relevance:
-  - wysoka
+relevance: wysoka
 tags:
   - fundraising
   - organizacje-społeczne

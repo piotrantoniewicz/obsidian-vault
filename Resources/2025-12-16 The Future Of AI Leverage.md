@@ -2,7 +2,7 @@
 categories: Clippings
 authors: "[[Nicolas Cole]]"
 url: https://writewithai.substack.com/p/the-future-of-ai-leverage
-source: "[[2025-12-16 The Future Of AI Leverage]]"
+source: "[[Archives/2025-12-16 The Future Of AI Leverage|2025-12-16 The Future Of AI Leverage]]"
 published: 2025-12-16
 created: 2026-03-08
 relevance: wysoka

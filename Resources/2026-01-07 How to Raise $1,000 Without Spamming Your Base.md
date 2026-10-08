@@ -3,7 +3,6 @@ categories: Clippings
 authors:
   - "[[Mary Noone]]"
 url: https://thedemocraticdilemma.substack.com/p/how-to-raise-1000-without-spamming
-source: "[[2026-01-07 How to Raise $1,000 Without Spamming Your Base]]"
 published: 2026-01-07
 created: 2026-03-20
 relevance: wysoka

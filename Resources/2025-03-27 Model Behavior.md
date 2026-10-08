@@ -2,7 +2,7 @@
 categories: Clippings
 authors: "[[Kevin Barenblat]]"
 url: https://aiforhumanity.ffwd.org/p/model-behavior
-source: "[[2025-03-27 Model Behavior]]"
+source: "[[Archives/2025-03-27 Model Behavior|2025-03-27 Model Behavior]]"
 published: 2025-03-27
 created: 2026-03-03
 relevance: wysoka

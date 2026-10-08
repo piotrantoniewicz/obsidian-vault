@@ -3,7 +3,7 @@ categories: Clippings
 authors:
   - "[[Colin Delany]]"
 url: https://epolitics.substack.com/p/how-democrats-ended-up-in-the-digital
-source: "[[2025-04-20 How Democrats Ended Up in the Digital Media Ditch]]"
+source: "[[Archives/2025-04-20 How Democrats Ended Up in the Digital Media Ditch|2025-04-20 How Democrats Ended Up in the Digital Media Ditch]]"
 published: 2025-04-20
 created: 2026-03-19
 relevance: wysoka

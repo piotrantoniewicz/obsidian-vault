@@ -1,7 +1,7 @@
 ---
 categories: Clippings
 url: https://www.dailykos.com/stories/2025/9/4/2341652/-For-Democrats-to-win-scam-PACs-must-die
-source: "[[2025-09-05 For Democrats to win, scam PACs must die]]"
+source: "[[Archives/2025-09-05 For Democrats to win, scam PACs must die|2025-09-05 For Democrats to win, scam PACs must die]]"
 published: 2025-09-05
 created: 2026-03-20
 relevance: średnia

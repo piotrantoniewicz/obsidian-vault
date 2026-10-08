@@ -3,7 +3,7 @@ categories: Clippings
 authors:
   - "[[Max Greenwood]]"
 url: https://campaignsandelections.com/industry-news/report-urges-democrats-to-rethink-tech/
-source: "[[2025-05-16 New Report Urges Democrats to Rethink Campaign Tech]]"
+source: "[[Archives/2025-05-16 New Report Urges Democrats to Rethink Campaign Tech|2025-05-16 New Report Urges Democrats to Rethink Campaign Tech]]"
 published: 2025-05-16
 created: 2026-03-19
 relevance: wysoka

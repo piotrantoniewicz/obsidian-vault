@@ -4,7 +4,7 @@ authors:
   - "[[James Buo]]"
   - "[[Melanie Buck]]"
 url: https://crometrics.com/blog/boosting-returns-by-41-percent-the-power-of-accessible-email-content/
-source: "[[2024-02-13 Boosting Returns by 41% The Power of Accessible Email Content]]"
+source: "[[Archives/2024-02-13 Boosting Returns by 41% The Power of Accessible Email Content|2024-02-13 Boosting Returns by 41% The Power of Accessible Email Content]]"
 published: 2024-02-13
 created: 2026-03-04
 relevance: wysoka

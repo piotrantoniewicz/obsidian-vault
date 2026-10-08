@@ -2,7 +2,7 @@
 categories: Clippings
 authors: "[[Olivia Rowe]]"
 url: https://thenonprofithive.com/donor-communications-tips/
-source: "[[2025-10-15 Donor Communications Proven Strategies Nonprofits Can Use]]"
+source: "[[Archives/2025-10-15 Donor Communications Proven Strategies Nonprofits Can Use|2025-10-15 Donor Communications Proven Strategies Nonprofits Can Use]]"
 published: 2025-10-15
 created: 2026-03-04
 relevance: wysoka

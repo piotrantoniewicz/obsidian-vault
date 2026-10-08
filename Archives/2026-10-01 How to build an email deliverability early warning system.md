@@ -5,6 +5,7 @@ url: "https://weareastral.co.uk/thevault/how-to-build-an-email-early-warning-sys
 published: 2026-10-01
 created: 2026-10-08
 tags:
+  - "digital-campaigning"
 ---
 
 

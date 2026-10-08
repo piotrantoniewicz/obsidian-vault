@@ -4,7 +4,7 @@ authors:
   - "[[Nathan Sanders]]"
   - "[[Bruce Schneier]]"
 url: https://prospect.org/2025/10/10/ai-artificial-intelligence-campaigns-midterms/
-source: "[[2025-10-10 AI Is Changing How Politics Is Practiced in America]]"
+source: "[[Archives/2025-10-10 AI Is Changing How Politics Is Practiced in America|2025-10-10 AI Is Changing How Politics Is Practiced in America]]"
 published: 2025-10-10
 created: 2026-03-20
 relevance: średnia

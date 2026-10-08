@@ -3,7 +3,7 @@ categories: Clippings
 authors:
   - "[[Max Greenwood]]"
 url: https://campaignsandelections.com/industry-news/dems-reckon-with-grassroots-fundraising-tactics/
-source: "[[2025-10-24 Democrats Reckon With Digital Fundraising Tactics Ahead of 2026]]"
+source: "[[Archives/2025-10-24 Democrats Reckon With Digital Fundraising Tactics Ahead of 2026|2025-10-24 Democrats Reckon With Digital Fundraising Tactics Ahead of 2026]]"
 published: 2025-10-24
 created: 2026-03-18
 relevance: wysoka

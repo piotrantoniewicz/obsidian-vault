@@ -15,7 +15,7 @@ Rejestr tematów, które mogą dostać własną stronę (`/galaxy:pisz`). **Jedn
 | Segmentacja bazy darczyńców i odbiorców | kandydat realny | ~80 | Higiena listy mech. 34, Stewardship mech. 5, P2P mech. 2, Newsletter mech. 13, Kampania końcoworoczna mech. 1, Recurring giving mech. 30, Framing mech. 55 | 2026-10-07 |
 | Generowanie obrazów AI i spójność wizualna marki | kandydat realny | ~14 „Midjourney” + ~5 „obrazy AI” | — | 2026-09-14 |
 | Marketing automation i sekwencje mailowe | obserwować | ~9 wąsko | Stewardship mech. 5; Newsletter | 2026-09-30 |
-| Lead magnety i budowa listy (kurs mailowy, opt-in) | kandydat realny | ~25 wąsko | Owned vs rented mech. 37, Newsletter mech. 7; zazębia się z „Marketing automation” | 2026-10-04 |
+| Lead magnety i budowa listy (kurs mailowy, opt-in) | kandydat realny | ~25 wąsko | Owned vs rented mech. 4 i 37, Newsletter mech. 7 i 30; zazębia się z „Marketing automation” | 2026-10-08 |
 | Dostępność komunikacji cyfrowej (mail, WWW) | obserwować | ~6 | Newsletter mech. 34, Email deliverability mech. 37 | — |
 | Strategia organizacji (wybór, koszt alternatywny, konflikt) | obserwować | ~11 wąsko, ~236 szeroko | Transparentność mech. 11 | — |
 | Ludzie, role i zmiana w organizacji — poza wdrażaniem AI (sukcesja, wypalenie, rotacja; strona o tym tytule powstała 2026-10-06 tylko w ujęciu wdrażania AI — rozszerzyć ją albo wydzielić osobną) | kandydat realny | 12+ źródeł; ~22 + ~5 o mentoringu | Ludzie, role i zmiana w organizacji, Stewardship, Pokolenia darczyńców mech. 7 (Gen Z w pracy, onboarding); zazębia się z „Przywództwo i zarząd” | 2026-10-06 |
@@ -29,12 +29,12 @@ Rejestr tematów, które mogą dostać własną stronę (`/galaxy:pisz`). **Jedn
 | Ekonomika współpracy z dostawcami zewnętrznymi | obserwować | słaba | — | — |
 | Podcast jako kanał organizacji | obserwować | ~35 | Owned vs rented mech. 22 | — |
 | Oznaczanie treści AI i zgodność publikacyjna | kandydat realny | ~12 + 2 „watermark” | AI Act, AI governance, Ghostwriting | 2026-08-29 |
-| Komunikacja kryzysowa | kandydat realny | 4 źródła (próg osiągnięty) | wydzielona z Rapid response; Rapid response mech. 3, Newsletter mech. 40 | 2026-10-04 |
+| Komunikacja kryzysowa | kandydat realny | 4 źródła (próg osiągnięty) | wydzielona z Rapid response; Rapid response mech. 3 i 11, Newsletter mech. 40 | 2026-10-08 |
 | Produktywność osobista i ekonomika praktyki konsultanta | obserwować | ~5 | — | 2026-08-28 |
 | Walidacja produktu przed zbudowaniem | obserwować | słaba | — | — |
 | Techniczne SEO stron organizacji | obserwować | ~46 szeroko | — | — |
 | Wydarzenia fundraisingowe (eventy) | obserwować | ~6 wąsko, ~35 szeroko; ~19 „aukcja/gala/wydarzenie/giving day” | Stewardship mech. 10 (aukcja); P2P mech. 13, 17, 20 | 2026-10-04 |
-| Copy kampanijne: hasło, nagłówek, hook | obserwować | ~34 szeroko | Framing mech. 15, 18, 21 | — |
+| Copy kampanijne: hasło, nagłówek, hook | obserwować | ~34 szeroko | Framing mech. 15, 18, 21; Newsletter mech. 29 | 2026-10-08 |
 | Sprzedaż i działalność odpłatna organizacji | obserwować | ~51 szeroko | Framing mech. 25, Stewardship mech. 13 | — |
 | Społeczność jako struktura projektowa (community building) | obserwować | ~39 | — | — |
 | SMS / texting jako kanał | kandydat realny | ~23 | Storytelling, Higiena listy, Stewardship; Newsletter mech. 18 i Sprzeczności (SMS vs „bańka”) | 2026-10-06 |
@@ -49,5 +49,6 @@ Rejestr tematów, które mogą dostać własną stronę (`/galaxy:pisz`). **Jedn
 | Partycypacja i wynagradzanie osób z doświadczeniem (lived experience; participatory grantmaking) | obserwować | ~3 + ~6 + ~2 „participatory grantmaking” | — | 2026-09-30 |
 | Matching grant (pula od jednego darczyńcy, mnożnik, okno) | kandydat realny | ~11 wąsko (część szumu), ~75 szeroko (GivingTuesday / giving day) | Major gifts mech. 11; Recurring giving, P2P, Kampania końcoworoczna, Stewardship | 2026-10-05 |
 | Prospect research i scoring z AI (propensity, wealth screening, sygnały zachowania) | obserwować | ~11 wąsko, ~30 szeroko | Major gifts mech. 5–8 (główny dom); Transfer, DAF, Evale | 2026-10-05 |
-| Eksperymentowanie i testowanie (A/B, holdout, rejestr testów, „folklor” best practices) | kandydat realny | ~36 wąsko (A/B, holdout; część szum), ~34 „eksperyment” | Email deliverability mech. 25, Newsletter mech. 20, 27, 29; Marka osobista mech. 18 | 2026-10-06 |
+| Eksperymentowanie i testowanie (A/B, holdout, rejestr testów, „folklor” best practices) | kandydat realny | ~36 wąsko (A/B, holdout; część szum), ~34 „eksperyment” | Email deliverability mech. 25, Newsletter mech. 20, 27, 29; Marka osobista mech. 18; Framing mech. 9 (test CTA bez istotności) | 2026-10-08 |
 | Kampanie wyborcze: field, wolontariusze, organizowanie relacyjne (Mamdani, Connolly, TTPA) | kandydat realny | ~30 „Mamdani”, ~15 field/GOTV/kampania, ~2 organizowanie relacyjne | Framing mech. 7, P2P mech. 3 i 14, Owned vs rented mech. 26 i 32, Rapid response mech. 1 | 2026-10-07 |
+| Wideo w komunikacji i fundraisingu (formaty, długość, podziękowania wideo, transmisje) | kandydat realny | ~44 szeroko (część szum) | Storytelling mech. 11, 14, 20; Stewardship mech. 12; P2P mech. 4; Owned vs rented mech. 36 | 2026-10-08 |

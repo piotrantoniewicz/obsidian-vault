@@ -9,7 +9,7 @@ tags:
   - content-marketing
   - digital-campaigning
   - strategia-organizacji
-source: "[[Archives/2026-02-18 Intent Over Personalisation What \"Personal\" Actually Means in Email (and How to Build It)|2026-02-18 Intent Over Personalisation What \"Personal\" Actually Means in Email (and How to Build It)]]"
+source: "[[Archives/2026-02-18 Intent Over Personalisation What “Personal” Actually Means in Email (and How to Build It)|2026-02-18 Intent Over Personalisation What \"Personal\" Actually Means in Email (and How to Build It)]]"
 ---
 
 # Intent Over Personalisation What "Personal" Actually Means in Email (and How to Build It)

@@ -2,7 +2,7 @@
 categories: Clippings
 authors: ["[[Diana S. Frazier]]"]
 url: https://veritusgroup.com/blog/donor-advised-funds-series-part-2-breaking-up-is-hard-to-do...or-is-it
-source: "[[Archives/2026-01-15 Donor Advised Funds Series, Part 2 Breaking Up is Hard to Do...Or Is It |2026-01-15 Donor Advised Funds Series, Part 2 Breaking Up is Hard to Do...Or Is It ]]"
+source: "[[Archives/2026-01-15 Donor Advised Funds Series, Part 2 Breaking Up is Hard to Do...Or Is It|2026-01-15 Donor Advised Funds Series, Part 2 Breaking Up is Hard to Do...Or Is It ]]"
 published: 2026-01-15
 created: 2026-03-23
 relevance: wysoka

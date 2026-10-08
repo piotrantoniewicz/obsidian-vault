@@ -2,7 +2,7 @@
 categories: Clippings
 authors: "[[Ecomail.pl]]"
 url: https://ecomail.pl/blog/pl/kampania-powitalna-w-e-commerce-jak-stworzyc-e-mail-ktory-buduje-relacje-i-sprzedaje/
-source: "[[2025-10-17 Kampania powitalna w e-commerce – jak stworzyć skuteczny welcome e-mail]]"
+source: "[[Archives/2025-10-17 Kampania powitalna w e-commerce – jak stworzyć skuteczny welcome e-mail|2025-10-17 Kampania powitalna w e-commerce – jak stworzyć skuteczny welcome e-mail]]"
 published: 2025-10-17
 created: 2026-03-02
 relevance: wysoka

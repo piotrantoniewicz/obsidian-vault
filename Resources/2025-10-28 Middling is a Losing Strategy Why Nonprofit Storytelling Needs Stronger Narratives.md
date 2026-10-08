@@ -3,7 +3,7 @@ categories: Clippings
 authors:
   - "[[Clara Campbell]]"
 url: https://mediacause.com/nonprofit-storytelling/
-source: "[[2025-10-28 Middling is a Losing Strategy Why Nonprofit Storytelling Needs Stronger Narratives]]"
+source: "[[Archives/2025-10-28 Middling is a Losing Strategy Why Nonprofit Storytelling Needs Stronger Narratives|2025-10-28 Middling is a Losing Strategy Why Nonprofit Storytelling Needs Stronger Narratives]]"
 published: 2025-10-28
 created: 2026-03-18
 relevance: wysoka

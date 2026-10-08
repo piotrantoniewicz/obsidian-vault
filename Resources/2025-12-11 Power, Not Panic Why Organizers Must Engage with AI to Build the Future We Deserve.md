@@ -4,7 +4,6 @@ authors:
   - "[[Lee Anderson]]"
   - "[[Oluwakemi Oso]]"
 url: https://forgeorganizing.org/article/power-not-panic-why-organizers-must-engage-with-ai-to-build-the-future-we-deserve/
-source: "[[2025-12-11 Power, Not Panic Why Organizers Must Engage with AI to Build the Future We Deserve]]"
 published: 2025-12-11
 created: 2026-03-20
 relevance: wysoka

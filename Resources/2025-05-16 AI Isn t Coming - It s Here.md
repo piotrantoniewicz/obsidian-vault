@@ -3,7 +3,7 @@ categories: Clippings
 authors:
   - "[[Lucy Ritzmann]]"
 url: https://www.fwiw.news/p/ai-isnt-coming-its-here
-source: "[[2025-05-16 AI Isn t Coming - It s Here]]"
+source: "[[Archives/2025-05-16 AI Isn t Coming - It s Here|2025-05-16 AI Isn t Coming - It s Here]]"
 published: 2025-05-16
 created: 2026-03-19
 relevance: wysoka

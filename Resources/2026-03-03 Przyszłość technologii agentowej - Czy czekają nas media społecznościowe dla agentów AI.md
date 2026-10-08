@@ -3,7 +3,7 @@ categories: Clippings
 authors:
   - "[[Zuzanna Karcz]]"
 url: https://ai.gov.pl/ai-dla-ciebie/artykuly/przyszlosc-technologii-agentowej
-source: "[[2026-03-03 Portal sztucznej inteligencji]]"
+source: "[[Archives/2026-03-03 Portal sztucznej inteligencji|2026-03-03 Portal sztucznej inteligencji]]"
 published: 2026-03-03
 created: 2026-03-03
 relevance: średnia

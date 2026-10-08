@@ -4,7 +4,7 @@ authors:
   - "[[Micah Sifry]]"
   - "[[Susan Wagner]]"
 url: https://grassrootsconnector.substack.com/p/recording-of-it-needs-to-be-said
-source: "[[2025-05-15 Recording of It Needs to Be Said with Micah Sifry]]"
+source: "[[Archives/2025-05-15 Recording of It Needs to Be Said with Micah Sifry|2025-05-15 Recording of It Needs to Be Said with Micah Sifry]]"
 published: 2025-05-15
 created: 2026-03-19
 relevance: niska

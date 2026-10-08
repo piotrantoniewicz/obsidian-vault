@@ -3,7 +3,6 @@ categories: Clippings
 authors:
   - "[[Ethan Mollick]]"
 url: https://www.oneusefulthing.org/p/an-opinionated-guide-to-using-ai
-source: "[[2025-10-19 An Opinionated Guide to Using AI Right Now]]"
 published: 2025-10-19
 created: 2026-03-20
 relevance: wysoka

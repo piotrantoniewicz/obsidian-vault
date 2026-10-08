@@ -2,7 +2,7 @@
 categories: Clippings
 authors: ["[[Bryan Neider]]"]
 url: "https://www.linkedin.com/pulse/navigating-labyrinth-innovation-calcified-world-bryan-neider-idf1c/"
-source: "[[Archives/2026-05-14 Navigating the Labyrinth Innovation in a \"Calcified\" World|2026-05-14 Navigating the Labyrinth Innovation in a \"Calcified\" World]]"
+source: '[[Archives/2026-05-14 Navigating the Labyrinth Innovation in a "Calcified" World|2026-05-14 Navigating the Labyrinth Innovation in a "Calcified" World]]'
 published: 2026-05-14
 created: 2026-05-18
 relevance: wysoka

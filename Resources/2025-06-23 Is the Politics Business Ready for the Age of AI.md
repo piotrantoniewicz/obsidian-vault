@@ -3,7 +3,7 @@ categories: Clippings
 authors:
   - "[[Max Greenwood]]"
 url: https://campaignsandelections.com/industry-news/is-the-politics-business-ready-for-the-ai-age/
-source: "[[2025-06-23 Is the Politics Business Ready for the Age of AI]]"
+source: "[[Archives/2025-06-23 Is the Politics Business Ready for the Age of AI|2025-06-23 Is the Politics Business Ready for the Age of AI]]"
 published: 2025-06-23
 created: 2026-03-19
 relevance: wysoka

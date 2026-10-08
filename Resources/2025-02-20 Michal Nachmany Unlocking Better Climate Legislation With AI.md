@@ -2,7 +2,7 @@
 categories: Clippings
 authors: "[[Fast Forward – Where Tech Meets Social Impact]]"
 url: https://www.ffwd.org/blog/michal-nachmany-unlocking-better-climate-legislation-with-ai
-source: "[[2026-03-02 Michal Nachmany Unlocking Better Climate Legislation With AI]]"
+source: "[[Archives/2026-03-02 Michal Nachmany Unlocking Better Climate Legislation With AI|2026-03-02 Michal Nachmany Unlocking Better Climate Legislation With AI]]"
 published: 2025-02-20
 created: 2026-03-04
 relevance: średnia

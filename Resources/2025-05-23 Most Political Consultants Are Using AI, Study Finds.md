@@ -3,7 +3,7 @@ categories: Clippings
 authors:
   - "[[Max Greenwood]]"
 url: https://campaignsandelections.com/industry-news/study-finds-most-political-consultants-using-ai/
-source: "[[2025-05-23 Most Political Consultants Are Using AI, Study Finds]]"
+source: "[[Archives/2025-05-23 Most Political Consultants Are Using AI, Study Finds|2025-05-23 Most Political Consultants Are Using AI, Study Finds]]"
 published: 2025-05-23
 created: 2026-03-19
 relevance: wysoka

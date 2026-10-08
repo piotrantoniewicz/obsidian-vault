@@ -2,7 +2,7 @@
 categories: Clippings
 authors: "[[Fundraising Regulator]]"
 url: https://www.fundraisingregulator.org.uk/about-fundraising/resources/guidance-using-artificial-intelligence-fundraising
-source: "[[2025-12-08 Guidance for using artificial intelligence in fundraising]]"
+source: "[[Archives/2025-12-08 Guidance for using artificial intelligence in fundraising|2025-12-08 Guidance for using artificial intelligence in fundraising]]"
 published: 2025-12-08
 created: 2026-03-11
 relevance: wysoka

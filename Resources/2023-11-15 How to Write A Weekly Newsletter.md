@@ -2,7 +2,7 @@
 categories: Clippings
 authors: "[[Dickie Bush]]"
 url: https://writewithai.substack.com/p/how-to-write-a-weekly-newsletter
-source: "[[2023-11-15 How to Write A Weekly Newsletter]]"
+source: "[[Archives/2023-11-15 How to Write A Weekly Newsletter|2023-11-15 How to Write A Weekly Newsletter]]"
 published: 2023-11-15
 created: 2026-03-08
 relevance: wysoka

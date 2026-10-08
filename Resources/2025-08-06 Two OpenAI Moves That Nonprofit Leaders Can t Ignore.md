@@ -1,7 +1,7 @@
 ---
 categories: Clippings
 authors:
-  - "[[Gayle Roberts, CFRM]]"
+  - "[[Gayle Roberts]]"
 url: https://www.linkedin.com/pulse/two-openai-moves-nonprofit-leaders-cant-ignore-your-roberts-cfrm-eyiyc/
 source: "[[Archives/2025-08-06 Two OpenAI Moves That Nonprofit Leaders Can t Ignore|2025-08-06 Two OpenAI Moves That Nonprofit Leaders Can t Ignore]]"
 published: 2025-08-06

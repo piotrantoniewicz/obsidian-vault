@@ -2,7 +2,7 @@
 categories: Clippings
 authors: "[[Patrick Stevenson]]"
 url: https://www.fwiw.news/p/why-democrats-are-still-bad-at-the
-source: "[[2025-07-18 Why Democrats are (still) bad at the internet]]"
+source: "[[Archives/2025-07-18 Why Democrats are (still) bad at the internet|2025-07-18 Why Democrats are (still) bad at the internet]]"
 published: 2025-07-18
 created: 2026-03-03
 relevance: wysoka

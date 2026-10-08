@@ -2,7 +2,7 @@
 categories: Clippings
 authors: "[[Tasha Van Vlack]]"
 url: https://thenonprofithive.com/reframing-the-nonprofit-narrative/
-source: "[[2026-02-02 Reframing the Nonprofit Narrative]]"
+source: "[[Archives/2026-02-02 Reframing the Nonprofit Narrative|2026-02-02 Reframing the Nonprofit Narrative]]"
 published: 2026-02-02
 created: 2026-03-04
 relevance: wysoka

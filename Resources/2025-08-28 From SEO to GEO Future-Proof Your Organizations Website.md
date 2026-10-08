@@ -3,7 +3,7 @@ categories: Clippings
 authors:
   - "[[Tectonica Digital Campaign Solutions]]"
 url: https://www.tectonica.co/posts/from-seo-to-geo
-source: "[[2025-08-28 From SEO to GEO Future-Proof Your Organizations Website]]"
+source: "[[Archives/2025-08-28 From SEO to GEO Future-Proof Your Organizations Website|2025-08-28 From SEO to GEO Future-Proof Your Organizations Website]]"
 published: 2025-08-28
 created: 2026-03-19
 relevance: wysoka

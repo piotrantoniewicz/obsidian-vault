@@ -3,7 +3,6 @@ categories: Clippings
 authors:
   - "[[Media Cause]]"
 url: https://mediacause.com/our-work/case-study/the-cornell-lab-of-ornithology-a-multi-year-digital-fundraising-success-story/
-source: "[[2025-10-16 The Cornell Lab of Ornithology A Multi-Year Digital Fundraising Success Story]]"
 published: 2025-10-16
 created: 2026-03-20
 relevance: wysoka

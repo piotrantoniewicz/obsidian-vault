@@ -2,7 +2,7 @@
 categories: Clippings
 authors: "[[Jacek Siadkowski]]"
 url: https://www.fastcompany.com/91435669/changing-what-works-to-what-scales
-source: "[[2025-11-06 Changing what works to what scales]]"
+source: "[[Archives/2025-11-06 Changing what works to what scales|2025-11-06 Changing what works to what scales]]"
 published: 2025-11-06
 created: 2026-03-10
 relevance: wysoka

@@ -3,7 +3,7 @@ categories: Clippings
 authors:
   - "[[Adam Bonica]]"
 url: https://data4democracy.substack.com/p/the-mothership-vortex-an-investigation
-source: "[[2025-08-03 The Mothership Vortex An Investigation Into the Firm at the Heart of the Democratic Spam Machine]]"
+source: "[[Archives/2025-08-03 The Mothership Vortex An Investigation Into the Firm at the Heart of the Democratic Spam Machine|2025-08-03 The Mothership Vortex An Investigation Into the Firm at the Heart of the Democratic Spam Machine]]"
 published: 2025-08-03
 created: 2026-03-19
 relevance: wysoka

@@ -1,7 +1,7 @@
 ---
 categories:
   - Clippings
-authors: ["[[Email Love, @emaillove]]"]
+authors: ["[[Email Love]]"]
 url: "https://emaillove.com/email-best-practices-worth-retesting?utm_source=www.civicshoutnewsletter.com&utm_medium=newsletter&utm_campaign=how-one-cause-earned-508-770-in-free-civic-shout-ad-credits-in-3-months&_bhlid=1bed50bd1c32280bbd31ab7a6fb1c49c0d09fd64"
 source: "[[Archives/2026-08-07 10 Email Best Practices Worth Retesting in 2026|2026-08-07 10 Email Best Practices Worth Retesting in 2026]]"
 published: 2026-08-07

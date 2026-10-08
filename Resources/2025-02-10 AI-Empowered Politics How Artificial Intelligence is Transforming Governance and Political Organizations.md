@@ -3,7 +3,7 @@ categories: Clippings
 authors:
   - "[[Mathias Lipp-Rosenthal]]"
 url: https://www.linkedin.com/pulse/ai-empowered-politics-how-artificial-intelligence-governance-lipp-9cdbf/
-source: "[[2025-02-10 AI-Empowered Politics How Artificial Intelligence is Transforming Governance and Political Organizations]]"
+source: "[[Archives/2025-02-10 AI-Empowered Politics How Artificial Intelligence is Transforming Governance and Political Organizations|2025-02-10 AI-Empowered Politics How Artificial Intelligence is Transforming Governance and Political Organizations]]"
 published: 2025-02-10
 created: 2026-03-19
 relevance: średnia

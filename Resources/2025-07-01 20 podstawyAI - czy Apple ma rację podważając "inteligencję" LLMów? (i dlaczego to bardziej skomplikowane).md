@@ -2,7 +2,7 @@
 categories: Clippings
 authors: ["[[Przemek Jurgiel-Zyla]]"]
 url: "https://www.linkedin.com/pulse/20-podstawyai-czy-apple-ma-racj%C4%99-podwa%C5%BCaj%C4%85c-llm%C3%B3w-i-jurgiel-zyla-spu7f/"
-source: "[[Archives/2025-07-01 20 podstawyAI - czy Apple ma rację podważając \"inteligencję\" LLMów? (i dlaczego to bardziej skomplikowane)|2025-07-01 20 podstawyAI - czy Apple ma rację podważając \"inteligencję\" LLMów? (i dlaczego to bardziej skomplikowane)]]"
+source: '[[Archives/2025-07-01 20 podstawyAI - czy Apple ma rację podważając "inteligencję" LLMów? (i dlaczego to bardziej skomplikowane)|2025-07-01 20 podstawyAI - czy Apple ma rację podważając "inteligencję" LLMów? (i dlaczego to bardziej skomplikowane)]]'
 published: 2025-07-01
 created: 2026-05-31
 relevance: średnia

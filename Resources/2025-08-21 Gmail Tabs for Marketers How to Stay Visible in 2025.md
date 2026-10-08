@@ -2,7 +2,7 @@
 categories: Clippings
 authors: "[[Lauren Meyer]]"
 url: https://send-it-right.com/blog/promotions-tab-email-marketing
-source: "[[2025-08-21 Gmail Tabs for Marketers How to Stay Visible in 2025]]"
+source: "[[Archives/2025-08-21 Gmail Tabs for Marketers How to Stay Visible in 2025|2025-08-21 Gmail Tabs for Marketers How to Stay Visible in 2025]]"
 published: 2025-08-21
 created: 2026-03-09
 relevance: wysoka

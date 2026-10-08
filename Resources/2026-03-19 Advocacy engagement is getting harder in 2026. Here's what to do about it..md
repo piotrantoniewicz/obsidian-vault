@@ -2,7 +2,7 @@
 categories: Clippings
 authors: ["[[Steve Anderson]]"]
 url: "https://www.newmode.net/blog/advocacy-engagement-is-getting-harder-in-2026.-heres-what-to-do-about-it"
-source: "[[Archives/2026-03-19 Advocacy engagement is getting harder in 2026. Here's what to do about it.|2026-03-19 Advocacy engagement is getting harder in 2026. Here's what to do about it.]]"
+source: "[[Archives/2026-03-19 Advocacy engagement is getting harder in 2026. Here’s what to do about it.|2026-03-19 Advocacy engagement is getting harder in 2026. Here's what to do about it.]]"
 published: 2026-03-19
 created: 2026-05-27
 relevance: wysoka

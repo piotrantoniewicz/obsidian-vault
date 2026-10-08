@@ -3,7 +3,7 @@ categories: Clippings
 authors:
   - "[[Adam Bonica]]"
 url: https://data4democracy.substack.com/p/the-mothership-vortex-a-quick-update
-source: "[[2025-08-12 The Mothership Vortex A Quick Update]]"
+source: "[[Archives/2025-08-12 The Mothership Vortex A Quick Update|2025-08-12 The Mothership Vortex A Quick Update]]"
 published: 2025-08-12
 created: 2026-03-19
 relevance: średnia

@@ -5,6 +5,8 @@ url: "https://weareastral.co.uk/thevault/email-behaving-badly-why-compliance-wil
 published: 2026-10-01
 created: 2026-10-08
 tags:
+  - "digital-campaigning"
+  - "fundraising"
 ---
 
 

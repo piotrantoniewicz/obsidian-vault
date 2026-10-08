@@ -2,7 +2,7 @@
 categories: Clippings
 authors: "[[Expert Panel®]]"
 url: https://www.forbes.com/councils/forbesnonprofitcouncil/2026/02/19/17-ways-nonprofit-boards-can-support-governance-and-risk-oversight/
-source: "[[2026-02-19 17 Ways Nonprofit Boards Can Support Governance And Risk Oversight]]"
+source: "[[Archives/2026-02-19 17 Ways Nonprofit Boards Can Support Governance And Risk Oversight|2026-02-19 17 Ways Nonprofit Boards Can Support Governance And Risk Oversight]]"
 published: 2026-02-19
 created: 2026-03-11
 relevance: średnia

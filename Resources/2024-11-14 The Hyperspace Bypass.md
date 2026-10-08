@@ -2,7 +2,7 @@
 categories: Clippings
 authors: "[[Stephen Hood]]"
 url: https://builders.mozilla.org/the-hyperspace-bypass/
-source: "[[2024-11-14 The Hyperspace Bypass]]"
+source: "[[Archives/2024-11-14 The Hyperspace Bypass|2024-11-14 The Hyperspace Bypass]]"
 published: 2024-11-14
 created: 2026-03-03
 relevance: średnia

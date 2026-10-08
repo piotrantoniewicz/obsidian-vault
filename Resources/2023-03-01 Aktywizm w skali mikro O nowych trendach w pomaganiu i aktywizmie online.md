@@ -9,7 +9,7 @@ source: >-
   pomaganiu i aktywizmie online]]
 published: '2023-03-01'
 created: '2026-03-24'
-relevance: Średnia
+relevance: średnia
 tags:
   - digital-campaigning
   - organizacje-społeczne

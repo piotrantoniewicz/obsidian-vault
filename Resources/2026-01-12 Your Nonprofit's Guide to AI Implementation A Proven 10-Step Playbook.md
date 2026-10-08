@@ -2,7 +2,7 @@
 categories: Clippings
 authors: "[[Wendy Clow]]"
 url: https://medium.com/journey-to-impact/your-nonprofits-guide-to-ai-implementation-a-proven-10-step-playbook-e5965e1c2d4b
-source: "[[2026-01-12 Your Nonprofit’s Guide to AI Implementation A Proven 10-Step Playbook]]"
+source: "[[Archives/2026-01-12 Your Nonprofit's Guide to AI Implementation A Proven 10-Step Playbook|2026-01-12 Your Nonprofit's Guide to AI Implementation A Proven 10-Step Playbook]]"
 published: 2026-01-12
 created: 2026-03-10
 relevance: wysoka

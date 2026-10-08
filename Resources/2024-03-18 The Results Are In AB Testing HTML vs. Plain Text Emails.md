@@ -3,7 +3,7 @@ categories: Clippings
 authors:
   - "[[Kimberly Huang]]"
 url: https://www.litmus.com/blog/the-results-are-in-a-b-testing-html-vs-plain-text-emails
-source: "[[2024-03-18 The Results Are In AB Testing HTML vs. Plain Text Emails]]"
+source: "[[Archives/2024-03-18 The Results Are In AB Testing HTML vs. Plain Text Emails|2024-03-18 The Results Are In AB Testing HTML vs. Plain Text Emails]]"
 published: 2024-03-18
 created: 2026-03-18
 relevance: wysoka

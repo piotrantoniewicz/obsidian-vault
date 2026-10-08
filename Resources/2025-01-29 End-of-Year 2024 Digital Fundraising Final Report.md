@@ -3,7 +3,7 @@ categories: Clippings
 authors:
   - "[[MissionWired]]"
 url: https://missionwired.com/insights/end-of-year-digital-fundraising-final-report/
-source: "[[2025-01-29 End-of-Year 2024 Digital Fundraising Final Report]]"
+source: "[[Archives/2025-01-29 End-of-Year 2024 Digital Fundraising Final Report|2025-01-29 End-of-Year 2024 Digital Fundraising Final Report]]"
 published: 2025-01-29
 created: 2026-03-20
 relevance: wysoka

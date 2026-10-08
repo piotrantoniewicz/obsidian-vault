@@ -2,7 +2,7 @@
 categories: Clippings
 authors: "[[Ecomail.pl]]"
 url: https://ecomail.pl/blog/pl/pazdziernik-mailingowe-podsumowanie-miesiaca/
-source: "[[2025-10-31 Mailingowe podsumowanie października 2025 - trendy i wskazówki]]"
+source: "[[Archives/2025-10-31 Mailingowe podsumowanie października 2025 - trendy i wskazówki|2025-10-31 Mailingowe podsumowanie października 2025 - trendy i wskazówki]]"
 published: 2025-10-31
 created: 2026-03-02
 relevance: niska

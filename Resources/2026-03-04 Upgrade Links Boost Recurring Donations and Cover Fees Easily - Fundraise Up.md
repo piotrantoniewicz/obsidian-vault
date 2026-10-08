@@ -2,7 +2,7 @@
 categories: Clippings
 authors: "[[Fundraise Up]]"
 url: https://fundraiseup.com/docs/upgrade-links/
-source: "[[2026-03-02 Upgrade Links Boost Recurring Donations and Cover Fees Easily  Fundraise Up Documentation]]"
+source: "[[Archives/2026-03-02 Upgrade Links Boost Recurring Donations and Cover Fees Easily  Fundraise Up Documentation|2026-03-02 Upgrade Links Boost Recurring Donations and Cover Fees Easily  Fundraise Up Documentation]]"
 published: 2026-03-02
 created: 2026-03-06
 relevance: wysoka

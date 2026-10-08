@@ -3,7 +3,7 @@ categories: Clippings
 authors:
   - "[[Socialroots]]"
 url: https://www.socialroots.io/self-organization-needs-activators-the-9-who-turn-networks-into-movements/
-source: "[[2025-06-06 Self-Organization Needs Activators The 9% Who Turn Networks into Movements]]"
+source: "[[Archives/2025-06-06 Self-Organization Needs Activators The 9% Who Turn Networks into Movements|2025-06-06 Self-Organization Needs Activators The 9% Who Turn Networks into Movements]]"
 published: 2025-06-06
 created: 2026-03-19
 relevance: wysoka

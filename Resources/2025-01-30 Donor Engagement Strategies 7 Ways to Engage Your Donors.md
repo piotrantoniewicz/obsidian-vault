@@ -3,7 +3,7 @@ categories: Clippings
 authors:
   - "[[Madison Barefield]]"
 url: https://www.causevox.com/blog/donor-engagement-strategies/
-source: "[[2025-01-30 Donor Engagement Strategies 7 Ways to Engage Your Donors]]"
+source: "[[Archives/2025-01-30 Donor Engagement Strategies 7 Ways to Engage Your Donors|2025-01-30 Donor Engagement Strategies 7 Ways to Engage Your Donors]]"
 published: 2025-01-30
 created: 2026-03-18
 relevance: wysoka

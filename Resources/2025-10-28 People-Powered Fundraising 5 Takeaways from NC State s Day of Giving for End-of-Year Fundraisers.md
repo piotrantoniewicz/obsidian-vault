@@ -3,7 +3,6 @@ categories: Clippings
 authors:
   - "[[SoSha Staff]]"
 url: https://www.sosha.ai/post/people-powered-fundraising-5-takeaways-from-nc-state-s-day-of-giving-for-end-of-year-fundraisers
-source: "[[2025-10-28 People-Powered Fundraising 5 Takeaways from NC State s Day of Giving for End-of-Year Fundraisers]]"
 published: 2025-10-28
 created: 2026-03-20
 relevance: wysoka

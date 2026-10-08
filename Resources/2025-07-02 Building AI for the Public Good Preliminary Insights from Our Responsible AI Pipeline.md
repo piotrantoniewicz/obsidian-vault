@@ -3,7 +3,7 @@ categories: Clippings
 authors:
   - "[[New Rising Ventures]]"
 url: https://newrisingventures.substack.com/p/building-ai-for-the-public-good-preliminary
-source: "[[2025-07-02 Building AI for the Public Good Preliminary Insights from Our Responsible AI Pipeline]]"
+source: "[[Archives/2025-07-02 Building AI for the Public Good Preliminary Insights from Our Responsible AI Pipeline|2025-07-02 Building AI for the Public Good Preliminary Insights from Our Responsible AI Pipeline]]"
 published: 2025-07-02
 created: 2026-03-19
 relevance: wysoka

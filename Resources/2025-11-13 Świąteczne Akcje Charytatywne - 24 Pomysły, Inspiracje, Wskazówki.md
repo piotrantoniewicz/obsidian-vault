@@ -2,7 +2,7 @@
 categories: Clippings
 authors: "[[Karolina Pacoń]]"
 url: https://pomagam.pl/blog/24-pomysly-na-swieta
-source: "[[2025-11-13 Świąteczne Akcje Charytatywne - 24 Pomysły, Inspiracje, Wskazówki]]"
+source: "[[Archives/2025-11-13 Świąteczne Akcje Charytatywne - 24 Pomysły, Inspiracje, Wskazówki|2025-11-13 Świąteczne Akcje Charytatywne - 24 Pomysły, Inspiracje, Wskazówki]]"
 published: 2025-11-13
 created: 2026-03-04
 relevance: wysoka

@@ -3,7 +3,7 @@ categories:
   - Clippings
 authors: ["[[Kasia Szczesna]]"]
 url: "https://behavioralinsight.substack.com/p/ai-should-support-people-at-work?utm_source=substack%2Csubstack&utm_medium=email%2Cemail&utm_campaign=email-restack-comment&r=4zdnrk&triedRedirect=true"
-source: "[[Archives/2026-07-16 "AI should support people at work, not replace them." Nobody is saying how to design that.|2026-07-16 "AI should support people at work, not replace them." Nobody is saying how to design that.]]"
+source: '[[Archives/2026-07-16 "AI should support people at work, not replace them." Nobody is saying how to design that.|2026-07-16 "AI should support people at work, not replace them." Nobody is saying how to design that.]]'
 published: 2026-07-16
 created: 2026-07-16
 relevance: średnia

@@ -5,7 +5,7 @@ tags:
   - content-marketing
   - digital-campaigning
 created: 2026-06-23
-updated: 2026-09-29
+updated: 2026-10-08
 relevance: wysoka
 sources:
   - "[[2025-07-30 Generative engine optimisation query]]"
@@ -46,6 +46,7 @@ sources:
   - "[[2026-09-23 This overlooked tag builds AI trust fast]]"
   - "[[2026-01-28 Boost Your Nonprofit’s Visibility in 2026 5 Practical Ways to Improve AI and Search Discoverability]]"
   - "[[2026-09-25 Gabriella Zutrau - LinkedIn jako niewykorzystany kanał AEO w kampaniach politycznych]]"
+  - "[[2026-08-17 Charity websites hit by rollout of Google AI answers]]"
 ---
 
 # Widoczność w AI search (GEO / AEO)
@@ -57,7 +58,7 @@ sources:
 ## Kluczowe mechanizmy
 
 **1. Zero-click i przesunięcie celu: cytowanie zamiast kliknięcia**
-Ruch wyszukiwania ludzkiego spadł o ~15% r/r **w okresie do czerwca 2025** (strony zdrowotne -31%) — **kotwica sprzed roku; przy cytowaniu podawaj okres pomiaru wprost, bo zjawisko od tego czasu przyspieszyło i liczba zaniża skalę**; jednocześnie zaangażowanie *przychodzących* rośnie — użytkownik trafiający mimo AI Overview jest bardziej zdecydowany. Konsekwencja: ruch z AI konwertuje wielokrotnie lepiej niż tradycyjny search (szacunki 6× — Webflow; 15–20× — Brandi AI), bo dociera po fazie researchu. Cel marketingowy przesuwa się z „pozycji w SERP" na **citation rate** — częstość, z jaką organizacja jest cytowana w odpowiedziach na kluczowe zapytania sektorowe.
+Ruch wyszukiwania ludzkiego spadł o ~15% r/r **w okresie do czerwca 2025** (strony zdrowotne -31%) — **kotwica sprzed roku; przy cytowaniu podawaj okres pomiaru wprost, bo zjawisko od tego czasu przyspieszyło i liczba zaniża skalę**; jednocześnie zaangażowanie *przychodzących* rośnie — użytkownik trafiający mimo AI Overview jest bardziej zdecydowany. Konsekwencja: ruch z AI konwertuje wielokrotnie lepiej niż tradycyjny search (szacunki 6× — Webflow; 15–20× — Brandi AI), bo dociera po fazie researchu. Cel marketingowy przesuwa się z „pozycji w SERP" na **citation rate** — częstość, z jaką organizacja jest cytowana w odpowiedziach na kluczowe zapytania sektorowe. Brytyjskie organizacje zdrowotne pokazują, gdzie spadek uderza: [[Blood Cancer UK]] straciła **17–53%** wyświetleń stron o chorobach (białaczka −53%), a [[The Brain Tumour Charity]] ok. **27%** ruchu, przy darowiznach bez zmian — ubywa ruchu na stronach informacyjnych, nie na stronach kampanii; [[Save the Children]] podaje **+303%** r/r wystąpień w AI Overviews i do **60%** wyszukiwań bez kliknięcia (ogół wyszukiwań, więc inna miara niż 93% w AI Mode), a [[Mind]] cytuje, że **60%** osób zwraca się do chatbotów po wsparcie w zdrowiu psychicznym; autorzy zastrzegają, że efektu AI nie da się wyizolować od zmian algorytmów i zachowań użytkowników (Press Gazette, sierpień 2026, relacje organizacji, bez n).
 
 **2. Query fan-out — jak AI naprawdę szuka**
 Model nie odpowiada na pytanie wprost: rozbija je na kilkanaście **mikro-zapytań** (fanout queries) i składa odpowiedź z różnych źródeł. Stąd treść musi odpowiadać na każde podpytanie z osobna, nie tylko na temat główny. Badanie [[Ahrefs]] (1,4 mln promptów ChatGPT): o cytowaniu decyduje **semantyczna trafność tytułu względem fanout queries** (cosine similarity cytowanych 0,602 vs niecytowanych 0,484; 0,656 wobec podpytań). Praktyczny wniosek: optymalizuj tytuły pod konkretne *pytania-scenariusze* („Jak organizacja społeczna może wdrożyć AI?"), nie pod słowa kluczowe.

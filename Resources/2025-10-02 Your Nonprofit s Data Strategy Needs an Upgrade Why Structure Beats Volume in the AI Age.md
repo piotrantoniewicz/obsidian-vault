@@ -3,7 +3,7 @@ categories: Clippings
 authors:
   - "[[Shannon Miller]]"
 url: https://www.tectonica.co/posts/your-nonprofit-data-strategy-needs-an-upgrade
-source: "[[2025-10-02 Your Nonprofit s Data Strategy Needs an Upgrade Why Structure Beats Volume in the AI Age]]"
+source: "[[Archives/2025-10-02 Your Nonprofit s Data Strategy Needs an Upgrade Why Structure Beats Volume in the AI Age|2025-10-02 Your Nonprofit s Data Strategy Needs an Upgrade Why Structure Beats Volume in the AI Age]]"
 published: 2025-10-02
 created: 2026-03-20
 relevance: wysoka

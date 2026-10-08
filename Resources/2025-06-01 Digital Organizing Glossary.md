@@ -3,7 +3,7 @@ categories: Clippings
 authors:
   - "[[ECDA]]"
 url: https://www.centerfordigitalaction.eu/toolbox/digital-organizing-basics/glossary
-source: "[[2025-06-01 Digital Organizing Glossary]]"
+source: "[[Archives/2025-06-01 Digital Organizing Glossary|2025-06-01 Digital Organizing Glossary]]"
 published: 2025-06-01
 created: 2026-03-19
 relevance: wysoka

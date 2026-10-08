@@ -9,7 +9,7 @@ tags:
   - szkolenia-AI
   - organizacje-społeczne
   - narzędzia-AI
-source: "[[Archives/2026-06-08 Don't Let \"AI\" = Atrophy of Intellect|2026-06-08 Don't Let \"AI\" = Atrophy of Intellect]]"
+source: '[[Archives/2026-06-08 Don''t Let "AI" = Atrophy of Intellect|2026-06-08 Don''t Let "AI" = Atrophy of Intellect]]'
 ---
 
 # Don't Let "AI" = Atrophy of Intellect

@@ -3,7 +3,7 @@ categories: Clippings
 authors:
   - "[[ACM Strategies]]"
 url: https://www.acmstrategies.com/post/nonprofits-steal-these-movement-building-ideas-from-the-zohran-mamdani-campaign
-source: "[[2025-11-05 Your Nonprofit Should Steal These Movement Building Ideas From the Zohran Mamdani Campaign]]"
+source: "[[Archives/2025-11-05 Your Nonprofit Should Steal These Movement Building Ideas From the Zohran Mamdani Campaign|2025-11-05 Your Nonprofit Should Steal These Movement Building Ideas From the Zohran Mamdani Campaign]]"
 published: 2025-11-05
 created: 2026-03-18
 relevance: wysoka

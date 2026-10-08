@@ -2,7 +2,7 @@
 categories: Clippings
 authors: "[[Jacek Siadkowski]]"
 url: https://www.fastcompany.com/91357145/build-optimism-dont-debate-it
-source: "[[2025-06-25 Build optimism—don't debate it]]"
+source: "[[Archives/2025-06-25 Build optimism—don't debate it|2025-06-25 Build optimism—don't debate it]]"
 published: 2025-06-25
 created: 2026-03-10
 relevance: średnia

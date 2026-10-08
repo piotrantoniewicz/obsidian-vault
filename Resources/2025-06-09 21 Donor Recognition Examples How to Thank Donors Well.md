@@ -3,7 +3,7 @@ categories: Clippings
 authors:
   - "[[Madison Barefield]]"
 url: https://www.causevox.com/blog/donor-recognition-ideas/
-source: "[[2025-06-09 21 Donor Recognition Examples How to Thank Donors Well]]"
+source: "[[Archives/2025-06-09 21 Donor Recognition Examples How to Thank Donors Well|2025-06-09 21 Donor Recognition Examples How to Thank Donors Well]]"
 published: 2025-06-09
 created: 2026-03-18
 relevance: wysoka

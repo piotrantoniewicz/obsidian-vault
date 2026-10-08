@@ -4,7 +4,6 @@ authors:
   - "[[Aruna Ranganathan]]"
   - "[[Xingqi Maggie Ye]]"
 url: https://hbr.org/2026/02/ai-doesnt-reduce-work-it-intensifies-it
-source: "[[2026-02-09 AI Doesn t Reduce Work—It Intensifies It]]"
 published: 2026-02-09
 created: 2026-03-20
 relevance: wysoka

@@ -5,8 +5,7 @@ published: 2026-03-05
 created: 2026-03-18
 labels:
   - ECDA
-relevance:
-  - wysoka
+relevance: wysoka
 tags:
   - digital-campaigning
   - narzędzia-AI

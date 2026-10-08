@@ -3,7 +3,6 @@ categories: Clippings
 authors:
   - "[[Yanni Saratsis]]"
 url: https://www.nextafter.com/blog/top-10-calendar-year-end-experiments/
-source: "[[2025-11-19 Top 10 Calendar Year-End Experiments]]"
 published: 2025-11-19
 created: 2026-03-20
 relevance: wysoka

@@ -3,7 +3,7 @@ categories: Clippings
 authors:
   - "[[Steve Anderson]]"
 url: https://www.newmode.net/blog/why-is-everyone-running-phone-advocacy-campaigns-right-now-and-how-to-adopt-this-tactic-effectively
-source: "[[2025-02-27 Maximize Your Advocacy Effective Phone Campaign Strategies]]"
+source: "[[Archives/2025-02-27 Maximize Your Advocacy Effective Phone Campaign Strategies|2025-02-27 Maximize Your Advocacy Effective Phone Campaign Strategies]]"
 published: 2025-02-27
 created: 2026-03-19
 relevance: wysoka

@@ -4,7 +4,7 @@ authors:
   - "[[Kimeko McCoy]]"
   - "[[Sam Bradley]]"
 url: https://digiday.com/marketing/cmos-might-be-pushing-ahead-on-ai-but-lack-of-measurements-holding-them-back/
-source: "[[2025-07-16 CMOs might be pushing ahead on AI, but lack of measurement s holding them back]]"
+source: "[[Archives/2025-07-16 CMOs might be pushing ahead on AI, but lack of measurement s holding them back|2025-07-16 CMOs might be pushing ahead on AI, but lack of measurement s holding them back]]"
 published: 2025-07-16
 created: 2026-03-19
 relevance: wysoka

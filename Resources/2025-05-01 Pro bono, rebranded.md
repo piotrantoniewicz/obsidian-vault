@@ -2,7 +2,7 @@
 categories: Clippings
 authors: "[[Jacek Siadkowski]]"
 url: https://www.fastcompany.com/91326545/pro-bono-rebranded
-source: "[[2025-05-01 Pro bono, rebranded]]"
+source: "[[Archives/2025-05-01 Pro bono, rebranded|2025-05-01 Pro bono, rebranded]]"
 published: 2025-05-01
 created: 2026-03-10
 relevance: średnia

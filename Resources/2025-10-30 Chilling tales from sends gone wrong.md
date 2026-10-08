@@ -5,7 +5,7 @@ published: 2025-10-30
 created: 2026-03-18
 labels:
   - Civic Shout
-relevance: Średnio
+relevance: średnia
 tags:
   - digital-campaigning
   - fundraising

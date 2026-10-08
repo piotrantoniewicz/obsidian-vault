@@ -6,7 +6,7 @@ authors:
   - "[[Carly Ryan]]"
   - "[[Jeremy Hadfield]]"
 url: https://www.anthropic.com/engineering/effective-context-engineering-for-ai-agents
-source: "[[2025-09-25 Effective context engineering for AI agents]]"
+source: "[[Archives/2025-09-25 Effective context engineering for AI agents|2025-09-25 Effective context engineering for AI agents]]"
 published: 2025-09-25
 created: 2026-03-13
 relevance: wysoka

@@ -2,7 +2,7 @@
 categories: Clippings
 authors: "[[Timothy DeCelle]]"
 url: https://thenonprofithive.com/nonprofit-strategic-planning-in-uncertain-times/
-source: "[[2026-02-01 Nonprofit Strategic Planning as Spiritual Practice]]"
+source: "[[Archives/2026-02-01 Nonprofit Strategic Planning as Spiritual Practice|2026-02-01 Nonprofit Strategic Planning as Spiritual Practice]]"
 published: 2026-02-01
 created: 2026-03-04
 relevance: średnia

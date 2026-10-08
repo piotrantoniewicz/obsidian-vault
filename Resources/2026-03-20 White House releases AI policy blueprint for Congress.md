@@ -10,7 +10,7 @@ source: >-
   Congress|2026-03-20 White House releases AI policy blueprint for Congress]]
 published: '2026-03-20'
 created: '2026-03-27'
-relevance: Średnio
+relevance: średnia
 tags:
   - strategia-AI
   - trendy-AI

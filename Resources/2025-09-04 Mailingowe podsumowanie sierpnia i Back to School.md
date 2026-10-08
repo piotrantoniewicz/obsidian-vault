@@ -2,7 +2,7 @@
 categories: Clippings
 authors: "[[Ecomail.pl]]"
 url: https://ecomail.pl/blog/pl/sierpien-mailingowe-podsumowanie-miesiaca/
-source: "[[2025-09-04 Mailingowe podsumowanie sierpnia i Back to School]]"
+source: "[[Archives/2025-09-04 Mailingowe podsumowanie sierpnia i Back to School|2025-09-04 Mailingowe podsumowanie sierpnia i Back to School]]"
 published: 2025-09-04
 created: 2026-03-02
 relevance: niska

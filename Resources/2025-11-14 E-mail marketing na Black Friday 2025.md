@@ -2,7 +2,7 @@
 categories: Clippings
 authors: "[[Ecomail.pl]]"
 url: https://ecomail.pl/blog/pl/e-mail-marketing-na-black-friday-2025-jak-przygotowac-skuteczna-kampanie-ktora-sprzedaje-na-podstawie-wnioskow-z-poprzednich-lat/
-source: "[[2025-11-14 E-mail marketing na Black Friday 2025]]"
+source: "[[Archives/2025-11-14 E-mail marketing na Black Friday 2025|2025-11-14 E-mail marketing na Black Friday 2025]]"
 published: 2025-11-14
 created: 2026-03-02
 relevance: niska

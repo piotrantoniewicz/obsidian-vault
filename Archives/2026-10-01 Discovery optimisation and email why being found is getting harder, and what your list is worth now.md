@@ -5,6 +5,9 @@ url: "https://weareastral.co.uk/thevault/discovery-optimisation-and-email-why-be
 published: 2026-10-01
 created: 2026-10-08
 tags:
+  - "digital-campaigning"
+  - "content-marketing"
+  - "trendy-AI"
 ---
 
 

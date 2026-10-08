@@ -2,7 +2,7 @@
 categories: Clippings
 authors: "[[Ian Dunt]]"
 url: https://iandunt.substack.com/p/this-feeling-is-called-hope
-source: "[[2025-11-07 This feeling is called hope]]"
+source: "[[Archives/2025-11-07 This feeling is called hope|2025-11-07 This feeling is called hope]]"
 published: 2025-11-07
 created: 2026-03-04
 relevance: wysoka

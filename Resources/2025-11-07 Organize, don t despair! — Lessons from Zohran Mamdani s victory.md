@@ -4,7 +4,6 @@ authors:
   - "[[Mar Garcia Sanz]]"
   - "[[Viktor Mák]]"
 url: https://www.centerfordigitalaction.eu/post/organize-dont-despair
-source: "[[2025-11-07 Organize, don t despair! — Lessons from Zohran Mamdani s victory]]"
 published: 2025-11-07
 created: 2026-03-20
 relevance: średnia

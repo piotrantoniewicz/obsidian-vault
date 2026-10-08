@@ -3,7 +3,7 @@ categories: Clippings
 authors:
   - "[[Sara Cederberg]]"
 url: https://www.civicshoutnewsletter.com/p/what-email-marketers-should-know-about-donor-advised-funds
-source: "[[2025-09-04 What email marketers should know about donor-advised funds]]"
+source: "[[Archives/2025-09-04 What email marketers should know about donor-advised funds|2025-09-04 What email marketers should know about donor-advised funds]]"
 published: 2025-09-04
 created: 2026-03-18
 relevance: wysoka

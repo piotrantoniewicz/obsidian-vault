@@ -2,7 +2,7 @@
 categories: Clippings
 authors: "[[Bobby Hilliard]]"
 url: https://manychat.com/blog/instagram-machine-zohran-mamdani-elected/
-source: "[[2025-11-21 Inside the Instagram Machine That Got Zohran Mamdani Elected]]"
+source: "[[Archives/2025-11-21 Inside the Instagram Machine That Got Zohran Mamdani Elected|2025-11-21 Inside the Instagram Machine That Got Zohran Mamdani Elected]]"
 published: 2025-11-21
 created: 2026-03-03
 relevance: wysoka

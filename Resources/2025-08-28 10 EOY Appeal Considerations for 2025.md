@@ -2,7 +2,7 @@
 categories: Clippings
 authors: "[[Mike Esposito]]"
 url: https://www.mikeespositocfre.com/nonprofit-resources/10-eoy-appeal-considerations-for-2025
-source: "[[2025-08-28 10 EOY Appeal Considerations for 2025]]"
+source: "[[Archives/2025-08-28 10 EOY Appeal Considerations for 2025|2025-08-28 10 EOY Appeal Considerations for 2025]]"
 published: 2025-08-28
 created: 2026-03-04
 relevance: wysoka

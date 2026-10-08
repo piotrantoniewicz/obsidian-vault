@@ -3,7 +3,6 @@ categories: Clippings
 authors:
   - "[[Darian Rodriguez Heyman]]"
 url: https://www.diligent.com/resources/podcasts/leading-with-purpose-darian-rodriguez-hayman
-source: "[[2025-10-20 Human-centered AI Practical insights for nonprofit boards]]"
 published: 2025-10-20
 created: 2026-03-20
 relevance: wysoka

@@ -3,7 +3,7 @@ categories: Clippings
 authors:
   - "[[Ernestas Naprys]]"
 url: https://cybernews.com/security/gmail-cracks-down-on-non-compliant-email-senders/
-source: "[[2025-11-12 Gmail cracks down on non-compliant bulk email senders]]"
+source: "[[Archives/2025-11-12 Gmail cracks down on non-compliant bulk email senders|2025-11-12 Gmail cracks down on non-compliant bulk email senders]]"
 published: 2025-11-12
 created: 2026-03-18
 relevance: średnia

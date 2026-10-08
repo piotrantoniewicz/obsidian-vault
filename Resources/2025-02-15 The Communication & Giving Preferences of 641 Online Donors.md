@@ -2,7 +2,7 @@
 categories: Clippings
 authors: "[[Heather Mansfield]]"
 url: https://www.nptechforgood.com/2025/02/15/the-communication-giving-preferences-of-641-online-donors/
-source: "[[2025-02-15 The Communication & Giving Preferences of 641 Online Donors]]"
+source: "[[Archives/2025-02-15 The Communication & Giving Preferences of 641 Online Donors|2025-02-15 The Communication & Giving Preferences of 641 Online Donors]]"
 published: 2025-02-15
 created: 2026-03-04
 relevance: wysoka

@@ -2,7 +2,7 @@
 categories: Clippings
 authors: ["[[Jack Milroy]]"]
 url: "https://www.linkedin.com/pulse/technically-flawless-completely-forgettable-why-good-longer-milroy-aailc/"
-source: "[[Archives/2026-05-22 Technically Flawless and Completely Forgettable Why \"good communicators\" no longer are|2026-05-22 Technically Flawless and Completely Forgettable Why \"good communicators\" no longer are]]"
+source: '[[Archives/2026-05-22 Technically Flawless and Completely Forgettable Why "good communicators" no longer are|2026-05-22 Technically Flawless and Completely Forgettable Why "good communicators" no longer are]]'
 published: 2026-05-22
 created: 2026-05-22
 relevance: średnia

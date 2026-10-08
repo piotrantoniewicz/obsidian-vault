@@ -2,7 +2,7 @@
 categories: Clippings
 authors: "[[Mike Esposito]]"
 url: https://www.mikeespositocfre.com/nonprofit-resources/planning-for-a-stronger-fundraising-year-in-2026
-source: "[[2025-11-20 Planning for a Stronger Fundraising Year in 2026]]"
+source: "[[Archives/2025-11-20 Planning for a Stronger Fundraising Year in 2026|2025-11-20 Planning for a Stronger Fundraising Year in 2026]]"
 published: 2025-11-20
 created: 2026-03-04
 relevance: wysoka

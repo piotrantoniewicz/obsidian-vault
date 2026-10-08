@@ -5,6 +5,8 @@ url: "https://www.linkedin.com/pulse/potrzebujesz-ekstra-szybko%C5%9Bci-przyspie
 published: 2026-10-08
 created: 2026-10-08
 tags:
+  - "fundraising"
+  - "digital-campaigning"
 ---
 
 

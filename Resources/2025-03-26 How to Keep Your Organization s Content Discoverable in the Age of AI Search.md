@@ -3,7 +3,7 @@ categories: Clippings
 authors:
   - "[[Linnea Huxford]]"
 url: https://newoldweb.com/how-to-keep-your-organizations-content-discoverable-in-the-age-of-ai-search
-source: "[[2025-03-26 How to Keep Your Organization s Content Discoverable in the Age of AI Search]]"
+source: "[[Archives/2025-03-26 How to Keep Your Organization s Content Discoverable in the Age of AI Search|2025-03-26 How to Keep Your Organization s Content Discoverable in the Age of AI Search]]"
 published: 2025-03-26
 created: 2026-03-19
 relevance: wysoka

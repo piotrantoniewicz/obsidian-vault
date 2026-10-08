@@ -3,7 +3,7 @@ categories: Clippings
 authors:
   - "[[K2D Strategies]]"
 url: https://k2dstrategies.com/case_studies/developing-and-implementing-a-multi-channel-digital-campaign/
-source: "[[2023-07-13 Maximizing Donations through Multi-Channel Digital Strategies]]"
+source: "[[Archives/2023-07-13 Maximizing Donations through Multi-Channel Digital Strategies|2023-07-13 Maximizing Donations through Multi-Channel Digital Strategies]]"
 published: 2023-07-13
 created: 2026-03-18
 relevance: wysoka

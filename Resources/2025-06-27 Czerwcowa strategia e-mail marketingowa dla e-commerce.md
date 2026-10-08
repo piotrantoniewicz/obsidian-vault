@@ -2,7 +2,7 @@
 categories: Clippings
 authors: "[[Ecomail.pl]]"
 url: https://ecomail.pl/blog/pl/czerwiec-mailingowe-podsumowanie-miesiaca/
-source: "[[2025-06-27 Czerwcowa strategia e-mail marketingowa dla e-commerce]]"
+source: "[[Archives/2025-06-27 Czerwcowa strategia e-mail marketingowa dla e-commerce|2025-06-27 Czerwcowa strategia e-mail marketingowa dla e-commerce]]"
 published: 2025-06-27
 created: 2026-03-02
 relevance: średnia

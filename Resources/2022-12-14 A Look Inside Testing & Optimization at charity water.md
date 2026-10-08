@@ -2,7 +2,7 @@
 categories: Clippings
 authors: "[[Riley Young]]"
 url: https://www.nextafter.com/blog/a-look-inside-testing-optimization-at-charity-water/
-source: "[[2022-12-14 A Look Inside Testing & Optimization at charity water]]"
+source: "[[Archives/2022-12-14 A Look Inside Testing & Optimization at charity water|2022-12-14 A Look Inside Testing & Optimization at charity water]]"
 published: 2022-12-14
 created: 2026-03-04
 relevance: wysoka

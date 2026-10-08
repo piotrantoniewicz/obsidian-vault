@@ -1,8 +1,6 @@
 ---
 tags:
   - fundraising
-  - prezentacja
-  - dane
 created: '2026-06-01'
 ---
 # Fundraising 2026 — kluczowe liczby do prezentacji

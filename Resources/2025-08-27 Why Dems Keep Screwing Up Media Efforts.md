@@ -2,7 +2,7 @@
 categories: Clippings
 authors: "[[Elizabeth Spiers]]"
 url: https://www.elizabethspiers.com/why-dems-keep-screwing-up-media-efforts/
-source: "[[2025-08-27 Why Dems Keep Screwing Up Media Efforts]]"
+source: "[[Archives/2025-08-27 Why Dems Keep Screwing Up Media Efforts|2025-08-27 Why Dems Keep Screwing Up Media Efforts]]"
 published: 2025-08-27
 created: 2026-03-04
 relevance: wysoka

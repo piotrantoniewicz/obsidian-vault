@@ -1,11 +1,11 @@
 ---
 categories:
   - Area
-created: '2026-09-23'
 status: Aktywny
+created: 2026-09-23
 tags:
   - organizacje-społeczne
-updated: '2026-09-23'
+updated: 2026-09-23
 ---
 # Ocena wniosków grantowych
 

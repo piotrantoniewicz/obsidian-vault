@@ -2,7 +2,7 @@
 categories: Clippings
 authors: "[[Jacek Siadkowski]]"
 url: https://www.fastcompany.com/91368884/the-ai-native-nonprofit-era-is-coming
-source: "[[2025-07-17 The AI-native nonprofit era is coming]]"
+source: "[[Archives/2025-07-17 The AI-native nonprofit era is coming|2025-07-17 The AI-native nonprofit era is coming]]"
 published: 2025-07-17
 created: 2026-03-10
 relevance: wysoka

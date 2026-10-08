@@ -3,7 +3,7 @@ categories: Clippings
 authors:
   - "[[Tectonica Digital Campaign Solutions]]"
 url: https://www.tectonica.co/posts/ai-faustian-bargain
-source: "[[2025-11-27 The Choice Between Transformational Tech and Performative Optimization]]"
+source: "[[Archives/2025-11-27 The Choice Between Transformational Tech and Performative Optimization|2025-11-27 The Choice Between Transformational Tech and Performative Optimization]]"
 published: 2025-11-27
 created: 2026-03-20
 relevance: wysoka

@@ -2,7 +2,7 @@
 categories: Clippings
 authors: "[[Ecomail.pl]]"
 url: https://ecomail.pl/blog/pl/up-sell-i-cross-sell-w-e-mail-marketingu-best-practices-na-przykladzie-back-to-school/
-source: "[[2025-08-23 Up-selling i cross-selling w e-mail marketingu]]"
+source: "[[Archives/2025-08-23 Up-selling i cross-selling w e-mail marketingu|2025-08-23 Up-selling i cross-selling w e-mail marketingu]]"
 published: 2025-08-23
 created: 2026-03-02
 relevance: niska

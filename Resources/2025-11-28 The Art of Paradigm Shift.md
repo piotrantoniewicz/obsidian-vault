@@ -2,7 +2,7 @@
 categories: Clippings
 authors: "[[Bert Wander]]"
 url: https://bertwander.substack.com/p/the-art-of-paradigm-shift
-source: "[[2025-11-28 The Art of Paradigm Shift]]"
+source: "[[Archives/2025-11-28 The Art of Paradigm Shift|2025-11-28 The Art of Paradigm Shift]]"
 published: 2025-11-28
 created: 2026-03-03
 relevance: średnia

@@ -2,7 +2,7 @@
 categories: Clippings
 authors: "[[Cynthia Kroet]]"
 url: https://www.euronews.com/next/2025/07/25/meta-halts-political-advertising-in-the-eu-due-to-unworkable-rules
-source: "[[2025-07-25 Meta halts political advertising in the EU due to unworkable rules]]"
+source: "[[Archives/2025-07-25 Meta halts political advertising in the EU due to unworkable rules|2025-07-25 Meta halts political advertising in the EU due to unworkable rules]]"
 published: 2025-07-25
 created: 2026-03-02
 relevance: wysoka

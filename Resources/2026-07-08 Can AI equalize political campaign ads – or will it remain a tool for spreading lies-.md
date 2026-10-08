@@ -3,7 +3,7 @@ categories:
   - Clippings
 authors: ["[[Sanya Mansoor]]"]
 url: "https://www.theguardian.com/technology/2026/jul/08/ai-ads-political-campaigns"
-source: "[[Archives/2026-07-08 Can AI equalize political campaign ads – or will it remain a tool for spreading lies-|2026-07-08 Can AI equalize political campaign ads – or will it remain a tool for spreading lies-]]"
+source: "[[Archives/2026-07-08 Can AI equalize political campaign ads – or will it remain a tool for spreading lies?|2026-07-08 Can AI equalize political campaign ads – or will it remain a tool for spreading lies-]]"
 published: 2026-07-08
 created: 2026-07-20
 relevance: średnia

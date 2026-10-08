@@ -3,7 +3,7 @@ categories: Clippings
 authors:
   - "[[Kevin Collier]]"
 url: https://www.nbcnews.com/tech/security/online-propaganda-campaigns-are-using-ai-slop-researchers-say-rcna244618
-source: "[[2025-11-19 Some of the largest online propaganda campaigns are using AI slop, researchers say]]"
+source: "[[Archives/2025-11-19 Some of the largest online propaganda campaigns are using AI slop, researchers say|2025-11-19 Some of the largest online propaganda campaigns are using AI slop, researchers say]]"
 published: 2025-11-19
 created: 2026-03-20
 relevance: średnia

@@ -3,7 +3,7 @@ categories: Clippings
 authors:
   - "[[Edwin Wong]]"
 url: https://www.theverge.com/press-room/617654/internet-community-future-research
-source: "[[2025-02-25 The future of the internet is likely smaller communities, with a focus on curated experiences]]"
+source: "[[Archives/2025-02-25 The future of the internet is likely smaller communities, with a focus on curated experiences|2025-02-25 The future of the internet is likely smaller communities, with a focus on curated experiences]]"
 published: 2025-02-25
 created: 2026-03-18
 relevance: średnia

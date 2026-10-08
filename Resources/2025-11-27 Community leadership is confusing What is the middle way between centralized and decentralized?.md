@@ -3,7 +3,6 @@ categories: Clippings
 authors:
   - "[[Fabian Pfortmüller]]"
 url: https://entangledtogether.substack.com/p/community-leadership-is-confusing
-source: "[[2025-11-27 Community leadership is confusing What is the middle way between centralized and decentralized?]]"
 published: 2025-11-27
 created: 2026-03-20
 relevance: średnia

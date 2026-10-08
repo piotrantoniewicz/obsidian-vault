@@ -5,7 +5,7 @@ tags:
   - fundraising
   - automatyzacja
 created: 2026-06-29
-updated: 2026-10-07
+updated: 2026-10-08
 relevance: wysoka
 sources:
   - "[[2025-08-13 Why I deleted 786 subscribers from my list]]"
@@ -48,6 +48,7 @@ sources:
   - "[[2026-09-29 How one nonprofit raised 81% more by emailing almost every day]]"
   - "[[2026-08-07 10 Email Best Practices Worth Retesting in 2026]]"
   - "[[2026-10-01 How one cause earned $508,770 in free Civic Shout ad credits in 3 months]]"
+  - "[[2026-10-01 How to build an email deliverability early warning system]]"
 ---
 
 # Higiena listy (list hygiene)
@@ -193,6 +194,8 @@ Polskie, operacyjne uzupełnienie tej strony o warstwę rekordów, nie adresów.
 - **Dezaktualizacja listy: 22–30% (B2B) vs 12–16% (organizacje społeczne)** — dwie kotwice obok siebie na jednej stronie. *Status: otwarte.* *(Przeniesione z galaxy-strategia.md, 2026-09-29.)*
 
 - **Częstsze wysyłki: szybsza niewidzialność czy wyższy przychód?** [Higiena listy mech. 11; Newsletter jako kanał mech. 42] — A: częstotliwość **przyspiesza habituację** — częstsze wysyłki nie dają malejących zwrotów, tylko szybciej czynią nadawcę niewidzialnym, a zjawisko nie pojawia się w metrykach ESP ([[2026-08-12 Inbox psychology why people stop seeing your emails. Repetition, awareness, and the filtering nobody measures|Beth O'Malley]], 2026, synteza badań psychologicznych — Thompson i Spencer 1966, Rankin i in. 2009 — bez pomiaru na listach mailowych i bez n). B: przejście na **niemal codzienną wysyłkę** (33 maile marketingowe do jednej kampanii) dało **+81% przychodu** z wydarzenia (16 → 29 tys. USD przy tej samej liczbie rejestracji) przy wypisach **poniżej 1%**; w teście Audubon grupa z większą liczbą maili zebrała **71% więcej** ([[2026-09-29 How one nonprofit raised 81% more by emailing almost every day|Civic Shout / LSSN]], 2026, jeden case organizacji pacjenckiej plus jeden test, bez podanego n, USA). Wątpliwość nazwana: A mierzy uwagę (cichy churn), B — przychód i wypisy w jednej kampanii, więc B nie mierzy tego, co A uznaje za główny koszt, a A nie podaje progu częstotliwości; w B każdy mail był usługą dla społeczności (edukacja medyczna, wsparcie), co może być zmienną rozstrzygającą. *Status: otwarte.*
+
+- **Progi skarg na spam: gdzie kończy się zielone i zaczyna alarm** [liczby-kotwice] — A: alarm zaczyna się przy ok. 0,02–0,03%, a poziom >0,1% to już wskaźnik wysoki, >0,3% grozi blokadą ([[2024-04-29 Email Performance Red Flags Spam Complaints|SocketLabs]], 2024, bez n); >0,03% to sygnał do działania ([[2026-05-18 Send It Right - How To Know If You Have a Deliverability Issue|Meyer, Send It Right]], 2026, bez n). B: czterostopniowa skala — <0,02% w porządku, 0,02–0,1% bursztyn, 0,1–0,3% czerwony (wstrzymaj szerokie wysyłki), >0,3% stop ([[2026-10-01 How to build an email deliverability early warning system|O’Malley]], październik 2026, bez n); inna skala: 0,08% żółta flaga, 0,3% czerwona ([[2026-03-25 List Churn Is Normal — Here s How to Measure It, Manage It, and Stop Panicking About It|List Churn Is Normal]], 2026, bez n). Wątpliwość nazwana wprost: to heurystyki alertowe, nie pomiary, i nie opisują tego samego stanu — poziom 0,1% jest ostrzeżeniem w jednym źródle, stanem czerwonym w drugim i żółtą flagą w trzecim. Autorka skali B uzasadnia ostrzejsze progi tym, że publikowane limity wyznaczają moment kary, a nie moment niepokoju. *Status: otwarte.*
 
 ## Powiązane pojęcia
 

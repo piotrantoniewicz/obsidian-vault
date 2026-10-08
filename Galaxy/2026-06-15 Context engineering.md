@@ -5,7 +5,7 @@ tags:
   - LLM
   - narzędzia-AI
 created: 2026-06-15
-updated: 2026-09-22
+updated: 2026-10-08
 relevance: wysoka
 sources:
   - "[[2025-09-29 Effective context engineering for AI agents]]"
@@ -22,6 +22,7 @@ sources:
   - "[[Archives/2026-07-24 The new rules of context engineering for Claude 5 generation models]]"
   - "[[2026-08-14 Maximizing the value of your Claude Code sessions]]"
   - "[[2026-09-16 The Leadership Brief 16Sep2026 - AI updates by Marcelina]]"
+  - "[[2026-10-07 From AI Generalist to AI Specialist]]"
 ---
 
 # Context engineering (projektowanie kontekstu)
@@ -42,7 +43,7 @@ Wraz ze wzrostem długości okna zdolność modelu do precyzyjnego wyszukania w�
 - **Przykłady** — kanoniczne, reprezentatywne wzorce zamiast listy wyjątków („pictures worth a thousand words").
 
 **3. Warstwowość: kontekst budowany przyrostowo**
-[[LLM]] nie inferuje kontekstu sam — nie wie, kim jest użytkownik, co robił przed chwilą, które dokumenty są istotne ani jakie reguły obowiązują. Na przykładzie asystenta mailowego widać, jak każda dodana warstwa skokowo podnosi jakość: ostatnia wiadomość → cały wątek → wątek + [[CRM]] → + ton marki → + historia relacji = output gotowy do wysyłki. Sześć warstw, które trzeba dostarczyć *explicite*: tożsamość użytkownika, historia działań, istotne dokumenty, dane systemowe, reguły biznesowe, relacje między encjami.
+[[LLM]] nie inferuje kontekstu sam — nie wie, kim jest użytkownik, co robił przed chwilą, które dokumenty są istotne ani jakie reguły obowiązują. Na przykładzie asystenta mailowego widać, jak każda dodana warstwa skokowo podnosi jakość: ostatnia wiadomość → cały wątek → wątek + [[CRM]] → + ton marki → + historia relacji = output gotowy do wysyłki. Sześć warstw, które trzeba dostarczyć *explicite*: tożsamość użytkownika, historia działań, istotne dokumenty, dane systemowe, reguły biznesowe, relacje między encjami. W wersji nietechnicznej te same warstwy układają się w cztery dźwignie dostosowania AI do domeny: **instrukcje** („opis stanowiska”: rola, zakres, zakazy), **wiedza** (aktualne dane programowe i polityki organizacji zamiast ogólnego wyobrażenia o tym, „jak to się robi”), **narzędzia** (pytanie kontrolne: co to narzędzie widzi i co może zmienić?) oraz **zabezpieczenia** (reguły egzekwowane przez system, nie przez prompt). Kryterium wdrożenia to wiarygodność domenowa, nie ogólna „inteligencja” modelu ([[2026-10-07 From AI Generalist to AI Specialist|Bryan Neider]], AbilityPath, za warsztatem AWS).
 
 **4. Techniki dla zadań długodystansowych (long-horizon)**
 Gdy zadanie przekracza pojemność okna, kontekstem trzeba aktywnie zarządzać:

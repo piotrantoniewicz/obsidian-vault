@@ -20,7 +20,7 @@ Rejestr tematów, które mogą dostać własną stronę (`/galaxy:pisz`). **Jedn
 | Strategia organizacji (wybór, koszt alternatywny, konflikt) | obserwować | ~11 wąsko, ~236 szeroko | Transparentność mech. 11 | — |
 | Ludzie, role i zmiana w organizacji — poza wdrażaniem AI (sukcesja, wypalenie, rotacja; strona o tym tytule powstała 2026-10-06 tylko w ujęciu wdrażania AI — rozszerzyć ją albo wydzielić osobną) | kandydat realny | 12+ źródeł; ~22 + ~5 o mentoringu | Ludzie, role i zmiana w organizacji, Stewardship, Pokolenia darczyńców mech. 7 (Gen Z w pracy, onboarding); zazębia się z „Przywództwo i zarząd” | 2026-10-06 |
 | Przywództwo i zarząd w organizacji społecznej | kandydat realny | ~32 „przywództwo”, ~97 „zarząd”; ≥6 notatek o radzie (burnout dyrektora, retreat, fundraising rady, syndrom założyciela) | Stewardship mech. 13 (rada); zazębia się z „Ludzie, role i zmiana”; kultura spotkań (Neider) | 2026-10-07 |
-| Pomiar, analityka i atrybucja (GA4, UTM, MTA → MMM) | obserwować | ~4 „atrybucja”, ~9 wąsko, ~34 szeroko | — | — |
+| Pomiar, analityka i atrybucja (GA4, UTM, MTA → MMM) | obserwować | ~4 „atrybucja”, ~9 wąsko, ~34 szeroko | Newsletter mech. 20 i 41, Widoczność w AI search mech. 25 (MMM), Storytelling mech. 12 | 2026-10-08 |
 | Wnioski grantowe i obsługa dotacji | kandydat realny | ~47 | — | 2026-09-05 |
 | Badania, ankiety i predykcja zachowań z AI | obserwować | ~24 szeroko, ~3 wąsko | Prompt engineering | — |
 | Advocacy, konsultacje publiczne i autentyczność uczestnictwa | kandydat realny | ~43 | zazębia się z „Dezinformacja…” | 2026-09-21 |
@@ -34,7 +34,7 @@ Rejestr tematów, które mogą dostać własną stronę (`/galaxy:pisz`). **Jedn
 | Walidacja produktu przed zbudowaniem | obserwować | słaba | — | — |
 | Techniczne SEO stron organizacji | obserwować | ~46 szeroko | — | — |
 | Wydarzenia fundraisingowe (eventy) | obserwować | ~6 wąsko, ~35 szeroko; ~19 „aukcja/gala/wydarzenie/giving day” | Stewardship mech. 10 (aukcja); P2P mech. 13, 17, 20 | 2026-10-04 |
-| Copy kampanijne: hasło, nagłówek, hook | obserwować | ~34 szeroko | Framing mech. 15, 18, 21; Newsletter mech. 29 | 2026-10-08 |
+| Copy kampanijne: hasło, nagłówek, hook | obserwować | ~34 szeroko | Framing mech. 15, 18, 21; Newsletter mech. 29; Kampania końcoworoczna mech. 5 (claim i bohater) | 2026-10-08 |
 | Sprzedaż i działalność odpłatna organizacji | obserwować | ~51 szeroko | Framing mech. 25, Stewardship mech. 13 | — |
 | Społeczność jako struktura projektowa (community building) | obserwować | ~39 | — | — |
 | SMS / texting jako kanał | kandydat realny | ~23 | Storytelling, Higiena listy, Stewardship; Newsletter mech. 18 i Sprzeczności (SMS vs „bańka”) | 2026-10-06 |
@@ -45,10 +45,10 @@ Rejestr tematów, które mogą dostać własną stronę (`/galaxy:pisz`). **Jedn
 | Monetyzacja wiedzy / produkty cyfrowe | obserwować | ~6 | — | — |
 | Prawa autorskie, dane treningowe i ekstrakcja stylu | obserwować | ~3 | Ghostwriting mech. 19 | — |
 | Twórcy, influencerzy i „amplifierzy” w kampaniach | obserwować | ~36 | Owned vs rented mech. 6–8, 14; Ghostwriting mech. 20 | — |
-| Centra danych AI, woda i energia | obserwować | ~22 | Suwerenność technologiczna mech. 9, 13, 16, 18, 20 (najgęstszy podwątek; dotyczy ewentualnego rozbicia tej strony) | — |
+| Centra danych AI, woda i energia | obserwować | ~22 | Suwerenność technologiczna mech. 9, 13, 16, 18, 20 (najgęstszy podwątek; dotyczy ewentualnego rozbicia tej strony) | 2026-10-08 |
 | Partycypacja i wynagradzanie osób z doświadczeniem (lived experience; participatory grantmaking) | obserwować | ~3 + ~6 + ~2 „participatory grantmaking” | — | 2026-09-30 |
 | Matching grant (pula od jednego darczyńcy, mnożnik, okno) | kandydat realny | ~11 wąsko (część szumu), ~75 szeroko (GivingTuesday / giving day) | Major gifts mech. 11; Recurring giving, P2P, Kampania końcoworoczna, Stewardship | 2026-10-05 |
 | Prospect research i scoring z AI (propensity, wealth screening, sygnały zachowania) | obserwować | ~11 wąsko, ~30 szeroko | Major gifts mech. 5–8 (główny dom); Transfer, DAF, Evale | 2026-10-05 |
-| Eksperymentowanie i testowanie (A/B, holdout, rejestr testów, „folklor” best practices) | kandydat realny | ~36 wąsko (A/B, holdout; część szum), ~34 „eksperyment” | Email deliverability mech. 25, Newsletter mech. 20, 27, 29; Marka osobista mech. 18; Framing mech. 9 (test CTA bez istotności) | 2026-10-08 |
+| Eksperymentowanie i testowanie (A/B, holdout, rejestr testów, „folklor” best practices) | kandydat realny | ~36 wąsko (A/B, holdout; część szum), ~34 „eksperyment” | Email deliverability mech. 25, Newsletter mech. 20, 27, 29, 43; Marka osobista mech. 18; Framing mech. 9 (test CTA bez istotności) | 2026-10-08 |
 | Kampanie wyborcze: field, wolontariusze, organizowanie relacyjne (Mamdani, Connolly, TTPA) | kandydat realny | ~30 „Mamdani”, ~15 field/GOTV/kampania, ~2 organizowanie relacyjne | Framing mech. 7, P2P mech. 3 i 14, Owned vs rented mech. 26 i 32, Rapid response mech. 1 | 2026-10-07 |
 | Wideo w komunikacji i fundraisingu (formaty, długość, podziękowania wideo, transmisje) | kandydat realny | ~44 szeroko (część szum) | Storytelling mech. 11, 14, 20; Stewardship mech. 12; P2P mech. 4; Owned vs rented mech. 36 | 2026-10-08 |

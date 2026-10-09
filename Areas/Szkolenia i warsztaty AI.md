@@ -11,6 +11,7 @@ tags:
 Trwała rola: projektowanie i prowadzenie szkoleń oraz warsztatów z generatywnej AI dla organizacji społecznych i ich odbiorców (m.in. przedsiębiorczyń), a także dla instytucji edukacyjnych. Interfejs narzędzi → prompting → budowanie asystentów/Projects → praktyczne workflow (research, brand voice, prospecting, CRM) → bezpieczeństwo i etyka. „W porządku" = każde zlecenie ma scenariusz, materiały dla uczestników i wymagania techniczne dopięte przed terminem, a powtarzalne moduły (program, ćwiczenia, szablony promptów) są wersjonowane i gotowe do ponownego użycia.
 
 ## Projekty
+- [[2026-10-10 Szkolenie AI dla przedsiębiorczyń — Fundacja Ukrainka w Polsce (Wrocław II)]] — warsztat stacjonarny, program skrócony (4 bloki), Wrocław (10.10.2026) — aktywny
 - [[2026-09-23 Szkolenie AI dla nauczycieli akademickich — WSKZ]] — szkolenie 2×4h, Wyższa Szkoła Kształcenia Zawodowego, Wrocław — w negocjacjach (termin i format nieustalone)
 - [[2026-08-06 Wystąpienie dla liderów polonijnych — Szkoła Liderstwa (Książnice)]] — wystąpienie 40 min, Książnice (06.08.2026) — planowane
 - [[2026-07-04 Szkolenie AI dla przedsiębiorczyń — Fundacja Ukrainka w Polsce (Warszawa)]] — warsztat live demo, Warszawa (04.07.2026) — zrealizowane

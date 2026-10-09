@@ -37,7 +37,7 @@ Przeprowadzić warsztat „AI dla przedsiębiorczyń: otwórz i rozwiń własny 
 **Zmiany względem edycji wiosenno-letnich:** 7 bloków → 4; prospecting i Notion jako CRM scalone w jeden blok; wizytówka Google Maps wypadła z programu. W bibliotece promptów doszła **sekcja 0 „Zanim zaczniesz"** — projekt „Mój Biznes" w Claude z profilem pracy (testy FRIS/DISC/Gallup albo krótki wywiad) i asystentem-challengerem, na którym opierają się wybór niszy i ICP.
 
 ## Finanse
-- Wynagrodzenie: **1000 zł** (4 h × 250 zł) — brutto/netto nie podano przy zleceniu, do potwierdzenia przy rozliczeniu
+- Wynagrodzenie: **1000 zł brutto** (4 h × 250 zł brutto)
 
 ## Kolejne kroki
 - [ ] Przeprowadzić warsztat — 10.10.2026, Wrocław, 11:00–15:00
@@ -55,4 +55,4 @@ Przeprowadzić warsztat „AI dla przedsiębiorczyń: otwórz i rozwiń własny 
 - `~/Projekty/Szkolenia/UwP/_archiwum-przed-jesien-2026/` — poprzednie wersje strony i wstępu (program 7-blokowy)
 
 ## Log decyzji
-- 2026-10-09 — utworzenie notatki-huba projektu dzień przed warsztatem (Wrocław, 10.10.2026, 11:00–15:00, 1000 zł); ten sam temat co poprzednie edycje, program skrócony do 4 bloków; materiały robocze w `~/Projekty/Szkolenia/UwP`
+- 2026-10-09 — utworzenie notatki-huba projektu dzień przed warsztatem (Wrocław, 10.10.2026, 11:00–15:00, 1000 zł brutto); ten sam temat co poprzednie edycje, program skrócony do 4 bloków; materiały robocze w `~/Projekty/Szkolenia/UwP`

@@ -5,6 +5,8 @@ url: "https://www.sustainablegiving.org/articles/generosity-from-generation-to-g
 published: 2026-10-09
 created: 2026-10-09
 tags:
+  - "fundraising"
+  - "organizacje-społeczne"
 ---
 
 

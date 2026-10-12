@@ -5,6 +5,8 @@ url: "https://bloomerang.com/blog/unique-fall-fundraising-ideas?utm_medium=email
 published: 2026-09-25
 created: 2026-10-09
 tags:
+  - "fundraising"
+  - "organizacje-społeczne"
 ---
 
 

@@ -5,6 +5,8 @@ url: "https://greymatterresearch.com/raising-givers/?utm_campaign=43216510-The%2
 published: 2026-03-24
 created: 2026-10-09
 tags:
+  - "fundraising"
+  - "organizacje-społeczne"
 ---
 
 

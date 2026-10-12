@@ -5,6 +5,9 @@ url: "https://pro.gofundme.com/c/resources/gen-z-nonprofit-report/?utm_campaign=
 published: 2026-05-06
 created: 2026-10-09
 tags:
+  - "fundraising"
+  - "digital-campaigning"
+  - "organizacje-społeczne"
 ---
 
 

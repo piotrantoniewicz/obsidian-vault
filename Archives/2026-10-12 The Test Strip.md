@@ -5,6 +5,9 @@ url: "https://www.linkedin.com/pulse/test-strip-bryan-neider-sub9c/"
 published: 2026-10-12
 created: 2026-10-12
 tags:
+  - "strategia-AI"
+  - "organizacje-społeczne"
+  - "szkolenia-AI"
 ---
 
 

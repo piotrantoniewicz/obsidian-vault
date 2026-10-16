@@ -5,6 +5,8 @@ url: "https://nealschaffer.com/cost-for-instagram-ads/"
 published: 2026-09-21
 created: 2026-10-16
 tags:
+  - "content-marketing"
+  - "digital-campaigning"
 ---
 
 

@@ -5,6 +5,9 @@ url: "https://www.linkedin.com/pulse/owning-what-were-trusted-bryan-neider-5vw6c
 published: 2026-10-09
 created: 2026-10-16
 tags:
+  - "strategia-AI"
+  - "fundraising"
+  - "organizacje-społeczne"
 ---
 
 

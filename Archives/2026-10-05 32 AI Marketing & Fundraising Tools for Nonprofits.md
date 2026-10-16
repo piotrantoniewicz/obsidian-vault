@@ -5,6 +5,9 @@ url: "https://www.nptechforgood.com/2026/10/05/33-ai-marketing-fundraising-tools
 published: 2026-10-05
 created: 2026-10-16
 tags:
+  - "narzędzia-AI"
+  - "fundraising"
+  - "content-marketing"
 ---
 
 

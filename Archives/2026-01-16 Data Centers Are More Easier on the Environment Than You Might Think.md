@@ -5,6 +5,7 @@ url: "https://www.deeplearning.ai/the-batch/data-centers-are-more-easier-on-the-
 published: 2026-01-16
 created: 2026-10-16
 tags:
+  - "trendy-AI"
 ---
 
 

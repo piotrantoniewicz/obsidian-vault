@@ -1,0 +1,35 @@
+---
+type: "Web"
+authors: "[[Analytics DeepLearning.AI]]"
+url: "https://www.deeplearning.ai/the-batch/data-centers-are-more-easier-on-the-environment-than-you-might-think?utm_campaign=The%20Batch&utm_medium=email&_hsenc=p2ANqtz-8A_HGggFz2vEg0m-UO8IFROItWlPq0KOI0MbchFGanZHYPINQisKqOywtpH-UVM5sHgUd1c8ZorPoHO6dANIACfXvl04ar9Dajw68EO6am7bx5sro&_hsmi=100249037313&utm_content=443357824&utm_source=hs_email"
+published: 2026-01-16
+created: 2026-10-16
+tags:
+---
+
+
+## Data Centers Are Easier on the Environment Than You Might Think How environmentally friendly are AI data centers? If we're going to use AI, there’s no better way to do it.
+
+![People golfing near a modern data center, set against a backdrop of hills and power lines at sunset.](https://www.deeplearning.ai/_next/image?url=https%3A%2F%2Fcharonhub.deeplearning.ai%2Fcontent%2Fimages%2F2026%2F01%2F2026.01.16-LETTER-2-2.jpg&w=3840&q=75)<iframe title="AudioNative ElevenLabs Player" width="100%" height="90" frameborder="no" src="https://elevenlabs.io/player/index.html?publicUserId=e20b5cfed36900db239c005920538f20ce435963e95a0a4106d34bdd6bf0e46d"></iframe>
+
+Dear friends,
+
+Many people are fighting the growth of data centers because they could increase CO <sub>2</sub> emissions, electricity prices, and water use. I’m going to stake out an unpopular view: These concerns are overstated, and blocking data center construction will actually hurt the environment more than it helps.
+
+Many politicians and local communities in the U.S. and Europe are organizing to prevent data centers from being built. While data centers impose some burden on local communities, most worries of their harm — such as CO <sub>2</sub> emissions, driving up consumer electricity prices, and water use — have been inflated beyond reality, perhaps because many people [don't trust AI](https://www.deeplearning.ai/the-batch/why-people-dont-trust-ai-and-what-to-do-about-it/?utm_campaign=The%20Batch&utm_source=hs_email&utm_medium=email&_hsenc=p2ANqtz-_fP5hcU6-ls2eTnFl8oYGz9IqTZsXvKaxynB8msUWCa1wU3yB8yj0XFkoFTiIHKFAZQs5t). Let me address the issues of carbon emissions, electricity prices, and water use in turn.
+
+**Carbon emissions.** Humanity’s growing use of computation is increasing carbon emissions. Data-center operations account for [around 1%](https://www.iea.org/reports/energy-and-ai/ai-and-climate-change) of global emissions, though this is growing rapidly. At the same time, hyperscalers’ data centers are incredibly efficient for the work they do, and concentrating computation in data centers is far better for the environment than the alternative. For example, many enterprise on-prem compute facilities use whatever power is available on the grid, which might include a mix of older, dirtier energy sources. Hyperscalers use far more renewable energy. On the key metric of PUE (total energy used by a facility divided by amount of energy used for compute; lower is better, with 1.0 being ideal), a typical enterprise on-prem facility might achieve 1.5-1.8, whereas leading hyperscalar data centers achieve a PUE of 1.2 or lower.
+
+To be fair, if humanity were to use less compute, we would reduce carbon emissions. But If we are going to use more, data centers are the cleanest way to do it; and computation produces dramatically less carbon than alternatives. Google had estimated that a single web search query produces [0.2 grams](https://cloud.google.com/blog/products/infrastructure/measuring-the-environmental-impact-of-ai-inference/?utm_campaign=The%20Batch&utm_source=hs_email&utm_medium=email&_hsenc=p2ANqtz-_fP5hcU6-ls2eTnFl8oYGz9IqTZsXvKaxynB8msUWCa1wU3yB8yj0XFkoFTiIHKFAZQs5t) of CO <sub>2</sub> emissions. In contrast, driving from my home to the local library to look up a fact would generate about 400 grams. Google also recently estimated that the median Gemini LLM app query produces a surprisingly low 0.03 grams of CO <sub>2</sub> emissions), and uses less energy than watching 9 seconds of television. AI is remarkably efficient per query — its aggregate impact comes from sheer volume. Major cloud companies continue to push efficiency gains, and the trajectory is promising.
+
+**Electricity prices.** Beyond concerns about energy use, data centers have been criticized for increasing electricity demand and therefore driving up electric utility prices for ordinary consumers. The reality is more complicated. [One of the best studies](https://www.sciencedirect.com/science/article/pii/S1040619025000612?utm_campaign=The%20Batch&utm_source=hs_email&utm_medium=email&_hsenc=p2ANqtz-_fP5hcU6-ls2eTnFl8oYGz9IqTZsXvKaxynB8msUWCa1wU3yB8yj0XFkoFTiIHKFAZQs5t#sec0020) I’ve seen, by Lawrence Berkeley National Laboratory, found that “state-level load growth … has tended to reduce average retail electricity prices.” The main reason is data centers share the fixed costs of the grid. If a consumer can split the costs of transmission cables with a large data center, then the consumer ends up paying less. Of course, even if data centers reduce electricity bills on average, that’s cold comfort for consumers in the instances (perhaps due to poor local planning or regulations) where rates do increase.
+
+**Water use.** Finally, many data centers use evaporative cooling to dissipate heat. But this uses less water than you might think. To put this in context, golf courses in the U.S. use around 500 billion gallons annually of water to irrigate their turf. In contrast, U.S. data centers consume far less. A common estimate is [17 billion gallons](https://escholarship.org/uc/item/32d6m0d1?utm_campaign=The%20Batch&utm_source=hs_email&utm_medium=email&_hsenc=p2ANqtz-_fP5hcU6-ls2eTnFl8oYGz9IqTZsXvKaxynB8msUWCa1wU3yB8yj0XFkoFTiIHKFAZQs5t), or maybe around 10x that if we include water use from energy generation. Golf is a wonderful sport, but I would humbly argue that data centers' societal benefit is greater, thus we should not be more alarmed by data center water usage than golf course usage. Having said that, a shortcoming of these aggregate figures is that in some communities, data center water usage might exceed 10% of local usage, and thus needs to be planned for.
+
+Data centers do impose costs on communities, and these costs have to be planned and accounted for. But they are also far less damaging — and more environmentally friendly — than their critics claim. There remains important work to do to make them even more efficient. But the most important point is that data centers are incredibly efficient for the work they do. They have a negative impact because we want them to do a lot of work for us. If we want this work done — and we do — then building more data centers, with proper local planning, is good for both the environment and society.
+
+Keep building!
+
+Andrew
+
+[![Become an AI professional with one of the world's most popular Machine Learning courses. #BreakIntoAI with Machine Learning Specialization](https://www.deeplearning.ai/_next/image?url=%2Fdlai%2Fassets%2Fthe-batch%2Fbanners%2Fmachine-learning-specialization.png&w=640&q=75&dpl=dpl_AzQyYgeYQYwFtKKhHo5UHUF4txMS)](https://www.deeplearning.ai/courses/machine-learning-specialization/)

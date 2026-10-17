@@ -1,7 +1,7 @@
 ---
 categories:
   - Project
-status: Aktywny
+status: Zakończony
 created: 2026-10-09
 due: 2026-10-10
 area: "[[Szkolenia i warsztaty AI]]"
@@ -18,7 +18,7 @@ Przeprowadzić warsztat „AI dla przedsiębiorczyń: otwórz i rozwiń własny 
 **Klient:** Fundacja Ukrainka w Polsce · **Format:** 4 h warsztatu stacjonarnego, praca na żywo na narzędziach · **Grupa:** przedsiębiorczynie / kobiety zakładające biznes
 
 ## Termin
-- [ ] **Wrocław — 10.10.2026, 11:00–15:00** — warsztat stacjonarny (4 h)
+- [x] **Wrocław — 10.10.2026, 11:00–15:00** — warsztat stacjonarny (4 h) — zrealizowany
 
 ## Program (jesień 2026 — 4 bloki)
 Źródło planu dnia: `wstep-szkolenie-AI.html`; prompty do każdego bloku: `index.html` (Biblioteka promptów, jesień 2026).
@@ -37,15 +37,16 @@ Przeprowadzić warsztat „AI dla przedsiębiorczyń: otwórz i rozwiń własny 
 **Zmiany względem edycji wiosenno-letnich:** 7 bloków → 4; prospecting i Notion jako CRM scalone w jeden blok; wizytówka Google Maps wypadła z programu. W bibliotece promptów doszła **sekcja 0 „Zanim zaczniesz"** — projekt „Mój Biznes" w Claude z profilem pracy (testy FRIS/DISC/Gallup albo krótki wywiad) i asystentem-challengerem, na którym opierają się wybór niszy i ICP.
 
 ## Finanse
-- Wynagrodzenie: **1000 zł brutto** (4 h × 250 zł brutto)
+- Wynagrodzenie: **1000 zł brutto** (4 h × 250 zł brutto) — **zapłacone**
 
-## Kolejne kroki
-- [ ] Przeprowadzić warsztat — 10.10.2026, Wrocław, 11:00–15:00
+## Kolejne kroki (domknięcie)
+- [x] Przeprowadzić warsztat — 10.10.2026, Wrocław, 11:00–15:00
 - [ ] Rozesłać uczestniczkom link do materiałów (dobryai.pl/szkolenie): prompty, szablon Notion, lista narzędzi z cenami
-- [ ] Wystawić dokumenty rozliczeniowe (jeśli w zakresie)
+- [x] Wystawić dokumenty rozliczeniowe (jeśli w zakresie) — wynagrodzenie zapłacone
 - [ ] Zebrać feedback i zapisać wnioski metodyczne do [[Szkolenia i warsztaty AI]] — zwłaszcza czy skrócony program 4 bloków się sprawdził
 
 ## Powiązane zasoby
+- [[2026-10-18 Szkolenie AI dla przedsiębiorczyń — Fundacja Ukrainka w Polsce (Warszawa II)]] — kolejna edycja, ten sam program 4 bloków (Warszawa, 18.10.2026)
 - [[2026-05-16 Szkolenie AI dla przedsiębiorczyń — Fundacja Ukrainka w Polsce]] — pierwsza edycja (Wrocław, 7 bloków)
 - [[2026-07-04 Szkolenie AI dla przedsiębiorczyń — Fundacja Ukrainka w Polsce (Warszawa)]] — druga edycja (Warszawa, 7 bloków)
 - `~/Projekty/Szkolenia/UwP/wstep-szkolenie-AI.html` — prezentacja wstępna z planem dnia (wersja jesienna)
@@ -56,3 +57,4 @@ Przeprowadzić warsztat „AI dla przedsiębiorczyń: otwórz i rozwiń własny 
 
 ## Log decyzji
 - 2026-10-09 — utworzenie notatki-huba projektu dzień przed warsztatem (Wrocław, 10.10.2026, 11:00–15:00, 1000 zł brutto); ten sam temat co poprzednie edycje, program skrócony do 4 bloków; materiały robocze w `~/Projekty/Szkolenia/UwP`
+- 2026-10-17 — projekt zamknięty: warsztat zrealizowany, wynagrodzenie (1000 zł brutto) zapłacone; kolejna edycja tego samego programu: [[2026-10-18 Szkolenie AI dla przedsiębiorczyń — Fundacja Ukrainka w Polsce (Warszawa II)]]

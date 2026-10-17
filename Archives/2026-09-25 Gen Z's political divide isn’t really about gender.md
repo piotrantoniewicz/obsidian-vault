@@ -5,6 +5,8 @@ url: "https://feps-europe.eu/gen-zs-political-divide-isnt-really-about-gender/?l
 published: 2026-09-25
 created: 2026-10-16
 tags:
+  - "framing"
+  - "digital-campaigning"
 ---
 
 

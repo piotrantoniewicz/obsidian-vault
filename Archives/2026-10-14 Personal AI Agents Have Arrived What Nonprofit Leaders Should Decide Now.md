@@ -5,6 +5,9 @@ url: "https://journeytoimpactai.com/blog/personal-ai-agents-have-arrived/"
 published: 2026-10-14
 created: 2026-10-15
 tags:
+  - "strategia-AI"
+  - "narzędzia-AI"
+  - "organizacje-społeczne"
 ---
 
 

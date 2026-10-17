@@ -5,6 +5,9 @@ url: "https://www.linkedin.com/pulse/fear-loathing-ai-land-bryan-neider-pwrbc/"
 published: 2026-10-14
 created: 2026-10-15
 tags:
+  - "strategia-AI"
+  - "organizacje-społeczne"
+  - "trendy-AI"
 ---
 
 

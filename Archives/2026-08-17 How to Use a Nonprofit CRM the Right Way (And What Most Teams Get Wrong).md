@@ -5,6 +5,9 @@ url: "https://www.causevox.com/blog/how-to-use-a-nonprofit-crm/?cv_t=yP2YEWqGl3n
 published: 2026-08-17
 created: 2026-10-16
 tags:
+  - "fundraising"
+  - "organizacje-społeczne"
+  - "narzędzia-AI"
 ---
 
 

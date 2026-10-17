@@ -5,6 +5,8 @@ url: "https://weareastral.co.uk/thevault/italys-email-tracking-pixel-deadline-is
 published: 2026-10-13
 created: 2026-10-16
 tags:
+  - "digital-campaigning"
+  - "fundraising"
 ---
 
 

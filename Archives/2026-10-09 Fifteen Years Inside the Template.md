@@ -5,6 +5,9 @@ url: "https://kylebehrend.substack.com/p/fifteen-years-inside-the-template?utm_s
 published: 2026-10-09
 created: 2026-10-16
 tags:
+  - "vibe-coding"
+  - "narzędzia-AI"
+  - "organizacje-społeczne"
 ---
 
 

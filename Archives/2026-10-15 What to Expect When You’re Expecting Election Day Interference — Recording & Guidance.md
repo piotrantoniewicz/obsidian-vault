@@ -5,6 +5,9 @@ url: "https://www.mrss.com/lab/what-to-expect-when-youre-expecting-election-day-
 published: 2026-10-15
 created: 2026-10-16
 tags:
+  - "digital-campaigning"
+  - "framing"
+  - "organizacje-społeczne"
 ---
 
 

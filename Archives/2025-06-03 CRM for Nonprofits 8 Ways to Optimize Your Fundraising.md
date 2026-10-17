@@ -5,6 +5,9 @@ url: "https://www.causevox.com/blog/crm-for-nonprofits/?cv_t=yP2YEWqGl3nA38Lm.5V
 published: 2025-06-03
 created: 2026-10-16
 tags:
+  - "fundraising"
+  - "narzędzia-AI"
+  - "automatyzacja"
 ---
 
 

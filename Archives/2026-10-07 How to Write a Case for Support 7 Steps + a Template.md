@@ -5,6 +5,9 @@ url: "https://www.donordock.com/articles/case-for-support?utm_campaign=19809586-
 published: 2026-10-07
 created: 2026-10-16
 tags:
+  - "fundraising"
+  - "content-marketing"
+  - "organizacje-społeczne"
 ---
 
 

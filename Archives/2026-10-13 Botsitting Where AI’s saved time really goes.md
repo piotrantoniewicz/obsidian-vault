@@ -5,6 +5,9 @@ url: "https://behavioralinsight.substack.com/p/botsitting-where-ais-saved-time-r
 published: 2026-10-13
 created: 2026-10-16
 tags:
+  - "strategia-AI"
+  - "trendy-AI"
+  - "szkolenia-AI"
 ---
 
 
